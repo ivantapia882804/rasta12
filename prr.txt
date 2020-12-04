@@ -374,6 +374,9 @@ http://cinematicket.club/cantp.php?c=2091&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=2402&p=3&k=tecnotv&f=.m3u8 
 
 
+#EXTINF:-1, PLATO ROJO
+rtsp://
+
 #EXTINF:-1, Aprende En Casa 2 Preescolar y Primaria (5.2/11.2)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/472/6?f=.m3u8
 #EXTINF:-1, TV UNAM
@@ -760,7 +763,7 @@ http://miap.xyz/225/serverkey.m3u8
 http://miap.xyz/228/serverkey.m3u8
 #EXTINF:-1, Latele
 http://miap.xyz/230/serverkey.m3u8
-#EXTINF:-1, Global
+#EXTINF:-1, Movistar Deportes
 http://miap.xyz/231/serverkey.m3u8
 #EXTINF:-1, Panamericana
 http://miap.xyz/234/serverkey.m3u8
@@ -773,7 +776,7 @@ http://miap.xyz/237/serverkey.m3u8
 http://miap.xyz/239/serverkey.m3u8
 #EXTINF:-1, Univisión PR
 http://miap.xyz/240/serverkey.m3u8
-#EXTINF-1, WAPA
+#EXTINF:-1, WAPA
 http://miap.xyz/241/serverkey.m3u8
 #EXTINF:-1, WAPA Deportes
 http://miap.xyz/242/serverkey.m3u8
@@ -1122,7 +1125,7 @@ https://blackghost.live/play/cine-123.php?c=225&f=.m3u8
 https://blackghost.live/play/cine-123.php?c=228&f=.m3u8
 #EXTINF:-1, Latele
 https://blackghost.live/play/cine-123.php?c=230&f=.m3u8
-#EXTINF:-1, Global
+#EXTINF:-1, Movistar Deportes
 https://blackghost.live/play/cine-123.php?c=231&f=.m3u8
 #EXTINF:-1, Panamericana
 https://blackghost.live/play/cine-123.php?c=234&f=.m3u8
@@ -1135,7 +1138,7 @@ https://blackghost.live/play/cine-123.php?c=237&f=.m3u8
 https://blackghost.live/play/cine-123.php?c=239&f=.m3u8
 #EXTINF:-1, Univisión PR
 https://blackghost.live/play/cine-123.php?c=240&f=.m3u8
-#EXTINF-1, WAPA
+#EXTINF:-1, WAPA
 https://blackghost.live/play/cine-123.php?c=241&f=.m3u8
 #EXTINF:-1, WAPA Deportes
 https://blackghost.live/play/cine-123.php?c=242&f=.m3u8
@@ -1857,7 +1860,7 @@ https://tecnoplay.club/doom/principal.php?c=225&f=.m3u8
 https://tecnoplay.club/doom/principal.php?c=228&f=.m3u8
 #EXTINF:-1, Latele
 https://tecnoplay.club/doom/principal.php?c=230&f=.m3u8
-#EXTINF:-1, Global
+#EXTINF:-1, Movistar Deportes
 https://tecnoplay.club/doom/principal.php?c=231&f=.m3u8
 #EXTINF:-1, Panamericana
 https://tecnoplay.club/doom/principal.php?c=234&f=.m3u8
@@ -1870,7 +1873,7 @@ https://tecnoplay.club/doom/principal.php?c=237&f=.m3u8
 https://tecnoplay.club/doom/principal.php?c=239&f=.m3u8
 #EXTINF:-1, Univisión PR
 https://tecnoplay.club/doom/principal.php?c=240&f=.m3u8
-#EXTINF-1, WAPA
+#EXTINF:-1, WAPA
 https://tecnoplay.club/doom/principal.php?c=241&f=.m3u8
 #EXTINF:-1, WAPA Deportes
 https://tecnoplay.club/doom/principal.php?c=242&f=.m3u8
