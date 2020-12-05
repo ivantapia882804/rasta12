@@ -55,7 +55,7 @@ http://cinematicket.club/cantp.php?c=1784&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=1785&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1, Canal Once 
 http://cinematicket.club/cantp.php?c=1942&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, MVS TV
+#EXTINF:-1, MVS TV (XHSAW-TDT4)
 http://cinematicket.club/cantp.php?c=2149&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1, TVC
 http://cinematicket.club/cantp.php?c=2156&p=3&k=tecnotv&f=.m3u8 
@@ -374,17 +374,53 @@ http://cinematicket.club/cantp.php?c=2091&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=2402&p=3&k=tecnotv&f=.m3u8 
 
 
-#EXTINF:-1, PLATO ROJO
+#EXTINF:-1, VARIADOS
 rtsp://
 
+#EXTINF:-1, Azteca Uno
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/495/1?f=.m3u8
+#EXTINF:-1, Las Estrellas
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/191/1?f=.m3u8
+#EXTINF:-1, Imagen Television
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/598/1?f=.m3u8
+#EXTINF:-1, Foro TV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/193/1?f=.m3u8
+#EXTINF:-1, Canal 5
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/192/1?f=.m3u8
+#EXTINF:-1, Multimedios
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/234/1?f=.m3u8
+#EXTINF:-1, Milenio Televisión
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/199/1?f=.m3u8
+#EXTINF:-1, Multimedios (XHAW-TDT)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97868/1?f=.m3u8
+#EXTINF:-1, MVS TV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/307/1?f=.m3u8
+#EXTINF:-1, Azteca 7
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/194/1?f=.m3u8
+#EXTINF:-1, Canal Once
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/197/1?f=.m3u8
 #EXTINF:-1, Aprende En Casa 2 Preescolar y Primaria (5.2/11.2)
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/472/6?f=.m3u8
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/472/1?f=.m3u8
+#EXTINF:-1, Canal Catorce
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/471/6?f=.m3u8
+#EXTINF:-1, Aprende En Casa 2 Bachillerato (14.2/22.1 INT)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/469/1?f=.m3u8
 #EXTINF:-1, TV UNAM
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/239/6?f=.m3u8
-#EXTINF:-1, Bein Ñ
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/239/1?f=.m3u8
+#EXTINF:-1, Canal 22
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/201/1?f=.m3u8
+#EXTINF:-1, Canal 22.2 (DELAY 3.2/22.1)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94119/6?f=.m3u8
+#EXTINF:-1, Bein Ñ HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88789/10?f=.m3u8
+#EXTINF:-1, Bein Ñ SD
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/10?f=.m3u8
+#EXTINF:-1, ESPN
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97908/10?f=.m3u8
 #EXTINF:-1, ESPN Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/10?f=.m3u8
+#EXTINF:-1, TUDN
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/290/10?f=.m3u8
 #EXTINF:-1, TUDN USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/10?f=.m3u8
 #EXTINF:-1, Universo
@@ -1193,7 +1229,7 @@ https://blackghost.live/play/totalp1-123.php?c=1784&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-123.php?c=1785&p=3&k=black&f=.m3u8
 #EXTINF:-1, Canal Once
 https://blackghost.live/play/totalp1-123.php?c=1942&p=3&k=black&f=.m3u8
-#EXTINF:-1, MVS TV
+#EXTINF:-1, MVS TV (XHSAW-TDT4)
 https://blackghost.live/play/totalp1-123.php?c=2149&p=3&k=black&f=.m3u8
 #EXTINF:-1, TVC
 https://blackghost.live/play/totalp1-123.php?c=2156&p=3&k=black&f=.m3u8
@@ -1926,6 +1962,9 @@ https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores4.smil/playlist.m
 #EXTINF:-1, Aprende En Casa 2 Secundaria 3.2/20.1 | SD
 http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 
+#EXTINF:-1, Aprende En Casa 2 Bachillerato 6.3 | HD
+http://mdstrm.com/live-stream-playlist_2500/5cfe8974ef9acc25607a7dec.m3u8?
+
 #EXTINF:-1, Quiero TV | SD
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 
@@ -1942,28 +1981,28 @@ http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
 #EXTINF:-1, MULTIMEDIOS MONTERREY
-http://mdstrm.com/live-stream-playlist_1200/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
 
 #EXTINF:-1, MULTIMEDIOS CDMX
-http://mdstrm.com/live-stream-playlist_1200/5f2d9d6ff17144074bd8a284.m3u8?
+http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
 
 #EXTINF:-1, MULTIMEDIOS LAGUNA
-http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8?
+http://mdstrm.com/live-stream-playlist_2500/57bf686a61ff39e1085d43e1.m3u8?
 
 #EXTINF:-1, MULTIMEDIOS GUADALAJARA
-http://mdstrm.com/live-stream-playlist_1200/5c54d38ca392a5119bb0aa0d.m3u8?
+http://mdstrm.com/live-stream-playlist_2500/5c54d38ca392a5119bb0aa0d.m3u8?
 
 #EXTINF:-1, MULTIMEDIOS PUEBLA
-http://mdstrm.com/live-stream-playlist_1200/5d56ed29c92dd106ff01543b.m3u8?
+http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
 
 #EXTINF:-1, MULTIMEDIOS BAJÍO
-http://mdstrm.com/live-stream-playlist_1200/5d4b0fec848918070128c8cb.m3u8?
+http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
 
 #EXTINF:-1, MULTIMEDIOS SALTILLO
-http://mdstrm.com/live-stream-playlist_1200/5d5d51a4e9a40e25f4a0332c.m3u8?
+http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
 
 #EXTINF:-1, MULTIMEDIOS JUAREZ
-http://mdstrm.com/live-stream-playlist_1200/5d9e440d675235586a92be7f.m3u8?
+http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
 
 #EXTINF:-1, TELERITMO
 http://mdstrm.com/live-stream-playlist_800/57b4dc126338448314449d0c.m3u8
