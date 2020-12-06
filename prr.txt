@@ -1,1909 +1,1889 @@
 #EXTM3U
 
 
-#EXTINF:-1, ACTÍVALOS EN LAS APPS
+#EXTINF:-1, group-title="ACLARACIÓN", ACTÍVALOS EN LAS APPS
 http://
-#EXTINF:-1, PG O BG
+#EXTINF:-1, group-title="ACLARACIÓN", PG O BG
 http://
-#EXTINF:-1, SI NO CARGAN
+#EXTINF:-1, group-title="ACLARACIÓN", SI NO CARGAN
 http://
 
-#EXTINF:-1, TECNOTP
-rtsp://
 
 *** NACIONALES ***
-#EXTINF:-1, Azteca Uno (HD)
+#EXTINF:-1, group-title="TECNOTP", Azteca Uno (HD)
 http://cinematicket.club/cantp.php?c=7&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Clic
+#EXTINF:-1, group-title="TECNOTP", Clic
 http://cinematicket.club/cantp.php?c=11&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Las Estrellas
+#EXTINF:-1, group-title="TECNOTP", Las Estrellas
 http://cinematicket.club/cantp.php?c=17&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Foro TV
+#EXTINF:-1, group-title="TECNOTP", Foro TV
 http://cinematicket.club/cantp.php?c=19&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Canal 5
+#EXTINF:-1, group-title="TECNOTP", Canal 5
 http://cinematicket.club/cantp.php?c=20&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Azteca 7
+#EXTINF:-1, group-title="TECNOTP", Azteca 7
 http://cinematicket.club/cantp.php?c=21&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, NU9VE
+#EXTINF:-1, group-title="TECNOTP", NU9VE
 http://cinematicket.club/cantp.php?c=24&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Canal Once
+#EXTINF:-1, group-title="TECNOTP", Canal Once
 http://cinematicket.club/cantp.php?c=25&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Azteca Uno
+#EXTINF:-1, group-title="TECNOTP", Azteca Uno
 http://cinematicket.club/cantp.php?c=27&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Teleformula
+#EXTINF:-1, group-title="TECNOTP", Teleformula
 http://cinematicket.club/cantp.php?c=32&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Mexiquense Televisión
+#EXTINF:-1, group-title="TECNOTP", Mexiquense Televisión
 http://cinematicket.club/cantp.php?c=44&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, ADN 40
+#EXTINF:-1, group-title="TECNOTP", ADN 40
 http://cinematicket.club/cantp.php?c=40&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Corazón
+#EXTINF:-1, group-title="TECNOTP", Corazón
 http://cinematicket.club/cantp.php?c=70&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Mundo
+#EXTINF:-1, group-title="TECNOTP", Mundo
 http://cinematicket.club/cantp.php?c=84&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Azteca 7 (HD)
+#EXTINF:-1, group-title="TECNOTP", Azteca 7 (HD)
 http://cinematicket.club/cantp.php?c=317&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Azteca 7
+#EXTINF:-1, group-title="TECNOTP", Azteca 7
 http://cinematicket.club/cantp.php?c=322&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Imagen Televisión
+#EXTINF:-1, group-title="TECNOTP", Imagen Televisión
 http://cinematicket.club/cantp.php?c=2298&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Imagen Multicast
+#EXTINF:-1, group-title="TECNOTP", Imagen Multicast
 http://cinematicket.club/cantp.php?c=1449&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, Multimedios Monterrey (XHAW-TDT)
+#EXTINF:-1, group-title="TECNOTP", Multimedios Monterrey (XHAW-TDT)
 http://cinematicket.club/cantp.php?c=2305&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Aprende En Casa 2 Bachillerato (ESPEJO 14.2/22.1)
+#EXTINF:-1, group-title="TECNOTP", Aprende En Casa 2 Bachillerato (ESPEJO 14.2/22.1)
 http://cinematicket.club/cantp.php?c=401&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Multimedios
+#EXTINF:-1, group-title="TECNOTP", Multimedios
 http://cinematicket.club/cantp.php?c=1253&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Aprende En Casa 2 Bachillerato (6.3)
+#EXTINF:-1, group-title="TECNOTP", Aprende En Casa 2 Bachillerato (6.3)
 http://cinematicket.club/cantp.php?c=1943&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, NU9VE
+#EXTINF:-1, group-title="TECNOTP", NU9VE
 http://cinematicket.club/cantp.php?c=1783&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Las Estrellas (HD)
+#EXTINF:-1, group-title="TECNOTP", Las Estrellas (HD)
 http://cinematicket.club/cantp.php?c=1784&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Foro TV (HD)
+#EXTINF:-1, group-title="TECNOTP", Foro TV (HD)
 http://cinematicket.club/cantp.php?c=4&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, Canal 5 (HD)
+#EXTINF:-1, group-title="TECNOTP", Canal 5 (HD)
 http://cinematicket.club/cantp.php?c=1785&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, ADN 40 (HD)
+#EXTINF:-1, group-title="TECNOTP", ADN 40 (HD)
 http://cinematicket.club/cantp.php?c=184&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Canal Once (HD)
+#EXTINF:-1, group-title="TECNOTP", Canal Once (HD)
 http://cinematicket.club/cantp.php?c=1942&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, MVS TV (XHSAW-TDT4)
+#EXTINF:-1, group-title="TECNOTP", MVS TV (XHSAW-TDT4)
 http://cinematicket.club/cantp.php?c=2149&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, TVC
+#EXTINF:-1, group-title="TECNOTP", TVC
 http://cinematicket.club/cantp.php?c=2156&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, TV Cuatro
+#EXTINF:-1, group-title="TECNOTP", TV Cuatro
 http://cinematicket.club/cantp.php?c=2274&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Televisa Monterrey (XHCNL-TDT)
+#EXTINF:-1, group-title="TECNOTP", Televisa Monterrey (XHCNL-TDT)
 http://cinematicket.club/cantp.php?c=2307&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Televisa Puebla
+#EXTINF:-1, group-title="TECNOTP", Televisa Puebla
 http://cinematicket.club/cantp.php?c=2312&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, A+ (XHFN-TDT2)
+#EXTINF:-1, group-title="TECNOTP", A+ (XHFN-TDT2)
 http://cinematicket.club/cantp.php?c=2316&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, TV Más
+#EXTINF:-1, group-title="TECNOTP", TV Más
 http://cinematicket.club/cantp.php?c=2324&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Canal del Congreso
+#EXTINF:-1, group-title="TECNOTP", Canal del Congreso
 http://cinematicket.club/cantp.php?c=2331&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Multimedios Bajío (XHLGG-TDT)
+#EXTINF:-1, group-title="TECNOTP", Multimedios Bajío (XHLGG-TDT)
 http://cinematicket.club/cantp.php?c=2352&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Imagen Televisión (HD)
+#EXTINF:-1, group-title="TECNOTP", Imagen Televisión (HD)
 http://cinematicket.club/cantp.php?c=2606&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Multimedios (HD)
+#EXTINF:-1, group-title="TECNOTP", Multimedios (HD)
 http://cinematicket.club/cantp.php?c=2882&p=3&k=tecnotv&f=.m3u8  
 
 
 *** INFANTILES ***
-#EXTINF:-1, Tooncast
+#EXTINF:-1, group-title="TECNOTP", Tooncast
 http://cinematicket.club/cantp.php?c=108&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Discovery Kids
+#EXTINF:-1, group-title="TECNOTP", Discovery Kids
 http://cinematicket.club/cantp.php?c=109&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Nick
+#EXTINF:-1, group-title="TECNOTP", Nick
 http://cinematicket.club/cantp.php?c=110&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Disney XD
+#EXTINF:-1, group-title="TECNOTP", Disney XD
 http://cinematicket.club/cantp.php?c=111&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Cartoon Network
+#EXTINF:-1, group-title="TECNOTP", Cartoon Network
 http://cinematicket.club/cantp.php?c=112&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Disney Channel
+#EXTINF:-1, group-title="TECNOTP", Disney Channel
 http://cinematicket.club/cantp.php?c=113&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Boomerang
+#EXTINF:-1, group-title="TECNOTP", Boomerang
 http://cinematicket.club/cantp.php?c=115&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Baby TV
+#EXTINF:-1, group-title="TECNOTP", Baby TV
 http://cinematicket.club/cantp.php?c=116&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Nick Jr.
+#EXTINF:-1, group-title="TECNOTP", Nick Jr.
 http://cinematicket.club/cantp.php?c=117&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Disney Junior
+#EXTINF:-1, group-title="TECNOTP", Disney Junior
 http://cinematicket.club/cantp.php?c=118&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Baby First
+#EXTINF:-1, group-title="TECNOTP", Baby First
 http://cinematicket.club/cantp.php?c=1984&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Teennick
+#EXTINF:-1, group-title="TECNOTP", Teennick
 http://cinematicket.club/cantp.php?c=2147&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, Nat Geo Kids
+#EXTINF:-1, group-title="TECNOTP", Nat Geo Kids
 http://cinematicket.club/cantp.php?c=2373&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, BitMe
+#EXTINF:-1, group-title="TECNOTP", BitMe
 http://cinematicket.club/cantp.php?c=2591&p=3&k=tecnotv&f=.m3u8
 
 *** CINE ***
-#EXTINF:-1, TBS
+#EXTINF:-1, group-title="TECNOTP", TBS
 http://cinematicket.club/cantp.php?c=81&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, De Película Plus
+#EXTINF:-1, group-title="TECNOTP", De Película Plus
 http://cinematicket.club/cantp.php?c=121&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Golden Plus
+#EXTINF:-1, group-title="TECNOTP", Golden Plus
 http://cinematicket.club/cantp.php?c=122&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Golden
+#EXTINF:-1, group-title="TECNOTP", Golden
 http://cinematicket.club/cantp.php?c=123&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Golden Edge
+#EXTINF:-1, group-title="TECNOTP", Golden Edge
 http://cinematicket.club/cantp.php?c=124&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, TNT
+#EXTINF:-1, group-title="TECNOTP", TNT
 http://cinematicket.club/cantp.php?c=126&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, TCM
+#EXTINF:-1, group-title="TECNOTP", TCM
 http://cinematicket.club/cantp.php?c=128&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Space
+#EXTINF:-1, group-title="TECNOTP", Space
 http://cinematicket.club/cantp.php?c=129&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, AMC
+#EXTINF:-1, group-title="TECNOTP", AMC
 http://cinematicket.club/cantp.php?c=131&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Studio Universal
+#EXTINF:-1, group-title="TECNOTP", Studio Universal
 http://cinematicket.club/cantp.php?c=132&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, I-Sat
+#EXTINF:-1, group-title="TECNOTP", I-Sat
 http://cinematicket.club/cantp.php?c=135&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Europa Europa
+#EXTINF:-1, group-title="TECNOTP", Europa Europa
 http://cinematicket.club/cantp.php?c=136&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Film & Arts
+#EXTINF:-1, group-title="TECNOTP", Film & Arts
 http://cinematicket.club/cantp.php?c=137&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, FXM
+#EXTINF:-1, group-title="TECNOTP", FXM
 http://cinematicket.club/cantp.php?c=138&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, FXM
+#EXTINF:-1, group-title="TECNOTP", FXM
 http://cinematicket.club/cantp.php?c=332&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, Fox Premium Series
+#EXTINF:-1, group-title="TECNOTP", Fox Premium Series
 http://cinematicket.club/cantp.php?c=139&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Morbido TV
+#EXTINF:-1, group-title="TECNOTP", Morbido TV
 http://cinematicket.club/cantp.php?c=140&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Fox Premium Movies 
+#EXTINF:-1, group-title="TECNOTP", Fox Premium Movies 
 http://cinematicket.club/cantp.php?c=146&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Cinecanal
+#EXTINF:-1, group-title="TECNOTP", Cinecanal
 http://cinematicket.club/cantp.php?c=149&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Cinemax
+#EXTINF:-1, group-title="TECNOTP", Cinemax
 http://cinematicket.club/cantp.php?c=158&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, AMC
+#EXTINF:-1, group-title="TECNOTP", AMC
 http://cinematicket.club/cantp.php?c=328&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, De Película
+#EXTINF:-1, group-title="TECNOTP", De Película
 http://cinematicket.club/cantp.php?c=335&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Fox Premium Action
+#EXTINF:-1, group-title="TECNOTP", Fox Premium Action
 http://cinematicket.club/cantp.php?c=336&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Paramount Network
+#EXTINF:-1, group-title="TECNOTP", Paramount Network
 http://cinematicket.club/cantp.php?c=1726&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Fox Premium Cinema
+#EXTINF:-1, group-title="TECNOTP", Fox Premium Cinema
 http://cinematicket.club/cantp.php?c=1729&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Fox Premium Classics
+#EXTINF:-1, group-title="TECNOTP", Fox Premium Classics
 http://cinematicket.club/cantp.php?c=1732&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, Cinema
+#EXTINF:-1, group-title="TECNOTP", Cinema
 http://cinematicket.club/cantp.php?c=1787&p=3&k=tecnotv&f=.m3u8 
 
 *** ENTRETENIMIENTO ***
-#EXTINF:-1, Telemundo Internacional
+#EXTINF:-1, group-title="TECNOTP", Telemundo Internacional
 http://cinematicket.club/cantp.php?c=85&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Fox Channel
+#EXTINF:-1, group-title="TECNOTP", Fox Channel
 http://cinematicket.club/cantp.php?c=46&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, Sony Channel
+#EXTINF:-1, group-title="TECNOTP", Sony Channel
 http://cinematicket.club/cantp.php?c=48&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Warner
+#EXTINF:-1, group-title="TECNOTP", Warner
 http://cinematicket.club/cantp.php?c=52&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, E!
+#EXTINF:-1, group-title="TECNOTP", E!
 http://cinematicket.club/cantp.php?c=55&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Universal
+#EXTINF:-1, group-title="TECNOTP", Universal
 http://cinematicket.club/cantp.php?c=57&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, SYFY
+#EXTINF:-1, group-title="TECNOTP", SYFY
 http://cinematicket.club/cantp.php?c=59&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, FX
+#EXTINF:-1, group-title="TECNOTP", FX
 http://cinematicket.club/cantp.php?c=60&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, A&E
+#EXTINF:-1, group-title="TECNOTP", A&E
 http://cinematicket.club/cantp.php?c=62&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, AXN
+#EXTINF:-1, group-title="TECNOTP", AXN
 http://cinematicket.club/cantp.php?c=64&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, TNT Series
+#EXTINF:-1, group-title="TECNOTP", TNT Series
 http://cinematicket.club/cantp.php?c=71&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Glitz
+#EXTINF:-1, group-title="TECNOTP", Glitz
 http://cinematicket.club/cantp.php?c=76&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, ElGourmet
+#EXTINF:-1, group-title="TECNOTP", ElGourmet
 http://cinematicket.club/cantp.php?c=74&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, Fox Life
+#EXTINF:-1, group-title="TECNOTP", Fox Life
 http://cinematicket.club/cantp.php?c=77&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Distrito Comedia
+#EXTINF:-1, group-title="TECNOTP", Distrito Comedia
 http://cinematicket.club/cantp.php?c=78&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, TruTV
+#EXTINF:-1, group-title="TECNOTP", TruTV
 http://cinematicket.club/cantp.php?c=79&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Tlnovelas
+#EXTINF:-1, group-title="TECNOTP", Tlnovelas
 http://cinematicket.club/cantp.php?c=83&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Lifetime
+#EXTINF:-1, group-title="TECNOTP", Lifetime
 http://cinematicket.club/cantp.php?c=94&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, Antena 3 Internacional
+#EXTINF:-1, group-title="TECNOTP", Antena 3 Internacional
 http://cinematicket.club/cantp.php?c=199&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Fox Channel (HD)
+#EXTINF:-1, group-title="TECNOTP", Fox Channel (HD)
 http://cinematicket.club/cantp.php?c=201&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, Warner (HD)
+#EXTINF:-1, group-title="TECNOTP", Warner (HD)
 http://cinematicket.club/cantp.php?c=205&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Universal (HD)
+#EXTINF:-1, group-title="TECNOTP", Universal (HD)
 http://cinematicket.club/cantp.php?c=207&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, FX (HD)
+#EXTINF:-1, group-title="TECNOTP", FX (HD)
 http://cinematicket.club/cantp.php?c=209&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, TruTV (HD)
+#EXTINF:-1, group-title="TECNOTP", TruTV (HD)
 http://cinematicket.club/cantp.php?c=215&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, ¡Hola! TV
+#EXTINF:-1, group-title="TECNOTP", ¡Hola! TV
 http://cinematicket.club/cantp.php?c=219&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Comedy Central
+#EXTINF:-1, group-title="TECNOTP", Comedy Central
 http://cinematicket.club/cantp.php?c=340&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Unicable
+#EXTINF:-1, group-title="TECNOTP", Unicable
 http://cinematicket.club/cantp.php?c=1499&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Mas Chic
+#EXTINF:-1, group-title="TECNOTP", Mas Chic
 http://cinematicket.club/cantp.php?c=1842&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, A3 Series
+#EXTINF:-1, group-title="TECNOTP", A3 Series
 http://cinematicket.club/cantp.php?c=2113&p=3&k=tecnotv&f=.m3u8 
 
 *** DEPORTES ***
-#EXTINF:-1, ESPN Extra
+#EXTINF:-1, group-title="TECNOTP", ESPN Extra
 http://cinematicket.club/cantp.php?c=167&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, ESPN
+#EXTINF:-1, group-title="TECNOTP", ESPN
 http://cinematicket.club/cantp.php?c=168&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, ESPN 2
+#EXTINF:-1, group-title="TECNOTP", ESPN 2
 http://cinematicket.club/cantp.php?c=169&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Fox Sports
+#EXTINF:-1, group-title="TECNOTP", Fox Sports
 http://cinematicket.club/cantp.php?c=170&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Fox Sports 2
+#EXTINF:-1, group-title="TECNOTP", Fox Sports 2
 http://cinematicket.club/cantp.php?c=172&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, TUDN (HD)
+#EXTINF:-1, group-title="TECNOTP", TUDN (HD)
 http://cinematicket.club/cantp.php?c=174&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Fox Sports 3
+#EXTINF:-1, group-title="TECNOTP", Fox Sports 3
 http://cinematicket.club/cantp.php?c=178&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Golf Channel
+#EXTINF:-1, group-title="TECNOTP", Golf Channel
 http://cinematicket.club/cantp.php?c=179&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, AYM Sports
+#EXTINF:-1, group-title="TECNOTP", AYM Sports
 http://cinematicket.club/cantp.php?c=180&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, ESPN 3
+#EXTINF:-1, group-title="TECNOTP", ESPN 3
 http://cinematicket.club/cantp.php?c=345&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, TUDN
+#EXTINF:-1, group-title="TECNOTP", TUDN
 http://cinematicket.club/cantp.php?c=1049&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Adrenalina Sports Network
+#EXTINF:-1, group-title="TECNOTP", Adrenalina Sports Network
 http://cinematicket.club/cantp.php?c=1799&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Latin American Sports
+#EXTINF:-1, group-title="TECNOTP", Latin American Sports
 http://cinematicket.club/cantp.php?c=2089&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, Havoc
+#EXTINF:-1, group-title="TECNOTP", Havoc
 http://cinematicket.club/cantp.php?c=2148&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, TVC Deportes
+#EXTINF:-1, group-title="TECNOTP", TVC Deportes
 http://cinematicket.club/cantp.php?c=2157&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Claro Sports
+#EXTINF:-1, group-title="TECNOTP", Claro Sports
 http://cinematicket.club/cantp.php?c=2564&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Fuel TV
+#EXTINF:-1, group-title="TECNOTP", Fuel TV
 http://cinematicket.club/cantp.php?c=2587&p=3&k=tecnotv&f=.m3u8 
 
 *** CULTURALES ***
-#EXTINF:-1, Investigation Discovery
+#EXTINF:-1, group-title="TECNOTP", Investigation Discovery
 http://cinematicket.club/cantp.php?c=68&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Garage TV 
+#EXTINF:-1, group-title="TECNOTP", Garage TV 
 http://cinematicket.club/cantp.php?c=75&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Discovery
+#EXTINF:-1, group-title="TECNOTP", Discovery
 http://cinematicket.club/cantp.php?c=86&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Animal Planet
+#EXTINF:-1, group-title="TECNOTP", Animal Planet
 http://cinematicket.club/cantp.php?c=88&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, History
+#EXTINF:-1, group-title="TECNOTP", History
 http://cinematicket.club/cantp.php?c=89&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, National Geographic  
+#EXTINF:-1, group-title="TECNOTP", National Geographic  
 http://cinematicket.club/cantp.php?c=91&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Nat Geo Wild
+#EXTINF:-1, group-title="TECNOTP", Nat Geo Wild
 http://cinematicket.club/cantp.php?c=92&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, Discovery Theater HD
+#EXTINF:-1, group-title="TECNOTP", Discovery Theater HD
 http://cinematicket.club/cantp.php?c=95&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Discovery Home & Health
+#EXTINF:-1, group-title="TECNOTP", Discovery Home & Health
 http://cinematicket.club/cantp.php?c=96&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, TLC
+#EXTINF:-1, group-title="TECNOTP", TLC
 http://cinematicket.club/cantp.php?c=97&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, Discovery Science
+#EXTINF:-1, group-title="TECNOTP", Discovery Science
 http://cinematicket.club/cantp.php?c=98&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Discovery World HD
+#EXTINF:-1, group-title="TECNOTP", Discovery World HD
 http://cinematicket.club/cantp.php?c=101&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, TVE Internacional
+#EXTINF:-1, group-title="TECNOTP", TVE Internacional
 http://cinematicket.club/cantp.php?c=198&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Food Network
+#EXTINF:-1, group-title="TECNOTP", Food Network
 http://cinematicket.club/cantp.php?c=2145&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, TVE Star HD
+#EXTINF:-1, group-title="TECNOTP", TVE Star HD
 http://cinematicket.club/cantp.php?c=2375&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Discovery Turbo
+#EXTINF:-1, group-title="TECNOTP", Discovery Turbo
 http://cinematicket.club/cantp.php?c=2379&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Curiosity Stream
+#EXTINF:-1, group-title="TECNOTP", Curiosity Stream
 http://cinematicket.club/cantp.php?c=2594&p=3&k=tecnotv&f=.m3u8  
 
 
 *** MUSICA ***
-#EXTINF:-1, MTV Live HD
+#EXTINF:-1, group-title="TECNOTP", MTV Live HD
 http://cinematicket.club/cantp.php?c=211&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, MTV
+#EXTINF:-1, group-title="TECNOTP", MTV
 http://cinematicket.club/cantp.php?c=212&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, MTV Hits
+#EXTINF:-1, group-title="TECNOTP", MTV Hits
 http://cinematicket.club/cantp.php?c=213&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, MTV 80s
+#EXTINF:-1, group-title="TECNOTP", MTV 80s
 http://cinematicket.club/cantp.php?c=214&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Nickmusic
+#EXTINF:-1, group-title="TECNOTP", Nickmusic
 http://cinematicket.club/cantp.php?c=1708&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, VH1 Europe
+#EXTINF:-1, group-title="TECNOTP", VH1 Europe
 http://cinematicket.club/cantp.php?c=217&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Telehit Música
+#EXTINF:-1, group-title="TECNOTP", Telehit Música
 http://cinematicket.club/cantp.php?c=218&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Telehit Música Plus
+#EXTINF:-1, group-title="TECNOTP", Telehit Música Plus
 http://cinematicket.club/cantp.php?c=220&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Bandamax
+#EXTINF:-1, group-title="TECNOTP", Bandamax
 http://cinematicket.club/cantp.php?c=221&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Clic
+#EXTINF:-1, group-title="TECNOTP", Clic
 http://cinematicket.club/cantp.php?c=223&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, VH1 Europe (HD)
+#EXTINF:-1, group-title="TECNOTP", VH1 Europe (HD)
 http://cinematicket.club/cantp.php?c=334&p=3&k=tecnotv&f=.m3u8  
 
 
 *** NOTICIAS ***
-#EXTINF:-1, CNN International (HD)
+#EXTINF:-1, group-title="TECNOTP", CNN International (HD)
 http://cinematicket.club/cantp.php?c=185&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, CNN International
+#EXTINF:-1, group-title="TECNOTP", CNN International
 http://cinematicket.club/cantp.php?c=186&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, CNN En Español
+#EXTINF:-1, group-title="TECNOTP", CNN En Español
 http://cinematicket.club/cantp.php?c=187&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1, WOBI 
+#EXTINF:-1, group-title="TECNOTP", WOBI 
 http://cinematicket.club/cantp.php?c=102&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Fox News
+#EXTINF:-1, group-title="TECNOTP", Fox News
 http://cinematicket.club/cantp.php?c=188&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Bloomberg
+#EXTINF:-1, group-title="TECNOTP", Bloomberg
 http://cinematicket.club/cantp.php?c=190&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, BBC World News
+#EXTINF:-1, group-title="TECNOTP", BBC World News
 http://cinematicket.club/cantp.php?c=191&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Al Jaazera
+#EXTINF:-1, group-title="TECNOTP", Al Jaazera
 http://cinematicket.club/cantp.php?c=192&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Nuestra Tele Noticias 24
+#EXTINF:-1, group-title="TECNOTP", Nuestra Tele Noticias 24
 http://cinematicket.club/cantp.php?c=194&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Justicia TV
+#EXTINF:-1, group-title="TECNOTP", Justicia TV
 http://cinematicket.club/cantp.php?c=196&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, HLN
+#EXTINF:-1, group-title="TECNOTP", HLN
 http://cinematicket.club/cantp.php?c=197&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, DW (Español)
+#EXTINF:-1, group-title="TECNOTP", DW (Español)
 http://cinematicket.club/cantp.php?c=203&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, RT (English)
+#EXTINF:-1, group-title="TECNOTP", RT (English)
 http://cinematicket.club/cantp.php?c=999&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Milenio Televisión (HD)
+#EXTINF:-1, group-title="TECNOTP", Milenio Televisión (HD)
 http://cinematicket.club/cantp.php?c=1250&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Milenio Televisión
+#EXTINF:-1, group-title="TECNOTP", Milenio Televisión
 http://cinematicket.club/cantp.php?c=1252&p=3&k=tecnotv&f=.m3u8   
-#EXTINF:-1, El Financiero Bloomberg 
+#EXTINF:-1, group-title="TECNOTP", El Financiero Bloomberg 
 http://cinematicket.club/cantp.php?c=1649&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, RT (Español)
+#EXTINF:-1, group-title="TECNOTP", RT (Español)
 http://cinematicket.club/cantp.php?c=2091&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, France 24 (Español)
+#EXTINF:-1, group-title="TECNOTP", France 24 (Español)
 http://cinematicket.club/cantp.php?c=2402&p=3&k=tecnotv&f=.m3u8 
 
 
-#EXTINF:-1, LIBERADOS (PUEDEN QUE NO FUNCIONEN)
-rtsp://
-
-
-#EXTINF:-1, Baby First
+#EXTINF:-1, group-title="LIBERADOS", Baby First
 http://miap.xyz/17/serverkey.m3u8
-#EXTINF:-1, Cartoon Network
+#EXTINF:-1, group-title="LIBERADOS", Cartoon Network
 http://miap.xyz/24/serverkey.m3u8
-#EXTINF:-1, Discovery Kids
+#EXTINF:-1, group-title="LIBERADOS", Discovery Kids
 http://miap.xyz/38/serverkey.m3u8
-#EXTINF:-1, Disney Channel
+#EXTINF:-1, group-title="LIBERADOS", Disney Channel
 http://miap.xyz/44/serverkey.m3u8
-#EXTINF:-1, Disney Junior
+#EXTINF:-1, group-title="LIBERADOS", Disney Junior
 http://miap.xyz/45/serverkey.m3u8
-#EXTINF:-1, Disney XD
+#EXTINF:-1, group-title="LIBERADOS", Disney XD
 http://miap.xyz/46/serverkey.m3u8
-#EXTINF:-1, Nat Geo Kids
+#EXTINF:-1, group-title="LIBERADOS", Nat Geo Kids
 http://miap.xyz/121/serverkey.m3u8
-#EXTINF:-1, Nick
+#EXTINF:-1, group-title="LIBERADOS", Nick
 http://miap.xyz/123/serverkey.m3u8
-#EXTINF:-1, Nick Jr.
+#EXTINF:-1, group-title="LIBERADOS", Nick Jr.
 http://miap.xyz/125/serverkey.m3u8
-#EXTINF:-1, Teennick
+#EXTINF:-1, group-title="LIBERADOS", Teennick
 http://miap.xyz/124/serverkey.m3u8
-#EXTINF:-1, Tooncast
+#EXTINF:-1, group-title="LIBERADOS", Tooncast
 http://miap.xyz/148/serverkey.m3u8
 
 
-#EXTINF:-1, Animal Planet
+#EXTINF:-1, group-title="LIBERADOS", Animal Planet
 http://miap.xyz/7/serverkey.m3u8
-#EXTINF:-1, Discovery
+#EXTINF:-1, group-title="LIBERADOS", Discovery
 http://miap.xyz/35/serverkey.m3u8
-#EXTINF:-1, Discovery Turbo
+#EXTINF:-1, group-title="LIBERADOS", Discovery Turbo
 http://miap.xyz/42/serverkey.m3u8
-#EXTINF:-1, Discovery Theater HD
+#EXTINF:-1, group-title="LIBERADOS", Discovery Theater HD
 http://miap.xyz/40/serverkey.m3u8
-#EXTINF:-1, Discovery Science
+#EXTINF:-1, group-title="LIBERADOS", Discovery Science
 http://miap.xyz/39/serverkey.m3u8
-#EXTINF:-1, Discovery Home & Health
+#EXTINF:-1, group-title="LIBERADOS", Discovery Home & Health
 http://miap.xyz/37/serverkey.m3u8
-#EXTINF:-1, Discovery Civilization/HGTV
+#EXTINF:-1, group-title="LIBERADOS", Discovery Civilization/HGTV
 http://miap.xyz/36/serverkey.m3u8
-#EXTINF:-1, Investigation Discovery
+#EXTINF:-1, group-title="LIBERADOS", Investigation Discovery
 http://miap.xyz/105/serverkey.m3u8
-#EXTINF:-1, TLC
+#EXTINF:-1, group-title="LIBERADOS", TLC
 http://miap.xyz/41/serverkey.m3u8
-#EXTINF:-1, Discovery World HD
+#EXTINF:-1, group-title="LIBERADOS", Discovery World HD
 http://miap.xyz/43/serverkey.m3u8
-#EXTINF:-1, Food Network
+#EXTINF:-1, group-title="LIBERADOS", Food Network
 http://miap.xyz/61/serverkey.m3u8
-#EXTINF:-1, History
+#EXTINF:-1, group-title="LIBERADOS", History
 http://miap.xyz/99/serverkey.m3u8
-#EXTINF:-1, History 2
+#EXTINF:-1, group-title="LIBERADOS", History 2
 http://miap.xyz/100/serverkey.m3u8
-#EXTINF:-1, Nat Geo Wild
+#EXTINF:-1, group-title="LIBERADOS", Nat Geo Wild
 http://miap.xyz/122/serverkey.m3u8
-#EXTINF:-1, National Geographic
+#EXTINF:-1, group-title="LIBERADOS", National Geographic
 http://miap.xyz/120/serverkey.m3u8
-#EXTINF:-1, ElGourmet
+#EXTINF:-1, group-title="LIBERADOS", ElGourmet
 http://miap.xyz/49/serverkey.m3u8
-#EXTINF:-1, Mas Chic
+#EXTINF:-1, group-title="LIBERADOS", Mas Chic
 http://miap.xyz/111/serverkey.m3u8
 
 
-#EXTINF:-1, AMC
+#EXTINF:-1, group-title="LIBERADOS", AMC
 http://miap.xyz/6/serverkey.m3u8
-#EXTINF:-1, A&E
+#EXTINF:-1, group-title="LIBERADOS", A&E
 http://miap.xyz/3/serverkey.m3u8
-#EXTINF:-1, Warner
+#EXTINF:-1, group-title="LIBERADOS", Warner
 http://miap.xyz/163/serverkey.m3u8
-#EXTINF:-1, Fox Channel
+#EXTINF:-1, group-title="LIBERADOS", Fox Channel
 http://miap.xyz/63/serverkey.m3u8
-#EXTINF:-1, Universal
+#EXTINF:-1, group-title="LIBERADOS", Universal
 http://miap.xyz/159/serverkey.m3u8
-#EXTINF:-1, SYFY
+#EXTINF:-1, group-title="LIBERADOS", SYFY
 http://miap.xyz/137/serverkey.m3u8
-#EXTINF:-1, Fox Life
+#EXTINF:-1, group-title="LIBERADOS", Fox Life
 http://miap.xyz/64/serverkey.m3u8
-#EXTINF:-1, AXN
+#EXTINF:-1, group-title="LIBERADOS", AXN
 http://miap.xyz/9/serverkey.m3u8
-#EXTINF:-1, Sony Channel
+#EXTINF:-1, group-title="LIBERADOS", Sony Channel
 http://miap.xyz/132/serverkey.m3u8
-#EXTINF:-1, De Película Plus
+#EXTINF:-1, group-title="LIBERADOS", De Película Plus
 http://miap.xyz/34/serverkey.m3u8
-#EXTINF:-1, Cinema
+#EXTINF:-1, group-title="LIBERADOS", Cinema
 http://miap.xyz/11/serverkey.m3u8
-#EXTINF:-1, TNT
+#EXTINF:-1, group-title="LIBERADOS", TNT
 http://miap.xyz/146/serverkey.m3u8
-#EXTINF:-1, Space
+#EXTINF:-1, group-title="LIBERADOS", Space
 http://miap.xyz/133/serverkey.m3u8
-#EXTINF:-1, Studio Universal
+#EXTINF:-1, group-title="LIBERADOS", Studio Universal
 http://miap.xyz/134/serverkey.m3u8
-#EXTINF:-1, FX
+#EXTINF:-1, group-title="LIBERADOS", FX
 http://miap.xyz/90/serverkey.m3u8
-#EXTINF:-1, FXM
+#EXTINF:-1, group-title="LIBERADOS", FXM
 http://miap.xyz/91/serverkey.m3u8
-#EXTINF:-1, TBS
+#EXTINF:-1, group-title="LIBERADOS", TBS
 http://miap.xyz/138/serverkey.m3u8
-#EXTINF:-1, TCM
+#EXTINF:-1, group-title="LIBERADOS", TCM
 http://miap.xyz/139/serverkey.m3u8
-#EXTINF:-1, Cinecanal
+#EXTINF:-1, group-title="LIBERADOS", Cinecanal
 http://miap.xyz/25/serverkey.m3u8
-#EXTINF:-1, Cinemax
+#EXTINF:-1, group-title="LIBERADOS", Cinemax
 http://miap.xyz/26/serverkey.m3u8
-#EXTINF:-1, Paramount Network
+#EXTINF:-1, group-title="LIBERADOS", Paramount Network
 http://miap.xyz/127/serverkey.m3u8
-#EXTINF:-1, TNT Series
+#EXTINF:-1, group-title="LIBERADOS", TNT Series
 http://miap.xyz/147/serverkey.m3u8
-#EXTINF:-1, Fox Premium Action
+#EXTINF:-1, group-title="LIBERADOS", Fox Premium Action
 http://miap.xyz/65/serverkey.m3u8
-#EXTINF:-1, Fox Premium Cinema
+#EXTINF:-1, group-title="LIBERADOS", Fox Premium Cinema
 http://miap.xyz/67/serverkey.m3u8
-#EXTINF:-1, Fox Premium Comedy
+#EXTINF:-1, group-title="LIBERADOS", Fox Premium Comedy
 http://miap.xyz/69/serverkey.m3u8
-#EXTINF:-1, Fox Premium Classics
+#EXTINF:-1, group-title="LIBERADOS", Fox Premium Classics
 http://miap.xyz/68/serverkey.m3u8
-#EXTINF:-1, Fox Premium Family
+#EXTINF:-1, group-title="LIBERADOS", Fox Premium Family
 http://miap.xyz/70/serverkey.m3u8
-#EXTINF:-1, Fox Premium Series
+#EXTINF:-1, group-title="LIBERADOS", Fox Premium Series
 http://miap.xyz/72/serverkey.m3u8
-#EXTINF:-1, Fox Premium Movies
+#EXTINF:-1, group-title="LIBERADOS", Fox Premium Movies
 http://miap.xyz/71/serverkey.m3u8
-#EXTINF:-1, Golden
+#EXTINF:-1, group-title="LIBERADOS", Golden
 http://miap.xyz/95/serverkey.m3u8
-#EXTINF:-1, Golden Edge
+#EXTINF:-1, group-title="LIBERADOS", Golden Edge
 http://miap.xyz/96/serverkey.m3u8
-#EXTINF:-1, HBO
+#EXTINF:-1, group-title="LIBERADOS", HBO
 http://miap.xyz/74/serverkey.m3u8
-#EXTINF:-1, HBO 2
+#EXTINF:-1, group-title="LIBERADOS", HBO 2
 http://miap.xyz/75/serverkey.m3u8
-#EXTINF:-1, HBO Plus
+#EXTINF:-1, group-title="LIBERADOS", HBO Plus
 http://miap.xyz/78/serverkey.m3u8
-#EXTINF:-1, HBO Family
+#EXTINF:-1, group-title="LIBERADOS", HBO Family
 http://miap.xyz/76/serverkey.m3u8
-#EXTINF:-1, HBO Signature
+#EXTINF:-1, group-title="LIBERADOS", HBO Signature
 http://miap.xyz/80/serverkey.m3u8
-#EXTINF:-1, HBO Mundi
+#EXTINF:-1, group-title="LIBERADOS", HBO Mundi
 http://miap.xyz/77/serverkey.m3u8
-#EXTINF:-1, HBO Pop
+#EXTINF:-1, group-title="LIBERADOS", HBO Pop
 http://miap.xyz/79/serverkey.m3u8
-#EXTINF:-1, HBO Xtreme
+#EXTINF:-1, group-title="LIBERADOS", HBO Xtreme
 http://miap.xyz/82/serverkey.m3u8
 
 
-#EXTINF:-1, Tlnovelas
+#EXTINF:-1, group-title="LIBERADOS", Tlnovelas
 http://miap.xyz/145/serverkey.m3u8
-#EXTINF:-1, Corazon
+#EXTINF:-1, group-title="LIBERADOS", Corazon
 http://miap.xyz/13/serverkey.m3u8
-#EXTINF:-1, Comedy Central
+#EXTINF:-1, group-title="LIBERADOS", Comedy Central
 http://miap.xyz/30/serverkey.m3u8
-#EXTINF:-1, Distrito Comedia
+#EXTINF:-1, group-title="LIBERADOS", Distrito Comedia
 http://miap.xyz/47/serverkey.m3u8
-#EXTINF:-1, E!
+#EXTINF:-1, group-title="LIBERADOS", E!
 http://miap.xyz/50/serverkey.m3u8
-#EXTINF:-1, Lifetime
+#EXTINF:-1, group-title="LIBERADOS", Lifetime
 http://miap.xyz/109/serverkey.m3u8
-#EXTINF:-1, Mundo
+#EXTINF:-1, group-title="LIBERADOS", Mundo
 http://miap.xyz/14/serverkey.m3u8
-#EXTINF:-1, ¡Hola! TV
+#EXTINF:-1, group-title="LIBERADOS", ¡Hola! TV
 http://miap.xyz/101/serverkey.m3u8
-#EXTINF:-1, Glitz
+#EXTINF:-1, group-title="LIBERADOS", Glitz
 http://miap.xyz/94/serverkey.m3u8
-#EXTINF:-1, TruTV
+#EXTINF:-1, group-title="LIBERADOS", TruTV
 http://miap.xyz/149/serverkey.m3u8
-#EXTINF:-1, Telemundo 51 Miami
+#EXTINF:-1, group-title="LIBERADOS", Telemundo 51 Miami
 http://miap.xyz/151/serverkey.m3u8
-#EXTINF:-1, Unicable
+#EXTINF:-1, group-title="LIBERADOS", Unicable
 http://miap.xyz/158/serverkey.m3u8
-#EXTINF:-1, Univisión 23 Miami
+#EXTINF:-1, group-title="LIBERADOS", Univisión 23 Miami
 http://miap.xyz/152/serverkey.m3u8
 
 
-#EXTINF:-1, DirecTV Sports Plus
+#EXTINF:-1, group-title="LIBERADOS", DirecTV Sports Plus
 http://miap.xyz/166/serverkey.m3u8
-#EXTINF:-1, DirecTV Sports 2
+#EXTINF:-1, group-title="LIBERADOS", DirecTV Sports 2
 http://miap.xyz/164/serverkey.m3u8
-#EXTINF:-1, DirecTV Sports 2 (Alt.)
+#EXTINF:-1, group-title="LIBERADOS", DirecTV Sports 2 (Alt.)
 http://miap.xyz/165/serverkey.m3u8
-#EXTINF:-1, Fox Sports Sur
+#EXTINF:-1, group-title="LIBERADOS", Fox Sports Sur
 http://miap.xyz/86/serverkey.m3u8
-#EXTINF:-1, Fox Sports 2 Sur
+#EXTINF:-1, group-title="LIBERADOS", Fox Sports 2 Sur
 http://miap.xyz/87/serverkey.m3u8
-#EXTINF:-1, Fox Sports 3 Sur
+#EXTINF:-1, group-title="LIBERADOS", Fox Sports 3 Sur
 http://miap.xyz/88/serverkey.m3u8
-#EXTINF:-1, Fox Sports
+#EXTINF:-1, group-title="LIBERADOS", Fox Sports
 http://miap.xyz/83/serverkey.m3u8
-#EXTINF:-1, Fox Sports 2
+#EXTINF:-1, group-title="LIBERADOS", Fox Sports 2
 http://miap.xyz/84/serverkey.m3u8
-#EXTINF:-1, Fox Sports 3
+#EXTINF:-1, group-title="LIBERADOS", Fox Sports 3
 http://miap.xyz/85/serverkey.m3u8
-#EXTINF:-1, ESPN Sur
+#EXTINF:-1, group-title="LIBERADOS", ESPN Sur
 http://miap.xyz/55/serverkey.m3u8
-#EXTINF:-1, ESPN 2 Sur
+#EXTINF:-1, group-title="LIBERADOS", ESPN 2 Sur
 http://miap.xyz/56/serverkey.m3u8
-#EXTINF:-1, ESPN 3 Sur
+#EXTINF:-1, group-title="LIBERADOS", ESPN 3 Sur
 http://miap.xyz/57/serverkey.m3u8
-#EXTINF:-1, ESPN Extra Sur
+#EXTINF:-1, group-title="LIBERADOS", ESPN Extra Sur
 http://miap.xyz/58/serverkey.m3u8
-#EXTINF:-1, ESPN
+#EXTINF:-1, group-title="LIBERADOS", ESPN
 http://miap.xyz/51/serverkey.m3u8
-#EXTINF:-1, ESPN 2
+#EXTINF:-1, group-title="LIBERADOS", ESPN 2
 http://miap.xyz/52/serverkey.m3u8
-#EXTINF:-1, ESPN 3
+#EXTINF:-1, group-title="LIBERADOS", ESPN 3
 http://miap.xyz/53/serverkey.m3u8
-#EXTINF:-1, ESPN Extra
+#EXTINF:-1, group-title="LIBERADOS", ESPN Extra
 http://miap.xyz/54/serverkey.m3u8
-#EXTINF:-1, GolTV
+#EXTINF:-1, group-title="LIBERADOS", GolTV
 http://miap.xyz/172/serverkey.m3u8
-#EXTINF:-1, GolTV (Alt.)
+#EXTINF:-1, group-title="LIBERADOS", GolTV (Alt.)
 http://miap.xyz/178/serverkey.m3u8
-#EXTINF:-1, TNT Sports
+#EXTINF:-1, group-title="LIBERADOS", TNT Sports
 http://miap.xyz/200/serverkey.m3u8
-#EXTINF:-1, TUDN USA
+#EXTINF:-1, group-title="LIBERADOS", TUDN USA
 http://miap.xyz/150/serverkey.m3u8
-#EXTINF:-1, Claro Sports
+#EXTINF:-1, group-title="LIBERADOS", Claro Sports
 http://miap.xyz/33/serverkey.m3u8
-#EXTINF:-1, Claro Sports 2
+#EXTINF:-1, group-title="LIBERADOS", Claro Sports 2
 http://miap.xyz/32/serverkey.m3u8
-#EXTINF:-1, Golf Channel
+#EXTINF:-1, group-title="LIBERADOS", Golf Channel
 http://miap.xyz/97/serverkey.m3u8
-#EXTINF:-1, Garage TV
+#EXTINF:-1, group-title="LIBERADOS", Garage TV
 http://miap.xyz/93/serverkey.m3u8
 
 
-#EXTINF:-1, CNN En Español
+#EXTINF:-1, group-title="LIBERADOS", CNN En Español
 http://miap.xyz/27/serverkey.m3u8
-#EXTINF:-1, CNN International
+#EXTINF:-1, group-title="LIBERADOS", CNN International
 http://miap.xyz/29/serverkey.m3u8
-#EXTINF:-1, Justicia TV
+#EXTINF:-1, group-title="LIBERADOS", Justicia TV
 http://miap.xyz/22/serverkey.m3u8
-#EXTINF:-1, 24 Horas
+#EXTINF:-1, group-title="LIBERADOS", 24 Horas
 http://miap.xyz/204/serverkey.m3u8
-#EXTINF:-1, RT (Español)
+#EXTINF:-1, group-title="LIBERADOS", RT (Español)
 http://miap.xyz/131/serverkey.m3u8
 
 
-#EXTINF:-1, Clic
+#EXTINF:-1, group-title="LIBERADOS", Clic
 http://miap.xyz/12/serverkey.m3u8
-#EXTINF:-1, MTV
+#EXTINF:-1, group-title="LIBERADOS", MTV
 http://miap.xyz/115/serverkey.m3u8
-#EXTINF:-1, MTV Live HD
+#EXTINF:-1, group-title="LIBERADOS", MTV Live HD
 http://miap.xyz/117/serverkey.m3u8
-#EXTINF:-1, Nick Music
+#EXTINF:-1, group-title="LIBERADOS", Nick Music
 http://miap.xyz/126/serverkey.m3u8
-#EXTINF:-1, VH1 Europe
+#EXTINF:-1, group-title="LIBERADOS", VH1 Europe
 http://miap.xyz/161/serverkey.m3u8
 
 #EXTIF:-1, Azteca Uno
 http://miap.xyz/16/serverkey.m3u8
-#EXTINF:-1, Las Estrellas
+#EXTINF:-1, group-title="LIBERADOS", Las Estrellas
 http://miap.xyz/107/serverkey.m3u8
-#EXTINF:-1, Imagen Televisión
+#EXTINF:-1, group-title="LIBERADOS", Imagen Televisión
 http://miap.xyz/103/serverkey.m3u8
-#EXTINF:-1, Foro TV
+#EXTINF:-1, group-title="LIBERADOS", Foro TV
 http://miap.xyz/62/serverkey.m3u8
-#EXTINF:-1, Canal 5
+#EXTINF:-1, group-title="LIBERADOS", Canal 5
 http://miap.xyz/21/serverkey.m3u8
-#EXTINF:-1, Azteca 7
+#EXTINF:-1, group-title="LIBERADOS", Azteca 7
 http://miap.xyz/15/serverkey.m3u8
-#EXTINF:-1, ADN 40
+#EXTINF:-1, group-title="LIBERADOS", ADN 40
 http://miap.xyz/5/serverkey.m3u8
 
-#EXTINF:-1, Canal UNO
+#EXTINF:-1, group-title="LIBERADOS", Canal UNO
 http://miap.xyz/167/serverkey.m3u8
-#EXTINF:-1, Canal 7 EC
+#EXTINF:-1, group-title="LIBERADOS", Canal 7 EC
 http://miap.xyz/169/serverkey.m3u8
-#EXTINF:-1, Ecuavisa
+#EXTINF:-1, group-title="LIBERADOS", Ecuavisa
 http://miap.xyz/170/serverkey.m3u8
-#EXTINF:-1, Gamavision
+#EXTINF:-1, group-title="LIBERADOS", Gamavision
 http://miap.xyz/171/serverkey.m3u8
-#EXTINF:-1, Oromar TV
+#EXTINF:-1, group-title="LIBERADOS", Oromar TV
 http://miap.xyz/173/serverkey.m3u8
-#EXTINF:-1, RTS
+#EXTINF:-1, group-title="LIBERADOS", RTS
 http://miap.xyz/174/serverkey.m3u8
-#EXTINF:-1, TeleAmazonas
+#EXTINF:-1, group-title="LIBERADOS", TeleAmazonas
 http://miap.xyz/176/serverkey.m3u8
-#EXTINF:-1, TVC EC
+#EXTINF:-1, group-title="LIBERADOS", TVC EC
 http://miap.xyz/177/serverkey.m3u8
 
-#EXTINF:-1, Cablenoticias
+#EXTINF:-1, group-title="LIBERADOS", Cablenoticias
 http://miap.xyz/179/serverkey.m3u8
-#EXTINF:-1, Tr3ce
+#EXTINF:-1, group-title="LIBERADOS", Tr3ce
 http://miap.xyz/180/serverkey.m3u8
-#EXTINF:-1, Canal 1
+#EXTINF:-1, group-title="LIBERADOS", Canal 1
 http://miap.xyz/181/serverkey.m3u8
-#EXTINF:-1, Caracol Televisión
+#EXTINF:-1, group-title="LIBERADOS", Caracol Televisión
 http://miap.xyz/182/serverkey.m3u8
-#EXTINF:-1, Caracol Televisión
+#EXTINF:-1, group-title="LIBERADOS", Caracol Televisión
 http://miap.xyz/183/serverkey.m3u8
-#EXTINF:-1, CityTV
+#EXTINF:-1, group-title="LIBERADOS", CityTV
 http://miap.xyz/184/serverkey.m3u8
-#EXTINF:-1, El Tiempo Televisión
+#EXTINF:-1, group-title="LIBERADOS", El Tiempo Televisión
 http://miap.xyz/185/serverkey.m3u8
-#EXTINF:-1, Nuestra Tele Noticias 24
+#EXTINF:-1, group-title="LIBERADOS", Nuestra Tele Noticias 24
 http://miap.xyz/186/serverkey.m3u8
-#EXTINF:-1, RCN
+#EXTINF:-1, group-title="LIBERADOS", RCN
 http://miap.xyz/187/serverkey.m3u8
-#EXTINF:-1, Señal Colombia
+#EXTINF:-1, group-title="LIBERADOS", Señal Colombia
 http://miap.xyz/227/serverkey.m3u8
 
 
-#EXTINF:-1, Canal 26 TV
+#EXTINF:-1, group-title="LIBERADOS", Canal 26 TV
 http://miap.xyz/190/serverkey.m3u8
-#EXTINF:-1, Telefe
+#EXTINF:-1, group-title="LIBERADOS", Telefe
 http://miap.xyz/195/serverkey.m3u8
-#EXTINF:-1, Telemax
+#EXTINF:-1, group-title="LIBERADOS", Telemax
 http://miap.xyz/197/serverkey.m3u8
-#EXTINF:-1, Telered
+#EXTINF:-1, group-title="LIBERADOS", Telered
 http://miap.xyz/199/serverkey.m3u8
 
-#EXTINF:-1, 13c
+#EXTINF:-1, group-title="LIBERADOS", 13c
 http://miap.xyz/201/serverkey.m3u8
-#EXTINF:-1, 13i
+#EXTINF:-1, group-title="LIBERADOS", 13i
 http://miap.xyz/202/serverkey.m3u8
-#EXTINF:-1, Canal 13
+#EXTINF:-1, group-title="LIBERADOS", Canal 13
 http://miap.xyz/203/serverkey.m3u8
-#EXTINF:-1, CDF
+#EXTINF:-1, group-title="LIBERADOS", CDF
 http://miap.xyz/206/serverkey.m3u8
-#EXTINF:-1, CDF (Alt.)
+#EXTINF:-1, group-title="LIBERADOS", CDF (Alt.)
 http://miap.xyz/207/serverkey.m3u8
-#EXTINF:-1, CDO
+#EXTINF:-1, group-title="LIBERADOS", CDO
 http://miap.xyz/208/serverkey.m3u8
-#EXTINF:-1, CDO (Alt.)
+#EXTINF:-1, group-title="LIBERADOS", CDO (Alt.)
 http://miap.xyz/210/serverkey.m3u8
-#EXTINF:-1, Chilevisión
+#EXTINF:-1, group-title="LIBERADOS", Chilevisión
 http://miap.xyz/211/serverkey.m3u8
-#EXTINF:-1, CNN CL
+#EXTINF:-1, group-title="LIBERADOS", CNN CL
 http://miap.xyz/212/serverkey.m3u8
-#EXTINF:-1, La Red
+#EXTINF:-1, group-title="LIBERADOS", La Red
 http://miap.xyz/214/serverkey.m3u8
-#EXTINF:-1, Mega
+#EXTINF:-1, group-title="LIBERADOS", Mega
 http://miap.xyz/215/serverkey.m3u8
-#EXTINF:-1, TVN
+#EXTINF:-1, group-title="LIBERADOS", TVN
 http://miap.xyz/217/serverkey.m3u8
 
 
-#EXTINF:-1, ATV
+#EXTINF:-1, group-title="LIBERADOS", ATV
 http://miap.xyz/224/serverkey.m3u8
-#EXTINF:-1, ipe
+#EXTINF:-1, group-title="LIBERADOS", ipe
 http://miap.xyz/225/serverkey.m3u8
-#EXTINF:-1, Frecuencia Latina
+#EXTINF:-1, group-title="LIBERADOS", Frecuencia Latina
 http://miap.xyz/228/serverkey.m3u8
-#EXTINF:-1, Latele
+#EXTINF:-1, group-title="LIBERADOS", Latele
 http://miap.xyz/230/serverkey.m3u8
-#EXTINF:-1, Movistar Deportes
+#EXTINF:-1, group-title="LIBERADOS", Movistar Deportes
 http://miap.xyz/231/serverkey.m3u8
-#EXTINF:-1, Panamericana
+#EXTINF:-1, group-title="LIBERADOS", Panamericana
 http://miap.xyz/234/serverkey.m3u8
-#EXTINF:-1, TVpe
+#EXTINF:-1, group-title="LIBERADOS", TVpe
 http://miap.xyz/235/serverkey.m3u8
 
-#EXTINF:-1, WIPR
+#EXTINF:-1, group-title="LIBERADOS", WIPR
 http://miap.xyz/237/serverkey.m3u8
-#EXTINF:-1, Telemundo PR
+#EXTINF:-1, group-title="LIBERADOS", Telemundo PR
 http://miap.xyz/239/serverkey.m3u8
-#EXTINF:-1, Univisión PR
+#EXTINF:-1, group-title="LIBERADOS", Univisión PR
 http://miap.xyz/240/serverkey.m3u8
-#EXTINF:-1, WAPA
+#EXTINF:-1, group-title="LIBERADOS", WAPA
 http://miap.xyz/241/serverkey.m3u8
-#EXTINF:-1, WAPA Deportes
+#EXTINF:-1, group-title="LIBERADOS", WAPA Deportes
 http://miap.xyz/242/serverkey.m3u8
 
 
-#EXTINF:-1, BG (REQUIERE ACTIVACIÓN)
-rtsp://
-
-#EXTINF:-1, Baby First
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Baby First
 https://blackghost.live/play/cine-126.php?c=17&f=.m3u8
-#EXTINF:-1, Cartoon Network
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Cartoon Network
 https://blackghost.live/play/cine-126.php?c=24&f=.m3u8
-#EXTINF:-1, Discovery Kids
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Discovery Kids
 https://blackghost.live/play/cine-126.php?c=38&f=.m3u8
-#EXTINF:-1, Disney Channel
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Disney Channel
 https://blackghost.live/play/cine-126.php?c=44&f=.m3u8
-#EXTINF:-1, Disney Junior
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Disney Junior
 https://blackghost.live/play/cine-126.php?c=45&f=.m3u8
-#EXTINF:-1, Disney XD
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Disney XD
 https://blackghost.live/play/cine-126.php?c=46&f=.m3u8
-#EXTINF:-1, Nat Geo Kids
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Nat Geo Kids
 https://blackghost.live/play/cine-126.php?c=121&f=.m3u8
-#EXTINF:-1, Nick
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Nick
 https://blackghost.live/play/cine-126.php?c=123&f=.m3u8
-#EXTINF:-1, Nick Jr.
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Nick Jr.
 https://blackghost.live/play/cine-126.php?c=125&f=.m3u8
-#EXTINF:-1, Teennick
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Teennick
 https://blackghost.live/play/cine-126.php?c=124&f=.m3u8
-#EXTINF:-1, Tooncast
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Tooncast
 https://blackghost.live/play/cine-126.php?c=148&f=.m3u8
 
 
-#EXTINF:-1, Animal Planet
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Animal Planet
 https://blackghost.live/play/cine-126.php?c=7&f=.m3u8
-#EXTINF:-1, Discovery
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Discovery
 https://blackghost.live/play/cine-126.php?c=35&f=.m3u8
-#EXTINF:-1, Discovery Turbo
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Discovery Turbo
 https://blackghost.live/play/cine-126.php?c=42&f=.m3u8
-#EXTINF:-1, Discovery Theater HD
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Discovery Theater HD
 https://blackghost.live/play/cine-126.php?c=40&f=.m3u8
-#EXTINF:-1, Discovery Science
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Discovery Science
 https://blackghost.live/play/cine-126.php?c=39&f=.m3u8
-#EXTINF:-1, Discovery Home & Health
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Discovery Home & Health
 https://blackghost.live/play/cine-126.php?c=37&f=.m3u8
-#EXTINF:-1, Discovery Civilization/HGTV
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Discovery Civilization/HGTV
 https://blackghost.live/play/cine-126.php?c=36&f=.m3u8
-#EXTINF:-1, Investigation Discovery
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Investigation Discovery
 https://blackghost.live/play/cine-126.php?c=105&f=.m3u8
-#EXTINF:-1, TLC
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", TLC
 https://blackghost.live/play/cine-126.php?c=41&f=.m3u8
-#EXTINF:-1, Discovery World HD
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Discovery World HD
 https://blackghost.live/play/cine-126.php?c=43&f=.m3u8
-#EXTINF:-1, Food Network
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Food Network
 https://blackghost.live/play/cine-126.php?c=61&f=.m3u8
-#EXTINF:-1, History
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", History
 https://blackghost.live/play/cine-126.php?c=99&f=.m3u8
-#EXTINF:-1, History 2
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", History 2
 https://blackghost.live/play/cine-126.php?c=100&f=.m3u8
-#EXTINF:-1, Nat Geo Wild
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Nat Geo Wild
 https://blackghost.live/play/cine-126.php?c=122&f=.m3u8
-#EXTINF:-1, National Geographic
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", National Geographic
 https://blackghost.live/play/cine-126.php?c=120&f=.m3u8
-#EXTINF:-1, ElGourmet
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", ElGourmet
 https://blackghost.live/play/cine-126.php?c=49&f=.m3u8
-#EXTINF:-1, Mas Chic
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Mas Chic
 https://blackghost.live/play/cine-126.php?c=111&f=.m3u8
 
 
-#EXTINF:-1, AMC
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", AMC
 https://blackghost.live/play/cine-126.php?c=6&f=.m3u8
-#EXTINF:-1, A&E
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", A&E
 https://blackghost.live/play/cine-126.php?c=3&f=.m3u8
-#EXTINF:-1, Warner
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Warner
 https://blackghost.live/play/cine-126.php?c=163&f=.m3u8
-#EXTINF:-1, Fox Channel
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Fox Channel
 https://blackghost.live/play/cine-126.php?c=63&f=.m3u8
-#EXTINF:-1, Universal
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Universal
 https://blackghost.live/play/cine-126.php?c=159&f=.m3u8
-#EXTINF:-1, SYFY
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", SYFY
 https://blackghost.live/play/cine-126.php?c=137&f=.m3u8
-#EXTINF:-1, Fox Life
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Fox Life
 https://blackghost.live/play/cine-126.php?c=64&f=.m3u8
-#EXTINF:-1, AXN
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", AXN
 https://blackghost.live/play/cine-126.php?c=9&f=.m3u8
-#EXTINF:-1, Sony Channel
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Sony Channel
 https://blackghost.live/play/cine-126.php?c=132&f=.m3u8
-#EXTINF:-1, De Película Plus
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", De Película Plus
 https://blackghost.live/play/cine-126.php?c=34&f=.m3u8
-#EXTINF:-1, Cinema
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Cinema
 https://blackghost.live/play/cine-126.php?c=11&f=.m3u8
-#EXTINF:-1, TNT
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", TNT
 https://blackghost.live/play/cine-126.php?c=146&f=.m3u8
-#EXTINF:-1, Space
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Space
 https://blackghost.live/play/cine-126.php?c=133&f=.m3u8
-#EXTINF:-1, Studio Universal
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Studio Universal
 https://blackghost.live/play/cine-126.php?c=134&f=.m3u8
-#EXTINF:-1, FX
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", FX
 https://blackghost.live/play/cine-126.php?c=90&f=.m3u8
-#EXTINF:-1, FXM
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", FXM
 https://blackghost.live/play/cine-126.php?c=91&f=.m3u8
-#EXTINF:-1, TBS
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", TBS
 https://blackghost.live/play/cine-126.php?c=138&f=.m3u8
-#EXTINF:-1, TCM
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", TCM
 https://blackghost.live/play/cine-126.php?c=139&f=.m3u8
-#EXTINF:-1, Cinecanal
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Cinecanal
 https://blackghost.live/play/cine-126.php?c=25&f=.m3u8
-#EXTINF:-1, Cinemax
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Cinemax
 https://blackghost.live/play/cine-126.php?c=26&f=.m3u8
-#EXTINF:-1, Paramount Network
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Paramount Network
 https://blackghost.live/play/cine-126.php?c=127&f=.m3u8
-#EXTINF:-1, TNT Series
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", TNT Series
 https://blackghost.live/play/cine-126.php?c=147&f=.m3u8
-#EXTINF:-1, Fox Premium Action
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Fox Premium Action
 https://blackghost.live/play/cine-126.php?c=65&f=.m3u8
-#EXTINF:-1, Fox Premium Cinema
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Fox Premium Cinema
 https://blackghost.live/play/cine-126.php?c=67&f=.m3u8
-#EXTINF:-1, Fox Premium Comedy
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Fox Premium Comedy
 https://blackghost.live/play/cine-126.php?c=69&f=.m3u8
-#EXTINF:-1, Fox Premium Classics
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Fox Premium Classics
 https://blackghost.live/play/cine-126.php?c=68&f=.m3u8
-#EXTINF:-1, Fox Premium Family
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Fox Premium Family
 https://blackghost.live/play/cine-126.php?c=70&f=.m3u8
-#EXTINF:-1, Fox Premium Series
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Fox Premium Series
 https://blackghost.live/play/cine-126.php?c=72&f=.m3u8
-#EXTINF:-1, Fox Premium Movies
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Fox Premium Movies
 https://blackghost.live/play/cine-126.php?c=71&f=.m3u8
-#EXTINF:-1, Golden
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Golden
 https://blackghost.live/play/cine-126.php?c=95&f=.m3u8
-#EXTINF:-1, Golden Edge
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Golden Edge
 https://blackghost.live/play/cine-126.php?c=96&f=.m3u8
-#EXTINF:-1, HBO
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", HBO
 https://blackghost.live/play/cine-126.php?c=74&f=.m3u8
-#EXTINF:-1, HBO 2
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", HBO 2
 https://blackghost.live/play/cine-126.php?c=75&f=.m3u8
-#EXTINF:-1, HBO Plus
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", HBO Plus
 https://blackghost.live/play/cine-126.php?c=78&f=.m3u8
-#EXTINF:-1, HBO Family
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", HBO Family
 https://blackghost.live/play/cine-126.php?c=76&f=.m3u8
-#EXTINF:-1, HBO Signature
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", HBO Signature
 https://blackghost.live/play/cine-126.php?c=80&f=.m3u8
-#EXTINF:-1, HBO Mundi
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", HBO Mundi
 https://blackghost.live/play/cine-126.php?c=77&f=.m3u8
-#EXTINF:-1, HBO Pop
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", HBO Pop
 https://blackghost.live/play/cine-126.php?c=79&f=.m3u8
-#EXTINF:-1, HBO Xtreme
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", HBO Xtreme
 https://blackghost.live/play/cine-126.php?c=82&f=.m3u8
 
 
-#EXTINF:-1, Tlnovelas
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Tlnovelas
 https://blackghost.live/play/cine-126.php?c=145&f=.m3u8
-#EXTINF:-1, Corazon
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Corazon
 https://blackghost.live/play/cine-126.php?c=13&f=.m3u8
-#EXTINF:-1, Comedy Central
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Comedy Central
 https://blackghost.live/play/cine-126.php?c=30&f=.m3u8
-#EXTINF:-1, Distrito Comedia
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Distrito Comedia
 https://blackghost.live/play/cine-126.php?c=47&f=.m3u8
-#EXTINF:-1, E!
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", E!
 https://blackghost.live/play/cine-126.php?c=50&f=.m3u8
-#EXTINF:-1, Lifetime
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Lifetime
 https://blackghost.live/play/cine-126.php?c=109&f=.m3u8
-#EXTINF:-1, Mundo
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Mundo
 https://blackghost.live/play/cine-126.php?c=14&f=.m3u8
-#EXTINF:-1, ¡Hola! TV
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", ¡Hola! TV
 https://blackghost.live/play/cine-126.php?c=101&f=.m3u8
-#EXTINF:-1, Glitz
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Glitz
 https://blackghost.live/play/cine-126.php?c=94&f=.m3u8
-#EXTINF:-1, TruTV
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", TruTV
 https://blackghost.live/play/cine-126.php?c=149&f=.m3u8
-#EXTINF:-1, Telemundo 51 Miami
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Telemundo 51 Miami
 https://blackghost.live/play/cine-126.php?c=151&f=.m3u8
-#EXTINF:-1, Unicable
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Unicable
 https://blackghost.live/play/cine-126.php?c=158&f=.m3u8
-#EXTINF:-1, Univisión 23 Miami
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Univisión 23 Miami
 https://blackghost.live/play/cine-126.php?c=152&f=.m3u8
 
 
-#EXTINF:-1, DirecTV Sports Plus
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", DirecTV Sports Plus
 https://blackghost.live/play/cine-126.php?c=166&f=.m3u8
-#EXTINF:-1, DirecTV Sports 2
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", DirecTV Sports 2
 https://blackghost.live/play/cine-126.php?c=164&f=.m3u8
-#EXTINF:-1, DirecTV Sports 2 (Alt.)
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", DirecTV Sports 2 (Alt.)
 https://blackghost.live/play/cine-126.php?c=165&f=.m3u8
-#EXTINF:-1, Fox Sports Sur
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Fox Sports Sur
 https://blackghost.live/play/cine-126.php?c=86&f=.m3u8
-#EXTINF:-1, Fox Sports 2 Sur
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Fox Sports 2 Sur
 https://blackghost.live/play/cine-126.php?c=87&f=.m3u8
-#EXTINF:-1, Fox Sports 3 Sur
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Fox Sports 3 Sur
 https://blackghost.live/play/cine-126.php?c=88&f=.m3u8
-#EXTINF:-1, Fox Sports
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Fox Sports
 https://blackghost.live/play/cine-126.php?c=83&f=.m3u8
-#EXTINF:-1, Fox Sports 2
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Fox Sports 2
 https://blackghost.live/play/cine-126.php?c=84&f=.m3u8
-#EXTINF:-1, Fox Sports 3
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Fox Sports 3
 https://blackghost.live/play/cine-126.php?c=85&f=.m3u8
-#EXTINF:-1, ESPN Sur
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", ESPN Sur
 https://blackghost.live/play/cine-126.php?c=55&f=.m3u8
-#EXTINF:-1, ESPN 2 Sur
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", ESPN 2 Sur
 https://blackghost.live/play/cine-126.php?c=56&f=.m3u8
-#EXTINF:-1, ESPN 3 Sur
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", ESPN 3 Sur
 https://blackghost.live/play/cine-126.php?c=57&f=.m3u8
-#EXTINF:-1, ESPN Extra Sur
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", ESPN Extra Sur
 https://blackghost.live/play/cine-126.php?c=58&f=.m3u8
-#EXTINF:-1, ESPN
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", ESPN
 https://blackghost.live/play/cine-126.php?c=51&f=.m3u8
-#EXTINF:-1, ESPN 2
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", ESPN 2
 https://blackghost.live/play/cine-126.php?c=52&f=.m3u8
-#EXTINF:-1, ESPN 3
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", ESPN 3
 https://blackghost.live/play/cine-126.php?c=53&f=.m3u8
-#EXTINF:-1, ESPN Extra
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", ESPN Extra
 https://blackghost.live/play/cine-126.php?c=54&f=.m3u8
-#EXTINF:-1, GolTV
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", GolTV
 https://blackghost.live/play/cine-126.php?c=172&f=.m3u8
-#EXTINF:-1, GolTV (Alt.)
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", GolTV (Alt.)
 https://blackghost.live/play/cine-126.php?c=178&f=.m3u8
-#EXTINF:-1, TNT Sports
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", TNT Sports
 https://blackghost.live/play/cine-126.php?c=200&f=.m3u8
-#EXTINF:-1, TUDN USA
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", TUDN USA
 https://blackghost.live/play/cine-126.php?c=150&f=.m3u8
-#EXTINF:-1, Claro Sports
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Claro Sports
 https://blackghost.live/play/cine-126.php?c=33&f=.m3u8
-#EXTINF:-1, Claro Sports 2
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Claro Sports 2
 https://blackghost.live/play/cine-126.php?c=32&f=.m3u8
-#EXTINF:-1, Golf Channel
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Golf Channel
 https://blackghost.live/play/cine-126.php?c=97&f=.m3u8
-#EXTINF:-1, Garage TV
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Garage TV
 https://blackghost.live/play/cine-126.php?c=93&f=.m3u8
 
 
-#EXTINF:-1, CNN En Español
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", CNN En Español
 https://blackghost.live/play/cine-126.php?c=27&f=.m3u8
-#EXTINF:-1, CNN International
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", CNN International
 https://blackghost.live/play/cine-126.php?c=29&f=.m3u8
-#EXTINF:-1, Justicia TV
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Justicia TV
 https://blackghost.live/play/cine-126.php?c=22&f=.m3u8
-#EXTINF:-1, 24 Horas
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", 24 Horas
 https://blackghost.live/play/cine-126.php?c=204&f=.m3u8
-#EXTINF:-1, RT (Español)
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", RT (Español)
 https://blackghost.live/play/cine-126.php?c=131&f=.m3u8
 
 
-#EXTINF:-1, Clic
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Clic
 https://blackghost.live/play/cine-126.php?c=12&f=.m3u8
-#EXTINF:-1, MTV
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", MTV
 https://blackghost.live/play/cine-126.php?c=115&f=.m3u8
-#EXTINF:-1, MTV Live HD
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", MTV Live HD
 https://blackghost.live/play/cine-126.php?c=117&f=.m3u8
-#EXTINF:-1, Nick Music
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Nick Music
 https://blackghost.live/play/cine-126.php?c=126&f=.m3u8
-#EXTINF:-1, VH1 Europe
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", VH1 Europe
 https://blackghost.live/play/cine-126.php?c=161&f=.m3u8
 
 #EXTIF:-1, Azteca Uno
 https://blackghost.live/play/cine-126.php?c=16&f=.m3u8
-#EXTINF:-1, Las Estrellas
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Las Estrellas
 https://blackghost.live/play/cine-126.php?c=107&f=.m3u8
-#EXTINF:-1, Imagen Televisión
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Imagen Televisión
 https://blackghost.live/play/cine-126.php?c=103&f=.m3u8
-#EXTINF:-1, Foro TV
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Foro TV
 https://blackghost.live/play/cine-126.php?c=62&f=.m3u8
-#EXTINF:-1, Canal 5
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Canal 5
 https://blackghost.live/play/cine-126.php?c=21&f=.m3u8
-#EXTINF:-1, Azteca 7
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Azteca 7
 https://blackghost.live/play/cine-126.php?c=15&f=.m3u8
-#EXTINF:-1, ADN 40
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", ADN 40
 https://blackghost.live/play/cine-126.php?c=5&f=.m3u8
 
-#EXTINF:-1, Canal UNO
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Canal UNO
 https://blackghost.live/play/cine-126.php?c=167&f=.m3u8
-#EXTINF:-1, Canal 7 EC
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Canal 7 EC
 https://blackghost.live/play/cine-126.php?c=169&f=.m3u8
-#EXTINF:-1, Ecuavisa
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Ecuavisa
 https://blackghost.live/play/cine-126.php?c=170&f=.m3u8
-#EXTINF:-1, Gamavision
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Gamavision
 https://blackghost.live/play/cine-126.php?c=171&f=.m3u8
-#EXTINF:-1, Oromar TV
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Oromar TV
 https://blackghost.live/play/cine-126.php?c=173&f=.m3u8
-#EXTINF:-1, RTS
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", RTS
 https://blackghost.live/play/cine-126.php?c=174&f=.m3u8
-#EXTINF:-1, TeleAmazonas
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", TeleAmazonas
 https://blackghost.live/play/cine-126.php?c=176&f=.m3u8
-#EXTINF:-1, TVC EC
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", TVC EC
 https://blackghost.live/play/cine-126.php?c=177&f=.m3u8
 
-#EXTINF:-1, Cablenoticias
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Cablenoticias
 https://blackghost.live/play/cine-126.php?c=179&f=.m3u8
-#EXTINF:-1, Tr3ce
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Tr3ce
 https://blackghost.live/play/cine-126.php?c=180&f=.m3u8
-#EXTINF:-1, Canal 1
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Canal 1
 https://blackghost.live/play/cine-126.php?c=181&f=.m3u8
-#EXTINF:-1, Caracol Televisión
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Caracol Televisión
 https://blackghost.live/play/cine-126.php?c=182&f=.m3u8
-#EXTINF:-1, Caracol Televisión
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Caracol Televisión
 https://blackghost.live/play/cine-126.php?c=183&f=.m3u8
-#EXTINF:-1, CityTV
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", CityTV
 https://blackghost.live/play/cine-126.php?c=184&f=.m3u8
-#EXTINF:-1, El Tiempo Televisión
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", El Tiempo Televisión
 https://blackghost.live/play/cine-126.php?c=185&f=.m3u8
-#EXTINF:-1, Nuestra Tele Noticias 24
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Nuestra Tele Noticias 24
 https://blackghost.live/play/cine-126.php?c=186&f=.m3u8
-#EXTINF:-1, RCN
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", RCN
 https://blackghost.live/play/cine-126.php?c=187&f=.m3u8
-#EXTINF:-1, Señal Colombia
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Señal Colombia
 https://blackghost.live/play/cine-126.php?c=227&f=.m3u8
 
 
-#EXTINF:-1, Canal 26 TV
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Canal 26 TV
 https://blackghost.live/play/cine-126.php?c=190&f=.m3u8
-#EXTINF:-1, Telefe
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Telefe
 https://blackghost.live/play/cine-126.php?c=195&f=.m3u8
-#EXTINF:-1, Telemax
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Telemax
 https://blackghost.live/play/cine-126.php?c=197&f=.m3u8
-#EXTINF:-1, Telered
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Telered
 https://blackghost.live/play/cine-126.php?c=199&f=.m3u8
 
-#EXTINF:-1, 13c
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", 13c
 https://blackghost.live/play/cine-126.php?c=201&f=.m3u8
-#EXTINF:-1, 13i
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", 13i
 https://blackghost.live/play/cine-126.php?c=202&f=.m3u8
-#EXTINF:-1, Canal 13
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Canal 13
 https://blackghost.live/play/cine-126.php?c=203&f=.m3u8
-#EXTINF:-1, CDF
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", CDF
 https://blackghost.live/play/cine-126.php?c=206&f=.m3u8
-#EXTINF:-1, CDF (Alt.)
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", CDF (Alt.)
 https://blackghost.live/play/cine-126.php?c=207&f=.m3u8
-#EXTINF:-1, CDO
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", CDO
 https://blackghost.live/play/cine-126.php?c=208&f=.m3u8
-#EXTINF:-1, CDO (Alt.)
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", CDO (Alt.)
 https://blackghost.live/play/cine-126.php?c=210&f=.m3u8
-#EXTINF:-1, Chilevisión
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Chilevisión
 https://blackghost.live/play/cine-126.php?c=211&f=.m3u8
-#EXTINF:-1, CNN CL
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", CNN CL
 https://blackghost.live/play/cine-126.php?c=212&f=.m3u8
-#EXTINF:-1, La Red
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", La Red
 https://blackghost.live/play/cine-126.php?c=214&f=.m3u8
-#EXTINF:-1, Mega
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Mega
 https://blackghost.live/play/cine-126.php?c=215&f=.m3u8
-#EXTINF:-1, TVN
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", TVN
 https://blackghost.live/play/cine-126.php?c=217&f=.m3u8
 
 
-#EXTINF:-1, ATV
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", ATV
 https://blackghost.live/play/cine-126.php?c=224&f=.m3u8
-#EXTINF:-1, ipe
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", ipe
 https://blackghost.live/play/cine-126.php?c=225&f=.m3u8
-#EXTINF:-1, Frecuencia Latina
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Frecuencia Latina
 https://blackghost.live/play/cine-126.php?c=228&f=.m3u8
-#EXTINF:-1, Latele
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Latele
 https://blackghost.live/play/cine-126.php?c=230&f=.m3u8
-#EXTINF:-1, Movistar Deportes
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Movistar Deportes
 https://blackghost.live/play/cine-126.php?c=231&f=.m3u8
-#EXTINF:-1, Panamericana
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Panamericana
 https://blackghost.live/play/cine-126.php?c=234&f=.m3u8
-#EXTINF:-1, TVpe
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", TVpe
 https://blackghost.live/play/cine-126.php?c=235&f=.m3u8
 
-#EXTINF:-1, WIPR
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", WIPR
 https://blackghost.live/play/cine-126.php?c=237&f=.m3u8
-#EXTINF:-1, Telemundo PR
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Telemundo PR
 https://blackghost.live/play/cine-126.php?c=239&f=.m3u8
-#EXTINF:-1, Univisión PR
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", Univisión PR
 https://blackghost.live/play/cine-126.php?c=240&f=.m3u8
-#EXTINF:-1, WAPA
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", WAPA
 https://blackghost.live/play/cine-126.php?c=241&f=.m3u8
-#EXTINF:-1, WAPA Deportes
+#EXTINF:-1, group-title="BG (REQUIERE ACTIVACIÓN)", WAPA Deportes
 https://blackghost.live/play/cine-126.php?c=242&f=.m3u8
 
 
-#EXTINF:-1, BGTP
-rtsp://
-
-
 *** NACIONALES ***
-#EXTINF:-1, Azteca Uno (HD)
+#EXTINF:-1, group-title="BG-T0T4L", Azteca Uno (HD)
 https://blackghost.live/play/totalp1-126.php?c=7&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Clic
+#EXTINF:-1, group-title="BG-T0T4L", Clic
 https://blackghost.live/play/totalp1-126.php?c=11&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Las Estrellas
+#EXTINF:-1, group-title="BG-T0T4L", Las Estrellas
 https://blackghost.live/play/totalp1-126.php?c=17&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Foro TV
+#EXTINF:-1, group-title="BG-T0T4L", Foro TV
 https://blackghost.live/play/totalp1-126.php?c=19&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Canal 5
+#EXTINF:-1, group-title="BG-T0T4L", Canal 5
 https://blackghost.live/play/totalp1-126.php?c=20&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Azteca 7
+#EXTINF:-1, group-title="BG-T0T4L", Azteca 7
 https://blackghost.live/play/totalp1-126.php?c=21&p=3&k=black&f=.m3u8 
-#EXTINF:-1, NU9VE
+#EXTINF:-1, group-title="BG-T0T4L", NU9VE
 https://blackghost.live/play/totalp1-126.php?c=24&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Canal Once
+#EXTINF:-1, group-title="BG-T0T4L", Canal Once
 https://blackghost.live/play/totalp1-126.php?c=25&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Azteca Uno
+#EXTINF:-1, group-title="BG-T0T4L", Azteca Uno
 https://blackghost.live/play/totalp1-126.php?c=27&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Teleformula
+#EXTINF:-1, group-title="BG-T0T4L", Teleformula
 https://blackghost.live/play/totalp1-126.php?c=32&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Mexiquense Televisión
+#EXTINF:-1, group-title="BG-T0T4L", Mexiquense Televisión
 https://blackghost.live/play/totalp1-126.php?c=44&p=3&k=black&f=.m3u8
-#EXTINF:-1, ADN 40
+#EXTINF:-1, group-title="BG-T0T4L", ADN 40
 https://blackghost.live/play/totalp1-126.php?c=40&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Corazón
+#EXTINF:-1, group-title="BG-T0T4L", Corazón
 https://blackghost.live/play/totalp1-126.php?c=70&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Mundo
+#EXTINF:-1, group-title="BG-T0T4L", Mundo
 https://blackghost.live/play/totalp1-126.php?c=84&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Azteca 7 (HD)
+#EXTINF:-1, group-title="BG-T0T4L", Azteca 7 (HD)
 https://blackghost.live/play/totalp1-126.php?c=317&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Azteca 7
+#EXTINF:-1, group-title="BG-T0T4L", Azteca 7
 https://blackghost.live/play/totalp1-126.php?c=322&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Imagen Televisión
+#EXTINF:-1, group-title="BG-T0T4L", Imagen Televisión
 https://blackghost.live/play/totalp1-126.php?c=2298&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Imagen Multicast
+#EXTINF:-1, group-title="BG-T0T4L", Imagen Multicast
 https://blackghost.live/play/totalp1-126.php?c=1449&p=3&k=black&f=.m3u8
-#EXTINF:-1, Multimedios Monterrey (XHAW-TDT)
+#EXTINF:-1, group-title="BG-T0T4L", Multimedios Monterrey (XHAW-TDT)
 https://blackghost.live/play/totalp1-126.php?c=2305&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Aprende En Casa 2 Bachillerato (ESPEJO 14.2/22.1)
+#EXTINF:-1, group-title="BG-T0T4L", Aprende En Casa 2 Bachillerato (ESPEJO 14.2/22.1)
 https://blackghost.live/play/totalp1-126.php?c=401&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Multimedios
+#EXTINF:-1, group-title="BG-T0T4L", Multimedios
 https://blackghost.live/play/totalp1-126.php?c=1253&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Aprende En Casa 2 Bachillerato (6.3)
+#EXTINF:-1, group-title="BG-T0T4L", Aprende En Casa 2 Bachillerato (6.3)
 https://blackghost.live/play/totalp1-126.php?c=1943&p=3&k=black&f=.m3u8
-#EXTINF:-1, NU9VE
+#EXTINF:-1, group-title="BG-T0T4L", NU9VE
 https://blackghost.live/play/totalp1-126.php?c=1783&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Las Estrellas (HD)
+#EXTINF:-1, group-title="BG-T0T4L", Las Estrellas (HD)
 https://blackghost.live/play/totalp1-126.php?c=1784&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Foro TV (HD)
+#EXTINF:-1, group-title="BG-T0T4L", Foro TV (HD)
 https://blackghost.live/play/totalp1-126.php?c=4&p=3&k=black&f=.m3u8
-#EXTINF:-1, Canal 5 (HD)
+#EXTINF:-1, group-title="BG-T0T4L", Canal 5 (HD)
 https://blackghost.live/play/totalp1-126.php?c=1785&p=3&k=black&f=.m3u8
-#EXTINF:-1, ADN 40 (HD)
+#EXTINF:-1, group-title="BG-T0T4L", ADN 40 (HD)
 https://blackghost.live/play/totalp1-126.php?c=184&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Canal Once (HD)
+#EXTINF:-1, group-title="BG-T0T4L", Canal Once (HD)
 https://blackghost.live/play/totalp1-126.php?c=1942&p=3&k=black&f=.m3u8  
-#EXTINF:-1, MVS TV (XHSAW-TDT4)
+#EXTINF:-1, group-title="BG-T0T4L", MVS TV (XHSAW-TDT4)
 https://blackghost.live/play/totalp1-126.php?c=2149&p=3&k=black&f=.m3u8  
-#EXTINF:-1, TVC
+#EXTINF:-1, group-title="BG-T0T4L", TVC
 https://blackghost.live/play/totalp1-126.php?c=2156&p=3&k=black&f=.m3u8 
-#EXTINF:-1, TV Cuatro
+#EXTINF:-1, group-title="BG-T0T4L", TV Cuatro
 https://blackghost.live/play/totalp1-126.php?c=2274&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Televisa Monterrey (XHCNL-TDT)
+#EXTINF:-1, group-title="BG-T0T4L", Televisa Monterrey (XHCNL-TDT)
 https://blackghost.live/play/totalp1-126.php?c=2307&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Televisa Puebla
+#EXTINF:-1, group-title="BG-T0T4L", Televisa Puebla
 https://blackghost.live/play/totalp1-126.php?c=2312&p=3&k=black&f=.m3u8  
-#EXTINF:-1, A+ (XHFN-TDT2)
+#EXTINF:-1, group-title="BG-T0T4L", A+ (XHFN-TDT2)
 https://blackghost.live/play/totalp1-126.php?c=2316&p=3&k=black&f=.m3u8  
-#EXTINF:-1, TV Más
+#EXTINF:-1, group-title="BG-T0T4L", TV Más
 https://blackghost.live/play/totalp1-126.php?c=2324&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Canal del Congreso
+#EXTINF:-1, group-title="BG-T0T4L", Canal del Congreso
 https://blackghost.live/play/totalp1-126.php?c=2331&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Multimedios Bajío (XHLGG-TDT)
+#EXTINF:-1, group-title="BG-T0T4L", Multimedios Bajío (XHLGG-TDT)
 https://blackghost.live/play/totalp1-126.php?c=2352&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Imagen Televisión (HD)
+#EXTINF:-1, group-title="BG-T0T4L", Imagen Televisión (HD)
 https://blackghost.live/play/totalp1-126.php?c=2606&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Multimedios (HD)
+#EXTINF:-1, group-title="BG-T0T4L", Multimedios (HD)
 https://blackghost.live/play/totalp1-126.php?c=2882&p=3&k=black&f=.m3u8  
 
 
 *** INFANTILES ***
-#EXTINF:-1, Tooncast
+#EXTINF:-1, group-title="BG-T0T4L", Tooncast
 https://blackghost.live/play/totalp1-126.php?c=108&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Discovery Kids
+#EXTINF:-1, group-title="BG-T0T4L", Discovery Kids
 https://blackghost.live/play/totalp1-126.php?c=109&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Nick
+#EXTINF:-1, group-title="BG-T0T4L", Nick
 https://blackghost.live/play/totalp1-126.php?c=110&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Disney XD
+#EXTINF:-1, group-title="BG-T0T4L", Disney XD
 https://blackghost.live/play/totalp1-126.php?c=111&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Cartoon Network
+#EXTINF:-1, group-title="BG-T0T4L", Cartoon Network
 https://blackghost.live/play/totalp1-126.php?c=112&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Disney Channel
+#EXTINF:-1, group-title="BG-T0T4L", Disney Channel
 https://blackghost.live/play/totalp1-126.php?c=113&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Boomerang
+#EXTINF:-1, group-title="BG-T0T4L", Boomerang
 https://blackghost.live/play/totalp1-126.php?c=115&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Baby TV
+#EXTINF:-1, group-title="BG-T0T4L", Baby TV
 https://blackghost.live/play/totalp1-126.php?c=116&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Nick Jr.
+#EXTINF:-1, group-title="BG-T0T4L", Nick Jr.
 https://blackghost.live/play/totalp1-126.php?c=117&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Disney Junior
+#EXTINF:-1, group-title="BG-T0T4L", Disney Junior
 https://blackghost.live/play/totalp1-126.php?c=118&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Baby First
+#EXTINF:-1, group-title="BG-T0T4L", Baby First
 https://blackghost.live/play/totalp1-126.php?c=1984&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Teennick
+#EXTINF:-1, group-title="BG-T0T4L", Teennick
 https://blackghost.live/play/totalp1-126.php?c=2147&p=3&k=black&f=.m3u8
-#EXTINF:-1, Nat Geo Kids
+#EXTINF:-1, group-title="BG-T0T4L", Nat Geo Kids
 https://blackghost.live/play/totalp1-126.php?c=2373&p=3&k=black&f=.m3u8 
-#EXTINF:-1, BitMe
+#EXTINF:-1, group-title="BG-T0T4L", BitMe
 https://blackghost.live/play/totalp1-126.php?c=2591&p=3&k=black&f=.m3u8
 
 *** CINE ***
-#EXTINF:-1, TBS
+#EXTINF:-1, group-title="BG-T0T4L", TBS
 https://blackghost.live/play/totalp1-126.php?c=81&p=3&k=black&f=.m3u8 
-#EXTINF:-1, De Película Plus
+#EXTINF:-1, group-title="BG-T0T4L", De Película Plus
 https://blackghost.live/play/totalp1-126.php?c=121&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Golden Plus
+#EXTINF:-1, group-title="BG-T0T4L", Golden Plus
 https://blackghost.live/play/totalp1-126.php?c=122&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Golden
+#EXTINF:-1, group-title="BG-T0T4L", Golden
 https://blackghost.live/play/totalp1-126.php?c=123&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Golden Edge
+#EXTINF:-1, group-title="BG-T0T4L", Golden Edge
 https://blackghost.live/play/totalp1-126.php?c=124&p=3&k=black&f=.m3u8 
-#EXTINF:-1, TNT
+#EXTINF:-1, group-title="BG-T0T4L", TNT
 https://blackghost.live/play/totalp1-126.php?c=126&p=3&k=black&f=.m3u8  
-#EXTINF:-1, TCM
+#EXTINF:-1, group-title="BG-T0T4L", TCM
 https://blackghost.live/play/totalp1-126.php?c=128&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Space
+#EXTINF:-1, group-title="BG-T0T4L", Space
 https://blackghost.live/play/totalp1-126.php?c=129&p=3&k=black&f=.m3u8  
-#EXTINF:-1, AMC
+#EXTINF:-1, group-title="BG-T0T4L", AMC
 https://blackghost.live/play/totalp1-126.php?c=131&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Studio Universal
+#EXTINF:-1, group-title="BG-T0T4L", Studio Universal
 https://blackghost.live/play/totalp1-126.php?c=132&p=3&k=black&f=.m3u8  
-#EXTINF:-1, I-Sat
+#EXTINF:-1, group-title="BG-T0T4L", I-Sat
 https://blackghost.live/play/totalp1-126.php?c=135&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Europa Europa
+#EXTINF:-1, group-title="BG-T0T4L", Europa Europa
 https://blackghost.live/play/totalp1-126.php?c=136&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Film & Arts
+#EXTINF:-1, group-title="BG-T0T4L", Film & Arts
 https://blackghost.live/play/totalp1-126.php?c=137&p=3&k=black&f=.m3u8  
-#EXTINF:-1, FXM
+#EXTINF:-1, group-title="BG-T0T4L", FXM
 https://blackghost.live/play/totalp1-126.php?c=138&p=3&k=black&f=.m3u8  
-#EXTINF:-1, FXM
+#EXTINF:-1, group-title="BG-T0T4L", FXM
 https://blackghost.live/play/totalp1-126.php?c=332&p=3&k=black&f=.m3u8
-#EXTINF:-1, Fox Premium Series
+#EXTINF:-1, group-title="BG-T0T4L", Fox Premium Series
 https://blackghost.live/play/totalp1-126.php?c=139&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Morbido TV
+#EXTINF:-1, group-title="BG-T0T4L", Morbido TV
 https://blackghost.live/play/totalp1-126.php?c=140&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Fox Premium Movies 
+#EXTINF:-1, group-title="BG-T0T4L", Fox Premium Movies 
 https://blackghost.live/play/totalp1-126.php?c=146&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Cinecanal
+#EXTINF:-1, group-title="BG-T0T4L", Cinecanal
 https://blackghost.live/play/totalp1-126.php?c=149&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Cinemax
+#EXTINF:-1, group-title="BG-T0T4L", Cinemax
 https://blackghost.live/play/totalp1-126.php?c=158&p=3&k=black&f=.m3u8
-#EXTINF:-1, AMC
+#EXTINF:-1, group-title="BG-T0T4L", AMC
 https://blackghost.live/play/totalp1-126.php?c=328&p=3&k=black&f=.m3u8  
-#EXTINF:-1, De Película
+#EXTINF:-1, group-title="BG-T0T4L", De Película
 https://blackghost.live/play/totalp1-126.php?c=335&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Fox Premium Action
+#EXTINF:-1, group-title="BG-T0T4L", Fox Premium Action
 https://blackghost.live/play/totalp1-126.php?c=336&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Paramount Network
+#EXTINF:-1, group-title="BG-T0T4L", Paramount Network
 https://blackghost.live/play/totalp1-126.php?c=1726&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Fox Premium Cinema
+#EXTINF:-1, group-title="BG-T0T4L", Fox Premium Cinema
 https://blackghost.live/play/totalp1-126.php?c=1729&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Fox Premium Classics
+#EXTINF:-1, group-title="BG-T0T4L", Fox Premium Classics
 https://blackghost.live/play/totalp1-126.php?c=1732&p=3&k=black&f=.m3u8
-#EXTINF:-1, Cinema
+#EXTINF:-1, group-title="BG-T0T4L", Cinema
 https://blackghost.live/play/totalp1-126.php?c=1787&p=3&k=black&f=.m3u8 
 
 *** ENTRETENIMIENTO ***
-#EXTINF:-1, Telemundo Internacional
+#EXTINF:-1, group-title="BG-T0T4L", Telemundo Internacional
 https://blackghost.live/play/totalp1-126.php?c=85&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Fox Channel
+#EXTINF:-1, group-title="BG-T0T4L", Fox Channel
 https://blackghost.live/play/totalp1-126.php?c=46&p=3&k=black&f=.m3u8
-#EXTINF:-1, Sony Channel
+#EXTINF:-1, group-title="BG-T0T4L", Sony Channel
 https://blackghost.live/play/totalp1-126.php?c=48&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Warner
+#EXTINF:-1, group-title="BG-T0T4L", Warner
 https://blackghost.live/play/totalp1-126.php?c=52&p=3&k=black&f=.m3u8  
-#EXTINF:-1, E!
+#EXTINF:-1, group-title="BG-T0T4L", E!
 https://blackghost.live/play/totalp1-126.php?c=55&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Universal
+#EXTINF:-1, group-title="BG-T0T4L", Universal
 https://blackghost.live/play/totalp1-126.php?c=57&p=3&k=black&f=.m3u8  
-#EXTINF:-1, SYFY
+#EXTINF:-1, group-title="BG-T0T4L", SYFY
 https://blackghost.live/play/totalp1-126.php?c=59&p=3&k=black&f=.m3u8  
-#EXTINF:-1, FX
+#EXTINF:-1, group-title="BG-T0T4L", FX
 https://blackghost.live/play/totalp1-126.php?c=60&p=3&k=black&f=.m3u8  
-#EXTINF:-1, A&E
+#EXTINF:-1, group-title="BG-T0T4L", A&E
 https://blackghost.live/play/totalp1-126.php?c=62&p=3&k=black&f=.m3u8  
-#EXTINF:-1, AXN
+#EXTINF:-1, group-title="BG-T0T4L", AXN
 https://blackghost.live/play/totalp1-126.php?c=64&p=3&k=black&f=.m3u8  
-#EXTINF:-1, TNT Series
+#EXTINF:-1, group-title="BG-T0T4L", TNT Series
 https://blackghost.live/play/totalp1-126.php?c=71&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Glitz
+#EXTINF:-1, group-title="BG-T0T4L", Glitz
 https://blackghost.live/play/totalp1-126.php?c=76&p=3&k=black&f=.m3u8 
-#EXTINF:-1, ElGourmet
+#EXTINF:-1, group-title="BG-T0T4L", ElGourmet
 https://blackghost.live/play/totalp1-126.php?c=74&p=3&k=black&f=.m3u8
-#EXTINF:-1, Fox Life
+#EXTINF:-1, group-title="BG-T0T4L", Fox Life
 https://blackghost.live/play/totalp1-126.php?c=77&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Distrito Comedia
+#EXTINF:-1, group-title="BG-T0T4L", Distrito Comedia
 https://blackghost.live/play/totalp1-126.php?c=78&p=3&k=black&f=.m3u8  
-#EXTINF:-1, TruTV
+#EXTINF:-1, group-title="BG-T0T4L", TruTV
 https://blackghost.live/play/totalp1-126.php?c=79&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Tlnovelas
+#EXTINF:-1, group-title="BG-T0T4L", Tlnovelas
 https://blackghost.live/play/totalp1-126.php?c=83&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Lifetime
+#EXTINF:-1, group-title="BG-T0T4L", Lifetime
 https://blackghost.live/play/totalp1-126.php?c=94&p=3&k=black&f=.m3u8
-#EXTINF:-1, Antena 3 Internacional
+#EXTINF:-1, group-title="BG-T0T4L", Antena 3 Internacional
 https://blackghost.live/play/totalp1-126.php?c=199&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Fox Channel (HD)
+#EXTINF:-1, group-title="BG-T0T4L", Fox Channel (HD)
 https://blackghost.live/play/totalp1-126.php?c=201&p=3&k=black&f=.m3u8
-#EXTINF:-1, Warner (HD)
+#EXTINF:-1, group-title="BG-T0T4L", Warner (HD)
 https://blackghost.live/play/totalp1-126.php?c=205&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Universal (HD)
+#EXTINF:-1, group-title="BG-T0T4L", Universal (HD)
 https://blackghost.live/play/totalp1-126.php?c=207&p=3&k=black&f=.m3u8  
-#EXTINF:-1, FX (HD)
+#EXTINF:-1, group-title="BG-T0T4L", FX (HD)
 https://blackghost.live/play/totalp1-126.php?c=209&p=3&k=black&f=.m3u8
-#EXTINF:-1, TruTV (HD)
+#EXTINF:-1, group-title="BG-T0T4L", TruTV (HD)
 https://blackghost.live/play/totalp1-126.php?c=215&p=3&k=black&f=.m3u8  
-#EXTINF:-1, ¡Hola! TV
+#EXTINF:-1, group-title="BG-T0T4L", ¡Hola! TV
 https://blackghost.live/play/totalp1-126.php?c=219&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Comedy Central
+#EXTINF:-1, group-title="BG-T0T4L", Comedy Central
 https://blackghost.live/play/totalp1-126.php?c=340&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Unicable
+#EXTINF:-1, group-title="BG-T0T4L", Unicable
 https://blackghost.live/play/totalp1-126.php?c=1499&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Mas Chic
+#EXTINF:-1, group-title="BG-T0T4L", Mas Chic
 https://blackghost.live/play/totalp1-126.php?c=1842&p=3&k=black&f=.m3u8  
-#EXTINF:-1, A3 Series
+#EXTINF:-1, group-title="BG-T0T4L", A3 Series
 https://blackghost.live/play/totalp1-126.php?c=2113&p=3&k=black&f=.m3u8 
 
 *** DEPORTES ***
-#EXTINF:-1, ESPN Extra
+#EXTINF:-1, group-title="BG-T0T4L", ESPN Extra
 https://blackghost.live/play/totalp1-126.php?c=167&p=3&k=black&f=.m3u8 
-#EXTINF:-1, ESPN
+#EXTINF:-1, group-title="BG-T0T4L", ESPN
 https://blackghost.live/play/totalp1-126.php?c=168&p=3&k=black&f=.m3u8  
-#EXTINF:-1, ESPN 2
+#EXTINF:-1, group-title="BG-T0T4L", ESPN 2
 https://blackghost.live/play/totalp1-126.php?c=169&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Fox Sports
+#EXTINF:-1, group-title="BG-T0T4L", Fox Sports
 https://blackghost.live/play/totalp1-126.php?c=170&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Fox Sports 2
+#EXTINF:-1, group-title="BG-T0T4L", Fox Sports 2
 https://blackghost.live/play/totalp1-126.php?c=172&p=3&k=black&f=.m3u8  
-#EXTINF:-1, TUDN (HD)
+#EXTINF:-1, group-title="BG-T0T4L", TUDN (HD)
 https://blackghost.live/play/totalp1-126.php?c=174&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Fox Sports 3
+#EXTINF:-1, group-title="BG-T0T4L", Fox Sports 3
 https://blackghost.live/play/totalp1-126.php?c=178&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Golf Channel
+#EXTINF:-1, group-title="BG-T0T4L", Golf Channel
 https://blackghost.live/play/totalp1-126.php?c=179&p=3&k=black&f=.m3u8  
-#EXTINF:-1, AYM Sports
+#EXTINF:-1, group-title="BG-T0T4L", AYM Sports
 https://blackghost.live/play/totalp1-126.php?c=180&p=3&k=black&f=.m3u8 
-#EXTINF:-1, ESPN 3
+#EXTINF:-1, group-title="BG-T0T4L", ESPN 3
 https://blackghost.live/play/totalp1-126.php?c=345&p=3&k=black&f=.m3u8  
-#EXTINF:-1, TUDN
+#EXTINF:-1, group-title="BG-T0T4L", TUDN
 https://blackghost.live/play/totalp1-126.php?c=1049&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Adrenalina Sports Network
+#EXTINF:-1, group-title="BG-T0T4L", Adrenalina Sports Network
 https://blackghost.live/play/totalp1-126.php?c=1799&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Latin American Sports
+#EXTINF:-1, group-title="BG-T0T4L", Latin American Sports
 https://blackghost.live/play/totalp1-126.php?c=2089&p=3&k=black&f=.m3u8
-#EXTINF:-1, Havoc
+#EXTINF:-1, group-title="BG-T0T4L", Havoc
 https://blackghost.live/play/totalp1-126.php?c=2148&p=3&k=black&f=.m3u8
-#EXTINF:-1, TVC Deportes
+#EXTINF:-1, group-title="BG-T0T4L", TVC Deportes
 https://blackghost.live/play/totalp1-126.php?c=2157&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Claro Sports
+#EXTINF:-1, group-title="BG-T0T4L", Claro Sports
 https://blackghost.live/play/totalp1-126.php?c=2564&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Fuel TV
+#EXTINF:-1, group-title="BG-T0T4L", Fuel TV
 https://blackghost.live/play/totalp1-126.php?c=2587&p=3&k=black&f=.m3u8 
 
 *** CULTURALES ***
-#EXTINF:-1, Investigation Discovery
+#EXTINF:-1, group-title="BG-T0T4L", Investigation Discovery
 https://blackghost.live/play/totalp1-126.php?c=68&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Garage TV 
+#EXTINF:-1, group-title="BG-T0T4L", Garage TV 
 https://blackghost.live/play/totalp1-126.php?c=75&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Discovery
+#EXTINF:-1, group-title="BG-T0T4L", Discovery
 https://blackghost.live/play/totalp1-126.php?c=86&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Animal Planet
+#EXTINF:-1, group-title="BG-T0T4L", Animal Planet
 https://blackghost.live/play/totalp1-126.php?c=88&p=3&k=black&f=.m3u8  
-#EXTINF:-1, History
+#EXTINF:-1, group-title="BG-T0T4L", History
 https://blackghost.live/play/totalp1-126.php?c=89&p=3&k=black&f=.m3u8  
-#EXTINF:-1, National Geographic  
+#EXTINF:-1, group-title="BG-T0T4L", National Geographic  
 https://blackghost.live/play/totalp1-126.php?c=91&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Nat Geo Wild
+#EXTINF:-1, group-title="BG-T0T4L", Nat Geo Wild
 https://blackghost.live/play/totalp1-126.php?c=92&p=3&k=black&f=.m3u8
-#EXTINF:-1, Discovery Theater HD
+#EXTINF:-1, group-title="BG-T0T4L", Discovery Theater HD
 https://blackghost.live/play/totalp1-126.php?c=95&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Discovery Home & Health
+#EXTINF:-1, group-title="BG-T0T4L", Discovery Home & Health
 https://blackghost.live/play/totalp1-126.php?c=96&p=3&k=black&f=.m3u8 
-#EXTINF:-1, TLC
+#EXTINF:-1, group-title="BG-T0T4L", TLC
 https://blackghost.live/play/totalp1-126.php?c=97&p=3&k=black&f=.m3u8
-#EXTINF:-1, Discovery Science
+#EXTINF:-1, group-title="BG-T0T4L", Discovery Science
 https://blackghost.live/play/totalp1-126.php?c=98&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Discovery World HD
+#EXTINF:-1, group-title="BG-T0T4L", Discovery World HD
 https://blackghost.live/play/totalp1-126.php?c=101&p=3&k=black&f=.m3u8
-#EXTINF:-1, TVE Internacional
+#EXTINF:-1, group-title="BG-T0T4L", TVE Internacional
 https://blackghost.live/play/totalp1-126.php?c=198&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Food Network
+#EXTINF:-1, group-title="BG-T0T4L", Food Network
 https://blackghost.live/play/totalp1-126.php?c=2145&p=3&k=black&f=.m3u8 
-#EXTINF:-1, TVE Star HD
+#EXTINF:-1, group-title="BG-T0T4L", TVE Star HD
 https://blackghost.live/play/totalp1-126.php?c=2375&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Discovery Turbo
+#EXTINF:-1, group-title="BG-T0T4L", Discovery Turbo
 https://blackghost.live/play/totalp1-126.php?c=2379&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Curiosity Stream
+#EXTINF:-1, group-title="BG-T0T4L", Curiosity Stream
 https://blackghost.live/play/totalp1-126.php?c=2594&p=3&k=black&f=.m3u8  
 
 
 *** MUSICA ***
-#EXTINF:-1, MTV Live HD
+#EXTINF:-1, group-title="BG-T0T4L", MTV Live HD
 https://blackghost.live/play/totalp1-126.php?c=211&p=3&k=black&f=.m3u8  
-#EXTINF:-1, MTV
+#EXTINF:-1, group-title="BG-T0T4L", MTV
 https://blackghost.live/play/totalp1-126.php?c=212&p=3&k=black&f=.m3u8  
-#EXTINF:-1, MTV Hits
+#EXTINF:-1, group-title="BG-T0T4L", MTV Hits
 https://blackghost.live/play/totalp1-126.php?c=213&p=3&k=black&f=.m3u8  
-#EXTINF:-1, MTV 80s
+#EXTINF:-1, group-title="BG-T0T4L", MTV 80s
 https://blackghost.live/play/totalp1-126.php?c=214&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Nickmusic
+#EXTINF:-1, group-title="BG-T0T4L", Nickmusic
 https://blackghost.live/play/totalp1-126.php?c=1708&p=3&k=black&f=.m3u8  
-#EXTINF:-1, VH1 Europe
+#EXTINF:-1, group-title="BG-T0T4L", VH1 Europe
 https://blackghost.live/play/totalp1-126.php?c=217&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Telehit Música
+#EXTINF:-1, group-title="BG-T0T4L", Telehit Música
 https://blackghost.live/play/totalp1-126.php?c=218&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Telehit Música Plus
+#EXTINF:-1, group-title="BG-T0T4L", Telehit Música Plus
 https://blackghost.live/play/totalp1-126.php?c=220&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Bandamax
+#EXTINF:-1, group-title="BG-T0T4L", Bandamax
 https://blackghost.live/play/totalp1-126.php?c=221&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Clic
+#EXTINF:-1, group-title="BG-T0T4L", Clic
 https://blackghost.live/play/totalp1-126.php?c=223&p=3&k=black&f=.m3u8 
-#EXTINF:-1, VH1 Europe (HD)
+#EXTINF:-1, group-title="BG-T0T4L", VH1 Europe (HD)
 https://blackghost.live/play/totalp1-126.php?c=334&p=3&k=black&f=.m3u8  
 
 
 *** NOTICIAS ***
-#EXTINF:-1, CNN International (HD)
+#EXTINF:-1, group-title="BG-T0T4L", CNN International (HD)
 https://blackghost.live/play/totalp1-126.php?c=185&p=3&k=black&f=.m3u8  
-#EXTINF:-1, CNN International
+#EXTINF:-1, group-title="BG-T0T4L", CNN International
 https://blackghost.live/play/totalp1-126.php?c=186&p=3&k=black&f=.m3u8  
-#EXTINF:-1, CNN En Español
+#EXTINF:-1, group-title="BG-T0T4L", CNN En Español
 https://blackghost.live/play/totalp1-126.php?c=187&p=3&k=black&f=.m3u8
-#EXTINF:-1, WOBI 
+#EXTINF:-1, group-title="BG-T0T4L", WOBI 
 https://blackghost.live/play/totalp1-126.php?c=102&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Fox News
+#EXTINF:-1, group-title="BG-T0T4L", Fox News
 https://blackghost.live/play/totalp1-126.php?c=188&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Bloomberg
+#EXTINF:-1, group-title="BG-T0T4L", Bloomberg
 https://blackghost.live/play/totalp1-126.php?c=190&p=3&k=black&f=.m3u8  
-#EXTINF:-1, BBC World News
+#EXTINF:-1, group-title="BG-T0T4L", BBC World News
 https://blackghost.live/play/totalp1-126.php?c=191&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Al Jaazera
+#EXTINF:-1, group-title="BG-T0T4L", Al Jaazera
 https://blackghost.live/play/totalp1-126.php?c=192&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Nuestra Tele Noticias 24
+#EXTINF:-1, group-title="BG-T0T4L", Nuestra Tele Noticias 24
 https://blackghost.live/play/totalp1-126.php?c=194&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Justicia TV
+#EXTINF:-1, group-title="BG-T0T4L", Justicia TV
 https://blackghost.live/play/totalp1-126.php?c=196&p=3&k=black&f=.m3u8 
-#EXTINF:-1, HLN
+#EXTINF:-1, group-title="BG-T0T4L", HLN
 https://blackghost.live/play/totalp1-126.php?c=197&p=3&k=black&f=.m3u8 
-#EXTINF:-1, DW (Español)
+#EXTINF:-1, group-title="BG-T0T4L", DW (Español)
 https://blackghost.live/play/totalp1-126.php?c=203&p=3&k=black&f=.m3u8  
-#EXTINF:-1, RT (English)
+#EXTINF:-1, group-title="BG-T0T4L", RT (English)
 https://blackghost.live/play/totalp1-126.php?c=999&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Milenio Televisión (HD)
+#EXTINF:-1, group-title="BG-T0T4L", Milenio Televisión (HD)
 https://blackghost.live/play/totalp1-126.php?c=1250&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Milenio Televisión
+#EXTINF:-1, group-title="BG-T0T4L", Milenio Televisión
 https://blackghost.live/play/totalp1-126.php?c=1252&p=3&k=black&f=.m3u8   
-#EXTINF:-1, El Financiero Bloomberg 
+#EXTINF:-1, group-title="BG-T0T4L", El Financiero Bloomberg 
 https://blackghost.live/play/totalp1-126.php?c=1649&p=3&k=black&f=.m3u8  
-#EXTINF:-1, RT (Español)
+#EXTINF:-1, group-title="BG-T0T4L", RT (Español)
 https://blackghost.live/play/totalp1-126.php?c=2091&p=3&k=black&f=.m3u8 
-#EXTINF:-1, France 24 (Español)
+#EXTINF:-1, group-title="BG-T0T4L", France 24 (Español)
 https://blackghost.live/play/totalp1-126.php?c=2402&p=3&k=black&f=.m3u8 
 
 
-#EXTINF:-1, TECNO (REQUIERE ACTIVACIÓN)
-rtsp://
-
-#EXTINF:-1, Baby First
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Baby First
 https://tecnoplay.club/vale/principal.php?c=17&f=.m3u8
-#EXTINF:-1, Cartoon Network
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Cartoon Network
 https://tecnoplay.club/vale/principal.php?c=24&f=.m3u8
-#EXTINF:-1, Discovery Kids
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Discovery Kids
 https://tecnoplay.club/vale/principal.php?c=38&f=.m3u8
-#EXTINF:-1, Disney Channel
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Disney Channel
 https://tecnoplay.club/vale/principal.php?c=44&f=.m3u8
-#EXTINF:-1, Disney Junior
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Disney Junior
 https://tecnoplay.club/vale/principal.php?c=45&f=.m3u8
-#EXTINF:-1, Disney XD
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Disney XD
 https://tecnoplay.club/vale/principal.php?c=46&f=.m3u8
-#EXTINF:-1, Nat Geo Kids
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Nat Geo Kids
 https://tecnoplay.club/vale/principal.php?c=121&f=.m3u8
-#EXTINF:-1, Nick
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Nick
 https://tecnoplay.club/vale/principal.php?c=123&f=.m3u8
-#EXTINF:-1, Nick Jr.
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Nick Jr.
 https://tecnoplay.club/vale/principal.php?c=125&f=.m3u8
-#EXTINF:-1, Teennick
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Teennick
 https://tecnoplay.club/vale/principal.php?c=124&f=.m3u8
-#EXTINF:-1, Tooncast
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Tooncast
 https://tecnoplay.club/vale/principal.php?c=148&f=.m3u8
 
 
-#EXTINF:-1, Animal Planet
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Animal Planet
 https://tecnoplay.club/vale/principal.php?c=7&f=.m3u8
-#EXTINF:-1, Discovery
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Discovery
 https://tecnoplay.club/vale/principal.php?c=35&f=.m3u8
-#EXTINF:-1, Discovery Turbo
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Discovery Turbo
 https://tecnoplay.club/vale/principal.php?c=42&f=.m3u8
-#EXTINF:-1, Discovery Theater HD
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Discovery Theater HD
 https://tecnoplay.club/vale/principal.php?c=40&f=.m3u8
-#EXTINF:-1, Discovery Science
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Discovery Science
 https://tecnoplay.club/vale/principal.php?c=39&f=.m3u8
-#EXTINF:-1, Discovery Home & Health
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Discovery Home & Health
 https://tecnoplay.club/vale/principal.php?c=37&f=.m3u8
-#EXTINF:-1, Discovery Civilization/HGTV
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Discovery Civilization/HGTV
 https://tecnoplay.club/vale/principal.php?c=36&f=.m3u8
-#EXTINF:-1, Investigation Discovery
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Investigation Discovery
 https://tecnoplay.club/vale/principal.php?c=105&f=.m3u8
-#EXTINF:-1, TLC
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", TLC
 https://tecnoplay.club/vale/principal.php?c=41&f=.m3u8
-#EXTINF:-1, Discovery World HD
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Discovery World HD
 https://tecnoplay.club/vale/principal.php?c=43&f=.m3u8
-#EXTINF:-1, Food Network
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Food Network
 https://tecnoplay.club/vale/principal.php?c=61&f=.m3u8
-#EXTINF:-1, History
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", History
 https://tecnoplay.club/vale/principal.php?c=99&f=.m3u8
-#EXTINF:-1, History 2
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", History 2
 https://tecnoplay.club/vale/principal.php?c=100&f=.m3u8
-#EXTINF:-1, Nat Geo Wild
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Nat Geo Wild
 https://tecnoplay.club/vale/principal.php?c=122&f=.m3u8
-#EXTINF:-1, National Geographic
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", National Geographic
 https://tecnoplay.club/vale/principal.php?c=120&f=.m3u8
-#EXTINF:-1, ElGourmet
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", ElGourmet
 https://tecnoplay.club/vale/principal.php?c=49&f=.m3u8
-#EXTINF:-1, Mas Chic
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Mas Chic
 https://tecnoplay.club/vale/principal.php?c=111&f=.m3u8
 
 
-#EXTINF:-1, AMC
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", AMC
 https://tecnoplay.club/vale/principal.php?c=6&f=.m3u8
-#EXTINF:-1, A&E
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", A&E
 https://tecnoplay.club/vale/principal.php?c=3&f=.m3u8
-#EXTINF:-1, Warner
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Warner
 https://tecnoplay.club/vale/principal.php?c=163&f=.m3u8
-#EXTINF:-1, Fox Channel
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Fox Channel
 https://tecnoplay.club/vale/principal.php?c=63&f=.m3u8
-#EXTINF:-1, Universal
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Universal
 https://tecnoplay.club/vale/principal.php?c=159&f=.m3u8
-#EXTINF:-1, SYFY
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", SYFY
 https://tecnoplay.club/vale/principal.php?c=137&f=.m3u8
-#EXTINF:-1, Fox Life
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Fox Life
 https://tecnoplay.club/vale/principal.php?c=64&f=.m3u8
-#EXTINF:-1, AXN
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", AXN
 https://tecnoplay.club/vale/principal.php?c=9&f=.m3u8
-#EXTINF:-1, Sony Channel
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Sony Channel
 https://tecnoplay.club/vale/principal.php?c=132&f=.m3u8
-#EXTINF:-1, De Película Plus
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", De Película Plus
 https://tecnoplay.club/vale/principal.php?c=34&f=.m3u8
-#EXTINF:-1, Cinema
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Cinema
 https://tecnoplay.club/vale/principal.php?c=11&f=.m3u8
-#EXTINF:-1, TNT
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", TNT
 https://tecnoplay.club/vale/principal.php?c=146&f=.m3u8
-#EXTINF:-1, Space
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Space
 https://tecnoplay.club/vale/principal.php?c=133&f=.m3u8
-#EXTINF:-1, Studio Universal
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Studio Universal
 https://tecnoplay.club/vale/principal.php?c=134&f=.m3u8
-#EXTINF:-1, FX
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", FX
 https://tecnoplay.club/vale/principal.php?c=90&f=.m3u8
-#EXTINF:-1, FXM
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", FXM
 https://tecnoplay.club/vale/principal.php?c=91&f=.m3u8
-#EXTINF:-1, TBS
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", TBS
 https://tecnoplay.club/vale/principal.php?c=138&f=.m3u8
-#EXTINF:-1, TCM
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", TCM
 https://tecnoplay.club/vale/principal.php?c=139&f=.m3u8
-#EXTINF:-1, Cinecanal
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Cinecanal
 https://tecnoplay.club/vale/principal.php?c=25&f=.m3u8
-#EXTINF:-1, Cinemax
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Cinemax
 https://tecnoplay.club/vale/principal.php?c=26&f=.m3u8
-#EXTINF:-1, Paramount Network
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Paramount Network
 https://tecnoplay.club/vale/principal.php?c=127&f=.m3u8
-#EXTINF:-1, TNT Series
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", TNT Series
 https://tecnoplay.club/vale/principal.php?c=147&f=.m3u8
-#EXTINF:-1, Fox Premium Action
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Fox Premium Action
 https://tecnoplay.club/vale/principal.php?c=65&f=.m3u8
-#EXTINF:-1, Fox Premium Cinema
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Fox Premium Cinema
 https://tecnoplay.club/vale/principal.php?c=67&f=.m3u8
-#EXTINF:-1, Fox Premium Comedy
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Fox Premium Comedy
 https://tecnoplay.club/vale/principal.php?c=69&f=.m3u8
-#EXTINF:-1, Fox Premium Classics
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Fox Premium Classics
 https://tecnoplay.club/vale/principal.php?c=68&f=.m3u8
-#EXTINF:-1, Fox Premium Family
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Fox Premium Family
 https://tecnoplay.club/vale/principal.php?c=70&f=.m3u8
-#EXTINF:-1, Fox Premium Series
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Fox Premium Series
 https://tecnoplay.club/vale/principal.php?c=72&f=.m3u8
-#EXTINF:-1, Fox Premium Movies
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Fox Premium Movies
 https://tecnoplay.club/vale/principal.php?c=71&f=.m3u8
-#EXTINF:-1, Golden
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Golden
 https://tecnoplay.club/vale/principal.php?c=95&f=.m3u8
-#EXTINF:-1, Golden Edge
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Golden Edge
 https://tecnoplay.club/vale/principal.php?c=96&f=.m3u8
-#EXTINF:-1, HBO
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", HBO
 https://tecnoplay.club/vale/principal.php?c=74&f=.m3u8
-#EXTINF:-1, HBO 2
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", HBO 2
 https://tecnoplay.club/vale/principal.php?c=75&f=.m3u8
-#EXTINF:-1, HBO Plus
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", HBO Plus
 https://tecnoplay.club/vale/principal.php?c=78&f=.m3u8
-#EXTINF:-1, HBO Family
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", HBO Family
 https://tecnoplay.club/vale/principal.php?c=76&f=.m3u8
-#EXTINF:-1, HBO Signature
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", HBO Signature
 https://tecnoplay.club/vale/principal.php?c=80&f=.m3u8
-#EXTINF:-1, HBO Mundi
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", HBO Mundi
 https://tecnoplay.club/vale/principal.php?c=77&f=.m3u8
-#EXTINF:-1, HBO Pop
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", HBO Pop
 https://tecnoplay.club/vale/principal.php?c=79&f=.m3u8
-#EXTINF:-1, HBO Xtreme
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", HBO Xtreme
 https://tecnoplay.club/vale/principal.php?c=82&f=.m3u8
 
 
-#EXTINF:-1, Tlnovelas
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Tlnovelas
 https://tecnoplay.club/vale/principal.php?c=145&f=.m3u8
-#EXTINF:-1, Corazon
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Corazon
 https://tecnoplay.club/vale/principal.php?c=13&f=.m3u8
-#EXTINF:-1, Comedy Central
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Comedy Central
 https://tecnoplay.club/vale/principal.php?c=30&f=.m3u8
-#EXTINF:-1, Distrito Comedia
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Distrito Comedia
 https://tecnoplay.club/vale/principal.php?c=47&f=.m3u8
-#EXTINF:-1, E!
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", E!
 https://tecnoplay.club/vale/principal.php?c=50&f=.m3u8
-#EXTINF:-1, Lifetime
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Lifetime
 https://tecnoplay.club/vale/principal.php?c=109&f=.m3u8
-#EXTINF:-1, Mundo
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Mundo
 https://tecnoplay.club/vale/principal.php?c=14&f=.m3u8
-#EXTINF:-1, ¡Hola! TV
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", ¡Hola! TV
 https://tecnoplay.club/vale/principal.php?c=101&f=.m3u8
-#EXTINF:-1, Glitz
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Glitz
 https://tecnoplay.club/vale/principal.php?c=94&f=.m3u8
-#EXTINF:-1, TruTV
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", TruTV
 https://tecnoplay.club/vale/principal.php?c=149&f=.m3u8
-#EXTINF:-1, Telemundo 51 Miami
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Telemundo 51 Miami
 https://tecnoplay.club/vale/principal.php?c=151&f=.m3u8
-#EXTINF:-1, Unicable
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Unicable
 https://tecnoplay.club/vale/principal.php?c=158&f=.m3u8
-#EXTINF:-1, Univisión 23 Miami
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Univisión 23 Miami
 https://tecnoplay.club/vale/principal.php?c=152&f=.m3u8
 
 
-#EXTINF:-1, DirecTV Sports Plus
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", DirecTV Sports Plus
 https://tecnoplay.club/vale/principal.php?c=166&f=.m3u8
-#EXTINF:-1, DirecTV Sports 2
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", DirecTV Sports 2
 https://tecnoplay.club/vale/principal.php?c=164&f=.m3u8
-#EXTINF:-1, DirecTV Sports 2 (Alt.)
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", DirecTV Sports 2 (Alt.)
 https://tecnoplay.club/vale/principal.php?c=165&f=.m3u8
-#EXTINF:-1, Fox Sports Sur
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Fox Sports Sur
 https://tecnoplay.club/vale/principal.php?c=86&f=.m3u8
-#EXTINF:-1, Fox Sports 2 Sur
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Fox Sports 2 Sur
 https://tecnoplay.club/vale/principal.php?c=87&f=.m3u8
-#EXTINF:-1, Fox Sports 3 Sur
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Fox Sports 3 Sur
 https://tecnoplay.club/vale/principal.php?c=88&f=.m3u8
-#EXTINF:-1, Fox Sports
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Fox Sports
 https://tecnoplay.club/vale/principal.php?c=83&f=.m3u8
-#EXTINF:-1, Fox Sports 2
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Fox Sports 2
 https://tecnoplay.club/vale/principal.php?c=84&f=.m3u8
-#EXTINF:-1, Fox Sports 3
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Fox Sports 3
 https://tecnoplay.club/vale/principal.php?c=85&f=.m3u8
-#EXTINF:-1, ESPN Sur
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", ESPN Sur
 https://tecnoplay.club/vale/principal.php?c=55&f=.m3u8
-#EXTINF:-1, ESPN 2 Sur
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", ESPN 2 Sur
 https://tecnoplay.club/vale/principal.php?c=56&f=.m3u8
-#EXTINF:-1, ESPN 3 Sur
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", ESPN 3 Sur
 https://tecnoplay.club/vale/principal.php?c=57&f=.m3u8
-#EXTINF:-1, ESPN Extra Sur
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", ESPN Extra Sur
 https://tecnoplay.club/vale/principal.php?c=58&f=.m3u8
-#EXTINF:-1, ESPN
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", ESPN
 https://tecnoplay.club/vale/principal.php?c=51&f=.m3u8
-#EXTINF:-1, ESPN 2
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", ESPN 2
 https://tecnoplay.club/vale/principal.php?c=52&f=.m3u8
-#EXTINF:-1, ESPN 3
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", ESPN 3
 https://tecnoplay.club/vale/principal.php?c=53&f=.m3u8
-#EXTINF:-1, ESPN Extra
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", ESPN Extra
 https://tecnoplay.club/vale/principal.php?c=54&f=.m3u8
-#EXTINF:-1, GolTV
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", GolTV
 https://tecnoplay.club/vale/principal.php?c=172&f=.m3u8
-#EXTINF:-1, GolTV (Alt.)
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", GolTV (Alt.)
 https://tecnoplay.club/vale/principal.php?c=178&f=.m3u8
-#EXTINF:-1, TNT Sports
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", TNT Sports
 https://tecnoplay.club/vale/principal.php?c=200&f=.m3u8
-#EXTINF:-1, TUDN USA
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", TUDN USA
 https://tecnoplay.club/vale/principal.php?c=150&f=.m3u8
-#EXTINF:-1, Claro Sports
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Claro Sports
 https://tecnoplay.club/vale/principal.php?c=33&f=.m3u8
-#EXTINF:-1, Claro Sports 2
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Claro Sports 2
 https://tecnoplay.club/vale/principal.php?c=32&f=.m3u8
-#EXTINF:-1, Golf Channel
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Golf Channel
 https://tecnoplay.club/vale/principal.php?c=97&f=.m3u8
-#EXTINF:-1, Garage TV
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Garage TV
 https://tecnoplay.club/vale/principal.php?c=93&f=.m3u8
 
 
-#EXTINF:-1, CNN En Español
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", CNN En Español
 https://tecnoplay.club/vale/principal.php?c=27&f=.m3u8
-#EXTINF:-1, CNN International
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", CNN International
 https://tecnoplay.club/vale/principal.php?c=29&f=.m3u8
-#EXTINF:-1, Justicia TV
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Justicia TV
 https://tecnoplay.club/vale/principal.php?c=22&f=.m3u8
-#EXTINF:-1, 24 Horas
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", 24 Horas
 https://tecnoplay.club/vale/principal.php?c=204&f=.m3u8
-#EXTINF:-1, RT (Español)
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", RT (Español)
 https://tecnoplay.club/vale/principal.php?c=131&f=.m3u8
 
 
-#EXTINF:-1, Clic
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Clic
 https://tecnoplay.club/vale/principal.php?c=12&f=.m3u8
-#EXTINF:-1, MTV
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", MTV
 https://tecnoplay.club/vale/principal.php?c=115&f=.m3u8
-#EXTINF:-1, MTV Live HD
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", MTV Live HD
 https://tecnoplay.club/vale/principal.php?c=117&f=.m3u8
-#EXTINF:-1, Nick Music
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Nick Music
 https://tecnoplay.club/vale/principal.php?c=126&f=.m3u8
-#EXTINF:-1, VH1 Europe
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", VH1 Europe
 https://tecnoplay.club/vale/principal.php?c=161&f=.m3u8
 
 #EXTIF:-1, Azteca Uno
 https://tecnoplay.club/vale/principal.php?c=16&f=.m3u8
-#EXTINF:-1, Las Estrellas
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Las Estrellas
 https://tecnoplay.club/vale/principal.php?c=107&f=.m3u8
-#EXTINF:-1, Imagen Televisión
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Imagen Televisión
 https://tecnoplay.club/vale/principal.php?c=103&f=.m3u8
-#EXTINF:-1, Foro TV
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Foro TV
 https://tecnoplay.club/vale/principal.php?c=62&f=.m3u8
-#EXTINF:-1, Canal 5
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Canal 5
 https://tecnoplay.club/vale/principal.php?c=21&f=.m3u8
-#EXTINF:-1, Azteca 7
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Azteca 7
 https://tecnoplay.club/vale/principal.php?c=15&f=.m3u8
-#EXTINF:-1, ADN 40
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", ADN 40
 https://tecnoplay.club/vale/principal.php?c=5&f=.m3u8
 
-#EXTINF:-1, Canal UNO
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Canal UNO
 https://tecnoplay.club/vale/principal.php?c=167&f=.m3u8
-#EXTINF:-1, Canal 7 EC
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Canal 7 EC
 https://tecnoplay.club/vale/principal.php?c=169&f=.m3u8
-#EXTINF:-1, Ecuavisa
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Ecuavisa
 https://tecnoplay.club/vale/principal.php?c=170&f=.m3u8
-#EXTINF:-1, Gamavision
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Gamavision
 https://tecnoplay.club/vale/principal.php?c=171&f=.m3u8
-#EXTINF:-1, Oromar TV
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Oromar TV
 https://tecnoplay.club/vale/principal.php?c=173&f=.m3u8
-#EXTINF:-1, RTS
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", RTS
 https://tecnoplay.club/vale/principal.php?c=174&f=.m3u8
-#EXTINF:-1, TeleAmazonas
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", TeleAmazonas
 https://tecnoplay.club/vale/principal.php?c=176&f=.m3u8
-#EXTINF:-1, TVC EC
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", TVC EC
 https://tecnoplay.club/vale/principal.php?c=177&f=.m3u8
 
-#EXTINF:-1, Cablenoticias
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Cablenoticias
 https://tecnoplay.club/vale/principal.php?c=179&f=.m3u8
-#EXTINF:-1, Tr3ce
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Tr3ce
 https://tecnoplay.club/vale/principal.php?c=180&f=.m3u8
-#EXTINF:-1, Canal 1
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Canal 1
 https://tecnoplay.club/vale/principal.php?c=181&f=.m3u8
-#EXTINF:-1, Caracol Televisión
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Caracol Televisión
 https://tecnoplay.club/vale/principal.php?c=182&f=.m3u8
-#EXTINF:-1, Caracol Televisión
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Caracol Televisión
 https://tecnoplay.club/vale/principal.php?c=183&f=.m3u8
-#EXTINF:-1, CityTV
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", CityTV
 https://tecnoplay.club/vale/principal.php?c=184&f=.m3u8
-#EXTINF:-1, El Tiempo Televisión
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", El Tiempo Televisión
 https://tecnoplay.club/vale/principal.php?c=185&f=.m3u8
-#EXTINF:-1, Nuestra Tele Noticias 24
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Nuestra Tele Noticias 24
 https://tecnoplay.club/vale/principal.php?c=186&f=.m3u8
-#EXTINF:-1, RCN
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", RCN
 https://tecnoplay.club/vale/principal.php?c=187&f=.m3u8
-#EXTINF:-1, Señal Colombia
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Señal Colombia
 https://tecnoplay.club/vale/principal.php?c=227&f=.m3u8
 
 
-#EXTINF:-1, Canal 26 TV
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Canal 26 TV
 https://tecnoplay.club/vale/principal.php?c=190&f=.m3u8
-#EXTINF:-1, Telefe
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Telefe
 https://tecnoplay.club/vale/principal.php?c=195&f=.m3u8
-#EXTINF:-1, Telemax
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Telemax
 https://tecnoplay.club/vale/principal.php?c=197&f=.m3u8
-#EXTINF:-1, Telered
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Telered
 https://tecnoplay.club/vale/principal.php?c=199&f=.m3u8
 
-#EXTINF:-1, 13c
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", 13c
 https://tecnoplay.club/vale/principal.php?c=201&f=.m3u8
-#EXTINF:-1, 13i
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", 13i
 https://tecnoplay.club/vale/principal.php?c=202&f=.m3u8
-#EXTINF:-1, Canal 13
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Canal 13
 https://tecnoplay.club/vale/principal.php?c=203&f=.m3u8
-#EXTINF:-1, CDF
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", CDF
 https://tecnoplay.club/vale/principal.php?c=206&f=.m3u8
-#EXTINF:-1, CDF (Alt.)
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", CDF (Alt.)
 https://tecnoplay.club/vale/principal.php?c=207&f=.m3u8
-#EXTINF:-1, CDO
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", CDO
 https://tecnoplay.club/vale/principal.php?c=208&f=.m3u8
-#EXTINF:-1, CDO (Alt.)
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", CDO (Alt.)
 https://tecnoplay.club/vale/principal.php?c=210&f=.m3u8
-#EXTINF:-1, Chilevisión
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Chilevisión
 https://tecnoplay.club/vale/principal.php?c=211&f=.m3u8
-#EXTINF:-1, CNN CL
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", CNN CL
 https://tecnoplay.club/vale/principal.php?c=212&f=.m3u8
-#EXTINF:-1, La Red
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", La Red
 https://tecnoplay.club/vale/principal.php?c=214&f=.m3u8
-#EXTINF:-1, Mega
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Mega
 https://tecnoplay.club/vale/principal.php?c=215&f=.m3u8
-#EXTINF:-1, TVN
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", TVN
 https://tecnoplay.club/vale/principal.php?c=217&f=.m3u8
 
 
-#EXTINF:-1, ATV
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", ATV
 https://tecnoplay.club/vale/principal.php?c=224&f=.m3u8
-#EXTINF:-1, ipe
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", ipe
 https://tecnoplay.club/vale/principal.php?c=225&f=.m3u8
-#EXTINF:-1, Frecuencia Latina
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Frecuencia Latina
 https://tecnoplay.club/vale/principal.php?c=228&f=.m3u8
-#EXTINF:-1, Latele
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Latele
 https://tecnoplay.club/vale/principal.php?c=230&f=.m3u8
-#EXTINF:-1, Movistar Deportes
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Movistar Deportes
 https://tecnoplay.club/vale/principal.php?c=231&f=.m3u8
-#EXTINF:-1, Panamericana
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Panamericana
 https://tecnoplay.club/vale/principal.php?c=234&f=.m3u8
-#EXTINF:-1, TVpe
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", TVpe
 https://tecnoplay.club/vale/principal.php?c=235&f=.m3u8
 
-#EXTINF:-1, WIPR
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", WIPR
 https://tecnoplay.club/vale/principal.php?c=237&f=.m3u8
-#EXTINF:-1, Telemundo PR
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Telemundo PR
 https://tecnoplay.club/vale/principal.php?c=239&f=.m3u8
-#EXTINF:-1, Univisión PR
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", Univisión PR
 https://tecnoplay.club/vale/principal.php?c=240&f=.m3u8
-#EXTINF:-1, WAPA
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", WAPA
 https://tecnoplay.club/vale/principal.php?c=241&f=.m3u8
-#EXTINF:-1, WAPA Deportes
+#EXTINF:-1, group-title="TECNO (REQUIERE ACTIVACIÓN)", WAPA Deportes
 https://tecnoplay.club/vale/principal.php?c=242&f=.m3u8
 
 
-#EXTINF:-1, EVENTOS
-rtsp://
-
-
-#EXTINF:-1 , Evento(directo 01-es) 
+#EXTINF:-1, group-title="EVENTOS" , Evento(directo 01-es) 
 https://bucketdaily0.s3.amazonaws.com/1b/1.m3u8
-#EXTINF:-1 , Evento(directo 02-en) 
+#EXTINF:-1, group-title="EVENTOS" , Evento(directo 02-en) 
 https://blackghost.live/get/evento27oct.php?c=2&file=.m3u8
-#EXTINF:-1 , Evento(directo 03-lat) 
+#EXTINF:-1, group-title="EVENTOS" , Evento(directo 03-lat) 
 https://blackghost.live/get/evento27oct.php?c=3&file=.m3u8
-#EXTINF:-1 , Evento(directo 04)
+#EXTINF:-1, group-title="EVENTOS" , Evento(directo 04)
 https://blackghost.live/get/evento27oct.php?c=4&file=.m3u8
-#EXTINF:-1 , Evento(directo 05)
+#EXTINF:-1, group-title="EVENTOS" , Evento(directo 05)
 https://blackghost.live/get/evento27oct.php?c=5&file=.m3u8
-#EXTINF:-1 , Evento(directo 06)
+#EXTINF:-1, group-title="EVENTOS" , Evento(directo 06)
 https://blackghost.live/get/evento27oct.php?c=6&file=.m3u8
-#EXTINF:-1 , Evento(directo 07)
+#EXTINF:-1, group-title="EVENTOS" , Evento(directo 07)
 https://blackghost.live/get/evento27oct.php?c=7&file=.m3u8
-#EXTINF:-1 , Evento(directo 08)
+#EXTINF:-1, group-title="EVENTOS" , Evento(directo 08)
 https://blackghost.live/get/evento27oct.php?c=8&file=.m3u8
-#EXTINF:-1 , Evento(directo 09)
+#EXTINF:-1, group-title="EVENTOS" , Evento(directo 09)
 https://blackghost.live/get/evento27oct.php?c=9&file=.m3u8
-#EXTINF:-1 , Evento(directo 10) Formula 1
+#EXTINF:-1, group-title="EVENTOS" , Evento(directo 10) Formula 1
 https://bucketdaily0.s3.amazonaws.com/10/10.m3u8
-#EXTINF:-1 , Evento(directo 11)
+#EXTINF:-1, group-title="EVENTOS" , Evento(directo 11)
 https://blackghost.live/get/evento27oct.php?c=11&file=.m3u8
-#EXTINF:-1 , Evento(directo 12)
+#EXTINF:-1, group-title="EVENTOS" , Evento(directo 12)
 https://blackghost.live/get/evento27oct.php?c=12&file=.m3u8
 
 
 
-#EXTINF:-1 , Evento 01 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 01 (area51)
 https://blackghost.live/get/wstream.php?id=5bknv
-#EXTINF:-1 , Evento 02 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 02 (area51)
 https://blackghost.live/get/wstream.php?id=wlg7b
-#EXTINF:-1 , Evento 03 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 03 (area51)
 https://blackghost.live/get/wstream.php?id=yzo4h
-#EXTINF:-1 , Evento 04 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 04 (area51)
 https://blackghost.live/get/wstream.php?id=2art7n
-#EXTINF:-1 , Evento 05 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 05 (area51)
 https://blackghost.live/get/wstream.php?id=o6mvtuhjcqk84
-#EXTINF:-1 , Evento 06 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 06 (area51)
 https://blackghost.live/get/wstream.php?id=nm3h3
-#EXTINF:-1 , Evento 07 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 07 (area51)
 https://blackghost.live/get/wstream.php?id=zzan645pk50q
-#EXTINF:-1 , Evento 08 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 08 (area51)
 https://blackghost.live/get/wstream.php?id=5jx78y3g2
-#EXTINF:-1 , Evento 09 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 09 (area51)
 https://blackghost.live/get/wstream.php?id=q222xp
-#EXTINF:-1 , Evento 10 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 10 (area51)
 https://blackghost.live/get/wstream.php?id=h12dwaa2sx
-#EXTINF:-1 , Evento 11 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 11 (area51)
 https://blackghost.live/get/wstream.php?id=smgovvgxari03
-#EXTINF:-1 , Evento 12 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 12 (area51)
 https://blackghost.live/get/wstream.php?id=2m84t6nmu61s9
-#EXTINF:-1 , Evento 13 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 13 (area51)
 https://blackghost.live/get/wstream.php?id=w623p
-#EXTINF:-1 , Evento 14 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 14 (area51)
 https://blackghost.live/get/wstream.php?id=j8nqizo4e
-#EXTINF:-1 , Evento 15 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 15 (area51)
 https://blackghost.live/get/wstream.php?id=yfbgj
-#EXTINF:-1 , Evento 16 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 16 (area51)
 https://blackghost.live/get/wstream.php?id=rifx432l9
-#EXTINF:-1 , Evento 17 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 17 (area51)
 https://blackghost.live/get/wstream.php?id=8yabk
-#EXTINF:-1 , Evento 18 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 18 (area51)
 https://blackghost.live/get/wstream.php?id=jpp4paa5hi5vih
-#EXTINF:-1 , Evento 19 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 19 (area51)
 https://blackghost.live/get/wstream.php?id=dz9g0zdwoz88i0s
-#EXTINF:-1 , Evento 20 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 20 (area51)
 https://blackghost.live/get/wstream.php?id=izc3g4yr5t
-#EXTINF:-1 , Evento 21 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 21 (area51)
 https://blackghost.live/get/wstream.php?id=2i96v58pr4ck
-#EXTINF:-1 , Evento 22 (area51)
+#EXTINF:-1, group-title="EVENTOS" , Evento 22 (area51)
 https://blackghost.live/get/wstream.php?id=n9byxh
 
 
@@ -1913,23 +1893,23 @@ https://blackghost.live/get/wstream.php?id=n9byxh
 
 
 
-#EXTINF:-1 , Evento 01 (it) 
+#EXTINF:-1, group-title="EVENTOS" , Evento 01 (it) 
 https://blackghost.live/get/wstream-pg.php?id=live1
-#EXTINF:-1 , Evento 07 (es)  Formula 1
+#EXTINF:-1, group-title="EVENTOS" , Evento 07 (es)  Formula 1
 https://blackghost.live/get/wstream-pg.php?id=live3
-#EXTINF:-1 , Evento 17 (es) 
+#EXTINF:-1, group-title="EVENTOS" , Evento 17 (es) 
 https://blackghost.live/get/wstream-pg.php?id=live17
-#EXTINF:-1 , Evento 18 (es) 
+#EXTINF:-1, group-title="EVENTOS" , Evento 18 (es) 
 https://blackghost.live/get/wstream-pg.php?id=live18
-#EXTINF:-1 , Evento 19 (es) 
+#EXTINF:-1, group-title="EVENTOS" , Evento 19 (es) 
 https://blackghost.live/get/wstream-pg.php?id=live19
 
 
 
 
-#EXTINF:-1 ,Rivo 01
+#EXTINF:-1, group-title="EVENTOS" ,Rivo 01
 https://blackghost.live/get/wstream.php?id=duqbw68q
-#EXTINF:-1 ,Rivo 02
+#EXTINF:-1, group-title="EVENTOS" ,Rivo 02
 https://blackghost.live/get/streamcdn.php?id=oobam349e0ko38
 
 
@@ -1938,400 +1918,390 @@ https://blackghost.live/get/streamcdn.php?id=oobam349e0ko38
 
 
 
-#EXTINF:-1 ,Canal 01 (nowlive)
+#EXTINF:-1, group-title="EVENTOS" ,Canal 01 (nowlive)
 https://blackghost.live/get/xyzembed.php?id=http://nowlive.pro/1/101.html?id=101
-#EXTINF:-1 ,Canal 02 (nowlive)
+#EXTINF:-1, group-title="EVENTOS" ,Canal 02 (nowlive)
 https://blackghost.live/get/xyzembed.php?id=http://nowlive.pro/1/102.html?id=102
-#EXTINF:-1 ,Canal 03 (nowlive)
+#EXTINF:-1, group-title="EVENTOS" ,Canal 03 (nowlive)
 https://blackghost.live/get/xyzembed.php?id=http://nowlive.pro/1/103.html?id=103
-#EXTINF:-1 ,Canal 04 (nowlive)
+#EXTINF:-1, group-title="EVENTOS" ,Canal 04 (nowlive)
 https://blackghost.live/get/xyzembed.php?id=http://nowlive.pro/1/104.html?id=104
-#EXTINF:-1 ,Canal 05 (nowlive)
+#EXTINF:-1, group-title="EVENTOS" ,Canal 05 (nowlive)
 https://blackghost.live/get/xyzembed.php?id=http://nowlive.pro/1/105.html?id=105
-#EXTINF:-1 ,Canal 06 (nowlive)
+#EXTINF:-1, group-title="EVENTOS" ,Canal 06 (nowlive)
 https://blackghost.live/get/xyzembed.php?id=http://nowlive.pro/1/106.html?id=106
-#EXTINF:-1 ,Canal 07 (nowlive)
+#EXTINF:-1, group-title="EVENTOS" ,Canal 07 (nowlive)
 https://blackghost.live/get/xyzembed.php?id=http://nowlive.pro/1/107.html?id=107
-#EXTINF:-1 ,Canal 08 (nowlive)
+#EXTINF:-1, group-title="EVENTOS" ,Canal 08 (nowlive)
 https://blackghost.live/get/xyzembed.php?id=http://nowlive.pro/1/108.html?id=108
-#EXTINF:-1 ,Canal 09 (nowlive)
+#EXTINF:-1, group-title="EVENTOS" ,Canal 09 (nowlive)
 https://blackghost.live/get/xyzembed.php?id=http://nowlive.pro/1/109.html?id=109
-#EXTINF:-1 ,Canal 10 (nowlive)
+#EXTINF:-1, group-title="EVENTOS" ,Canal 10 (nowlive)
 https://blackghost.live/get/xyzembed.php?id=http://nowlive.pro/1/110.html?id=110
 
 
-
-#EXTINF:-1, FTAMX
-rtsp://
-
-#EXTINF:-1, Canal 10 Chetumal | HD
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1, Milenio | SD
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", Milenio | SD
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-1, Teleformula | SD
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", Teleformula | SD
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
-#EXTINF:-1, Canal Once IPN  Int. | HD
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", Canal Once IPN  Int. | HD
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1, Canal Del Congreso 45.1 | SD
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", Canal Del Congreso 45.1 | SD
 https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores3.smil/playlist.m3u8
 
-#EXTINF:-1, Canal Del Congreso 45.2 | SD
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", Canal Del Congreso 45.2 | SD
 https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores4.smil/playlist.m3u8
 
-#EXTINF:-1, Aprende En Casa 2 Secundaria 3.2/20.1 | SD
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", Aprende En Casa 2 Secundaria 3.2/20.1 | SD
 http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 
-#EXTINF:-1, Aprende En Casa 2 Bachillerato 6.3 | HD
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", Aprende En Casa 2 Bachillerato 6.3 | HD
 http://mdstrm.com/live-stream-playlist_2500/5cfe8974ef9acc25607a7dec.m3u8?
 
-#EXTINF:-1, Quiero TV | SD
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", Quiero TV | SD
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 
-#EXTINF:-1, Canal 4 RCG | SD
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", Canal 4 RCG | SD
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
-#EXTINF:-1, RCG | SD
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", RCG | SD
 http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
 
-#EXTINF:-1, RCG 2 | SD
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", RCG 2 | SD
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 
-#EXTINF:-1, RCG 3 | SD
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", RCG 3 | SD
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1, MULTIMEDIOS MONTERREY
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", MULTIMEDIOS MONTERREY
 http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
 
-#EXTINF:-1, MULTIMEDIOS CDMX
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", MULTIMEDIOS CDMX
 http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
 
-#EXTINF:-1, MULTIMEDIOS LAGUNA
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", MULTIMEDIOS LAGUNA
 http://mdstrm.com/live-stream-playlist_2500/57bf686a61ff39e1085d43e1.m3u8?
 
-#EXTINF:-1, MULTIMEDIOS GUADALAJARA
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", MULTIMEDIOS GUADALAJARA
 http://mdstrm.com/live-stream-playlist_2500/5c54d38ca392a5119bb0aa0d.m3u8?
 
-#EXTINF:-1, MULTIMEDIOS PUEBLA
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", MULTIMEDIOS PUEBLA
 http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
 
-#EXTINF:-1, MULTIMEDIOS BAJÍO
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", MULTIMEDIOS BAJÍO
 http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
 
-#EXTINF:-1, MULTIMEDIOS SALTILLO
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", MULTIMEDIOS SALTILLO
 http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
 
-#EXTINF:-1, MULTIMEDIOS JUAREZ
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", MULTIMEDIOS JUAREZ
 http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
 
-#EXTINF:-1, TELERITMO
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", TELERITMO
 http://mdstrm.com/live-stream-playlist_800/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1, A+ METROPOLITANO
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", A+ METROPOLITANO
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
-#EXTINF:-1, CANAL CATORCE
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", CANAL CATORCE
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
 
-#EXTINF:-1, CANAL 22
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", CANAL 22
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1, CANAL 22.2 (DELAY 3.2/22.1)
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", CANAL 22.2 (DELAY 3.2/22.1)
 https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
-#EXTINF:-1, MEXIQUENSE TELEVISIÓN
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", MEXIQUENSE TELEVISIÓN
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
-#EXTINF:-1, AMX NOTICIAS
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", AMX NOTICIAS
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1, SET TELEVISIÓN PUEBLA (ESPEJO 5.2)
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", SET TELEVISIÓN PUEBLA (ESPEJO 5.2)
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 
-#EXTINF:-1, TV CUATRO
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", TV CUATRO
 https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
 
-#EXTINF:-1, TV CUATRO 2
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", TV CUATRO 2
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 
-#EXTINF:-1, TV CUATRO 3 (ESPEJO 3.2/20.1)
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", TV CUATRO 3 (ESPEJO 3.2/20.1)
 https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
 
-#EXTINF:-1, IMRyT
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", IMRyT
 http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
 
-#EXTINF:-1, C21 CDMX
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", C21 CDMX
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 
-#EXTINF:-1, JALISCO TV
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", JALISCO TV
 https://5b59c7a47236a.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 
-#EXTINF:-1, CANAL 28 NL
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", CANAL 28 NL
 https://5e307acc9a171.streamlock.net:1936/canal28/canal28/playlist.m3u8
 
-#EXTINF:-1, CANAL 44
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", CANAL 44
 https://liveingesta118.cdnmedia.tv/udgmxlive/smil:canal44.smil/playlist.m3u8
 
-#EXTINF:-1, CANAL 44 NOTICIAS
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", CANAL 44 NOTICIAS
 https://liveingesta118.cdnmedia.tv/udgmxlive/smil:44noticias.smil/playlist.m3u8
 
-#EXTINF:-1, DIEZ CHIAPAS
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", DIEZ CHIAPAS
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
-#EXTINF:-1, SM (ESPEJO 3.2/20.1)
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", SM (ESPEJO 3.2/20.1)
 https://5e307acc9a171.streamlock.net:1936/noticias/noticias/playlist.m3u8
 
-#EXTINF:-1, TV MAS 26.1 (ESPEJO 3.2/20.1)
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", TV MAS 26.1 (ESPEJO 3.2/20.1)
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1, SIZART CANAL 24 (ESPEJO 3.2/20.1)
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", SIZART CANAL 24 (ESPEJO 3.2/20.1)
 https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
-#EXTINF:-1, RTQ
+#EXTINF:-1, group-title="FTA (LOCALES LIBRES)", RTQ
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
 
-#EXTINF:-1, SOLO PARA ROKOOS
-rtsp://
-
-#EXTINF:-1, Azteca Uno
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Azteca Uno
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/495/1?f=.m3u8
-#EXTINF:-1, Las Estrellas
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Las Estrellas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/191/1?f=.m3u8
-#EXTINF:-1, Imagen Television
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Imagen Television
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/598/1?f=.m3u8
-#EXTINF:-1, Foro TV
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Foro TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/193/1?f=.m3u8
-#EXTINF:-1, Canal 5
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Canal 5
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/192/1?f=.m3u8
-#EXTINF:-1, Multimedios (XHTDMX-TDT)
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Multimedios (XHTDMX-TDT)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/234/1?f=.m3u8
-#EXTINF:-1, Milenio Televisión (XHTDMX-TDT2)
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Milenio Televisión (XHTDMX-TDT2)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/199/1?f=.m3u8
-#EXTINF:-1, Multimedios (XHAW-TDT)
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Multimedios (XHAW-TDT)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97868/1?f=.m3u8
-#EXTINF:-1, MVS TV (XHTDMX-TDT4)
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", MVS TV (XHTDMX-TDT4)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/307/1?f=.m3u8
-#EXTINF:-1, Azteca 7
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Azteca 7
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/194/1?f=.m3u8
-#EXTINF:-1, NU9VE
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", NU9VE
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/1?f=.m3u8
-#EXTINF:-1, Canal Once
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Canal Once
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/197/1?f=.m3u8
-#EXTINF:-1, Aprende En Casa 2 Preescolar y Primaria (5.2/11.2)
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Aprende En Casa 2 Preescolar y Primaria (5.2/11.2)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/472/1?f=.m3u8
-#EXTINF:-1, Canal Catorce
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Canal Catorce
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/471/6?f=.m3u8
-#EXTINF:-1, Aprende En Casa 2 Bachillerato (14.2/22.1 INT)
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Aprende En Casa 2 Bachillerato (14.2/22.1 INT)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/469/1?f=.m3u8
-#EXTINF:-1, TV UNAM
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", TV UNAM
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/239/1?f=.m3u8
-#EXTINF:-1, Canal 22
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Canal 22
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/201/1?f=.m3u8
-#EXTINF:-1, Canal 22.2 (DELAY 3.2/22.1)
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Canal 22.2 (DELAY 3.2/22.1)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94119/1?f=.m3u8
-#EXTINF:-1, Canal Del Congreso
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Canal Del Congreso
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94120/1?f=.m3u8
-#EXTINF:-1, Fox Channel
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Fox Channel
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97891/9?f=.m3u8
-#EXTINF:-1, Sony Channel
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Sony Channel
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97896/9?f=.m3u8
-#EXTINF:-1, Unicable
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Unicable
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/208/9?f=.m3u8
-#EXTINF:-1, Pasiones
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Pasiones
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94104/9?f=.m3u8
-#EXTINF:-1, Warner
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Warner
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97892/9?f=.m3u8
-#EXTINF:-1, E!
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", E!
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/210/9?f=.m3u8
-#EXTINF:-1, FX
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", FX
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97898/9?f=.m3u8
-#EXTINF:-1, Universal
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Universal
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97893/9?f=.m3u8
-#EXTINF:-1, Fox Life
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Fox Life
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/229/9?f=.m3u8
-#EXTINF:-1, SYFY
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", SYFY
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/213/9?f=.m3u8
-#EXTINF:-1, Investigation Discovery
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Investigation Discovery
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93863/9?f=.m3u8
-#EXTINF:-1, A&E
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", A&E
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97906/9?f=.m3u8
-#EXTINF:-1, Lifetime
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Lifetime
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/240/9?f=.m3u8
-#EXTINF:-1, AXN
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", AXN
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97905/9?f=.m3u8
-#EXTINF:-1, Universo
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Universo
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/9?f=.m3u8
-#EXTINF:-1, Estrella TV
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Estrella TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97889/9?f=.m3u8
-#EXTINF:-1, Telemundo Pac
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Telemundo Pac
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97838/9?f=.m3u8
-#EXTINF:-1, Telemundo
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Telemundo
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/9?f=.m3u8
-#EXTINF:-1, Univisión
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Univisión
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/9?f=.m3u8
-#EXTINF:-1, UniMas
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", UniMas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/9?f=.m3u8
-#EXTINF:-1, Galavisión
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Galavisión
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/9?f=.m3u8
-#EXTINF:-1, Antena 3 Internacional
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Antena 3 Internacional
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/241/9?f=.m3u8
-#EXTINF:-1, A3 Series
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", A3 Series
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/458/9?f=.m3u8
-#EXTINF:-1, ¡Hola! TV
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", ¡Hola! TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/457/9?f=.m3u8
-#EXTINF:-1, MTV
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", MTV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/302/3?f=.m3u8
-#EXTINF:-1, MTV Hits
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", MTV Hits
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/463/3?f=.m3u8
-#EXTINF:-1, Comedy Central
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Comedy Central
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/231/3?f=.m3u8
-#EXTINF:-1, Exa TV
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Exa TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/399/3?f=.m3u8
-#EXTINF:-1, HTV
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", HTV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/401/3?f=.m3u8
-#EXTINF:-1, Telehit Música Plus
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Telehit Música Plus
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/305/3?f=.m3u8
-#EXTINF:-1, Bandamax
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Bandamax
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/306/3?f=.m3u8
-#EXTINF:-1, VideoRola
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", VideoRola
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/461/3?f=.m3u8
-#EXTINF:-1, Teleritmo
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Teleritmo
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97866/3?f=.m3u8
-#EXTINF:-1, Nat Geo Kids
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Nat Geo Kids
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94121/5?f=.m3u8
-#EXTINF:-1, Discovery Kids
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Discovery Kids
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/246/5?f=.m3u8
-#EXTINF:-1, Nick
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Nick
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/247/5?f=.m3u8
-#EXTINF:-1, Disney Channel
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Disney Channel
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97903/5?f=.m3u8
-#EXTINF:-1, Disney XD
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Disney XD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/248/5?f=.m3u8
-#EXTINF:-1, Disney Junior
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Disney Junior
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/255/5?f=.m3u8
-#EXTINF:-1, Cartoon Network
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Cartoon Network
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/249/5?f=.m3u8
-#EXTINF:-1, Baby TV
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Baby TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/464/5?f=.m3u8
-#EXTINF:-1, Nick Jr.
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Nick Jr.
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/253/5?f=.m3u8
-#EXTINF:-1, Discovery
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Discovery
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/235/4?f=.m3u8
-#EXTINF:-1, Animal Planet
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Animal Planet
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/236/4?f=.m3u8
-#EXTINF:-1, TLC
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", TLC
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/215/4?f=.m3u8
-#EXTINF:-1, Discovery Home & Health
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Discovery Home & Health
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97904/4?f=.m3u8
-#EXTINF:-1, Discovery Theater HD
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Discovery Theater HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93864/4?f=.m3u8
-#EXTINF:-1, Discovery World HD
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Discovery World HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93866/4?f=.m3u8
-#EXTINF:-1, History
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", History
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/237/4?f=.m3u8
-#EXTINF:-1, History 2
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", History 2
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/224/4?f=.m3u8
-#EXTINF:-1, Fox Sports
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Fox Sports
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97910/10?f=.m3u8
-#EXTINF:-1, Fox Sports 2
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Fox Sports 2
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97909/10?f=.m3u8
-#EXTINF:-1, ESPN
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", ESPN
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97908/10?f=.m3u8
-#EXTINF:-1, ESPN 2
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", ESPN 2
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/292/10?f=.m3u8
-#EXTINF:-1, ESPN 3
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", ESPN 3
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/424/10?f=.m3u8
-#EXTINF:-1, ESPN Extra
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", ESPN Extra
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94068/10?f=.m3u8
-#EXTINF:-1, TUDN
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", TUDN
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/560/10?f=.m3u8
-#EXTINF:-1, TUDN (Alt.)
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", TUDN (Alt.)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/561/10?f=.m3u8
-#EXTINF:-1, Claro Sports
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Claro Sports
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/421/10?f=.m3u8
-#EXTINF:-1, Adrenalina Sports Network
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Adrenalina Sports Network
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97886/10?f=.m3u8
-#EXTINF:-1, NFL Network
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", NFL Network
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/576/10?f=.m3u8
-#EXTINF:-1, Bein Ñ HD
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Bein Ñ HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88789/10?f=.m3u8
-#EXTINF:-1, Bein Ñ SD
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Bein Ñ SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/10?f=.m3u8
-#EXTINF:-1, TUDN USA
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", TUDN USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/10?f=.m3u8
-#EXTINF:-1, ESPN Deportes
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", ESPN Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/10?f=.m3u8
-#EXTINF:-1, TVC
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", TVC
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/393/7?f=.m3u8
-#EXTINF:-1, CNN En Español
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", CNN En Español
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/300/7?f=.m3u8
-#EXTINF:-1, Teleformula
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Teleformula
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/600/7?f=.m3u8
-#EXTINF:-1, TNT
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", TNT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97894/12?f=.m3u8
-#EXTINF:-1, Space
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Space
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97895/12?f=.m3u8
-#EXTINF:-1, Cinemax
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Cinemax
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/427/12?f=.m3u8
-#EXTINF:-1, MC
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", MC
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/430/12?f=.m3u8
-#EXTINF:-1, Multipremier
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Multipremier
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/429/12?f=.m3u8
-#EXTINF:-1, De Película Plus
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", De Película Plus
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/493/12?f=.m3u8
-#EXTINF:-1, Cine Latino
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Cine Latino
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/431/12?f=.m3u8
-#EXTINF:-1, Cinecanal
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Cinecanal
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/491/12?f=.m3u8
-#EXTINF:-1, FXM
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", FXM
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/466/12?f=.m3u8
-#EXTINF:-1, Paramount Network
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Paramount Network
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/261/12?f=.m3u8
-#EXTINF:-1, Fox Premium Family
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Fox Premium Family
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/275/11?f=.m3u8
-#EXTINF:-1, HBO 2
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", HBO 2
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/280/11?f=.m3u8
-#EXTINF:-1, HBO Family
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", HBO Family
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/284/11?f=.m3u8
 
 
-#EXTINF:-1, EVENTO PP1
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", EVENTO PP1
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88792/2?f=.m3u8
-#EXTINF:-1, EVENTO PP2
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", EVENTO PP2
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88793/2?f=.m3u8
-#EXTINF:-1, EVENTO 1
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", EVENTO 1
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97881/2?f=.m3u8
-#EXTINF:-1, EVENTO 2
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", EVENTO 2
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97882/2?f=.m3u8
-#EXTINF:-1, EVENTO 3
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", EVENTO 3
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97883/2?f=.m3u8
-#EXTINF:-1, EVENTO 4
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", EVENTO 4
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97884/2?f=.m3u8
 
 
-#EXTINF:-1, ADULTS ONLY ROKOOS
-rtsp://
-
-#EXTINF:-1, RealExtreme
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", RealExtreme
 http://23.237.29.98:2095/491REALX/transco7/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1, Brazzers TV
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Brazzers TV
 http://23.237.29.98:2095/493BRAZZ/transco7/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1, TEN
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", TEN
 http://23.237.29.98:2095/495RKTV/transco7/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1, RK
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", RK
 http://23.237.29.98:2095/495RKTV/transco7/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1, Hustler TV
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Hustler TV
 http://23.237.29.98:2095/496HUSLR/transco7/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1, XTSY
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", XTSY
 http://23.237.29.98:2095/498XTSY/transco7/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1, Playboy TV
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Playboy TV
 http://23.237.29.98:2095/484Playboy/transco8/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1, Venus
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Venus
 http://23.237.29.98:2095/488Venus/transco8/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1, Sextreme
+#EXTINF:-1, group-title="SOLO PARA ROKOOS", Sextreme
 http://23.237.29.98:2095/490Sextreme/transco8/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
 
