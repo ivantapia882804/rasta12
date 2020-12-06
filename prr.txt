@@ -13,11 +13,11 @@ http://
 
 
 *** NACIONALES ***
-#EXTINF:-1 group-title="TECNO-T0T4L", Azteca Uno (HD)
+#EXTINF:-1 tvg-id="Azteca13.mx" group-title="TECNO-T0T4L", Azteca Uno (HD)
 http://cinematicket.club/cantp.php?c=7&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 group-title="TECNO-T0T4L", Clic
 http://cinematicket.club/cantp.php?c=11&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1  tvg-id="lasestrellas.mx" group-title="TECNO-T0T4L", Las Estrellas
+#EXTINF:-1  tvg-id="Canal2.mx" group-title="TECNO-T0T4L", Las Estrellas
 http://cinematicket.club/cantp.php?c=17&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 group-title="TECNO-T0T4L", Foro TV
 http://cinematicket.club/cantp.php?c=19&p=3&k=tecnotv&f=.m3u8 
