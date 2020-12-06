@@ -12,7 +12,7 @@ http://
 rtsp://
 
 *** NACIONALES ***
-#EXTINF:-1, Azteca Uno
+#EXTINF:-1, Azteca Uno (HD)
 http://cinematicket.club/cantp.php?c=7&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1, Clic
 http://cinematicket.club/cantp.php?c=11&p=3&k=tecnotv&f=.m3u8 
@@ -28,7 +28,7 @@ http://cinematicket.club/cantp.php?c=21&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=24&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1, Canal Once
 http://cinematicket.club/cantp.php?c=25&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1, Azteca Uno (HD)
+#EXTINF:-1, Azteca Uno
 http://cinematicket.club/cantp.php?c=27&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1, Teleformula
 http://cinematicket.club/cantp.php?c=32&p=3&k=tecnotv&f=.m3u8 
@@ -66,7 +66,7 @@ http://cinematicket.club/cantp.php?c=4&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=1785&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1, ADN 40 (HD)
 http://cinematicket.club/cantp.php?c=184&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1, Canal Once 
+#EXTINF:-1, Canal Once (HD)
 http://cinematicket.club/cantp.php?c=1942&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1, MVS TV (XHSAW-TDT4)
 http://cinematicket.club/cantp.php?c=2149&p=3&k=tecnotv&f=.m3u8  
@@ -179,7 +179,7 @@ http://cinematicket.club/cantp.php?c=1732&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=1787&p=3&k=tecnotv&f=.m3u8 
 
 *** ENTRETENIMIENTO ***
-#EXTINF:-1, Telemundo Internacional (HD)
+#EXTINF:-1, Telemundo Internacional
 http://cinematicket.club/cantp.php?c=85&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1, Fox Channel
 http://cinematicket.club/cantp.php?c=46&p=3&k=tecnotv&f=.m3u8
@@ -539,11 +539,11 @@ http://miap.xyz/101/serverkey.m3u8
 http://miap.xyz/94/serverkey.m3u8
 #EXTINF:-1, TruTV
 http://miap.xyz/149/serverkey.m3u8
-#EXTINF:-1, Telemundo
+#EXTINF:-1, Telemundo 51 Miami
 http://miap.xyz/151/serverkey.m3u8
 #EXTINF:-1, Unicable
 http://miap.xyz/158/serverkey.m3u8
-#EXTINF:-1, Univisión
+#EXTINF:-1, Univisión 23 Miami
 http://miap.xyz/152/serverkey.m3u8
 
 
@@ -901,11 +901,11 @@ https://blackghost.live/play/cine-126.php?c=101&f=.m3u8
 https://blackghost.live/play/cine-126.php?c=94&f=.m3u8
 #EXTINF:-1, TruTV
 https://blackghost.live/play/cine-126.php?c=149&f=.m3u8
-#EXTINF:-1, Telemundo
+#EXTINF:-1, Telemundo 51 Miami
 https://blackghost.live/play/cine-126.php?c=151&f=.m3u8
 #EXTINF:-1, Unicable
 https://blackghost.live/play/cine-126.php?c=158&f=.m3u8
-#EXTINF:-1, Univisión
+#EXTINF:-1, Univisión 23 Miami
 https://blackghost.live/play/cine-126.php?c=152&f=.m3u8
 
 
@@ -1105,7 +1105,7 @@ rtsp://
 
 
 *** NACIONALES ***
-#EXTINF:-1, Azteca Uno
+#EXTINF:-1, Azteca Uno (HD)
 https://blackghost.live/play/totalp1-126.php?c=7&p=3&k=black&f=.m3u8 
 #EXTINF:-1, Clic
 https://blackghost.live/play/totalp1-126.php?c=11&p=3&k=black&f=.m3u8 
@@ -1121,7 +1121,7 @@ https://blackghost.live/play/totalp1-126.php?c=21&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-126.php?c=24&p=3&k=black&f=.m3u8 
 #EXTINF:-1, Canal Once
 https://blackghost.live/play/totalp1-126.php?c=25&p=3&k=black&f=.m3u8 
-#EXTINF:-1, Azteca Uno (HD)
+#EXTINF:-1, Azteca Uno
 https://blackghost.live/play/totalp1-126.php?c=27&p=3&k=black&f=.m3u8 
 #EXTINF:-1, Teleformula
 https://blackghost.live/play/totalp1-126.php?c=32&p=3&k=black&f=.m3u8 
@@ -1159,7 +1159,7 @@ https://blackghost.live/play/totalp1-126.php?c=4&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-126.php?c=1785&p=3&k=black&f=.m3u8
 #EXTINF:-1, ADN 40 (HD)
 https://blackghost.live/play/totalp1-126.php?c=184&p=3&k=black&f=.m3u8  
-#EXTINF:-1, Canal Once 
+#EXTINF:-1, Canal Once (HD)
 https://blackghost.live/play/totalp1-126.php?c=1942&p=3&k=black&f=.m3u8  
 #EXTINF:-1, MVS TV (XHSAW-TDT4)
 https://blackghost.live/play/totalp1-126.php?c=2149&p=3&k=black&f=.m3u8  
@@ -1272,7 +1272,7 @@ https://blackghost.live/play/totalp1-126.php?c=1732&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-126.php?c=1787&p=3&k=black&f=.m3u8 
 
 *** ENTRETENIMIENTO ***
-#EXTINF:-1, Telemundo Internacional (HD)
+#EXTINF:-1, Telemundo Internacional
 https://blackghost.live/play/totalp1-126.php?c=85&p=3&k=black&f=.m3u8  
 #EXTINF:-1, Fox Channel
 https://blackghost.live/play/totalp1-126.php?c=46&p=3&k=black&f=.m3u8
@@ -1631,11 +1631,11 @@ https://tecnoplay.club/vale/principal.php?c=101&f=.m3u8
 https://tecnoplay.club/vale/principal.php?c=94&f=.m3u8
 #EXTINF:-1, TruTV
 https://tecnoplay.club/vale/principal.php?c=149&f=.m3u8
-#EXTINF:-1, Telemundo
+#EXTINF:-1, Telemundo 51 Miami
 https://tecnoplay.club/vale/principal.php?c=151&f=.m3u8
 #EXTINF:-1, Unicable
 https://tecnoplay.club/vale/principal.php?c=158&f=.m3u8
-#EXTINF:-1, Univisión
+#EXTINF:-1, Univisión 23 Miami
 https://tecnoplay.club/vale/principal.php?c=152&f=.m3u8
 
 
