@@ -130,6 +130,8 @@ http://cinematicket.club/cantp.php?c=2373&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=2591&p=3&k=tecnotv&f=.m3u8
 
 *** CINE ***
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3c.png" group-title="TECNO-T0T4L", A3 Cinema
+http://cinematicket.club/cantp.php?c=3112&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="TECNO-T0T4L", TBS
 http://cinematicket.club/cantp.php?c=81&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatinohd.png" group-title="TECNO-T0T4L", De Película Plus
@@ -144,7 +146,7 @@ http://cinematicket.club/cantp.php?c=124&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=126&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tcm.png" group-title="TECNO-T0T4L", TCM
 http://cinematicket.club/cantp.php?c=128&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.png" group-title="TECNO-T0T4L", Space
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="TECNO-T0T4L", Space
 http://cinematicket.club/cantp.php?c=129&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amc.png" group-title="TECNO-T0T4L", AMC
 http://cinematicket.club/cantp.php?c=131&p=3&k=tecnotv&f=.m3u8  
@@ -466,7 +468,7 @@ http://miap.xyz/34/serverkey.m3u8
 http://miap.xyz/11/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="LIBERADOS", TNT
 http://miap.xyz/146/serverkey.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.png" group-title="LIBERADOS", Space
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="LIBERADOS", Space
 http://miap.xyz/133/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="LIBERADOS", Studio Universal
 http://miap.xyz/134/serverkey.m3u8
@@ -825,7 +827,7 @@ https://blackghost.live/play/cine-126.php?c=34&f=.m3u8
 https://blackghost.live/play/cine-126.php?c=11&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="BG (REQUIERE ACTIVACIÓN)", TNT
 https://blackghost.live/play/cine-126.php?c=146&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.png" group-title="BG (REQUIERE ACTIVACIÓN)", Space
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="BG (REQUIERE ACTIVACIÓN)", Space
 https://blackghost.live/play/cine-126.php?c=133&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="BG (REQUIERE ACTIVACIÓN)", Studio Universal
 https://blackghost.live/play/cine-126.php?c=134&f=.m3u8
@@ -1212,6 +1214,8 @@ https://blackghost.live/play/totalp1-126.php?c=2373&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-126.php?c=2591&p=3&k=black&f=.m3u8
 
 *** CINE ***
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3s.png" group-title="BG-T0T4L", A3 Cinema
+https://blackghost.live/play/totalp1-126.php?c=3112&p=3&k=black&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="BG-T0T4L", TBS
 https://blackghost.live/play/totalp1-126.php?c=81&p=3&k=black&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatinohd.png" group-title="BG-T0T4L", De Película Plus
@@ -1226,7 +1230,7 @@ https://blackghost.live/play/totalp1-126.php?c=124&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-126.php?c=126&p=3&k=black&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tcm.png" group-title="BG-T0T4L", TCM
 https://blackghost.live/play/totalp1-126.php?c=128&p=3&k=black&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.png" group-title="BG-T0T4L", Space
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="BG-T0T4L", Space
 https://blackghost.live/play/totalp1-126.php?c=129&p=3&k=black&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amc.png" group-title="BG-T0T4L", AMC
 https://blackghost.live/play/totalp1-126.php?c=131&p=3&k=black&f=.m3u8  
@@ -1548,7 +1552,7 @@ https://tecnoplay.club/vale/principal.php?c=34&f=.m3u8
 https://tecnoplay.club/vale/principal.php?c=11&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="TECNO (REQUIERE ACTIVACIÓN)", TNT
 https://tecnoplay.club/vale/principal.php?c=146&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.png" group-title="TECNO (REQUIERE ACTIVACIÓN)", Space
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="TECNO (REQUIERE ACTIVACIÓN)", Space
 https://tecnoplay.club/vale/principal.php?c=133&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="TECNO (REQUIERE ACTIVACIÓN)", Studio Universal
 https://tecnoplay.club/vale/principal.php?c=134&f=.m3u8
@@ -2265,7 +2269,7 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/300/7?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/600/7?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="SOLO PARA ROKOOS", TNT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97894/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.png" group-title="SOLO PARA ROKOOS", Space
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="SOLO PARA ROKOOS", Space
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97895/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="SOLO PARA ROKOOS", Cinemax
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/427/12?f=.m3u8
