@@ -264,7 +264,7 @@ http://cinematicket.club/cantp.php?c=174&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=178&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/golf.png" group-title="TECNO-T0T4L", Golf Channel
 http://cinematicket.club/cantp.php?c=179&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aym.png" group-title="TECNO-T0T4L", AYM Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aym.jpg" group-title="TECNO-T0T4L", AYM Sports
 http://cinematicket.club/cantp.php?c=180&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="TECNO-T0T4L", ESPN 3
 http://cinematicket.club/cantp.php?c=345&p=3&k=tecnotv&f=.m3u8  
@@ -504,7 +504,7 @@ http://miap.xyz/72/serverkey.m3u8
 http://miap.xyz/71/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="LIBERADOS", Golden
 http://miap.xyz/95/serverkey.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="LIBERADOS", Golden Edge
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png" group-title="LIBERADOS", Golden Edge
 http://miap.xyz/96/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="LIBERADOS", HBO
 http://miap.xyz/74/serverkey.m3u8
@@ -863,7 +863,7 @@ https://blackghost.live/play/cine-126.php?c=72&f=.m3u8
 https://blackghost.live/play/cine-126.php?c=71&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="BG (REQUIERE ACTIVACIÓN)", Golden
 https://blackghost.live/play/cine-126.php?c=95&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="BG (REQUIERE ACTIVACIÓN)", Golden Edge
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png" group-title="BG (REQUIERE ACTIVACIÓN)", Golden Edge
 https://blackghost.live/play/cine-126.php?c=96&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="BG (REQUIERE ACTIVACIÓN)", HBO
 https://blackghost.live/play/cine-126.php?c=74&f=.m3u8
@@ -1348,7 +1348,7 @@ https://blackghost.live/play/totalp1-126.php?c=174&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-126.php?c=178&p=3&k=black&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/golf.png" group-title="BG-T0T4L", Golf Channel
 https://blackghost.live/play/totalp1-126.php?c=179&p=3&k=black&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aym.png" group-title="BG-T0T4L", AYM Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aym.jpg" group-title="BG-T0T4L", AYM Sports
 https://blackghost.live/play/totalp1-126.php?c=180&p=3&k=black&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="BG-T0T4L", ESPN 3
 https://blackghost.live/play/totalp1-126.php?c=345&p=3&k=black&f=.m3u8  
@@ -1588,7 +1588,7 @@ https://tecnoplay.club/vale/principal.php?c=72&f=.m3u8
 https://tecnoplay.club/vale/principal.php?c=71&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="TECNO (REQUIERE ACTIVACIÓN)", Golden
 https://tecnoplay.club/vale/principal.php?c=95&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="TECNO (REQUIERE ACTIVACIÓN)", Golden Edge
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png" group-title="TECNO (REQUIERE ACTIVACIÓN)", Golden Edge
 https://tecnoplay.club/vale/principal.php?c=96&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="TECNO (REQUIERE ACTIVACIÓN)", HBO
 https://tecnoplay.club/vale/principal.php?c=74&f=.m3u8
@@ -2309,22 +2309,22 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97883/2?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97884/2?f=.m3u8
 
 
-#EXTINF:-1 group-title="SOLO PARA ROKOOS", RealExtreme
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/realx.png" group-title="SOLO PARA ROKOOS", RealExtreme
 http://23.237.29.98:2095/491REALX/transco7/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1 group-title="SOLO PARA ROKOOS", Brazzers TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/braz.png" group-title="SOLO PARA ROKOOS", Brazzers TV
 http://23.237.29.98:2095/493BRAZZ/transco7/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1 group-title="SOLO PARA ROKOOS", TEN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ten.png" group-title="SOLO PARA ROKOOS", TEN
 http://23.237.29.98:2095/495RKTV/transco7/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1 group-title="SOLO PARA ROKOOS", RK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rk.png" group-title="SOLO PARA ROKOOS", RK
 http://23.237.29.98:2095/495RKTV/transco7/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1 group-title="SOLO PARA ROKOOS", Hustler TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hus.png" group-title="SOLO PARA ROKOOS", Hustler TV
 http://23.237.29.98:2095/496HUSLR/transco7/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1 group-title="SOLO PARA ROKOOS", XTSY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xtsy.png" group-title="SOLO PARA ROKOOS", XTSY
 http://23.237.29.98:2095/498XTSY/transco7/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1 group-title="SOLO PARA ROKOOS", Playboy TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/plby.png" group-title="SOLO PARA ROKOOS", Playboy TV
 http://23.237.29.98:2095/484Playboy/transco8/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1 group-title="SOLO PARA ROKOOS", Venus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vens.png" group-title="SOLO PARA ROKOOS", Venus
 http://23.237.29.98:2095/488Venus/transco8/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1 group-title="SOLO PARA ROKOOS", Sextreme
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sextr.jpg"  group-title="SOLO PARA ROKOOS", Sextreme
 http://23.237.29.98:2095/490Sextreme/transco8/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
 
