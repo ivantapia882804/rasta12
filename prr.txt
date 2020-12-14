@@ -1,13 +1,13 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="INFORMACIÓN", NO SE DEJEN ENGAÑAR
+#EXTINF:-1 group-title="INFORMACIÓN", UEFA CHAMPIONS LEAGUE 8VOS
 http://
-#EXTINF:-1 group-title="INFORMACIÓN", LOS ÚNICOS CANALES DE LA FINAL DE VUELTA
+#EXTINF:-1 group-title="INFORMACIÓN", DESDE EL 16 DE FEBRERO
 http://
-#EXTINF:-1 group-title="INFORMACIÓN", SON FS FS2 Y CLARO
+#EXTINF:-1 group-title="INFORMACIÓN", CANELO VS SMITH DIC 19
 http://
-#EXTINF:-1 group-title="INFORMACIÓN", TAMBIÉN EN YOUTUBE
+#EXTINF:-1 group-title="INFORMACIÓN", CANALES 2 7 SPACE E ESPN
 http://
 
 #EXTINF:-1 group-title="ACLARACIÓN", ACTÍVALOS EN LAS APPS
@@ -2114,8 +2114,6 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97868/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/307/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="SOLO PARA ROKOOS", Azteca 7
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/194/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="SOLO PARA ROKOOS", NU9VE
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="SOLO PARA ROKOOS", Canal Once
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/197/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="SOLO PARA ROKOOS", Aprende En Casa 2 Preescolar y Primaria (5.2/11.2)
@@ -2252,8 +2250,6 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/561/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/421/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/asn.png" group-title="SOLO PARA ROKOOS", Adrenalina Sports Network
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97886/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nnet.png" group-title="SOLO PARA ROKOOS", NFL Network
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/576/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SOLO PARA ROKOOS", Bein Ñ HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88789/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SOLO PARA ROKOOS", Bein Ñ SD
@@ -2308,6 +2304,10 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97882/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97883/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 4
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97884/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 5
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/576/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 6
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/realx.png" group-title="SOLO PARA ROKOOS", RealExtreme
