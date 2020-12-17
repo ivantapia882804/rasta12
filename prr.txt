@@ -1953,6 +1953,8 @@ https://blackghost.live/get/xyzembed.php?id=http://nowlive.pro/1/109.html?id=109
 https://blackghost.live/get/xyzembed.php?id=http://nowlive.pro/1/110.html?id=110
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.png" group-title="RELIGIÓN", Enlace
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93862/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/esne.png" group-title="RELIGIÓN", El Sembrador Nueva Evangelización
 https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/maria.png" group-title="RELIGIÓN", María Visión
@@ -2093,10 +2095,10 @@ https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="FTA (LOCALES LIBRES)", RTQ
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="FTA (LOCALES LIBRES)", RT (ESPAÑOL)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="FTA (LOCALES LIBRES)", RT (ESPAÑOL)
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="FTA (LOCALES LIBRES)", TELESUR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sur.png" group-title="FTA (LOCALES LIBRES)", TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
 
@@ -2172,12 +2174,26 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97889/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97838/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="SOLO PARA ROKOOS", Telemundo
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="SOLO PARA ROKOOS", Univisión
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="SOLO PARA ROKOOS", Univisión Pac
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="SOLO PARA ROKOOS", UniMas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="SOLO PARA ROKOOS", Galavisión
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wkaq.png" group-title="SOLO PARA ROKOOS", Telemundo PR
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/544/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wapa.png" group-title="SOLO PARA ROKOOS", WAPA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/545/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wapa2.png" group-title="SOLO PARA ROKOOS", WAPA Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/546/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wipr.png" group-title="SOLO PARA ROKOOS", WIPR
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/547/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unipr.png" group-title="SOLO PARA ROKOOS", Univisión ?R
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/548/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/megapr.jfif" group-title="SOLO PARA ROKOOS", MegaTV PR
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94111/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/p2.jpg" group-title="SOLO PARA ROKOOS", Punto 2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97812/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3.png" group-title="SOLO PARA ROKOOS", Antena 3 Internacional
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/241/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3s.png" group-title="SOLO PARA ROKOOS", A3 Series
@@ -2311,10 +2327,16 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97883/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 4
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97884/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 5
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/574/12?f=.m3u8
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/560/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 6
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/576/12?f=.m3u8
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/561/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 7
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/562/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 8
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/574/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 9
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/576/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 10
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8
 
 
