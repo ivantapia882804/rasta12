@@ -59,11 +59,11 @@ http://cinematicket.club/cantp.php?c=2298&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=1449&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="TECNO-T0T4L", Canal 6 Monterrey (XHAW-TDT)
 http://cinematicket.club/cantp.php?c=2305&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="TECNO-T0T4L", Aprende En Casa 2 Bachillerato (ESPEJO 14.2/22.1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" group-title="TECNO-T0T4L", Ingenio TV
 http://cinematicket.club/cantp.php?c=401&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="TECNO-T0T4L", Canal 6 CDMX
 http://cinematicket.club/cantp.php?c=1253&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="TECNO-T0T4L", Aprende En Casa 2 Bachillerato (6.3)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="TECNO-T0T4L", PRONTO Aprende En Casa 3 Bachillerato
 http://cinematicket.club/cantp.php?c=1943&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="TECNO-T0T4L", NU9VE
 http://cinematicket.club/cantp.php?c=1783&p=3&k=tecnotv&f=.m3u8  
@@ -1143,11 +1143,11 @@ https://blackghost.live/play/totalp1-121.php?c=2298&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-121.php?c=1449&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="BG-T0T4L", Canal 6 Monterrey (XHAW-TDT)
 https://blackghost.live/play/totalp1-121.php?c=2305&p=3&k=black&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="BG-T0T4L", Aprende En Casa 2 Bachillerato (ESPEJO 14.2/22.1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" group-title="BG-T0T4L", Ingenio TV
 https://blackghost.live/play/totalp1-121.php?c=401&p=3&k=black&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="BG-T0T4L", Canal 6 CDMX
 https://blackghost.live/play/totalp1-121.php?c=1253&p=3&k=black&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="BG-T0T4L", Aprende En Casa 2 Bachillerato (6.3)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="BG-T0T4L", PRONTO Aprende En Casa 3 Bachillerato
 https://blackghost.live/play/totalp1-121.php?c=1943&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="BG-T0T4L", NU9VE
 https://blackghost.live/play/totalp1-121.php?c=1783&p=3&k=black&f=.m3u8  
@@ -1983,13 +1983,10 @@ https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores3.smil/playlist.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="FTA (LOCALES LIBRES)", Canal Del Congreso 45.2 | SD
 https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores4.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)", Aprende En Casa 2 Preescolar y Primaria 5.2/11.2 | SD
-https://5e307acc9a171.streamlock.net:1936/canalcatorce/canalcatorce/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)", Aprende En Casa 2 Secundaria 3.2/20.1 | SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)", PRONTO Aprende En Casa 3 Secundaria 3.2/20.1 | SD
 http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)", Aprende En Casa 2 Bachillerato 6.3 | HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)", PRONTO Aprende En Casa 3 Bachillerato 6.3 | HD
 http://mdstrm.com/live-stream-playlist_2500/5cfe8974ef9acc25607a7dec.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ochotv.png" group-title="FTA (LOCALES LIBRES)", Quiero TV | SD
@@ -2028,7 +2025,7 @@ http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)", CANAL 6 SALTILLO
 http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)", MULTIMEDIOS JUAREZ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)", CANAL 6 JUAREZ
 http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="FTA (LOCALES LIBRES)", TELERITMO
@@ -2043,7 +2040,7 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="FTA (LOCALES LIBRES)", CANAL 22
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="FTA (LOCALES LIBRES)", CANAL 22.2 (DELAY 3.2/22.1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="FTA (LOCALES LIBRES)", CANAL 22.2
 https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="FTA (LOCALES LIBRES)", MEXIQUENSE TELEVISIÓN
@@ -2052,16 +2049,16 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="FTA (LOCALES LIBRES)", AMX NOTICIAS
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/set.png" group-title="FTA (LOCALES LIBRES)", SET TELEVISIÓN PUEBLA (ESPEJO 5.2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/set.png" group-title="FTA (LOCALES LIBRES)", SET TELEVISIÓN PUEBLA
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)", TV CUATRO
 https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)", TV CUATRO 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)", TV CUATRO MEDIA
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)", TV CUATRO 3 (ESPEJO 3.2/20.1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)", TV CUATRO 3 EXPRESA
 https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/imryt.png" group-title="FTA (LOCALES LIBRES)", IMRyT
@@ -2085,13 +2082,13 @@ https://liveingesta118.cdnmedia.tv/udgmxlive/smil:44noticias.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/diez.png" group-title="FTA (LOCALES LIBRES)", DIEZ CHIAPAS
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/smr.png" group-title="FTA (LOCALES LIBRES)", SM (ESPEJO 3.2/20.1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/smr.png" group-title="FTA (LOCALES LIBRES)", SM
 https://5e307acc9a171.streamlock.net:1936/noticias/noticias/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="FTA (LOCALES LIBRES)", TV MAS 26.1 (ESPEJO 3.2/20.1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="FTA (LOCALES LIBRES)", TV MAS 26.1
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sizart.png" group-title="FTA (LOCALES LIBRES)", SIZART CANAL 24 (ESPEJO 3.2/20.1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sizart.png" group-title="FTA (LOCALES LIBRES)", SIZART CANAL 24
 https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="FTA (LOCALES LIBRES)", RTQ
@@ -2126,17 +2123,17 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/307/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/194/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="SOLO PARA ROKOOS", Canal Once
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/197/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="SOLO PARA ROKOOS", Aprende En Casa 2 Preescolar y Primaria (5.2/11.2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onyn.png" group-title="SOLO PARA ROKOOS", Once Niñas y Niños
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/472/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="SOLO PARA ROKOOS", Canal Catorce
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/471/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="SOLO PARA ROKOOS", Aprende En Casa 2 Bachillerato (14.2/22.1 INT)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" group-title="SOLO PARA ROKOOS", Ingenio TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/469/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unam.png" group-title="SOLO PARA ROKOOS", TV UNAM
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/239/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="SOLO PARA ROKOOS", Canal 22
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/201/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="SOLO PARA ROKOOS", Canal 22.2 (DELAY 3.2/22.1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="SOLO PARA ROKOOS", Canal 22.2
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94119/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="SOLO PARA ROKOOS", Canal Del Congreso
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94120/12?f=.m3u8
