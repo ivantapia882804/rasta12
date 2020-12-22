@@ -210,6 +210,10 @@ http://cinematicket.club/cantp.php?c=60&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=62&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="TECNO-T0T4L", AXN
 http://cinematicket.club/cantp.php?c=64&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" group-title="TECNO-T0T4L", Unicable (HD)
+http://cinematicket.club/cantp.php?c=66&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sund.png" group-title="TECNO-T0T4L", Sundance TV
+http://cinematicket.club/cantp.php?c=69&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="TECNO-T0T4L", TNT Series
 http://cinematicket.club/cantp.php?c=71&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/glitz.png" group-title="TECNO-T0T4L", Glitz
@@ -1294,6 +1298,10 @@ https://blackghost.live/play/totalp1-121.php?c=60&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-121.php?c=62&p=3&k=black&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="BG-T0T4L", AXN
 https://blackghost.live/play/totalp1-121.php?c=64&p=3&k=black&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" group-title="BG-T0T4L", Unicable (HD)
+https://blackghost.live/play/totalp1-121.php?c=66&p=3&k=black&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sund.png" group-title="BG-T0T4L", Sundance TV
+https://blackghost.live/play/totalp1-121.php?c=69&p=3&k=black&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="BG-T0T4L", TNT Series
 https://blackghost.live/play/totalp1-121.php?c=71&p=3&k=black&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/glitz.png" group-title="BG-T0T4L", Glitz
