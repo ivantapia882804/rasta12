@@ -607,12 +607,18 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/491/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/466/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/param.png" group-title="SOLO PARA ROKOOS", Paramount Network
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/261/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="SOLO PARA ROKOOS", Fox Premium Series
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="SOLO PARA ROKOOS", Fox Premium Series (E)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97899/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="SOLO PARA ROKOOS", Fox Premium Action
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="SOLO PARA ROKOOS", Fox Premium Series
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/274/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="SOLO PARA ROKOOS", Fox Premium Action (E)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97901/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="SOLO PARA ROKOOS", Fox Premium Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="SOLO PARA ROKOOS", Fox Premium Action
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/277/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="SOLO PARA ROKOOS", Fox Premium Movies (E)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97900/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="SOLO PARA ROKOOS", Fox Premium Movies
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/278/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starfamily.png" group-title="SOLO PARA ROKOOS", Fox Premium Family
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/275/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgcpre.png" group-title="SOLO PARA ROKOOS", Golden Premier
