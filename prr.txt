@@ -248,9 +248,9 @@ http://cinematicket.club/cantp.php?c=2113&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="TPLEY", ESPN Extra
 http://cinematicket.club/cantp.php?c=167&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="TPLEY", ESPN
-http://cinematicket.club/cantp.php?c=168&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="TPLEY", ESPN 2
 http://cinematicket.club/cantp.php?c=169&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="TPLEY", ESPN 2
+http://cinematicket.club/cantp.php?c=168&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="TPLEY", Fox Sports
 http://cinematicket.club/cantp.php?c=170&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="TPLEY", Fox Sports 2
@@ -856,9 +856,9 @@ http://miap.xyz/57/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ESPN Extra Sur
 http://miap.xyz/58/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ESPN
-http://miap.xyz/51/serverkey.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ESPN 2
 http://miap.xyz/52/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ESPN 2
+http://miap.xyz/51/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ESPN 3
 http://miap.xyz/53/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ESPN Extra
