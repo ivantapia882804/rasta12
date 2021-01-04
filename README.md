@@ -12,3 +12,5 @@ NOTA: Para el grupo de lista TECNOBLACK es necesario tener instalados en su smar
 
 * Playlist generator (lo pueden buscar por TecnoTV)
 * Black Ghost (lo pueden buscar por Black Addon)
+
+Sigue las instrucciones para la activación.
