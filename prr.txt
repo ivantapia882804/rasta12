@@ -449,6 +449,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97906/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/240/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="SOLO PARA ROKOOS", AXN
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97905/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/isatarg.png" group-title="SOLO PARA ROKOOS", I-Sat
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/269/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcuni.png" group-title="SOLO PARA ROKOOS", Universo
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/estrella.png" group-title="SOLO PARA ROKOOS", Estrella TV
