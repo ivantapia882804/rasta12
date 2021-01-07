@@ -453,10 +453,12 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97905/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/estrella.png" group-title="SOLO PARA ROKOOS", Estrella TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97889/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="SOLO PARA ROKOOS", Telemundo Pac
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97838/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="SOLO PARA ROKOOS", Telemundo
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="SOLO PARA ROKOOS", Telemundo Pac
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97838/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="SOLO PARA ROKOOS", Univisión
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="SOLO PARA ROKOOS", Univisión Pac
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="SOLO PARA ROKOOS", UniMas
