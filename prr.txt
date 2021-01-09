@@ -1,11 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="INFORMACIÓN", CELEBREMOS ESTE DIA DE REYES
+#EXTINF:-1 group-title="INFORMACIÓN", MAS INFO FACEBOOK/byrasta12mx
 http://
-#EXTINF:-1 group-title="INFORMACIÓN", GUARDIANES 2021 A PARTIR DEL 8 DE ENERO
+#EXTINF:-1 group-title="INFORMACIÓN", GUARDIANES 2021 TODOS LOS FINES DE SEMANA
 http://
-#EXTINF:-1 group-title="INFORMACIÓN", PLAYOFFS NFL A PARTIR DEL 9 DE ENERO
+#EXTINF:-1 group-title="INFORMACIÓN", PLAYOFFS NFL WILDCARD POR CANAL 5 FOX SPORTS E ESPN
 http://
 
 
@@ -663,6 +663,10 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/576/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5K8QbNp/image.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8gmqHg/logo-white.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Kanade TV
+http://155.138.216.118:8080/hls/show.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/b1st.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Baby First
 http://miap.xyz/17/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Cartoon Network
@@ -741,6 +745,8 @@ http://miap.xyz/64/serverkey.m3u8
 http://miap.xyz/9/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sony.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Sony Channel
 http://miap.xyz/132/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", TNT Series
+http://miap.xyz/147/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatinohd.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", De Película Plus
 http://miap.xyz/34/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Cinema
@@ -765,10 +771,14 @@ http://miap.xyz/25/serverkey.m3u8
 http://miap.xyz/26/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/param.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Paramount Network
 http://miap.xyz/127/serverkey.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", TNT Series
-http://miap.xyz/147/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/filmarts.jpg" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Film & Arts
+http://miap.xyz/60/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/isatarg.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", I-Sat
+http://miap.xyz/102/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Premium Action (E)
 http://miap.xyz/65/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Premium Action (E) (Alt.)
+http://miap.xyz/66/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starcinema.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Premium Cinema (E)
 http://miap.xyz/67/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starcomedy.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Premium Comedy (E)
@@ -779,6 +789,8 @@ http://miap.xyz/68/serverkey.m3u8
 http://miap.xyz/70/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Premium Series (E)
 http://miap.xyz/72/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Premium Series (E) (Alt.)
+http://miap.xyz/73/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Premium Movies (E)
 http://miap.xyz/71/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Golden
@@ -787,6 +799,8 @@ http://miap.xyz/95/serverkey.m3u8
 http://miap.xyz/96/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", HBO (E)
 http://miap.xyz/74/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", HBO (E) (Alt.)
+http://miap.xyz/81/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole2.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", HBO 2 (E)
 http://miap.xyz/75/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hplus.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", HBO Plus (E)
@@ -829,6 +843,10 @@ http://miap.xyz/151/serverkey.m3u8
 http://miap.xyz/158/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wltv.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Univisión 23 Miami
 http://miap.xyz/152/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3s.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", A3 Series
+http://miap.xyz/4/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Antena 3 Internacional
+http://miap.xyz/8/serverkey.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dtvsp.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", DirecTV Sports Plus
@@ -883,22 +901,29 @@ http://miap.xyz/97/serverkey.m3u8
 http://miap.xyz/93/serverkey.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/finan.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", El Financiero Bloomberg
+http://miap.xyz/19/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bloom.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Bloomberg
+http://miap.xyz/20/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnne.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", CNN En Español
 http://miap.xyz/27/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnne.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", CNN En Español (Alt.)
+http://miap.xyz/28/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnn.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", CNN International
 http://miap.xyz/29/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/judic.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Justicia TV
 http://miap.xyz/22/serverkey.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvn24.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", 24 Horas
-http://miap.xyz/204/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", RT (Español)
 http://miap.xyz/131/serverkey.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bmax.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Bandamax
+http://miap.xyz/18/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Clic
 http://miap.xyz/12/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", MTV
 http://miap.xyz/115/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", MTV (Alt.)
+http://miap.xyz/116/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvl.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", MTV Live HD
 http://miap.xyz/117/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nickm.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Nick Music
@@ -918,12 +943,18 @@ http://miap.xyz/62/serverkey.m3u8
 http://miap.xyz/21/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Azteca 7
 http://miap.xyz/15/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhfn2.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", A+ (XHFN-TDT2)
+http://miap.xyz/15/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Canal Once
+http://miap.xyz/23/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ADN 40
 http://miap.xyz/5/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.jpg" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Canal Del Congreso
+http://miap.xyz/31/serverkey.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unoec.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Canal UNO
 http://miap.xyz/167/serverkey.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ecua.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Canal 7 EC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ecua.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Canal 7 Ecuador
 http://miap.xyz/169/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ev.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Ecuavisa
 http://miap.xyz/170/serverkey.m3u8
@@ -935,12 +966,12 @@ http://miap.xyz/173/serverkey.m3u8
 http://miap.xyz/174/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ta.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", TeleAmazonas
 http://miap.xyz/176/serverkey.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvcec.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", TVC EC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvcec.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Televicentro TVC
 http://miap.xyz/177/serverkey.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cablen.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Cablenoticias
 http://miap.xyz/179/serverkey.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tr3cep.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Tr3ce
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tr3cep.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Trece Colombia
 http://miap.xyz/180/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/1col.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Canal 1
 http://miap.xyz/181/serverkey.m3u8
@@ -975,6 +1006,8 @@ http://miap.xyz/201/serverkey.m3u8
 http://miap.xyz/202/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/13cl.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Canal 13
 http://miap.xyz/203/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvn24.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Canal 24 Horas
+http://miap.xyz/204/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cdf.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", CDF
 http://miap.xyz/206/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cdf.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", CDF (Alt.)
