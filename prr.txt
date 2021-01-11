@@ -1078,7 +1078,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/heraldo.jpg" group-title="FTA (LOCALES LIBRES)", Heraldo Televisión | SD
-https://stream-04.sv4.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-yd2zFqe4lkWWT36q_Tb26Ts)/dm/3/x792196/d/live-2.m3u8
+https://stream-04.sv4.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-yd2zFqe4lkWWT36q_Tb26Ts)/dm/3/x792196/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" group-title="FTA (LOCALES LIBRES)", Teleformula | SD
 https://stream-01.sv4.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqr-6pxQmxSRNQCD2Sj2aqhE)/dm/3/x7u0spq/s/live-3.m3u8
@@ -1091,6 +1091,9 @@ https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores3.smil/playlist.m
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="FTA (LOCALES LIBRES)", Canal Del Congreso 45.2 | SD
 https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)", Aprende En Casa III-1 (5.2/11.2) | SD
+https://5e307acc9a171.streamlock.net:1936/canalcatorce/canalcatorce/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)", Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM) | SD
 https://5e307acc9a171.streamlock.net:1936/prueba/prueba/playlist.m3u8
@@ -1170,7 +1173,7 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)", TV CUATRO
 https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)", TV CUATRO MEDIA (ESPEJO 40.2 VM/7.3 NAL)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)", TV CUATRO MEDIA
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)", TV CUATRO EXPRESA (ESPEJO 14.2/22.1 NAL)
