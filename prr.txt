@@ -55,7 +55,7 @@ http://cinematicket.club/cantp.php?c=2298&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=1449&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="TPLEY", Canal 6 Monterrey (XHAW-TDT)
 http://cinematicket.club/cantp.php?c=2305&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.jpg" group-title="TPLEY", Aprende En Casa III-4 (14.2/22.1 Nal)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="TPLEY", Aprende En Casa III-4 (14.2/22.1 Nal)
 http://cinematicket.club/cantp.php?c=401&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="TPLEY", Canal 6 CDMX
 http://cinematicket.club/cantp.php?c=1253&p=3&k=tecnotv&f=.m3u8 
@@ -407,7 +407,7 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/197/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/472/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="SOLO PARA ROKOOS", Canal Catorce
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/471/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.jpg" group-title="SOLO PARA ROKOOS", Aprende En Casa III-4 (14.2/22.1 Nal)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="SOLO PARA ROKOOS", Aprende En Casa III-4 (14.2/22.1 Nal)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/469/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unam.png" group-title="SOLO PARA ROKOOS", TV UNAM
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/239/12?f=.m3u8
@@ -1092,7 +1092,7 @@ https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores3.smil/playlist.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="FTA (LOCALES LIBRES)", Canal Del Congreso 45.2 | SD
 https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores4.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)", Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM) (Alt.) | SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)", Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM) | SD
 https://5e307acc9a171.streamlock.net:1936/prueba/prueba/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)", Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM) (Alt.) | SD
