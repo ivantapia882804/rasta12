@@ -1135,7 +1135,7 @@ http://miap.xyz/240/serverkey.m3u8
 http://miap.xyz/241/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wapa2.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", WAPA Deportes
 http://miap.xyz/242/serverkey.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wowpr.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", WOW TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wowsv.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", WOW TV
 http://miap.xyz/243/serverkey.m3u8
 
 
@@ -1238,6 +1238,9 @@ https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="FTA (LOCALES LIBRES)", CANAL CATORCE
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unam.png" group-title="FTA (LOCALES LIBRES)", TV UNAM
+https://player-api.new.livestream.com/accounts/27177136/events/8970901/broadcasts/215919017.secure.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="FTA (LOCALES LIBRES)", CANAL 22
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
