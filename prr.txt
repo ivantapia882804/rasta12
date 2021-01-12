@@ -947,6 +947,8 @@ http://miap.xyz/32/serverkey.m3u8
 http://miap.xyz/97/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/garage.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Garage TV
 http://miap.xyz/93/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ecdf.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ECDF
+http://miap.xyz/168/serverkey.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/finan.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", El Financiero Bloomberg
