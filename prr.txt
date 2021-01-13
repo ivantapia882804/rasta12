@@ -1153,7 +1153,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://stream-01.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmh0myJTFJ1fbL268hkpjkfI)/dm/3/x7xyu5s/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtchn.png" group-title="FTA (LOCALES LIBRES)", México Travel Channel | SD
-https://stream-03.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmic1sYx-2af4GP8vn5v3_ww)/dm/3/x7xyu4v/s/live-3.m3u8
+https://stream-01.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmic1sYx-2af4GP8vn5v3_ww)/dm/3/x7xyu4v/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c10.jpg" group-title="FTA (LOCALES LIBRES)", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
@@ -1238,9 +1238,6 @@ https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="FTA (LOCALES LIBRES)", CANAL CATORCE
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unam.png" group-title="FTA (LOCALES LIBRES)", TV UNAM
-https://player-api.new.livestream.com/accounts/27177136/events/8970901/broadcasts/215919017.secure.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="FTA (LOCALES LIBRES)", CANAL 22
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
