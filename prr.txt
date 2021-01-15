@@ -714,7 +714,7 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5K8QbNp/image.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8gmqHg/logo-white.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Kanade TV
-http://155.138.216.118:8080/hls/show.m3u8
+http://207.246.84.143:8080/hls/Kanade.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/b1st.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Baby First
 http://miap.xyz/17/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Cartoon Network
@@ -1149,8 +1149,11 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vibe.jpg" group-title="FTA (LOCALES LIBRES)", Vibe TV/Mundo Ejecutivo | SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ejecutivo.png" group-title="FTA (LOCALES LIBRES)", Mundo Ejecutivo TV | SD
 https://stream-01.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmh0myJTFJ1fbL268hkpjkfI)/dm/3/x7xyu5s/s/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtchnl.png" group-title="FTA (LOCALES LIBRES)", México Travel Channel | SD
+https://stream-01.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBml0nRFUFrLQ_oi5X13hQ65o)/dm/3/x7xyu4v/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c10.jpg" group-title="FTA (LOCALES LIBRES)", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
