@@ -5,7 +5,7 @@
 http://
 #EXTINF:-1 group-title="INFORMACIÓN", GUARDIANES 2021 TODOS LOS FINES DE SEMANA
 http://
-#EXTINF:-1 group-title="INFORMACIÓN", PLAYOFFS NFL DIVISIONAL POR CANAL 5 FOX SPORTS ESPN Y TELEMUNDO/UNIVERSO
+#EXTINF:-1 group-title="INFORMACIÓN", PLAYOFFS NFL FINALES DE CONFERENCIA ESTE DOMINGO
 http://
 
 
@@ -1338,23 +1338,11 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ejecutivo.PNG" group-title="FTA (LOCALES LIBRES)", Mundo Ejecutivo TV | SD
-https://stream-01.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmh0myJTFJ1fbL268hkpjkfI)/dm/3/x7xyu5s/s/live-3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtchn.png" group-title="FTA (LOCALES LIBRES)", México Travel Channel | SD
-https://stream-01.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBml0nRFUFrLQ_oi5X13hQ65o)/dm/3/x7xyu4v/s/live-3.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c10.jpg" group-title="FTA (LOCALES LIBRES)", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/milen.png" group-title="FTA (LOCALES LIBRES)", Milenio | SD
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/heraldo.jpg" group-title="FTA (LOCALES LIBRES)", Heraldo Televisión | SD
-https://stream-01.sv4.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-yd2zFqe4lkWWT36q_Tb26Ts)/dm/3/x792196/s/live-2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" group-title="FTA (LOCALES LIBRES)", Teleformula | SD
-https://stream-01.sv4.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqr-6pxQmxSRNQCD2Sj2aqhE)/dm/3/x7u0spq/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onceint.png" group-title="FTA (LOCALES LIBRES)", Canal Once IPN  Int. | HD
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
