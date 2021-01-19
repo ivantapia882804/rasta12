@@ -711,263 +711,1345 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/576/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="/logos/tntsports.png" group-title="Lista 16",TNT SPORTS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/tntsp.png" group-title="wistream", TNT Sports
 https://blackghost.live/get/wistream.php?cat=latinos&ch=tnt-sports&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/fox-sports-premium1.png" group-title="Lista 16",FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/foxsppre.png" group-title="wistream", Fox Sports premium
 https://blackghost.live/get/wistream.php?cat=latinos&ch=fox-sports-premium&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/tudn.png" group-title="Lista 16",TUDN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/tudn.png" group-title="wistream", TUDN
 https://blackghost.live/get/wistream.php?cat=latinos&ch=tudn&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/goltvlatino.png" group-title="Lista 16",GOLTV Latino en vivo Online
-https://blackghost.live/get/wistream.php?cat=latinos&ch=goltvlatino&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/beinlatino.png" group-title="Lista 16",Bein Sports Latino en vivo Online
-https://blackghost.live/get/wistream.php?cat=latinos&ch=beinlatino&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/vtv.png" group-title="Lista 16",VTV URUGUAY
-https://blackghost.live/get/wistream.php?cat=latinos&ch=vtv&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/caracoltv.png" group-title="Lista 16",CARACOL TV
-https://blackghost.live/get/wistream.php?cat=latinos&ch=caracoltv&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/golperu.png" group-title="Lista 16",GOL PERU
-https://blackghost.live/get/wistream.php?cat=latinos&ch=golperu&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/cdf.png" group-title="Lista 16",CDF
-https://blackghost.live/get/wistream.php?cat=latinos&ch=cdfpremium&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports1ar.png" group-title="Lista 16",FOX SPORTS ARGENTINA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/fox1.png" group-title="wistream", Fox Sports Sur
 https://blackghost.live/get/wistream.php?cat=latinos&ch=fox-sports1ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports2ar.png" group-title="Lista 16",FOX SPORTS 2 ARGENTINA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/fox2.png" group-title="wistream", Fox Sports 2 Sur
 https://blackghost.live/get/wistream.php?cat=latinos&ch=fox-sports2ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports3ar.png" group-title="Lista 16",FOX SPORTS 3 ARGENTINA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/fox3.png" group-title="wistream", Fox Sports 3 Sur
 https://blackghost.live/get/wistream.php?cat=latinos&ch=fox-sports3ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espnar.png" group-title="Lista 16",ESPN ARGENTINA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/espn.png" group-title="wistream", ESPN Sur
 https://blackghost.live/get/wistream.php?cat=latinos&ch=espn1ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espn2ar.png" group-title="Lista 16",ESPN 2 ARGENTINA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/espn2.png" group-title="wistream", ESPN 2 Sur
 https://blackghost.live/get/wistream.php?cat=latinos&ch=espn2ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espn3ar.png" group-title="Lista 16",ESPN 3 ARGENTINA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/espn3.png" group-title="wistream", ESPN 3 Sur
 https://blackghost.live/get/wistream.php?cat=latinos&ch=espn3ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports1mx.png" group-title="Lista 16",FOX SPORTS MEXICO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/fox1.png" group-title="wistream", Fox Sports
 https://blackghost.live/get/wistream.php?cat=latinos&ch=fox-sports1mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports2mx.png" group-title="Lista 16",FOX SPORTS 2 MEXICO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/foxsports2mx.png" group-title="wistream", Fox Sports 2
 https://blackghost.live/get/wistream.php?cat=latinos&ch=fox-sports2mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports3mx.png" group-title="Lista 16",FOX SPORTS 3 MEXICO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/foxsports3mx.png" group-title="wistream", Fox Sports 3
 https://blackghost.live/get/wistream.php?cat=latinos&ch=fox-sports3mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espnmx.png" group-title="Lista 16",ESPN MEXICO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/espn.png" group-title="wistream", ESPN
 https://blackghost.live/get/wistream.php?cat=latinos&ch=espn1mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espn2mx.png" group-title="Lista 16",ESPN 2 MEXICO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/espn2.png" group-title="wistream", ESPN 2
 https://blackghost.live/get/wistream.php?cat=latinos&ch=espn2mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espn3mx.png" group-title="Lista 16",ESPN 3 MEXICO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/espn3.png" group-title="wistream", ESPN 3
 https://blackghost.live/get/wistream.php?cat=latinos&ch=espn3mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espnmasar.png" group-title="Lista 16",ESPN + ARGENTINA
-https://blackghost.live/get/wistream.php?cat=latinos&ch=espn+ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/directvsports.png" group-title="Lista 16",DIRECTV SPORTS
-https://blackghost.live/get/wistream.php?cat=latinos&ch=directv-sports&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/directvsports2.png" group-title="Lista 16",DIRECTV SPORTS 2
-https://blackghost.live/get/wistream.php?cat=latinos&ch=directv-sports2&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/directv-sports-plus.png" group-title="Lista 16",DIRECTV SPORTS PLUS
-https://blackghost.live/get/wistream.php?cat=latinos&ch=directv-sports-plus&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/tyc.png" group-title="Lista 16",TYC SPORTS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/tyc.png" group-title="wistream", TyC Sports
 https://blackghost.live/get/wistream.php?cat=latinos&ch=tyc&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/golflatino.png" group-title="Lista 16",GOLF CHANNEL
-https://blackghost.live/get/wistream.php?cat=latinos&ch=golflatino&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxaction.png" group-title="Lista 16",FOX PREMIUM ACTION
-https://blackghost.live/get/wistream.php?cat=latinos&ch=foxaction&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/adrenalinatv.png" group-title="Lista 16",ADRENALINA SPORTS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/asn.png" group-title="wistream", Adrenalina Sports Network
 https://blackghost.live/get/wistream.php?cat=latinos&ch=adrenalinatv&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/aym.png" group-title="Lista 16",AYM SPORTS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/aym.jpg" group-title="wistream", AYM Sports
 https://blackghost.live/get/wistream.php?cat=latinos&ch=aymsports&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/univisiondeportes.png" group-title="Lista 16",UNIVISION DEPORTES
-https://blackghost.live/get/wistream.php?cat=latinos&ch=univisiondeportes&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/win.png" group-title="Lista 16",WIN SPORTS
-https://blackghost.live/get/wistream.php?cat=latinos&ch=winsports&f=.m3u8
-
-#EXTINF:-1 tvg-logo="/logos/telefe.png" group-title="Lista 16",TELEFE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/ls84.png" group-title="wistream", Telefe
 https://blackghost.live/get/wistream.php?cat=latinos&ch=telefe&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/eltrece.png" group-title="Lista 16",EL TRECE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/ls85.png" group-title="wistream", El Trece
 https://blackghost.live/get/wistream.php?cat=latinos&ch=eltrece&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/america2.png" group-title="Lista 16",AMERICA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/americatv.png" group-title="wistream", América TV
 https://blackghost.live/get/wistream.php?cat=latinos&ch=america2&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/tvpublica.png" group-title="Lista 16",TV PUBLICA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/ls82.png" group-title="wistream", TV Pública
 https://blackghost.live/get/wistream.php?cat=latinos&ch=tvpublica&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/tn.png" group-title="Lista 16",TN ARGENTINA
-https://blackghost.live/get/wistream.php?cat=latinos&ch=tn&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/c5n.png" group-title="Lista 16",C5N ARGENTINA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/c5n.png" group-title="wistream", C5N
 https://blackghost.live/get/wistream.php?cat=latinos&ch=c5n&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/canalnueve.png" group-title="Lista 16",EL NUEVE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/nuevear.png" group-title="wistream", El Nueve
 https://blackghost.live/get/wistream.php?cat=latinos&ch=canal9ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/canal26.png" group-title="Lista 16",CANAL 26
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/26ar.png" group-title="wistream", Canal 26 TV
 https://blackghost.live/get/wistream.php?cat=latinos&ch=canal26ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/cronicatv.png" group-title="Lista 16",CRONICA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/cronicatv.png" group-title="wistream", Crónica TV
 https://blackghost.live/get/wistream.php?cat=latinos&ch=cronicatv&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/ciudadmagazine.png" group-title="Lista 16",CIUDAD MAGAZINE
-https://blackghost.live/get/wistream.php?cat=latinos&ch=ciudadmagazine&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/a24.png" group-title="Lista 16",A 24
-https://blackghost.live/get/wistream.php?cat=latinos&ch=a24&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/vtv.png" group-title="Lista 16",VTV URUGUAY
-https://blackghost.live/get/wistream.php?cat=latinos&ch=vtv&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/caracoltv.png" group-title="Lista 16",CARACOL TV
-https://blackghost.live/get/wistream.php?cat=latinos&ch=caracoltv&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/televisabajio.png" group-title="Lista 16",TELEVISA DEL BAJIO
-https://blackghost.live/get/wistream.php?cat=latinos&ch=canalbajio&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/canal5televisa.png" group-title="Lista 16",CANAL 5 TELEVISA
-https://blackghost.live/get/wistream.php?cat=latinos&ch=canal5televisa&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/azteca.png" group-title="Lista 16",AZTECA 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/azteca1.png" group-title="wistream", Azteca Uno
 https://blackghost.live/get/wistream.php?cat=latinos&ch=azteca&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/azteca7.png" group-title="Lista 16",AZTECA SIETE
-https://blackghost.live/get/wistream.php?cat=latinos&ch=azteca7&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/aztecamas.png" group-title="Lista 16",AZTECA MAS
-https://blackghost.live/get/wistream.php?cat=latinos&ch=aztecamas&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/aztecacinema.png" group-title="Lista 16",AZTECA CINEMA
-https://blackghost.live/get/wistream.php?cat=latinos&ch=aztecacinema&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/aztecamundo.png" group-title="Lista 16",AZTECA MUNDO
-https://blackghost.live/get/wistream.php?cat=latinos&ch=aztecamundo&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/aztecacorazon.png" group-title="Lista 16",AZTECA CORAZON
-https://blackghost.live/get/wistream.php?cat=latinos&ch=aztecacorazon&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/canalestrellas.png" group-title="Lista 16",CANAL LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/xew.png" group-title="wistream", Las Estrellas
 https://blackghost.live/get/wistream.php?cat=latinos&ch=canalestrellas&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/telenovelas.png" group-title="Lista 16",TLNOVELAS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/xhgc.png" group-title="wistream", Canal 5
+https://blackghost.live/get/wistream.php?cat=latinos&ch=canal5televisa&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/azteca7.jpg" group-title="wistream", Azteca 7
+https://blackghost.live/get/wistream.php?cat=latinos&ch=azteca7&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/xhimt2.png" group-title="wistream", A+ Metropolitano
+https://blackghost.live/get/wistream.php?cat=latinos&ch=aztecamas&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/xhl.png" group-title="wistream", Televisa Bajío 12.1
+https://blackghost.live/get/wistream.php?cat=latinos&ch=canalbajio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/cinema.png" group-title="wistream", Cinema
+https://blackghost.live/get/wistream.php?cat=latinos&ch=aztecacinema&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/mundo.png" group-title="wistream", Mundo
+https://blackghost.live/get/wistream.php?cat=latinos&ch=aztecamundo&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/corazon.png" group-title="wistream", Corazón
+https://blackghost.live/get/wistream.php?cat=latinos&ch=aztecacorazon&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/tln.png" group-title="wistream", Tlnovelas
 https://blackghost.live/get/wistream.php?cat=latinos&ch=telenovelas&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/mtvlatino.png" group-title="Lista 16",MTV LATINO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/mtv.png" group-title="wistream", MTV
 https://blackghost.live/get/wistream.php?cat=latinos&ch=mtv&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxlatino.png" group-title="Lista 16",FOX LATINO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/star.png" group-title="wistream", Fox Channel
 https://blackghost.live/get/wistream.php?cat=latinos&ch=fox&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxaction.png" group-title="Lista 16",FOX PREMIUM ACTION
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/staraction.png" group-title="wistream", Fox Premium Action (E)
 https://blackghost.live/get/wistream.php?cat=latinos&ch=foxaction&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxseries.png" group-title="Lista 16",FOX PREMIUM SERIES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/starseries.png" group-title="wistream", Fox Premium Series (E)
 https://blackghost.live/get/wistream.php?cat=latinos&ch=foxseries&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxfamily.png" group-title="Lista 16",FOX PREMIUM FAMILY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/starfamily.png" group-title="wistream", Fox Premium Family (E)
 https://blackghost.live/get/wistream.php?cat=latinos&ch=foxfamily&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxcinema.png" group-title="Lista 16",FOX PREMIUM CINEMA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/starcinema.png" group-title="wistream", Fox Premium Cinema (E)
 https://blackghost.live/get/wistream.php?cat=latinos&ch=foxcinema&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxcomedy.png" group-title="Lista 16",FOX PREMIUM COMEDY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/starcomedy.png" group-title="wistream", Fox Premium Comedy (E)
 https://blackghost.live/get/wistream.php?cat=latinos&ch=foxcomedy&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxclassics.png" group-title="Lista 16",FOX PREMIUM CLASICS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/starclassics.png" group-title="wistream", Fox Premium Classics (E)
 https://blackghost.live/get/wistream.php?cat=latinos&ch=foxclassics&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxmovies.png" group-title="Lista 16",FOX PREMIUM MOVIES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/starmovies.png" group-title="wistream", Fox Premium Movies (E)
 https://blackghost.live/get/wistream.php?cat=latinos&ch=foxmovies&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxlifelatino.png" group-title="Lista 16",FOX LIFE LATINO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/starlife.png" group-title="wistream", Fox Life
 https://blackghost.live/get/wistream.php?cat=latinos&ch=foxlife&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/hbo.png" group-title="Lista 16",HBO LATINO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/ole.png" group-title="wistream", HBO (E)
 https://blackghost.live/get/wistream.php?cat=latinos&ch=hbo&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/hbo2.png" group-title="Lista 16",HBO 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/ole2.png" group-title="wistream", HBO 2 (E)
 https://blackghost.live/get/wistream.php?cat=latinos&ch=hbo2&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/hboplus.png" group-title="Lista 16",HBO PLUS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/hplus.png" group-title="wistream", HBO Plus (E)
 https://blackghost.live/get/wistream.php?cat=latinos&ch=hboplus&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/hbofamily.png" group-title="Lista 16",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/hfam.png" group-title="wistream", HBO Family (E)
 https://blackghost.live/get/wistream.php?cat=latinos&ch=hbofamily&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/hbosignature.png" group-title="Lista 16",HBO SIGNATURE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/hsign.png" group-title="wistream", HBO Signature (E)
 https://blackghost.live/get/wistream.php?cat=latinos&ch=hbosignature&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/hboxtreme.png" group-title="Lista 16",HBO XTREME
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/mprime.png" group-title="wistream", HBO Xtreme (E)
 https://blackghost.live/get/wistream.php?cat=latinos&ch=maxprime&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/hbomundi.png" group-title="Lista 16",HBO MUNDI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/max.png" group-title="wistream", HBO Mundi (E)
 https://blackghost.live/get/wistream.php?cat=latinos&ch=maxlatino&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/hbopop.png" group-title="Lista 16",HBO POP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/maxup.png" group-title="wistream", HBO Pop (E)
 https://blackghost.live/get/wistream.php?cat=latinos&ch=maxup&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/golden.png" group-title="Lista 16",GOLDEN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/cgc.png" group-title="wistream", Golden
 https://blackghost.live/get/wistream.php?cat=latinos&ch=golden&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/goldenplus.png" group-title="Lista 16",GOLDEN PLUS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/cgchd.png" group-title="wistream", Golden Plus
 https://blackghost.live/get/wistream.php?cat=latinos&ch=goldenplus&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/goldenedge.png" group-title="Lista 16",GOLDEN EDGE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/cgc2.png" group-title="wistream", Golden Edge
 https://blackghost.live/get/wistream.php?cat=latinos&ch=goldenedge&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/cinemax.png" group-title="Lista 16",CINEMAX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/cmax.png" group-title="wistream", Cinemax
 https://blackghost.live/get/wistream.php?cat=latinos&ch=cinemax&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/cinecanal.png" group-title="Lista 16",CINECANAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/cc.png" group-title="wistream", Cinecanal
 https://blackghost.live/get/wistream.php?cat=latinos&ch=cinecanal&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/tntlatino.png" group-title="Lista 16",TNT LATINO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/tnt.png" group-title="wistream", TNT
 https://blackghost.live/get/wistream.php?cat=latinos&ch=tnt&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/tntseries.png" group-title="Lista 16",TNT SERIES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/tnts.png" group-title="wistream", TNT Series
 https://blackghost.live/get/wistream.php?cat=latinos&ch=tntseries&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/axnlatino.png" group-title="Lista 16",AXN LATINO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/axn.png" group-title="wistream", AXN
 https://blackghost.live/get/wistream.php?cat=latinos&ch=axn&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/amclatino.png" group-title="Lista 16",AMC LATINO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/amc.png" group-title="wistream", AMC
 https://blackghost.live/get/wistream.php?cat=latinos&ch=amc&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/tcmlatino.png" group-title="Lista 16",TCM LATINO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/tcm.png" group-title="wistream", TCM
 https://blackghost.live/get/wistream.php?cat=latinos&ch=tcm&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/syfy.png" group-title="Lista 16",SYFY LATINO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/syfy.png" group-title="wistream", SYFY
 https://blackghost.live/get/wistream.php?cat=latinos&ch=syfy&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/fxm.png" group-title="Lista 16",FXM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/fxm.png" group-title="wistream", FXM
 https://blackghost.live/get/wistream.php?cat=latinos&ch=fxm&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/fx.png" group-title="Lista 16",FX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/fx.png" group-title="wistream", FX
 https://blackghost.live/get/wistream.php?cat=latinos&ch=fx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/space.png" group-title="Lista 16",SPACE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/space.PNG" group-title="wistream", Space
 https://blackghost.live/get/wistream.php?cat=latinos&ch=space&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/comedycentrallatino.png" group-title="Lista 16",COMEDY CENTRAL LATINO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/comedyc.png" group-title="wistream", Comedy Central
 https://blackghost.live/get/wistream.php?cat=latinos&ch=comedycentral&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/paramountlatino.png" group-title="Lista 16",PARAMOUNT CHANNEL LATINO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/param.png" group-title="wistream", Paramount Network
 https://blackghost.live/get/wistream.php?cat=latinos&ch=paramountchannel&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/sony.png" group-title="Lista 16",SONY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/sony.png" group-title="wistream", Sony Channel
 https://blackghost.live/get/wistream.php?cat=latinos&ch=sony&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/tbs.png" group-title="Lista 16",TBS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/tbs.png" group-title="wistream", TBS
 https://blackghost.live/get/wistream.php?cat=latinos&ch=tbs&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/studiouniversal.png" group-title="Lista 16",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/studio.png" group-title="wistream", Studio Universal
 https://blackghost.live/get/wistream.php?cat=latinos&ch=studiouniversal&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/universalchannel.png" group-title="Lista 16",UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/universal.png" group-title="wistream", Universal TV
 https://blackghost.live/get/wistream.php?cat=latinos&ch=universalchannel&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/warner.png" group-title="Lista 16",WARNER
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/warner.png" group-title="wistream", Warner
 https://blackghost.live/get/wistream.php?cat=latinos&ch=warner&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/depelicula.png" group-title="Lista 16",DE PELICULA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/cortelatino.png" group-title="wistream", De Película
 https://blackghost.live/get/wistream.php?cat=latinos&ch=depelicula&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/distritocomedia.png" group-title="Lista 16",DISTRITO COMEDIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/clasicopng" group-title="wistream", Distrito Comedia
 https://blackghost.live/get/wistream.php?cat=latinos&ch=distritocomedia
-
-
-
-
-#EXTINF:-1 tvg-logo="/logos/historylatino.png" group-title="Lista 16",HISTORY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/history.png" group-title="wistream", History
 http://blackghost.live/get/wistream.php?cat=latinos&ch=history&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/history2.png" group-title="Lista 16",HISTORY 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/h2.png" group-title="wistream", History 2 (Andina/Sur)
 http://blackghost.live/get/wistream.php?cat=latinos&ch=history2&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/discoverychannellatino.png" group-title="Lista 16",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/disc.png" group-title="wistream", Discovery
 http://blackghost.live/get/wistream.php?cat=latinos&ch=discoverychannel&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/tlc.png" group-title="Lista 16",DISCOVERY TLC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/tlc.jpg" group-title="wistream", TLC
 http://blackghost.live/get/wistream.php?cat=latinos&ch=tlc&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/discoverycivilization.png" group-title="Lista 16",DISCOVERY CIVILIZATION
-http://blackghost.live/get/wistream.php?cat=latinos&ch=discoverycivilization&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/discoveryturbo.png" group-title="Lista 16",DISCOVERY TURBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/turbo.png" group-title="wistream", Discovery Turbo
 http://blackghost.live/get/wistream.php?cat=latinos&ch=discoveryturbo&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/discoverytheater.png" group-title="Lista 16",DISCOVERY THEATER
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/dthd.png" group-title="wistream", Discovery Theater HD
 http://blackghost.live/get/wistream.php?cat=latinos&ch=discoverytheater&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/discoverysci.png" group-title="Lista 16",DISCOVERY SCIENCIE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/sci.png" group-title="wistream", Discovery Science
 http://blackghost.live/get/wistream.php?cat=latinos&ch=discoverysciencie&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/invdiscovery.png" group-title="Lista 16",INVESTIGACION DISCOVERY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/peoplearts.png" group-title="wistream", Investigation Discovery
 http://blackghost.live/get/wistream.php?cat=latinos&ch=discoveryinvestigacion&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/discoveryhh.png" group-title="Lista 16",DISCOVERY H&H
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/hyh.png" group-title="wistream", Discovery Home & Health
 http://blackghost.live/get/wistream.php?cat=latinos&ch=discoveryhh&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/discoveryworl.png" group-title="Lista 16",DISCOVERY WORL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/world.png" group-title="wistream", Discovery World HD
 http://blackghost.live/get/wistream.php?cat=latinos&ch=discoveryworl&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/nationalgeographiclatino.png" group-title="Lista 16",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/ngc.png" group-title="wistream", National Geographic
 http://blackghost.live/get/wistream.php?cat=latinos&ch=nationalgeo&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/natgeowilllatino.png" group-title="Lista 16",NAT GEO WILL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/ngw.png" group-title="wistream", Nat Geo Wild
 http://blackghost.live/get/wistream.php?cat=latinos&ch=nationalwill&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/ae.png" group-title="Lista 16",A&E
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/ae.png" group-title="wistream", A&E
 http://blackghost.live/get/wistream.php?cat=latinos&ch=ae&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/animalplanet.png" group-title="Lista 16",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/animal.png" group-title="wistream", Animal Planet
 http://blackghost.live/get/wistream.php?cat=latinos&ch=animalplanet&f=.m3u8
-
-
-#EXTINF:-1 tvg-logo="/logos/cartoonnetwork.png" group-title="Lista 16",cartoon network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/cn.png" group-title="wistream", Cartoon Network
 http://blackghost.live/get/wistream.php?cat=infantiles&ch=cartoonnetwork&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/discoverykids.png" group-title="Lista 16",discovery kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/dk.png" group-title="wistream", Discovery Kids
 http://blackghost.live/get/wistream.php?cat=infantiles&ch=discoverykids&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/disneyjunior.png" group-title="Lista 16",disney junior
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/djr.png" group-title="wistream", Disney Junior
 http://blackghost.live/get/wistream.php?cat=infantiles&ch=disneyjunior&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/disneyxd.png" group-title="Lista 16",disney xd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/dxd.png" group-title="wistream", Disney XD
 http://blackghost.live/get/wistream.php?cat=infantiles&ch=disneyxd&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/disneychannel.png" group-title="Lista 16",disney channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/dc.png" group-title="wistream", Disney Channel
 http://blackghost.live/get/wistream.php?cat=infantiles&ch=disneychannel&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/nick.png" group-title="Lista 16",nick
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/nick.png" group-title="wistream", Nick
 http://blackghost.live/get/wistream.php?cat=infantiles&ch=nick&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/nicktoons.png" group-title="Lista 16",nicktoons
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/nickm.png" group-title="wistream", Nickmusic
 http://blackghost.live/get/wistream.php?cat=infantiles&ch=nicktoons&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/babyfirst.png" group-title="Lista 16",babyfirst
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/b1st.png" group-title="wistream", Baby First
 http://blackghost.live/get/wistream.php?cat=infantiles&ch=babyfirst&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/tooncast.png" group-title="Lista 16",tooncast
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/tooncast.png" group-title="wistream", Tooncast
 http://blackghost.live/get/wistream.php?cat=infantiles&ch=tooncast&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/boomerang.png" group-title="Lista 16",boomerang
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/boom.png" group-title="wistream", Boomerang
 http://blackghost.live/get/wistream.php?cat=infantiles&ch=boomerang&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/boing.png" group-title="Lista 16",boing
-http://blackghost.live/get/wistream.php?cat=infantiles&ch=boing&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/clantv.png" group-title="Lista 16",clantv
-http://blackghost.live/get/wistream.php?cat=infantiles&ch=clantv&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/pakapaka.png" group-title="Lista 16",paka paka
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/pakapakaar.png" group-title="wistream", Paka Paka
 http://blackghost.live/get/wistream.php?cat=infantiles&ch=pakapaka&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/kidstv.png" group-title="Lista 16",kidstv
-http://blackghost.live/get/wistream.php?cat=infantiles&ch=kidstv&f=.m3u8
+
+#EXTINF:-1 group-title="CineDarK", Azteca Uno
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/6
+#EXTINF:-1 group-title="CineDarK", Las Estrellas
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/1
+#EXTINF:-1 group-title="CineDarK", Imagen TV
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/4
+#EXTINF:-1 group-title="CineDarK", Foro TV
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/170
+#EXTINF:-1 group-title="CineDarK", Canal 5
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/3
+#EXTINF:-1 group-title="CineDarK", Azteca 7
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/5
+#EXTINF:-1 group-title="CineDarK", A+
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/11
+#EXTINF:-1 group-title="CineDarK", Galavision
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/9
+#EXTINF:-1 group-title="CineDarK", Nu9ve
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/10
+#EXTINF:-1 group-title="CineDarK", Az Clic
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/12
+#EXTINF:-1 group-title="CineDarK", Az Corazon
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/13
+#EXTINF:-1 group-title="CineDarK", Az Mundo
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/14
+#EXTINF:-1 group-title="CineDarK", Az Cinema
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/15
+#EXTINF:-1 group-title="CineDarK", Canal Once
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/17
+#EXTINF:-1 group-title="CineDarK", MVStv
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/18
+#EXTINF:-1 group-title="CineDarK", Canal 4 (XHFB-TDT)
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/7
+#EXTINF:-1 group-title="CineDarK", Tu Canal (XHG-TDT)
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/16
+#EXTINF:-1 group-title="CineDarK", Las Estrellas (XHUAA-TDT 19.1)
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/2
+#EXTINF:-1 group-title="CineDarK", Canal 6 Monterrey (XHAW-TDT)
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/8
+#EXTINF:-1 group-title="CineDarK", CANAL 66 - MEXICALI
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/19
+#EXTINF:-1 group-title="CineDarK", Estrella TV
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/20
+#EXTINF:-1 group-title="CineDarK", TVC
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/21
+#EXTINF:-1 group-title="CineDarK", Nick
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/56
+#EXTINF:-1 group-title="CineDarK", Nick Jr
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/57
+#EXTINF:-1 group-title="CineDarK", Teennick
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/58
+#EXTINF:-1 group-title="CineDarK", Cartoon Network
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/60
+#EXTINF:-1 group-title="CineDarK", Discovery Kids
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/61
+#EXTINF:-1 group-title="CineDarK", Disney Channel
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/62
+#EXTINF:-1 group-title="CineDarK", Disney Jr.
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/63
+#EXTINF:-1 group-title="CineDarK", Disney XD
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/64
+#EXTINF:-1 group-title="CineDarK", Tooncast
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/65
+#EXTINF:-1 group-title="CineDarK", Nat Geo Kids
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/66
+#EXTINF:-1 group-title="CineDarK", Boomerang
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/67
+#EXTINF:-1 group-title="CineDarK", Bitme
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/68
+#EXTINF:-1 group-title="CineDarK", Baby TV
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/69
+#EXTINF:-1 group-title="CineDarK", Nickmusic
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/59
+#EXTINF:-1 group-title="CineDarK", Fox Channel
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/22
+#EXTINF:-1 group-title="CineDarK", A&E
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/23
+#EXTINF:-1 group-title="CineDarK", Univision
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/24
+#EXTINF:-1 group-title="CineDarK", AMC
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/26
+#EXTINF:-1 group-title="CineDarK", Distrito Comedia
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/27
+#EXTINF:-1 group-title="CineDarK", Comedy Central
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/28
+#EXTINF:-1 group-title="CineDarK", Discovery H&H
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/29
+#EXTINF:-1 group-title="CineDarK", E!
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/30
+#EXTINF:-1 group-title="CineDarK", Antena 3
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/31
+#EXTINF:-1 group-title="CineDarK", Fox Life
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/32
+#EXTINF:-1 group-title="CineDarK", Glitz
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/33
+#EXTINF:-1 group-title="CineDarK", Hola TV
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/34
+#EXTINF:-1 group-title="CineDarK", TLNovelas
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/35
+#EXTINF:-1 group-title="CineDarK", Lifetime
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/36
+#EXTINF:-1 group-title="CineDarK", Mas Chic
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/37
+#EXTINF:-1 group-title="CineDarK", Pasiones
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/38
+#EXTINF:-1 group-title="CineDarK", TBS
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/39
+#EXTINF:-1 group-title="CineDarK", A3 Series
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/40
+#EXTINF:-1 group-title="CineDarK", Telemundo Internacional
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/41
+#EXTINF:-1 group-title="CineDarK", TruTV
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/42
+#EXTINF:-1 group-title="CineDarK", Caracol
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/43
+#EXTINF:-1 group-title="CineDarK", Caracol Int.
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/44
+#EXTINF:-1 group-title="CineDarK", RCN
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/45
+#EXTINF:-1 group-title="CineDarK", Unicable
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/46
+#EXTINF:-1 group-title="CineDarK", TVE Internacional
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/47
+#EXTINF:-1 group-title="CineDarK", TVE Star HD
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/48
+#EXTINF:-1 group-title="CineDarK", I-Sat
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/49
+#EXTINF:-1 group-title="CineDarK", Film & Arts
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/50
+#EXTINF:-1 group-title="CineDarK", Food Network
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/51
+#EXTINF:-1 group-title="CineDarK", Mega Tv
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/52
+#EXTINF:-1 group-title="CineDarK", UniMas
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/53
+#EXTINF:-1 group-title="CineDarK", Unimas Los Angeles
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/54
+#EXTINF:-1 group-title="CineDarK", La Sexta
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/55
+#EXTINF:-1 group-title="CineDarK", HGTV
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/167
+#EXTINF:-1 group-title="CineDarK", Discovery
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/70
+#EXTINF:-1 group-title="CineDarK", Discovery Theater HD
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/71
+#EXTINF:-1 group-title="CineDarK", Discovery World HD
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/72
+#EXTINF:-1 group-title="CineDarK", Investigation Discovery
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/73
+#EXTINF:-1 group-title="CineDarK", Discovery Turbo
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/74
+#EXTINF:-1 group-title="CineDarK", Discovery Science
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/75
+#EXTINF:-1 group-title="CineDarK", History
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/77
+#EXTINF:-1 group-title="CineDarK", History 2
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/78
+#EXTINF:-1 group-title="CineDarK", National Geographic
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/79
+#EXTINF:-1 group-title="CineDarK", Nat Geo Wild
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/80
+#EXTINF:-1 group-title="CineDarK", TLC
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/82
+#EXTINF:-1 group-title="CineDarK", El Gourmet
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/83
+#EXTINF:-1 group-title="CineDarK", Animal Planet
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/84
+#EXTINF:-1 group-title="CineDarK", Discovery Civilization
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/316
+#EXTINF:-1 group-title="CineDarK", TNT
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/85
+#EXTINF:-1 group-title="CineDarK", TNT Series
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/86
+#EXTINF:-1 group-title="CineDarK", FX
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/87
+#EXTINF:-1 group-title="CineDarK", FXM
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/88
+#EXTINF:-1 group-title="CineDarK", Universal TV
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/89
+#EXTINF:-1 group-title="CineDarK", Golden
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/90
+#EXTINF:-1 group-title="CineDarK", Golden Edge
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/91
+#EXTINF:-1 group-title="CineDarK", Golden Plus
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/92
+#EXTINF:-1 group-title="CineDarK", Golden Premier
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/93
+#EXTINF:-1 group-title="CineDarK", Warner
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/95
+#EXTINF:-1 group-title="CineDarK", Space
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/96
+#EXTINF:-1 group-title="CineDarK", De Pelicula Plus
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/97
+#EXTINF:-1 group-title="CineDarK", De Pelicula
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/98
+#EXTINF:-1 group-title="CineDarK", Paramount Network
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/99
+#EXTINF:-1 group-title="CineDarK", TCM
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/101
+#EXTINF:-1 group-title="CineDarK", Studio Universal
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/102
+#EXTINF:-1 group-title="CineDarK", DHE
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/103
+#EXTINF:-1 group-title="CineDarK", Claro Cinema
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/104
+#EXTINF:-1 group-title="CineDarK", Cinecanal
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/105
+#EXTINF:-1 group-title="CineDarK", Cinemax
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/106
+#EXTINF:-1 group-title="CineDarK", Cine Latino
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/107
+#EXTINF:-1 group-title="CineDarK", Sony
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/109
+#EXTINF:-1 group-title="CineDarK", MC
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/110
+#EXTINF:-1 group-title="CineDarK", SYFY
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/108
+#EXTINF:-1 group-title="CineDarK", AXN
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/25
+#EXTINF:-1 group-title="CineDarK", Multipremier
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/315
+#EXTINF:-1 group-title="CineDarK", Europa Europa
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/317
+#EXTINF:-1 group-title="CineDarK", HBO
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/112
+#EXTINF:-1 group-title="CineDarK", HBO 2
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/113
+#EXTINF:-1 group-title="CineDarK", HBO Family
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/114
+#EXTINF:-1 group-title="CineDarK", HBO Plus
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/115
+#EXTINF:-1 group-title="CineDarK", HBO Signature
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/116
+#EXTINF:-1 group-title="CineDarK", HBO Mundi
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/117
+#EXTINF:-1 group-title="CineDarK", HBO Pop
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/118
+#EXTINF:-1 group-title="CineDarK", HBO Xtreme
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/119
+#EXTINF:-1 group-title="CineDarK", Fox Premium Series
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/120
+#EXTINF:-1 group-title="CineDarK", Fox Premium Movies
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/121
+#EXTINF:-1 group-title="CineDarK", Fox Premium Cinema
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/122
+#EXTINF:-1 group-title="CineDarK", Fox Premium Action
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/123
+#EXTINF:-1 group-title="CineDarK", Fox Premium Classics
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/124
+#EXTINF:-1 group-title="CineDarK", Fox Premium Family
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/125
+#EXTINF:-1 group-title="CineDarK", Fox Premium Comedy
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/126
+#EXTINF:-1 group-title="CineDarK", TUDN
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/127
+#EXTINF:-1 group-title="CineDarK", TUDN
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/128
+#EXTINF:-1 group-title="CineDarK", Afizzionados
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/129
+#EXTINF:-1 group-title="CineDarK", ESPN Deportes
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/130
+#EXTINF:-1 group-title="CineDarK", ESPN
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/131
+#EXTINF:-1 group-title="CineDarK", ESPN 2
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/132
+#EXTINF:-1 group-title="CineDarK", ESPN 3
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/133
+#EXTINF:-1 group-title="CineDarK", ESPN Extra
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/134
+#EXTINF:-1 group-title="CineDarK", Fox Deportes
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/135
+#EXTINF:-1 group-title="CineDarK", Fox Sports
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/136
+#EXTINF:-1 group-title="CineDarK", Fox Sports 2
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/137
+#EXTINF:-1 group-title="CineDarK", Fox Sports 3
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/138
+#EXTINF:-1 group-title="CineDarK", Bein Sports Ñ
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/139
+#EXTINF:-1 group-title="CineDarK", M la liga
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/140
+#EXTINF:-1 group-title="CineDarK", NFL Network
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/142
+#EXTINF:-1 group-title="CineDarK", NBA TV
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/144
+#EXTINF:-1 group-title="CineDarK", Win Sports
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/149
+#EXTINF:-1 group-title="CineDarK", Win Sports + (Alterna)
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/150
+#EXTINF:-1 group-title="CineDarK", Directv Sports
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/151
+#EXTINF:-1 group-title="CineDarK", Adrenalina Sports Network
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/153
+#EXTINF:-1 group-title="CineDarK", AYM Sports
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/154
+#EXTINF:-1 group-title="CineDarK", Claro Sports
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/155
+#EXTINF:-1 group-title="CineDarK", GolTV
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/157
+#EXTINF:-1 group-title="CineDarK", TVC Deportes
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/161
+#EXTINF:-1 group-title="CineDarK", UFC Pass
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/162
+#EXTINF:-1 group-title="CineDarK", ESPN Sur
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/175
+#EXTINF:-1 group-title="CineDarK", ESPN 2 Sur
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/176
+#EXTINF:-1 group-title="CineDarK", ESPN 3 Sur
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/177
+#EXTINF:-1 group-title="CineDarK", ESPN Extra Sur
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/178
+#EXTINF:-1 group-title="CineDarK", Fox Sports Sur
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/179
+#EXTINF:-1 group-title="CineDarK", Fox Sports 2 Sur
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/180
+#EXTINF:-1 group-title="CineDarK", Fox Sports 3 Sur
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/181
+#EXTINF:-1 group-title="CineDarK", TNT Sports
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/182
+#EXTINF:-1 group-title="CineDarK", Gol Perú
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/318
+#EXTINF:-1 group-title="CineDarK", Bandamax
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/145
+#EXTINF:-1 group-title="CineDarK", Teleritmo
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/146
+#EXTINF:-1 group-title="CineDarK", Telehit Música
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/147
+#EXTINF:-1 group-title="CineDarK", HTV
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/173
+#EXTINF:-1 group-title="CineDarK", MTV
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/174
+#EXTINF:-1 group-title="CineDarK", Telehit Música Plus
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/148
+#EXTINF:-1 group-title="CineDarK", DW
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/164
+#EXTINF:-1 group-title="CineDarK", France 24
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/165
+#EXTINF:-1 group-title="CineDarK", RT America
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/166
+#EXTINF:-1 group-title="CineDarK", ADN 40
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/168
+#EXTINF:-1 group-title="CineDarK", CNN En Español
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/169
+#EXTINF:-1 group-title="CineDarK", Milenio Televisión
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/171
+#EXTINF:-1 group-title="CineDarK", Telefórmula
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/172
+
+
+#EXTINF:-1 group-title="CineDarK", 24/7 Los Picapiedra
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/209
+#EXTINF:-1 group-title="CineDarK", 24/7 Heman
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/210
+#EXTINF:-1 group-title="CineDarK", 24/7 Game Of Throne
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/211
+#EXTINF:-1 group-title="CineDarK", 24/7 Cuentos Hermanos Grimm
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/212
+#EXTINF:-1 group-title="CineDarK", 24/7 Jorge el curioso
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/213
+#EXTINF:-1 group-title="CineDarK", 24/7 Dora la Exploradora
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/214
+#EXTINF:-1 group-title="CineDarK", 24/7 LE TEMES ALA OSCURIDAD
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/215
+#EXTINF:-1 group-title="CineDarK", 24/7 Death note
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/216
+#EXTINF:-1 group-title="CineDarK", 24/7 Pokémon
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/217
+#EXTINF:-1 group-title="CineDarK", 24/7 Pinky y Cerebro 1995
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/218
+#EXTINF:-1 group-title="CineDarK", 24/7 Naruto
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/219
+#EXTINF:-1 group-title="CineDarK", 24/7 Mazinger Z
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/220
+#EXTINF:-1 group-title="CineDarK", 24/7 Los años maravillosos 1988
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/221
+#EXTINF:-1 group-title="CineDarK", 24/7 Malcolm in the middle 2000
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/222
+#EXTINF:-1 group-title="CineDarK", 24/7 Luis Miguel la serie 2018
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/223
+#EXTINF:-1 group-title="CineDarK", 24/7 LA ROSA DE GUADALUPE
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/224
+#EXTINF:-1 group-title="CineDarK", 24/7 Futurama 1999
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/225
+#EXTINF:-1 group-title="CineDarK", 24/7 PELICULAS; ESTRENOS 2018
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/226
+#EXTINF:-1 group-title="CineDarK", 24/7 Escobar: el patrón del mal
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/227
+#EXTINF:-1 group-title="CineDarK", 24/7 EL CHAPULIN COLORADO
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/228
+#EXTINF:-1 group-title="CineDarK", 24/7 Dragon Ball Z 1989
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/229
+#EXTINF:-1 group-title="CineDarK", 24/7 Dragon Ball GT 1996
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/230
+#EXTINF:-1 group-title="CineDarK", 24/7  Dragon Ball 1984
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/231
+#EXTINF:-1 group-title="CineDarK", 24/7  DINOSAURIOS 1991
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/232
+#EXTINF:-1 group-title="CineDarK", 24/7 shera
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/233
+#EXTINF:-1 group-title="CineDarK", 24/7 ALF
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/234
+#EXTINF:-1 group-title="CineDarK", 24/7 Dragon Ball Super
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/235
+#EXTINF:-1 group-title="CineDarK", 24/7 CSI: Miami
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/236
+#EXTINF:-1 group-title="CineDarK", 24/7  CORAJE el perro cobarde
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/237
+#EXTINF:-1 group-title="CineDarK", 24/7 El señor de los cielos
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/238
+#EXTINF:-1 group-title="CineDarK", 24/7 EL CHEMA
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/239
+#EXTINF:-1 group-title="CineDarK", 24/7 El Chavo del 8
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/240
+#EXTINF:-1 group-title="CineDarK", 24/7 LA CASA DE PAPEL
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/241
+#EXTINF:-1 group-title="CineDarK", 24/7 CABALLEROS DEL ZODIACO
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/242
+#EXTINF:-1 group-title="CineDarK", 24/7 Breaking Bad
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/243
+#EXTINF:-1 group-title="CineDarK", 24/7 XMEN ANIME
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/244
+#EXTINF:-1 group-title="CineDarK", 24/7 HÉROES EN PIJAMAS
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/245
+#EXTINF:-1 group-title="CineDarK", 24/7 Peppa PIG LA CERDITA
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/246
+#EXTINF:-1 group-title="CineDarK", 24/7 La pantera rosa
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/247
+#EXTINF:-1 group-title="CineDarK", 24/7 LazyTown
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/248
+#EXTINF:-1 group-title="CineDarK", 24/7 Happy Tree Friends
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/249
+#EXTINF:-1 group-title="CineDarK", 24/7 El Coyote y el Correcaminos
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/250
+#EXTINF:-1 group-title="CineDarK", 24/7  Caillou
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/251
+#EXTINF:-1 group-title="CineDarK", 24/7 BOB ESPONJA
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/252
+#EXTINF:-1 group-title="CineDarK", 24/7 Barney y sus amigos
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/253
+#EXTINF:-1 group-title="CineDarK", 24/7  The Walking Dead
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/254
+#EXTINF:-1 group-title="CineDarK", 24/7 Thundercats
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/255
+#EXTINF:-1 group-title="CineDarK", 24/7 Peliculas de terror
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/256
+#EXTINF:-1 group-title="CineDarK", 24/7 Super Campeones
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/257
+#EXTINF:-1 group-title="CineDarK", 24/7 Stranger Things
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/258
+#EXTINF:-1 group-title="CineDarK", 24/7 Spider-Man
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/259
+#EXTINF:-1 group-title="CineDarK", 24/7  South Park
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/260
+#EXTINF:-1 group-title="CineDarK", 24/7 Smallville
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/261
+#EXTINF:-1 group-title="CineDarK", 24/7  Los Simpson
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/262
+#EXTINF:-1 group-title="CineDarK", 24/7 Sailor Moon
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/263
+#EXTINF:-1 group-title="CineDarK", 24/7 Robotech
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/264
+#EXTINF:-1 group-title="CineDarK", 24/7 Power Rangers
+https://m3u8ssl.globaltvplus.club:2083/Hil3dp1Geu/Descarga-cinedark-tv--/265
+
+#EXTINF:-1 group-title="Roman123", Movistar Champions League
+http://latiniptv.vip:8008/roman123/roman123/3309
+#EXTINF:-1 group-title="Roman123", América
+http://latiniptv.vip:8008/roman123/roman123/3576
+#EXTINF:-1 group-title="Roman123", Teletrak
+http://latiniptv.vip:8008/roman123/roman123/6343
+#EXTINF:-1 group-title="Roman123", CDO
+http://latiniptv.vip:8008/roman123/roman123/6344
+#EXTINF:-1 group-title="Roman123", Win Sports + (Alterna)
+http://latiniptv.vip:8008/roman123/roman123/6364
+#EXTINF:-1 group-title="Roman123", DirecTV Sports
+http://latiniptv.vip:8008/roman123/roman123/6366
+#EXTINF:-1 group-title="Roman123", DirecTV Sports 2
+http://latiniptv.vip:8008/roman123/roman123/6367
+#EXTINF:-1 group-title="Roman123", DirecTV Sports Plus
+http://latiniptv.vip:8008/roman123/roman123/6368
+#EXTINF:-1 group-title="Roman123", Fox Sports Premium
+http://latiniptv.vip:8008/roman123/roman123/6370
+#EXTINF:-1 group-title="Roman123", TNT Sports
+http://latiniptv.vip:8008/roman123/roman123/6371
+#EXTINF:-1 group-title="Roman123", TNT Sports (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/6372
+#EXTINF:-1 group-title="Roman123", TyC Sports
+http://latiniptv.vip:8008/roman123/roman123/6373
+#EXTINF:-1 group-title="Roman123", Gol Perú
+http://latiniptv.vip:8008/roman123/roman123/6375
+#EXTINF:-1 group-title="Roman123", GolTV
+http://latiniptv.vip:8008/roman123/roman123/6376
+#EXTINF:-1 group-title="Roman123", GolTV (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/6377
+#EXTINF:-1 group-title="Roman123", GolTV Int
+http://latiniptv.vip:8008/roman123/roman123/6378
+#EXTINF:-1 group-title="Roman123", Tigo Sports
+http://latiniptv.vip:8008/roman123/roman123/6380
+#EXTINF:-1 group-title="Roman123", Tigo Sports 3
+http://latiniptv.vip:8008/roman123/roman123/6381
+#EXTINF:-1 group-title="Roman123", Tigo Sports Py
+http://latiniptv.vip:8008/roman123/roman123/6382
+#EXTINF:-1 group-title="Roman123", América
+http://latiniptv.vip:8008/roman123/roman123/6386
+#EXTINF:-1 group-title="Roman123", Win Sports + (Alterna)
+http://latiniptv.vip:8008/roman123/roman123/6387
+#EXTINF:-1 group-title="Roman123", Ultra Cine
+http://latiniptv.vip:8008/roman123/roman123/6390
+#EXTINF:-1 group-title="Roman123", A&E
+http://latiniptv.vip:8008/roman123/roman123/6391
+#EXTINF:-1 group-title="Roman123", AMC
+http://latiniptv.vip:8008/roman123/roman123/6392
+#EXTINF:-1 group-title="Roman123", Cinecanal
+http://latiniptv.vip:8008/roman123/roman123/6394
+#EXTINF:-1 group-title="Roman123", Cinemax
+http://latiniptv.vip:8008/roman123/roman123/6395
+#EXTINF:-1 group-title="Roman123", De Película
+http://latiniptv.vip:8008/roman123/roman123/6396
+#EXTINF:-1 group-title="Roman123", Fox Life
+http://latiniptv.vip:8008/roman123/roman123/6398
+#EXTINF:-1 group-title="Roman123", Fox Channel (Andina/Sur)
+http://latiniptv.vip:8008/roman123/roman123/6399
+#EXTINF:-1 group-title="Roman123", Fox Premium Action
+http://latiniptv.vip:8008/roman123/roman123/6400
+#EXTINF:-1 group-title="Roman123", Fox Premium Cinema
+http://latiniptv.vip:8008/roman123/roman123/6401
+#EXTINF:-1 group-title="Roman123", Fox Premium Classics
+http://latiniptv.vip:8008/roman123/roman123/6402
+#EXTINF:-1 group-title="Roman123", Fox Premium Comedy
+http://latiniptv.vip:8008/roman123/roman123/6403
+#EXTINF:-1 group-title="Roman123", Fox Premium Family
+http://latiniptv.vip:8008/roman123/roman123/6404
+#EXTINF:-1 group-title="Roman123", Fox Premium Movies
+http://latiniptv.vip:8008/roman123/roman123/6405
+#EXTINF:-1 group-title="Roman123", FX
+http://latiniptv.vip:8008/roman123/roman123/6407
+#EXTINF:-1 group-title="Roman123", FXM
+http://latiniptv.vip:8008/roman123/roman123/6408
+#EXTINF:-1 group-title="Roman123", Golden Edge
+http://latiniptv.vip:8008/roman123/roman123/6409
+#EXTINF:-1 group-title="Roman123", Golden
+http://latiniptv.vip:8008/roman123/roman123/6410
+#EXTINF:-1 group-title="Roman123", Golden Plus
+http://latiniptv.vip:8008/roman123/roman123/6411
+#EXTINF:-1 group-title="Roman123", HBO 2
+http://latiniptv.vip:8008/roman123/roman123/6412
+#EXTINF:-1 group-title="Roman123", HBO Mundi
+http://latiniptv.vip:8008/roman123/roman123/6415
+#EXTINF:-1 group-title="Roman123", Sony Channel
+http://latiniptv.vip:8008/roman123/roman123/6418
+#EXTINF:-1 group-title="Roman123", Space
+http://latiniptv.vip:8008/roman123/roman123/6419
+#EXTINF:-1 group-title="Roman123", Studio Universal
+http://latiniptv.vip:8008/roman123/roman123/6421
+#EXTINF:-1 group-title="Roman123", SYFY
+http://latiniptv.vip:8008/roman123/roman123/6424
+#EXTINF:-1 group-title="Roman123", TCM
+http://latiniptv.vip:8008/roman123/roman123/6427
+#EXTINF:-1 group-title="Roman123", TNT
+http://latiniptv.vip:8008/roman123/roman123/6428
+#EXTINF:-1 group-title="Roman123", Universal TV
+http://latiniptv.vip:8008/roman123/roman123/6431
+#EXTINF:-1 group-title="Roman123", Warner
+http://latiniptv.vip:8008/roman123/roman123/6432
+#EXTINF:-1 group-title="Roman123", TNT Series
+http://latiniptv.vip:8008/roman123/roman123/6436
+#EXTINF:-1 group-title="Roman123", TNT (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/6437
+#EXTINF:-1 group-title="Roman123", TNT (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/6438
+#EXTINF:-1 group-title="Roman123", TCM
+http://latiniptv.vip:8008/roman123/roman123/6439
+#EXTINF:-1 group-title="Roman123", Sony Channel
+http://latiniptv.vip:8008/roman123/roman123/6440
+#EXTINF:-1 group-title="Roman123", Golden Plus
+http://latiniptv.vip:8008/roman123/roman123/6441
+#EXTINF:-1 group-title="Roman123", Golden Premier
+http://latiniptv.vip:8008/roman123/roman123/6442
+#EXTINF:-1 group-title="Roman123", Fox Preium Series
+http://latiniptv.vip:8008/roman123/roman123/6443
+#EXTINF:-1 group-title="Roman123", Fox Life
+http://latiniptv.vip:8008/roman123/roman123/6447
+#EXTINF:-1 group-title="Roman123", Fox Premium Action
+http://latiniptv.vip:8008/roman123/roman123/6453
+#EXTINF:-1 group-title="Roman123", FX
+http://latiniptv.vip:8008/roman123/roman123/6455
+#EXTINF:-1 group-title="Roman123", Cinecanal
+http://latiniptv.vip:8008/roman123/roman123/6458
+#EXTINF:-1 group-title="Roman123", AXN
+http://latiniptv.vip:8008/roman123/roman123/6460
+#EXTINF:-1 group-title="Roman123", A&E
+http://latiniptv.vip:8008/roman123/roman123/6461
+#EXTINF:-1 group-title="Roman123", HBO Signature
+http://latiniptv.vip:8008/roman123/roman123/6465
+#EXTINF:-1 group-title="Roman123", HBO Plus
+http://latiniptv.vip:8008/roman123/roman123/6466
+#EXTINF:-1 group-title="Roman123", HBO Family
+http://latiniptv.vip:8008/roman123/roman123/6467
+#EXTINF:-1 group-title="Roman123", HBO
+http://latiniptv.vip:8008/roman123/roman123/6469
+#EXTINF:-1 group-title="Roman123", Fox Premium Cinema
+http://latiniptv.vip:8008/roman123/roman123/6471
+#EXTINF:-1 group-title="Roman123", Fox Channel (Andina/Sur)
+http://latiniptv.vip:8008/roman123/roman123/6472
+#EXTINF:-1 group-title="Roman123", Baby TV
+http://latiniptv.vip:8008/roman123/roman123/6473
+#EXTINF:-1 group-title="Roman123", Tooncast
+http://latiniptv.vip:8008/roman123/roman123/6474
+#EXTINF:-1 group-title="Roman123", Boomerang
+http://latiniptv.vip:8008/roman123/roman123/6475
+#EXTINF:-1 group-title="Roman123", Cartoon Network
+http://latiniptv.vip:8008/roman123/roman123/6477
+#EXTINF:-1 group-title="Roman123", Nick Jr
+http://latiniptv.vip:8008/roman123/roman123/6478
+#EXTINF:-1 group-title="Roman123", Nickmusic
+http://latiniptv.vip:8008/roman123/roman123/6479
+#EXTINF:-1 group-title="Roman123", Teennick
+http://latiniptv.vip:8008/roman123/roman123/6480
+#EXTINF:-1 group-title="Roman123", NatGeo Kids
+http://latiniptv.vip:8008/roman123/roman123/6481
+#EXTINF:-1 group-title="Roman123", Disney XD
+http://latiniptv.vip:8008/roman123/roman123/6482
+#EXTINF:-1 group-title="Roman123", Disney Junior
+http://latiniptv.vip:8008/roman123/roman123/6483
+#EXTINF:-1 group-title="Roman123", Disney Channel
+http://latiniptv.vip:8008/roman123/roman123/6484
+#EXTINF:-1 group-title="Roman123", Discovery Kids
+http://latiniptv.vip:8008/roman123/roman123/6485
+#EXTINF:-1 group-title="Roman123", Nuestra Tele Noticias 24
+http://latiniptv.vip:8008/roman123/roman123/6487
+#EXTINF:-1 group-title="Roman123", Cablenoticias
+http://latiniptv.vip:8008/roman123/roman123/6488
+#EXTINF:-1 group-title="Roman123", Canal 1
+http://latiniptv.vip:8008/roman123/roman123/6489
+#EXTINF:-1 group-title="Roman123", Caracol Televisión
+http://latiniptv.vip:8008/roman123/roman123/6490
+#EXTINF:-1 group-title="Roman123", Caracol Televisión (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/6491
+#EXTINF:-1 group-title="Roman123", City TV
+http://latiniptv.vip:8008/roman123/roman123/6492
+#EXTINF:-1 group-title="Roman123", Pasiones
+http://latiniptv.vip:8008/roman123/roman123/6493
+#EXTINF:-1 group-title="Roman123", RCN Televisión
+http://latiniptv.vip:8008/roman123/roman123/6494
+#EXTINF:-1 group-title="Roman123", TeleAntioquia
+http://latiniptv.vip:8008/roman123/roman123/6496
+#EXTINF:-1 group-title="Roman123", Telecafé
+http://latiniptv.vip:8008/roman123/roman123/6497
+#EXTINF:-1 group-title="Roman123", Telepacífico
+http://latiniptv.vip:8008/roman123/roman123/6499
+#EXTINF:-1 group-title="Roman123", Canal Trece Colombia
+http://latiniptv.vip:8008/roman123/roman123/6500
+#EXTINF:-1 group-title="Roman123", La Red
+http://latiniptv.vip:8008/roman123/roman123/6501
+#EXTINF:-1 group-title="Roman123", TVN
+http://latiniptv.vip:8008/roman123/roman123/6506
+#EXTINF:-1 group-title="Roman123", Mega
+http://latiniptv.vip:8008/roman123/roman123/6507
+#EXTINF:-1 group-title="Roman123", Mega (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/6508
+#EXTINF:-1 group-title="Roman123", Mega (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/6509
+#EXTINF:-1 group-title="Roman123", Chilevisión
+http://latiniptv.vip:8008/roman123/roman123/6510
+#EXTINF:-1 group-title="Roman123", Chilevisión (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/6511
+#EXTINF:-1 group-title="Roman123", Canal 13
+http://latiniptv.vip:8008/roman123/roman123/6512
+#EXTINF:-1 group-title="Roman123", Canal 13
+http://latiniptv.vip:8008/roman123/roman123/6513
+#EXTINF:-1 group-title="Roman123", Canal 24 Horas
+http://latiniptv.vip:8008/roman123/roman123/6554
+#EXTINF:-1 group-title="Roman123", Canal 4 Salto
+http://latiniptv.vip:8008/roman123/roman123/6555
+#EXTINF:-1 group-title="Roman123", Canal 10
+http://latiniptv.vip:8008/roman123/roman123/6556
+#EXTINF:-1 group-title="Roman123", VTV
+http://latiniptv.vip:8008/roman123/roman123/6557
+#EXTINF:-1 group-title="Roman123", VTV (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/6558
+#EXTINF:-1 group-title="Roman123", MonteCarlo
+http://latiniptv.vip:8008/roman123/roman123/6561
+#EXTINF:-1 , VTV (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/6562
+#EXTINF:-1 group-title="Roman123", Clic
+http://latiniptv.vip:8008/roman123/roman123/6565
+#EXTINF:-1 group-title="Roman123", Unicable
+http://latiniptv.vip:8008/roman123/roman123/6571
+#EXTINF:-1 group-title="Roman123", Comedy Central
+http://latiniptv.vip:8008/roman123/roman123/6572
+#EXTINF:-1 group-title="Roman123", Canal 5
+http://latiniptv.vip:8008/roman123/roman123/6578
+#EXTINF:-1 group-title="Roman123", Distrito Comedia
+http://latiniptv.vip:8008/roman123/roman123/6584
+#EXTINF:-1 group-title="Roman123", Tlnovelas
+http://latiniptv.vip:8008/roman123/roman123/6586
+#EXTINF:-1 group-title="Roman123", Canal Uno
+http://latiniptv.vip:8008/roman123/roman123/6587
+#EXTINF:-1 group-title="Roman123", TC
+http://latiniptv.vip:8008/roman123/roman123/6591
+#EXTINF:-1 group-title="Roman123", RTS
+http://latiniptv.vip:8008/roman123/roman123/6592
+#EXTINF:-1 group-title="Roman123", Oromar
+http://latiniptv.vip:8008/roman123/roman123/6594
+#EXTINF:-1 group-title="Roman123", Teleamazonas
+http://latiniptv.vip:8008/roman123/roman123/6595
+#EXTINF:-1 group-title="Roman123", Canela TV
+http://latiniptv.vip:8008/roman123/roman123/6597
+#EXTINF:-1 group-title="Roman123", Gol Perú
+http://latiniptv.vip:8008/roman123/roman123/6600
+#EXTINF:-1 group-title="Roman123", Movistar Deportes
+http://latiniptv.vip:8008/roman123/roman123/6601
+#EXTINF:-1 group-title="Roman123", Perú Mágico
+http://latiniptv.vip:8008/roman123/roman123/6602
+#EXTINF:-1 group-title="Roman123", Latina
+http://latiniptv.vip:8008/roman123/roman123/6603
+#EXTINF:-1 group-title="Roman123", Capital TV
+http://latiniptv.vip:8008/roman123/roman123/6604
+#EXTINF:-1 group-title="Roman123", Canal N
+http://latiniptv.vip:8008/roman123/roman123/6605
+#EXTINF:-1 group-title="Roman123", Panamericana
+http://latiniptv.vip:8008/roman123/roman123/6607
+#EXTINF:-1 group-title="Roman123", ATV
+http://latiniptv.vip:8008/roman123/roman123/6609
+#EXTINF:-1 group-title="Roman123", ipe
+http://latiniptv.vip:8008/roman123/roman123/6611
+#EXTINF:-1 group-title="Roman123", Latina (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/6612
+#EXTINF:-1 group-title="Roman123", Fox Sports Sur
+http://latiniptv.vip:8008/roman123/roman123/6615
+#EXTINF:-1 group-title="Roman123", TV Pública
+http://latiniptv.vip:8008/roman123/roman123/6616
+#EXTINF:-1 group-title="Roman123", TeleSur
+http://latiniptv.vip:8008/roman123/roman123/6618
+#EXTINF:-1 group-title="Roman123", Telemax
+http://latiniptv.vip:8008/roman123/roman123/6619
+#EXTINF:-1 group-title="Roman123", Telefe
+http://latiniptv.vip:8008/roman123/roman123/6620
+#EXTINF:-1 group-title="Roman123", Rural TV
+http://latiniptv.vip:8008/roman123/roman123/6621
+#EXTINF:-1 group-title="Roman123", Fox Sports Premium
+http://latiniptv.vip:8008/roman123/roman123/6624
+#EXTINF:-1 group-title="Roman123", El Garage
+http://latiniptv.vip:8008/roman123/roman123/6625
+#EXTINF:-1 group-title="Roman123", Crónica TV
+http://latiniptv.vip:8008/roman123/roman123/6626
+#EXTINF:-1 group-title="Roman123", CN23
+http://latiniptv.vip:8008/roman123/roman123/6627
+#EXTINF:-1 group-title="Roman123", C5N
+http://latiniptv.vip:8008/roman123/roman123/6628
+#EXTINF:-1 group-title="Roman123", A24
+http://latiniptv.vip:8008/roman123/roman123/6629
+#EXTINF:-1 group-title="Roman123", América TV
+http://latiniptv.vip:8008/roman123/roman123/6630
+#EXTINF:-1 group-title="Roman123", El Trece
+http://latiniptv.vip:8008/roman123/roman123/6632
+#EXTINF:-1 group-title="Roman123", El Nueve
+http://latiniptv.vip:8008/roman123/roman123/6633
+#EXTINF:-1 group-title="Roman123", DeporTV
+http://latiniptv.vip:8008/roman123/roman123/6634
+#EXTINF:-1 group-title="Roman123", El Trece (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/6635
+#EXTINF:-1 group-title="Roman123", Bandamax
+http://latiniptv.vip:8008/roman123/roman123/6763
+#EXTINF:-1 group-title="Roman123", Telehit Música
+http://latiniptv.vip:8008/roman123/roman123/6768
+#EXTINF:-1 group-title="Roman123", MTV
+http://latiniptv.vip:8008/roman123/roman123/6770
+#EXTINF:-1 group-title="Roman123", MTV Hits
+http://latiniptv.vip:8008/roman123/roman123/6771
+#EXTINF:-1 group-title="Roman123", Telehit
+http://latiniptv.vip:8008/roman123/roman123/6775
+#EXTINF:-1 group-title="Roman123", Win Sports
+http://latiniptv.vip:8008/roman123/roman123/6902
+#EXTINF:-1 group-title="Roman123", WAPA América
+http://latiniptv.vip:8008/roman123/roman123/6951
+#EXTINF:-1 group-title="Roman123", WAPA
+http://latiniptv.vip:8008/roman123/roman123/6953
+#EXTINF:-1 group-title="Roman123", WAPA
+http://latiniptv.vip:8008/roman123/roman123/6954
+#EXTINF:-1 group-title="Roman123", Ultra Familia
+http://latiniptv.vip:8008/roman123/roman123/8715
+#EXTINF:-1 group-title="Roman123", Ultra Film
+http://latiniptv.vip:8008/roman123/roman123/8717
+#EXTINF:-1 group-title="Roman123", Ultra Kidz
+http://latiniptv.vip:8008/roman123/roman123/8718
+#EXTINF:-1 group-title="Roman123", Ultra Macho
+http://latiniptv.vip:8008/roman123/roman123/8720
+#EXTINF:-1 group-title="Roman123", Ultra Mex
+http://latiniptv.vip:8008/roman123/roman123/8721
+#EXTINF:-1 group-title="Roman123", Super TV
+http://latiniptv.vip:8008/roman123/roman123/8763
+#EXTINF:-1 group-title="Roman123", Azteca Guate
+http://latiniptv.vip:8008/roman123/roman123/8774
+#EXTINF:-1 group-title="Roman123", Canal 3
+http://latiniptv.vip:8008/roman123/roman123/8775
+#EXTINF:-1 group-title="Roman123", Televisiete
+http://latiniptv.vip:8008/roman123/roman123/8776
+#EXTINF:-1 group-title="Roman123", Teleonce
+http://latiniptv.vip:8008/roman123/roman123/8777
+#EXTINF:-1 group-title="Roman123", TreceVisión
+http://latiniptv.vip:8008/roman123/roman123/8778
+#EXTINF:-1 group-title="Roman123", Canal Antigua
+http://latiniptv.vip:8008/roman123/roman123/8779
+#EXTINF:-1 group-title="Roman123", Tigo Sports
+http://latiniptv.vip:8008/roman123/roman123/8782
+#EXTINF:-1 group-title="Roman123", VTV+
+http://latiniptv.vip:8008/roman123/roman123/8787
+#EXTINF:-1 group-title="Roman123", Win Sports + (Alterna)
+http://latiniptv.vip:8008/roman123/roman123/8789
+#EXTINF:-1 group-title="Roman123", Win Sports
+http://latiniptv.vip:8008/roman123/roman123/8790
+#EXTINF:-1 group-title="Roman123", Gol Perú
+http://latiniptv.vip:8008/roman123/roman123/8792
+#EXTINF:-1 group-title="Roman123", Gol Perú
+http://latiniptv.vip:8008/roman123/roman123/8793
+#EXTINF:-1 group-title="Roman123", Directv Sports +
+http://latiniptv.vip:8008/roman123/roman123/8795
+#EXTINF:-1 group-title="Roman123", DTV
+http://latiniptv.vip:8008/roman123/roman123/8798
+#EXTINF:-1 group-title="Roman123", Latele
+http://latiniptv.vip:8008/roman123/roman123/8807
+#EXTINF:-1 group-title="Roman123", NBA TV
+http://latiniptv.vip:8008/roman123/roman123/12235
+#EXTINF:-1 group-title="Roman123", Warner
+http://latiniptv.vip:8008/roman123/roman123/12327
+#EXTINF:-1 group-title="Roman123", Canal 12
+http://latiniptv.vip:8008/roman123/roman123/12329
+#EXTINF:-1 group-title="Roman123", Canal 21
+http://latiniptv.vip:8008/roman123/roman123/12331
+#EXTINF:-1 group-title="Roman123", 4 TCS
+http://latiniptv.vip:8008/roman123/roman123/12332
+#EXTINF:-1 group-title="Roman123", 2 TCS
+http://latiniptv.vip:8008/roman123/roman123/12333
+#EXTINF:-1 group-title="Roman123", Film & Arts
+http://latiniptv.vip:8008/roman123/roman123/12589
+#EXTINF:-1 group-title="Roman123", National Geographic
+http://latiniptv.vip:8008/roman123/roman123/12590
+#EXTINF:-1 group-title="Roman123", National Geographic (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/12591
+#EXTINF:-1 group-title="Roman123", Investigation Discovery
+http://latiniptv.vip:8008/roman123/roman123/12592
+#EXTINF:-1 group-title="Roman123", History
+http://latiniptv.vip:8008/roman123/roman123/12594
+#EXTINF:-1 group-title="Roman123", History (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/12595
+#EXTINF:-1 National Geographic (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/12598
+#EXTINF:-1 group-title="Roman123", Investigation Discovery
+http://latiniptv.vip:8008/roman123/roman123/12599
+#EXTINF:-1 group-title="Roman123", Discovery Home & Health
+http://latiniptv.vip:8008/roman123/roman123/12600
+#EXTINF:-1 group-title="Roman123", Discovery
+http://latiniptv.vip:8008/roman123/roman123/12603
+#EXTINF:-1 group-title="Roman123", Animal Planet
+http://latiniptv.vip:8008/roman123/roman123/12606
+#EXTINF:-1 group-title="Roman123", Discovery Theater HD
+http://latiniptv.vip:8008/roman123/roman123/12607
+#EXTINF:-1 group-title="Roman123", Discovery Turbo
+http://latiniptv.vip:8008/roman123/roman123/12608
+#EXTINF:-1 group-title="Roman123", Discovery World HD
+http://latiniptv.vip:8008/roman123/roman123/12609
+#EXTINF:-1 group-title="Roman123", TLC
+http://latiniptv.vip:8008/roman123/roman123/12610
+#EXTINF:-1 group-title="Roman123", History 2
+http://latiniptv.vip:8008/roman123/roman123/12611
+#EXTINF:-1 group-title="Roman123", ElĢourmet
+http://latiniptv.vip:8008/roman123/roman123/12612
+#EXTINF:-1 group-title="Roman123", Discovery
+http://latiniptv.vip:8008/roman123/roman123/12613
+#EXTINF:-1 group-title="Roman123", Fox Sports Premium
+http://latiniptv.vip:8008/roman123/roman123/12692
+#EXTINF:-1 group-title="Roman123", Mega TV PR
+http://latiniptv.vip:8008/roman123/roman123/12695
+#EXTINF:-1 group-title="Roman123", Telemundo 44
+http://latiniptv.vip:8008/roman123/roman123/12758
+#EXTINF:-1 group-title="Roman123", Telemundo 39
+http://latiniptv.vip:8008/roman123/roman123/12759
+#EXTINF:-1 group-title="Roman123", Telemundo 51
+http://latiniptv.vip:8008/roman123/roman123/12765
+#EXTINF:-1 group-title="Roman123", Telemudno 47
+http://latiniptv.vip:8008/roman123/roman123/12768
+#EXTINF:-1 group-title="Roman123", Telemundo
+http://latiniptv.vip:8008/roman123/roman123/12772
+#EXTINF:-1 group-title="Roman123", Telemundo (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/12774
+#EXTINF:-1 group-title="Roman123", CDF
+http://latiniptv.vip:8008/roman123/roman123/13486
+#EXTINF:-1 group-title="Roman123", WWE
+http://latiniptv.vip:8008/roman123/roman123/13490
+#EXTINF:-1 group-title="Roman123", Fox Sports Sur
+http://latiniptv.vip:8008/roman123/roman123/15647
+#EXTINF:-1 group-title="Roman123", Fox Sports 2 Sur
+http://latiniptv.vip:8008/roman123/roman123/15648
+#EXTINF:-1 group-title="Roman123", Fox Sports Sur 3
+http://latiniptv.vip:8008/roman123/roman123/15649
+#EXTINF:-1 group-title="Roman123", DirecTV Sports
+http://latiniptv.vip:8008/roman123/roman123/15650
+#EXTINF:-1 group-title="Roman123", DirecTV Sports 2
+http://latiniptv.vip:8008/roman123/roman123/15651
+#EXTINF:-1 group-title="Roman123", CNN En Español
+http://latiniptv.vip:8008/roman123/roman123/15687
+#EXTINF:-1 group-title="Roman123", Afizzionados
+http://latiniptv.vip:8008/roman123/roman123/16682
+#EXTINF:-1 group-title="Roman123", Movistar Laliga
+http://latiniptv.vip:8008/roman123/roman123/18063
+#EXTINF:-1 group-title="Roman123", RPP
+http://latiniptv.vip:8008/roman123/roman123/49386
+#EXTINF:-1 group-title="Roman123", Exitosa
+http://latiniptv.vip:8008/roman123/roman123/49441
+#EXTINF:-1 group-title="Roman123", VTV+
+http://latiniptv.vip:8008/roman123/roman123/49443
+#EXTINF:-1 group-title="Roman123", Azteca Uno
+http://latiniptv.vip:8008/roman123/roman123/54391
+#EXTINF:-1 group-title="Roman123", Argentinísima
+http://latiniptv.vip:8008/roman123/roman123/54684
+#EXTINF:-1 group-title="Roman123", Cine Ar
+http://latiniptv.vip:8008/roman123/roman123/54687
+#EXTINF:-1 group-title="Roman123", Paka Paka
+http://latiniptv.vip:8008/roman123/roman123/54688
+#EXTINF:-1 group-title="Roman123", TyC Sports
+http://latiniptv.vip:8008/roman123/roman123/6374
+#EXTINF:-1 group-title="Roman123", Fox Premium Action
+http://latiniptv.vip:8008/roman123/roman123/9186
+#EXTINF:-1 group-title="Roman123", Movistar Laliga
+http://latiniptv.vip:8008/roman123/roman123/57152
+#EXTINF:-1 group-title="Roman123", Ciduad Magazine
+http://latiniptv.vip:8008/roman123/roman123/57241
+#EXTINF:-1 group-title="Roman123", ESPN 2
+http://latiniptv.vip:8008/roman123/roman123/57247
+#EXTINF:-1 group-title="Roman123", ESPN Extra
+http://latiniptv.vip:8008/roman123/roman123/57250
+#EXTINF:-1 group-title="Roman123", Fox Sports 2 Sur
+http://latiniptv.vip:8008/roman123/roman123/57253
+#EXTINF:-1 group-title="Roman123", Fox Sports 3 Sur
+http://latiniptv.vip:8008/roman123/roman123/57257
+#EXTINF:-1 group-title="Roman123", HBO Pop
+http://latiniptv.vip:8008/roman123/roman123/57262
+#EXTINF:-1 group-title="Roman123", TN23
+http://latiniptv.vip:8008/roman123/roman123/57264
+#EXTINF:-1 group-title="Roman123", Claro Sports
+http://latiniptv.vip:8008/roman123/roman123/57265
+#EXTINF:-1 group-title="Roman123", TN
+http://latiniptv.vip:8008/roman123/roman123/57266
+#EXTINF:-1 group-title="Roman123", A&E
+http://latiniptv.vip:8008/roman123/roman123/57638
+#EXTINF:-1 group-title="Roman123", AXN
+http://latiniptv.vip:8008/roman123/roman123/57640
+#EXTINF:-1 group-title="Roman123", Cinecanal
+http://latiniptv.vip:8008/roman123/roman123/57642
+#EXTINF:-1 group-title="Roman123", Cinemax
+http://latiniptv.vip:8008/roman123/roman123/57643
+#EXTINF:-1 group-title="Roman123", Fox Channel
+http://latiniptv.vip:8008/roman123/roman123/57647
+#EXTINF:-1 group-title="Roman123", Fox Life
+http://latiniptv.vip:8008/roman123/roman123/57649
+#EXTINF:-1 group-title="Roman123", Fox Premium Classics
+http://latiniptv.vip:8008/roman123/roman123/57652
+#EXTINF:-1 group-title="Roman123", Fox Premium Comedy
+http://latiniptv.vip:8008/roman123/roman123/57654
+#EXTINF:-1 group-title="Roman123", Fox Premium Series
+http://latiniptv.vip:8008/roman123/roman123/57657
+#EXTINF:-1 group-title="Roman123", HBO Family
+http://latiniptv.vip:8008/roman123/roman123/57661
+#EXTINF:-1 group-title="Roman123", HBO
+http://latiniptv.vip:8008/roman123/roman123/57662
+#EXTINF:-1 group-title="Roman123", HBO Plus
+http://latiniptv.vip:8008/roman123/roman123/57663
+#EXTINF:-1 group-title="Roman123", HBO Signature
+http://latiniptv.vip:8008/roman123/roman123/57664
+#EXTINF:-1 group-title="Roman123", Paramount Network
+http://latiniptv.vip:8008/roman123/roman123/57667
+#EXTINF:-1 group-title="Roman123", Sony Channel
+http://latiniptv.vip:8008/roman123/roman123/57669
+#EXTINF:-1 group-title="Roman123", Win Sports + (Alterna)
+http://latiniptv.vip:8008/roman123/roman123/57690
+#EXTINF:-1 group-title="Roman123", Win Sports
+http://latiniptv.vip:8008/roman123/roman123/57691
+#EXTINF:-1 group-title="Roman123", GolTV
+http://latiniptv.vip:8008/roman123/roman123/57695
+#EXTINF:-1 group-title="Roman123", Fox Sports 2 Sur
+http://latiniptv.vip:8008/roman123/roman123/57697
+#EXTINF:-1 group-title="Roman123", Fox Sports 3 Sur
+http://latiniptv.vip:8008/roman123/roman123/57698
+#EXTINF:-1 group-title="Roman123", Guatevisión
+http://latiniptv.vip:8008/roman123/roman123/57703
+#EXTINF:-1 group-title="Roman123", TruTV
+http://latiniptv.vip:8008/roman123/roman123/57739
+#EXTINF:-1 group-title="Roman123", Las Estrellas
+http://latiniptv.vip:8008/roman123/roman123/57740
+#EXTINF:-1 group-title="Roman123", Corazón
+http://latiniptv.vip:8008/roman123/roman123/57741
+#EXTINF:-1 group-title="Roman123", Nick Jr
+http://latiniptv.vip:8008/roman123/roman123/57763
+#EXTINF:-1 group-title="Roman123", GolTV
+http://latiniptv.vip:8008/roman123/roman123/57840
+#EXTINF:-1 group-title="Roman123", Ecuador TV
+http://latiniptv.vip:8008/roman123/roman123/57841
+#EXTINF:-1 group-title="Roman123", ECDF
+http://latiniptv.vip:8008/roman123/roman123/57842
+#EXTINF:-1 group-title="Roman123", Ecuavisa
+http://latiniptv.vip:8008/roman123/roman123/57843
+#EXTINF:-1 group-title="Roman123", TC
+http://latiniptv.vip:8008/roman123/roman123/57845
+#EXTINF:-1 group-title="Roman123", Televicentro
+http://latiniptv.vip:8008/roman123/roman123/57848
+#EXTINF:-1 group-title="Roman123", Canal Uno
+http://latiniptv.vip:8008/roman123/roman123/57849
+#EXTINF:-1 group-title="Roman123", DirecTV Sports
+http://latiniptv.vip:8008/roman123/roman123/57850
+#EXTINF:-1 group-title="Roman123", UCSG
+http://latiniptv.vip:8008/roman123/roman123/57851
+#EXTINF:-1 group-title="Roman123", Oromar TV
+http://latiniptv.vip:8008/roman123/roman123/57854
+#EXTINF:-1 group-title="Roman123", Teleamazonas
+http://latiniptv.vip:8008/roman123/roman123/57855
+#EXTINF:-1 group-title="Roman123", Gamavisión
+http://latiniptv.vip:8008/roman123/roman123/57856
+#EXTINF:-1 group-title="Roman123", GolTV (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/57857
+#EXTINF:-1 group-title="Roman123", TeleAmazonas
+http://latiniptv.vip:8008/roman123/roman123/57860
+#EXTINF:-1 group-title="Roman123", Discovery Science
+http://latiniptv.vip:8008/roman123/roman123/57914
+#EXTINF:-1 group-title="Roman123", Movistar Laliga
+http://latiniptv.vip:8008/roman123/roman123/57915
+#EXTINF:-1 group-title="Roman123", RPC
+http://latiniptv.vip:8008/roman123/roman123/57917
+#EXTINF:-1 group-title="Roman123", WWE
+http://latiniptv.vip:8008/roman123/roman123/57942
+#EXTINF:-1 group-title="Roman123", Alfa Televisión
+http://latiniptv.vip:8008/roman123/roman123/57944
+#EXTINF:-1 group-title="Roman123", FUTV 
+http://latiniptv.vip:8008/roman123/roman123/58004
+#EXTINF:-1 group-title="Roman123", TyC Sports
+http://latiniptv.vip:8008/roman123/roman123/58018
+#EXTINF:-1 group-title="Roman123", Nick
+http://latiniptv.vip:8008/roman123/roman123/58019
+#EXTINF:-1 group-title="Roman123", NatGeo Wild
+http://latiniptv.vip:8008/roman123/roman123/58021
+#EXTINF:-1 group-title="Roman123", Discovery Civiliziation/HGTV
+http://latiniptv.vip:8008/roman123/roman123/58022
+#EXTINF:-1 group-title="Roman123", A&E
+http://latiniptv.vip:8008/roman123/roman123/58834
+#EXTINF:-1 group-title="Roman123", Ecuavisa
+http://latiniptv.vip:8008/roman123/roman123/58921
+#EXTINF:-1 group-title="Roman123", Discovery Home & Health
+http://latiniptv.vip:8008/roman123/roman123/58922
+#EXTINF:-1 group-title="Roman123", Teledoce
+http://latiniptv.vip:8008/roman123/roman123/73625
+#EXTINF:-1 group-title="Roman123", ADN 40
+http://latiniptv.vip:8008/roman123/roman123/73630
+#EXTINF:-1 group-title="Roman123", AMC
+http://latiniptv.vip:8008/roman123/roman123/73631
+#EXTINF:-1 group-title="Roman123", Azteca 7
+http://latiniptv.vip:8008/roman123/roman123/73635
+#EXTINF:-1 group-title="Roman123", EL Financiero Bloomberg
+http://latiniptv.vip:8008/roman123/roman123/73640
+#EXTINF:-1 group-title="Roman123", CNN International
+http://latiniptv.vip:8008/roman123/roman123/73647
+#EXTINF:-1 group-title="Roman123", Comedy Central
+http://latiniptv.vip:8008/roman123/roman123/73648
+#EXTINF:-1 group-title="Roman123", RT (Español)
+http://latiniptv.vip:8008/roman123/roman123/73697
+#EXTINF:-1 group-title="Roman123",MTV
+http://latiniptv.vip:8008/roman123/roman123/74150
+#EXTINF:-1 group-title="Roman123", A&E
+http://latiniptv.vip:8008/roman123/roman123/74666
+#EXTINF:-1 group-title="Roman123", ADN 40
+http://latiniptv.vip:8008/roman123/roman123/75319
+#EXTINF:-1 group-title="Roman123", ADN 40
+http://latiniptv.vip:8008/roman123/roman123/75320
+#EXTINF:-1 group-title="Roman123", Cinema
+http://latiniptv.vip:8008/roman123/roman123/75322
+#EXTINF:-1 group-title="Roman123", Mundo
+http://latiniptv.vip:8008/roman123/roman123/75333
+#EXTINF:-1 group-title="Roman123", Canal Once
+http://latiniptv.vip:8008/roman123/roman123/75343
+#EXTINF:-1 group-title="Roman123", Canal 5
+http://latiniptv.vip:8008/roman123/roman123/75344
+#EXTINF:-1 group-title="Roman123", Telefórmula
+http://latiniptv.vip:8008/roman123/roman123/75345
+#EXTINF:-1 group-title="Roman123", Mexiquense Televisión
+http://latiniptv.vip:8008/roman123/roman123/75353
+#EXTINF:-1 group-title="Roman123", Canal 6 Monterrey
+http://latiniptv.vip:8008/roman123/roman123/75356
+#EXTINF:-1 group-title="Roman123", Canal 6 CDMX
+http://latiniptv.vip:8008/roman123/roman123/75357
+#EXTINF:-1 group-title="Roman123", Imagen Televisión
+http://latiniptv.vip:8008/roman123/roman123/75359
+#EXTINF:-1 group-title="Roman123", Teleritmo
+http://latiniptv.vip:8008/roman123/roman123/75364
+#EXTINF:-1 group-title="Roman123", TLC
+http://latiniptv.vip:8008/roman123/roman123/75409
+#EXTINF:-1 group-title="Roman123", TV Perú
+http://latiniptv.vip:8008/roman123/roman123/76938
+#EXTINF:-1 group-title="Roman123", RCN Televisión
+http://latiniptv.vip:8008/roman123/roman123/76983
+#EXTINF:-1 group-title="Roman123", Venevisión
+http://latiniptv.vip:8008/roman123/roman123/77257
+#EXTINF:-1 group-title="Roman123", Telefórmula
+http://latiniptv.vip:8008/roman123/roman123/77270
+#EXTINF:-1 group-title="Roman123", Bandamax
+http://latiniptv.vip:8008/roman123/roman123/77271
+#EXTINF:-1 group-title="Roman123", BitMe
+http://latiniptv.vip:8008/roman123/roman123/77274
+#EXTINF:-1 group-title="Roman123", Caracol Internacional
+http://latiniptv.vip:8008/roman123/roman123/77275
+#EXTINF:-1 group-title="Roman123", City TV
+http://latiniptv.vip:8008/roman123/roman123/77276
+#EXTINF:-1 group-title="Roman123", Telemedellín
+http://latiniptv.vip:8008/roman123/roman123/77277
+#EXTINF:-1 group-title="Roman123", Telecaribe
+http://latiniptv.vip:8008/roman123/roman123/77278
+#EXTINF:-1 group-title="Roman123", Señal Colombia
+http://latiniptv.vip:8008/roman123/roman123/77279
+#EXTINF:-1 group-title="Roman123", Canal Capital
+http://latiniptv.vip:8008/roman123/roman123/77280
+#EXTINF:-1 group-title="Roman123", Las Estrellas
+http://latiniptv.vip:8008/roman123/roman123/77388
+#EXTINF:-1 group-title="Roman123", CNN Chile
+http://latiniptv.vip:8008/roman123/roman123/77389
+#EXTINF:-1 group-title="Roman123", CNN Chile (Alt.)
+http://latiniptv.vip:8008/roman123/roman123/77390
+#EXTINF:-1 group-title="Roman123", WIPR
+http://latiniptv.vip:8008/roman123/roman123/77623
+#EXTINF:-1 group-title="Roman123", Tele Oro
+http://latiniptv.vip:8008/roman123/roman123/77624
+#EXTINF:-1 group-title="Roman123", Canal 19
+http://latiniptv.vip:8008/roman123/roman123/77626
+#EXTINF:-1 group-title="Roman123", Canal 21
+http://latiniptv.vip:8008/roman123/roman123/77627
+#EXTINF:-1 group-title="Roman123", Tigo Sports
+http://latiniptv.vip:8008/roman123/roman123/77628
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5K8QbNp/image.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Locomotion
