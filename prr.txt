@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="INFORMACIÓN", MAS INFO FACEBOOK/byrasta12mx
 http://
-#EXTINF:-1 group-title="INFORMACIÓN", GUARDIANES 2021 TODOS LOS FINES DE SEMANA
+#EXTINF:-1 group-title="INFORMACIÓN", PRONTO FOX PASARÁN A SER STAR
 http://
 #EXTINF:-1 group-title="INFORMACIÓN", PLAYOFFS NFL FINALES DE CONFERENCIA ESTE DOMINGO
 http://
@@ -715,9 +715,6 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/576/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/tntsp.png" group-title="wistream", TNT Sports
 https://blackghost.live/get/wistream.php?cat=latinos&ch=tnt-sports&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/foxsppre.png" group-title="wistream", Fox Sports premium
@@ -923,498 +920,614 @@ http://blackghost.live/get/wistream.php?cat=infantiles&ch=boomerang&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/pakapakaar.png" group-title="wistream", Paka Paka
 http://blackghost.live/get/wistream.php?cat=infantiles&ch=pakapaka&f=.m3u8
 
-#EXTINF:-1 group-title="Roman123", Movistar Champions League
+
+#EXTINF:-1 group-title="ZU", Baby TV (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/80
+#EXTINF:-1 group-title="ZU", BitMe (MX)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/89
+#EXTINF:-1 group-title="ZU", Boomerang (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/81
+#EXTINF:-1 group-title="ZU", Discovery Kids (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/82
+#EXTINF:-1 group-title="ZU", Disney Junior (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/84
+#EXTINF:-1 group-title="ZU", Disney Channel (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/83
+#EXTINF:-1 group-title="ZU", Disney XD (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/85
+#EXTINF:-1 group-title="ZU", Nat Geo Kids (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/86
+#EXTINF:-1 group-title="ZU", Nick Jr (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/87
+#EXTINF:-1 group-title="ZU", Nickelodeon (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/88
+#EXTINF:-1 group-title="ZU", Tooncast (Panreg)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/90
+
+#EXTINF:-1 group-title="ZU", Animal Planet (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/34
+#EXTINF:-1 group-title="ZU", Discovery (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/35
+#EXTINF:-1 group-title="ZU", Discovery Civilization/HGTV (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/36
+#EXTINF:-1 group-title="ZU", Discovery Home & Health (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/37
+#EXTINF:-1 group-title="ZU", Discovery Science (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/38
+#EXTINF:-1 group-title="ZU", Discovery Theater (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/39
+#EXTINF:-1 group-title="ZU", Discovery Turbo (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/40
+#EXTINF:-1 group-title="ZU", History 2 (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/41
+#EXTINF:-1 group-title="ZU", History (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/42
+#EXTINF:-1 group-title="ZU", Investigation Discovery (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/43
+#EXTINF:-1 group-title="ZU", National Geographic (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/44
+#EXTINF:-1 group-title="ZU", NatGeo Wild (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/45
+#EXTINF:-1 group-title="ZU", TLC (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/46
+
+#EXTINF:-1 group-title="ZU", Cinema Dinamita (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/1
+#EXTINF:-1 group-title="ZU", TCM (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/2
+#EXTINF:-1 group-title="ZU", AMC (MX/A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/3
+#EXTINF:-1 group-title="ZU", Cinema (MX)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/4
+#EXTINF:-1 group-title="ZU", Cinecanal (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/5
+#EXTINF:-1 group-title="ZU", Cine Latino (MX/A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/6
+#EXTINF:-1 group-title="ZU", Cinemax (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/7
+#EXTINF:-1 group-title="ZU", Claro Cinema (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/8
+#EXTINF:-1 group-title="ZU", De Película Plus (MX)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/9
+#EXTINF:-1 group-title="ZU", De Película (MX/CA)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/10
+#EXTINF:-1 group-title="ZU", Fox Premium Action (E)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/11
+#EXTINF:-1 group-title="ZU", Fox Premium Classics (E)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/14
+#EXTINF:-1 group-title="ZU", Fox Premium Comedy (E)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/15
+#EXTINF:-1 group-title="ZU", Fox Premium Family (E)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/16
+#EXTINF:-1 group-title="ZU", Fox Premium Movies (E)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/17
+#EXTINF:-1 group-title="ZU", Fox Premium Series (E)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/18
+#EXTINF:-1 group-title="ZU", Golden Premier (MX/CA)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/19
+#EXTINF:-1 group-title="ZU", Golden (MX/CA)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/20
+#EXTINF:-1 group-title="ZU", HBO (CC)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/21
+#EXTINF:-1 group-title="ZU", HBO 2
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/22
+#EXTINF:-1 group-title="ZU", HBO Family
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/23
+#EXTINF:-1 group-title="ZU", HBO Mundi
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/24
+#EXTINF:-1 group-title="ZU", HBO Plus
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/25
+#EXTINF:-1 group-title="ZU", HBO Xtreme
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/26
+#EXTINF:-1 group-title="ZU", MC (MX/A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/27
+#EXTINF:-1 group-title="ZU", Multipremier (MX/A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/28
+#EXTINF:-1 group-title="ZU", Paramount Network (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/29
+#EXTINF:-1 group-title="ZU", Space (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/30
+#EXTINF:-1 group-title="ZU", Studio Universal (CA/A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/31
+#EXTINF:-1 group-title="ZU", SYFY (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/32
+#EXTINF:-1 group-title="ZU", TNT (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/33
+
+#EXTINF:-1 group-title="ZU", Galavisión (USA)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/48
+#EXTINF:-1 group-title="ZU", Antena 3 Internacional (MX/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/49
+#EXTINF:-1 group-title="ZU", Mundo (MX)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/50
+#EXTINF:-1 group-title="ZU", Comedy Central (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/51
+#EXTINF:-1 group-title="ZU", DHE (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/52
+#EXTINF:-1 group-title="ZU", Disney XD (MX)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/53
+#EXTINF:-1 group-title="ZU", E! (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/54
+#EXTINF:-1 group-title="ZU", ElGourmet (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/55
+#EXTINF:-1 group-title="ZU", Estrella TV (USA)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/65
+#EXTINF:-1 group-title="ZU", Canal 10 El Salvador (CA)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/56
+#EXTINF:-1 group-title="ZU", Film & Arts (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/57
+#EXTINF:-1 group-title="ZU", Food Network (MX/A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/58
+#EXTINF:-1 group-title="ZU", ¡Hola! TV (MX/A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/59
+#EXTINF:-1 group-title="ZU", Lifetime (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/60
+#EXTINF:-1 group-title="ZU", Mas Chic (MX/A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/61
+#EXTINF:-1 group-title="ZU", Tlnovelas (MX/CA)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/62
+#EXTINF:-1 group-title="ZU", Unicable (MX)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/63
+#EXTINF:-1 group-title="ZU", Fox Life (MX)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/64
+#EXTINF:-1 group-title="ZU", Fox Life (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/66
+
+#EXTINF:-1 group-title="ZU", A&E (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/67
+#EXTINF:-1 group-title="ZU", A3 Series (MX/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/68
+#EXTINF:-1 group-title="ZU", AXN (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/69
+#EXTINF:-1 group-title="ZU", Eurochannel
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/70
+#EXTINF:-1 group-title="ZU", Fox Channel (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/71
+#EXTINF:-1 group-title="ZU", FXM (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/72
+#EXTINF:-1 group-title="ZU", FX (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/73
+#EXTINF:-1 group-title="ZU", FXM (USA)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/74
+#EXTINF:-1 group-title="ZU", Sony Channel (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/76
+#EXTINF:-1 group-title="ZU", TNT Series (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/77
+#EXTINF:-1 group-title="ZU", Universal TV (CA/A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/78
+#EXTINF:-1 group-title="ZU", Warner (A/S)
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/79
+
+#EXTINF:-1 tvg-id="" tvg-name=" CAILLOU" tvg-logo="" group-title="ZU", CAILLOU
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/872
+#EXTINF:-1 tvg-id="" tvg-name=" CORAJE EL PERRO COBARDE" tvg-logo="" group-title="ZU", CORAJE EL PERRO COBARDE
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/873
+#EXTINF:-1 tvg-id="" tvg-name=" CUENTOS GREEM" tvg-logo="" group-title="ZU", CUENTOS GREEM
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/874
+#EXTINF:-1 tvg-id="" tvg-name=" DINOSAURIOS 1991" tvg-logo="" group-title="ZU", DINOSAURIOS 1991
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/875
+#EXTINF:-1 tvg-id="" tvg-name=" DRAGON BALL 1984" tvg-logo="" group-title="ZU", DRAGON BALL 1984
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/876
+#EXTINF:-1 tvg-id="" tvg-name=" LOS SIMPSON" tvg-logo="" group-title="ZU", LOS SIMPSON
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/877
+#EXTINF:-1 tvg-id="" tvg-name=" SOUTH PARK" tvg-logo="" group-title="ZU", SOUTH PARK
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/878
+#EXTINF:-1 tvg-id="" tvg-name=" THE WALKING DEAD" tvg-logo="" group-title="ZU", THE WALKING DEAD
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/879
+#EXTINF:-1 tvg-id="" tvg-name="ALF" tvg-logo="" group-title="ZU",ALF
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/880
+#EXTINF:-1 tvg-id="" tvg-name="AÃ‘OS MARAVILLOSOS 1988" tvg-logo="" group-title="ZU",AÃ‘OS MARAVILLOSOS 1988
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/881
+#EXTINF:-1 tvg-id="" tvg-name="BARNY Y SUS AMIGOS" tvg-logo="" group-title="ZU",BARNY Y SUS AMIGOS
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/882
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN 1966 RETRO" tvg-logo="" group-title="ZU",BATMAN 1966 RETRO
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/883
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="" group-title="ZU",BOB ESPONJA
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/884
+#EXTINF:-1 tvg-id="" tvg-name="BREAKING  BAD" tvg-logo="" group-title="ZU",BREAKING  BAD
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/885
+#EXTINF:-1 tvg-id="" tvg-name="CABALLEROS DEL ZODIACO" tvg-logo="" group-title="ZU",CABALLEROS DEL ZODIACO
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/886
+#EXTINF:-1 tvg-id="" tvg-name="CANTINFLAS" tvg-logo="" group-title="ZU",CANTINFLAS
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/887
+#EXTINF:-1 tvg-id="" tvg-name="CASO CERRADO "SEXUALIDAD"" tvg-logo="" group-title="ZU",CASO CERRADO "SEXUALIDAD"
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/888
+#EXTINF:-1 tvg-id="" tvg-name="CSI: MIAMI" tvg-logo="" group-title="ZU",CSI: MIAMI
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/889
+#EXTINF:-1 tvg-id="" tvg-name="Death note" tvg-logo="" group-title="ZU",Death note
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/890
+#EXTINF:-1 tvg-id="" tvg-name="DESAFIO SOBRE FUEGO LATIN AMERICA" tvg-logo="" group-title="ZU",DESAFIO SOBRE FUEGO LATIN AMERICA
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/891
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON  BALL SUPER" tvg-logo="" group-title="ZU",DRAGON  BALL SUPER
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/892
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL GT 1996" tvg-logo="" group-title="ZU",DRAGON BALL GT 1996
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/893
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 1989" tvg-logo="" group-title="ZU",DRAGON BALL Z 1989
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/894
+#EXTINF:-1 tvg-id="" tvg-name="El AvispÃ³n Verde" tvg-logo="" group-title="ZU",El AvispÃ³n Verde
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/895
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAPULIN COLORADO" tvg-logo="" group-title="ZU",EL CHAPULIN COLORADO
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/896
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO DEL 8" tvg-logo="" group-title="ZU",EL CHAVO DEL 8
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/897
+#EXTINF:-1 tvg-id="" tvg-name="EL CHEMA" tvg-logo="" group-title="ZU",EL CHEMA
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/898
+#EXTINF:-1 tvg-id="" tvg-name="EL COYOTE Y CORRE CAMINOS" tvg-logo="" group-title="ZU",EL COYOTE Y CORRE CAMINOS
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/899
+#EXTINF:-1 tvg-id="" tvg-name="EL PATRON DEL MAL" tvg-logo="" group-title="ZU",EL PATRON DEL MAL
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/900
+#EXTINF:-1 tvg-id="" tvg-name="EL SEÑOR DE LOS CIELOS" tvg-logo="" group-title="ZU",EL SEÑOR DE LOS CIELOS
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/901
+#EXTINF:-1 tvg-id="" tvg-name="FUTURAMA 1999" tvg-logo="" group-title="ZU",FUTURAMA 1999
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/902
+#EXTINF:-1 tvg-id="" tvg-name="HAPPY TREE FRIENDS" tvg-logo="" group-title="ZU",HAPPY TREE FRIENDS
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/903
+#EXTINF:-1 tvg-id="" tvg-name="He-Man" tvg-logo="" group-title="ZU",He-Man
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/904
+#EXTINF:-1 tvg-id="" tvg-name="HÃ‰ROES EN PIJAMAS" tvg-logo="" group-title="ZU",HÉROES EN PIJAMAS
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/905
+#EXTINF:-1 tvg-id="" tvg-name="JUEGO DE TRONOS" tvg-logo="" group-title="ZU",JUEGO DE TRONOS
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/906
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE PAPEL" tvg-logo="" group-title="ZU",LA CASA DE PAPEL
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/907
+#EXTINF:-1 tvg-id="" tvg-name="LA FAMILIA MONSTERS 1964" tvg-logo="" group-title="ZU",LA FAMILIA MONSTERS 1964
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/908
+#EXTINF:-1 tvg-id="" tvg-name="LA HORA PICO" tvg-logo="" group-title="ZU",LA HORA PICO
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/909
+#EXTINF:-1 tvg-id="" tvg-name="LA PANTERA ROSA" tvg-logo="" group-title="ZU",LA PANTERA ROSA
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/910
+#EXTINF:-1 tvg-id="" tvg-name="LA RISA EN VACIONES" tvg-logo="" group-title="ZU",LA RISA EN VACIONES
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/911
+#EXTINF:-1 tvg-id="" tvg-name="LA ROSA DE GUADALUPE" tvg-logo="" group-title="ZU",LA ROSA DE GUADALUPE
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/912
+#EXTINF:-1 tvg-id="" tvg-name="LAZY TOWN" tvg-logo="" group-title="ZU",LAZY TOWN
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/913
+#EXTINF:-1 tvg-id="" tvg-name="LE TEMES ALA OSCURIDAD" tvg-logo="" group-title="ZU",LE TEMES ALA OSCURIDAD
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/914
+#EXTINF:-1 tvg-id="" tvg-name="LOS LOCOS ADDAMS" tvg-logo="" group-title="ZU",LOS LOCOS ADDAMS
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/915
+#EXTINF:-1 tvg-id="" tvg-name="LUIS MIGUEL LA SERIE 2018" tvg-logo="" group-title="ZU",LUIS MIGUEL LA SERIE 2018
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/916
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm in the middle 2000" tvg-logo="" group-title="ZU",Malcolm in the middle 2000
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/917
+#EXTINF:-1 tvg-id="" tvg-name="Mazinger Z" tvg-logo="" group-title="ZU",Mazinger Z
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/918
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="" group-title="ZU",Naruto
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/919
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas de terror" tvg-logo="" group-title="ZU",Peliculas de terror
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/920
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS ESTRENOS 2018" tvg-logo="" group-title="ZU",PELICULAS ESTRENOS 2018
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/921
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG" tvg-logo="" group-title="ZU",PEPPA PIG
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/922
+#EXTINF:-1 tvg-id="" tvg-name="PINKY y CEREBRO" tvg-logo="" group-title="ZU",PINKY y CEREBRO
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/923
+#EXTINF:-1 tvg-id="" tvg-name="PokÃ©mon" tvg-logo="" group-title="ZU",Pokemon
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/924
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS" tvg-logo="" group-title="ZU",POWER RANGERS
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/925
+#EXTINF:-1 tvg-id="" tvg-name="ROBOTECH" tvg-logo="" group-title="ZU",ROBOTECH
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/926
+#EXTINF:-1 tvg-id="" tvg-name="SAILOR MOON" tvg-logo="" group-title="ZU",SAILOR MOON
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/927
+#EXTINF:-1 tvg-id="" tvg-name="Shark Tank México TEP 1" tvg-logo="" group-title="ZU",Shark Tank México TEP 1
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/928
+#EXTINF:-1 tvg-id="" tvg-name="Shark Tank México TEP 2" tvg-logo="" group-title="ZU",Shark Tank México TEP 2
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/929
+#EXTINF:-1 tvg-id="" tvg-name="SHERA" tvg-logo="" group-title="ZU",SHERA
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/930
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE" tvg-logo="" group-title="ZU",SMALLVILLE
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/931
+#EXTINF:-1 tvg-id="" tvg-name="SPIDER-MAN" tvg-logo="" group-title="ZU",SPIDER-MAN
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/932
+#EXTINF:-1 tvg-id="" tvg-name="STRANGER THINGS" tvg-logo="" group-title="ZU",STRANGER THINGS
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/933
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CAMPEONES" tvg-logo="" group-title="ZU",SUPER CAMPEONES
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/934
+#EXTINF:-1 tvg-id="" tvg-name="THUNDERCAST" tvg-logo="" group-title="ZU",THUNDERCAST
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/935
+#EXTINF:-1 tvg-id="" tvg-name="XMEN ANIME" tvg-logo="" group-title="ZU",XMEN ANIME
+http://zufreelist.net:8080/aergaergaergaergaergaergaergaergaergaergaergaerg/aergsergaesrgvg/936
+
+
+#EXTINF:-1 group-title="Premium-Extranjero", Movistar Champions League
 http://latiniptv.vip:8008/roman123/roman123/3309
-#EXTINF:-1 group-title="Roman123", América
+#EXTINF:-1 group-title="Premium-Extranjero", América
 http://latiniptv.vip:8008/roman123/roman123/3576
-#EXTINF:-1 group-title="Roman123", Win Sports +
+#EXTINF:-1 group-title="Premium-Extranjero", Win Sports +
 http://latiniptv.vip:8008/roman123/roman123/6364
-#EXTINF:-1 group-title="Roman123", DirecTV Sports
+#EXTINF:-1 group-title="Premium-Extranjero", DirecTV Sports
 http://latiniptv.vip:8008/roman123/roman123/6366
-#EXTINF:-1 group-title="Roman123", DirecTV Sports 2
+#EXTINF:-1 group-title="Premium-Extranjero", DirecTV Sports 2
 http://latiniptv.vip:8008/roman123/roman123/6367
-#EXTINF:-1 group-title="Roman123", DirecTV Sports Plus
+#EXTINF:-1 group-title="Premium-Extranjero", DirecTV Sports Plus
 http://latiniptv.vip:8008/roman123/roman123/6368
-#EXTINF:-1 group-title="Roman123", Fox Sports Premium
+#EXTINF:-1 group-title="Premium-Extranjero", Fox Sports Premium
 http://latiniptv.vip:8008/roman123/roman123/6370
-#EXTINF:-1 group-title="Roman123", TNT Sports | HD
+#EXTINF:-1 group-title="Premium-Extranjero", TNT Sports | HD
 http://latiniptv.vip:8008/roman123/roman123/6371
-#EXTINF:-1 group-title="Roman123", TNT Sports
+#EXTINF:-1 group-title="Premium-Extranjero", TNT Sports
 http://latiniptv.vip:8008/roman123/roman123/6372
-#EXTINF:-1 group-title="Roman123", TyC Sports
+#EXTINF:-1 group-title="Premium-Extranjero", TyC Sports
 http://latiniptv.vip:8008/roman123/roman123/6373
-#EXTINF:-1 group-title="Roman123", Gol Perú
+#EXTINF:-1 group-title="Premium-Extranjero", Gol Perú
 http://latiniptv.vip:8008/roman123/roman123/6375
-#EXTINF:-1 group-title="Roman123", GolTV | HD
+#EXTINF:-1 group-title="Premium-Extranjero", GolTV | HD
 http://latiniptv.vip:8008/roman123/roman123/6376
-#EXTINF:-1 group-title="Roman123", GolTV Int
+#EXTINF:-1 group-title="Premium-Extranjero", GolTV Int
 http://latiniptv.vip:8008/roman123/roman123/6378
-#EXTINF:-1 group-title="Roman123", Tigo Sports | HD
+#EXTINF:-1 group-title="Premium-Extranjero", Tigo Sports | HD
 http://latiniptv.vip:8008/roman123/roman123/6380
-#EXTINF:-1 group-title="Roman123", Tigo Sports
+#EXTINF:-1 group-title="Premium-Extranjero", Tigo Sports
 http://latiniptv.vip:8008/roman123/roman123/6381
-#EXTINF:-1 group-title="Roman123", América (Alt.)
+#EXTINF:-1 group-title="Premium-Extranjero", América (Alt.)
 http://latiniptv.vip:8008/roman123/roman123/6386
-#EXTINF:-1 group-title="Roman123", Win Sports + (Alt.)
+#EXTINF:-1 group-title="Premium-Extranjero", Win Sports + (Alt.)
 http://latiniptv.vip:8008/roman123/roman123/6387
-#EXTINF:-1 group-title="Roman123", A&E (Sur)
-http://latiniptv.vip:8008/roman123/roman123/6390
-#EXTINF:-1 group-title="Roman123", A&E (Andina)
-http://latiniptv.vip:8008/roman123/roman123/6391
-#EXTINF:-1 group-title="Roman123", AMC (Andina/Sur)
-http://latiniptv.vip:8008/roman123/roman123/6392
-#EXTINF:-1 group-title="Roman123", Cinecanal (Andina/Sur)
-http://latiniptv.vip:8008/roman123/roman123/6394
-#EXTINF:-1 group-title="Roman123", Cinemax (E)
-http://latiniptv.vip:8008/roman123/roman123/6395
-#EXTINF:-1 group-title="Roman123", De Película
-http://latiniptv.vip:8008/roman123/roman123/6396
-#EXTINF:-1 group-title="Roman123", Fox Life (Andina/Sur)
+#EXTINF:-1 group-title="Premium-Extranjero", Fox Life (Andina/Sur)
 http://latiniptv.vip:8008/roman123/roman123/6398
-#EXTINF:-1 group-title="Roman123", Fox Channel (Andina/Sur)
+#EXTINF:-1 group-title="Premium-Extranjero", Fox Channel (Andina/Sur)
 http://latiniptv.vip:8008/roman123/roman123/6399
-#EXTINF:-1 group-title="Roman123", Fox Premium Action (E-sub)
-http://latiniptv.vip:8008/roman123/roman123/6400
-#EXTINF:-1 group-title="Roman123", Fox Premium Cinema (E-sub)
-http://latiniptv.vip:8008/roman123/roman123/6401
-#EXTINF:-1 group-title="Roman123", Fox Premium Classics (E-sub)
-http://latiniptv.vip:8008/roman123/roman123/6402
-#EXTINF:-1 group-title="Roman123", Fox Premium Comedy (E) | HD
+#EXTINF:-1 group-title="Premium-Extranjero", Fox Premium Comedy (E) | HD
 http://latiniptv.vip:8008/roman123/roman123/6403
-#EXTINF:-1 group-title="Roman123", Fox Premium Family (E) | HD
+#EXTINF:-1 group-title="Premium-Extranjero", Fox Premium Family (E) | HD
 http://latiniptv.vip:8008/roman123/roman123/6404
-#EXTINF:-1 group-title="Roman123", Fox Premium Movies (E) | HD
+#EXTINF:-1 group-title="Premium-Extranjero", Fox Premium Movies (E) | HD
 http://latiniptv.vip:8008/roman123/roman123/6405
-#EXTINF:-1 group-title="Roman123", FX (Andina/Sur)
-http://latiniptv.vip:8008/roman123/roman123/6407
-#EXTINF:-1 group-title="Roman123", FXM
-http://latiniptv.vip:8008/roman123/roman123/6408
-#EXTINF:-1 group-title="Roman123", Golden Edge
+#EXTINF:-1 group-title="Premium-Extranjero", Golden Edge
 http://latiniptv.vip:8008/roman123/roman123/6409
-#EXTINF:-1 group-title="Roman123", Golden | HD
+#EXTINF:-1 group-title="Premium-Extranjero", Golden | HD
 http://latiniptv.vip:8008/roman123/roman123/6410
-#EXTINF:-1 group-title="Roman123", Golden Plus | HD
+#EXTINF:-1 group-title="Premium-Extranjero", Golden Plus | HD
 http://latiniptv.vip:8008/roman123/roman123/6411
-#EXTINF:-1 group-title="Roman123", HBO 2 (E)
+#EXTINF:-1 group-title="Premium-Extranjero", HBO 2 (E)
 http://latiniptv.vip:8008/roman123/roman123/6412
-#EXTINF:-1 group-title="Roman123", Cinemax (E) | HD
-http://latiniptv.vip:8008/roman123/roman123/6415
-#EXTINF:-1 group-title="Roman123", Sony Channel (Andina/Sur)
-http://latiniptv.vip:8008/roman123/roman123/6418
-#EXTINF:-1 group-title="Roman123", Space (Sur)
-http://latiniptv.vip:8008/roman123/roman123/6419
-#EXTINF:-1 group-title="Roman123", Universal TV
-http://latiniptv.vip:8008/roman123/roman123/6421
-#EXTINF:-1 group-title="Roman123", SYFY
-http://latiniptv.vip:8008/roman123/roman123/6424
-#EXTINF:-1 group-title="Roman123", TCM
-http://latiniptv.vip:8008/roman123/roman123/6427
-#EXTINF:-1 group-title="Roman123", TNT (Sur)
-http://latiniptv.vip:8008/roman123/roman123/6428
-#EXTINF:-1 group-title="Roman123", FX
-http://latiniptv.vip:8008/roman123/roman123/6431
-#EXTINF:-1 group-title="Roman123", Warner (Andina/Sur)
-http://latiniptv.vip:8008/roman123/roman123/6432
-#EXTINF:-1 group-title="Roman123", TNT Series (Andina/Sur)
-http://latiniptv.vip:8008/roman123/roman123/6436
-#EXTINF:-1 group-title="Roman123", TNT (Sur) (Alt.)
-http://latiniptv.vip:8008/roman123/roman123/6437
-#EXTINF:-1 group-title="Roman123", TNT (Sur) (Alt.)
-http://latiniptv.vip:8008/roman123/roman123/6438
-#EXTINF:-1 group-title="Roman123", TCM
-http://latiniptv.vip:8008/roman123/roman123/6439
-#EXTINF:-1 group-title="Roman123", Sony Channel (Andina/Sur)
-http://latiniptv.vip:8008/roman123/roman123/6440
-#EXTINF:-1 group-title="Roman123", Golden | HD
+#EXTINF:-1 group-title="Premium-Extranjero", Golden | HD
 http://latiniptv.vip:8008/roman123/roman123/6441
-#EXTINF:-1 group-title="Roman123", Golden Plus | HD
+#EXTINF:-1 group-title="Premium-Extranjero", Golden Plus | HD
 http://latiniptv.vip:8008/roman123/roman123/6442
-#EXTINF:-1 group-title="Roman123", Fox Life
-http://latiniptv.vip:8008/roman123/roman123/6447
-#EXTINF:-1 group-title="Roman123", FX
-http://latiniptv.vip:8008/roman123/roman123/6455
-#EXTINF:-1 group-title="Roman123", Cinecanal (Andina/Sur)
-http://latiniptv.vip:8008/roman123/roman123/6458
-#EXTINF:-1 group-title="Roman123", AXN
-http://latiniptv.vip:8008/roman123/roman123/6460
-#EXTINF:-1 group-title="Roman123", A&E
-http://latiniptv.vip:8008/roman123/roman123/6461
-#EXTINF:-1 group-title="Roman123", HBO Signature (E)
+#EXTINF:-1 group-title="Premium-Extranjero", HBO Signature (E)
 http://latiniptv.vip:8008/roman123/roman123/6465
-#EXTINF:-1 group-title="Roman123", HBO Plus (E-sub)
+#EXTINF:-1 group-title="Premium-Extranjero", HBO Plus (E-sub)
 http://latiniptv.vip:8008/roman123/roman123/6466
-#EXTINF:-1 group-title="Roman123", HBO Family (E)
+#EXTINF:-1 group-title="Premium-Extranjero", HBO Family (E)
 http://latiniptv.vip:8008/roman123/roman123/6467
-#EXTINF:-1 group-title="Roman123", HBO (E)
+#EXTINF:-1 group-title="Premium-Extranjero", HBO (E)
 http://latiniptv.vip:8008/roman123/roman123/6469
-#EXTINF:-1 group-title="Roman123", Fox Premium Cinema (E-sub)
-http://latiniptv.vip:8008/roman123/roman123/6471
-#EXTINF:-1 group-title="Roman123", Baby First | HD
-http://latiniptv.vip:8008/roman123/roman123/6473
-#EXTINF:-1 group-title="Roman123", Tooncast
-http://latiniptv.vip:8008/roman123/roman123/6474
-#EXTINF:-1 group-title="Roman123", Boomerang | HD
-http://latiniptv.vip:8008/roman123/roman123/6475
-#EXTINF:-1 group-title="Roman123", Cartoon Network (Andina/Sur)
-http://latiniptv.vip:8008/roman123/roman123/6477
-#EXTINF:-1 group-title="Roman123", Nick
-http://latiniptv.vip:8008/roman123/roman123/6478
-#EXTINF:-1 group-title="Roman123", Nickmusic
-http://latiniptv.vip:8008/roman123/roman123/6479
-#EXTINF:-1 group-title="Roman123", Teennick
-http://latiniptv.vip:8008/roman123/roman123/6480
-#EXTINF:-1 group-title="Roman123", NatGeo Kids
-http://latiniptv.vip:8008/roman123/roman123/6481
-#EXTINF:-1 group-title="Roman123", Disney XD | HD
-http://latiniptv.vip:8008/roman123/roman123/6482
-#EXTINF:-1 group-title="Roman123", Disney Junior
-http://latiniptv.vip:8008/roman123/roman123/6483
-#EXTINF:-1 group-title="Roman123", Disney Channel
-http://latiniptv.vip:8008/roman123/roman123/6484
-#EXTINF:-1 group-title="Roman123", Discovery Kids
-http://latiniptv.vip:8008/roman123/roman123/6485
-#EXTINF:-1 group-title="Roman123", Nuestra Tele Noticias 24 | HD
+#EXTINF:-1 group-title="Premium-Extranjero", Nuestra Tele Noticias 24 | HD
 http://latiniptv.vip:8008/roman123/roman123/6487
-#EXTINF:-1 group-title="Roman123", Canal Congreso
+#EXTINF:-1 group-title="Premium-Extranjero", Canal Congreso
 http://latiniptv.vip:8008/roman123/roman123/6488
-#EXTINF:-1 group-title="Roman123", Canal 1
+#EXTINF:-1 group-title="Premium-Extranjero", Canal 1
 http://latiniptv.vip:8008/roman123/roman123/6489
-#EXTINF:-1 group-title="Roman123", Caracol Televisión
+#EXTINF:-1 group-title="Premium-Extranjero", Caracol Televisión
 http://latiniptv.vip:8008/roman123/roman123/6490
-#EXTINF:-1 group-title="Roman123", Caracol Televisión (Alt.)
+#EXTINF:-1 group-title="Premium-Extranjero", Caracol Televisión (Alt.)
 http://latiniptv.vip:8008/roman123/roman123/6491
-#EXTINF:-1 group-title="Roman123", City TV
+#EXTINF:-1 group-title="Premium-Extranjero", City TV
 http://latiniptv.vip:8008/roman123/roman123/6492
-#EXTINF:-1 group-title="Roman123", Pasiones
+#EXTINF:-1 group-title="Premium-Extranjero", Pasiones
 http://latiniptv.vip:8008/roman123/roman123/6493
-#EXTINF:-1 group-title="Roman123", RCN | HD
+#EXTINF:-1 group-title="Premium-Extranjero", RCN | HD
 http://latiniptv.vip:8008/roman123/roman123/6494
-#EXTINF:-1 group-title="Roman123", Teleantioquia
+#EXTINF:-1 group-title="Premium-Extranjero", Teleantioquia
 http://latiniptv.vip:8008/roman123/roman123/6496
-#EXTINF:-1 group-title="Roman123", Telecafé
+#EXTINF:-1 group-title="Premium-Extranjero", Telecafé
 http://latiniptv.vip:8008/roman123/roman123/6497
-#EXTINF:-1 group-title="Roman123", Telepacífico
+#EXTINF:-1 group-title="Premium-Extranjero", Telepacífico
 http://latiniptv.vip:8008/roman123/roman123/6499
-#EXTINF:-1 group-title="Roman123", City TV (Alt.)
+#EXTINF:-1 group-title="Premium-Extranjero", City TV (Alt.)
 http://latiniptv.vip:8008/roman123/roman123/6500
-#EXTINF:-1 group-title="Roman123", La Red
+#EXTINF:-1 group-title="Premium-Extranjero", La Red
 http://latiniptv.vip:8008/roman123/roman123/6501
-#EXTINF:-1 group-title="Roman123", TVN
+#EXTINF:-1 group-title="Premium-Extranjero", TVN
 http://latiniptv.vip:8008/roman123/roman123/6506
-#EXTINF:-1 group-title="Roman123", Mega
+#EXTINF:-1 group-title="Premium-Extranjero", Mega
 http://latiniptv.vip:8008/roman123/roman123/6507
-#EXTINF:-1 group-title="Roman123", Mega (Alt.)
+#EXTINF:-1 group-title="Premium-Extranjero", Mega (Alt.)
 http://latiniptv.vip:8008/roman123/roman123/6508
-#EXTINF:-1 group-title="Roman123", Mega (Alt.)
+#EXTINF:-1 group-title="Premium-Extranjero", Mega (Alt.)
 http://latiniptv.vip:8008/roman123/roman123/6509
-#EXTINF:-1 group-title="Roman123", Chilevisión
+#EXTINF:-1 group-title="Premium-Extranjero", Chilevisión
 http://latiniptv.vip:8008/roman123/roman123/6510
-#EXTINF:-1 group-title="Roman123", Chilevisión (Alt.)
+#EXTINF:-1 group-title="Premium-Extranjero", Chilevisión (Alt.)
 http://latiniptv.vip:8008/roman123/roman123/6511
-#EXTINF:-1 group-title="Roman123", Canal 13
+#EXTINF:-1 group-title="Premium-Extranjero", Canal 13
 http://latiniptv.vip:8008/roman123/roman123/6512
-#EXTINF:-1 group-title="Roman123", Canal 13 (Alt.)
+#EXTINF:-1 group-title="Premium-Extranjero", Canal 13 (Alt.)
 http://latiniptv.vip:8008/roman123/roman123/6513
-#EXTINF:-1 group-title="Roman123", Canal 24 Horas
+#EXTINF:-1 group-title="Premium-Extranjero", Canal 24 Horas
 http://latiniptv.vip:8008/roman123/roman123/6554
-#EXTINF:-1 group-title="Roman123", Canal 4 Salto
+#EXTINF:-1 group-title="Premium-Extranjero", Canal 4 Salto
 http://latiniptv.vip:8008/roman123/roman123/6555
-#EXTINF:-1 group-title="Roman123", Canal 10
+#EXTINF:-1 group-title="Premium-Extranjero", Canal 10
 http://latiniptv.vip:8008/roman123/roman123/6556
-#EXTINF:-1 group-title="Roman123", VTV
+#EXTINF:-1 group-title="Premium-Extranjero", VTV
 http://latiniptv.vip:8008/roman123/roman123/6557
-#EXTINF:-1 group-title="Roman123", VTV
+#EXTINF:-1 group-title="Premium-Extranjero", VTV (Alt.)
 http://latiniptv.vip:8008/roman123/roman123/6558
-#EXTINF:-1 group-title="Roman123", MonteCarlo Canal 4
+#EXTINF:-1 group-title="Premium-Extranjero", MonteCarlo Canal 4
 http://latiniptv.vip:8008/roman123/roman123/6561
-#EXTINF:-1 group-title="Roman123", Clic
-http://latiniptv.vip:8008/roman123/roman123/6565
-#EXTINF:-1 group-title="Roman123", Unicable
-http://latiniptv.vip:8008/roman123/roman123/6571
-#EXTINF:-1 group-title="Roman123", Comedy Central
-http://latiniptv.vip:8008/roman123/roman123/6572
-#EXTINF:-1 group-title="Roman123", Canal 5
-http://latiniptv.vip:8008/roman123/roman123/6578
-#EXTINF:-1 group-title="Roman123", Distrito Comedia
-http://latiniptv.vip:8008/roman123/roman123/6584
-#EXTINF:-1 group-title="Roman123", Tlnovelas
-http://latiniptv.vip:8008/roman123/roman123/6586
-#EXTINF:-1 group-title="Roman123", Canal Uno
+#EXTINF:-1 group-title="Premium-Extranjero", Canal Uno
 http://latiniptv.vip:8008/roman123/roman123/6587
-#EXTINF:-1 group-title="Roman123", TC
+#EXTINF:-1 group-title="Premium-Extranjero", TC
 http://latiniptv.vip:8008/roman123/roman123/6591
-#EXTINF:-1 group-title="Roman123", RTS
+#EXTINF:-1 group-title="Premium-Extranjero", RTS
 http://latiniptv.vip:8008/roman123/roman123/6592
-#EXTINF:-1 group-title="Roman123", Oromar
+#EXTINF:-1 group-title="Premium-Extranjero", Oromar
 http://latiniptv.vip:8008/roman123/roman123/6594
-#EXTINF:-1 group-title="Roman123", Teleamazonas
+#EXTINF:-1 group-title="Premium-Extranjero", Teleamazonas
 http://latiniptv.vip:8008/roman123/roman123/6595
-#EXTINF:-1 group-title="Roman123", Canela TV
+#EXTINF:-1 group-title="Premium-Extranjero", Canela TV
 http://latiniptv.vip:8008/roman123/roman123/6597
-#EXTINF:-1 group-title="Roman123", Gol Perú
+#EXTINF:-1 group-title="Premium-Extranjero", Gol Perú
 http://latiniptv.vip:8008/roman123/roman123/6600
-#EXTINF:-1 group-title="Roman123", Movistar Deportes
+#EXTINF:-1 group-title="Premium-Extranjero", Movistar Deportes
 http://latiniptv.vip:8008/roman123/roman123/6601
-#EXTINF:-1 group-title="Roman123", Perú Mágico
+#EXTINF:-1 group-title="Premium-Extranjero", Perú Mágico
 http://latiniptv.vip:8008/roman123/roman123/6602
-#EXTINF:-1 group-title="Roman123", Latina
+#EXTINF:-1 group-title="Premium-Extranjero", Latina
 http://latiniptv.vip:8008/roman123/roman123/6603
-#EXTINF:-1 group-title="Roman123", Capital TV
+#EXTINF:-1 group-title="Premium-Extranjero", Capital TV
 http://latiniptv.vip:8008/roman123/roman123/6604
-#EXTINF:-1 group-title="Roman123", Canal N
+#EXTINF:-1 group-title="Premium-Extranjero", Canal N
 http://latiniptv.vip:8008/roman123/roman123/6605
-#EXTINF:-1 group-title="Roman123", Panamericana
+#EXTINF:-1 group-title="Premium-Extranjero", Panamericana
 http://latiniptv.vip:8008/roman123/roman123/6607
-#EXTINF:-1 group-title="Roman123", ATV
+#EXTINF:-1 group-title="Premium-Extranjero", ATV
 http://latiniptv.vip:8008/roman123/roman123/6609
-#EXTINF:-1 group-title="Roman123", ipe
+#EXTINF:-1 group-title="Premium-Extranjero", ipe
 http://latiniptv.vip:8008/roman123/roman123/6611
-#EXTINF:-1 group-title="Roman123", Latina (Alt.)
+#EXTINF:-1 group-title="Premium-Extranjero", Latina (Alt.)
 http://latiniptv.vip:8008/roman123/roman123/6612
-#EXTINF:-1 group-title="Roman123", Fox Sports Sur
-http://latiniptv.vip:8008/roman123/roman123/6615
-#EXTINF:-1 group-title="Roman123", TV Pública
+#EXTINF:-1 group-title="Premium-Extranjero", TV Pública
 http://latiniptv.vip:8008/roman123/roman123/6616
-#EXTINF:-1 group-title="Roman123", TeleSur
+#EXTINF:-1 group-title="Premium-Extranjero", TeleSur
 http://latiniptv.vip:8008/roman123/roman123/6618
-#EXTINF:-1 group-title="Roman123", Telemax
+#EXTINF:-1 group-title="Premium-Extranjero", Telemax
 http://latiniptv.vip:8008/roman123/roman123/6619
-#EXTINF:-1 group-title="Roman123", Telefe
+#EXTINF:-1 group-title="Premium-Extranjero", Telefe
 http://latiniptv.vip:8008/roman123/roman123/6620
-#EXTINF:-1 group-title="Roman123", Rural TV
+#EXTINF:-1 group-title="Premium-Extranjero", Rural TV
 http://latiniptv.vip:8008/roman123/roman123/6621
-#EXTINF:-1 group-title="Roman123", Fox Sports Premium
+#EXTINF:-1 group-title="Premium-Extranjero", Fox Sports Premium
 http://latiniptv.vip:8008/roman123/roman123/6624
-#EXTINF:-1 group-title="Roman123", El Garage
-http://latiniptv.vip:8008/roman123/roman123/6625
-#EXTINF:-1 group-title="Roman123", Crónica TV
+#EXTINF:-1 group-title="Premium-Extranjero", Crónica TV
 http://latiniptv.vip:8008/roman123/roman123/6626
-#EXTINF:-1 group-title="Roman123", CN23
+#EXTINF:-1 group-title="Premium-Extranjero", CN23
 http://latiniptv.vip:8008/roman123/roman123/6627
-#EXTINF:-1 group-title="Roman123", C5N
+#EXTINF:-1 group-title="Premium-Extranjero", C5N
 http://latiniptv.vip:8008/roman123/roman123/6628
-#EXTINF:-1 group-title="Roman123", A24
+#EXTINF:-1 group-title="Premium-Extranjero", A24
 http://latiniptv.vip:8008/roman123/roman123/6629
-#EXTINF:-1 group-title="Roman123", América TV
+#EXTINF:-1 group-title="Premium-Extranjero", América TV
 http://latiniptv.vip:8008/roman123/roman123/6630
-#EXTINF:-1 group-title="Roman123", El Trece
+#EXTINF:-1 group-title="Premium-Extranjero", El Trece
 http://latiniptv.vip:8008/roman123/roman123/6632
-#EXTINF:-1 group-title="Roman123", El Nueve
+#EXTINF:-1 group-title="Premium-Extranjero", El Nueve
 http://latiniptv.vip:8008/roman123/roman123/6633
-#EXTINF:-1 group-title="Roman123", DeporTV
+#EXTINF:-1 group-title="Premium-Extranjero", DeporTV
 http://latiniptv.vip:8008/roman123/roman123/6634
-#EXTINF:-1 group-title="Roman123", El Trece (Alt.)
+#EXTINF:-1 group-title="Premium-Extranjero", El Trece (Alt.)
 http://latiniptv.vip:8008/roman123/roman123/6635
-#EXTINF:-1 group-title="Roman123", Bandamax
+#EXTINF:-1 group-title="Premium-Extranjero", Bandamax
 http://latiniptv.vip:8008/roman123/roman123/6763
-#EXTINF:-1 group-title="Roman123", Telehit
+#EXTINF:-1 group-title="Premium-Extranjero", Telehit
 http://latiniptv.vip:8008/roman123/roman123/6768
-#EXTINF:-1 group-title="Roman123", Win Sports +
+#EXTINF:-1 group-title="Premium-Extranjero", Win Sports +
 http://latiniptv.vip:8008/roman123/roman123/6902
-#EXTINF:-1 group-title="Roman123", WAPA
+#EXTINF:-1 group-title="Premium-Extranjero", WAPA
 http://latiniptv.vip:8008/roman123/roman123/6951
-#EXTINF:-1 group-title="Roman123", La 1
+#EXTINF:-1 group-title="Premium-Extranjero", La 1
 http://latiniptv.vip:8008/roman123/roman123/6953
-#EXTINF:-1 group-title="Roman123", WAPA (Alt.)
-http://latiniptv.vip:8008/roman123/roman123/6954
-#EXTINF:-1 group-title="Roman123", TreceVisión
+#EXTINF:-1 group-title="Premium-Extranjero", TreceVisión
 http://latiniptv.vip:8008/roman123/roman123/8778
-#EXTINF:-1 group-title="Roman123", VTV
+#EXTINF:-1 group-title="Premium-Extranjero", VTV
 http://latiniptv.vip:8008/roman123/roman123/8787
-#EXTINF:-1 group-title="Roman123", Win Sports +
+#EXTINF:-1 group-title="Premium-Extranjero", Win Sports +
 http://latiniptv.vip:8008/roman123/roman123/8789
-#EXTINF:-1 group-title="Roman123", Gol Perú
+#EXTINF:-1 group-title="Premium-Extranjero", Gol Perú
 http://latiniptv.vip:8008/roman123/roman123/8792
-#EXTINF:-1 group-title="Roman123", Directv Sports +
+#EXTINF:-1 group-title="Premium-Extranjero", Directv Sports +
 http://latiniptv.vip:8008/roman123/roman123/8795
-#EXTINF:-1 group-title="Roman123", DirecTV Sports
+#EXTINF:-1 group-title="Premium-Extranjero", DirecTV Sports
 http://latiniptv.vip:8008/roman123/roman123/8798
-#EXTINF:-1 group-title="Roman123", NBA TV
+#EXTINF:-1 group-title="Premium-Extranjero", NBA TV
 http://latiniptv.vip:8008/roman123/roman123/12235
-#EXTINF:-1 group-title="Roman123", Warner
+#EXTINF:-1 group-title="Premium-Extranjero", Warner
 http://latiniptv.vip:8008/roman123/roman123/12327
-#EXTINF:-1 group-title="Roman123", Canal 12
+#EXTINF:-1 group-title="Premium-Extranjero", Canal 12
 http://latiniptv.vip:8008/roman123/roman123/12329
-#EXTINF:-1 group-title="Roman123", Canal 21
+#EXTINF:-1 group-title="Premium-Extranjero", Canal 21
 http://latiniptv.vip:8008/roman123/roman123/12331
-#EXTINF:-1 group-title="Roman123", 4 TCS
+#EXTINF:-1 group-title="Premium-Extranjero", 4 TCS
 http://latiniptv.vip:8008/roman123/roman123/12332
-#EXTINF:-1 group-title="Roman123", 2 TCS
+#EXTINF:-1 group-title="Premium-Extranjero", 2 TCS
 http://latiniptv.vip:8008/roman123/roman123/12333
-#EXTINF:-1 group-title="Roman123", Film & Arts
-http://latiniptv.vip:8008/roman123/roman123/12589
-#EXTINF:-1 group-title="Roman123", NatGeo Wild | HD
-http://latiniptv.vip:8008/roman123/roman123/12590
-#EXTINF:-1 group-title="Roman123", National Geographic
-http://latiniptv.vip:8008/roman123/roman123/12591
-#EXTINF:-1 group-title="Roman123", Investigation Discovery
-http://latiniptv.vip:8008/roman123/roman123/12592
-#EXTINF:-1 group-title="Roman123", History
-http://latiniptv.vip:8008/roman123/roman123/12594
-#EXTINF:-1 group-title="Roman123", Discovery Theater HD
-http://latiniptv.vip:8008/roman123/roman123/12598
-#EXTINF:-1 group-title="Roman123", Investigation Discovery
-http://latiniptv.vip:8008/roman123/roman123/12599
-#EXTINF:-1 group-title="Roman123", Discovery Home & Health
-http://latiniptv.vip:8008/roman123/roman123/12600
-#EXTINF:-1 group-title="Roman123", Discovery
-http://latiniptv.vip:8008/roman123/roman123/12603
-#EXTINF:-1 group-title="Roman123", Animal Planet
-http://latiniptv.vip:8008/roman123/roman123/12606
-#EXTINF:-1 group-title="Roman123", Discovery Theater HD
-http://latiniptv.vip:8008/roman123/roman123/12607
-#EXTINF:-1 group-title="Roman123", Discovery Turbo
-http://latiniptv.vip:8008/roman123/roman123/12608
-#EXTINF:-1 group-title="Roman123", Discovery World HD
-http://latiniptv.vip:8008/roman123/roman123/12609
-#EXTINF:-1 group-title="Roman123", TLC (Andina)
-http://latiniptv.vip:8008/roman123/roman123/12610
-#EXTINF:-1 group-title="Roman123", History 2 | HD
-http://latiniptv.vip:8008/roman123/roman123/12611
-#EXTINF:-1 group-title="Roman123", ElĢourmet
-http://latiniptv.vip:8008/roman123/roman123/12612
-#EXTINF:-1 group-title="Roman123", Discovery (Alt.)
-http://latiniptv.vip:8008/roman123/roman123/12613
-#EXTINF:-1 group-title="Roman123", Fox Sports Premium
+#EXTINF:-1 group-title="Premium-Extranjero", Fox Sports Premium
 http://latiniptv.vip:8008/roman123/roman123/12692
-#EXTINF:-1 group-title="Roman123", Mega TV PR
+#EXTINF:-1 group-title="Premium-Extranjero", Mega TV PR
 http://latiniptv.vip:8008/roman123/roman123/12695
-#EXTINF:-1 group-title="Roman123", Telemundo 44
+#EXTINF:-1 group-title="Premium-Extranjero", Telemundo 44
 http://latiniptv.vip:8008/roman123/roman123/12758
-#EXTINF:-1 group-title="Roman123", Telemundo 39
+#EXTINF:-1 group-title="Premium-Extranjero", Telemundo 39
 http://latiniptv.vip:8008/roman123/roman123/12759
-#EXTINF:-1 group-title="Roman123", Telemundo 51
+#EXTINF:-1 group-title="Premium-Extranjero", Telemundo 51
 http://latiniptv.vip:8008/roman123/roman123/12765
-#EXTINF:-1 group-title="Roman123", Telemundo San Diego
+#EXTINF:-1 group-title="Premium-Extranjero", Telemundo San Diego
 http://latiniptv.vip:8008/roman123/roman123/12774
-#EXTINF:-1 group-title="Roman123", CDF
+#EXTINF:-1 group-title="Premium-Extranjero", CDF
 http://latiniptv.vip:8008/roman123/roman123/13486
-#EXTINF:-1 group-title="Roman123", WWE
+#EXTINF:-1 group-title="Premium-Extranjero", WWE
 http://latiniptv.vip:8008/roman123/roman123/13490
-#EXTINF:-1 group-title="Roman123", WWE (Alt.)
-http://latiniptv.vip:8008/roman123/roman123/15647
-#EXTINF:-1 group-title="Roman123", DirecTV Sports 2
+#EXTINF:-1 group-title="Premium-Extranjero", DirecTV Sports 2
 http://latiniptv.vip:8008/roman123/roman123/15651
-#EXTINF:-1 group-title="Roman123", CNN En Español
-http://latiniptv.vip:8008/roman123/roman123/15687
-#EXTINF:-1 group-title="Roman123", Afizzionados
+#EXTINF:-1 group-title="Premium-Extranjero", Afizzionados
 http://latiniptv.vip:8008/roman123/roman123/16682
-#EXTINF:-1 group-title="Roman123", Movistar Laliga
+#EXTINF:-1 group-title="Premium-Extranjero", Movistar Laliga
 http://latiniptv.vip:8008/roman123/roman123/18063
-#EXTINF:-1 group-title="Roman123", Exitosa
+#EXTINF:-1 group-title="Premium-Extranjero", Exitosa
 http://latiniptv.vip:8008/roman123/roman123/49441
-#EXTINF:-1 group-title="Roman123", VTV
+#EXTINF:-1 group-title="Premium-Extranjero", VTV
 http://latiniptv.vip:8008/roman123/roman123/49443
-#EXTINF:-1 group-title="Roman123", Azteca Uno
-http://latiniptv.vip:8008/roman123/roman123/54391
-#EXTINF:-1 group-title="Roman123", Argentinísima
+#EXTINF:-1 group-title="Premium-Extranjero", Argentinísima
 http://latiniptv.vip:8008/roman123/roman123/54684
-#EXTINF:-1 group-title="Roman123", Paka Paka
+#EXTINF:-1 group-title="Premium-Extranjero", Paka Paka
 http://latiniptv.vip:8008/roman123/roman123/54688
-#EXTINF:-1 group-title="Roman123", TyC Sports
+#EXTINF:-1 group-title="Premium-Extranjero", TyC Sports
 http://latiniptv.vip:8008/roman123/roman123/6374
-#EXTINF:-1 group-title="Roman123", Fox Premium Action (E) | HD
+#EXTINF:-1 group-title="Premium-Extranjero", Fox Premium Action (E) | HD
 http://latiniptv.vip:8008/roman123/roman123/9186
-#EXTINF:-1 group-title="Roman123", Movistar Laliga
+#EXTINF:-1 group-title="Premium-Extranjero", Movistar Laliga
 http://latiniptv.vip:8008/roman123/roman123/57152
-#EXTINF:-1 group-title="Roman123", ESPN 2
-http://latiniptv.vip:8008/roman123/roman123/57247
-#EXTINF:-1 group-title="Roman123", HBO Pop
+#EXTINF:-1 group-title="Premium-Extranjero", HBO Pop
 http://latiniptv.vip:8008/roman123/roman123/57262
-#EXTINF:-1 group-title="Roman123", Canal Antigua
+#EXTINF:-1 group-title="Premium-Extranjero", Canal Antigua
 http://latiniptv.vip:8008/roman123/roman123/57264
-#EXTINF:-1 group-title="Roman123", Claro Sports
+#EXTINF:-1 group-title="Premium-Extranjero", Claro Sports
 http://latiniptv.vip:8008/roman123/roman123/57265
-#EXTINF:-1 group-title="Roman123", TN
+#EXTINF:-1 group-title="Premium-Extranjero", TN
 http://latiniptv.vip:8008/roman123/roman123/57266
-#EXTINF:-1 group-title="Roman123", A&E (Andina/Sur)
-http://latiniptv.vip:8008/roman123/roman123/57638
-#EXTINF:-1 group-title="Roman123", Cinecanal (Sur-sub)
-http://latiniptv.vip:8008/roman123/roman123/57642
-#EXTINF:-1 group-title="Roman123", Cinemax (E)
-http://latiniptv.vip:8008/roman123/roman123/57643
-#EXTINF:-1 group-title="Roman123", Fox Life (Andina/Sur)
-http://latiniptv.vip:8008/roman123/roman123/57649
-#EXTINF:-1 group-title="Roman123", Fox Premium Classics (E-sub)
-http://latiniptv.vip:8008/roman123/roman123/57652
-#EXTINF:-1 group-title="Roman123", Fox Premium Series (E-sub)
-http://latiniptv.vip:8008/roman123/roman123/57657
-#EXTINF:-1 group-title="Roman123", HBO Family (E)
+#EXTINF:-1 group-title="Premium-Extranjero", HBO Family (E)
 http://latiniptv.vip:8008/roman123/roman123/57661
-#EXTINF:-1 group-title="Roman123", HBO (E)
+#EXTINF:-1 group-title="Premium-Extranjero", HBO (E)
 http://latiniptv.vip:8008/roman123/roman123/57662
-#EXTINF:-1 group-title="Roman123", HBO Signature
+#EXTINF:-1 group-title="Premium-Extranjero", HBO Signature
 http://latiniptv.vip:8008/roman123/roman123/57664
-#EXTINF:-1 group-title="Roman123", Paramount Network (Andina/Sur) | HD
-http://latiniptv.vip:8008/roman123/roman123/57667
-#EXTINF:-1 group-title="Roman123", Win Sports +
+#EXTINF:-1 group-title="Premium-Extranjero", Win Sports +
 http://latiniptv.vip:8008/roman123/roman123/57690
-#EXTINF:-1 group-title="Roman123", GolTV
-http://latiniptv.vip:8008/roman123/roman123/57695
-#EXTINF:-1 group-title="Roman123", TruTV
-http://latiniptv.vip:8008/roman123/roman123/57739
-#EXTINF:-1 group-title="Roman123", Las Estrellas | HD
-http://latiniptv.vip:8008/roman123/roman123/57740
-#EXTINF:-1 group-title="Roman123", Las Estrellas (Alt.) | HD
-http://latiniptv.vip:8008/roman123/roman123/57741
-#EXTINF:-1 group-title="Roman123", Nick Jr
-http://latiniptv.vip:8008/roman123/roman123/57763
-#EXTINF:-1 group-title="Roman123", GolTV
-http://latiniptv.vip:8008/roman123/roman123/57840
-#EXTINF:-1 group-title="Roman123", DirecTV Sports | HD
+#EXTINF:-1 group-title="Premium-Extranjero", DirecTV Sports | HD
 http://latiniptv.vip:8008/roman123/roman123/57850
-#EXTINF:-1 group-title="Roman123", UCSG
+#EXTINF:-1 group-title="Premium-Extranjero", UCSG
 http://latiniptv.vip:8008/roman123/roman123/57851
-#EXTINF:-1 group-title="Roman123", GolTV (Alt.)
-http://latiniptv.vip:8008/roman123/roman123/57857
-#EXTINF:-1 group-title="Roman123", Discovery Science
-http://latiniptv.vip:8008/roman123/roman123/57914
-#EXTINF:-1 group-title="Roman123", Movistar Laliga
+#EXTINF:-1 group-title="Premium-Extranjero", Movistar Laliga
 http://latiniptv.vip:8008/roman123/roman123/57915
-#EXTINF:-1 group-title="Roman123", WWE
+#EXTINF:-1 group-title="Premium-Extranjero", WWE
 http://latiniptv.vip:8008/roman123/roman123/57942
-#EXTINF:-1 group-title="Roman123", FUTV 
+#EXTINF:-1 group-title="Premium-Extranjero", FUTV 
 http://latiniptv.vip:8008/roman123/roman123/58004
-#EXTINF:-1 group-title="Roman123", TyC Sports
+#EXTINF:-1 group-title="Premium-Extranjero", TyC Sports
 http://latiniptv.vip:8008/roman123/roman123/58018
-#EXTINF:-1 group-title="Roman123", Nick
-http://latiniptv.vip:8008/roman123/roman123/58019
-#EXTINF:-1 group-title="Roman123", NatGeo Wild
-http://latiniptv.vip:8008/roman123/roman123/58021
-#EXTINF:-1 group-title="Roman123", Discovery Civilization/HGTV
-http://latiniptv.vip:8008/roman123/roman123/58022
-#EXTINF:-1 group-title="Roman123", A&E
-http://latiniptv.vip:8008/roman123/roman123/58834
-#EXTINF:-1 group-title="Roman123", Discovery Home & Health
-http://latiniptv.vip:8008/roman123/roman123/58922
-#EXTINF:-1 group-title="Roman123", Teledoce
+#EXTINF:-1 group-title="Premium-Extranjero", Teledoce
 http://latiniptv.vip:8008/roman123/roman123/73625
-#EXTINF:-1 group-title="Roman123", RT (Español)
+#EXTINF:-1 group-title="Premium-Extranjero", RT (Español)
 http://latiniptv.vip:8008/roman123/roman123/73697
-#EXTINF:-1 group-title="Roman123", MTV | HD
-http://latiniptv.vip:8008/roman123/roman123/74150
-#EXTINF:-1 group-title="Roman123", A&E (Andina/Sur)
-http://latiniptv.vip:8008/roman123/roman123/74666
-#EXTINF:-1 group-title="Roman123", TV Perú
+#EXTINF:-1 group-title="Premium-Extranjero", TV Perú
 http://latiniptv.vip:8008/roman123/roman123/76938
-#EXTINF:-1 group-title="Roman123", RCN
+#EXTINF:-1 group-title="Premium-Extranjero", RCN
 http://latiniptv.vip:8008/roman123/roman123/76983
-#EXTINF:-1 group-title="Roman123", Venevisión
+#EXTINF:-1 group-title="Premium-Extranjero", Venevisión
 http://latiniptv.vip:8008/roman123/roman123/77257
-#EXTINF:-1 group-title="Roman123", City TV
+#EXTINF:-1 group-title="Premium-Extranjero", City TV
 http://latiniptv.vip:8008/roman123/roman123/77276
-#EXTINF:-1 group-title="Roman123", Señal Colombia
+#EXTINF:-1 group-title="Premium-Extranjero", Señal Colombia
 http://latiniptv.vip:8008/roman123/roman123/77279
-#EXTINF:-1 group-title="Roman123", Canal Capital
+#EXTINF:-1 group-title="Premium-Extranjero", Canal Capital
 http://latiniptv.vip:8008/roman123/roman123/77280
-#EXTINF:-1 group-title="Roman123", Las Estrellas
-http://latiniptv.vip:8008/roman123/roman123/77388
-#EXTINF:-1 group-title="Roman123", CNN Chile
+#EXTINF:-1 group-title="Premium-Extranjero", CNN Chile
 http://latiniptv.vip:8008/roman123/roman123/77389
-#EXTINF:-1 group-title="Roman123", CNN Chile (Alt.)
+#EXTINF:-1 group-title="Premium-Extranjero", CNN Chile (Alt.)
 http://latiniptv.vip:8008/roman123/roman123/77390
-#EXTINF:-1 group-title="Roman123", WIPR
-http://latiniptv.vip:8008/roman123/roman123/77623
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5K8QbNp/image.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Locomotion
