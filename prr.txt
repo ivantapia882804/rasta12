@@ -1913,7 +1913,7 @@ http://207.246.84.143:8080/hls/Kanade.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/b1st.png" group-title="TECNOBLACK MOBILE", Baby First
 http://miap.xyz/17/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="TECNOBLACK MOBILE", Cartoon Network
-http://miap.xyz/24/serverkey.m3u8|User-Agent=VLC/2.1.3 LibVLC/2.1.3
+http://miap.xyz/24/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dk.png" group-title="TECNOBLACK MOBILE", Discovery Kids
 http://miap.xyz/38/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="TECNOBLACK MOBILE", Disney Channel
