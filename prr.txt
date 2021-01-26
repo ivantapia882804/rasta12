@@ -714,232 +714,228 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/576/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8                                                                                                   --- .                          .
 
-#EXTINF:-1 group-title="wistream", 248 E
-http://187.189.119.135:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="wistream", 402 HBO
-http://187.189.119.135:8000/play/a01g/index.m3u8
-#EXTINF:-1 group-title="wistream", 230-A&E
-http://187.189.119.135:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="wistream", 132 APRE3
-http://187.189.119.135:8000/play/a03l/index.m3u8
-#EXTINF:-1 group-title="wistream", 316 ANIMP
-http://187.189.119.135:8000/play/a03z/index.m3u8
-#EXTINF:-1 group-title="wistream", 218 A3
-http://187.189.119.135:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="wistream", 133 APRE3
-http://187.189.119.135:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="wistream", 322 ARTS
-http://187.189.119.135:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="wistream", 216 A3S
-http://187.189.119.135:8000/play/a02p/index.m3u8
-#EXTINF:-1 group-title="wistream", 222 AXN
-http://187.189.119.135:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="wistream", 107 SIETE
-http://187.189.119.135:8000/play/a039/index.m3u8
-#EXTINF:-1 group-title="wistream", 101 UNO
+
+#EXTINF:-1 group-title="PlatoRojo", Azteca Uno
 http://187.189.119.135:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="wistream", 296 BABY
-http://187.189.119.135:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="wistream", 298 BOOME
-http://187.189.119.135:8000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="wistream", 352 CNNI
-http://187.189.119.135:8000/play/a032/index.m3u8
-#EXTINF:-1 group-title="wistream", 350 CNNE
-http://187.189.119.135:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="wistream", 117 CVSHP
-http://187.189.119.135:8000/play/a03t/index.m3u8
-#EXTINF:-1 group-title="wistream", 150 DHOME
-http://187.189.119.135:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="wistream", 200 DHOME
-http://187.189.119.135:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="wistream", 122 CAN22
-http://187.189.119.135:8000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="wistream", 304 CA222
-http://187.189.119.135:8000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="wistream", 300 DHOME
-http://187.189.119.135:8000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="wistream", 485 DHOME
-http://187.189.119.135:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="wistream", 489 DHOME
-http://187.189.119.135:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="wistream", 491 DHOME
-http://187.189.119.135:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="wistream", 105 CINCO
-http://187.189.119.135:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="wistream", 500 DHOME
-http://187.189.119.135:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="wistream", 106 SEIS
-http://187.189.119.135:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="wistream", 700 DHOME
-http://187.189.119.135:8000/play/a02h/index.m3u8
-#EXTINF:-1 group-title="wistream", 114 OPMA
-http://187.189.119.135:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="wistream", 145 CONGR
-http://187.189.119.135:8000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="wistream", 290 CN
-http://187.189.119.135:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="wistream", 382 CL
-http://187.189.119.135:8000/play/a01n/index.m3u8
-#EXTINF:-1 group-title="wistream", 378 CC
-http://187.189.119.135:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="wistream", 374 CMAX
-http://187.189.119.135:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="wistream", 336 CLARO
-http://187.189.119.135:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="wistream", 252 COMED
-http://187.189.119.135:8000/play/a02s/index.m3u8
-#EXTINF:-1 group-title="wistream", 308 DISC
-http://187.189.119.135:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="wistream", 236 H&H
-http://187.189.119.135:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="wistream", 202 DKIDS
-http://187.189.119.135:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="wistream", 238 DTURB
-http://187.189.119.135:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="wistream", 282 DISNY
-http://187.189.119.135:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="wistream", 283 DISJR
-http://187.189.119.135:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="wistream", 284 DXD
-http://187.189.119.135:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="wistream", 344 ESPN3
-http://187.189.119.135:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="wistream", 338 ESPN
-http://187.189.119.135:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="wistream", 342 ESPN2
-http://187.189.119.135:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="wistream", 272 EXA
-http://187.189.119.135:8000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="wistream", 224 FX
-http://187.189.119.135:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="wistream", 384 FXM
-http://187.189.119.135:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="wistream", 202 FOX
-http://187.189.119.135:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="wistream", 244 FLIFE
-http://187.189.119.135:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="wistream", 434 FOXAC
-http://187.189.119.135:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="wistream", 446 FOXCI
-http://187.189.119.135:8000/play/a022/index.m3u8
-#EXTINF:-1 group-title="wistream", 450 FOXCL
-http://187.189.119.135:8000/play/a03r/index.m3u8
-#EXTINF:-1 group-title="wistream", 438 FOXFA
-http://187.189.119.135:8000/play/a03q/index.m3u8
-#EXTINF:-1 group-title="wistream", 430 FOXMO
-http://187.189.119.135:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="wistream", 426 FOXSE
-http://187.189.119.135:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="wistream", 330 FOXSP
-http://187.189.119.135:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="wistream", 332 FOXS2
-http://187.189.119.135:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="wistream", 334 FOXS3
-http://187.189.119.135:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="wistream", 402 HBO
-http://187.189.119.135:8000/play/a02i/index.m3u8
-#EXTINF:-1 group-title="wistream", 414 HBOPL
-http://187.189.119.135:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="wistream", 406 HBO2
-http://187.189.119.135:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="wistream", 410 HBOFA
-http://187.189.119.135:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="wistream", 274 HTV
-http://187.189.119.135:8000/play/a02w/index.m3u8
-#EXTINF:-1 group-title="wistream", 422 HBOXT
-http://187.189.119.135:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="wistream", 320 H2
-http://187.189.119.135:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="wistream", 318 HISTO
-http://187.189.119.135:8000/play/a040/index.m3u8
-#EXTINF:-1 group-title="wistream", 246 HOLA
-http://187.189.119.135:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="wistream", 232 ISAT
-http://187.189.119.135:8000/play/a02r/index.m3u8
-#EXTINF:-1 group-title="wistream", 103 IMAGN
-http://187.189.119.135:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="wistream", 302 INGEN
-http://187.189.119.135:8000/play/a030/index.m3u8
-#EXTINF:-1 group-title="wistream", 234 ID
-http://187.189.119.135:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="wistream", 360 JUSTI
-http://187.189.119.135:8000/play/a035/index.m3u8
-#EXTINF:-1 group-title="wistream", 266 MEJOR
-http://187.189.119.135:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="wistream", 102 DOS
+#EXTINF:-1 group-title="PlatoRojo", Las Estrellas
 http://187.189.119.135:8000/play/a037/index.m3u8
-#EXTINF:-1 group-title="wistream", 242 LIFE
-http://187.189.119.135:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="wistream", 372 MC
-http://187.189.119.135:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="wistream", 262 MTVHE
-http://187.189.119.135:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="wistream", 260 MTV
-http://187.189.119.135:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="wistream", 204 MVSTV
-http://187.189.119.135:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="wistream", 356 MILEN
-http://187.189.119.135:8000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="wistream", 376 MP
-http://187.189.119.135:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="wistream", 294 NGKID
-http://187.189.119.135:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="wistream", 312 NGC
-http://187.189.119.135:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="wistream", 314 NGW
-http://187.189.119.135:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="wistream", 288 NJR
-http://187.189.119.135:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="wistream", 263 NMUSI
-http://187.189.119.135:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="wistream", 286 NICK
-http://187.189.119.135:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="wistream", 111 ONCE
+#EXTINF:-1 group-title="PlatoRojo", Imagen Television
+http://187.189.119.135:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Canal 5
+http://187.189.119.135:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Canal 6 CDMX
+http://187.189.119.135:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Azteca 7
+http://187.189.119.135:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Canal Once
 http://187.189.119.135:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="wistream", 280 ONC.2
-http://187.189.119.135:8000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="wistream", 388 PARAM
-http://187.189.119.135:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="wistream", 484 PLAY
-http://187.189.119.135:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="wistream", 362 RT
-http://187.189.119.135:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="wistream", 490 SEXTR
-http://187.189.119.135:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="wistream", 208 SONY
-http://187.189.119.135:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="wistream", 226 SPACE
-http://187.189.119.135:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="wistream", 386 STDIO
-http://187.189.119.135:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="wistream", 228 SYFY
-http://187.189.119.135:8000/play/a02q/index.m3u8
-#EXTINF:-1 group-title="wistream", 250 TBS
-http://187.189.119.135:8000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="wistream", 269 TLR
-http://187.189.119.135:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="wistream", 370 TNT
-http://187.189.119.135:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="wistream", 214 TNTS
-http://187.189.119.135:8000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="wistream", 120 UNAM
+#EXTINF:-1 group-title="PlatoRojo", Canal 14
+http://187.189.119.135:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", TV UNAM
 http://187.189.119.135:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="wistream", 358 TVC
-http://187.189.119.135:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="wistream", 240 TLC
-http://187.189.119.135:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="wistream", 354 TELEF
-http://187.189.119.135:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="wistream", 206 UNIVE
+#EXTINF:-1 group-title="PlatoRojo", Canal 22
+http://187.189.119.135:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Aprende En Casa III-2 (7.3 Nal/40.2 VM)
+http://187.189.119.135:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM)
+http://187.189.119.135:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Canal Del Congreso
+http://187.189.119.135:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Dish Home
+http://187.189.119.135:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", CVShopping
+http://187.189.119.135:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", NetTV Home
+http://187.189.119.135:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Fox Channel
+http://187.189.119.135:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", MVSTV
+http://187.189.119.135:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Universal TV
 http://187.189.119.135:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="wistream", 270 VH1E
-http://187.189.119.135:8000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="wistream", 488 VENUS
-http://187.189.119.135:8000/play/a024/index.m3u8
-#EXTINF:-1 group-title="wistream", 268 VROLA
-http://187.189.119.135:8000/play/a02u/index.m3u8
-#EXTINF:-1 group-title="wistream", 210 WBTV
+#EXTINF:-1 group-title="PlatoRojo", Sony Channel
+http://187.189.119.135:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Warner
 http://187.189.119.135:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", TNT Series
+http://187.189.119.135:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", A3Series
+http://187.189.119.135:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Antena 3 Internacional
+http://187.189.119.135:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", AXN
+http://187.189.119.135:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", FX
+http://187.189.119.135:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Space
+http://187.189.119.135:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", SYFY
+http://187.189.119.135:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", A&E
+http://187.189.119.135:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", I-Sat
+http://187.189.119.135:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Investigation Discovery
+http://187.189.119.135:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Discovery Home & Health
+http://187.189.119.135:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", TLC
+http://187.189.119.135:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Lifetime
+http://187.189.119.135:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Fox Life
+http://187.189.119.135:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Hola! TV
+http://187.189.119.135:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", E!
+http://187.189.119.135:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", TBS
+http://187.189.119.135:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Comedy Central
+http://187.189.119.135:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", MTV
+http://187.189.119.135:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", MTV Hits
+http://187.189.119.135:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Exa TV
+http://187.189.119.135:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", La Mejor TV
+http://187.189.119.135:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Video Rola
+http://187.189.119.135:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", VH1 Europe
+http://187.189.119.135:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", HTV
+http://187.189.119.135:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Teleritmo
+http://187.189.119.135:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Aprende En Casa III-1 (5.2/11.2)
+http://187.189.119.135:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Disney Channel
+http://187.189.119.135:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Disney Junior
+http://187.189.119.135:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Disney XD
+http://187.189.119.135:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Nick
+http://187.189.119.135:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Nickmusic
+http://187.189.119.135:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Cartoon Network
+http://187.189.119.135:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Nick Jr
+http://187.189.119.135:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Discovery Kids
+http://187.189.119.135:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", NatGeo Kids
+http://187.189.119.135:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Baby TV
+http://187.189.119.135:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Boomerang
+http://187.189.119.135:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Dish Home
+http://187.189.119.135:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Canal 22.2 (Espejo 3.2/20.1 Nal/45.3 VM DIF.)
+http://187.189.119.135:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Aprende En Casa III-4 (14.2)
+http://187.189.119.135:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Discovery
+http://187.189.119.135:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", National Geographic
+http://187.189.119.135:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", NatGeo Wild
+http://187.189.119.135:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Animal Planet
+http://187.189.119.135:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", History
+http://187.189.119.135:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", History 2
+http://187.189.119.135:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", ARTS
+http://187.189.119.135:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Fox Sports
+http://187.189.119.135:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Fox Sports 2
+http://187.189.119.135:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Fox Sports 3
+http://187.189.119.135:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Claro Sports
+http://187.189.119.135:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", ESPN 2
+http://187.189.119.135:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", ESPN
+http://187.189.119.135:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", ESPN 3
+http://187.189.119.135:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Discovery Turbo
+http://187.189.119.135:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", CNN En Espanol
+http://187.189.119.135:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", CNN International
+http://187.189.119.135:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", RT (Espanol)
+http://187.189.119.135:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Teleformula
+http://187.189.119.135:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Milenio Television
+http://187.189.119.135:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Canal TVC
+http://187.189.119.135:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Justicia TV
+http://187.189.119.135:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", TNT
+http://187.189.119.135:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", MC
+http://187.189.119.135:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Cinemax
+http://187.189.119.135:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Multipremier
+http://187.189.119.135:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Cinecanal
+http://187.189.119.135:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Cine Latino
+http://187.189.119.135:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", FXM
+http://187.189.119.135:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Studio Universal
+http://187.189.119.135:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Paramount Network
+http://187.189.119.135:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Dish Home
+http://187.189.119.135:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", HBO
+http://187.189.119.135:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", HBO 2
+http://187.189.119.135:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", HBO Family
+http://187.189.119.135:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", HBO Plus
+http://187.189.119.135:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", HBO Xtreme
+http://187.189.119.135:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Fox Premium Series
+http://187.189.119.135:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Fox Premium Movies
+http://187.189.119.135:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Fox Premium Action
+http://187.189.119.135:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Fox Premium Family
+http://187.189.119.135:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Fox Premium Cinema
+http://187.189.119.135:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Fox Premium Classics
+http://187.189.119.135:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Playboy
+http://187.189.119.135:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Venus
+http://187.189.119.135:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Sextreme
+http://187.189.119.135:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Dish Home
+http://187.189.119.135:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="PlatoRojo", Dish Home
+http://187.189.119.135:8000/play/a02h/index.m3u8
+
 
 #EXTINF:-1 group-title="wistream",AZMUNDO
 http://187.188.147.165:8000/play/a01n/index.m3u8
@@ -947,7 +943,7 @@ http://187.188.147.165:8000/play/a01n/index.m3u8
 http://187.188.147.165:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="wistream",Canal E
 http://187.188.147.165:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="wistream",las estrellas
+#EXTINF:-1 group-title="wistream",las estrellas latinoamerica
 http://187.188.147.165:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="wistream",Cinecanal
 http://187.188.147.165:8000/play/a00r/index.m3u8
@@ -957,7 +953,7 @@ http://187.188.147.165:8000/play/a01i/index.m3u8
 http://187.188.147.165:8000/play/a008/index.m3u8
 #EXTINF:-1 group-title="wistream",Discovery Civilization
 http://187.188.147.165:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="wistream",Discovery HH
+#EXTINF:-1 group-title="wistream",Discovery Homme & Health
 http://187.188.147.165:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="wistream",Discovery Science
 http://187.188.147.165:8000/play/a00p/index.m3u8
@@ -965,11 +961,11 @@ http://187.188.147.165:8000/play/a00p/index.m3u8
 http://187.188.147.165:8000/play/a01m/index.m3u8
 #EXTINF:-1 group-title="wistream",ESPN +
 http://187.188.147.165:8000/play/a00bb/index.m3u8
-#EXTINF:-1 group-title="wistream",ESPN 2 HD
+#EXTINF:-1 group-title="wistream",ESPN
 http://187.188.147.165:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="wistream",ESPN 3 HD
+#EXTINF:-1 group-title="wistream",ESPN 3
 http://187.188.147.165:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="wistream",ESPN HD eth1
+#EXTINF:-1 group-title="wistream",ESPN 2
 http://187.188.147.165:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="wistream",FOX FAMILy
 http://187.188.147.165:8000/play/a026/index.m3u8
@@ -977,7 +973,7 @@ http://187.188.147.165:8000/play/a026/index.m3u8
 http://187.188.147.165:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="wistream",Fox Cinema
 http://187.188.147.165:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="wistream",Fox MX HD
+#EXTINF:-1 group-title="wistream",Fox Channel
 http://187.188.147.165:8000/play/a02b/index.m3u8
 #EXTINF:-1 group-title="wistream",Fox Movies
 http://187.188.147.165:8000/play/a027/index.m3u8
@@ -985,7 +981,7 @@ http://187.188.147.165:8000/play/a027/index.m3u8
 http://187.188.147.165:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="wistream",Fox Sports 3
 http://187.188.147.165:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="wistream",Glizt
+#EXTINF:-1 group-title="wistream",Glitz
 http://187.188.147.165:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="wistream",HBO PLUS HD
 http://187.188.147.165:8000/play/a01b/index.m3u8
@@ -1007,11 +1003,7 @@ http://187.188.147.165:8000/play/a012/index.m3u8
 http://187.188.147.165:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="wistream",TUDN
 http://187.188.147.165:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="wistream",TVE
-http://187.188.147.165:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="wistream",Unan
-http://187.188.147.165:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="wistream",Unicable
+#EXTINF:-1 group-title="wistream",Univision Latinoamerica
 http://187.188.147.165:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="wistream",VENUS
 http://187.188.147.165:8000/play/a01d/index.m3u8
@@ -1544,6 +1536,7 @@ http://45.182.127.235:8000/play/a00b
 http://45.182.127.235:8000/play/a02c
 #EXTINF:-1 group-title="wistream",Warner
 http://45.182.127.235:8000/play/a020
+
 #EXTINF:-1 group-title="wistream",24 Horas
 http://45.160.73.129:8000/play/a00m
 #EXTINF:-1 group-title="wistream",A&E
