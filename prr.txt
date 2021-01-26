@@ -1058,7 +1058,7 @@ http://181.43.89.9:8000/play/a013
 http://181.43.89.9:8000/play/a00o
 #EXTINF:-1 group-title="wistream",DISNEY JR
 http://181.43.89.9:8000/play/a00s
-#EXTINF:-1 group-title="wistream",DISNEY 😆
+#EXTINF:-1 group-title="wistream",DISNEY XD
 http://181.43.89.9:8000/play/a01m
 #EXTINF:-1 group-title="wistream",DTV SPORT
 http://181.43.89.9:8000/play/a028
@@ -1176,6 +1176,8 @@ http://181.43.89.9:8000/play/a02d
 http://181.43.89.9:8000/play/a01z
 #EXTINF:-1 group-title="wistream",ZONA LATINA
 http://181.43.89.9:8000/play/a00z
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/tntsp.png" group-title="wistream", TNT Sports
 https://blackghost.live/get/wistream.php?cat=latinos&ch=tnt-sports&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/Emblems/foxsppre.png" group-title="wistream", Fox Sports premium
@@ -2284,18 +2286,6 @@ http://tv.masterplaytv.xyz:8000/LTN737/7647385926/989?blackghost
 http://tv.masterplaytv.xyz:8000/LTN737/7647385926/990?blackghost
 #EXTINF:-1 group-title="Lista 25 Blackghost",ECU-Directv Sports (e)(SD)
 http://tv.masterplaytv.xyz:8000/LTN737/7647385926/991?blackghost
-#EXTINF:-1 group-title="Lista 25 Blackghost",HON-Tigo Sports (M)(1080)
-http://tv.masterplaytv.xyz:8000/LTN737/7647385926/5350?blackghost
-#EXTINF:-1 group-title="Lista 25 Blackghost",HON-Tigo Sports (TV)(1080)
-http://tv.masterplaytv.xyz:8000/LTN737/7647385926/54958?blackghost
-#EXTINF:-1 group-title="Lista 25 Blackghost",MEX-Aym Sports (M)(SD)
-http://tv.masterplaytv.xyz:8000/LTN737/7647385926/26700?blackghost
-#EXTINF:-1 group-title="Lista 25 Blackghost",MEX-TVC Deportes (M)(1080)
-http://tv.masterplaytv.xyz:8000/LTN737/7647385926/26966?blackghost
-#EXTINF:-1 group-title="Lista 25 Blackghost",MEX-TVC Deportes (M)(SD)
-http://tv.masterplaytv.xyz:8000/LTN737/7647385926/1363?blackghost
-#EXTINF:-1 group-title="Lista 25 Blackghost",MEX-TVC Deportes (M)(SD)
-http://tv.masterplaytv.xyz:8000/LTN737/7647385926/26701?blackghost
 #EXTINF:-1 group-title="Lista 25 Blackghost",PAN-Cable Onda Sports (M)(1080)
 http://tv.masterplaytv.xyz:8000/LTN737/7647385926/58455?blackghost
 #EXTINF:-1 group-title="Lista 25 Blackghost",PAN-Cable Onda Sports FC (M)(1080)
@@ -2306,16 +2296,6 @@ http://tv.masterplaytv.xyz:8000/LTN737/7647385926/3753?blackghost
 http://tv.masterplaytv.xyz:8000/LTN737/7647385926/1230?blackghost
 #EXTINF:-1 group-title="Lista 25 Blackghost",PAR-Tigo Sports (TV)(720)
 http://tv.masterplaytv.xyz:8000/LTN737/7647385926/53750?blackghost
-#EXTINF:-1 group-title="Lista 25 Blackghost",PER-Movistar Deportes (M)(1080)
-http://tv.masterplaytv.xyz:8000/LTN737/7647385926/645?blackghost
-#EXTINF:-1 group-title="Lista 25 Blackghost",PER-Movistar Deportes (TV)(720)
-http://tv.masterplaytv.xyz:8000/LTN737/7647385926/53792?blackghost
-#EXTINF:-1 group-title="Lista 25 Blackghost",INF-Nat Geo Kids (M)(1080)
-http://tv.masterplaytv.xyz:8000/LTN737/7647385926/1385?blackghost
-#EXTINF:-1 group-title="Lista 25 Blackghost",DEPORTES - Bein Sport U (M)(720)
-http://tv.masterplaytv.xyz:8000/LTN737/7647385926/2876?blackghost
-#EXTINF:-1 group-title="Lista 25 Blackghost",DEPORTES - beIN Sports U (TV)(720)
-http://tv.masterplaytv.xyz:8000/LTN737/7647385926/59426?blackghost
 #EXTINF:-1 group-title="Lista 25 Blackghost",ARG-26TV (M)
 http://tv.masterplaytv.xyz:8000/LTN737/7647385926/22091?blackghost
 #EXTINF:-1 group-title="Lista 25 Blackghost",ARG-A24 (TV)(1080)
@@ -2674,8 +2654,6 @@ http://tv.masterplaytv.xyz:8000/LTN737/7647385926/59877?blackghost
 http://tv.masterplaytv.xyz:8000/LTN737/7647385926/22164?blackghost
 #EXTINF:-1 group-title="Lista 25 Blackghost",PER-Willax (TV)(720)
 http://tv.masterplaytv.xyz:8000/LTN737/7647385926/68791?blackghost
-#EXTINF:-1 group-title="Lista 25 Blackghost",NHL PPV 5 (tr)(PPV)
-http://tv.masterplaytv.xyz:8000/LTN737/7647385926/68978?blackghost
 #EXTINF:-1 group-title="Lista 25 Blackghost",NOT-BBC World News (M)(720)
 http://tv.masterplaytv.xyz:8000/LTN737/7647385926/1295?blackghost
 #EXTINF:-1 group-title="Lista 25 Blackghost",NOT-CNN International (M)(SD)
@@ -3116,8 +3094,6 @@ http://tv.masterplaytv.xyz:8000/LTN737/7647385926/1086?blackghost
 http://tv.masterplaytv.xyz:8000/LTN737/7647385926/1087?blackghost
 #EXTINF:-1 group-title="Lista 25 Blackghost",ESP-Accion (M)(720)
 http://tv.masterplaytv.xyz:8000/LTN737/7647385926/4818?blackghost
-#EXTINF:-1 group-title="Lista 25 Blackghost",Ed, Edd y Eddy (e)
-http://tv.masterplaytv.xyz:8000/LTN737/7647385926/37853?blackghost
 #EXTINF:-1 group-title="Lista 25 Blackghost",ECU-Canal Del Futbol (PM)(SD)
 http://tv.masterplaytv.xyz:8000/LTN737/7647385926/65388?blackghost
 #EXTINF:-1 group-title="Lista 25 Blackghost",ECU-Canal Uno (M)
