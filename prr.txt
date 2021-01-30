@@ -1196,6 +1196,138 @@ http://blackghost.live/play/wistream-129.php?cat=infantiles&ch=pakapaka&f=.m3u8
 http://blackghost.live/play/wistream-129.php?cat=infantiles&ch=kidstv&f=.m3u8
 
 
+#EXTINF:-1 group-title="VTR",amc
+http://nano.zappingtv.com:1935/amc/live2/chunklist.m3u8
+#EXTINF:-1 group-title="VTR",Cinecanal
+http://nano.zappingtv.com:1935/cinecanal/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Eurochannel
+http://nano.zappingtv.com:1935/eurochannel/rtes.smil/chunklist_b2828000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Fox Classics
+http://nano.zappingtv.com:1935/foxclassics/foxclassicsmobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Fox Comedy
+http://nano.zappingtv.com:1935/foxcomedy/foxmoviesmobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Fox Family
+http://nano.zappingtv.com:1935/foxfamily/foxmoviesmobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Fox Movies
+http://nano.zappingtv.com:1935/foxmovies/foxmoviesmobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",FX
+http://nano.zappingtv.com:1935/fx/fx.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",FX Movies
+http://nano.zappingtv.com:1935/fxmovies/live2/chunklist.m3u8
+#EXTINF:-1 group-title="VTR",Space
+http://nano.zappingtv.com:1935/space/world.smil/chunklist_b3828000_sles.m3u8
+#EXTINF:-1 group-title="VTR",tcm
+http://nano.zappingtv.com:1935/tcm/tcm.smil/chunklist_b2128000_sles.m3u8
+#EXTINF:-1 group-title="VTR",TNT
+http://nano.zappingtv.com:1935/tnt/tnt.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",TNT Series
+http://nano.zappingtv.com:1935/tntseries/tnt.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Fox Series
+http://nano.zappingtv.com:1935/foxseries/foxmoviesmobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Animal Planet
+http://nano.zappingtv.com:1935/animalplanet/mobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Discovery Science
+http://nano.zappingtv.com:1935/science/live2/chunklist.m3u8
+#EXTINF:-1 group-title="VTR",Discovery Theater
+http://nano.zappingtv.com:1935/theater/live2/chunklist.m3u8
+#EXTINF:-1 group-title="VTR",Discovery Turbo
+http://nano.zappingtv.com:1935/turbo/world.smil/chunklist_b3828000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Discovery World
+http://nano.zappingtv.com:1935/discovery/world.smil/chunklist_b3828000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Home & Garden
+http://nano.zappingtv.com:1935/hgtv/default.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Home & Health
+http://nano.zappingtv.com:1935/homeandhealth/fox.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",NatGeo
+http://nano.zappingtv.com:1935/ng/ng.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",NatGeo Wild
+http://nano.zappingtv.com:1935/ngwild/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",CDF Basico
+http://nano.zappingtv.com:1935/cdfb/cdfbasico.smil/chunklist_b4328000_sles.m3u8
+#EXTINF:-1 group-title="VTR",CDF HD
+http://nano.zappingtv.com:1935/cdfhdo/cdfhdmobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Espn Extra
+http://nano.zappingtv.com:1935/espnplus/fsmobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Fox Sports
+http://nano.zappingtv.com:1935/foxsportsb/espn.smil/chunklist_b728000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Fox Sports 1
+http://nano.zappingtv.com:1935/foxsports1/espn.smil/chunklist_b5328000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Fox Sports 2
+http://nano.zappingtv.com:1935/foxsports2/fsmobile.smil/live.m3u8
+#EXTINF:-1 group-title="VTR",Fox Sports 3
+http://nano.zappingtv.com:1935/foxsports3/espn.smil/chunklist_b5328000_sles.m3u8
+#EXTINF:-1 group-title="VTR",GINX Esports TV
+http://nano.zappingtv.com:1935/ginx/ginx.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Golf Channel
+http://nano.zappingtv.com:1935/golfchannel/rtes.smil/chunklist_b2828000_sles.m3u8
+#EXTINF:-1 group-title="VTR",El Gourmet
+http://nano.zappingtv.com:1935/gourmet/gourmet.smil/chunklist_b4128000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Europa Europa
+http://nano.zappingtv.com:1935/europa/europa.smil/chunklist_b4128000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Film & Arts
+http://nano.zappingtv.com:1935/filmandart/filmandart.smil/chunklist_b4128000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Food Network
+http://nano.zappingtv.com:1935/foodnetwork/default.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Fox Channel
+http://nano.zappingtv.com:1935/fox/fox.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Fox Life
+http://nano.zappingtv.com:1935/foxlife/fox.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",ID
+http://nano.zappingtv.com:1935/id/mobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Maschic
+http://nano.zappingtv.com:1935/maschic/maschic.smil/chunklist_b4128000_sles.m3u8
+#EXTINF:-1 group-title="VTR",TLC
+http://nano.zappingtv.com:1935/tlc/world.smil/chunklist_b3828000_sles.m3u8
+#EXTINF:-1 group-title="VTR",ETC TV
+http://nano.zappingtv.com:1935/etctv/etctv.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Baby TV
+http://nano.zappingtv.com:1935/babytv/babytv.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Boomerang
+http://nano.zappingtv.com:1935/boomerang/boomerang.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Cartoon Network
+http://nano.zappingtv.com:1935/cn/world.smil/chunklist_b3828000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Discovery Kids
+http://nano.zappingtv.com:1935/discoverykids/world.smil/chunklist_b3828000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Disney
+http://nano.zappingtv.com:1935/disney/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Disney Jr
+http://nano.zappingtv.com:1935/disneyjr/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Disney XD
+http://nano.zappingtv.com:1935/disneyxd/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",NatGeo Kids
+http://nano.zappingtv.com:1935/ngkids/ng.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Tateti
+http://nano.zappingtv.com:1935/tateti/tvmas.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Tooncast
+http://nano.zappingtv.com:1935/tooncast/cnnes.smil/chunklist_b2128000_sles.m3u8
+#EXTINF:-1 group-title="VTR",HTV
+http://nano.zappingtv.com:1935/htv/htv.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Canal 24 Horas
+http://nano.zappingtv.com:1935/24h/24h.smil/chunklist_b1928000_sles.m3u8
+#EXTINF:-1 group-title="VTR",CNN Chile
+http://nano.zappingtv.com:1935/cnnchile/cnnchile.smil/chunklist_b1928000_sles.m3u8
+#EXTINF:-1 group-title="VTR",CNN Español
+http://nano.zappingtv.com:1935/cnnes/cnnesmobile.smil/chunklist_b1128000_sles.m3u8
+#EXTINF:-1 group-title="VTR",NASA TV
+http://nano.zappingtv.com:1935/nasatv/nasatv.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",T13
+http://nano.zappingtv.com:1935/132/132.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",13c
+http://nano.zappingtv.com:1935/13c/13c.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Canal 13
+http://nano.zappingtv.com:1935/13/13h.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",La Red
+http://nano.zappingtv.com:1935/lared/tvmas.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Mega Plus
+http://nano.zappingtv.com:1935/megaplus/megaplus.smil/chunklist_b3128000_sles.m3u8
+#EXTINF:-1 group-title="VTR",Rec TV
+http://nano.zappingtv.com:1935/rectv/rectv.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",TV+
+http://nano.zappingtv.com:1935/tvm/tvmas.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 group-title="VTR",UCV3
+http://nano.zappingtv.com:1935/ucv3o/ucv3.smil/chunklist_b2128000_sles.m3u8
+
+
 #EXTINF:-1 group-title="wistream",AZMUNDO
 http://187.188.147.165:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="wistream",Azteca Uno
@@ -2037,265 +2169,6 @@ https://tv.teleclub.xyz/emma/APOYA-A-TELECLUB-GRACIAS?plutotv=MISTERIOSMEDICOS&f
 https://tv.teleclub.xyz/emma/APOYA-A-TELECLUB-GRACIAS?plutotv=NARCOS&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="TeleClub", PlutoTV | The Walking Dead
 https://tv.teleclub.xyz/emma/APOYA-A-TELECLUB-GRACIAS?plutotv=THEWALKINGDEAD&format=.m3u8
-
-
-#EXTINF:-1  group-title="TeleGratis",Azteca 7 
-http://blackghost.live/play/telegratis-126.php?id=azteca-7-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Canal 5 
-http://blackghost.live/play/telegratis-126.php?id=canal-5-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",TUDN 
-http://blackghost.live/play/telegratis-126.php?id=tudn-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Latina 
-http://blackghost.live/play/telegratis-126.php?id=latina-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",America TV 
-http://blackghost.live/play/telegratis-126.php?id=america-tv-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",GOLPERU 
-http://blackghost.live/play/telegratis-126.php?id=gol-peru-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",GOL TV 
-http://blackghost.live/play/telegratis-126.php?id=gol-tv-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",CDF Premium 
-http://blackghost.live/play/telegratis-126.php?id=cdf-premium-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Win Sports 
-http://blackghost.live/play/telegratis-126.php?id=win-sports-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",TNT Sports 
-http://blackghost.live/play/telegratis-126.php?id=tnt-sports-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Fox Premium 
-http://blackghost.live/play/telegratis-126.php?id=fox-sports-premium-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",TYC Sports 
-http://blackghost.live/play/telegratis-126.php?id=tyc-sports-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Fox Sports Sur
-http://blackghost.live/play/telegratis-126.php?id=fox-sports-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Fox Sports 2 Sur
-http://blackghost.live/play/telegratis-126.php?id=fox-sports-2-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Fox Sports 3 Sur
-http://blackghost.live/play/telegratis-126.php?id=fox-sports-3-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",ESPN Deportes 
-http://blackghost.live/play/telegratis-126.php?id=espn-deportes-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",ESPN Extra
-http://blackghost.live/play/telegratis-126.php?id=espn-plus-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",ESPN Sur
-http://blackghost.live/play/telegratis-126.php?id=espn-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",ESPN 2 Sur
-http://blackghost.live/play/telegratis-126.php?id=espn-2-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",ESPN 3 Sur
-http://blackghost.live/play/telegratis-126.php?id=espn-3-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Directv Sports 
-http://blackghost.live/play/telegratis-126.php?id=directv-sports-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Directv Sports 2 
-http://blackghost.live/play/telegratis-126.php?id=directv-sports-2-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Directv Sports Plus 
-http://blackghost.live/play/telegratis-126.php?id=directv-sports-plus-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Bein La Liga 
-http://blackghost.live/play/telegratis-126.php?id=bein-la-liga-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Fox Sports
-http://blackghost.live/play/telegratis-126.php?id=fox-sports-mexico-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Fox Sports 2
-http://blackghost.live/play/telegratis-126.php?id=fox-sports-2-mexico-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Fox Sports 3
-http://blackghost.live/play/telegratis-126.php?id=fox-sports-3-mexico-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",ESPN
-http://blackghost.live/play/telegratis-126.php?id=espn-mexico-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",ESPN 2
-http://blackghost.live/play/telegratis-126.php?id=espn-2-mexico-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",ESPN 3
-http://blackghost.live/play/telegratis-126.php?id=espn-3-mexico-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Afizzionados 
-http://blackghost.live/play/telegratis-126.php?id=izzi-afizzionados-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",HBO 
-http://blackghost.live/play/telegratis-126.php?id=hbo-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",HBO 2 
-http://blackghost.live/play/telegratis-126.php?id=hbo-2-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",FOX PREMIUM ACTION 
-http://blackghost.live/play/telegratis-126.php?id=fox-premium-action-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",FOX PREMIUM SERIES 
-http://blackghost.live/play/telegratis-126.php?id=fox-premium-series-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Space 
-http://blackghost.live/play/telegratis-126.php?id=space-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Warner Bros TV 
-http://blackghost.live/play/telegratis-126.php?id=warner-bros-tv-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",TNT 
-http://blackghost.live/play/telegratis-126.php?id=tnt-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Fox 
-http://blackghost.live/play/telegratis-126.php?id=fox-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Cinemax 
-http://blackghost.live/play/telegratis-126.php?id=cinemax-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Cinecanal 
-http://blackghost.live/play/telegratis-126.php?id=cinecanal-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Syfy 
-http://blackghost.live/play/telegratis-126.php?id=syfy-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Telefe 
-http://blackghost.live/play/telegratis-126.php?id=telefe-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",El Trece 
-http://blackghost.live/play/telegratis-126.php?id=el-trece-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Distrito Comedia 
-http://blackghost.live/play/telegratis-126.php?id=distrito-comedia-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Telemundo 
-http://blackghost.live/play/telegratis-126.php?id=telemundo-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",History 
-http://blackghost.live/play/telegratis-126.php?id=history-channel-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",History 2 
-http://blackghost.live/play/telegratis-126.php?id=history-2-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Pasiones 
-http://blackghost.live/play/telegratis-126.php?id=pasiones-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Azteca Uno 
-http://blackghost.live/play/telegratis-126.php?id=azteca-uno-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Mundo 
-http://blackghost.live/play/telegratis-126.php?id=az-mundo-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Cinema 
-http://blackghost.live/play/telegratis-126.php?id=az-cinema-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Galavision 
-http://blackghost.live/play/telegratis-126.php?id=galavision-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Tlnovelas 
-http://blackghost.live/play/telegratis-126.php?id=tlnovelas-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Las Estrellas 
-http://blackghost.live/play/telegratis-126.php?id=las-estrellas-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Caracol 
-http://blackghost.live/play/telegratis-126.php?id=caracol-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",TVC Deportes 
-http://blackghost.live/play/telegratis-126.php?id=tvc-deportes-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",ATV
-http://blackghost.live/play/telegratis-126.php?id=atv-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Univision 
-http://blackghost.live/play/telegratis-126.php?id=univision-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Unicable 
-http://blackghost.live/play/telegratis-126.php?id=unicable-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Unimas 
-http://blackghost.live/play/telegratis-126.php?id=unimas-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Imagen Televisión
-http://blackghost.live/play/telegratis-126.php?id=imagen-tv-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Cnn Espanol 
-http://blackghost.live/play/telegratis-126.php?id=cnn-espanol-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",rt noticias 
-http://blackghost.live/play/telegratis-126.php?id=rt-noticias-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Fox Premium Movies 
-http://blackghost.live/play/telegratis-126.php?id=fox-premium-movies-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Fox Premium Family 
-http://blackghost.live/play/telegratis-126.php?id=fox-premium-family-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",FX 
-http://blackghost.live/play/telegratis-126.php?id=fx-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",FXM 
-http://blackghost.live/play/telegratis-126.php?id=fxm-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Fox Life 
-http://blackghost.live/play/telegratis-126.php?id=fox-life-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Golden Plus 
-http://blackghost.live/play/telegratis-126.php?id=golden-plus-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Golden Edge 
-http://blackghost.live/play/telegratis-126.php?id=golden-edge-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Golden Premier 
-http://blackghost.live/play/telegratis-126.php?id=golden-premier-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",HBO Plus 
-http://blackghost.live/play/telegratis-126.php?id=hbo-plus-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",HBO Family 
-http://blackghost.live/play/telegratis-126.php?id=hbo-family-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",HBO Xtreme 
-http://blackghost.live/play/telegratis-126.php?id=hbo-xtreme-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",HBO POP 
-http://blackghost.live/play/telegratis-126.php?id=hbo-pop-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",TNT Series 
-http://blackghost.live/play/telegratis-126.php?id=tnt-series-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Sony Channel
-http://blackghost.live/play/telegratis-126.php?id=canal-sony-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",AXN
-http://blackghost.live/play/telegratis-126.php?id=axn-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Universal TV
-http://blackghost.live/play/telegratis-126.php?id=universal-channel-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Studio Universal 
-http://blackghost.live/play/telegratis-126.php?id=studio-universal-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Multipremier 
-http://blackghost.live/play/telegratis-126.php?id=multi-premier-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",AMC 
-http://blackghost.live/play/telegratis-126.php?id=amc-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Paramount Network
-http://blackghost.live/play/telegratis-126.php?id=paramount-channel-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Cine Latino 
-http://blackghost.live/play/telegratis-126.php?id=cine-latino-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Dpelicula 
-http://blackghost.live/play/telegratis-126.php?id=dpelicula-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",I-Sat 
-http://blackghost.live/play/telegratis-126.php?id=isat-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",MTV 
-http://blackghost.live/play/telegratis-126.php?id=mtv-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",MTV Hits 
-http://blackghost.live/play/telegratis-126.php?id=mtv-hits-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",HTV 
-http://blackghost.live/play/telegratis-126.php?id=htv-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Bandamax 
-http://blackghost.live/play/telegratis-126.php?id=bandamax-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Comedy Central 
-http://blackghost.live/play/telegratis-126.php?id=comedy-central-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",National Geographic 
-http://blackghost.live/play/telegratis-126.php?id=national-geographic-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Nat Geo Wild 
-http://blackghost.live/play/telegratis-126.php?id=nat-geo-wild-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Animal Planet 
-http://blackghost.live/play/telegratis-126.php?id=animal-planet-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Discovery
-http://blackghost.live/play/telegratis-126.php?id=discovery-channel-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Discovery Turbo 
-http://blackghost.live/play/telegratis-126.php?id=discovery-turbo-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Discovery Home & Health
-http://blackghost.live/play/telegratis-126.php?id=discovery-home-and-health-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Investigation Discovery
-http://blackghost.live/play/telegratis-126.php?id=id-investigation-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",A&E 
-http://blackghost.live/play/telegratis-126.php?id=discovery-a-y-e-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",TLC 
-http://blackghost.live/play/telegratis-126.php?id=discovery-tlc-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Discovery Theater HD
-http://blackghost.live/play/telegratis-126.php?id=discovery-theater-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Discovery World HD
-http://blackghost.live/play/telegratis-126.php?id=discovery-world-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",E!
-http://blackghost.live/play/telegratis-126.php?id=everything-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Lifetime 
-http://blackghost.live/play/telegratis-126.php?id=lifetime-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",TBS 
-http://blackghost.live/play/telegratis-126.php?id=tbs-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",el gourmet 
-http://blackghost.live/play/telegratis-126.php?id=el-gourmet-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Disney Channel 
-http://blackghost.live/play/telegratis-126.php?id=disney-channel-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Disney xD 
-http://blackghost.live/play/telegratis-126.php?id=disney-xd-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Disney Junior 
-http://blackghost.live/play/telegratis-126.php?id=disney-junior-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Nick 
-http://blackghost.live/play/telegratis-126.php?id=nick-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Teennick
-http://blackghost.live/play/telegratis-126.php?id=nick-2-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",nick jr.
-http://blackghost.live/play/telegratis-126.php?id=nick-jr-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Cartoon Network 
-http://blackghost.live/play/telegratis-126.php?id=cartoon-network-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Boomerang 
-http://blackghost.live/play/telegratis-126.php?id=boomerang-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Tooncast 
-http://blackghost.live/play/telegratis-126.php?id=tooncast-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Discovery Kids 
-http://blackghost.live/play/telegratis-126.php?id=discovery-kids-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Nat Geo Kids 
-http://blackghost.live/play/telegratis-126.php?id=nat-geo-kids-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Boing 
-http://blackghost.live/play/telegratis-126.php?id=boing-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",VH1
-http://blackghost.live/play/telegratis-126.php?id=vh1-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Nickmusic
-http://blackghost.live/play/telegratis-126.php?id=nicktoons-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",MTV 80s
-http://blackghost.live/play/telegratis-126.php?id=vh1-classic-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Telehit Música Plus 
-http://blackghost.live/play/telegratis-126.php?id=telehit-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",Top Latino 
-http://blackghost.live/play/telegratis-126.php?id=top-latino-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",WWE Network 
-http://blackghost.live/play/telegratis-126.php?id=wwe-network-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",NBA 
-http://blackghost.live/play/telegratis-126.php?id=nba-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="TeleGratis",NFL Network 
-http://blackghost.live/play/telegratis-126.php?id=nfl-network-en-vivo&f=.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO", USA Network
