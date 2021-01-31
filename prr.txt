@@ -383,6 +383,23 @@ http://cinematicket.club/cantp.php?c=2091&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=2402&p=3&k=tecnotv&f=.m3u8 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa", Aprende En Casa III-1 (5.2/11.2)
+https://5e307acc9a171.streamlock.net:1936/canalcatorce/canalcatorce/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa", Aprende En Casa III-1 (5.2/11.2) (Alt.)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/472/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa", Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM)
+https://5e307acc9a171.streamlock.net:1936/prueba/prueba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa", Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM) (Alt.)
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa", Aprende En Casa III-4 (14.2/22.1 Nal)
+https://5e307acc9a171.streamlock.net:1936/stream/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa", Aprende En Casa III-4 (6.3) (Alt.)
+http://mdstrm.com/live-stream-playlist_2500/5cfe8974ef9acc25607a7dec.m3u8?
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa", Aprende En Casa III-4 (14.2/22.1 Nal) (Alt.)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/469/12?f=.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="SOLO PARA ROKOOS", Azteca Uno
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/495/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="SOLO PARA ROKOOS", Las Estrellas
