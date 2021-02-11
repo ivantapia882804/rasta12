@@ -389,7 +389,7 @@ http://mdstrm.com/live-stream-playlist_2500/5cfe8974ef9acc25607a7dec.m3u8?
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/469/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa", Aprende En Casa III-1 (5.2/11.2)
 http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa", Aprende En Casa III-1 (5.2/11.2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa", Aprende En Casa III-4 (6.3/22.1 Nal)
 http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch02)/index.m3u8
 
 
@@ -1739,6 +1739,291 @@ https://blackghost.live/play/catorce-208.php?c=41&f=.m3u8
 https://blackghost.live/play/catorce-208.php?c=14&f=.m3u8
 #EXTINF:-1 group-title="Lista 14",Italy - Rai Italy
 https://blackghost.live/play/catorce-208.php?c=647
+
+
+#EXTINF:-1 tvg-logo="/logos/tntsports.png" group-title="Lista 16",TNT SPORTS
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=tnt-sports&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/fox-sports-premium1.png" group-title="Lista 16",FOX SPORTS PREMIUM
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=fox-sports-premium&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/tudn.png" group-title="Lista 16",TUDN
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=tudn&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/goltvlatino.png" group-title="Lista 16",GOLTV Latino en vivo Online
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=goltvlatino&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/beinlatino.png" group-title="Lista 16",Bein Sports Latino en vivo Online
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=beinlatino&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/vtv.png" group-title="Lista 16",VTV URUGUAY
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=vtv&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/caracoltv.png" group-title="Lista 16",CARACOL TV
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=caracoltv&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/golperu.png" group-title="Lista 16",GOL PERU
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=golperu&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/cdf.png" group-title="Lista 16",CDF
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=cdfpremium&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxsports1ar.png" group-title="Lista 16",FOX SPORTS ARGENTINA
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=fox-sports1ar&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxsports2ar.png" group-title="Lista 16",FOX SPORTS 2 ARGENTINA
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=fox-sports2ar&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxsports3ar.png" group-title="Lista 16",FOX SPORTS 3 ARGENTINA
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=fox-sports3ar&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/espnar.png" group-title="Lista 16",ESPN ARGENTINA
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=espn1ar&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/espn2ar.png" group-title="Lista 16",ESPN 2 ARGENTINA
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=espn2ar&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/espn3ar.png" group-title="Lista 16",ESPN 3 ARGENTINA
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=espn3ar&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxsports1mx.png" group-title="Lista 16",FOX SPORTS MEXICO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=fox-sports1mx&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxsports2mx.png" group-title="Lista 16",FOX SPORTS 2 MEXICO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=fox-sports2mx&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxsports3mx.png" group-title="Lista 16",FOX SPORTS 3 MEXICO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=fox-sports3mx&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/espnmx.png" group-title="Lista 16",ESPN MEXICO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=espn1mx&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/espn2mx.png" group-title="Lista 16",ESPN 2 MEXICO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=espn2mx&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/espn3mx.png" group-title="Lista 16",ESPN 3 MEXICO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=espn3mx&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/espnmasar.png" group-title="Lista 16",ESPN + ARGENTINA
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=espn+ar&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/directvsports.png" group-title="Lista 16",DIRECTV SPORTS
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=directv-sports&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/directvsports2.png" group-title="Lista 16",DIRECTV SPORTS 2
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=directv-sports2&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/directv-sports-plus.png" group-title="Lista 16",DIRECTV SPORTS PLUS
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=directv-sports-plus&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/tyc.png" group-title="Lista 16",TYC SPORTS
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=tyc&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/golflatino.png" group-title="Lista 16",GOLF CHANNEL
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=golflatino&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxaction.png" group-title="Lista 16",FOX PREMIUM ACTION
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=foxaction&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/adrenalinatv.png" group-title="Lista 16",ADRENALINA SPORTS
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=adrenalinatv&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/aym.png" group-title="Lista 16",AYM SPORTS
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=aymsports&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/univisiondeportes.png" group-title="Lista 16",UNIVISION DEPORTES
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=univisiondeportes&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/win.png" group-title="Lista 16",WIN SPORTS
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=winsports&f=.m2u8
+
+#EXTINF:-1 tvg-logo="/logos/telefe.png" group-title="Lista 16",TELEFE
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=telefe&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/eltrece.png" group-title="Lista 16",EL TRECE
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=eltrece&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/america2.png" group-title="Lista 16",AMERICA TV
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=america2&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/tvpublica.png" group-title="Lista 16",TV PUBLICA
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=tvpublica&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/tn.png" group-title="Lista 16",TN ARGENTINA
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=tn&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/c5n.png" group-title="Lista 16",C5N ARGENTINA
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=c5n&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/canalnueve.png" group-title="Lista 16",EL NUEVE
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=canal9ar&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/canal26.png" group-title="Lista 16",CANAL 26
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=canal26ar&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/cronicatv.png" group-title="Lista 16",CRONICA TV
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=cronicatv&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/ciudadmagazine.png" group-title="Lista 16",CIUDAD MAGAZINE
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=ciudadmagazine&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/a24.png" group-title="Lista 16",A 24
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=a24&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/vtv.png" group-title="Lista 16",VTV URUGUAY
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=vtv&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/caracoltv.png" group-title="Lista 16",CARACOL TV
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=caracoltv&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/televisabajio.png" group-title="Lista 16",TELEVISA DEL BAJIO-
+http://blackghost.live/play/wistream-208.php?cat=latinos&ch=canalbajio&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/canal5televisa.png" group-title="Lista 16",CANAL 5 TELEVISA
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=canal5televisa&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/azteca.png" group-title="Lista 16",AZTECA 1
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=azteca&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/azteca7.png" group-title="Lista 16",AZTECA SIETE
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=azteca7&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/aztecamas.png" group-title="Lista 16",AZTECA MAS
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=aztecamas&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/aztecacinema.png" group-title="Lista 16",AZTECA CINEMA
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=aztecacinema&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/aztecamundo.png" group-title="Lista 16",AZTECA MUNDO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=aztecamundo&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/aztecacorazon.png" group-title="Lista 16",AZTECA CORAZON
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=aztecacorazon&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/canalestrellas.png" group-title="Lista 16",CANAL LAS ESTRELLAS
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=canalestrellas&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/telenovelas.png" group-title="Lista 16",TLNOVELAS
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=telenovelas&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/mtvlatino.png" group-title="Lista 16",MTV LATINO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=mtv&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxlatino.png" group-title="Lista 16",FOX LATINO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=fox&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxaction.png" group-title="Lista 16",FOX PREMIUM ACTION
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=foxaction&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxseries.png" group-title="Lista 16",FOX PREMIUM SERIES
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=foxseries&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxfamily.png" group-title="Lista 16",FOX PREMIUM FAMILY
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=foxfamily&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxcinema.png" group-title="Lista 16",FOX PREMIUM CINEMA
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=foxcinema&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxcomedy.png" group-title="Lista 16",FOX PREMIUM COMEDY
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=foxcomedy&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxclassics.png" group-title="Lista 16",FOX PREMIUM CLASICS
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=foxclassics&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxmovies.png" group-title="Lista 16",FOX PREMIUM MOVIES
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=foxmovies&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/foxlifelatino.png" group-title="Lista 16",FOX LIFE LATINO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=foxlife&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/hbo.png" group-title="Lista 16",HBO LATINO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=hbo&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/hbo2.png" group-title="Lista 16",HBO 2
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=hbo2&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/hboplus.png" group-title="Lista 16",HBO PLUS
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=hboplus&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/hbofamily.png" group-title="Lista 16",HBO FAMILY
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=hbofamily&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/hbosignature.png" group-title="Lista 16",HBO SIGNATURE
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=hbosignature&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/hboxtreme.png" group-title="Lista 16",HBO XTREME
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=maxprime&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/hbomundi.png" group-title="Lista 16",HBO MUNDI
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=maxlatino&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/hbopop.png" group-title="Lista 16",HBO POP
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=maxup&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/golden.png" group-title="Lista 16",GOLDEN
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=golden&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/goldenplus.png" group-title="Lista 16",GOLDEN PLUS
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=goldenplus&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/goldenedge.png" group-title="Lista 16",GOLDEN EDGE
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=goldenedge&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/cinemax.png" group-title="Lista 16",CINEMAX
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=cinemax&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/cinecanal.png" group-title="Lista 16",CINECANAL
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=cinecanal&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/tntlatino.png" group-title="Lista 16",TNT LATINO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=tnt&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/tntseries.png" group-title="Lista 16",TNT SERIES
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=tntseries&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/axnlatino.png" group-title="Lista 16",AXN LATINO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=axn&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/amclatino.png" group-title="Lista 16",AMC LATINO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=amc&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/tcmlatino.png" group-title="Lista 16",TCM LATINO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=tcm&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/syfy.png" group-title="Lista 16",SYFY LATINO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=syfy&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/fxm.png" group-title="Lista 16",FXM
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=fxm&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/fx.png" group-title="Lista 16",FX
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=fx&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/space.png" group-title="Lista 16",SPACE
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=space&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/comedycentrallatino.png" group-title="Lista 16",COMEDY CENTRAL LATINO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=comedycentral&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/paramountlatino.png" group-title="Lista 16",PARAMOUNT CHANNEL LATINO
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=paramountchannel&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/sony.png" group-title="Lista 16",SONY
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=sony&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/tbs.png" group-title="Lista 16",TBS
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=tbs&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/studiouniversal.png" group-title="Lista 16",STUDIO UNIVERSAL
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=studiouniversal&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/universalchannel.png" group-title="Lista 16",UNIVERSAL CHANNEL
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=universalchannel&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/warner.png" group-title="Lista 16",WARNER
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=warner&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/depelicula.png" group-title="Lista 16",DE PELICULA
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=depelicula&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/distritocomedia.png" group-title="Lista 16",DISTRITO COMEDIA
+https://blackghost.live/play/wistream-208.php?cat=latinos&ch=distritocomedia
+
+
+
+
+#EXTINF:-1 tvg-logo="/logos/historylatino.png" group-title="Lista 16",HISTORY
+http://blackghost.live/play/wistream-208.php?cat=latinos&ch=history&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/history2.png" group-title="Lista 16",HISTORY 2
+http://blackghost.live/play/wistream-208.php?cat=latinos&ch=history2&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/discoverychannellatino.png" group-title="Lista 16",DISCOVERY CHANNEL
+http://blackghost.live/play/wistream-208.php?cat=latinos&ch=discoverychannel&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/tlc.png" group-title="Lista 16",DISCOVERY TLC
+http://blackghost.live/play/wistream-208.php?cat=latinos&ch=tlc&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/discoverycivilization.png" group-title="Lista 16",DISCOVERY CIVILIZATION
+http://blackghost.live/play/wistream-208.php?cat=latinos&ch=discoverycivilization&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/discoveryturbo.png" group-title="Lista 16",DISCOVERY TURBO
+http://blackghost.live/play/wistream-208.php?cat=latinos&ch=discoveryturbo&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/discoverytheater.png" group-title="Lista 16",DISCOVERY THEATER
+http://blackghost.live/play/wistream-208.php?cat=latinos&ch=discoverytheater&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/discoverysci.png" group-title="Lista 16",DISCOVERY SCIENCIE
+http://blackghost.live/play/wistream-208.php?cat=latinos&ch=discoverysciencie&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/invdiscovery.png" group-title="Lista 16",INVESTIGACION DISCOVERY
+http://blackghost.live/play/wistream-208.php?cat=latinos&ch=discoveryinvestigacion&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/discoveryhh.png" group-title="Lista 16",DISCOVERY H&H
+http://blackghost.live/play/wistream-208.php?cat=latinos&ch=discoveryhh&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/discoveryworl.png" group-title="Lista 16",DISCOVERY WORL
+http://blackghost.live/play/wistream-208.php?cat=latinos&ch=discoveryworl&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/nationalgeographiclatino.png" group-title="Lista 16",NATIONAL GEOGRAPHIC
+http://blackghost.live/play/wistream-208.php?cat=latinos&ch=nationalgeo&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/natgeowilllatino.png" group-title="Lista 16",NAT GEO WILL
+http://blackghost.live/play/wistream-208.php?cat=latinos&ch=nationalwill&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/ae.png" group-title="Lista 16",A&E
+http://blackghost.live/play/wistream-208.php?cat=latinos&ch=ae&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/animalplanet.png" group-title="Lista 16",ANIMAL PLANET
+http://blackghost.live/play/wistream-208.php?cat=latinos&ch=animalplanet&f=.m2u8
+
+
+#EXTINF:-1 tvg-logo="/logos/cartoonnetwork.png" group-title="Lista 16",cartoon network
+http://blackghost.live/play/wistream-208.php?cat=infantiles&ch=cartoonnetwork&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/discoverykids.png" group-title="Lista 16",discovery kids
+http://blackghost.live/play/wistream-208.php?cat=infantiles&ch=discoverykids&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/disneyjunior.png" group-title="Lista 16",disney junior
+http://blackghost.live/play/wistream-208.php?cat=infantiles&ch=disneyjunior&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/disneyxd.png" group-title="Lista 16",disney xd
+http://blackghost.live/play/wistream-208.php?cat=infantiles&ch=disneyxd&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/disneychannel.png" group-title="Lista 16",disney channel
+http://blackghost.live/play/wistream-208.php?cat=infantiles&ch=disneychannel&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/nick.png" group-title="Lista 16",nick
+http://blackghost.live/play/wistream-208.php?cat=infantiles&ch=nick&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/nicktoons.png" group-title="Lista 16",nicktoons
+http://blackghost.live/play/wistream-208.php?cat=infantiles&ch=nicktoons&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/babyfirst.png" group-title="Lista 16",babyfirst
+http://blackghost.live/play/wistream-208.php?cat=infantiles&ch=babyfirst&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/tooncast.png" group-title="Lista 16",tooncast
+http://blackghost.live/play/wistream-208.php?cat=infantiles&ch=tooncast&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/boomerang.png" group-title="Lista 16",boomerang
+http://blackghost.live/play/wistream-208.php?cat=infantiles&ch=boomerang&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/boing.png" group-title="Lista 16",boing
+http://blackghost.live/play/wistream-208.php?cat=infantiles&ch=boing&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/clantv.png" group-title="Lista 16",clantv
+http://blackghost.live/play/wistream-208.php?cat=infantiles&ch=clantv&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/pakapaka.png" group-title="Lista 16",paka paka
+http://blackghost.live/play/wistream-208.php?cat=infantiles&ch=pakapaka&f=.m2u8
+#EXTINF:-1 tvg-logo="/logos/kidstv.png" group-title="Lista 16",kidstv
+http://blackghost.live/play/wistream-208.php?cat=infantiles&ch=kidstv&f=.m2u8
+
+
+#EXTINF:-1  group-title="Lista 16",Futbol España Bein Sports (datv)*
+http://blackghost.live/play/wistream2.php?canal=beinsports&f=.m2u8
+#EXTINF:-1  group-title="Lista 16",Futbol Colombia (datv)*
+http://blackghost.live/play/wistream2.php?canal=c13&f=.m2u8
+#EXTINF:-1  group-title="Lista 16",Futbol Chile (datv)*
+http://blackghost.live/play/wistream2.php?canal=c2&f=.m2u8
+#EXTINF:-1  group-title="Lista 16",Futbol Argentina fox premium (datv)*
+http://blackghost.live/play/wistream2.php?canal=fx&f=.m2u8
+#EXTINF:-1  group-title="Lista 16",Futbol Argentina tntsport (datv)*
+http://blackghost.live/play/wistream2.php?canal=sptnt&f=.m2u8
+
+#EXTINF:-1  group-title="Lista 16",Futbol Ecuador (datv)*
+http://blackghost.live/play/wistream2.php?canal=c4&f=.m2u8
+#EXTINF:-1  group-title="Lista 16",Futbol Ecuador 2 (datv)*
+http://blackghost.live/play/wistream2.php?canal=ecua1&f=.m2u8
+#EXTINF:-1  group-title="Lista 16",Futbol Ecuador 3 (datv)*
+http://blackghost.live/play/wistream2.php?canal=ecua2&f=.m2u8
+#EXTINF:-1  group-title="Lista 16",Futbol Ecuador 4 (datv)*
+http://blackghost.live/play/wistream2.php?canal=ecua3&f=.m2u8
+
+#EXTINF:-1  group-title="Lista 16",Futbol MEXICO TUDN (datv)*
+http://blackghost.live/play/wistream2.php?canal=td&f=.m2u8
+#EXTINF:-1  group-title="Lista 16",Futbol MEXICO Foxsports (datv)*
+http://blackghost.live/play/wistream2.php?canal=fx2&f=.m2u8
 
 
 #EXTINF:-1 group-title="Lista 17",Baby TV
