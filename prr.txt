@@ -5,14 +5,27 @@
 http://
 #EXTINF:-1 group-title="INFORMACIÓN", LA CHAMPIONS (8VOS) CONTINUA EN MARZO
 http://
-#EXTINF:-1 group-title="INFORMACIÓN", CANELO VS YILDIRIM SABADO 27 CANALES 2 7 E ESPN
+#EXTINF:-1 group-title="INFORMACIÓN", CANELO VS YILDIRIM Y CHIVAS-PUMAS CANAL 2
+http://cinematicket.club/cantp.php?c=1784&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN", PUE-NEC MAZ-QRO CANELO VS YILDIRIM CHI-UNAM CANAL 7
 http://cinematicket.club/cantp.php?c=317&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN", GOLDEN GLOBES DOMINGO 28 POR TNT
+#EXTINF:-1 group-title="INFORMACIÓN", CANELO VS YILDIRIM CANAL ESPN2 MX
+http://cinematicket.club/cantp.php?c=168&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN", GOLDEN GLOBES CANAL TNT
 http://cinematicket.club/cantp.php?c=126&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN", AMERICA - PACHUCA SABADO 27 CANALES 5 TUDN UNIVISION E ESPN DEP
+#EXTINF:-1 group-title="INFORMACIÓN", GOLDEN GLOBES (EN INGLES) CANAL TNT SERIES
+http://cinematicket.club/cantp.php?c=71&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN", TOL-ATZ Y AME-PAC CANAL 5
+http://cinematicket.club/cantp.php?c=1785&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN", TOL-ATS AME-PAC Y CHI-UNAM CANAL TUDN
 http://cinematicket.club/cantp.php?c=174&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN", CHIVAS - PUMAS DOMINGO 28 CANALES 2 7 TUDN AFIZZIONADOS Y TELEMUNDO
-http://cinematicket.club/cantp.php?c=317&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN", LEON-CAZ RAY-TIJ Y SAN-BRA CANAL FS2
+http://cinematicket.club/cantp.php?c=172&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN", LEON-CAZ CANAL CLARO
+http://cinematicket.club/cantp.php?c=2564&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN", CHI-UNAM CANAL TELEMUNDO
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="TPLEY", Azteca Uno (HD)
 http://cinematicket.club/cantp.php?c=7&p=3&k=tecnotv&f=.m3u8 
