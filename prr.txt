@@ -541,6 +541,10 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/302/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/463/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/comedyc.png" group-title="SOLO PARA ROKOOS", Comedy Central
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/231/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="SOLO PARA ROKOOS", VH1 Europe
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/303/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/exa.png" group-title="SOLO PARA ROKOOS", Exa TV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/460/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mejor977.png" group-title="SOLO PARA ROKOOS", La Mejor TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/399/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/htv.png" group-title="SOLO PARA ROKOOS", HTV
