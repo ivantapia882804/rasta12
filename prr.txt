@@ -11,10 +11,14 @@ http://cinematicket.club/cantp.php?c=317&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=2606&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 group-title="RECOMENDADOS", Fox Sports 2 MX
 http://cinematicket.club/cantp.php?c=172&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="RECOMENDADOS", Claro Sports
+http://cinematicket.club/cantp.php?c=2564&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 group-title="RECOMENDADOS", Afizzionados
 https://blackghost.live/play/tvghd-229.php?id=izzi-afizzionados-en-vivo&f=.m3u8
 #EXTINF:-1 group-title="RECOMENDADOS", TUDN
 http://cinematicket.club/cantp.php?c=174&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="RECOMENDADOS", UniMas (gringo)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
 #EXTINF:-1 group-title="RECOMENDADOS", TUDN (gringo)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88789/12?f=.m3u8
 #EXTINF:-1 group-title="RECOMENDADOS", ESPN Deportes (gringo)
@@ -633,13 +637,13 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/94068/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/290/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="SOLO PARA ROKOOS", TUDN (Alt.)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/560/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="SOLO PARA ROKOOS", TUDN (Alt.)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="SOLO PARA ROKOOS", TUDN USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/561/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="SOLO PARA ROKOOS", Claro Sports
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/421/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/asn.png" group-title="SOLO PARA ROKOOS", Adrenalina Sports Network
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97886/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SOLO PARA ROKOOS", TUDN USA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SOLO PARA ROKOOS", TUDN USA (Alt.)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88789/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SOLO PARA ROKOOS", Bein Ñ
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
