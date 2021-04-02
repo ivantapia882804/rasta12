@@ -178,6 +178,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/463/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/231/12?f=.m3u8
 #EXTINF:-1 tvg-id="VH1.mx" tvg-name="VH1 Europe" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="SOLO PARA ROKOOS",VH1 Europe
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/303/12?f=.m3u8
+#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Música Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/thp.png" group-title="SOLO PARA ROKOOS",Telehit Música Plus
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/305/12?f=.m3u8
 #EXTINF:-1 tvg-id="EXATV.mx" tvg-name="Exa TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/exa.png" group-title="SOLO PARA ROKOOS",Exa TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/460/12?f=.m3u8
 #EXTINF:-1 tvg-id="LaMejorTV.mx" tvg-name="La Mejor TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mejor977.png" group-title="SOLO PARA ROKOOS",La Mejor TV
@@ -296,6 +298,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/300/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/600/12?f=.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="SOLO PARA ROKOOS",DW (Español)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93853/12?f=.m3u8
+#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="TPLEY",RT (Español)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97868/12?f=.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="SOLO PARA ROKOOS",TNT | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97894/12?f=.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="SOLO PARA ROKOOS",TNT
