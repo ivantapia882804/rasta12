@@ -13,12 +13,10 @@ https://blackghost.live/play/totalp1-330.php?c=1785&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-330.php?c=317&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="XEQTDT.mx" tvg-name="Nu9ve" tvg-logo="" group-title="RECOMENDADOS",Nu9ve
 https://blackghost.live/play/totalp1-330.php?c=1783&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Once" tvg-logo="" group-title="RECOMENDADOS",Once
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/197/12?f=.m3u8
-#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="" group-title="RECOMENDADOS",Canal Catorce
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión (gringo)" tvg-logo="" group-title="RECOMENDADOS",Univisión (gringo)
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
+http://208.88.246.11:2095/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemundoTelevisionNetwork(Spanish).us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="RECOMENDADOS",Telemundo
+http://208.88.246.11:2095/encoder75/evento9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (MX)" tvg-logo="" group-title="RECOMENDADOS",TUDN (MX)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/290/12?f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN (gringo)" tvg-logo="" group-title="RECOMENDADOS",TUDN (gringo)
@@ -37,11 +35,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="" group-title="RECOMENDADOS",Claro Sports
 https://blackghost.live/play/totalp1-330.php?c=2564&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="El Sembrador Nueva Evangelización" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/esne.png" group-title="RECOMENDADOS",El Sembrador Nueva Evangelización
-https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8
-#EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ewtn.png" group-title="RECOMENDADOS",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/1200px-Afizzionados_Logo.svg.png" group-title="RECOMENDADOS",Afizzionados
+http://balancer1.ottmex.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="SOLO PARA ROKOOS",Azteca Uno
@@ -289,7 +284,7 @@ http://23.237.29.98:2095/702CNN/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9W
 #EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" group-title="SOLO PARA ROKOOS",Teleformula
 http://23.237.29.98:2095/354Elfinanciero/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="SOLO PARA ROKOOS",DW (Español)
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/93853/12?f=.m3u8
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8
 #EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="SOLO PARA ROKOOS",RT (Español)
 http://23.237.29.98:2095/353RT/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="SOLO PARA ROKOOS",TNT | HD
@@ -349,7 +344,7 @@ http://208.88.246.11:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hfam.png" group-title="SOLO PARA ROKOOS",HBO Family
 http://23.237.29.98:2095/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mprime.png" group-title="SOLO PARA ROKOOS",HBO Xtreme
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/288/12?f=.m3u8
+http://208.88.246.11:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTO PP1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS",EVENTO PP1
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88792/12?f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTO PP2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS",EVENTO PP2
