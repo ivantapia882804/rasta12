@@ -372,103 +372,71 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/576/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="TODO ES MAS", STAR LIFE
+#EXTINF:-1 tvg-id="StarLife.mx" tvg-name="STAR LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="TODO ES MAS",STAR LIFE
 http://balancer1.ottmex.com:8081/tecno/Foxlife.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="TODO ES MAS", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="TODO ES MAS",STUDIO UNIVERSAL
 httpp://balancer1.ottmex.com:8081/tecno/StudioUniversal.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="TODO ES MAS", MX | TELEMUNDO INTERNACIONAL
+#EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="MX | TELEMUNDO INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="TODO ES MAS",MX | TELEMUNDO INTERNACIONAL
 http://balancer1.ottmex.com:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="TODO ES MAS", STAR CHANNEL
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="TODO ES MAS",STAR CHANNEL
 http://balancer1.ottmex.com:8081/tecno/Fox.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="TODO ES MAS", TNT SERIES
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT SERIES" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="TODO ES MAS",TNT SERIES
 http://balancer1.ottmex.com:8081/tecno/TNT_Series.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="TODO ES MAS", TNT
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="TODO ES MAS",TNT
 http://balancer1.ottmex.com:8081/tecno/Tnt.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="TODO ES MAS", HBO
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="TODO ES MAS",HBO
 http://balancer1.ottmex.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="TODO ES MAS", HBO 2
+#EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="TODO ES MAS",HBO 2
 http://balancer1.ottmex.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/9c/HBOPlusLA.png/revision/latest?cb=20190426122716&path-prefix=es" group-title="TODO ES MAS", HBO PLUS
+#EXTINF:-1 tvg-id="HBOPlus.co" tvg-name="HBO PLUS" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/9c/HBOPlusLA.png/revision/latest?cb=20190426122716&path-prefix=es" group-title="TODO ES MAS",HBO PLUS
 http://balancer1.ottmex.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="TODO ES MAS", HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBOSignature.co" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="TODO ES MAS",HBO SIGNATURE
 http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TODO ES MAS", HBO FAMILY
+#EXTINF:-1 tvg-id="HBOFamily.co" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TODO ES MAS",HBO FAMILY
 http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.mediotiempo.com/sCBrGhpGD0WoHv0OpqGNQjo_9i8=/958x596/uploads/media/2021/01/29/star-channel-mantendra-programacion-habitual.jpg" group-title="TODO ES MAS", STAR ACTION
+#EXTINF:-1 tvg-id="StarAction.co" tvg-name="STAR ACTION" tvg-logo="https://images.mediotiempo.com/sCBrGhpGD0WoHv0OpqGNQjo_9i8=/958x596/uploads/media/2021/01/29/star-channel-mantendra-programacion-habitual.jpg" group-title="TODO ES MAS",STAR ACTION
 http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dIzAmT0.png" group-title="TODO ES MAS", STAR SERIES
+#EXTINF:-1 tvg-id="StarSeries.co" tvg-name="STAR SERIES" tvg-logo="https://i.imgur.com/dIzAmT0.png" group-title="TODO ES MAS",STAR SERIES
 http://balancer1.ottmex.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title="TODO ES MAS", STAR FUN
+#EXTINF:-1 tvg-id="STARFUN.co" tvg-name="STAR FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title="TODO ES MAS",STAR FUN
 http://balancer1.ottmex.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/340?cb=20201202010915&path-prefix=es" group-title="TODO ES MAS", GOLDEN PREMIER
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="GOLDEN PREMIER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/340?cb=20201202010915&path-prefix=es" group-title="TODO ES MAS",GOLDEN PREMIER
 http://balancer1.ottmex.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="TODO ES MAS", HGTV
+#EXTINF:-1 tvg-id="HGTV.mx" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="TODO ES MAS",HGTV
 http://balancer1.ottmex.com:8081/tecno/HGTV.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="TODO ES MAS", ANIMAL PLANET
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="TODO ES MAS",ANIMAL PLANET
 http://balancer1.ottmex.com:8081/tecno/AnimalPlanet.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-8.png" group-title="TODO ES MAS", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-8.png" group-title="TODO ES MAS",DISCOVERY CHANNEL
 http://balancer1.ottmex.com:8081/tecno/DiscoveryChannel.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/1280px-H%26h_Logo.svg.png" group-title="TODO ES MAS", DISCOVERY HOME & HEALTH
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/1280px-H%26h_Logo.svg.png" group-title="TODO ES MAS",DISCOVERY HOME & HEALTH
 http://balancer1.ottmex.com:8081/tecno/DiscoveryHH.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="TODO ES MAS", HISTORY CHANNEL
+#EXTINF:-1 tvg-id="History.mx" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="TODO ES MAS",HISTORY CHANNEL
 http://balancer1.ottmex.com:8081/tecno/HistoryChann.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="TODO ES MAS", DISCOVERY THEATER
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="TODO ES MAS",DISCOVERY THEATER
 http://balancer1.ottmex.com:8081/tecno/Discovery_Theater.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.roastbrief.com.mx/wp-content/uploads/2011/10/Discovery-Science-Logo.jpg" group-title="TODO ES MAS", DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://www.roastbrief.com.mx/wp-content/uploads/2011/10/Discovery-Science-Logo.jpg" group-title="TODO ES MAS",DISCOVERY SCIENCE
 http://balancer1.ottmex.com:8081/tecno/DiscoverySci.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="TODO ES MAS", DISCOVERY TURBO
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="TODO ES MAS",DISCOVERY TURBO
 http://balancer1.ottmex.com:8081/tecno/DISCOVERYTURBO.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TODO ES MAS", DISCOVERY WORLD
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TODO ES MAS",DISCOVERY WORLD
 http://balancer1.ottmex.com:8081/tecno/DiscoveryWorld.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="TODO ES MAS", MX | TUDN
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="MX | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="TODO ES MAS",MX | TUDN
 http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU" group-title="TODO ES MAS", MX | ESPN 1 NORTE
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="MX | ESPN 1 NORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU" group-title="TODO ES MAS",MX | ESPN 1 NORTE
 http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26QU1pi5nhbw9hndTtO7GOZJfwoMPtlED0Q&usqp=CAU" group-title="TODO ES MAS", MX | ESPN 2 NORTE
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="MX | ESPN 2 NORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26QU1pi5nhbw9hndTtO7GOZJfwoMPtlED0Q&usqp=CAU" group-title="TODO ES MAS",MX | ESPN 2 NORTE
 http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TODO ES MAS", MX | ESPN 3 NORTE
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="MX | ESPN 3 NORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TODO ES MAS",MX | ESPN 3 NORTE
 http://balancer1.ottmex.com:8081/tecno/Espn3.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpExEOU8bgI4lxxRHUSDL6_wm3HWI5MvjAA&usqp=CAU" group-title="TODO ES MAS", MX | ESPN EXTRA NORTE
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="MX | ESPN EXTRA NORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpExEOU8bgI4lxxRHUSDL6_wm3HWI5MvjAA&usqp=CAU" group-title="TODO ES MAS",MX | ESPN EXTRA NORTE
 http://balancer1.ottmex.com:8081/tecno/Espn+.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/996779176421019648/o1pPkhwJ_400x400.jpg" group-title="TODO ES MAS", MX | FOX SPORTS 1 NORTE
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="MX | FOX SPORTS 1 NORTE" tvg-logo="https://pbs.twimg.com/profile_images/996779176421019648/o1pPkhwJ_400x400.jpg" group-title="TODO ES MAS",MX | FOX SPORTS 1 NORTE
 http://balancer1.ottmex.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="TODO ES MAS", MX | FOX SPORTS 2 NORTE
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="MX | FOX SPORTS 2 NORTE" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="TODO ES MAS",MX | FOX SPORTS 2 NORTE
 http://balancer1.ottmex.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png/revision/latest/scale-to-width-down/340?cb=20160412195331" group-title="TODO ES MAS", MX | FOX SPORTS 3 NORTE
+#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="MX | FOX SPORTS 3 NORTE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png/revision/latest/scale-to-width-down/340?cb=20160412195331" group-title="TODO ES MAS",MX | FOX SPORTS 3 NORTE
 http://balancer1.ottmex.com:8081/tecno/FoxSports3.BKR/chunks.m3u
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/1200px-Afizzionados_Logo.svg.png" group-title="TODO ES MAS", MX | AFIZZIONADOS
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="MX | AFIZZIONADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/1200px-Afizzionados_Logo.svg.png" group-title="TODO ES MAS",MX | AFIZZIONADOS
 http://balancer1.ottmex.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
 
 
@@ -5207,21 +5175,21 @@ https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/realx.png" group-title="SOLO PARA ROKOOS +18", RealExtreme
+#EXTINF:-1 tvg-id="RealExtreme.us" tvg-name="RealExtreme" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/realx.png" group-title="SOLO PARA ROKOOS +18",RealExtreme
 http://23.237.29.98:2095/491REALX/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/braz.png" group-title="SOLO PARA ROKOOS +18", Brazzers TV
+#EXTINF:-1 tvg-id="BraZZersTVPlus.us" tvg-name="Brazzers TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/braz.png" group-title="SOLO PARA ROKOOS +18",Brazzers TV
 http://23.237.29.98:2095/493BRAZZ/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ten.png" group-title="SOLO PARA ROKOOS +18", TEN
+#EXTINF:-1 tvg-id="TenXX5.us" tvg-name="TEN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ten.png" group-title="SOLO PARA ROKOOS +18",TEN
 http://23.237.29.98:2095/494TEN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rk.png" group-title="SOLO PARA ROKOOS +18", RK
+#EXTINF:-1 tvg-id="RealityKingsTV.us" tvg-name="RK" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rk.png" group-title="SOLO PARA ROKOOS +18",RK
 http://23.237.29.98:2095/495RKTV/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hus.png" group-title="SOLO PARA ROKOOS +18", Hustler TV
+#EXTINF:-1 tvg-id="Hustler.us" tvg-name="Hustler TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hus.png" group-title="SOLO PARA ROKOOS +18",Hustler TV
 http://23.237.29.98:2095/496HUSLR/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xtsy.png" group-title="SOLO PARA ROKOOS +18", XTSY
+#EXTINF:-1 tvg-id="XtsyNewFrontier(English).mx" tvg-name="XTSY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xtsy.png" group-title="SOLO PARA ROKOOS +18",XTSY
 http://23.237.29.98:2095/498XTSY/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/plby.png" group-title="SOLO PARA ROKOOS +18", Playboy TV
+#EXTINF:-1 tvg-id="Playboy.mx" tvg-name="Playboy TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/plby.png" group-title="SOLO PARA ROKOOS +18",Playboy TV
 http://23.237.29.98:2095/484Playboy/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vens.png" group-title="SOLO PARA ROKOOS +18", Venus
+#EXTINF:-1 tvg-id="Venus.mx" tvg-name="Venus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vens.png" group-title="SOLO PARA ROKOOS +18",Venus
 http://23.237.29.98:2095/488Venus/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sextr.jpg"  group-title="SOLO PARA ROKOOS +18", Sextreme
+#EXTINF:-1 tvg-id="SeXtreme.mx" tvg-name="Sextreme" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sextr.jpg" group-title="SOLO PARA ROKOOS +18",Sextreme
 http://23.237.29.98:2095/490Sextreme/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
