@@ -268,7 +268,7 @@ http://208.88.246.11:2095/507ESPN3/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://208.88.246.11:2095/andromeda/ESPN+/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="SOLO PARA ROKOOS",TUDN
 http://208.88.246.11:2095/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA (Alt.)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SOLO PARA ROKOOS",TUDN USA
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SOLO PARA ROKOOS",TUDN USA
 http://208.88.246.11:2095/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="SOLO PARA ROKOOS",Claro Sports
 http://208.88.246.11:2095/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
@@ -290,7 +290,7 @@ http://23.237.29.98:2095/702CNN/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9W
 http://23.237.29.98:2095/354Elfinanciero/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="SOLO PARA ROKOOS",DW (Español)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93853/12?f=.m3u8
-#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="TPLEY",RT (Español)
+#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="SOLO PARA ROKOOS",RT (Español)
 http://23.237.29.98:2095/353RT/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="SOLO PARA ROKOOS",TNT | HD
 http://208.88.246.11:2095/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
@@ -375,7 +375,7 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8
 #EXTINF:-1 tvg-id="StarLife.mx" tvg-name="STAR LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="TODO ES MAS",STAR LIFE
 http://balancer1.ottmex.com:8081/tecno/Foxlife.TecnoByte/chunks.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="TODO ES MAS",STUDIO UNIVERSAL
-httpp://balancer1.ottmex.com:8081/tecno/StudioUniversal.TecnoByte/chunks.m3u8
+http://balancer1.ottmex.com:8081/tecno/StudioUniversal.TecnoByte/chunks.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="MX | TELEMUNDO INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="TODO ES MAS",MX | TELEMUNDO INTERNACIONAL
 http://balancer1.ottmex.com:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="TODO ES MAS",STAR CHANNEL
@@ -442,8 +442,6 @@ http://balancer1.ottmex.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Onceninos.mx" tvg-name="Aprende En Casa III-1 (5.2/11.2)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa",Aprende En Casa III-1 (5.2/11.2)
 https://6011c5681d877.streamlock.net:1936/video/video/playlist.m3u8
-#EXTINF:-1 tvg-id="Onceninos.mx" tvg-name="Aprende En Casa III-1 (5.2/11.2) (Alt.)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa",Aprende En Casa III-1 (5.2/11.2) (Alt.)
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/472/12?f=.m3u8
 #EXTINF:-1 tvg-id="XHIMTTDT3.mx" tvg-name="Aprende En Casa III-2 (7.3 Nal/40.2 VM)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa",Aprende En Casa III-2 (7.3 Nal/40.2 VM)
 http://187.189.119.135:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="XHCTRMTDT2.mx" tvg-name="Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa",Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM)
@@ -454,8 +452,6 @@ http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 https://6011c5681d877.streamlock.net:1936/stream/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aprende En Casa III-4 (6.3) (Alt.)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa",Aprende En Casa III-4 (6.3) (Alt.)
 http://mdstrm.com/live-stream-playlist_2500/5cfe8974ef9acc25607a7dec.m3u8?
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aprende En Casa III-4 (14.2/22.1 Nal) (Alt.)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa",Aprende En Casa III-4 (14.2/22.1 Nal) (Alt.)
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/469/12?f=.m3u8
 #EXTINF:-1 tvg-id="Onceninos.mx" tvg-name="Aprende En Casa III-1 (5.2/11.2)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa",Aprende En Casa III-1 (5.2/11.2)
 http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aprende En Casa III-4 (6.3/22.1 Nal)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa",Aprende En Casa III-4 (6.3/22.1 Nal)
