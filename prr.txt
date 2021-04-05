@@ -3,40 +3,22 @@
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAS INFO FACEBOOK/byrasta12mx" tvg-logo="" group-title="RECOMENDADOS",MAS INFO FACEBOOK/byrasta12mx
 http://
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="" group-title="RECOMENDADOS",Las Estrellas
-https://blackghost.live/play/totalp1-400.php?c=1784&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión" tvg-logo="" group-title="RECOMENDADOS",Imagen Televisión
-https://blackghost.live/play/totalp1-400.php?c=2606&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="" group-title="RECOMENDADOS",Canal 5
-https://blackghost.live/play/totalp1-400.php?c=1785&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="" group-title="RECOMENDADOS",Azteca 7
-https://blackghost.live/play/totalp1-400.php?c=317&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XEQTDT.mx" tvg-name="Nu9ve" tvg-logo="" group-title="RECOMENDADOS",Nu9ve
-https://blackghost.live/play/totalp1-400.php?c=1783&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión (gringo)" tvg-logo="" group-title="RECOMENDADOS",Univisión (gringo)
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="MX | ESPN 1 NORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU" group-title="RECOMENDADOS",MX | ESPN 1 NORTE
+http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="MX | ESPN 2 NORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26QU1pi5nhbw9hndTtO7GOZJfwoMPtlED0Q&usqp=CAU" group-title="RECOMENDADOS",MX | ESPN 2 NORTE
+http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="MX | FOX SPORTS 1 NORTE" tvg-logo="https://pbs.twimg.com/profile_images/996779176421019648/o1pPkhwJ_400x400.jpg" group-title="RECOMENDADOS",MX | FOX SPORTS 1 NORTE
+http://balancer1.ottmex.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="MX | FOX SPORTS 2 NORTE" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="RECOMENDADOS",MX | FOX SPORTS 2 NORTE
+http://balancer1.ottmex.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión
 http://208.88.246.11:2095/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TelemundoTelevisionNetwork(Spanish).us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="RECOMENDADOS",Telemundo
-http://208.88.246.11:2095/encoder75/evento9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (MX)" tvg-logo="" group-title="RECOMENDADOS",TUDN (MX)
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/290/12?f=.m3u8
-#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN (gringo)" tvg-logo="" group-title="RECOMENDADOS",TUDN (gringo)
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/88789/12?f=.m3u8
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="" group-title="RECOMENDADOS",Fox Sports
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97910/12?f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="" group-title="RECOMENDADOS",Fox Sports 2
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97909/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="" group-title="RECOMENDADOS",ESPN
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97908/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="" group-title="RECOMENDADOS",ESPN 2
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97926/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes (gringo)" tvg-logo="" group-title="RECOMENDADOS",ESPN Deportes (gringo)
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ" tvg-logo="" group-title="RECOMENDADOS",Bein Ñ
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="" group-title="RECOMENDADOS",Claro Sports
-https://blackghost.live/play/totalp1-400.php?c=2564&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/1200px-Afizzionados_Logo.svg.png" group-title="RECOMENDADOS",Afizzionados
-http://balancer1.ottmex.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
+#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="RECOMENDADOS",UniMas
+http://208.88.246.11:2095/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="RECOMENDADOS",Galavisión
+http://208.88.246.11:2095/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="RECOMENDADOS",TUDN USA
+http://208.88.246.11:2095/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="SOLO PARA ROKOOS",Azteca Uno
@@ -237,6 +219,8 @@ http://208.88.246.11:2095/andromeda/HISTORY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 http://208.88.246.11:2095/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/h2.png" group-title="SOLO PARA ROKOOS",History 2
 http://208.88.246.11:2095/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="ElGourmet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gourmet.png" group-title="SOLO PARA ROKOOS",ElGourmet
+http://208.88.246.11:2095/evento5/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="SOLO PARA ROKOOS",Discovery En Español
 http://23.237.29.98:2095/transco9/9535DISCOVERYESP/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="SOLO PARA ROKOOS",Fox Sports | HD
@@ -275,6 +259,8 @@ http://208.88.246.11:2095/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9
 http://208.88.246.11:2095/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCSN.us" tvg-name="NBCSN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcsp.png" group-title="SOLO PARA ROKOOS",NBCSN
 http://208.88.246.11:2095/9466NBCSP/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork(English).mx" tvg-name="NFL Network" tvg-logo="" group-title="SOLO PARA ROKOOS",NFL Network
+http://208.88.246.11:2095/eventox4/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="SOLO PARA ROKOOS",ESPN Deportes | HD
 http://208.88.246.11:2095/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCTelevisionporCable.mx" tvg-name="TVC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" group-title="SOLO PARA ROKOOS",TVC
