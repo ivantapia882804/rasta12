@@ -701,7 +701,7 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/300/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/600/12?f=.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="SOLO PARA ROKOOS",DW (Español)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93853/12?f=.m3u8
-#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="TPLEY",RT (Español)
+#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="SOLO PARA ROKOOS",RT (Español)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97868/12?f=.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="SOLO PARA ROKOOS",TNT | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97894/12?f=.m3u8
