@@ -11,13 +11,14 @@ http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8
 http://balancer1.ottmex.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="MX | FOX SPORTS 2 NORTE" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="RECOMENDADOS",MX | FOX SPORTS 2 NORTE
 http://balancer1.ottmex.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
-#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión
-http://208.88.246.11:2095/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="RECOMENDADOS",UniMas
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="RECOMENDADOS",Galavisión
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="RECOMENDADOS",TUDN USA
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 
@@ -456,335 +457,500 @@ http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch02
 
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="SOLO PARA ROKOOS",Azteca Uno
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/113azteca13/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="SOLO PARA ROKOOS",Las Estrellas
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="SOLO PARA ROKOOS",Imagen Television
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ForoTVUSFeed(Spanish).us" tvg-name="Foro TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="SOLO PARA ROKOOS",Foro TV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/push/forotv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="SOLO PARA ROKOOS",Canal 5
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Canal 6 CDMX (XHTDMX-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="SOLO PARA ROKOOS",Canal 6 CDMX (XHTDMX-TDT)
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/MultimediosPlus/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión (XHTDMX-TDT2)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/milen.png" group-title="SOLO PARA ROKOOS",Milenio Televisión (XHTDMX-TDT2)
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/710MilenioTV/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 Monterrey (XHAW-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="SOLO PARA ROKOOS",Canal 6 Monterrey (XHAW-TDT)
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/Multimediosmty/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV (XHTDMX-TDT4)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="SOLO PARA ROKOOS",MVS TV (XHTDMX-TDT4)
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://38.18.238.35:2095/152mx52/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="SOLO PARA ROKOOS",Azteca 7
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/107azteca7/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="SOLO PARA ROKOOS",NU9VE
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/andrew/galatv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="SOLO PARA ROKOOS",Canal Once
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/111OnceTvMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="XEIPNTDT2TVCanal11.mx" tvg-name="Aprende En Casa III-1 (11.2/5.2)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="SOLO PARA ROKOOS",Aprende En Casa III-1 (11.2/5.2)
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/133once2/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="SOLO PARA ROKOOS",Canal Catorce
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/130unavoz/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="Aprende En Casa III-4 (14.2/22.1 Nal)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="SOLO PARA ROKOOS",Aprende En Casa III-4 (14.2/22.1 Nal)
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/131ingenioTV/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unam.png" group-title="SOLO PARA ROKOOS",TV UNAM
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/120tvunam/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="XEIMTTVMetropolitan(Canal22).mx" tvg-name="Canal 22" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="SOLO PARA ROKOOS",Canal 22
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/122canal22/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="Canal 22.2 (Espejo 3.2/20.1 Nal Dif.)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="SOLO PARA ROKOOS",Canal 22.2 (Espejo 3.2/20.1 Nal Dif.)
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/304Canal222/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="SOLO PARA ROKOOS",Canal Del Congreso
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/145congreso/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="SOLO PARA ROKOOS",Star Channel | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/FOX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="SOLO PARA ROKOOS",Star Channel
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/202CanalFOXMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony Channel | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sony.png" group-title="SOLO PARA ROKOOS",Sony Channel | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/SONY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sony.png" group-title="SOLO PARA ROKOOS",Sony Channel
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/211sony/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" group-title="SOLO PARA ROKOOS",Unicable
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/UNICABLE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="PasionesTV(Spanish).us" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/pasin.png" group-title="SOLO PARA ROKOOS",Pasiones
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/PASIONES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="SOLO PARA ROKOOS",Warner | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/WARNER/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="SOLO PARA ROKOOS",Warner
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/eent.png" group-title="SOLO PARA ROKOOS",E!
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/212E!Latino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="SOLO PARA ROKOOS",FX | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/FX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="SOLO PARA ROKOOS",FX
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/207FXLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="SOLO PARA ROKOOS",Universal | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/UNIVERSAL/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="SOLO PARA ROKOOS",Universal
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/203Universal/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="SOLO PARA ROKOOS",TNT Series
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png" group-title="SOLO PARA ROKOOS",SYFY
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/204SyFyLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="SOLO PARA ROKOOS",TBS
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/223TBS/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ID.mx" tvg-name="Investigation Discovery | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="SOLO PARA ROKOOS",Investigation Discovery | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ID.mx" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="SOLO PARA ROKOOS",Investigation Discovery
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/216I.D/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="SOLO PARA ROKOOS",A&E | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/AE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="SOLO PARA ROKOOS",A&E
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/214AELatino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png" group-title="SOLO PARA ROKOOS",Lifetime
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/414LIFET/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="SOLO PARA ROKOOS",AXN | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/AXN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="SOLO PARA ROKOOS",AXN
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/213AXNLatinoAmerica/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ISAT.mx" tvg-name="I-Sat" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/isatarg.png" group-title="SOLO PARA ROKOOS",I-Sat
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/222ISAT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcuni.png" group-title="SOLO PARA ROKOOS",Universo
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/transco10/9509UNVSO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/estrella.png" group-title="SOLO PARA ROKOOS",Estrella TV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/eventox3/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoTelevisionNetwork(Spanish).us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="SOLO PARA ROKOOS",Telemundo
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/encoder75/evento9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" tvg-name="Telemundo Pac" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="SOLO PARA ROKOOS",Telemundo Pac
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andrew/telehit/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="SOLO PARA ROKOOS",Univisión
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Pacific)(Spanish).us" tvg-name="Univisión Pac" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="SOLO PARA ROKOOS",Univisión Pac
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/eventox2/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="SOLO PARA ROKOOS",UniMas
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="SOLO PARA ROKOOS",Galavisión
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="WKAQDT.pr" tvg-name="Telemundo PR" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wkaq.png" group-title="SOLO PARA ROKOOS",Telemundo PR
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/0000/CH=%C2%A0PR-WKAQ/playlist.m3u8
 #EXTINF:-1 tvg-id="WAPADT.pr" tvg-name="WAPA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wapa.png" group-title="SOLO PARA ROKOOS",WAPA
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/0000/CH=%C2%A0PR-%C2%A0WAPA/playlist.m3u8
 #EXTINF:-1 tvg-id="WAPADT2(English).pr" tvg-name="WAPA Deportes" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wapa2.png" group-title="SOLO PARA ROKOOS",WAPA Deportes
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/0000/CH=%C2%A0PR-%C2%A0WAPA2/playlist.m3u8
 #EXTINF:-1 tvg-id="WIPRDT.pr" tvg-name="WIPR" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wipr.png" group-title="SOLO PARA ROKOOS",WIPR
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/wipr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="WLIIDT.pr" tvg-name="Univisión PR" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unipr.png" group-title="SOLO PARA ROKOOS",11 PR
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/0000/CH=%C2%A0PR-WLII/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaTV.pr" tvg-name="MegaTV PR" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/megapr.jfif" group-title="SOLO PARA ROKOOS",MegaTV PR
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/megatvpr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-name="Punto 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/p2.jpg" group-title="SOLO PARA ROKOOS",Punto 2
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/live/punto2pr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="A3 Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3s.png" group-title="SOLO PARA ROKOOS",A3 Series
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/230Atres/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="¡Hola! TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hola.jpg" group-title="SOLO PARA ROKOOS",¡Hola! TV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/218Hola/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="SOLO PARA ROKOOS",MTV | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/live/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="SOLO PARA ROKOOS",MTV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/250mtvla/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVHits.es" tvg-name="MTV Hits" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvh.png" group-title="SOLO PARA ROKOOS",MTV Hits
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/mtvhitsts/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/comedyc.png" group-title="SOLO PARA ROKOOS",Comedy Central
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/225CMEDY/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="VH1.mx" tvg-name="VH1 Europe" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="SOLO PARA ROKOOS",VH1 Europe
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/254VH1/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Música Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/thp.png" group-title="SOLO PARA ROKOOS",Telehit Música Plus
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/live/DTURBO/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="EXATV.mx" tvg-name="Exa TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/exa.png" group-title="SOLO PARA ROKOOS",Exa TV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/252NU/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="LaMejorTV.mx" tvg-name="La Mejor TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mejor977.png" group-title="SOLO PARA ROKOOS",La Mejor TV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/255exatv/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV.mx" tvg-name="HTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/htv.png" group-title="SOLO PARA ROKOOS",HTV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/260htv/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bmax.png" group-title="SOLO PARA ROKOOS",Bandamax
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/encoder70/goltv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="VideoRola.mx" tvg-name="VideoRola" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vrola.png" group-title="SOLO PARA ROKOOS",VideoRola
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/258VROLA/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="SOLO PARA ROKOOS",Teleritmo
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/276teleritmo/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase(English).mx" tvg-name="Arts" tvg-logo="" group-title="SOLO PARA ROKOOS",Arts
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/416arts/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="Nat Geo Kids" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngk.png" group-title="SOLO PARA ROKOOS",Nat Geo Kids
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/294NatGeoKids/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dk.png" group-title="SOLO PARA ROKOOS",Discovery Kids
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/310discoverykids/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png" group-title="SOLO PARA ROKOOS",Nick
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="SOLO PARA ROKOOS",Disney Channel | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/DISNEY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="SOLO PARA ROKOOS",Disney Channel
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/302Disneychannel/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dxd.png" group-title="SOLO PARA ROKOOS",Disney XD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/304DisneyXDNorte/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/djr.png" group-title="SOLO PARA ROKOOS",Disney Junior
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/303DisneyJunior/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="SOLO PARA ROKOOS",Cartoon Network
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/baby.png" group-title="SOLO PARA ROKOOS",Baby TV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/315BabyTVLatinAmerica/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/njr.png" group-title="SOLO PARA ROKOOS",Nick Jr.
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/306NickJrLatinAmerica/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="SOLO PARA ROKOOS",Discovery
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="SOLO PARA ROKOOS",Animal Planet | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/evento4/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="SOLO PARA ROKOOS",Animal Planet
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/408animalplanet/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg" group-title="SOLO PARA ROKOOS",TLC
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/217TLC/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="SOLO PARA ROKOOS",Discovery Home & Health | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/DISCOVERYHH/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="SOLO PARA ROKOOS",Discovery Home & Health
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/215DiscoveryHHLatinoAmerica/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png" group-title="SOLO PARA ROKOOS",Discovery Theater HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/DISCOVERYTH/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png" group-title="SOLO PARA ROKOOS",Discovery World HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/turbo.png" group-title="SOLO PARA ROKOOS",Discovery Turbo
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/345turbo/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="SOLO PARA ROKOOS",National Geographic | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="SOLO PARA ROKOOS",National Geographic
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="SOLO PARA ROKOOS",Nat Geo Wild | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/encoder64/f1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="SOLO PARA ROKOOS",Nat Geo Wild
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/406NatGeoWild/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="SOLO PARA ROKOOS",History | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/HISTORY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="SOLO PARA ROKOOS",History
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/h2.png" group-title="SOLO PARA ROKOOS",History 2
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="ElGourmet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gourmet.png" group-title="SOLO PARA ROKOOS",ElGourmet
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/evento5/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="SOLO PARA ROKOOS",Discovery En Español
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/transco9/9535DISCOVERYESP/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="SOLO PARA ROKOOS",Fox Sports | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="SOLO PARA ROKOOS",Fox Sports
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/502FoxSport1/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="SOLO PARA ROKOOS",Fox Sports 2 | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/FOXSP2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="SOLO PARA ROKOOS",Fox Sports 2
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/503FoxSport2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="SOLO PARA ROKOOS",Fox Sports 3
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/508FoxSports3/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="SOLO PARA ROKOOS",ESPN | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/evento/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="SOLO PARA ROKOOS",ESPN
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2 | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="SOLO PARA ROKOOS",ESPN 2 | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/evento2/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="SOLO PARA ROKOOS",ESPN 2
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/505ESPN/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="SOLO PARA ROKOOS",ESPN 3
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/507ESPN3/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="SOLO PARA ROKOOS",ESPN Extra
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/ESPN+/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="SOLO PARA ROKOOS",TUDN
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SOLO PARA ROKOOS",TUDN USA
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="SOLO PARA ROKOOS",Claro Sports
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="Adrenalina Sports Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/asn.png" group-title="SOLO PARA ROKOOS",Adrenalina Sports Network
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/UFCNET/transco2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SOLO PARA ROKOOS",Bein Ñ HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SOLO PARA ROKOOS",Bein Ñ
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCSN.us" tvg-name="NBCSN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcsp.png" group-title="SOLO PARA ROKOOS",NBCSN
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/9466NBCSP/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork(English).mx" tvg-name="NFL Network" tvg-logo="" group-title="SOLO PARA ROKOOS",NFL Network
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/eventox4/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="SOLO PARA ROKOOS",ESPN Deportes | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCTelevisionporCable.mx" tvg-name="TVC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" group-title="SOLO PARA ROKOOS",TVC
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/220TVC/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="CNN En Español" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnne.png" group-title="SOLO PARA ROKOOS",CNN En Español
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/702CNN/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" group-title="SOLO PARA ROKOOS",Teleformula
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/354Elfinanciero/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="SOLO PARA ROKOOS",DW (Español)
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8
 #EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="SOLO PARA ROKOOS",RT (Español)
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/353RT/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="SOLO PARA ROKOOS",TNT | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="SOLO PARA ROKOOS",TNT
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="SOLO PARA ROKOOS",Space | HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/SPACE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="SOLO PARA ROKOOS",Space
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/221SpaceMexico/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="SOLO PARA ROKOOS",Cinemax
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/603Cinemax/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="MC.mx" tvg-name="MC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mcinema.png" group-title="SOLO PARA ROKOOS",MC
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/607MC/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mpremier.png" group-title="SOLO PARA ROKOOS",Multipremier
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/606MultiPremiere/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Película Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatinohd.png" group-title="SOLO PARA ROKOOS",De Película Plus
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/live/DTHEATER/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/latinopl.png" group-title="SOLO PARA ROKOOS",Cine Latino
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/608CineLatino/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="CineLatinoUS(Spanish).us" tvg-name="Cine Latino US" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/latinopl.png" group-title="SOLO PARA ROKOOS",Cine Latino US
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/CINELATINO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cc.png" group-title="SOLO PARA ROKOOS",Cinecanal
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/664Cinecanal/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="FXMovies.mx" tvg-name="FXM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fxm.png" group-title="SOLO PARA ROKOOS",FXM
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/605CineCanalPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/param.png" group-title="SOLO PARA ROKOOS",Paramount Network
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/615PARAM/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinema.mx" tvg-name="Cinema" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="SOLO PARA ROKOOS",Cinema
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/AZCINEMA/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="StarSeries.ar" tvg-name="Star Series (E)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="SOLO PARA ROKOOS",Star Series (E)
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/FOXSERIES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="StarSeries.mx" tvg-name="Star Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="SOLO PARA ROKOOS",Star Series
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/660fox1/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="StarAction.ar" tvg-name="Star Action (E)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="SOLO PARA ROKOOS",Star Action (E)
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/FOXACTION/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="StarAction.mx" tvg-name="Star Action" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="SOLO PARA ROKOOS",Star Action
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/662foxAction/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="StarHits.co" tvg-name="Star Hits (E)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="SOLO PARA ROKOOS",Star Hits (E)
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/FOXMOVIES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="StarHits.mx" tvg-name="Star Hits" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="SOLO PARA ROKOOS",Star Hits
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/667Fmovies/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="STARFUN.mx" tvg-name="Star Fun" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starfamily.png" group-title="SOLO PARA ROKOOS",Star Fun
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/665foxFamily/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="StarClassics.mx" tvg-name="Star Classics" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starclassics.png" group-title="SOLO PARA ROKOOS",Star Classics
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/669foxClassics/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgcpre.png" group-title="SOLO PARA ROKOOS",Golden Premier
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/andromeda/GOLDENPRE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="SOLO PARA ROKOOS",HBO
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/eventox6/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO (Alt.)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="SOLO PARA ROKOOS",HBO (Alt.)
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole2.png" group-title="SOLO PARA ROKOOS",HBO 2
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hplus.png" group-title="SOLO PARA ROKOOS",HBO Plus
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hfam.png" group-title="SOLO PARA ROKOOS",HBO Family
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mprime.png" group-title="SOLO PARA ROKOOS",HBO Xtreme
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://208.88.246.11:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTO PP1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS",EVENTO PP1
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88792/12?f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTO PP2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS",EVENTO PP2
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88793/12?f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTO 1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS",EVENTO 1
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97881/12?f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTO 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS",EVENTO 2
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97882/12?f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTO 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS",EVENTO 3
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97883/12?f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTO 4" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS",EVENTO 4
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97884/12?f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTO 5" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS",EVENTO 5
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/562/12?f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTO 6" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS",EVENTO 6
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/574/12?f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTO 7" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS",EVENTO 7
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/576/12?f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTO 8" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS",EVENTO 8
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8
+
 
 
 #EXTINF:0 group-title="Lista TV", AXN
@@ -4822,445 +4988,538 @@ https://blackghost.live/400/tvx.php?opcion=xtv32&c=1061
 
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="" group-title="Lista 23",Azteca 7
-http://blackghost.live/play/tvghd-400.php?id=azteca-7-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=azteca-7-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="" group-title="Lista 23",Canal 5
-http://blackghost.live/play/tvghd-400.php?id=canal-5-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=canal-5-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="" group-title="Lista 23",TUDN
-http://blackghost.live/play/tvghd-400.php?id=tudn-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=tudn-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="Latina" tvg-logo="" group-title="Lista 23",Latina
-http://blackghost.live/play/tvghd-400.php?id=latina-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=latina-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="America TV" tvg-logo="" group-title="Lista 23",America TV
-http://blackghost.live/play/tvghd-400.php?id=america-tv-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=america-tv-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="GOLPERU" tvg-logo="" group-title="Lista 23",GOLPERU
-http://blackghost.live/play/tvghd-400.php?id=gol-peru-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=gol-peru-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="GOL TV" tvg-logo="" group-title="Lista 23",GOL TV
-http://blackghost.live/play/tvghd-400.php?id=gol-tv-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=gol-tv-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="CDF Premium" tvg-logo="" group-title="Lista 23",CDF Premium
-http://blackghost.live/play/tvghd-400.php?id=cdf-premium-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=cdf-premium-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" tvg-logo="" group-title="Lista 23",Win Sports
-http://blackghost.live/play/tvghd-400.php?id=win-sports-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=win-sports-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" tvg-logo="" group-title="Lista 23",TNT Sports
-http://blackghost.live/play/tvghd-400.php?id=tnt-sports-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=tnt-sports-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="Fox Premium" tvg-logo="" group-title="Lista 23",Fox Premium
-http://blackghost.live/play/tvghd-400.php?id=fox-sports-premium-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=fox-sports-premium-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC Sports" tvg-logo="" group-title="Lista 23",TYC Sports
-http://blackghost.live/play/tvghd-400.php?id=tyc-sports-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=tyc-sports-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoSurArgentina).ar" tvg-name="Fox Sports" tvg-logo="" group-title="Lista 23",Fox Sports
-http://blackghost.live/play/tvghd-400.php?id=fox-sports-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=fox-sports-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(Argentina).ar" tvg-name="Fox Sports 2" tvg-logo="" group-title="Lista 23",Fox Sports 2
-http://blackghost.live/play/tvghd-400.php?id=fox-sports-2-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=fox-sports-2-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports3(ConoSur).ar" tvg-name="Fox Sports 3" tvg-logo="" group-title="Lista 23",Fox Sports 3
-http://blackghost.live/play/tvghd-400.php?id=fox-sports-3-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=fox-sports-3-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes" tvg-logo="" group-title="Lista 23",ESPN Deportes
-http://blackghost.live/play/tvghd-400.php?id=espn-deportes-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=espn-deportes-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="ESPNEXTRA.co" tvg-name="ESPN Plus" tvg-logo="" group-title="Lista 23",ESPN Plus
-http://blackghost.live/play/tvghd-400.php?id=espn-plus-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=espn-plus-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="" group-title="Lista 23",ESPN
-http://blackghost.live/play/tvghd-400.php?id=espn-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=espn-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2" tvg-logo="" group-title="Lista 23",ESPN 2
-http://blackghost.live/play/tvghd-400.php?id=espn-2-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=espn-2-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN3(South).ar" tvg-name="ESPN 3" tvg-logo="" group-title="Lista 23",ESPN 3
-http://blackghost.live/play/tvghd-400.php?id=espn-3-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=espn-3-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="Directv Sports" tvg-logo="" group-title="Lista 23",Directv Sports
-http://blackghost.live/play/tvghd-400.php?id=directv-sports-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=directv-sports-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="Directv Sports 2" tvg-logo="" group-title="Lista 23",Directv Sports 2
-http://blackghost.live/play/tvghd-400.php?id=directv-sports-2-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=directv-sports-2-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="Directv Sports Plus" tvg-logo="" group-title="Lista 23",Directv Sports Plus
-http://blackghost.live/play/tvghd-400.php?id=directv-sports-plus-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=directv-sports-plus-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).ca" tvg-name="Bein La Liga" tvg-logo="" group-title="Lista 23",Bein La Liga
-http://blackghost.live/play/tvghd-400.php?id=bein-la-liga-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=bein-la-liga-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports Mexico" tvg-logo="" group-title="Lista 23",Fox Sports Mexico
-http://blackghost.live/play/tvghd-400.php?id=fox-sports-mexico-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=fox-sports-mexico-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 Mexico" tvg-logo="" group-title="Lista 23",Fox Sports 2 Mexico
-http://blackghost.live/play/tvghd-400.php?id=fox-sports-2-mexico-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=fox-sports-2-mexico-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3 Mexico" tvg-logo="" group-title="Lista 23",Fox Sports 3 Mexico
-http://blackghost.live/play/tvghd-400.php?id=fox-sports-3-mexico-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=fox-sports-3-mexico-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="Espn Mexico" tvg-logo="" group-title="Lista 23",Espn Mexico
-http://blackghost.live/play/tvghd-400.php?id=espn-mexico-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=espn-mexico-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="Espn 2 Mexico" tvg-logo="" group-title="Lista 23",Espn 2 Mexico
-http://blackghost.live/play/tvghd-400.php?id=espn-2-mexico-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=espn-2-mexico-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="Espn 3 Mexico" tvg-logo="" group-title="Lista 23",Espn 3 Mexico
-http://blackghost.live/play/tvghd-400.php?id=espn-3-mexico-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=espn-3-mexico-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Izzi Afizzionados" tvg-logo="" group-title="Lista 23",Izzi Afizzionados
-http://blackghost.live/play/tvghd-400.php?id=izzi-afizzionados-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=izzi-afizzionados-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO" tvg-logo="" group-title="Lista 23",HBO
-http://blackghost.live/play/tvghd-400.php?id=hbo-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=hbo-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-name="hbo 2" tvg-logo="" group-title="Lista 23",hbo 2
-http://blackghost.live/play/tvghd-400.php?id=hbo-2-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=hbo-2-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="StarAction.ar" tvg-name="STAR ACTION" tvg-logo="" group-title="Lista 23",STAR ACTION
-http://blackghost.live/play/tvghd-400.php?id=fox-premium-action-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=fox-premium-action-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="StarSeries.ar" tvg-name="STAR SERIES" tvg-logo="" group-title="Lista 23",STAR SERIES
-http://blackghost.live/play/tvghd-400.php?id=fox-premium-series-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=fox-premium-series-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Space.ar" tvg-name="Space" tvg-logo="" group-title="Lista 23",Space
-http://blackghost.live/play/tvghd-400.php?id=space-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=space-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.co" tvg-name="Warner" tvg-logo="" group-title="Lista 23",Warner
-http://blackghost.live/play/tvghd-400.php?id=warner-bros-tv-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=warner-bros-tv-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="" group-title="Lista 23",TNT
-http://blackghost.live/play/tvghd-400.php?id=tnt-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=tnt-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="" group-title="Lista 23",Star Channel
-http://blackghost.live/play/tvghd-400.php?id=fox-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=fox-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="" group-title="Lista 23",Cinemax
-http://blackghost.live/play/tvghd-400.php?id=cinemax-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=cinemax-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="Cinecanal" tvg-logo="" group-title="Lista 23",Cinecanal
-http://blackghost.live/play/tvghd-400.php?id=cinecanal-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=cinecanal-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="Syfy" tvg-logo="" group-title="Lista 23",Syfy
-http://blackghost.live/play/tvghd-400.php?id=syfy-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=syfy-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe" tvg-logo="" group-title="Lista 23",Telefe
-http://blackghost.live/play/tvghd-400.php?id=telefe-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=telefe-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="" group-title="Lista 23",El Trece
-http://blackghost.live/play/tvghd-400.php?id=el-trece-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=el-trece-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="" group-title="Lista 23",Distrito Comedia
-http://blackghost.live/play/tvghd-400.php?id=distrito-comedia-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=distrito-comedia-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo" tvg-logo="" group-title="Lista 23",Telemundo
-http://blackghost.live/play/tvghd-400.php?id=telemundo-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=telemundo-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="" group-title="Lista 23",History
-http://blackghost.live/play/tvghd-400.php?id=history-channel-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=history-channel-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="H2History.ar" tvg-name="History 2" tvg-logo="" group-title="Lista 23",History 2
-http://blackghost.live/play/tvghd-400.php?id=history-2-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=history-2-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="PasionesTV(Spanish).us" tvg-name="Pasiones" tvg-logo="" group-title="Lista 23",Pasiones
-http://blackghost.live/play/tvghd-400.php?id=pasiones-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=pasiones-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="" group-title="Lista 23",Azteca Uno
-http://blackghost.live/play/tvghd-400.php?id=azteca-uno-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=azteca-uno-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Mundo.mx" tvg-name="Mundo" tvg-logo="" group-title="Lista 23",Mundo
-http://blackghost.live/play/tvghd-400.php?id=az-mundo-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=az-mundo-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Cinema.mx" tvg-name="Cinema" tvg-logo="" group-title="Lista 23",Cinema
-http://blackghost.live/play/tvghd-400.php?id=az-cinema-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=az-cinema-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavision" tvg-logo="" group-title="Lista 23",Galavision
-http://blackghost.live/play/tvghd-400.php?id=galavision-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=galavision-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="Tlnovelas" tvg-logo="" group-title="Lista 23",Tlnovelas
-http://blackghost.live/play/tvghd-400.php?id=tlnovelas-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=tlnovelas-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="" group-title="Lista 23",Las Estrellas
-http://blackghost.live/play/tvghd-400.php?id=las-estrellas-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=las-estrellas-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="CaracolTVCanal1.co" tvg-name="Caracol" tvg-logo="" group-title="Lista 23",Caracol
-http://blackghost.live/play/tvghd-400.php?id=caracol-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=caracol-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="TVC Deportes" tvg-logo="" group-title="Lista 23",TVC Deportes
-http://blackghost.live/play/tvghd-400.php?id=tvc-deportes-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=tvc-deportes-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="atv" tvg-logo="" group-title="Lista 23",atv
-http://blackghost.live/play/tvghd-400.php?id=atv-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=atv-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision" tvg-logo="" group-title="Lista 23",Univision
-http://blackghost.live/play/tvghd-400.php?id=univision-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=univision-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="" group-title="Lista 23",Unicable
-http://blackghost.live/play/tvghd-400.php?id=unicable-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=unicable-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="UniMas(Spanish).us" tvg-name="Unimas" tvg-logo="" group-title="Lista 23",Unimas
-http://blackghost.live/play/tvghd-400.php?id=unimas-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=unimas-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen TV" tvg-logo="" group-title="Lista 23",Imagen TV
-http://blackghost.live/play/tvghd-400.php?id=imagen-tv-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=imagen-tv-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="Cnn Espanol" tvg-logo="" group-title="Lista 23",Cnn Espanol
-http://blackghost.live/play/tvghd-400.php?id=cnn-espanol-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=cnn-espanol-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="rt noticias" tvg-logo="" group-title="Lista 23",rt noticias
-http://blackghost.live/play/tvghd-400.php?id=rt-noticias-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=rt-noticias-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="StarHits.co" tvg-name="Star Hits" tvg-logo="" group-title="Lista 23",Star Hits
-http://blackghost.live/play/tvghd-400.php?id=fox-premium-movies-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=fox-premium-movies-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="STARFUN.ar" tvg-name="Star Fun" tvg-logo="" group-title="Lista 23",Star Fun
-http://blackghost.live/play/tvghd-400.php?id=fox-premium-family-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=fox-premium-family-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="" group-title="Lista 23",FX
-http://blackghost.live/play/tvghd-400.php?id=fx-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=fx-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="FXMovies.mx" tvg-name="FXM" tvg-logo="" group-title="Lista 23",FXM
-http://blackghost.live/play/tvghd-400.php?id=fxm-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=fxm-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="StarLife.mx" tvg-name="Star Life" tvg-logo="" group-title="Lista 23",Star Life
-http://blackghost.live/play/tvghd-400.php?id=fox-life-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=fox-life-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="" group-title="Lista 23",Golden Plus
-http://blackghost.live/play/tvghd-400.php?id=golden-plus-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=golden-plus-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="" group-title="Lista 23",Golden Edge
-http://blackghost.live/play/tvghd-400.php?id=golden-edge-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=golden-edge-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" tvg-logo="" group-title="Lista 23",Golden Premier
-http://blackghost.live/play/tvghd-400.php?id=golden-premier-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=golden-premier-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.co" tvg-name="hboplus" tvg-logo="" group-title="Lista 23",hboplus
-http://blackghost.live/play/tvghd-400.php?id=hbo-plus-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=hbo-plus-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.co" tvg-name="HBO Family" tvg-logo="" group-title="Lista 23",HBO Family
-http://blackghost.live/play/tvghd-400.php?id=hbo-family-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=hbo-family-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-name="HBO Xtreme" tvg-logo="" group-title="Lista 23",HBO Xtreme
-http://blackghost.live/play/tvghd-400.php?id=hbo-xtreme-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=hbo-xtreme-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="HBOPop.ar" tvg-name="HBO POP" tvg-logo="" group-title="Lista 23",HBO POP
-http://blackghost.live/play/tvghd-400.php?id=hbo-pop-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=hbo-pop-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="" group-title="Lista 23",TNT Series
-http://blackghost.live/play/tvghd-400.php?id=tnt-series-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=tnt-series-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="canal sony" tvg-logo="" group-title="Lista 23",canal sony
-http://blackghost.live/play/tvghd-400.php?id=canal-sony-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=canal-sony-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="axn" tvg-logo="" group-title="Lista 23",axn
-http://blackghost.live/play/tvghd-400.php?id=axn-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=axn-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal Channel" tvg-logo="" group-title="Lista 23",Universal Channel
-http://blackghost.live/play/tvghd-400.php?id=universal-channel-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=universal-channel-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="" group-title="Lista 23",Studio Universal
-http://blackghost.live/play/tvghd-400.php?id=studio-universal-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=studio-universal-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multi Premier" tvg-logo="" group-title="Lista 23",Multi Premier
-http://blackghost.live/play/tvghd-400.php?id=multi-premier-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=multi-premier-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="" group-title="Lista 23",AMC
-http://blackghost.live/play/tvghd-400.php?id=amc-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=amc-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Channel" tvg-logo="" group-title="Lista 23",Paramount Channel
-http://blackghost.live/play/tvghd-400.php?id=paramount-channel-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=paramount-channel-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino" tvg-logo="" group-title="Lista 23",Cine Latino
-http://blackghost.live/play/tvghd-400.php?id=cine-latino-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=cine-latino-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="Dpelicula" tvg-logo="" group-title="Lista 23",Dpelicula
-http://blackghost.live/play/tvghd-400.php?id=dpelicula-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=dpelicula-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="ISAT.mx" tvg-name="Isat" tvg-logo="" group-title="Lista 23",Isat
-http://blackghost.live/play/tvghd-400.php?id=isat-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=isat-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="" group-title="Lista 23",MTV
-http://blackghost.live/play/tvghd-400.php?id=mtv-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=mtv-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="MTVHits.es" tvg-name="MTV Hits" tvg-logo="" group-title="Lista 23",MTV Hits
-http://blackghost.live/play/tvghd-400.php?id=mtv-hits-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=mtv-hits-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="HTV.mx" tvg-name="HTV" tvg-logo="" group-title="Lista 23",HTV
-http://blackghost.live/play/tvghd-400.php?id=htv-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=htv-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="" group-title="Lista 23",Bandamax
-http://blackghost.live/play/tvghd-400.php?id=bandamax-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=bandamax-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="" group-title="Lista 23",Comedy Central
-http://blackghost.live/play/tvghd-400.php?id=comedy-central-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=comedy-central-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="" group-title="Lista 23",National Geographic
-http://blackghost.live/play/tvghd-400.php?id=national-geographic-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=national-geographic-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Lista 23",Nat Geo Wild
-http://blackghost.live/play/tvghd-400.php?id=nat-geo-wild-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=nat-geo-wild-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="animalplanet" tvg-logo="" group-title="Lista 23",animalplanet
-http://blackghost.live/play/tvghd-400.php?id=animal-planet-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=animal-planet-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel" tvg-logo="" group-title="Lista 23",Discovery Channel
-http://blackghost.live/play/tvghd-400.php?id=discovery-channel-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=discovery-channel-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="" group-title="Lista 23",Discovery Turbo
-http://blackghost.live/play/tvghd-400.php?id=discovery-turbo-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=discovery-turbo-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="discoveryhyh" tvg-logo="" group-title="Lista 23",discoveryhyh
-http://blackghost.live/play/tvghd-400.php?id=discovery-home-and-health-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=discovery-home-and-health-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="ID.mx" tvg-name="ID Investigation" tvg-logo="" group-title="Lista 23",ID Investigation
-http://blackghost.live/play/tvghd-400.php?id=id-investigation-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=id-investigation-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="Discovery A&amp;E" tvg-logo="" group-title="Lista 23",Discovery A&amp;E
-http://blackghost.live/play/tvghd-400.php?id=discovery-a-y-e-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=discovery-a-y-e-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="TLC.mx" tvg-name="Discovery TLC" tvg-logo="" group-title="Lista 23",Discovery TLC
-http://blackghost.live/play/tvghd-400.php?id=discovery-tlc-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=discovery-tlc-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater" tvg-logo="" group-title="Lista 23",Discovery Theater
-http://blackghost.live/play/tvghd-400.php?id=discovery-theater-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=discovery-theater-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World" tvg-logo="" group-title="Lista 23",Discovery World
-http://blackghost.live/play/tvghd-400.php?id=discovery-world-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=discovery-world-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="everything" tvg-logo="" group-title="Lista 23",everything
-http://blackghost.live/play/tvghd-400.php?id=everything-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=everything-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime" tvg-logo="" group-title="Lista 23",Lifetime
-http://blackghost.live/play/tvghd-400.php?id=lifetime-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=lifetime-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="" group-title="Lista 23",TBS
-http://blackghost.live/play/tvghd-400.php?id=tbs-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=tbs-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="el gourmet" tvg-logo="" group-title="Lista 23",el gourmet
-http://blackghost.live/play/tvghd-400.php?id=el-gourmet-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=el-gourmet-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="" group-title="Lista 23",Disney Channel
-http://blackghost.live/play/tvghd-400.php?id=disney-channel-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=disney-channel-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Disney xD" tvg-logo="" group-title="Lista 23",Disney xD
-http://blackghost.live/play/tvghd-400.php?id=disney-xd-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=disney-xd-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior" tvg-logo="" group-title="Lista 23",Disney Junior
-http://blackghost.live/play/tvghd-400.php?id=disney-junior-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=disney-junior-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Nick.mx" tvg-name="nick" tvg-logo="" group-title="Lista 23",nick
-http://blackghost.live/play/tvghd-400.php?id=nick-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=nick-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="TeenNick.mx" tvg-name="nick2" tvg-logo="" group-title="Lista 23",nick2
-http://blackghost.live/play/tvghd-400.php?id=nick-2-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=nick-2-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="NickJr.mx" tvg-name="nick jr" tvg-logo="" group-title="Lista 23",nick jr
-http://blackghost.live/play/tvghd-400.php?id=nick-jr-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=nick-jr-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="nicktoons" tvg-logo="" group-title="Lista 23",nicktoons
-http://blackghost.live/play/tvghd-400.php?id=nicktoons-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=nicktoons-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="" group-title="Lista 23",Cartoon Network
-http://blackghost.live/play/tvghd-400.php?id=cartoon-network-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=cartoon-network-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="Boomerang" tvg-logo="" group-title="Lista 23",Boomerang
-http://blackghost.live/play/tvghd-400.php?id=boomerang-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=boomerang-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="" group-title="Lista 23",Tooncast
-http://blackghost.live/play/tvghd-400.php?id=tooncast-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=tooncast-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="" group-title="Lista 23",Discovery Kids
-http://blackghost.live/play/tvghd-400.php?id=discovery-kids-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=discovery-kids-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="Nat Geo Kids" tvg-logo="" group-title="Lista 23",Nat Geo Kids
-http://blackghost.live/play/tvghd-400.php?id=nat-geo-kids-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=nat-geo-kids-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing" tvg-logo="" group-title="Lista 23",Boing
-http://blackghost.live/play/tvghd-400.php?id=boing-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=boing-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="VH1.mx" tvg-name="Vh1" tvg-logo="" group-title="Lista 23",Vh1
-http://blackghost.live/play/tvghd-400.php?id=vh1-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=vh1-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="Vh1 Classic" tvg-logo="" group-title="Lista 23",Vh1 Classic
-http://blackghost.live/play/tvghd-400.php?id=vh1-classic-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=vh1-classic-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="Telehit.mx" tvg-name="TELEHIT" tvg-logo="" group-title="Lista 23",TELEHIT
-http://blackghost.live/play/tvghd-400.php?id=telehit-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=telehit-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="Top Latino" tvg-logo="" group-title="Lista 23",Top Latino
-http://blackghost.live/play/tvghd-400.php?id=top-latino-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=top-latino-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="WWE Network" tvg-logo="" group-title="Lista 23",WWE Network
-http://blackghost.live/play/tvghd-400.php?id=wwe-network-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=wwe-network-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="NBA" tvg-logo="" group-title="Lista 23",NBA
-http://blackghost.live/play/tvghd-400.php?id=nba-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=nba-en-vivo&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="NFL Network" tvg-logo="" group-title="Lista 23",NFL Network
-http://blackghost.live/play/tvghd-400.php?id=nfl-network-en-vivo&f=.m3u8
+http://blackghost.live/play/tghd-400.php?id=nfl-network-en-vivo&f=.m3u8
 
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",USA Network
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4248/12?f=.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/comedyc.png" group-title="SOLO PARA ROKOOS ANGLO",Comedy Central
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4300/12?f=.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png" group-title="SOLO PARA ROKOOS ANGLO",Lifetime
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4285/12?f=.m3u8
 #EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="LMN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",LMN
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4286/12?f=.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/food.png" group-title="SOLO PARA ROKOOS ANGLO",Food Network
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4279/12?f=.m3u8
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/civil.png" group-title="SOLO PARA ROKOOS ANGLO",HGTV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4278/12?f=.m3u8
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Cooking Channel
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94083/12?f=.m3u8
 #EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/eent.png" group-title="SOLO PARA ROKOOS ANGLO",E!
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4289/12?f=.m3u8
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="SOLO PARA ROKOOS ANGLO",A&E
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4237/12?f=.m3u8
 #EXTINF:-1 tvg-id="FYI.us" tvg-name="FYI" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",FYI
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4260/12?f=.m3u8
 #EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="SOLO PARA ROKOOS ANGLO",History
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4306/12?f=.m3u8
 #EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Vice
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4339/12?f=.m3u8
 #EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png" group-title="SOLO PARA ROKOOS ANGLO",SYFY
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4249/12?f=.m3u8
 #EXTINF:-1 tvg-id="BET.us" tvg-name="BET Networks" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",BET Networks
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94097/12?f=.m3u8
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",FXX
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4334/12?f=.m3u8
 #EXTINF:-1 tvg-id="WEtv.us" tvg-name="WE TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",WE TV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4375/12?f=.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amc.png" group-title="SOLO PARA ROKOOS ANGLO",AMC
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4235/12?f=.m3u8
 #EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="SOLO PARA ROKOOS ANGLO",FX
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4290/12?f=.m3u8
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="SOLO PARA ROKOOS ANGLO",TNT
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4238/12?f=.m3u8
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="SOLO PARA ROKOOS ANGLO",TBS
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4314/12?f=.m3u8
 #EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="SOLO PARA ROKOOS ANGLO",Galavisión
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
 #EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcuni.png" group-title="SOLO PARA ROKOOS ANGLO",Universo
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8
 #EXTINF:-1 tvg-id="PasionesTV(Spanish).us" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/pasin.png" group-title="SOLO PARA ROKOOS ANGLO",Pasiones
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94104/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="SOLO PARA ROKOOS ANGLO",ESPN
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4242/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",ESPN U
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4345/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="SOLO PARA ROKOOS ANGLO",ESPN 2
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4243/12?f=.m3u8
 #EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="Motor Trend" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Motor Trend
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94106/12?f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",FS1
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94096/12?f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FS2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",FS2
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97864/12?f=.m3u8
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",CBS Sports Network
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4310/12?f=.m3u8
 #EXTINF:-1 tvg-id="NBCSN.us" tvg-name="NBCSN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcsp.png" group-title="SOLO PARA ROKOOS ANGLO",NBCSN
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94093/12?f=.m3u8
 #EXTINF:-1 tvg-id="TheSportsmanChannel.us" tvg-name="Sportsman Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Sportsman Channel
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4298/12?f=.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Outdoor Channel
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4407/12?f=.m3u8
 #EXTINF:-1 tvg-id="TheCowboyChannel.us" tvg-name="The Cowboy Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",The Cowboy Channel
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97933/12?f=.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Tennis Channel
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94108/12?f=.m3u8
 #EXTINF:-1 tvg-id="TheGolfChannel.us" tvg-name="Golf Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/golf.png" group-title="SOLO PARA ROKOOS ANGLO",Golf Channel
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4288/12?f=.m3u8
 #EXTINF:-1 tvg-id="GOLTV(Spanish).us" tvg-name="GolTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gol.png" group-title="SOLO PARA ROKOOS ANGLO",GolTV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/90366/12?f=.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SOLO PARA ROKOOS ANGLO",Bein Ñ
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4388/12?f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="Bein Ñ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SOLO PARA ROKOOS ANGLO",Bein Ñ
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="Bein Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Bein Sports
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97912/12?f=.m3u8
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",MLB Network
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97839/12?f=.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",NBA TV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97840/12?f=.m3u8
 #EXTINF:-1 tvg-id="NFLNETWORK.us" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",NFL Network
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/574/12?f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="SOLO PARA ROKOOS ANGLO",TUDN USA
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="SOLO PARA ROKOOS ANGLO",ESPN Deportes
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="SOLO PARA ROKOOS ANGLO",MTV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4299/12?f=.m3u8
 #EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="SOLO PARA ROKOOS ANGLO",VH1
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4322/12?f=.m3u8
 #EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",CMT
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4308/12?f=.m3u8
 #EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXSTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",AXSTV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4240/12?f=.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nick" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png" group-title="SOLO PARA ROKOOS ANGLO",Nick
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/89973/12?f=.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="SOLO PARA ROKOOS ANGLO",Disney Channel
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4366/12?f=.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="SOLO PARA ROKOOS ANGLO",Cartoon Network
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4280/12?f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Discovery Family
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4309/12?f=.m3u8
 #EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Freeform
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4367/12?f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="SOLO PARA ROKOOS ANGLO",Discovery
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4302/12?f=.m3u8
 #EXTINF:-1 tvg-id="TheLearningChannel.us" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg" group-title="SOLO PARA ROKOOS ANGLO",TLC
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4303/12?f=.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="SOLO PARA ROKOOS ANGLO",Animal Planet
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4304/12?f=.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="SOLO PARA ROKOOS ANGLO",National Geographic
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4246/12?f=.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="NatGeo Wild" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="SOLO PARA ROKOOS ANGLO",NatGeo Wild
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4262/12?f=.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="SOLO PARA ROKOOS ANGLO",ID
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94099/12?f=.m3u8
 #EXTINF:-1 tvg-id="Science.us" tvg-name="Science" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Science
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4305/12?f=.m3u8
 #EXTINF:-1 tvg-id="TheTravelChannel.us" tvg-name="Trvl" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Trvl
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4254/12?f=.m3u8
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Destination America
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94086/12?f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="SOLO PARA ROKOOS ANGLO",Discovery En Español
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97932/12?f=.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnn.png" group-title="SOLO PARA ROKOOS ANGLO",CNN
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4253/12?f=.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/foxn.png" group-title="SOLO PARA ROKOOS ANGLO",Fox News
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4292/12?f=.m3u8
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="Fox Business" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Fox Business
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4291/12?f=.m3u8
 #EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",CNBC
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4256/12?f=.m3u8
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",The Weather Channel
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4255/12?f=.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Paramount Network
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4321/12?f=.m3u8
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="TruTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/trutv.png" group-title="SOLO PARA ROKOOS ANGLO",TruTV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4247/12?f=.m3u8
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="SOLO PARA ROKOOS ANGLO",HBO
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4293/12?f=.m3u8
 #EXTINF:-1 tvg-id="5StarMAX.us" tvg-name="5 Star Max" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",5 Star Max
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4258/12?f=.m3u8
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime (E)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Showtime (E)
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94088/12?f=.m3u8
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime (W)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Showtime (W)
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94098/12?f=.m3u8
 #EXTINF:-1 tvg-id="TheMovieChannel.us" tvg-name="The Movie Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",The Movie Channel
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94089/12?f=.m3u8
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Starz
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94094/12?f=.m3u8
 #EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Starz Comedy
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4301/12?f=.m3u8
 #EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="Starz Family" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Starz Family
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4312/12?f=.m3u8
 #EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fxm.png" group-title="SOLO PARA ROKOOS ANGLO",FXM
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4257/12?f=.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Hallmark
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4297/12?f=.m3u8
 #EXTINF:-1 tvg-id="CineLatinoUS(Spanish).us" tvg-name="Cine Latino" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/latinopl.png" group-title="SOLO PARA ROKOOS ANGLO",Cine Latino
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97902/12?f=.m3u8
 #EXTINF:-1 tvg-id="KVIADT.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",ABC
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93841/12?f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",CBS
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93842/12?f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",NBC
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93843/12?f=.m3u8
 #EXTINF:-1 tvg-id="KMEXDT(Spanish).us" tvg-name="Univisión Pac" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="SOLO PARA ROKOOS ANGLO",Univisión Pac
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC (Alt.)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",NBC (Alt.)
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93845/12?f=.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/estrella.png" group-title="SOLO PARA ROKOOS ANGLO",Estrella TV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97889/12?f=.m3u8
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="SOLO PARA ROKOOS ANGLO",Telemundo
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
 #EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" tvg-name="Telemundo Pac" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="SOLO PARA ROKOOS ANGLO",Telemundo Pac
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97838/12?f=.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="SOLO PARA ROKOOS ANGLO",Univisión
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
 #EXTINF:-1 tvg-id="UniMas(Spanish).us" tvg-name="UniMas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="SOLO PARA ROKOOS ANGLO",UniMas
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ENLACETV.co" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace
@@ -5378,20 +5637,29 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="RealExtreme.us" tvg-name="RealExtreme" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/realx.png" group-title="SOLO PARA ROKOOS +18",RealExtreme
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/491REALX/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="BraZZersTVPlus.us" tvg-name="Brazzers TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/braz.png" group-title="SOLO PARA ROKOOS +18",Brazzers TV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/493BRAZZ/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TenXX5.us" tvg-name="TEN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ten.png" group-title="SOLO PARA ROKOOS +18",TEN
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/494TEN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="RealityKingsTV.us" tvg-name="RK" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rk.png" group-title="SOLO PARA ROKOOS +18",RK
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/495RKTV/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Hustler.us" tvg-name="Hustler TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hus.png" group-title="SOLO PARA ROKOOS +18",Hustler TV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/496HUSLR/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="XtsyNewFrontier(English).mx" tvg-name="XTSY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xtsy.png" group-title="SOLO PARA ROKOOS +18",XTSY
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/498XTSY/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Playboy.mx" tvg-name="Playboy TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/plby.png" group-title="SOLO PARA ROKOOS +18",Playboy TV
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/484Playboy/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Venus.mx" tvg-name="Venus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vens.png" group-title="SOLO PARA ROKOOS +18",Venus
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/488Venus/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="SeXtreme.mx" tvg-name="Sextreme" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sextr.jpg" group-title="SOLO PARA ROKOOS +18",Sextreme
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://23.237.29.98:2095/490Sextreme/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
