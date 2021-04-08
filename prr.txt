@@ -383,13 +383,13 @@ http://balancer1.ottmex.com:8081/tecno/TNT_Series.TecnoByte/chunks.m3u8
 http://balancer1.ottmex.com:8081/tecno/Tnt.TecnoByte/chunks.m3u8
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="TODO ES MAS",HBO
 http://balancer1.ottmex.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="TODO ES MAS",HBO 2
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="TODO ES MAS",HBO 2
 http://balancer1.ottmex.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-id="HBOPlus.co" tvg-name="HBO PLUS" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/9c/HBOPlusLA.png/revision/latest?cb=20190426122716&path-prefix=es" group-title="TODO ES MAS",HBO PLUS
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/9c/HBOPlusLA.png/revision/latest?cb=20190426122716&path-prefix=es" group-title="TODO ES MAS",HBO PLUS
 http://balancer1.ottmex.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-id="HBOSignature.co" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="TODO ES MAS",HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="TODO ES MAS",HBO SIGNATURE
 http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.co" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TODO ES MAS",HBO FAMILY
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TODO ES MAS",HBO FAMILY
 http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
 #EXTINF:-1 tvg-id="StarAction.co" tvg-name="STAR ACTION" tvg-logo="https://images.mediotiempo.com/sCBrGhpGD0WoHv0OpqGNQjo_9i8=/958x596/uploads/media/2021/01/29/star-channel-mantendra-programacion-habitual.jpg" group-title="TODO ES MAS",STAR ACTION
 http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
@@ -680,7 +680,7 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/94068/12?f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="SOLO PARA ROKOOS",TUDN
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/290/12?f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="SOLO PARA ROKOOS",TUDN USA
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/561/12?f=.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="SOLO PARA ROKOOS",Claro Sports
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/421/12?f=.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="Adrenalina Sports Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/asn.png" group-title="SOLO PARA ROKOOS",Adrenalina Sports Network
