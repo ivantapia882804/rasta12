@@ -5,12 +5,14 @@
 http://
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas (HD)
 https://blackghost.live/play/totalp1-402.php?c=1784&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TPLEY",Imagen Televisión (HD)
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="RECOMENDADOS",Imagen Televisión (HD)
 https://blackghost.live/play/totalp1-402.php?c=2606&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="RECOMENDADOS",Canal 5 (HD)
 https://blackghost.live/play/totalp1-402.php?c=1785&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="RECOMENDADOS",Azteca 7 (HD)
 https://blackghost.live/play/totalp1-402.php?c=317&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="RECOMENDADOS",NU9VE
+https://blackghost.live/play/totalp1-402.php?c=1783&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="MX | ESPN 1 NORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU" group-title="RECOMENDADOS",MX | ESPN 1 NORTE
 http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="MX | ESPN 2 NORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26QU1pi5nhbw9hndTtO7GOZJfwoMPtlED0Q&usqp=CAU" group-title="RECOMENDADOS",MX | ESPN 2 NORTE
@@ -1275,43 +1277,43 @@ https://blackghost.live/play/wistream-402.php?cat=latinos&ch=ciudadmagazine&k=bl
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=a24&k=black--gh0st&f=.m3u8
 #EXTINF:-1 tvg-id="XHLTDT.mx" tvg-name="TELEVISA DEL BAJIO-" tvg-logo="/logos/televisabajio.png" group-title="Lista 16",TELEVISA DEL BAJIO-
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=canalbajio&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5 TELEVISA" tvg-logo="/logos/canal5televisa.png" group-title="Lista 16",CANAL 5 TELEVISA
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="/logos/canal5televisa.png" group-title="Lista 16",CANAL 5
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=canal5televisa&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="AZTECA 1" tvg-logo="/logos/azteca.png" group-title="Lista 16",AZTECA 1
+#EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="AZTECA UNO" tvg-logo="/logos/azteca.png" group-title="Lista 16",AZTECA UNO
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=azteca&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA SIETE" tvg-logo="/logos/azteca7.png" group-title="Lista 16",AZTECA SIETE
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="/logos/azteca7.png" group-title="Lista 16",AZTECA 7
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=azteca7&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="AZTECA MAS" tvg-logo="/logos/aztecamas.png" group-title="Lista 16",AZTECA MAS
+#EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+" tvg-logo="/logos/aztecamas.png" group-title="Lista 16",A+
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=aztecamas&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="Cinema.mx" tvg-name="AZTECA CINEMA" tvg-logo="/logos/aztecacinema.png" group-title="Lista 16",AZTECA CINEMA
+#EXTINF:-1 tvg-id="Cinema.mx" tvg-name="CINEMA" tvg-logo="/logos/aztecacinema.png" group-title="Lista 16",CINEMA
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=aztecacinema&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="Mundo.mx" tvg-name="AZTECA MUNDO" tvg-logo="/logos/aztecamundo.png" group-title="Lista 16",AZTECA MUNDO
+#EXTINF:-1 tvg-id="Mundo.mx" tvg-name="MUNDO" tvg-logo="/logos/aztecamundo.png" group-title="Lista 16",MUNDO
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=aztecamundo&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="Corazon.mx" tvg-name="AZTECA CORAZON" tvg-logo="/logos/aztecacorazon.png" group-title="Lista 16",AZTECA CORAZON
+#EXTINF:-1 tvg-id="Corazon.mx" tvg-name="CORAZON" tvg-logo="/logos/aztecacorazon.png" group-title="Lista 16",CORAZON
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=aztecacorazon&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="CANAL LAS ESTRELLAS" tvg-logo="/logos/canalestrellas.png" group-title="Lista 16",CANAL LAS ESTRELLAS
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="/logos/canalestrellas.png" group-title="Lista 16",LAS ESTRELLAS
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=canalestrellas&k=black--gh0st&f=.m3u8
 #EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="TLNOVELAS" tvg-logo="/logos/telenovelas.png" group-title="Lista 16",TLNOVELAS
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=telenovelas&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV LATINO" tvg-logo="/logos/mtvlatino.png" group-title="Lista 16",MTV LATINO
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="/logos/mtvlatino.png" group-title="Lista 16",MTV
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=mtv&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="FOX LATINO" tvg-logo="/logos/foxlatino.png" group-title="Lista 16",FOX LATINO
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL" tvg-logo="/logos/foxlatino.png" group-title="Lista 16",STAR CHANNEL
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=fox&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="StarSeries.ar" tvg-name="FOX PREMIUM SERIES" tvg-logo="/logos/foxseries.png" group-title="Lista 16",FOX PREMIUM SERIES
+#EXTINF:-1 tvg-id="StarSeries.ar" tvg-name="STAR SERIES" tvg-logo="/logos/foxseries.png" group-title="Lista 16",STAR SERIES
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=foxseries&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="STARFUN.ar" tvg-name="FOX PREMIUM FAMILY" tvg-logo="/logos/foxfamily.png" group-title="Lista 16",FOX PREMIUM FAMILY
+#EXTINF:-1 tvg-id="STARFUN.ar" tvg-name="STAR FUN" tvg-logo="/logos/foxfamily.png" group-title="Lista 16",STAR FUN
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=foxfamily&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="STARCINEMA.ar" tvg-name="FOX PREMIUM CINEMA" tvg-logo="/logos/foxcinema.png" group-title="Lista 16",FOX PREMIUM CINEMA
+#EXTINF:-1 tvg-id="STARCINEMA.ar" tvg-name="STAR CINEMA" tvg-logo="/logos/foxcinema.png" group-title="Lista 16",STAR CINEMA
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=foxcinema&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="STARCOMEDY.ar" tvg-name="FOX PREMIUM COMEDY" tvg-logo="/logos/foxcomedy.png" group-title="Lista 16",FOX PREMIUM COMEDY
+#EXTINF:-1 tvg-id="STARCOMEDY.ar" tvg-name="STAR COMEDY" tvg-logo="/logos/foxcomedy.png" group-title="Lista 16",STAR COMEDY
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=foxcomedy&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="StarClassics.ar" tvg-name="FOX PREMIUM CLASICS" tvg-logo="/logos/foxclassics.png" group-title="Lista 16",FOX PREMIUM CLASICS
+#EXTINF:-1 tvg-id="StarClassics.ar" tvg-name="STAR CLASSICS" tvg-logo="/logos/foxclassics.png" group-title="Lista 16",STAR CLASSICS
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=foxclassics&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="StarHits.co" tvg-name="FOX PREMIUM MOVIES" tvg-logo="/logos/foxmovies.png" group-title="Lista 16",FOX PREMIUM MOVIES
+#EXTINF:-1 tvg-id="StarHits.co" tvg-name="STAR HITS" tvg-logo="/logos/foxmovies.png" group-title="Lista 16",STAR HITS
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=foxmovies&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="StarLife.mx" tvg-name="FOX LIFE LATINO" tvg-logo="/logos/foxlifelatino.png" group-title="Lista 16",FOX LIFE LATINO
+#EXTINF:-1 tvg-id="StarLife.mx" tvg-name="STAR LIFE" tvg-logo="/logos/foxlifelatino.png" group-title="Lista 16",STAR LIFE
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=foxlife&k=black--gh0st&f=.m3u8
-#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO LATINO" tvg-logo="/logos/hbo.png" group-title="Lista 16",HBO LATINO
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO" tvg-logo="/logos/hbo.png" group-title="Lista 16",HBO
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=hbo&k=black--gh0st&f=.m3u8
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2" tvg-logo="/logos/hbo2.png" group-title="Lista 16",HBO 2
 https://blackghost.live/play/wistream-402.php?cat=latinos&ch=hbo2&k=black--gh0st&f=.m3u8
@@ -4273,7 +4275,7 @@ http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
 http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 6 JUAREZ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)",CANAL 6 JUAREZ
 http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 8 COSTA RICA" tvg-logo="" group-title="FTA (LOCALES LIBRES)",CANAL 8 COSTA RICA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 8 COSTA RICA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c8cr.png" group-title="FTA (LOCALES LIBRES)",CANAL 8 COSTA RICA
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="TELERITMO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="FTA (LOCALES LIBRES)",TELERITMO
 http://mdstrm.com/live-stream-playlist_800/57b4dc126338448314449d0c.m3u8
