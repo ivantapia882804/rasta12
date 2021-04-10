@@ -5,6 +5,8 @@
 http://
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas (HD)
 https://blackghost.live/play/totalp1-402.php?c=1784&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TPLEY",Imagen Televisión (HD)
+https://blackghost.live/play/totalp1-402.php?c=2606&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="RECOMENDADOS",Canal 5 (HD)
 https://blackghost.live/play/totalp1-402.php?c=1785&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="RECOMENDADOS",Azteca 7 (HD)
@@ -27,9 +29,7 @@ https://blackghost.live/play/totalp1-402.php?c=2564&p=3&k=black&f=.m3u8
 https://blackghost.live/play/25-402.php?c=61840
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Premier (Sky)" tvg-logo="" group-title="RECOMENDADOS",La Premier (Sky)
 https://blackghost.live/play/25-402.php?c=61839
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Premier (Sky)" tvg-logo="" group-title="RECOMENDADOS",La Premier (Sky)
-https://blackghost.live/play/25-402.php?c=61906
-#EXTINF:-1 tvg-id="StarAction.co" tvg-name="STAR ACTION" tvg-logo="https://images.mediotiempo.com/sCBrGhpGD0WoHv0OpqGNQjo_9i8=/958x596/uploads/media/2021/01/29/star-channel-mantendra-programacion-habitual.jpg" group-title="RECOMENDADOS",STAR ACTION
+#EXTINF:-1 tvg-id="StarAction.mx" tvg-name="STAR ACTION" tvg-logo="https://images.mediotiempo.com/sCBrGhpGD0WoHv0OpqGNQjo_9i8=/958x596/uploads/media/2021/01/29/star-channel-mantendra-programacion-habitual.jpg" group-title="RECOMENDADOS",STAR ACTION
 http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
