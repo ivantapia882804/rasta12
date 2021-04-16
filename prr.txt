@@ -27,6 +27,8 @@ http://balancer1.ottmex.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
 https://blackghost.live/play/totalp1-406.php?c=336&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
+#EXTINF:-1 tvg-id="TelemundoTelevisionNetwork(Spanish).us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="RECOMENDADOS",Telemundo
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="RECOMENDADOS",ESPN Deportes | HD
