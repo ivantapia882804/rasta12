@@ -5,14 +5,10 @@
 http://
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas (HD)
 https://blackghost.live/play/totalp1-429.php?c=1784&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="RECOMENDADOS",Imagen Televisión
-https://blackghost.live/play/totalp1-429.php?c=2298&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="RECOMENDADOS",Canal 5 (HD)
 https://blackghost.live/play/totalp1-429.php?c=1785&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="RECOMENDADOS",Azteca 7 (HD)
 https://blackghost.live/play/totalp1-429.php?c=317&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="RECOMENDADOS",NU9VE
-https://blackghost.live/play/totalp1-429.php?c=24&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="MX | ESPN 1 NORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU" group-title="RECOMENDADOS",MX | ESPN 1 NORTE
 http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="MX | ESPN 2 NORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26QU1pi5nhbw9hndTtO7GOZJfwoMPtlED0Q&usqp=CAU" group-title="RECOMENDADOS",MX | ESPN 2 NORTE
@@ -25,24 +21,14 @@ http://balancer1.ottmex.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
 http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports
 https://blackghost.live/play/totalp1-429.php?c=2564&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="MX | AFIZZIONADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/1200px-Afizzionados_Logo.svg.png" group-title="RECOMENDADOS",MX | AFIZZIONADOS
-http://balancer1.ottmex.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="RECOMENDADOS",TNT
-https://blackghost.live/play/totalp1-429.php?c=126&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="RECOMENDADOS",TNT Series
-https://blackghost.live/play/totalp1-429.php?c=71&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="StarAction.co" tvg-name="Star Action" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="RECOMENDADOS",Star Action
-https://blackghost.live/play/totalp1-429.php?c=336&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
-#EXTINF:-1 tvg-id="TelemundoTelevisionNetwork(Spanish).us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="RECOMENDADOS",Telemundo
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
-#EXTINF:-1 tvg-id="KVIADT.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="RECOMENDADOS",ABC
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/93841/12?f=.m3u8
+#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="RECOMENDADOS",UniMas
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
+#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="RECOMENDADOS",Galavisión
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="RECOMENDADOS",ESPN Deportes | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="RECOMENDADOS",Bein Ñ
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
 
