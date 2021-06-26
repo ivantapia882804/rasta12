@@ -37,6 +37,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="RECOMENDADOS",ESPN Deportes | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
+#EXTINF:-1 tvg-id="Canal4Nacional.sv" tvg-name="Canal 4 TCS (Salvadoreño)" tvg-logo="" group-title="RECOMENDADOS",Canal 4 TCS (Salvadoreño)
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148605
 
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="SOLO PARA ROKOOS",Azteca Uno
