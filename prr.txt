@@ -67,7 +67,7 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/197/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/472/12?f=.m3u8
 #EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="SOLO PARA ROKOOS",Canal Catorce
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/471/12?f=.m3u8
-#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="Ingenio TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="SOLO PARA ROKOOS",Ingenio TV
+#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="Ingenio TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" group-title="SOLO PARA ROKOOS",Ingenio TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/469/12?f=.m3u8
 #EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unam.png" group-title="SOLO PARA ROKOOS",TV UNAM
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/239/12?f=.m3u8
@@ -327,7 +327,7 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/277/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97900/12?f=.m3u8
 #EXTINF:-1 tvg-id="StarHits.mx" tvg-name="Star Hits" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="SOLO PARA ROKOOS",Star Hits
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/278/12?f=.m3u8
-#EXTINF:-1 tvg-id="STARFUN.ar" tvg-name="Star Fun" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starfamily.png" group-title="SOLO PARA ROKOOS",Star Fun
+#EXTINF:-1 tvg-id="STARFUN.co" tvg-name="Star Fun" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starfamily.png" group-title="SOLO PARA ROKOOS",Star Fun
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/275/12?f=.m3u8
 #EXTINF:-1 tvg-id="StarClassics.mx" tvg-name="Star Classics" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starclassics.png" group-title="SOLO PARA ROKOOS",Star Classics
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/279/12?f=.m3u8
@@ -405,11 +405,11 @@ https://blackghost.live/play/totalp1-709.php?c=2298&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-709.php?c=1449&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 Monterrey (XHAW-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="TPLEY",Canal 6 Monterrey (XHAW-TDT)
 https://blackghost.live/play/totalp1-709.php?c=2305&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="Aprende En Casa III-4 (14.2/22.1 Nal)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="TPLEY",Aprende En Casa III-4 (14.2/22.1 Nal)
+#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="Ingenio TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" group-title="TPLEY",Ingenio TV
 https://blackghost.live/play/totalp1-709.php?c=401&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="MultimediosUSA(Spanish).us" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="TPLEY",Canal 6 CDMX
 https://blackghost.live/play/totalp1-709.php?c=1253&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="CVShopping.mx" tvg-name="CV Shopping (6.3/12.3 MT/SA)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cv.png" group-title="TPLEY",CV Shopping (6.3/12.3 MT/SA)
+#EXTINF:-1 tvg-id="CVShopping.mx" tvg-name="CV Shopping (6.3/12.3 MT-SA)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cv.png" group-title="TPLEY",CV Shopping (6.3/12.3 MT-SA)
 https://blackghost.live/play/totalp1-709.php?c=1943&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="TPLEY",NU9VE
 https://blackghost.live/play/totalp1-709.php?c=1783&p=3&k=black&f=.m3u8
@@ -429,9 +429,9 @@ https://blackghost.live/play/totalp1-709.php?c=2149&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-709.php?c=2156&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="XHLEGTDT.mx" tvg-name="TV Cuatro" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="TPLEY",TV Cuatro
 https://blackghost.live/play/totalp1-709.php?c=2274&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XHCNLTDT.mx" tvg-name="Televisa Monterrey (XHCNL-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhcnl.png" group-title="TPLEY",Televisa Monterrey (XHCNL-TDT)
+#EXTINF:-1 tvg-id="XHCNLTDT.mx" tvg-name="Canal 8 Monterrey (XHCNL-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhcnl.png" group-title="TPLEY",Canal 8 Monterrey (XHCNL-TDT)
 https://blackghost.live/play/totalp1-709.php?c=2307&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XHPTDT.mx" tvg-name="Televisa Puebla" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhp.jpg" group-title="TPLEY",Televisa Puebla
+#EXTINF:-1 tvg-id="XHPTDT.mx" tvg-name="Canal 4 Puebla" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhp.jpg" group-title="TPLEY",Canal 4 Puebla
 https://blackghost.live/play/totalp1-709.php?c=2312&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="A+ (XHFN-TDT2)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhfn2.png" group-title="TPLEY",A+ (XHFN-TDT2)
 https://blackghost.live/play/totalp1-709.php?c=2316&p=3&k=black&f=.m3u8
@@ -783,24 +783,6 @@ http://balancer1.ottmex.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
 http://balancer1.ottmex.com:8081/tecno/FoxSports3.BKR/chunks.m3u
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="MX | AFIZZIONADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/1200px-Afizzionados_Logo.svg.png" group-title="TODO ES MAS",MX | AFIZZIONADOS
 http://balancer1.ottmex.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
-
-
-#EXTINF:-1 tvg-id="Onceninos.mx" tvg-name="Aprende En Casa III-1 (5.2/11.2)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa",Aprende En Casa III-1 (5.2/11.2)
-https://6011c5681d877.streamlock.net:1936/video/video/playlist.m3u8
-#EXTINF:-1 tvg-id="XHIMTTDT3.mx" tvg-name="Aprende En Casa III-2 (7.3 Nal/40.2 VM)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa",Aprende En Casa III-2 (7.3 Nal/40.2 VM)
-http://187.189.119.135:8000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="XHCTRMTDT2.mx" tvg-name="Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa",Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM)
-https://6011c5681d877.streamlock.net:1936/prueba/prueba/playlist.m3u8
-#EXTINF:-1 tvg-id="XHCTRMTDT2.mx" tvg-name="Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM) (Alt.)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa",Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM) (Alt.)
-http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aprende En Casa III-4 (14.2/22.1 Nal)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa",Aprende En Casa III-4 (14.2/22.1 Nal)
-https://6011c5681d877.streamlock.net:1936/stream/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aprende En Casa III-4 (6.3) (Alt.)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa",Aprende En Casa III-4 (6.3) (Alt.)
-http://mdstrm.com/live-stream-playlist_2500/5cfe8974ef9acc25607a7dec.m3u8?
-#EXTINF:-1 tvg-id="Onceninos.mx" tvg-name="Aprende En Casa III-1 (5.2/11.2)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa",Aprende En Casa III-1 (5.2/11.2)
-http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aprende En Casa III-4 (6.3/22.1 Nal)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Aprende En Casa",Aprende En Casa III-4 (6.3/22.1 Nal)
-http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch02)/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS" tvg-logo="/logos/tntsports.png" group-title="Lista 16",TNT SPORTS
@@ -4093,16 +4075,8 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.2 | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="FTA (LOCALES LIBRES)",Canal Del Congreso 45.2 | SD
 https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Onceninos.mx" tvg-name="Aprende En Casa III-1 (5.2/11.2) | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)",Aprende En Casa III-1 (5.2/11.2) | SD
-https://6011c5681d877.streamlock.net:1936/video/video/playlist.m3u8
-#EXTINF:-1 tvg-id="XHCTRMTDT2.mx" tvg-name="Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM) | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)",Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM) | SD
-https://6011c5681d877.streamlock.net:1936/prueba/prueba/playlist.m3u8
-#EXTINF:-1 tvg-id="XHCTRMTDT2.mx" tvg-name="Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM) (Alt.) | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)",Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM) (Alt.) | SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.3 | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="FTA (LOCALES LIBRES)",Canal Del Congreso 45.3 | SD
 http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aprende En Casa III-4 (14.2/22.1 Nal) | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)",Aprende En Casa III-4 (14.2/22.1 Nal) | SD
-https://6011c5681d877.streamlock.net:1936/stream/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aprende En Casa III-4 (6.3) | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)",Aprende En Casa III-4 (6.3) | HD
-http://mdstrm.com/live-stream-playlist_2500/5cfe8974ef9acc25607a7dec.m3u8?
 #EXTINF:-1 tvg-id="QuieroTv.mx" tvg-name="Quiero TV | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ochotv.png" group-title="FTA (LOCALES LIBRES)",Quiero TV | SD
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 4 RCG | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg" group-title="FTA (LOCALES LIBRES)",Canal 4 RCG | SD
@@ -4141,19 +4115,19 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 https://live2.canaloncelive.tv/spr/smil:spr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="CANAL 22" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="FTA (LOCALES LIBRES)",CANAL 22
 https://5fe2654d6127d.streamlock.net/canal22/videocanal22/playlist.m3u8
-#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="CANAL 22.2 (ESPEJO 3.2/20.1 NAL/45.3 VM DIF.)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="FTA (LOCALES LIBRES)",CANAL 22.2 (ESPEJO 3.2/20.1 NAL/45.3 VM DIF.)
+#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="CANAL 22.2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="FTA (LOCALES LIBRES)",CANAL 22.2
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 #EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="MEXIQUENSE TELEVISIÓN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="FTA (LOCALES LIBRES)",MEXIQUENSE TELEVISIÓN
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX NOTICIAS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="FTA (LOCALES LIBRES)",AMX NOTICIAS
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET TELEVISIÓN PUEBLA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/set.png" group-title="FTA (LOCALES LIBRES)",SET TELEVISIÓN PUEBLA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET PUEBLA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/set.png" group-title="FTA (LOCALES LIBRES)",SET PUEBLA
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV CUATRO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)",TV CUATRO
 https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV CUATRO MEDIA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)",TV CUATRO MEDIA
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV CUATRO EXPRESA (ESPEJO 14.2/22.1 NAL)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)",TV CUATRO EXPRESA (ESPEJO 14.2/22.1 NAL)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV CUATRO EXPRESA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)",TV CUATRO EXPRESA
 https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IMRyT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/imryt.png" group-title="FTA (LOCALES LIBRES)",IMRyT
 http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
@@ -4169,11 +4143,11 @@ https://liveingesta118.cdnmedia.tv/udgmxlive/smil:canal44.smil/playlist.m3u8
 https://liveingesta118.cdnmedia.tv/udgmxlive/smil:44noticias.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIEZ CHIAPAS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/diez.png" group-title="FTA (LOCALES LIBRES)",DIEZ CHIAPAS
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SM (ESPEJO 3.2/20.1 NAL/45.3 VM)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/smr.png" group-title="FTA (LOCALES LIBRES)",SM (ESPEJO 3.2/20.1 NAL/45.3 VM)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/smr.png" group-title="FTA (LOCALES LIBRES)",SM
 https://5e307acc9a171.streamlock.net:1936/noticias/noticias/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV MAS 26.1 (ESPEJO 3.2/20.1 NAL/45.3 VM)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="FTA (LOCALES LIBRES)",TV MAS 26.1 (ESPEJO 3.2/20.1 NAL/45.3 VM)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV MAS 26.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="FTA (LOCALES LIBRES)",TV MAS 26.1
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SIZART CANAL 24 (ESPEJO 3.2/20.1 NAL/45.3 VM DIF.)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sizart.png" group-title="FTA (LOCALES LIBRES)",SIZART CANAL 24 (ESPEJO 3.2/20.1 NAL/45.3 VM DIF.)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SIZART CANAL 24" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sizart.png" group-title="FTA (LOCALES LIBRES)",SIZART CANAL 24
 https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTQ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="FTA (LOCALES LIBRES)",RTQ
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
