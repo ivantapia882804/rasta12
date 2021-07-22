@@ -23,6 +23,8 @@ https://blackghost.live/play/totalp1-755.php?c=170&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-755.php?c=172&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN (HD)
 https://blackghost.live/play/totalp1-755.php?c=174&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="" group-title="RECOMENDADOS",Afizzionados
+https://blackghost.live/play/codeplus4-755.php?c=4871
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports
 https://blackghost.live/play/totalp1-755.php?c=2564&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="StarAction.mx" tvg-name="Star Action" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="RECOMENDADOS",Star Action
@@ -2098,483 +2100,1730 @@ https://blackghost.live/play/codeplus3-755.php?c=34645
 https://blackghost.live/play/codeplus3-755.php?c=34647
 
 
-#EXTINF:-1 group-title="Lista 22",AZTECA UNO MX
-http://blackghost.live/play/futvall-755.php?id=aztecauno&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CANAL 2 MX
-http://blackghost.live/play/futvall-755.php?id=eldos&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CANAL 5 MX
-http://blackghost.live/play/futvall-755.php?id=elcinco&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZTECA 7 MX
-http://blackghost.live/play/futvall-755.php?id=azteca7&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",NUEVE
-http://blackghost.live/play/futvall-755.php?id=elnueve&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",IMAGEN TV
-http://blackghost.live/play/futvall-755.php?id=imagentv&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR ACTION
-http://blackghost.live/play/futvall-755.php?id=staraction&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",SPACE
-http://blackghost.live/play/futvall-755.php?id=space&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ADRENALINA
-http://blackghost.live/play/futvall-755.php?id=adrenalina&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AFIZZIONADOS
-http://blackghost.live/play/futvall-755.php?id=afizzionados&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AyM Sports
-http://blackghost.live/play/futvall-755.php?id=aymsports&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",BASKET AMERICAS
-http://blackghost.live/play/futvall-755.php?id=basket&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",BEIN SPORTS Ñ
-http://blackghost.live/play/futvall-755.php?id=beines&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",BEIN US HD
-http://blackghost.live/play/futvall-755.php?id=beinhd&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",DIRECTV SPORTS
-http://blackghost.live/play/futvall-755.php?id=directv&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",DIRECTV 2
-http://blackghost.live/play/futvall-755.php?id=directv2&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CLARO SPORTS
-http://blackghost.live/play/futvall-755.php?id=clarosports&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ESPN Deportes
-http://blackghost.live/play/futvall-755.php?id=espndep&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ESPN 1 MX
-http://blackghost.live/play/futvall-755.php?id=espn1-mx&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ESPN 2 MX
-http://blackghost.live/play/futvall-755.php?id=espn2-mx&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ESPN 3 MX
-http://blackghost.live/play/futvall-755.php?id=espn3-mx&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ESPN EXTRA
-http://blackghost.live/play/futvall-755.php?id=espnextra-mx&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOX SPORTS 1 MX
-http://blackghost.live/play/futvall-755.php?id=foxsports1-mx&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOX SPORTS 2 MX
-http://blackghost.live/play/futvall-755.php?id=foxsports2-mx&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOX SPORTS 3 MX
-http://blackghost.live/play/futvall-755.php?id=foxsports3-mx&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOX SPORTS PREMIUM
-http://blackghost.live/play/futvall-755.php?id=foxsportsp&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",GALAVISION
-http://blackghost.live/play/futvall-755.php?id=galavision&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",GOL PERU
-http://blackghost.live/play/futvall-755.php?id=golperu&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",GOLTV
-http://blackghost.live/play/futvall-755.php?id=goltv&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",GOLF CHANNEL
-http://blackghost.live/play/futvall-755.php?id=golf&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HAVOC
-http://blackghost.live/play/futvall-755.php?id=havoc&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",NFL NETWORK
-http://blackghost.live/play/futvall-755.php?id=nfl&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",LAS Deportes
-http://blackghost.live/play/futvall-755.php?id=las&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",LALIGA
-http://blackghost.live/play/futvall-755.php?id=laliga&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",M LALIGA
-http://blackghost.live/play/futvall-755.php?id=mlaliga&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",M LIGA DE CAMPEONES
-http://blackghost.live/play/futvall-755.php?id=mligadec&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TELEMUNDO
-http://blackghost.live/play/futvall-755.php?id=telemundo&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TUDN MX
-http://blackghost.live/play/futvall-755.php?id=tudn-mx&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TUDN US
-http://blackghost.live/play/futvall-755.php?id=tudn-us&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TVC Deportes
-http://blackghost.live/play/futvall-755.php?id=tvcdep-mx&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TyC SPORTS
-http://blackghost.live/play/futvall-755.php?id=tycsports&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNIMAS
-http://blackghost.live/play/futvall-755.php?id=unimas&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNIVERSO
-http://blackghost.live/play/futvall-755.php?id=universo&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",NBC SPORTS NET
-http://blackghost.live/play/futvall-755.php?id=nbcsn&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",WIN SPORTS
-http://blackghost.live/play/futvall-755.php?id=winsports&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",WIN SPORTS PLUS
-http://blackghost.live/play/futvall-755.php?id=winplus&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FIGHT TIME
-http://blackghost.live/play/futvall-755.php?id=fight&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UFC
-http://blackghost.live/play/futvall-755.php?id=ufc&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",WWE
-http://blackghost.live/play/futvall-755.php?id=wwe&f=.m3u8
+#EXTINF:-1 group-title="Lista 28",ARGENTINA  | ARGENTINISIMA
+https://blackghost.live/play/codeplus4-755.php?c=1141
+#EXTINF:-1 group-title="Lista 28",ARGENTINA  | CANAL 13
+https://blackghost.live/play/codeplus4-755.php?c=7850
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | 13 Max HD
+https://blackghost.live/play/codeplus4-755.php?c=2269
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | A24 FHD
+https://blackghost.live/play/codeplus4-755.php?c=1116
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | AMERICA HD
+https://blackghost.live/play/codeplus4-755.php?c=1142
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | AMERICA FHD
+https://blackghost.live/play/codeplus4-755.php?c=2312
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | AMERICA FHD (EXCLUSIVO)
+https://blackghost.live/play/codeplus4-755.php?c=98489
+#EXTINF:-1 group-title="Lista 28",AR NEWS | C5N
+https://blackghost.live/play/codeplus4-755.php?c=2267
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | CANAL 13 OPC 2
+https://blackghost.live/play/codeplus4-755.php?c=2268
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | Canal 26
+https://blackghost.live/play/codeplus4-755.php?c=2280
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | Canal 26 HD
+https://blackghost.live/play/codeplus4-755.php?c=2279
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | CANAL 9 HD
+https://blackghost.live/play/codeplus4-755.php?c=3480
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | CIUDAD MAGAZINE HD
+https://blackghost.live/play/codeplus4-755.php?c=3481
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | CONEXION
+https://blackghost.live/play/codeplus4-755.php?c=1135
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | Conexion Abierta
+https://blackghost.live/play/codeplus4-755.php?c=2291
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | CRONICA
+https://blackghost.live/play/codeplus4-755.php?c=3478
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | DEPORTV
+https://blackghost.live/play/codeplus4-755.php?c=1132
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | DEPORTV HD
+https://blackghost.live/play/codeplus4-755.php?c=1109
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | FOX SPORTS PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=3484
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | FOX SPORTS PREMIUM HD
+https://blackghost.live/play/codeplus4-755.php?c=3485
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | Frecuencia Musical TV
+https://blackghost.live/play/codeplus4-755.php?c=2297
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | Garage TV
+https://blackghost.live/play/codeplus4-755.php?c=2298
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | GENTV
+https://blackghost.live/play/codeplus4-755.php?c=4069
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | METRO
+https://blackghost.live/play/codeplus4-755.php?c=1127
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | Music Top
+https://blackghost.live/play/codeplus4-755.php?c=2301
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | ORBE 21
+https://blackghost.live/play/codeplus4-755.php?c=1138
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | QUIERO MUSICA
+https://blackghost.live/play/codeplus4-755.php?c=1124
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | T5 Satelital
+https://blackghost.live/play/codeplus4-755.php?c=2305
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | TELEFE HD
+https://blackghost.live/play/codeplus4-755.php?c=1343
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | TELEFE HD OPC 2
+https://blackghost.live/play/codeplus4-755.php?c=8300
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | TELEFE HD OPC 3
+https://blackghost.live/play/codeplus4-755.php?c=8439
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | TELEFE HD OPC 4
+https://blackghost.live/play/codeplus4-755.php?c=106304
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | Telemax
+https://blackghost.live/play/codeplus4-755.php?c=2306
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | TELEMAX HD
+https://blackghost.live/play/codeplus4-755.php?c=1104
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | TNT SPORTS HD
+https://blackghost.live/play/codeplus4-755.php?c=1102
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | TNT SPORTS HD OPC 2
+https://blackghost.live/play/codeplus4-755.php?c=32724
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | TNT SPORTS HD OPC 3
+https://blackghost.live/play/codeplus4-755.php?c=32725
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | Tv Publica
+https://blackghost.live/play/codeplus4-755.php?c=3439
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | Tv Publica HD
+https://blackghost.live/play/codeplus4-755.php?c=3438
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | TYC SPORTS INTERNACIONAL 
+https://blackghost.live/play/codeplus4-755.php?c=3483
+#EXTINF:-1 group-title="Lista 28",ARGENTINA | VOLVER
+https://blackghost.live/play/codeplus4-755.php?c=3479
+#EXTINF:-1 group-title="Lista 28",CHI NEWS | 24 Horas HD
+https://blackghost.live/play/codeplus4-755.php?c=879
+#EXTINF:-1 group-title="Lista 28",CHI NEWS  | 24 Horas HD OPC 2
+https://blackghost.live/play/codeplus4-755.php?c=4651
+#EXTINF:-1 group-title="Lista 28",CHI NEWS  | 24 Horas SD
+https://blackghost.live/play/codeplus4-755.php?c=4650
+#EXTINF:-1 group-title="Lista 28",CHILE  | Canal 13 SD
+https://blackghost.live/play/codeplus4-755.php?c=870
+#EXTINF:-1 group-title="Lista 28",CHILE | TNT SPORTS  HD (E)
+https://blackghost.live/play/codeplus4-755.php?c=857
+#EXTINF:-1 group-title="Lista 28",CHILE | TNT SPORTS PREMIUM HD
+https://blackghost.live/play/codeplus4-755.php?c=858
+#EXTINF:-1 group-title="Lista 28",CHILE | TNT SPORTS PREMIUM HD OPC1
+https://blackghost.live/play/codeplus4-755.php?c=76215
+#EXTINF:-1 group-title="Lista 28",CHILE  | Chilevision FHD
+https://blackghost.live/play/codeplus4-755.php?c=865
+#EXTINF:-1 group-title="Lista 28",CHILE | Chilevision HD
+https://blackghost.live/play/codeplus4-755.php?c=864
+#EXTINF:-1 group-title="Lista 28",CHI NEWS  | CNN Chile
+https://blackghost.live/play/codeplus4-755.php?c=866
+#EXTINF:-1 group-title="Lista 28",CHILE  | Emol TV
+https://blackghost.live/play/codeplus4-755.php?c=874
+#EXTINF:-1 group-title="Lista 28",CHILE  | Mega FHD
+https://blackghost.live/play/codeplus4-755.php?c=876
+#EXTINF:-1 group-title="Lista 28",CHILE  | Mega HD
+https://blackghost.live/play/codeplus4-755.php?c=875
+#EXTINF:-1 group-title="Lista 28",CHILE  | T13 Noticias
+https://blackghost.live/play/codeplus4-755.php?c=871
+#EXTINF:-1 group-title="Lista 28",CHILE  | Teletrak chile
+https://blackghost.live/play/codeplus4-755.php?c=878
+#EXTINF:-1 group-title="Lista 28",CHILE  | TVN Culto (GEO)
+https://blackghost.live/play/codeplus4-755.php?c=868
+#EXTINF:-1 group-title="Lista 28",CHILE  | TVN HD
+https://blackghost.live/play/codeplus4-755.php?c=869
+#EXTINF:-1 group-title="Lista 28",CANAL 13 CHILE CL
+https://blackghost.live/play/codeplus4-755.php?c=2471
+#EXTINF:-1 group-title="Lista 28",CHILE | TNT SPORTS BASICO HD
+https://blackghost.live/play/codeplus4-755.php?c=1344
+#EXTINF:-1 group-title="Lista 28",CHILE | Mega HD OPC 2
+https://blackghost.live/play/codeplus4-755.php?c=13261
+#EXTINF:-1 group-title="Lista 28",CHILE | Mega SD
+https://blackghost.live/play/codeplus4-755.php?c=13262
+#EXTINF:-1 group-title="Lista 28",CINE HD | AMC HD
+https://blackghost.live/play/codeplus4-755.php?c=1000
+#EXTINF:-1 group-title="Lista 28",CINE HD | CINECANAL HD
+https://blackghost.live/play/codeplus4-755.php?c=1039
+#EXTINF:-1 group-title="Lista 28",CINE HD | CINEMAX (MX) HD
+https://blackghost.live/play/codeplus4-755.php?c=1216
+#EXTINF:-1 group-title="Lista 28",CINE HD | DE PELICULA
+https://blackghost.live/play/codeplus4-755.php?c=3441
+#EXTINF:-1 group-title="Lista 28",CINE HD | DE PELICULA PLUS HD
+https://blackghost.live/play/codeplus4-755.php?c=1043
+#EXTINF:-1 group-title="Lista 28",CINE HD | STAR ACTION  ( Dual audio)
+https://blackghost.live/play/codeplus4-755.php?c=1047
+#EXTINF:-1 group-title="Lista 28",CINE HD | STAR CINEMA HD
+https://blackghost.live/play/codeplus4-755.php?c=1048
+#EXTINF:-1 group-title="Lista 28",CINE HD | STAR CLASSICS
+https://blackghost.live/play/codeplus4-755.php?c=1211
+#EXTINF:-1 group-title="Lista 28",CINE HD | STAR COMEDY ( Dual audio)
+https://blackghost.live/play/codeplus4-755.php?c=1210
+#EXTINF:-1 group-title="Lista 28",CINE HD | STAR FUN
+https://blackghost.live/play/codeplus4-755.php?c=1208
+#EXTINF:-1 group-title="Lista 28",CINE HD | STAR FUN (Dual audio)
+https://blackghost.live/play/codeplus4-755.php?c=1053
+#EXTINF:-1 group-title="Lista 28",CINE HD | STAR CHANNEL HD
+https://blackghost.live/play/codeplus4-755.php?c=1207
+#EXTINF:-1 group-title="Lista 28",CINE HD | STAR HITS HD
+https://blackghost.live/play/codeplus4-755.php?c=1055
+#EXTINF:-1 group-title="Lista 28",CINE HD | STAR SERIES HD
+https://blackghost.live/play/codeplus4-755.php?c=1209
+#EXTINF:-1 group-title="Lista 28",CINE HD | FX (MX) FHD 
+https://blackghost.live/play/codeplus4-755.php?c=1012
+#EXTINF:-1 group-title="Lista 28",CINE HD | FXM HD
+https://blackghost.live/play/codeplus4-755.php?c=1058
+#EXTINF:-1 group-title="Lista 28",CINE HD | GOLDEN PLUS HD
+https://blackghost.live/play/codeplus4-755.php?c=1061
+#EXTINF:-1 group-title="Lista 28",CINE HD | GOLDEN PREMIER HD
+https://blackghost.live/play/codeplus4-755.php?c=1062
+#EXTINF:-1 group-title="Lista 28",CINE HD | HBO 2 HD
+https://blackghost.live/play/codeplus4-755.php?c=1065
+#EXTINF:-1 group-title="Lista 28",CINE HD | HBO FAMILY
+https://blackghost.live/play/codeplus4-755.php?c=1219
+#EXTINF:-1 group-title="Lista 28",CINE HD | HBO HD (LAT)
+https://blackghost.live/play/codeplus4-755.php?c=1064
+#EXTINF:-1 group-title="Lista 28",CINE HD | HBO HD Latino ( Dual audio)
+https://blackghost.live/play/codeplus4-755.php?c=18722
+#EXTINF:-1 group-title="Lista 28",CINE HD | HBO Plus
+https://blackghost.live/play/codeplus4-755.php?c=1218
+#EXTINF:-1 group-title="Lista 28",CINE HD | HBO SIGNATURE
+https://blackghost.live/play/codeplus4-755.php?c=1217
+#EXTINF:-1 group-title="Lista 28",CINE | HBO Xtreme
+https://blackghost.live/play/codeplus4-755.php?c=1070
+#EXTINF:-1 group-title="Lista 28",CINE HD | HBO Pop
+https://blackghost.live/play/codeplus4-755.php?c=1223
+#EXTINF:-1 group-title="Lista 28",CINE HD | SONY HD
+https://blackghost.live/play/codeplus4-755.php?c=1022
+#EXTINF:-1 group-title="Lista 28",CINE HD | SPACE HD
+https://blackghost.live/play/codeplus4-755.php?c=1024
+#EXTINF:-1 group-title="Lista 28",CINE HD | Studio Universal HD
+https://blackghost.live/play/codeplus4-755.php?c=2771
+#EXTINF:-1 group-title="Lista 28",CINE HD | SyFy FHD
+https://blackghost.live/play/codeplus4-755.php?c=17596
+#EXTINF:-1 group-title="Lista 28",CINE HD | TBS HD
+https://blackghost.live/play/codeplus4-755.php?c=1225
+#EXTINF:-1 group-title="Lista 28",CINE HD | TNT HD Dual
+https://blackghost.live/play/codeplus4-755.php?c=1078
+#EXTINF:-1 group-title="Lista 28",CINE HD | TNT SERIES HD
+https://blackghost.live/play/codeplus4-755.php?c=1033
+#EXTINF:-1 group-title="Lista 28",CINE HD | UNIVERSAL CHANNEL (MX)
+https://blackghost.live/play/codeplus4-755.php?c=1080
+#EXTINF:-1 group-title="Lista 28",CINE HD | WARNER CHANNEL HD (Dual Audio)
+https://blackghost.live/play/codeplus4-755.php?c=1034
+#EXTINF:-1 group-title="Lista 28",CINE | A&E
+https://blackghost.live/play/codeplus4-755.php?c=1585
+#EXTINF:-1 group-title="Lista 28",CINE | AMC
+https://blackghost.live/play/codeplus4-755.php?c=999
+#EXTINF:-1 group-title="Lista 28",CINE | AXN
+https://blackghost.live/play/codeplus4-755.php?c=1232
+#EXTINF:-1 group-title="Lista 28",CINE | CINECANAL
+https://blackghost.live/play/codeplus4-755.php?c=1233
+#EXTINF:-1 group-title="Lista 28",CINE | CINEMA DINAMITA
+https://blackghost.live/play/codeplus4-755.php?c=1265
+#EXTINF:-1 group-title="Lista 28",CINE | CINEMAX
+https://blackghost.live/play/codeplus4-755.php?c=1234
+#EXTINF:-1 group-title="Lista 28",CINE | DE PELICULA PLUS
+https://blackghost.live/play/codeplus4-755.php?c=1042
+#EXTINF:-1 group-title="Lista 28",CINE | EUROPA EUROPA
+https://blackghost.live/play/codeplus4-755.php?c=1266
+#EXTINF:-1 group-title="Lista 28",CINE | FOX
+https://blackghost.live/play/codeplus4-755.php?c=1239
+#EXTINF:-1 group-title="Lista 28",CINE | FOX LIFE
+https://blackghost.live/play/codeplus4-755.php?c=1607
+#EXTINF:-1 group-title="Lista 28",CINE | STAR ACTION SD
+https://blackghost.live/play/codeplus4-755.php?c=1236
+#EXTINF:-1 group-title="Lista 28",CINE | STARZ CINEMA
+https://blackghost.live/play/codeplus4-755.php?c=1049
+#EXTINF:-1 group-title="Lista 28",CINE | STAR CLASSIC SD
+https://blackghost.live/play/codeplus4-755.php?c=1242
+#EXTINF:-1 group-title="Lista 28",CINE | STAR COMEDY SD
+https://blackghost.live/play/codeplus4-755.php?c=1243
+#EXTINF:-1 group-title="Lista 28",CINE | STAR FUN SD
+https://blackghost.live/play/codeplus4-755.php?c=1244
+#EXTINF:-1 group-title="Lista 28",CINE | STAR HITS SD
+https://blackghost.live/play/codeplus4-755.php?c=1245
+#EXTINF:-1 group-title="Lista 28",CINE | STAR SERIES
+https://blackghost.live/play/codeplus4-755.php?c=1246
+#EXTINF:-1 group-title="Lista 28",CINE | FX
+https://blackghost.live/play/codeplus4-755.php?c=1248
+#EXTINF:-1 group-title="Lista 28",CINE | FXM
+https://blackghost.live/play/codeplus4-755.php?c=1249
+#EXTINF:-1 group-title="Lista 28",CINE | GOLDEN
+https://blackghost.live/play/codeplus4-755.php?c=1250
+#EXTINF:-1 group-title="Lista 28",CINE | GOLDEN EDGE
+https://blackghost.live/play/codeplus4-755.php?c=1251
+#EXTINF:-1 group-title="Lista 28",CINE | HBO
+https://blackghost.live/play/codeplus4-755.php?c=1252
+#EXTINF:-1 group-title="Lista 28",CINE | HBO 2
+https://blackghost.live/play/codeplus4-755.php?c=1253
+#EXTINF:-1 group-title="Lista 28",CINE | HBO FAMILY
+https://blackghost.live/play/codeplus4-755.php?c=1255
+#EXTINF:-1 group-title="Lista 28",CINE | HBO PLUS
+https://blackghost.live/play/codeplus4-755.php?c=1256
+#EXTINF:-1 group-title="Lista 28",CINE | HBO SIGNATURE
+https://blackghost.live/play/codeplus4-755.php?c=1212
+#EXTINF:-1 group-title="Lista 28",CINE | HBO MUNDI
+https://blackghost.live/play/codeplus4-755.php?c=1257
+#EXTINF:-1 group-title="Lista 28",CINE | PARAMOUNT CHANNEL
+https://blackghost.live/play/codeplus4-755.php?c=1258
+#EXTINF:-1 group-title="Lista 28",CINE | SONY
+https://blackghost.live/play/codeplus4-755.php?c=1259
+#EXTINF:-1 group-title="Lista 28",CINE | SPACE
+https://blackghost.live/play/codeplus4-755.php?c=1260
+#EXTINF:-1 group-title="Lista 28",CINE | STAR TVE 
+https://blackghost.live/play/codeplus4-755.php?c=2513
+#EXTINF:-1 group-title="Lista 28",CINE | TBS
+https://blackghost.live/play/codeplus4-755.php?c=1261
+#EXTINF:-1 group-title="Lista 28",CINE | TCM
+https://blackghost.live/play/codeplus4-755.php?c=1262
+#EXTINF:-1 group-title="Lista 28",CINE | TNT
+https://blackghost.live/play/codeplus4-755.php?c=1263
+#EXTINF:-1 group-title="Lista 28",CINE | TNT SERIES
+https://blackghost.live/play/codeplus4-755.php?c=1032
+#EXTINF:-1 group-title="Lista 28",COL NEWS | NTN24
+https://blackghost.live/play/codeplus4-755.php?c=2314
+#EXTINF:-1 group-title="Lista 28",CUBA |  CUBAMAX
+https://blackghost.live/play/codeplus4-755.php?c=2250
+#EXTINF:-1 group-title="Lista 28",CUBA |  CUBAVISION
+https://blackghost.live/play/codeplus4-755.php?c=2251
+#EXTINF:-1 group-title="Lista 28",CUBA | TELEMARTI
+https://blackghost.live/play/codeplus4-755.php?c=2252
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD  | Fox Sports 1 Premium HD
+https://blackghost.live/play/codeplus4-755.php?c=861
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD  | Fox Sports 1 Chile HD
+https://blackghost.live/play/codeplus4-755.php?c=862
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | TUDN HD
+https://blackghost.live/play/codeplus4-755.php?c=9462
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD |  TUDN X1
+https://blackghost.live/play/codeplus4-755.php?c=9464
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | TUDN X10
+https://blackghost.live/play/codeplus4-755.php?c=9472
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD |  TUDN X2
+https://blackghost.live/play/codeplus4-755.php?c=9463
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | TUDN X3
+https://blackghost.live/play/codeplus4-755.php?c=9465
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | TUDN X4
+https://blackghost.live/play/codeplus4-755.php?c=9466
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | TUDN X5
+https://blackghost.live/play/codeplus4-755.php?c=9467
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | TUDN X6
+https://blackghost.live/play/codeplus4-755.php?c=9468
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | TUDN X7
+https://blackghost.live/play/codeplus4-755.php?c=9469
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | TUDN X8
+https://blackghost.live/play/codeplus4-755.php?c=9470
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | TUDN X9
+https://blackghost.live/play/codeplus4-755.php?c=9471
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | AFIZZIONADOS HD
+https://blackghost.live/play/codeplus4-755.php?c=4871
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | AYM SPORTS
+https://blackghost.live/play/codeplus4-755.php?c=1311
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | Bein Sports Ñ HD
+https://blackghost.live/play/codeplus4-755.php?c=3518
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | Bein Sports Ñ FHD 
+https://blackghost.live/play/codeplus4-755.php?c=931
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | CLARO  SPORTS SUR (L)
+https://blackghost.live/play/codeplus4-755.php?c=4872
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | CLARO SPORTS MX HD
+https://blackghost.live/play/codeplus4-755.php?c=5559
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | DIRECTV SPORTS + FHD
+https://blackghost.live/play/codeplus4-755.php?c=1523
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | DIRECTV SPORTS 2 FHD
+https://blackghost.live/play/codeplus4-755.php?c=1312
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | DIRECTV SPORTS FHD
+https://blackghost.live/play/codeplus4-755.php?c=1313
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | ESPN 1 FHD
+https://blackghost.live/play/codeplus4-755.php?c=1319
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | ESPN 1 MEXICO FHD
+https://blackghost.live/play/codeplus4-755.php?c=1315
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | ESPN 2 FHD
+https://blackghost.live/play/codeplus4-755.php?c=1320
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | ESPN 2 MEXICO FHD
+https://blackghost.live/play/codeplus4-755.php?c=1316
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | ESPN 3 FHD
+https://blackghost.live/play/codeplus4-755.php?c=1321
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | ESPN 3 MEXICO FHD
+https://blackghost.live/play/codeplus4-755.php?c=1317
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | ESPN DEPORTES FHD
+https://blackghost.live/play/codeplus4-755.php?c=1314
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | ESPN PLUS MEXICO FHD
+https://blackghost.live/play/codeplus4-755.php?c=1322
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | ESPN U FHD
+https://blackghost.live/play/codeplus4-755.php?c=1318
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | FOX DEPORTES FHD
+https://blackghost.live/play/codeplus4-755.php?c=1323
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | Fox Deportes HD
+https://blackghost.live/play/codeplus4-755.php?c=1299
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | Fox Sports 1 (COL) FHD
+https://blackghost.live/play/codeplus4-755.php?c=815
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | FOX SPORTS 1 FHD
+https://blackghost.live/play/codeplus4-755.php?c=1327
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | FOX SPORTS 1 MEXICO FHD
+https://blackghost.live/play/codeplus4-755.php?c=1324
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | FOX SPORTS 2 FHD
+https://blackghost.live/play/codeplus4-755.php?c=1328
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | FOX SPORTS 2 MEXICO FHD
+https://blackghost.live/play/codeplus4-755.php?c=1325
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | FOX SPORTS 3 FHD
+https://blackghost.live/play/codeplus4-755.php?c=1329
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | FOX SPORTS 3 MEXICO FHD
+https://blackghost.live/play/codeplus4-755.php?c=1326
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | FOX SPORTS PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=3175
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | GOL TV INTERNACIONAL
+https://blackghost.live/play/codeplus4-755.php?c=1334
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | GOLF CHANNEL LATINO
+https://blackghost.live/play/codeplus4-755.php?c=1330
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | MOVISTAR DEPORTES
+https://blackghost.live/play/codeplus4-755.php?c=1537
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | NBC GOLF MEXICO HD
+https://blackghost.live/play/codeplus4-755.php?c=1331
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | REAL MADRID TV
+https://blackghost.live/play/codeplus4-755.php?c=1332
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | TUDN SD
+https://blackghost.live/play/codeplus4-755.php?c=1310
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | TVC DEPORTES MEXICO
+https://blackghost.live/play/codeplus4-755.php?c=1333
+#EXTINF:-1 group-title="Lista 28",DEPORTES | BEIN SPORTS Ñ
+https://blackghost.live/play/codeplus4-755.php?c=5560
+#EXTINF:-1 group-title="Lista 28",DEPORTES | CDO PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=1527
+#EXTINF:-1 group-title="Lista 28",DEPORTES | CLARO SPORTS
+https://blackghost.live/play/codeplus4-755.php?c=1526
+#EXTINF:-1 group-title="Lista 28",DEPORTES | DIRECTV SPORTS
+https://blackghost.live/play/codeplus4-755.php?c=1525
+#EXTINF:-1 group-title="Lista 28",DEPORTES | DIRECTV SPORTS 2
+https://blackghost.live/play/codeplus4-755.php?c=1524
+#EXTINF:-1 group-title="Lista 28",DEPORTES | ESPN 2 MEXICO
+https://blackghost.live/play/codeplus4-755.php?c=1521
+#EXTINF:-1 group-title="Lista 28",DEPORTES | ESPN 2 SUR
+https://blackghost.live/play/codeplus4-755.php?c=1533
+#EXTINF:-1 group-title="Lista 28",DEPORTES | ESPN 3 MEXICO
+https://blackghost.live/play/codeplus4-755.php?c=1520
+#EXTINF:-1 group-title="Lista 28",DEPORTES | ESPN 3 SUR
+https://blackghost.live/play/codeplus4-755.php?c=1534
+#EXTINF:-1 group-title="Lista 28",DEPORTES | ESPN MEXICO
+https://blackghost.live/play/codeplus4-755.php?c=1522
+#EXTINF:-1 group-title="Lista 28",DEPORTES | ESPN NETWORK MEXICO
+https://blackghost.live/play/codeplus4-755.php?c=1513
+#EXTINF:-1 group-title="Lista 28",DEPORTES | ESPN PLUS MEXICO
+https://blackghost.live/play/codeplus4-755.php?c=1512
+#EXTINF:-1 group-title="Lista 28",DEPORTES | ESPN SUR
+https://blackghost.live/play/codeplus4-755.php?c=1532
+#EXTINF:-1 group-title="Lista 28",DEPORTES | ESPN U MEXICO
+https://blackghost.live/play/codeplus4-755.php?c=1511
+#EXTINF:-1 group-title="Lista 28",DEPORTES | FOX SPORTS 2 SUR
+https://blackghost.live/play/codeplus4-755.php?c=1530
+#EXTINF:-1 group-title="Lista 28",DEPORTES | FOX SPORTS 3 MEXICO
+https://blackghost.live/play/codeplus4-755.php?c=1517
+#EXTINF:-1 group-title="Lista 28",DEPORTES | FOX SPORTS 3 SUR
+https://blackghost.live/play/codeplus4-755.php?c=1531
+#EXTINF:-1 group-title="Lista 28",DEPORTES | FOX SPORTS MEXICO
+https://blackghost.live/play/codeplus4-755.php?c=1519
+#EXTINF:-1 group-title="Lista 28",DEPORTES | FOX SPORTS SUR
+https://blackghost.live/play/codeplus4-755.php?c=1529
+#EXTINF:-1 group-title="Lista 28",DEPORTES | GOLF CHANNEL SUR
+https://blackghost.live/play/codeplus4-755.php?c=1535
+#EXTINF:-1 group-title="Lista 28",DEPORTES | GOLTV
+https://blackghost.live/play/codeplus4-755.php?c=1536
+#EXTINF:-1 group-title="Lista 28",DEPORTES | VTV
+https://blackghost.live/play/codeplus4-755.php?c=1514
+#EXTINF:-1 group-title="Lista 28",DEPORTES* | FOX SPORTS 2 MEXICO
+https://blackghost.live/play/codeplus4-755.php?c=1518
+#EXTINF:-1 group-title="Lista 28",DEPORTES* | GOLF CHANNEL MEXICO
+https://blackghost.live/play/codeplus4-755.php?c=1516
+#EXTINF:-1 group-title="Lista 28",ECUADOR  | Teleamazonas FHD
+https://blackghost.live/play/codeplus4-755.php?c=1393
+#EXTINF:-1 group-title="Lista 28",ECUADOR | Canal Uno HD
+https://blackghost.live/play/codeplus4-755.php?c=1426
+#EXTINF:-1 group-title="Lista 28",ECUADOR | Canal Uno SD
+https://blackghost.live/play/codeplus4-755.php?c=1427
+#EXTINF:-1 group-title="Lista 28",ECUADOR | Canela TV SD
+https://blackghost.live/play/codeplus4-755.php?c=1428
+#EXTINF:-1 group-title="Lista 28",ECUADOR | DIRECTV SPORTS FHD
+https://blackghost.live/play/codeplus4-755.php?c=1399
+#EXTINF:-1 group-title="Lista 28",ECUADOR | DIRECTV SPORTS HD
+https://blackghost.live/play/codeplus4-755.php?c=1398
+#EXTINF:-1 group-title="Lista 28",ECUADOR | DIRECTV SPORTS SD
+https://blackghost.live/play/codeplus4-755.php?c=1397
+#EXTINF:-1 group-title="Lista 28",ECUADOR | Ecuador TV FHD
+https://blackghost.live/play/codeplus4-755.php?c=1400
+#EXTINF:-1 group-title="Lista 28",ECUADOR | Ecuador TV HD
+https://blackghost.live/play/codeplus4-755.php?c=1401
+#EXTINF:-1 group-title="Lista 28",ECUADOR | Ecuador TV SD
+https://blackghost.live/play/codeplus4-755.php?c=1402
+#EXTINF:-1 group-title="Lista 28",ECUADOR | Ecuavisa FHD
+https://blackghost.live/play/codeplus4-755.php?c=1403
+#EXTINF:-1 group-title="Lista 28",ECUADOR | Ecuavisa HD
+https://blackghost.live/play/codeplus4-755.php?c=1404
+#EXTINF:-1 group-title="Lista 28",ECUADOR | Ecuavisa SD
+https://blackghost.live/play/codeplus4-755.php?c=1405
+#EXTINF:-1 group-title="Lista 28",ECUADOR | Ecuavisa Sierra
+https://blackghost.live/play/codeplus4-755.php?c=1396
+#EXTINF:-1 group-title="Lista 28",ECUADOR | EL CANAL DEL FUTBOL FHD (SOLO EVENTOS)
+https://blackghost.live/play/codeplus4-755.php?c=32903
+#EXTINF:-1 group-title="Lista 28",ECUADOR | EL CANAL DEL FUTBOL HD (SOLO EVENTOS)
+https://blackghost.live/play/codeplus4-755.php?c=32904
+#EXTINF:-1 group-title="Lista 28",ECUADOR | EL CANAL DEL FUTBOL SD (SOLO EVENTOS)
+https://blackghost.live/play/codeplus4-755.php?c=32905
+#EXTINF:-1 group-title="Lista 28",ECUADOR | GOL TV HD
+https://blackghost.live/play/codeplus4-755.php?c=3437
+#EXTINF:-1 group-title="Lista 28",ECUADOR | Gol TV SD
+https://blackghost.live/play/codeplus4-755.php?c=1409
+#EXTINF:-1 group-title="Lista 28",ECUADOR | GOLTV ECUADOR HD
+https://blackghost.live/play/codeplus4-755.php?c=1429
+#EXTINF:-1 group-title="Lista 28",ECUADOR | GOLTV ECUADOR (EXCLUSIVO)
+https://blackghost.live/play/codeplus4-755.php?c=88304
+#EXTINF:-1 group-title="Lista 28",ECUADOR | GOLTV ECUADOR (EXCLUSIVO 2)
+https://blackghost.live/play/codeplus4-755.php?c=88305
+#EXTINF:-1 group-title="Lista 28",ECUADOR - LS | GOL TV OPC 4 Exclusivo
+https://blackghost.live/play/codeplus4-755.php?c=88306
+#EXTINF:-1 group-title="Lista 28",ECUADOR | Oromar TV FHD
+https://blackghost.live/play/codeplus4-755.php?c=1410
+#EXTINF:-1 group-title="Lista 28",ECUADOR | Oromar TV HD
+https://blackghost.live/play/codeplus4-755.php?c=1411
+#EXTINF:-1 group-title="Lista 28",ECUADOR | RTS FHD
+https://blackghost.live/play/codeplus4-755.php?c=1413
+#EXTINF:-1 group-title="Lista 28",ECUADOR | RTS HD
+https://blackghost.live/play/codeplus4-755.php?c=1414
+#EXTINF:-1 group-title="Lista 28",ECUADOR | RTS SD
+https://blackghost.live/play/codeplus4-755.php?c=1415
+#EXTINF:-1 group-title="Lista 28",ECUADOR | TC Television FHD
+https://blackghost.live/play/codeplus4-755.php?c=1416
+#EXTINF:-1 group-title="Lista 28",ECUADOR | TC Television HD
+https://blackghost.live/play/codeplus4-755.php?c=1417
+#EXTINF:-1 group-title="Lista 28",ECUADOR | TC Television SD
+https://blackghost.live/play/codeplus4-755.php?c=1418
+#EXTINF:-1 group-title="Lista 28",ECUADOR | Teleamazonas 
+https://blackghost.live/play/codeplus4-755.php?c=1419
+#EXTINF:-1 group-title="Lista 28",ECUADOR | Teleamazonas HD
+https://blackghost.live/play/codeplus4-755.php?c=1420
+#EXTINF:-1 group-title="Lista 28",ECUADOR | Teleamazonas Sierra
+https://blackghost.live/play/codeplus4-755.php?c=1395
+#EXTINF:-1 group-title="Lista 28",ECUADOR | TVC FHD
+https://blackghost.live/play/codeplus4-755.php?c=1422
+#EXTINF:-1 group-title="Lista 28",EL SALVADOR | CANAL 10
+https://blackghost.live/play/codeplus4-755.php?c=1569
+#EXTINF:-1 group-title="Lista 28",EL SALVADOR | CANAL 12
+https://blackghost.live/play/codeplus4-755.php?c=1570
+#EXTINF:-1 group-title="Lista 28",EL SALVADOR | CANAL 19
+https://blackghost.live/play/codeplus4-755.php?c=1571
+#EXTINF:-1 group-title="Lista 28",EL SALVADOR | CANAL 2
+https://blackghost.live/play/codeplus4-755.php?c=1566
+#EXTINF:-1 group-title="Lista 28",EL SALVADOR | CANAL 21
+https://blackghost.live/play/codeplus4-755.php?c=1572
+#EXTINF:-1 group-title="Lista 28",EL SALVADOR | CANAL 24 WOW TV
+https://blackghost.live/play/codeplus4-755.php?c=1573
+#EXTINF:-1 group-title="Lista 28",EL SALVADOR | CANAL 4
+https://blackghost.live/play/codeplus4-755.php?c=1567
+#EXTINF:-1 group-title="Lista 28",EL SALVADOR | CANAL 6
+https://blackghost.live/play/codeplus4-755.php?c=1568
+#EXTINF:-1 group-title="Lista 28",EL SALVADOR | TELEDOS
+https://blackghost.live/play/codeplus4-755.php?c=1574
+#EXTINF:-1 group-title="Lista 28",EL SALVADOR | VTV CANAL 35
+https://blackghost.live/play/codeplus4-755.php?c=1575
+#EXTINF:-1 group-title="Lista 28",ES NEWS | 24 HORAS
+https://blackghost.live/play/codeplus4-755.php?c=550
+#EXTINF:-1 group-title="Lista 28",EUR NEWS | Euronews
+https://blackghost.live/play/codeplus4-755.php?c=32465
+#EXTINF:-1 group-title="Lista 28",FR NEWS | France 24
+https://blackghost.live/play/codeplus4-755.php?c=32457
+#EXTINF:-1 group-title="Lista 28",GLOBAL (VANCOUVER)
+https://blackghost.live/play/codeplus4-755.php?c=8276
+#EXTINF:-1 group-title="Lista 28",GUATEMALA | CANAL 3
+https://blackghost.live/play/codeplus4-755.php?c=4071
+#EXTINF:-1 group-title="Lista 28",GUATEMALA | CANAL 11
+https://blackghost.live/play/codeplus4-755.php?c=1727
+#EXTINF:-1 group-title="Lista 28",GUATEMALA | CANAL 13
+https://blackghost.live/play/codeplus4-755.php?c=1728
+#EXTINF:-1 group-title="Lista 28",GUATEMALA | CANAL 7
+https://blackghost.live/play/codeplus4-755.php?c=4072
+#EXTINF:-1 group-title="Lista 28",GUATEMALA | CANAL ANTIGUA
+https://blackghost.live/play/codeplus4-755.php?c=1729
+#EXTINF:-1 group-title="Lista 28",GUATEMALA | GUATEVISION
+https://blackghost.live/play/codeplus4-755.php?c=1730
+#EXTINF:-1 group-title="Lista 28",GUA NEWS | TN23 HD
+https://blackghost.live/play/codeplus4-755.php?c=8467
+#EXTINF:-1 group-title="Lista 28",HIP HOP & R&B
+https://blackghost.live/play/codeplus4-755.php?c=2776
+#EXTINF:-1 group-title="Lista 28",HIT LIST
+https://blackghost.live/play/codeplus4-755.php?c=2777
+#EXTINF:-1 group-title="Lista 28",FR NEWS | I24 NEWS
+https://blackghost.live/play/codeplus4-755.php?c=32462
+#EXTINF:-1 group-title="Lista 28",Impact TV
+https://blackghost.live/play/codeplus4-755.php?c=3160
+#EXTINF:-1 group-title="Lista 28",INFANTILES | BABY TV HD
+https://blackghost.live/play/codeplus4-755.php?c=1081
+#EXTINF:-1 group-title="Lista 28",INFANTILES | BOOMERANG (MX)
+https://blackghost.live/play/codeplus4-755.php?c=1082
+#EXTINF:-1 group-title="Lista 28",INFANTILES | DISCOVERY KIDS HD (MX)
+https://blackghost.live/play/codeplus4-755.php?c=1084
+#EXTINF:-1 group-title="Lista 28",INFANTILES | DISNEY CHANNEL HD
+https://blackghost.live/play/codeplus4-755.php?c=1085
+#EXTINF:-1 group-title="Lista 28",INFANTILES | DISNEY JR HD (MX)
+https://blackghost.live/play/codeplus4-755.php?c=1086
+#EXTINF:-1 group-title="Lista 28",INFANTILES | Disney XD (MX)
+https://blackghost.live/play/codeplus4-755.php?c=1598
+#EXTINF:-1 group-title="Lista 28",INFANTILES | NAT GEO KIDS HD
+https://blackghost.live/play/codeplus4-755.php?c=1089
+#EXTINF:-1 group-title="Lista 28",INFANTILES | TEENNICK (MX)
+https://blackghost.live/play/codeplus4-755.php?c=1090
+#EXTINF:-1 group-title="Lista 28",INFANTILES | NICK JR (LAT)
+https://blackghost.live/play/codeplus4-755.php?c=1092
+#EXTINF:-1 group-title="Lista 28",INFANTILES | NICKELODEON HD (MX)
+https://blackghost.live/play/codeplus4-755.php?c=1093
+#EXTINF:-1 group-title="Lista 28",INFANTILES | NICKMUSIC HD (MX)
+https://blackghost.live/play/codeplus4-755.php?c=29604
+#EXTINF:-1 group-title="Lista 28",INFANTILES | TOONCAST
+https://blackghost.live/play/codeplus4-755.php?c=1098
+#EXTINF:-1 group-title="Lista 28",INFANTILES | Cartoon Network (MX)
+https://blackghost.live/play/codeplus4-755.php?c=1590
 
-#EXTINF:-1 group-title="Lista 22",A MAS MX
-http://blackghost.live/play/mitv-755.php?id=amas&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZTECA UNO MX
-http://blackghost.live/play/mitv-755.php?id=aztecauno&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",EL DOS MX
-http://blackghost.live/play/mitv-755.php?id=eldos&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CANAL 5 MX
-http://blackghost.live/play/mitv-755.php?id=elcinco&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZTECA 7
-http://blackghost.live/play/mitv-755.php?id=azteca7&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZTECA 7 HD
-http://blackghost.live/play/mitv-755.php?id=azteca7hd&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",EL NUEVE MX
-http://blackghost.live/play/mitv-755.php?id=elnueve&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",IMAGEN TV
-http://blackghost.live/play/mitv-755.php?id=imagentv-1&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",MULTIMEDIOS
-http://blackghost.live/play/mitv-755.php?id=multimedios&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ONCE TV
-http://blackghost.live/play/mitv-755.php?id=oncetv&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ONCE TV HD
-http://blackghost.live/play/mitv-755.php?id=oncetvhd&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",DISTRITO COMEDIA
-http://blackghost.live/play/mitv-755.php?id=distrito-1&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNICABLE MX
-http://blackghost.live/play/mitv-755.php?id=unicable&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",MVSTV MX
-http://blackghost.live/play/mitv-755.php?id=mvstv&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ANTENA 3 Int
-http://blackghost.live/play/mitv-755.php?id=antena3int&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",A3 SERIES
-http://blackghost.live/play/mitv-755.php?id=a3series&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR TVE
-http://blackghost.live/play/mitv-755.php?id=startve&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TVE
-http://blackghost.live/play/mitv-755.php?id=tve&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CARACOL
-http://blackghost.live/play/mitv-755.php?id=caracol&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",RCN
-http://blackghost.live/play/mitv-755.php?id=rcn&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",GALAVISION
-http://blackghost.live/play/mitv-755.php?id=galavision&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",GLITZ
-http://blackghost.live/play/mitv-755.php?id=glitz&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TELEMUNDO
-http://blackghost.live/play/mitv-755.php?id=telemundo&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TELEMUNDO Internacional
-http://blackghost.live/play/mitv-755.php?id=telemundoint&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNIMAS
-http://blackghost.live/play/mitv-755.php?id=unimas&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZ CORAZON
-http://blackghost.live/play/mitv-755.php?id=azcorazon&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",A&amp;E
-http://blackghost.live/play/mitv-755.php?id=ae&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AXN
-http://blackghost.live/play/mitv-755.php?id=axn&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",COMEDY CENTRAL
-http://blackghost.live/play/mitv-755.php?id=comedy&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Entertaiment
-http://blackghost.live/play/mitv-755.php?id=e&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOX Channel
-http://blackghost.live/play/mitv-755.php?id=starch&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOX LIFE
-http://blackghost.live/play/mitv-755.php?id=starlife&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FX
-http://blackghost.live/play/mitv-755.php?id=fx&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",INVESTIGATION Discovery
-http://blackghost.live/play/mitv-755.php?id=id&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",PASIONES
-http://blackghost.live/play/mitv-755.php?id=pasiones&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",RCN Novelas
-http://blackghost.live/play/mitv-755.php?id=rcntln&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",SONY Channel
-http://blackghost.live/play/mitv-755.php?id=sony&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TLNovelas
-http://blackghost.live/play/mitv-755.php?id=tlnovelas&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Tele Novelas
-http://blackghost.live/play/mitv-755.php?id=univtln&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TBS
-http://blackghost.live/play/mitv-755.php?id=tbs&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TNT Series
-http://blackghost.live/play/mitv-755.php?id=tntseries&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TRU TV
-http://blackghost.live/play/mitv-755.php?id=trutv&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNIVERSAL TV
-http://blackghost.live/play/mitv-755.php?id=universal&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",WARNER TV
-http://blackghost.live/play/mitv-755.php?id=warner&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZ CINEMA
-http://blackghost.live/play/mitv-755.php?id=azcinema&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AMC
-http://blackghost.live/play/mitv-755.php?id=amc&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CINECANAL
-http://blackghost.live/play/mitv-755.php?id=cinecanal&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CINEMAX
-http://blackghost.live/play/mitv-755.php?id=cinemax&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CINE LATINO
-http://blackghost.live/play/mitv-755.php?id=cinelatino&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",DE PELICULA
-http://blackghost.live/play/mitv-755.php?id=depelicula&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",DE PELICULA PLUS
-http://blackghost.live/play/mitv-755.php?id=depeliculaplus&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",DHE
-http://blackghost.live/play/mitv-755.php?id=dhe&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",EUROPA
-http://blackghost.live/play/mitv-755.php?id=europa&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FILM &amp; ARTS
-http://blackghost.live/play/mitv-755.php?id=filmarts&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FXM
-http://blackghost.live/play/mitv-755.php?id=fxm&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ISAT
-http://blackghost.live/play/mitv-755.php?id=isat&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",MULTICINEMA
-http://blackghost.live/play/mitv-755.php?id=mc&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",MULTIPREMIER
-http://blackghost.live/play/mitv-755.php?id=mp&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",MORBIDO
-http://blackghost.live/play/mitv-755.php?id=morbido&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",PARAMOUNT Channel
-http://blackghost.live/play/mitv-755.php?id=paramount&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",SPACE
-http://blackghost.live/play/mitv-755.php?id=space&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STUDIO Universal
-http://blackghost.live/play/mitv-755.php?id=studiouniversal&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",SYFY
-http://blackghost.live/play/mitv-755.php?id=syfy&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TCM
-http://blackghost.live/play/mitv-755.php?id=tcm&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TNT
-http://blackghost.live/play/mitv-755.php?id=tnt&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZ MUNDO
-http://blackghost.live/play/mitv-755.php?id=azmundo&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ANIMAL Planet
-http://blackghost.live/play/mitv-755.php?id=animalp&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",DISCOVERY Channel
-http://blackghost.live/play/mitv-755.php?id=discoverych&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery SCIENCE
-http://blackghost.live/play/mitv-755.php?id=dciencia&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery CIVILIZATION
-http://blackghost.live/play/mitv-755.php?id=dcivil&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery THEATER
-http://blackghost.live/play/mitv-755.php?id=dtheater&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery TURBO
-http://blackghost.live/play/mitv-755.php?id=dturbo&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery WORLD
-http://blackghost.live/play/mitv-755.php?id=dworld&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOOD Network
-http://blackghost.live/play/mitv-755.php?id=food&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",EL GOURMET
-http://blackghost.live/play/mitv-755.php?id=gourmet-1&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",LIFE TIME
-http://blackghost.live/play/mitv-755.php?id=lifetime&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HISTORY Channel
-http://blackghost.live/play/mitv-755.php?id=history&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Histrory 2
-http://blackghost.live/play/mitv-755.php?id=h2&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Home &amp; Health
-http://blackghost.live/play/mitv-755.php?id=hh&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HOLA TV
-http://blackghost.live/play/mitv-755.php?id=holatv&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",MAS CHIC
-http://blackghost.live/play/mitv-755.php?id=maschic&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",NATGEO
-http://blackghost.live/play/mitv-755.php?id=natgeo&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Natgeo WILD
-http://blackghost.live/play/mitv-755.php?id=natgeowild&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TLC Discovery
-http://blackghost.live/play/mitv-755.php?id=tlc&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",PREMIUM TV
-http://blackghost.live/play/mitv-755.php?id=premium&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",INFANTILES
-http://blackghost.live/play/mitv-755.php?id=kids&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",MUSICA
-http://blackghost.live/play/mitv-755.php?id=musica&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",A MAS MX
-http://blackghost.live/play/mitv-755.php?id=amas&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZTECA UNO MX
-http://blackghost.live/play/mitv-755.php?id=aztecauno&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",EL DOS MX
-http://blackghost.live/play/mitv-755.php?id=eldos&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CANAL 5 MX
-http://blackghost.live/play/mitv-755.php?id=elcinco&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZTECA 7
-http://blackghost.live/play/mitv-755.php?id=azteca7&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",EL NUEVE MX
-http://blackghost.live/play/mitv-755.php?id=elnueve&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",IMAGEN TV
-http://blackghost.live/play/mitv-755.php?id=imagentv-1&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",MULTIMEDIOS
-http://blackghost.live/play/mitv-755.php?id=multimedios&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ONCE TV HD
-http://blackghost.live/play/mitv-755.php?id=oncetvhd&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",DISTRITO COMEDIA
-http://blackghost.live/play/mitv-755.php?id=distrito-1&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNICABLE MX
-http://blackghost.live/play/mitv-755.php?id=unicable&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",MVSTV MX
-http://blackghost.live/play/mitv-755.php?id=mvstv&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",EL DOS LA
-http://blackghost.live/play/mitv-755.php?id=eldosla&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ANTENA 3 Int
-http://blackghost.live/play/mitv-755.php?id=antena3int&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",A3 SERIES
-http://blackghost.live/play/mitv-755.php?id=a3series&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR TVE
-http://blackghost.live/play/mitv-755.php?id=startve&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TVE
-http://blackghost.live/play/mitv-755.php?id=tve&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",GALAVISION
-http://blackghost.live/play/mitv-755.php?id=galavision&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",GLITZ
-http://blackghost.live/play/mitv-755.php?id=glitz&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TELEMUNDO
-http://blackghost.live/play/mitv-755.php?id=telemundo&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TELEMUNDO Internacional
-http://blackghost.live/play/mitv-755.php?id=telemundoint&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNIMAS
-http://blackghost.live/play/mitv-755.php?id=unimas&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNIV
-http://blackghost.live/play/mitv-755.php?id=univ&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZ CORAZON
-http://blackghost.live/play/mitv-755.php?id=azcorazon&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",A&amp;E
-http://blackghost.live/play/mitv-755.php?id=ae&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AXN
-http://blackghost.live/play/mitv-755.php?id=axn&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",COMEDY CENTRAL
-http://blackghost.live/play/mitv-755.php?id=comedy&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Entertaiment
-http://blackghost.live/play/mitv-755.php?id=e&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FX
-http://blackghost.live/play/mitv-755.php?id=fx&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",INVESTIGATION Discovery
-http://blackghost.live/play/mitv-755.php?id=id&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",PASIONES
-http://blackghost.live/play/mitv-755.php?id=pasiones&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",SONY Channel
-http://blackghost.live/play/mitv-755.php?id=sony&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TLNovelas
-http://blackghost.live/play/mitv-755.php?id=tlnovelas&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Tele Novelas
-http://blackghost.live/play/mitv-755.php?id=univtln&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TBS
-http://blackghost.live/play/mitv-755.php?id=tbs&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TNT Series
-http://blackghost.live/play/mitv-755.php?id=tntseries&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TRU TV
-http://blackghost.live/play/mitv-755.php?id=trutv&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNIVERSAL TV
-http://blackghost.live/play/mitv-755.php?id=universal&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",WARNER TV
-http://blackghost.live/play/mitv-755.php?id=warner&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZ CINEMA
-http://blackghost.live/play/mitv-755.php?id=azcinema&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AMC
-http://blackghost.live/play/mitv-755.php?id=amc&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CINECANAL
-http://blackghost.live/play/mitv-755.php?id=cinecanal&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CINEMAX
-http://blackghost.live/play/mitv-755.php?id=cinemax&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CINE LATINO
-http://blackghost.live/play/mitv-755.php?id=cinelatino&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CINE SONY
-http://blackghost.live/play/mitv-755.php?id=cinesony&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",D PELICULA
-http://blackghost.live/play/mitv-755.php?id=depelicula&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",D PELICULA CLASICO
-http://blackghost.live/play/mitv-755.php?id=depeliculaclasico&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",D PELICULA PLUS
-http://blackghost.live/play/mitv-755.php?id=depeliculaplus&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",EUROPA
-http://blackghost.live/play/mitv-755.php?id=europa&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FILM &amp; ARTS
-http://blackghost.live/play/mitv-755.php?id=filmarts&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FXM
-http://blackghost.live/play/mitv-755.php?id=fxm&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ISAT
-http://blackghost.live/play/mitv-755.php?id=isat&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",MULTICINEMA
-http://blackghost.live/play/mitv-755.php?id=mc&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",MULTIPREMIER
-http://blackghost.live/play/mitv-755.php?id=mp&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",MORBIDO
-http://blackghost.live/play/mitv-755.php?id=morbido&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",PARAMOUNT Channel
-http://blackghost.live/play/mitv-755.php?id=paramount&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",SPACE
-http://blackghost.live/play/mitv-755.php?id=space&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STUDIO Universal
-http://blackghost.live/play/mitv-755.php?id=studiouniversal&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",SYFY
-http://blackghost.live/play/mitv-755.php?id=syfy&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TCM
-http://blackghost.live/play/mitv-755.php?id=tcm&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TNT
-http://blackghost.live/play/mitv-755.php?id=tnt&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZ MUNDO
-http://blackghost.live/play/mitv-755.php?id=azmundo&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ANIMAL Planet
-http://blackghost.live/play/mitv-755.php?id=animalp&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",DISCOVERY Channel
-http://blackghost.live/play/mitv-755.php?id=discoverych&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery SCIENCE
-http://blackghost.live/play/mitv-755.php?id=dciencia&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery CIVILIZATION
-http://blackghost.live/play/mitv-755.php?id=dcivil&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery THEATER
-http://blackghost.live/play/mitv-755.php?id=dtheater&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery TURBO
-http://blackghost.live/play/mitv-755.php?id=dturbo&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery WORLD
-http://blackghost.live/play/mitv-755.php?id=dworld&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOOD Network
-http://blackghost.live/play/mitv-755.php?id=food&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",EL GOURMET
-http://blackghost.live/play/mitv-755.php?id=gourmet-1&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",LIFE TIME
-http://blackghost.live/play/mitv-755.php?id=lifetime&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HISTORY Channel
-http://blackghost.live/play/mitv-755.php?id=history&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Histrory 2
-http://blackghost.live/play/mitv-755.php?id=h2&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Home &amp; Health
-http://blackghost.live/play/mitv-755.php?id=hh&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HOLA TV
-http://blackghost.live/play/mitv-755.php?id=holatv&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",MAS CHIC
-http://blackghost.live/play/mitv-755.php?id=maschic&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",NATGEO
-http://blackghost.live/play/mitv-755.php?id=natgeo&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Natgeo WILD
-http://blackghost.live/play/mitv-755.php?id=natgeowild&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TLC Discovery
-http://blackghost.live/play/mitv-755.php?id=tlc&f=.m3u8
 
-
-#EXTINF:-1 group-title="Lista 22",GOLDEN
-http://blackghost.live/play/mitv-755.php?id=golden&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Golden EDGE
-http://blackghost.live/play/mitv-755.php?id=goldenedge&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",GOLDEN Plus
-http://blackghost.live/play/mitv-755.php?id=goldenplus&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",Golden PREMIER
-http://blackghost.live/play/mitv-755.php?id=goldenp&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HBO
-http://blackghost.live/play/mitv-755.php?id=hbo&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HBO 2
-http://blackghost.live/play/mitv-755.php?id=hbo2&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HBO Plus
-http://blackghost.live/play/mitv-755.php?id=hboplus&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HBO Family
-http://blackghost.live/play/mitv-755.php?id=hbofamily&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HBO Mundi
-http://blackghost.live/play/mitv-755.php?id=hbomundi&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HBO POP
-http://blackghost.live/play/mitv-755.php?id=hbopop&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HBO Signature
-http://blackghost.live/play/mitv-755.php?id=hbosignature&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HBO Xtreme
-http://blackghost.live/play/mitv-755.php?id=hboxtreme&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR Channel
-http://blackghost.live/play/mitv-755.php?id=starch&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR ACTION
-http://blackghost.live/play/mitv-755.php?id=staraction&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR CINEMA
-http://blackghost.live/play/mitv-755.php?id=starcinema&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR CLASSICS
-http://blackghost.live/play/mitv-755.php?id=starclassics&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR COMEDY
-http://blackghost.live/play/mitv-755.php?id=starcomedy&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR FUN
-http://blackghost.live/play/mitv-755.php?id=starfun&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR HITS
-http://blackghost.live/play/mitv-755.php?id=starhits&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR LIFE
-http://blackghost.live/play/mitv-755.php?id=starlife&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR SERIES
-http://blackghost.live/play/mitv-755.php?id=starseries&f=.m3u8
+#EXTINF:-1 group-title="Lista 28",MEXICO | A+ HD
+https://blackghost.live/play/codeplus4-755.php?c=30072
+#EXTINF:-1 group-title="Lista 28",MEXICO | A+ SD
+https://blackghost.live/play/codeplus4-755.php?c=30073
+#EXTINF:-1 group-title="Lista 28",MEXICO | ADN40 HD
+https://blackghost.live/play/codeplus4-755.php?c=3520
+#EXTINF:-1 group-title="Lista 28",MEXICO | ADN40 SD
+https://blackghost.live/play/codeplus4-755.php?c=2614
+#EXTINF:-1 group-title="Lista 28",MEXICO | ADN40 UHD
+https://blackghost.live/play/codeplus4-755.php?c=1386
+#EXTINF:-1 group-title="Lista 28",MEXICO | AZ CLIC
+https://blackghost.live/play/codeplus4-755.php?c=932
+#EXTINF:-1 group-title="Lista 28",MEXICO | AZ CORAZON HD
+https://blackghost.live/play/codeplus4-755.php?c=933
+#EXTINF:-1 group-title="Lista 28",MEXICO | AZ MUNDO FHD
+https://blackghost.live/play/codeplus4-755.php?c=934
+#EXTINF:-1 group-title="Lista 28",MEXICO | AZTECA 7 FHD
+https://blackghost.live/play/codeplus4-755.php?c=936
+#EXTINF:-1 group-title="Lista 28",MEXICO | AZTECA 7 HD
+https://blackghost.live/play/codeplus4-755.php?c=937
+#EXTINF:-1 group-title="Lista 28",MEXICO | AZTECA 7 SD
+https://blackghost.live/play/codeplus4-755.php?c=1384
+#EXTINF:-1 group-title="Lista 28",MEXICO | AZTECA UNO FHD
+https://blackghost.live/play/codeplus4-755.php?c=938
+#EXTINF:-1 group-title="Lista 28",MEXICO | AZTECA UNO HD
+https://blackghost.live/play/codeplus4-755.php?c=939
+#EXTINF:-1 group-title="Lista 28",MEXICO | CANAL 4 
+https://blackghost.live/play/codeplus4-755.php?c=1382
+#EXTINF:-1 group-title="Lista 28",MEXICO | CANAL 5 
+https://blackghost.live/play/codeplus4-755.php?c=1383
+#EXTINF:-1 group-title="Lista 28",MEXICO | CANAL 26 FHD
+https://blackghost.live/play/codeplus4-755.php?c=1381
+#EXTINF:-1 group-title="Lista 28",MEXICO | CANAL 5 FHD
+https://blackghost.live/play/codeplus4-755.php?c=943
+#EXTINF:-1 group-title="Lista 28",MEXICO | CANAL 5 FHD OPC 2
+https://blackghost.live/play/codeplus4-755.php?c=942
+#EXTINF:-1 group-title="Lista 28",MEXICO | Canal Judicial HD
+https://blackghost.live/play/codeplus4-755.php?c=3523
+#EXTINF:-1 group-title="Lista 28",MEXICO | Canal Judicial SD
+https://blackghost.live/play/codeplus4-755.php?c=3522
+#EXTINF:-1 group-title="Lista 28",MEXICO | CANAL NUEVE
+https://blackghost.live/play/codeplus4-755.php?c=944
+#EXTINF:-1 group-title="Lista 28",MEXICO | CANAL ONCE
+https://blackghost.live/play/codeplus4-755.php?c=946
+#EXTINF:-1 group-title="Lista 28",MX NEWS | CNN EN ESPANOL
+https://blackghost.live/play/codeplus4-755.php?c=960
+#EXTINF:-1 group-title="Lista 28",MEXICO | Distrito Comedia
+https://blackghost.live/play/codeplus4-755.php?c=2122
+#EXTINF:-1 group-title="Lista 28",MX NEWS | FORO TV FHD
+https://blackghost.live/play/codeplus4-755.php?c=3104
+#EXTINF:-1 group-title="Lista 28",MX NEWS | FORO TV HD
+https://blackghost.live/play/codeplus4-755.php?c=962
+#EXTINF:-1 group-title="Lista 28",MX NEWS | FORO TV HD OPC 2
+https://blackghost.live/play/codeplus4-755.php?c=3105
+#EXTINF:-1 group-title="Lista 28",MEXICO | GALAVISION HD
+https://blackghost.live/play/codeplus4-755.php?c=948
+#EXTINF:-1 group-title="Lista 28",MEXICO | HOLA TV SD
+https://blackghost.live/play/codeplus4-755.php?c=1387
+#EXTINF:-1 group-title="Lista 28",MEXICO | IMAGEN HD
+https://blackghost.live/play/codeplus4-755.php?c=949
+#EXTINF:-1 group-title="Lista 28",MEXICO | INGENIO TV SD
+https://blackghost.live/play/codeplus4-755.php?c=1390
+#EXTINF:-1 group-title="Lista 28",MEXICO | ITV SD
+https://blackghost.live/play/codeplus4-755.php?c=1391
+#EXTINF:-1 group-title="Lista 28",MEXICO | LAS ESTRELLAS FHD
+https://blackghost.live/play/codeplus4-755.php?c=951
+#EXTINF:-1 group-title="Lista 28",MEXICO | LAS ESTRELLAS HD
+https://blackghost.live/play/codeplus4-755.php?c=952
+#EXTINF:-1 group-title="Lista 28",MEXICO | LAS ESTRELLAS SD
+https://blackghost.live/play/codeplus4-755.php?c=1009
+#EXTINF:-1 group-title="Lista 28",MX NEWS | MILENIO TV
+https://blackghost.live/play/codeplus4-755.php?c=965
+#EXTINF:-1 group-title="Lista 28",MEXICO | MULTIMEDIOS
+https://blackghost.live/play/codeplus4-755.php?c=954
+#EXTINF:-1 group-title="Lista 28",MEXICO | MULTIMEDIOS PLUS HD
+https://blackghost.live/play/codeplus4-755.php?c=955
+#EXTINF:-1 group-title="Lista 28",MEXICO | SAT SD
+https://blackghost.live/play/codeplus4-755.php?c=1389
+#EXTINF:-1 group-title="Lista 28",MEXICO | TELEHIT SD
+https://blackghost.live/play/codeplus4-755.php?c=1392
+#EXTINF:-1 group-title="Lista 28",MEXICO | TELEVISA MONTERREY 
+https://blackghost.live/play/codeplus4-755.php?c=957
+#EXTINF:-1 group-title="Lista 28",MEXICO | TUDN MX
+https://blackghost.live/play/codeplus4-755.php?c=3492
+#EXTINF:-1 group-title="Lista 28",MEXICO | UNICABLE FHD
+https://blackghost.live/play/codeplus4-755.php?c=7867
+#EXTINF:-1 group-title="Lista 28",VH1 CLASSIC SD
+https://blackghost.live/play/codeplus4-755.php?c=1388
+#EXTINF:-1 group-title="Lista 28",Music Channel
+https://blackghost.live/play/codeplus4-755.php?c=2781
+#EXTINF:-1 group-title="Lista 28",PER NEWS | TV Peru Noticias 7.3
+https://blackghost.live/play/codeplus4-755.php?c=2466
+#EXTINF:-1 group-title="Lista 28",PER NEWS | TVPERU NOTICIAS 7.3
+https://blackghost.live/play/codeplus4-755.php?c=1336
+#EXTINF:-1 group-title="Lista 28",POP & COUNTRY
+https://blackghost.live/play/codeplus4-755.php?c=2782
+#EXTINF:-1 group-title="Lista 28",POP HITS
+https://blackghost.live/play/codeplus4-755.php?c=2783
+#EXTINF:-1 group-title="Lista 28",POP LATINO
+https://blackghost.live/play/codeplus4-755.php?c=2784
+#EXTINF:-1 group-title="Lista 28",CINE HD | AZ CINEMA HD
+https://blackghost.live/play/codeplus4-755.php?c=1035
+#EXTINF:-1 group-title="Lista 28",PREMIUM NEWS | BBC WORLD NEWS LATINO
+https://blackghost.live/play/codeplus4-755.php?c=7912
+#EXTINF:-1 group-title="Lista 28",PREMIUM NEWS | CNN ESPAÑOL
+https://blackghost.live/play/codeplus4-755.php?c=7914
+#EXTINF:-1 group-title="Lista 28",PREMIUM NEWS | CNN INTERNATIONAL
+https://blackghost.live/play/codeplus4-755.php?c=7913
+#EXTINF:-1 group-title="Lista 28",RAP
+https://blackghost.live/play/codeplus4-755.php?c=2786
+#EXTINF:-1 group-title="Lista 28",ROCK
+https://blackghost.live/play/codeplus4-755.php?c=2788
+#EXTINF:-1 group-title="Lista 28",TEEN BEATS
+https://blackghost.live/play/codeplus4-755.php?c=2789
+#EXTINF:-1 group-title="Lista 28",THROWBACK JAMS
+https://blackghost.live/play/codeplus4-755.php?c=2793
+#EXTINF:-1 group-title="Lista 28",TODAYS COUNTRY
+https://blackghost.live/play/codeplus4-755.php?c=2790
+#EXTINF:-1 group-title="Lista 28",TROPICALES
+https://blackghost.live/play/codeplus4-755.php?c=2791
+#EXTINF:-1 group-title="Lista 28",USA Latino |  Telemundo El Paso HD
+https://blackghost.live/play/codeplus4-755.php?c=687
+#EXTINF:-1 group-title="Lista 28",USA Latino | Telemundo Internacional HD
+https://blackghost.live/play/codeplus4-755.php?c=3638
+#EXTINF:-1 group-title="Lista 28",USA Latino | Antena 3 HD
+https://blackghost.live/play/codeplus4-755.php?c=1295
+#EXTINF:-1 group-title="Lista 28",USA Latino | El Gourmet SD
+https://blackghost.live/play/codeplus4-755.php?c=1297
+#EXTINF:-1 group-title="Lista 28",USA Latino | Galavision HD
+https://blackghost.live/play/codeplus4-755.php?c=1301
+#EXTINF:-1 group-title="Lista 28",USA Latino | TYC Sports Internacional HD
+https://blackghost.live/play/codeplus4-755.php?c=1308
+#EXTINF:-1 group-title="Lista 28",USA Latino | Unimas HD
+https://blackghost.live/play/codeplus4-755.php?c=1309
+#EXTINF:-1 group-title="Lista 28",USA Latino | Telemundo Boston HD
+https://blackghost.live/play/codeplus4-755.php?c=2971
+#EXTINF:-1 group-title="Lista 28",USA Latino | Telemundo Kansas HD
+https://blackghost.live/play/codeplus4-755.php?c=686
+#EXTINF:-1 group-title="Lista 28",USA Latino | Telemundo Los Angeles HD
+https://blackghost.live/play/codeplus4-755.php?c=692
+#EXTINF:-1 group-title="Lista 28",USA Latino | Telemundo Miami HD
+https://blackghost.live/play/codeplus4-755.php?c=685
+#EXTINF:-1 group-title="Lista 28",USA Latino | Telemundo Philadelphia HD
+https://blackghost.live/play/codeplus4-755.php?c=9521
+#EXTINF:-1 group-title="Lista 28",USA Latino | Telemundo Washington HD
+https://blackghost.live/play/codeplus4-755.php?c=2973
+#EXTINF:-1 group-title="Lista 28",USA Latino | Telemundo Las Vegas HD
+https://blackghost.live/play/codeplus4-755.php?c=694
+#EXTINF:-1 group-title="Lista 28",USA Latino | TLNovelas Univision HD
+https://blackghost.live/play/codeplus4-755.php?c=1031
+#EXTINF:-1 group-title="Lista 28",USA Latino | TUDN HD
+https://blackghost.live/play/codeplus4-755.php?c=727
+#EXTINF:-1 group-title="Lista 28",USA Latino | Univision Chicago HD
+https://blackghost.live/play/codeplus4-755.php?c=726
+#EXTINF:-1 group-title="Lista 28",USA Latino | Univision Dallas HD
+https://blackghost.live/play/codeplus4-755.php?c=8049
+#EXTINF:-1 group-title="Lista 28",USA Latino | Univision Los Angeles HD
+https://blackghost.live/play/codeplus4-755.php?c=725
+#EXTINF:-1 group-title="Lista 28",USA Latino | Univision Miami HD
+https://blackghost.live/play/codeplus4-755.php?c=729
+#EXTINF:-1 group-title="Lista 28",USA Latino | Univision New York HD
+https://blackghost.live/play/codeplus4-755.php?c=730
+#EXTINF:-1 group-title="Lista 28",USA Latino | Univision Philadelphia HD
+https://blackghost.live/play/codeplus4-755.php?c=9520
+#EXTINF:-1 group-title="Lista 28",VENEZUELA  | TV FAMILIA
+https://blackghost.live/play/codeplus4-755.php?c=8422
+#EXTINF:-1 group-title="Lista 28",VENEZUELA | MERIDIANO TV opc 1
+https://blackghost.live/play/codeplus4-755.php?c=17558
+#EXTINF:-1 group-title="Lista 28",VENEZUELA | VENEVISION PLUS
+https://blackghost.live/play/codeplus4-755.php?c=17559
+#EXTINF:-1 group-title="Lista 28",Venezuela* | Canal i
+https://blackghost.live/play/codeplus4-755.php?c=1583
+#EXTINF:-1 group-title="Lista 28",Venezuela* | TV ConCiencia
+https://blackghost.live/play/codeplus4-755.php?c=1580
+#EXTINF:-1 group-title="Lista 28",Venezuela* | Vale TV
+https://blackghost.live/play/codeplus4-755.php?c=1579
+#EXTINF:-1 group-title="Lista 28",Venezuela | Venevision
+https://blackghost.live/play/codeplus4-755.php?c=1578
+#EXTINF:-1 group-title="Lista 28",Venezuela | Venezolana de TV
+https://blackghost.live/play/codeplus4-755.php?c=17566
+#EXTINF:-1 group-title="Lista 28",Venezuela | Meridiano TV opc 2
+https://blackghost.live/play/codeplus4-755.php?c=17576
+#EXTINF:-1 group-title="Lista 28",VEN NEWS | Rusia today
+https://blackghost.live/play/codeplus4-755.php?c=17580
+#EXTINF:-1 group-title="Lista 28",VEN NEWS | Telesur
+https://blackghost.live/play/codeplus4-755.php?c=17578
+#EXTINF:-1 group-title="Lista 28",Venezuela | Vive TV opc 2
+https://blackghost.live/play/codeplus4-755.php?c=17585
+#EXTINF:-1 group-title="Lista 28",Y2K
+https://blackghost.live/play/codeplus4-755.php?c=2794
+#EXTINF:-1 group-title="Lista 28",USA Latino | Telemundo New York HD
+https://blackghost.live/play/codeplus4-755.php?c=682
+#EXTINF:-1 group-title="Lista 28",MEXICO | TELENOVELAS HD
+https://blackghost.live/play/codeplus4-755.php?c=33804
+#EXTINF:-1 group-title="Lista 28",MEXICO | TELENOVELAS SD
+https://blackghost.live/play/codeplus4-755.php?c=33805
+#EXTINF:-1 group-title="Lista 28",USA Latino | Pasiones HD
+https://blackghost.live/play/codeplus4-755.php?c=35483
+#EXTINF:-1 group-title="Lista 28",MEXICO | FOOD NETWORK SD
+https://blackghost.live/play/codeplus4-755.php?c=35499
+#EXTINF:-1 group-title="Lista 28",CHILE | CANAL 13 FHD
+https://blackghost.live/play/codeplus4-755.php?c=35558
+#EXTINF:-1 group-title="Lista 28",USA Latino | Univision Houston HD
+https://blackghost.live/play/codeplus4-755.php?c=35948
+#EXTINF:-1 group-title="Lista 28",USA Latino | Telemundo Houston HD
+https://blackghost.live/play/codeplus4-755.php?c=35949
+#EXTINF:-1 group-title="Lista 28",VENEZUELA | TV Venezuela (TVV MIAMI)
+https://blackghost.live/play/codeplus4-755.php?c=36811
+#EXTINF:-1 group-title="Lista 28",VENEZUELA | EVTV HD
+https://blackghost.live/play/codeplus4-755.php?c=36812
+#EXTINF:-1 group-title="Lista 28",VENEZUELA | TELEVEN
+https://blackghost.live/play/codeplus4-755.php?c=36813
+#EXTINF:-1 group-title="Lista 28",HTV Latino
+https://blackghost.live/play/codeplus4-755.php?c=36814
+#EXTINF:-1 group-title="Lista 28",MTV LIVE
+https://blackghost.live/play/codeplus4-755.php?c=36817
+#EXTINF:-1 group-title="Lista 28",MTV U
+https://blackghost.live/play/codeplus4-755.php?c=36818
+#EXTINF:-1 group-title="Lista 28",USA Latino | MTV Ahora HD
+https://blackghost.live/play/codeplus4-755.php?c=36821
+#EXTINF:-1 group-title="Lista 28",MTV LATINO HD
+https://blackghost.live/play/codeplus4-755.php?c=36823
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | SKY SPORTS PREMIER LEAGUE
+https://blackghost.live/play/codeplus4-755.php?c=37173
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | SKY SPORTS LALIGA
+https://blackghost.live/play/codeplus4-755.php?c=37174
+#EXTINF:-1 group-title="Lista 28",MEXICO |  BITME
+https://blackghost.live/play/codeplus4-755.php?c=37412
+#EXTINF:-1 group-title="Lista 28",Coronavirus COVID-19 Stats
+https://blackghost.live/play/codeplus4-755.php?c=37846
+#EXTINF:-1 group-title="Lista 28",USA Latino | Telemundo New Orleans HD
+https://blackghost.live/play/codeplus4-755.php?c=38483
+#EXTINF:-1 group-title="Lista 28",Chile | TVU Concepcion
+https://blackghost.live/play/codeplus4-755.php?c=38484
+#EXTINF:-1 group-title="Lista 28",Chile | CANAL 13 C HD
+https://blackghost.live/play/codeplus4-755.php?c=38485
+#EXTINF:-1 group-title="Lista 28",RD |  TELEANTILLAS CANAL 2
+https://blackghost.live/play/codeplus4-755.php?c=1444
+#EXTINF:-1 group-title="Lista 28",RD | CERTV
+https://blackghost.live/play/codeplus4-755.php?c=1753
+#EXTINF:-1 group-title="Lista 28",RD | TELEMICRO
+https://blackghost.live/play/codeplus4-755.php?c=2258
+#EXTINF:-1 group-title="Lista 28",RD | TELEMICRO INTER HD
+https://blackghost.live/play/codeplus4-755.php?c=2259
+#EXTINF:-1 group-title="Lista 28",RD | ANTENA LATINA HD
+https://blackghost.live/play/codeplus4-755.php?c=1756
+#EXTINF:-1 group-title="Lista 28",RD | COLOR VISION HD
+https://blackghost.live/play/codeplus4-755.php?c=1445
+#EXTINF:-1 group-title="Lista 28",RD | COLOR VISION FHD
+https://blackghost.live/play/codeplus4-755.php?c=1757
+#EXTINF:-1 group-title="Lista 28",RD | COLOR VISION 
+https://blackghost.live/play/codeplus4-755.php?c=1758
+#EXTINF:-1 group-title="Lista 28",RD | TELESISTEMA CANAL 11
+https://blackghost.live/play/codeplus4-755.php?c=1464
+#EXTINF:-1 group-title="Lista 28",RD | TELESISTEMA HD
+https://blackghost.live/play/codeplus4-755.php?c=2253
+#EXTINF:-1 group-title="Lista 28",RD | TELECENTRO
+https://blackghost.live/play/codeplus4-755.php?c=1452
+#EXTINF:-1 group-title="Lista 28",RD | DIGITAL 15 
+https://blackghost.live/play/codeplus4-755.php?c=1764
+#EXTINF:-1 group-title="Lista 28",RD | CDN  HD
+https://blackghost.live/play/codeplus4-755.php?c=1765
+#EXTINF:-1 group-title="Lista 28",RD | CDN SPORT MAX HD
+https://blackghost.live/play/codeplus4-755.php?c=1766
+#EXTINF:-1 group-title="Lista 28",RD |  CDN2
+https://blackghost.live/play/codeplus4-755.php?c=2260
+#EXTINF:-1 group-title="Lista 28",RD |TELEUNIVERSO 29
+https://blackghost.live/play/codeplus4-755.php?c=39971
+#EXTINF:-1 group-title="Lista 28",RD | MICROVISION
+https://blackghost.live/play/codeplus4-755.php?c=35681
+#EXTINF:-1 group-title="Lista 28",RD | +TELEVISiON DOMINICANA +
+https://blackghost.live/play/codeplus4-755.php?c=31833
+#EXTINF:-1 group-title="Lista 28",RD | TELEVISION DOMINICANA
+https://blackghost.live/play/codeplus4-755.php?c=31832
+#EXTINF:-1 group-title="Lista 28",RD | AME 47
+https://blackghost.live/play/codeplus4-755.php?c=5150
+#EXTINF:-1 group-title="Lista 28",RD | CORAL 39
+https://blackghost.live/play/codeplus4-755.php?c=5149
+#EXTINF:-1 group-title="Lista 28",RD | Super Canal 33 HD
+https://blackghost.live/play/codeplus4-755.php?c=2255
+#EXTINF:-1 group-title="Lista 28",RD |  ROMANA TV CANAL 42
+https://blackghost.live/play/codeplus4-755.php?c=1812
+#EXTINF:-1 group-title="Lista 28",RD | CANAL 25 SANTIAGO
+https://blackghost.live/play/codeplus4-755.php?c=1810
+#EXTINF:-1 group-title="Lista 28",RD | CIBER VISION 3 NAGUA
+https://blackghost.live/play/codeplus4-755.php?c=1808
+#EXTINF:-1 group-title="Lista 28",RD | WMS HD
+https://blackghost.live/play/codeplus4-755.php?c=1806
+#EXTINF:-1 group-title="Lista 28",RD |  TV PLATA
+https://blackghost.live/play/codeplus4-755.php?c=1804
+#EXTINF:-1 group-title="Lista 28",RD | TELENORD 10
+https://blackghost.live/play/codeplus4-755.php?c=1801
+#EXTINF:-1 group-title="Lista 28",RD | TELEMILENIO SANTIAGO
+https://blackghost.live/play/codeplus4-755.php?c=1799
+#EXTINF:-1 group-title="Lista 28",RD | LATINOS NC TV
+https://blackghost.live/play/codeplus4-755.php?c=1796
+#EXTINF:-1 group-title="Lista 28",RD |  TELECANAL 28
+https://blackghost.live/play/codeplus4-755.php?c=1794
+#EXTINF:-1 group-title="Lista 28",RD | TELEFUTURO CANAL 23
+https://blackghost.live/play/codeplus4-755.php?c=1792
+#EXTINF:-1 group-title="Lista 28",RD | LUNA TV
+https://blackghost.live/play/codeplus4-755.php?c=1789
+#EXTINF:-1 group-title="Lista 28",RD | Latinos UP Tv
+https://blackghost.live/play/codeplus4-755.php?c=1786
+#EXTINF:-1 group-title="Lista 28",RD | GDM TV STUDIO
+https://blackghost.live/play/codeplus4-755.php?c=1784
+#EXTINF:-1 group-title="Lista 28",RD | ORBIT TV
+https://blackghost.live/play/codeplus4-755.php?c=1779
+#EXTINF:-1 group-title="Lista 28",RD | CIELO TV
+https://blackghost.live/play/codeplus4-755.php?c=1778
+#EXTINF:-1 group-title="Lista 28",RD | GH TELEVISON CANAL 10
+https://blackghost.live/play/codeplus4-755.php?c=1777
+#EXTINF:-1 group-title="Lista 28",RD | TELERADIO AMERICA
+https://blackghost.live/play/codeplus4-755.php?c=1773
+#EXTINF:-1 group-title="Lista 28",RD | Peravia Vision
+https://blackghost.live/play/codeplus4-755.php?c=1510
+#EXTINF:-1 group-title="Lista 28",RD |  MEGA VISION
+https://blackghost.live/play/codeplus4-755.php?c=1507
+#EXTINF:-1 group-title="Lista 28",RD | TELE CARIBE 
+https://blackghost.live/play/codeplus4-755.php?c=1506
+#EXTINF:-1 group-title="Lista 28",RD | BOREAL TV
+https://blackghost.live/play/codeplus4-755.php?c=1505
+#EXTINF:-1 group-title="Lista 28",RD |  BONAO TV
+https://blackghost.live/play/codeplus4-755.php?c=1488
+#EXTINF:-1 group-title="Lista 28",RD | MAIMON TV 3
+https://blackghost.live/play/codeplus4-755.php?c=1487
+#EXTINF:-1 group-title="Lista 28",RD |  YUNA VISION
+https://blackghost.live/play/codeplus4-755.php?c=1486
+#EXTINF:-1 group-title="Lista 28",RD |  ONDA TV
+https://blackghost.live/play/codeplus4-755.php?c=1477
+#EXTINF:-1 group-title="Lista 28",RD |  SUPER TV 55
+https://blackghost.live/play/codeplus4-755.php?c=1474
+#EXTINF:-1 group-title="Lista 28",RD | TELEUNION
+https://blackghost.live/play/codeplus4-755.php?c=1473
+#EXTINF:-1 group-title="Lista 28",RD | ACENTO TV
+https://blackghost.live/play/codeplus4-755.php?c=1460
+#EXTINF:-1 group-title="Lista 28",RD | TELECANAL 28
+https://blackghost.live/play/codeplus4-755.php?c=1459
+#EXTINF:-1 group-title="Lista 28",RD | RNN 27
+https://blackghost.live/play/codeplus4-755.php?c=1458
+#EXTINF:-1 group-title="Lista 28",RD | TELE 12-MAO
+https://blackghost.live/play/codeplus4-755.php?c=1456
+#EXTINF:-1 group-title="Lista 28",RD | CINEVISION 19
+https://blackghost.live/play/codeplus4-755.php?c=1447
+#EXTINF:-1 group-title="Lista 28",USA Latino | Telemundo Albuquerque HD
+https://blackghost.live/play/codeplus4-755.php?c=40858
+#EXTINF:-1 group-title="Lista 28",COL | Teleamiga
+https://blackghost.live/play/codeplus4-755.php?c=40865
+#EXTINF:-1 group-title="Lista 28",COL | Televid 
+https://blackghost.live/play/codeplus4-755.php?c=40866
+#EXTINF:-1 group-title="Lista 28",CINE HD | HBO Latino HD
+https://blackghost.live/play/codeplus4-755.php?c=41128
+#EXTINF:-1 group-title="Lista 28",CINE HD | HBO Xtreme HD
+https://blackghost.live/play/codeplus4-755.php?c=41129
+#EXTINF:-1 group-title="Lista 28",CHILE | TVN SD
+https://blackghost.live/play/codeplus4-755.php?c=41360
+#EXTINF:-1 group-title="Lista 28",RD |  Telecibao
+https://blackghost.live/play/codeplus4-755.php?c=41361
+#EXTINF:-1 group-title="Lista 28",CINE HD | FX FHD ( DUAL AUDIO)
+https://blackghost.live/play/codeplus4-755.php?c=72509
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | TUDN MX HD
+https://blackghost.live/play/codeplus4-755.php?c=72566
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | Espn 2
+https://blackghost.live/play/codeplus4-755.php?c=72567
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | MEX Fox Sports 2
+https://blackghost.live/play/codeplus4-755.php?c=72568
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | Azteca 7 HD
+https://blackghost.live/play/codeplus4-755.php?c=72569
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | TUDN
+https://blackghost.live/play/codeplus4-755.php?c=72570
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | Afizzionados (TV)
+https://blackghost.live/play/codeplus4-755.php?c=72571
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | ESPN 2 HD
+https://blackghost.live/play/codeplus4-755.php?c=72572
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | Fox Sports 2 HD
+https://blackghost.live/play/codeplus4-755.php?c=72573
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | MEX Fox Sports 2*
+https://blackghost.live/play/codeplus4-755.php?c=72574
+#EXTINF:-1 group-title="Lista 28",CHILE | ETC TV CHILE
+https://blackghost.live/play/codeplus4-755.php?c=73049
+#EXTINF:-1 group-title="Lista 28",MEXICO | Milenio TV HD
+https://blackghost.live/play/codeplus4-755.php?c=73050
+#EXTINF:-1 group-title="Lista 28",MEXICO | Televisa Puebla
+https://blackghost.live/play/codeplus4-755.php?c=73051
+#EXTINF:-1 group-title="Lista 28",MEXICO | Televisa Monterrey
+https://blackghost.live/play/codeplus4-755.php?c=73052
+#EXTINF:-1 group-title="Lista 28",MEXICO | Televisa Puebla HD
+https://blackghost.live/play/codeplus4-755.php?c=73053
+#EXTINF:-1 group-title="Lista 28",US: MEGA TV | SD
+https://blackghost.live/play/codeplus4-755.php?c=73602
+#EXTINF:-1 group-title="Lista 28",USA LATINO | Univision 21 (Fresno) HD
+https://blackghost.live/play/codeplus4-755.php?c=74895
+#EXTINF:-1 group-title="Lista 28",USA Latino | UNIMAS (WEST) | HD
+https://blackghost.live/play/codeplus4-755.php?c=79708
+#EXTINF:-1 group-title="Lista 28",USA |  PARAMOUNT NETWORK HD
+https://blackghost.live/play/codeplus4-755.php?c=79853
+#EXTINF:-1 group-title="Lista 28",CUBA | Cubavision Internacional
+https://blackghost.live/play/codeplus4-755.php?c=81712
+#EXTINF:-1 group-title="Lista 28",DAZN PREMIUM 1 HD
+https://blackghost.live/play/codeplus4-755.php?c=36868
+#EXTINF:-1 group-title="Lista 28",DAZN PREMIUM 1 FHD
+https://blackghost.live/play/codeplus4-755.php?c=36869
+#EXTINF:-1 group-title="Lista 28",DAZN PREMIUM 2 HD
+https://blackghost.live/play/codeplus4-755.php?c=36870
+#EXTINF:-1 group-title="Lista 28",EVENTOS 2 FHD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=69405
+#EXTINF:-1 group-title="Lista 28",EVENTOS 2 SD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=69406
+#EXTINF:-1 group-title="Lista 28",EVENTOS 3 FHD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=69407
+#EXTINF:-1 group-title="Lista 28",EVENTOS 3 HD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=69408
+#EXTINF:-1 group-title="Lista 28",EVENTOS 3 SD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=69409
+#EXTINF:-1 group-title="Lista 28",EVENTOS 4 FHD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=69410
+#EXTINF:-1 group-title="Lista 28",EVENTOS 4 HD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=69411
+#EXTINF:-1 group-title="Lista 28",EVENTOS 4 SD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=69412
+#EXTINF:-1 group-title="Lista 28",EVENTOS 5 SD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82713
+#EXTINF:-1 group-title="Lista 28",EVENTOS 6 SD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82714
+#EXTINF:-1 group-title="Lista 28",EVENTOS 6 HD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82715
+#EXTINF:-1 group-title="Lista 28",EVENTOS 6 FHD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82716
+#EXTINF:-1 group-title="Lista 28",EVENTOS 7 SD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82717
+#EXTINF:-1 group-title="Lista 28",EVENTOS 7 HD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82718
+#EXTINF:-1 group-title="Lista 28",EVENTOS 7 FHD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82719
+#EXTINF:-1 group-title="Lista 28",EVENTOS 8 SD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82720
+#EXTINF:-1 group-title="Lista 28",EVENTOS 8 HD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82721
+#EXTINF:-1 group-title="Lista 28",EVENTOS 8 FHD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82722
+#EXTINF:-1 group-title="Lista 28",EVENTOS 9 SD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82723
+#EXTINF:-1 group-title="Lista 28",EVENTOS 9 HD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82724
+#EXTINF:-1 group-title="Lista 28",EVENTOS 9 FHD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82725
+#EXTINF:-1 group-title="Lista 28",EVENTOS 10 SD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82726
+#EXTINF:-1 group-title="Lista 28",EVENTOS 10 HD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82727
+#EXTINF:-1 group-title="Lista 28",EVENTOS 10 FHD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82728
+#EXTINF:-1 group-title="Lista 28",EVENTOS 11 SD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82729
+#EXTINF:-1 group-title="Lista 28",EVENTOS 11 HD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82730
+#EXTINF:-1 group-title="Lista 28",EVENTOS 11 FHD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82731
+#EXTINF:-1 group-title="Lista 28",EVENTOS 12 SD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82732
+#EXTINF:-1 group-title="Lista 28",EVENTOS 12 HD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82733
+#EXTINF:-1 group-title="Lista 28",EVENTOS 12 FHD PREMIUM
+https://blackghost.live/play/codeplus4-755.php?c=82734
+#EXTINF:-1 group-title="Lista 28",VEN NEWS | NTN24
+https://blackghost.live/play/codeplus4-755.php?c=83147
+#EXTINF:-1 group-title="Lista 28",RD | Sport vision canal 35
+https://blackghost.live/play/codeplus4-755.php?c=83232
+#EXTINF:-1 group-title="Lista 28",MEXICO | TVO HD
+https://blackghost.live/play/codeplus4-755.php?c=86625
+#EXTINF:-1 group-title="Lista 28",MEXICO | TVO SD
+https://blackghost.live/play/codeplus4-755.php?c=86626
+#EXTINF:-1 group-title="Lista 28",LAT SD: Animal Planet
+https://blackghost.live/play/codeplus4-755.php?c=86721
+#EXTINF:-1 group-title="Lista 28",LAT HD: A&E
+https://blackghost.live/play/codeplus4-755.php?c=86722
+#EXTINF:-1 group-title="Lista 28",LAT SD: A&E
+https://blackghost.live/play/codeplus4-755.php?c=86723
+#EXTINF:-1 group-title="Lista 28",LAT HD: AXN HD
+https://blackghost.live/play/codeplus4-755.php?c=86724
+#EXTINF:-1 group-title="Lista 28",LAT SD: AXN
+https://blackghost.live/play/codeplus4-755.php?c=86725
+#EXTINF:-1 group-title="Lista 28",LAT SD:Comedy Central
+https://blackghost.live/play/codeplus4-755.php?c=86726
+#EXTINF:-1 group-title="Lista 28",LAT HD: SONY
+https://blackghost.live/play/codeplus4-755.php?c=86727
+#EXTINF:-1 group-title="Lista 28",LAT SD: Sony
+https://blackghost.live/play/codeplus4-755.php?c=86728
+#EXTINF:-1 group-title="Lista 28",LAT HD: WARNER
+https://blackghost.live/play/codeplus4-755.php?c=86729
+#EXTINF:-1 group-title="Lista 28",LAT SD:!E
+https://blackghost.live/play/codeplus4-755.php?c=86731
+#EXTINF:-1 group-title="Lista 28",LAT HD: FX
+https://blackghost.live/play/codeplus4-755.php?c=86732
+#EXTINF:-1 group-title="Lista 28",LAT SD: FX
+https://blackghost.live/play/codeplus4-755.php?c=86733
+#EXTINF:-1 group-title="Lista 28",LAT HD: UNIVERSAL
+https://blackghost.live/play/codeplus4-755.php?c=86734
+#EXTINF:-1 group-title="Lista 28",LAT SD: Universal
+https://blackghost.live/play/codeplus4-755.php?c=86735
+#EXTINF:-1 group-title="Lista 28",LAT SD: SyFy
+https://blackghost.live/play/codeplus4-755.php?c=86736
+#EXTINF:-1 group-title="Lista 28",LAT SD: Discovery Channel
+https://blackghost.live/play/codeplus4-755.php?c=86737
+#EXTINF:-1 group-title="Lista 28",LAT HD: Discovery ID
+https://blackghost.live/play/codeplus4-755.php?c=86738
+#EXTINF:-1 group-title="Lista 28",LAT SD: Discovery ID
+https://blackghost.live/play/codeplus4-755.php?c=86739
+#EXTINF:-1 group-title="Lista 28",LAT SD: Discovery TLC
+https://blackghost.live/play/codeplus4-755.php?c=86740
+#EXTINF:-1 group-title="Lista 28",LAT HD: Discovery H&H
+https://blackghost.live/play/codeplus4-755.php?c=86741
+#EXTINF:-1 group-title="Lista 28",LAT SD: Discovery h&h
+https://blackghost.live/play/codeplus4-755.php?c=86742
+#EXTINF:-1 group-title="Lista 28",LAT SD: Discovery Theater
+https://blackghost.live/play/codeplus4-755.php?c=86743
+#EXTINF:-1 group-title="Lista 28",LAT SD: Discovery Turbo
+https://blackghost.live/play/codeplus4-755.php?c=86744
+#EXTINF:-1 group-title="Lista 28",LAT SD:Discovery Kids
+https://blackghost.live/play/codeplus4-755.php?c=86745
+#EXTINF:-1 group-title="Lista 28",LAT HD: STAR CHANNEL
+https://blackghost.live/play/codeplus4-755.php?c=86746
+#EXTINF:-1 group-title="Lista 28",LAT SD: star channel
+https://blackghost.live/play/codeplus4-755.php?c=86747
+#EXTINF:-1 group-title="Lista 28",LAT HD:FOX SERIES
+https://blackghost.live/play/codeplus4-755.php?c=86748
+#EXTINF:-1 group-title="Lista 28",LAT HD: star series
+https://blackghost.live/play/codeplus4-755.php?c=86749
+#EXTINF:-1 group-title="Lista 28",LAT SD: Star Fun
+https://blackghost.live/play/codeplus4-755.php?c=86750
+#EXTINF:-1 group-title="Lista 28",LAT HD: STAR ACTION
+https://blackghost.live/play/codeplus4-755.php?c=86751
+#EXTINF:-1 group-title="Lista 28",LAT SD: Star Action
+https://blackghost.live/play/codeplus4-755.php?c=86752
+#EXTINF:-1 group-title="Lista 28",LAT SD: FOX MOVIE
+https://blackghost.live/play/codeplus4-755.php?c=86753
+#EXTINF:-1 group-title="Lista 28",LAT SD: Star Hits
+https://blackghost.live/play/codeplus4-755.php?c=86754
+#EXTINF:-1 group-title="Lista 28",LAT HD: Star Classics
+https://blackghost.live/play/codeplus4-755.php?c=86755
+#EXTINF:-1 group-title="Lista 28",LAT SD: Star Life
+https://blackghost.live/play/codeplus4-755.php?c=86756
+#EXTINF:-1 group-title="Lista 28",LAT HD: HBO
+https://blackghost.live/play/codeplus4-755.php?c=86757
+#EXTINF:-1 group-title="Lista 28",LAT SD: HBO
+https://blackghost.live/play/codeplus4-755.php?c=86758
+#EXTINF:-1 group-title="Lista 28",LAT SD: HBO 2
+https://blackghost.live/play/codeplus4-755.php?c=86759
+#EXTINF:-1 group-title="Lista 28",LAT SD: HBO Plus
+https://blackghost.live/play/codeplus4-755.php?c=86760
+#EXTINF:-1 group-title="Lista 28",LAT SD: HBO Family
+https://blackghost.live/play/codeplus4-755.php?c=86761
+#EXTINF:-1 group-title="Lista 28",LAT SD: SHOWTIME
+https://blackghost.live/play/codeplus4-755.php?c=86762
+#EXTINF:-1 group-title="Lista 28",LAT HD: CINE LATINO
+https://blackghost.live/play/codeplus4-755.php?c=86764
+#EXTINF:-1 group-title="Lista 28",LAT SD: FX Movies Lat
+https://blackghost.live/play/codeplus4-755.php?c=86767
+#EXTINF:-1 group-title="Lista 28",LAT SD: Paramount Channel
+https://blackghost.live/play/codeplus4-755.php?c=86768
+#EXTINF:-1 group-title="Lista 28",LAT HD: TNT
+https://blackghost.live/play/codeplus4-755.php?c=86769
+#EXTINF:-1 group-title="Lista 28",LAT SD:TNT
+https://blackghost.live/play/codeplus4-755.php?c=86770
+#EXTINF:-1 group-title="Lista 28",LAT SD:TNT Series
+https://blackghost.live/play/codeplus4-755.php?c=86771
+#EXTINF:-1 group-title="Lista 28",LAT SD: TBS
+https://blackghost.live/play/codeplus4-755.php?c=86772
+#EXTINF:-1 group-title="Lista 28",LAT SD: CinecanalW
+https://blackghost.live/play/codeplus4-755.php?c=86773
+#EXTINF:-1 group-title="Lista 28",LAT HD: SPACE
+https://blackghost.live/play/codeplus4-755.php?c=86774
+#EXTINF:-1 group-title="Lista 28",LAT SD:Space
+https://blackghost.live/play/codeplus4-755.php?c=86775
+#EXTINF:-1 group-title="Lista 28",LAT SD: Studio
+https://blackghost.live/play/codeplus4-755.php?c=86776
+#EXTINF:-1 group-title="Lista 28",LAT SD:I.Sat
+https://blackghost.live/play/codeplus4-755.php?c=86778
+#EXTINF:-1 group-title="Lista 28",LAT SD | NBC Universo
+https://blackghost.live/play/codeplus4-755.php?c=86780
+#EXTINF:-1 group-title="Lista 28",LAT SD: HBO Xtreme
+https://blackghost.live/play/codeplus4-755.php?c=86781
+#EXTINF:-1 group-title="Lista 28",LAT SD:Cinemax
+https://blackghost.live/play/codeplus4-755.php?c=86782
+#EXTINF:-1 group-title="Lista 28",LAT SD: NatGeo
+https://blackghost.live/play/codeplus4-755.php?c=86783
+#EXTINF:-1 group-title="Lista 28",LAT SD: NATGEO Wild
+https://blackghost.live/play/codeplus4-755.php?c=86784
+#EXTINF:-1 group-title="Lista 28",LAT SD:NatGeo Kids
+https://blackghost.live/play/codeplus4-755.php?c=86785
+#EXTINF:-1 group-title="Lista 28",LAT HD: HISTORY
+https://blackghost.live/play/codeplus4-755.php?c=86786
+#EXTINF:-1 group-title="Lista 28",LAT SD: History Channel
+https://blackghost.live/play/codeplus4-755.php?c=86787
+#EXTINF:-1 group-title="Lista 28",LAT SD:H2
+https://blackghost.live/play/codeplus4-755.php?c=86788
+#EXTINF:-1 group-title="Lista 28",LAT SD: Lifetime
+https://blackghost.live/play/codeplus4-755.php?c=86790
+#EXTINF:-1 group-title="Lista 28",LAT SD: Arts
+https://blackghost.live/play/codeplus4-755.php?c=86791
+#EXTINF:-1 group-title="Lista 28",LAT SD | Univision
+https://blackghost.live/play/codeplus4-755.php?c=86792
+#EXTINF:-1 group-title="Lista 28",LAT HD : Telemundo
+https://blackghost.live/play/codeplus4-755.php?c=86793
+#EXTINF:-1 group-title="Lista 28",LAT SD: Telemundo
+https://blackghost.live/play/codeplus4-755.php?c=86794
+#EXTINF:-1 group-title="Lista 28",LAT SD: Unimas
+https://blackghost.live/play/codeplus4-755.php?c=86795
+#EXTINF:-1 group-title="Lista 28",LAT SD: Galavision Usa
+https://blackghost.live/play/codeplus4-755.php?c=86796
+#EXTINF:-1 group-title="Lista 28",LAT HD: EstrellaTV
+https://blackghost.live/play/codeplus4-755.php?c=86797
+#EXTINF:-1 group-title="Lista 28",LAT SD:Nickelodeon
+https://blackghost.live/play/codeplus4-755.php?c=86798
+#EXTINF:-1 group-title="Lista 28",LAT SD:Disney XD
+https://blackghost.live/play/codeplus4-755.php?c=86799
+#EXTINF:-1 group-title="Lista 28",LAT SD:Cartoon Network
+https://blackghost.live/play/codeplus4-755.php?c=86800
+#EXTINF:-1 group-title="Lista 28",LAT HD: DISNEY
+https://blackghost.live/play/codeplus4-755.php?c=86801
+#EXTINF:-1 group-title="Lista 28",LAT SD:Disney Channel
+https://blackghost.live/play/codeplus4-755.php?c=86802
+#EXTINF:-1 group-title="Lista 28",LAT SD:Boomerang
+https://blackghost.live/play/codeplus4-755.php?c=86803
+#EXTINF:-1 group-title="Lista 28",LAT SD:Baby TV
+https://blackghost.live/play/codeplus4-755.php?c=86804
+#EXTINF:-1 group-title="Lista 28",LAT SD:Nick Jr
+https://blackghost.live/play/codeplus4-755.php?c=86805
+#EXTINF:-1 group-title="Lista 28",LAT SD: Disney Jr
+https://blackghost.live/play/codeplus4-755.php?c=86806
+#EXTINF:-1 group-title="Lista 28",LAT SD:CNN USA
+https://blackghost.live/play/codeplus4-755.php?c=86807
+#EXTINF:-1 group-title="Lista 28",LAT SD:CNN
+https://blackghost.live/play/codeplus4-755.php?c=86808
+#EXTINF:-1 group-title="Lista 28",LAT SD: MTV
+https://blackghost.live/play/codeplus4-755.php?c=86809
+#EXTINF:-1 group-title="Lista 28",LAT SD: MTV Hits
+https://blackghost.live/play/codeplus4-755.php?c=86810
+#EXTINF:-1 group-title="Lista 28",LAT SD: Mtv Tres
+https://blackghost.live/play/codeplus4-755.php?c=86811
+#EXTINF:-1 group-title="Lista 28",LAT SD: VH1
+https://blackghost.live/play/codeplus4-755.php?c=86812
+#EXTINF:-1 group-title="Lista 28",Deportes SD | TDN (720)
+https://blackghost.live/play/codeplus4-755.php?c=86821
+#EXTINF:-1 group-title="Lista 28",Deportes SD | ESPN
+https://blackghost.live/play/codeplus4-755.php?c=86822
+#EXTINF:-1 group-title="Lista 28",Deportes HD | ESPN (720)
+https://blackghost.live/play/codeplus4-755.php?c=86823
+#EXTINF:-1 group-title="Lista 28",Deportes SD | ESPN 2
+https://blackghost.live/play/codeplus4-755.php?c=86824
+#EXTINF:-1 group-title="Lista 28",Deportes SD | ESPN 3
+https://blackghost.live/play/codeplus4-755.php?c=86825
+#EXTINF:-1 group-title="Lista 28",Deportes SD | Fox Sports
+https://blackghost.live/play/codeplus4-755.php?c=86826
+#EXTINF:-1 group-title="Lista 28",Deportes SD | FOX SPORTS HD (720)
+https://blackghost.live/play/codeplus4-755.php?c=86827
+#EXTINF:-1 group-title="Lista 28",Deportes SD | FoxSport 2
+https://blackghost.live/play/codeplus4-755.php?c=86828
+#EXTINF:-1 group-title="Lista 28",Deportes SD | FOX SPORTS 2 (720)
+https://blackghost.live/play/codeplus4-755.php?c=86829
+#EXTINF:-1 group-title="Lista 28",Deportes SD | FoxSport 3
+https://blackghost.live/play/codeplus4-755.php?c=86830
+#EXTINF:-1 group-title="Lista 28",Deportes SD | UTDN USA
+https://blackghost.live/play/codeplus4-755.php?c=86831
+#EXTINF:-1 group-title="Lista 28",Deportes SD | UTDN Mx
+https://blackghost.live/play/codeplus4-755.php?c=86832
+#EXTINF:-1 group-title="Lista 28",Deportes SD | ADRENALINA
+https://blackghost.live/play/codeplus4-755.php?c=86835
+#EXTINF:-1 group-title="Lista 28",EL SALVADOR | TVO canal 23
+https://blackghost.live/play/codeplus4-755.php?c=86837
+#EXTINF:-1 group-title="Lista 28",MEXICO | Canal 5
+https://blackghost.live/play/codeplus4-755.php?c=86838
+#EXTINF:-1 group-title="Lista 28",MEXICO | Foro TV
+https://blackghost.live/play/codeplus4-755.php?c=86839
+#EXTINF:-1 group-title="Lista 28",MEXICO | Azteca 7
+https://blackghost.live/play/codeplus4-755.php?c=86840
+#EXTINF:-1 group-title="Lista 28",Gala tv
+https://blackghost.live/play/codeplus4-755.php?c=86841
+#EXTINF:-1 group-title="Lista 28",MEXICO | Once TV
+https://blackghost.live/play/codeplus4-755.php?c=86842
+#EXTINF:-1 group-title="Lista 28",MEXICO | Azteca 13
+https://blackghost.live/play/codeplus4-755.php?c=86843
+#EXTINF:-1 group-title="Lista 28",MEXICO | Imagentv
+https://blackghost.live/play/codeplus4-755.php?c=86844
+#EXTINF:-1 group-title="Lista 28",MEXICO | Milenio TV
+https://blackghost.live/play/codeplus4-755.php?c=86845
+#EXTINF:-1 group-title="Lista 28",MEXICO | Canal 22
+https://blackghost.live/play/codeplus4-755.php?c=86846
+#EXTINF:-1 group-title="Lista 28",MEXICO | Canal 22-2
+https://blackghost.live/play/codeplus4-755.php?c=86847
+#EXTINF:-1 group-title="Lista 28",MEXICO | Canal del Congreso
+https://blackghost.live/play/codeplus4-755.php?c=86848
+#EXTINF:-1 group-title="Lista 28",MEXICO | Canal 52MX
+https://blackghost.live/play/codeplus4-755.php?c=86849
+#EXTINF:-1 group-title="Lista 28",LAT SD: A3S
+https://blackghost.live/play/codeplus4-755.php?c=86850
+#EXTINF:-1 group-title="Lista 28",MEXICO | Hola
+https://blackghost.live/play/codeplus4-755.php?c=86851
+#EXTINF:-1 group-title="Lista 28",MEXICO | TVC
+https://blackghost.live/play/codeplus4-755.php?c=86852
+#EXTINF:-1 group-title="Lista 28",MEXICO | Multimedios Monterrey
+https://blackghost.live/play/codeplus4-755.php?c=86853
+#EXTINF:-1 group-title="Lista 28",MEXICO | Multimedios Mty
+https://blackghost.live/play/codeplus4-755.php?c=86854
+#EXTINF:-1 group-title="Lista 28",MEXICO | Una Voz con Todos
+https://blackghost.live/play/codeplus4-755.php?c=86855
+#EXTINF:-1 group-title="Lista 28",PREMIUM | HISTORY 2 HD
+https://blackghost.live/play/codeplus4-755.php?c=97416
+#EXTINF:-1 group-title="Lista 28",PREMIUM | A&E  HD
+https://blackghost.live/play/codeplus4-755.php?c=996
+#EXTINF:-1 group-title="Lista 28",PREMIUM | A&E HD Latino
+https://blackghost.live/play/codeplus4-755.php?c=997
+#EXTINF:-1 group-title="Lista 28",PREMIUM | A&E HD (MX)
+https://blackghost.live/play/codeplus4-755.php?c=86931
+#EXTINF:-1 group-title="Lista 28",PREMIUM | AXN LATINO (DUAL AUDIO)
+https://blackghost.live/play/codeplus4-755.php?c=1002
+#EXTINF:-1 group-title="Lista 28",PREMIUM | AXN HD Mexico
+https://blackghost.live/play/codeplus4-755.php?c=1003
+#EXTINF:-1 group-title="Lista 28",PREMIUM | ANIMAL PLANET LATINO HD
+https://blackghost.live/play/codeplus4-755.php?c=969
+#EXTINF:-1 group-title="Lista 28",PREMIUM | ANIMAL PLANET HD
+https://blackghost.live/play/codeplus4-755.php?c=970
+#EXTINF:-1 group-title="Lista 28",PREMIUM | COMEDY CENTRAL MX HD
+https://blackghost.live/play/codeplus4-755.php?c=1004
+#EXTINF:-1 group-title="Lista 28",PREMIUM | COMEDY CENTRAL HD
+https://blackghost.live/play/codeplus4-755.php?c=1005
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISTRITO COMEDIA
+https://blackghost.live/play/codeplus4-755.php?c=1007
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY CHANNEL
+https://blackghost.live/play/codeplus4-755.php?c=971
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY CHANNEL HD
+https://blackghost.live/play/codeplus4-755.php?c=972
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY CIVILIZACION
+https://blackghost.live/play/codeplus4-755.php?c=973
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY H&H
+https://blackghost.live/play/codeplus4-755.php?c=974
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY H&H HD
+https://blackghost.live/play/codeplus4-755.php?c=975
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY ID
+https://blackghost.live/play/codeplus4-755.php?c=976
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY ID MX HD
+https://blackghost.live/play/codeplus4-755.php?c=977
+#EXTINF:-1 group-title="Lista 28",PREMIUM | ID HD (Dual Audio) Latino
+https://blackghost.live/play/codeplus4-755.php?c=7926
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY SCIENCE HD
+https://blackghost.live/play/codeplus4-755.php?c=978
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY THEATER HD
+https://blackghost.live/play/codeplus4-755.php?c=980
+#EXTINF:-1 group-title="Lista 28",PREMIUM | Discovery TLC Latino HD
+https://blackghost.live/play/codeplus4-755.php?c=981
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY TURBO HD
+https://blackghost.live/play/codeplus4-755.php?c=982
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY WORLD FHD
+https://blackghost.live/play/codeplus4-755.php?c=983
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY WORLD HD
+https://blackghost.live/play/codeplus4-755.php?c=984
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY CHANNEL LATINO
+https://blackghost.live/play/codeplus4-755.php?c=7915
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY CIVILIZATION LATINO
+https://blackghost.live/play/codeplus4-755.php?c=7916
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY H&H LATINO HD
+https://blackghost.live/play/codeplus4-755.php?c=7917
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY SCIENCE LATINO FHD
+https://blackghost.live/play/codeplus4-755.php?c=7918
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY TURBO LATINO FHD
+https://blackghost.live/play/codeplus4-755.php?c=7919
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY THEATER LATINO FHD
+https://blackghost.live/play/codeplus4-755.php?c=7920
+#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY WORLD LATINO FHD
+https://blackghost.live/play/codeplus4-755.php?c=7921
+#EXTINF:-1 group-title="Lista 28",PREMIUM | Discovery TLC HD (MX)
+https://blackghost.live/play/codeplus4-755.php?c=7931
+#EXTINF:-1 group-title="Lista 28",PREMIUM | Discovery Familia HD
+https://blackghost.live/play/codeplus4-755.php?c=43852
+#EXTINF:-1 group-title="Lista 28",PREMIUM | Nat Geo (LAT) HD 
+https://blackghost.live/play/codeplus4-755.php?c=7929
+#EXTINF:-1 group-title="Lista 28",PREMIUM | Nat Geo (MX) FHD
+https://blackghost.live/play/codeplus4-755.php?c=990
+#EXTINF:-1 group-title="Lista 28",PREMIUM | Nat Geo Latino FHD
+https://blackghost.live/play/codeplus4-755.php?c=991
+#EXTINF:-1 group-title="Lista 28",PREMIUM | Nat Geo Wild FHD
+https://blackghost.live/play/codeplus4-755.php?c=993
+#EXTINF:-1 group-title="Lista 28",PREMIUM | Nat Geo Wild Latino HD
+https://blackghost.live/play/codeplus4-755.php?c=7930
+#EXTINF:-1 group-title="Lista 28",PREMIUM |  Nat Geo Mundo SD
+https://blackghost.live/play/codeplus4-755.php?c=44228
+#EXTINF:-1 group-title="Lista 28",PREMIUM | HISTORY CHANNEL FHD
+https://blackghost.live/play/codeplus4-755.php?c=989
+#EXTINF:-1 group-title="Lista 28",PREMIUM | History Channel FHD Latino
+https://blackghost.live/play/codeplus4-755.php?c=7925
+#EXTINF:-1 group-title="Lista 28",PREMIUM | HISTORY EN ESPANOL | UHD
+https://blackghost.live/play/codeplus4-755.php?c=82621
+#EXTINF:-1 group-title="Lista 28",PREMIUM | H2 HD
+https://blackghost.live/play/codeplus4-755.php?c=987
+#EXTINF:-1 group-title="Lista 28",PREMIUM | STAR CHANNEL HD Latino ( Dual audio)
+https://blackghost.live/play/codeplus4-755.php?c=1010
+#EXTINF:-1 group-title="Lista 28",PREMIUM | STAR LIFE HD
+https://blackghost.live/play/codeplus4-755.php?c=1011
+#EXTINF:-1 group-title="Lista 28",PREMIUM | EL GOURMET FHD
+https://blackghost.live/play/codeplus4-755.php?c=985
+#EXTINF:-1 group-title="Lista 28",PREMIUM | EL GOURMET LATINO
+https://blackghost.live/play/codeplus4-755.php?c=7922
+#EXTINF:-1 group-title="Lista 28",PREMIUM |  Universal Channel HD (LATINO)
+https://blackghost.live/play/codeplus4-755.php?c=86424
+#EXTINF:-1 group-title="Lista 28",PREMIUM | E! ENTERTAINMENT HD
+https://blackghost.live/play/codeplus4-755.php?c=1008
+#EXTINF:-1 group-title="Lista 28",PREMIUM | GLITZ
+https://blackghost.live/play/codeplus4-755.php?c=1013
+#EXTINF:-1 group-title="Lista 28",PREMIUM | HOLA TV
+https://blackghost.live/play/codeplus4-755.php?c=1015
+#EXTINF:-1 group-title="Lista 28",PREMIUM | I SAT
+https://blackghost.live/play/codeplus4-755.php?c=1016
+#EXTINF:-1 group-title="Lista 28",PREMIUM | LIFETIME HD
+https://blackghost.live/play/codeplus4-755.php?c=1017
+#EXTINF:-1 group-title="Lista 28",PREMIUM | MAS CHIC HD
+https://blackghost.live/play/codeplus4-755.php?c=1018
+#EXTINF:-1 group-title="Lista 28",PREMIUM | PASIONES HD
+https://blackghost.live/play/codeplus4-755.php?c=1020
+#EXTINF:-1 group-title="Lista 28",PREMIUM | FILM & ARTS HD
+https://blackghost.live/play/codeplus4-755.php?c=1045
+#EXTINF:-1 group-title="Lista 28",PREMIUM | SUNDANCE HD
+https://blackghost.live/play/codeplus4-755.php?c=1075
+#EXTINF:-1 group-title="Lista 28",PREMIUM | I SAT LATINO
+https://blackghost.live/play/codeplus4-755.php?c=7927
+#EXTINF:-1 group-title="Lista 28",PREMIUM | MAS CHIC LATINO HD
+https://blackghost.live/play/codeplus4-755.php?c=7928
+#EXTINF:-1 group-title="Lista 28",PREMIUM | Unicable Latino HD
+https://blackghost.live/play/codeplus4-755.php?c=7932
+#EXTINF:-1 group-title="Lista 28",PREMIUM | Wobi Latino SD
+https://blackghost.live/play/codeplus4-755.php?c=7933
+#EXTINF:-1 group-title="Lista 28",PREMIUM | WOBI
+https://blackghost.live/play/codeplus4-755.php?c=995
+#EXTINF:-1 group-title="Lista 28",PREMIUM | SUN CHANNEL
+https://blackghost.live/play/codeplus4-755.php?c=82456
+#EXTINF:-1 group-title="Lista 28",PREMIUM | TruTV (MX) HD
+https://blackghost.live/play/codeplus4-755.php?c=38481
+#EXTINF:-1 group-title="Lista 28",PREMIUM |  TruTV SD
+https://blackghost.live/play/codeplus4-755.php?c=38480
+#EXTINF:-1 group-title="Lista 28",PERU | AMERICA TV FHD (EXCLUSIVO)
+https://blackghost.live/play/codeplus4-755.php?c=105030
+#EXTINF:-1 group-title="Lista 28",PERU | AMERICA TV (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87038
+#EXTINF:-1 group-title="Lista 28",PERU | AMERICA TV(C-720)
+https://blackghost.live/play/codeplus4-755.php?c=87039
+#EXTINF:-1 group-title="Lista 28",PERU | America TV FHD P
+https://blackghost.live/play/codeplus4-755.php?c=106305
+#EXTINF:-1 group-title="Lista 28",PERU | America TV FHD
+https://blackghost.live/play/codeplus4-755.php?c=2977
+#EXTINF:-1 group-title="Lista 28",PERU |  America TV OPC 2
+https://blackghost.live/play/codeplus4-755.php?c=2266
+#EXTINF:-1 group-title="Lista 28",PERU | America TV HD
+https://blackghost.live/play/codeplus4-755.php?c=182
+#EXTINF:-1 group-title="Lista 28",PERU | LATINA FHD (EXCLUSIVO)
+https://blackghost.live/play/codeplus4-755.php?c=105029
+#EXTINF:-1 group-title="Lista 28",PERU | LATINA TV (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87040
+#EXTINF:-1 group-title="Lista 28",PERU | LATINA TV (C-720)
+https://blackghost.live/play/codeplus4-755.php?c=87041
+#EXTINF:-1 group-title="Lista 28",PERU | LATINA FHD P
+https://blackghost.live/play/codeplus4-755.php?c=106306
+#EXTINF:-1 group-title="Lista 28",PERU | LATINA TV FHD (E)
+https://blackghost.live/play/codeplus4-755.php?c=7899
+#EXTINF:-1 group-title="Lista 28",PERU | Latina TV HD
+https://blackghost.live/play/codeplus4-755.php?c=188
+#EXTINF:-1 group-title="Lista 28",PERU | Latina TV SD
+https://blackghost.live/play/codeplus4-755.php?c=187
+#EXTINF:-1 group-title="Lista 28",PERU |  ATV (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87042
+#EXTINF:-1 group-title="Lista 28",PERU |  ATV (C-720)
+https://blackghost.live/play/codeplus4-755.php?c=87043
+#EXTINF:-1 group-title="Lista 28",PERU | ATV 
+https://blackghost.live/play/codeplus4-755.php?c=184
+#EXTINF:-1 group-title="Lista 28",PERU |  ATV + (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87044
+#EXTINF:-1 group-title="Lista 28",PERU | ATV PLUS HD (E)
+https://blackghost.live/play/codeplus4-755.php?c=7901
+#EXTINF:-1 group-title="Lista 28",PERU | ATV + FHD
+https://blackghost.live/play/codeplus4-755.php?c=183
+#EXTINF:-1 group-title="Lista 28",PERU |  Willax TV (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87045
+#EXTINF:-1 group-title="Lista 28",PERU | WILLAX HD P
+https://blackghost.live/play/codeplus4-755.php?c=106307
+#EXTINF:-1 group-title="Lista 28",PERU | WILLAX HD
+https://blackghost.live/play/codeplus4-755.php?c=97554
+#EXTINF:-1 group-title="Lista 28",PERU | Willax 
+https://blackghost.live/play/codeplus4-755.php?c=186
+#EXTINF:-1 group-title="Lista 28",PERU |  Panamericana (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87057
+#EXTINF:-1 group-title="Lista 28",PERU | PANAMERICANA  (E)
+https://blackghost.live/play/codeplus4-755.php?c=7900
+#EXTINF:-1 group-title="Lista 28",PERU | PANAMERICANA
+https://blackghost.live/play/codeplus4-755.php?c=1339
+#EXTINF:-1 group-title="Lista 28",PERU |  Gol Peru (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87048
+#EXTINF:-1 group-title="Lista 28",PERU | GOLPERU HD (E)
+https://blackghost.live/play/codeplus4-755.php?c=7907
+#EXTINF:-1 group-title="Lista 28",PERU | GOL PERU FHD P
+https://blackghost.live/play/codeplus4-755.php?c=106309
+#EXTINF:-1 group-title="Lista 28",PERU | Gol Peru FHD
+https://blackghost.live/play/codeplus4-755.php?c=2456
+#EXTINF:-1 group-title="Lista 28",PERU | GOLPERU HD
+https://blackghost.live/play/codeplus4-755.php?c=96388
+#EXTINF:-1 group-title="Lista 28",PERU | Gol Peru HD
+https://blackghost.live/play/codeplus4-755.php?c=2457
+#EXTINF:-1 group-title="Lista 28",PERU | Gol Peru SD
+https://blackghost.live/play/codeplus4-755.php?c=2458
+#EXTINF:-1 group-title="Lista 28",PERU |  Espn Peru (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87049
+#EXTINF:-1 group-title="Lista 28",PERU |  Espn 2 Peru (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87050
+#EXTINF:-1 group-title="Lista 28",PERU | ESPN 2 PERU HD (E)
+https://blackghost.live/play/codeplus4-755.php?c=7910
+#EXTINF:-1 group-title="Lista 28",PERU | Espn 3 Peru (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87051
+#EXTINF:-1 group-title="Lista 28",PERU | Directv Sports Peru (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87052
+#EXTINF:-1 group-title="Lista 28",PERU |  Directv Sports 2 (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87053
+#EXTINF:-1 group-title="Lista 28",PERU |  Directv Sports + Plus (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87054
+#EXTINF:-1 group-title="Lista 28",PERU | Fox Sports Peru (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87055
+#EXTINF:-1 group-title="Lista 28",PERU | Fox Sports 2 Peru (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87056
+#EXTINF:-1 group-title="Lista 28",PERU |  Movistar Deportes (C-720)
+https://blackghost.live/play/codeplus4-755.php?c=87046
+#EXTINF:-1 group-title="Lista 28",PERU | Movistar Deportes FHD
+https://blackghost.live/play/codeplus4-755.php?c=2459
+#EXTINF:-1 group-title="Lista 28",PERU | MOVISTAR DEPORTES
+https://blackghost.live/play/codeplus4-755.php?c=1335
+#EXTINF:-1 group-title="Lista 28",PERU |  Movistar Plus (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87047
+#EXTINF:-1 group-title="Lista 28",PERU | Movistar Plus
+https://blackghost.live/play/codeplus4-755.php?c=2460
+#EXTINF:-1 group-title="Lista 28",PERU |  La Tele (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87060
+#EXTINF:-1 group-title="Lista 28",PERU |  Canal N (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87061
+#EXTINF:-1 group-title="Lista 28",PERU | CANAL N HD (E)
+https://blackghost.live/play/codeplus4-755.php?c=7902
+#EXTINF:-1 group-title="Lista 28",PERU | CANAL N HD
+https://blackghost.live/play/codeplus4-755.php?c=1341
+#EXTINF:-1 group-title="Lista 28",PERU |  RPP TV (C-1080)
+https://blackghost.live/play/codeplus4-755.php?c=87059
+#EXTINF:-1 group-title="Lista 28",PERU | RPP HD (E)
+https://blackghost.live/play/codeplus4-755.php?c=7903
+#EXTINF:-1 group-title="Lista 28",PERU | CAPITAL TV HD
+https://blackghost.live/play/codeplus4-755.php?c=8292
+#EXTINF:-1 group-title="Lista 28",PERU | +CAPITAL TV
+https://blackghost.live/play/codeplus4-755.php?c=1340
+#EXTINF:-1 group-title="Lista 28",PERU | EXITOSA TV (EXCLUSIVO)
+https://blackghost.live/play/codeplus4-755.php?c=88059
+#EXTINF:-1 group-title="Lista 28",PERU | EXITOSA HD (E)
+https://blackghost.live/play/codeplus4-755.php?c=7904
+#EXTINF:-1 group-title="Lista 28",PERU | EXITOSA TV 
+https://blackghost.live/play/codeplus4-755.php?c=1380
+#EXTINF:-1 group-title="Lista 28",PERU | Peru Magico FHD
+https://blackghost.live/play/codeplus4-755.php?c=2461
+#EXTINF:-1 group-title="Lista 28",PERU | VÍA TELEVISIÓN TARAPOTO
+https://blackghost.live/play/codeplus4-755.php?c=106301
+#EXTINF:-1 group-title="Lista 28",PERU | FUEGO TV
+https://blackghost.live/play/codeplus4-755.php?c=106302
+#EXTINF:-1 group-title="Lista 28",PERU | INTUITIVA TV P
+https://blackghost.live/play/codeplus4-755.php?c=106308
+#EXTINF:-1 group-title="Lista 28",PERU | IPE
+https://blackghost.live/play/codeplus4-755.php?c=2462
+#EXTINF:-1 group-title="Lista 28",PERU | Antares TV SD
+https://blackghost.live/play/codeplus4-755.php?c=2464
+#EXTINF:-1 group-title="Lista 28",PERU | Cultura 24 TV
+https://blackghost.live/play/codeplus4-755.php?c=2465
+#EXTINF:-1 group-title="Lista 28",PERU | CTC TV Cusco
+https://blackghost.live/play/codeplus4-755.php?c=2463
+#EXTINF:-1 group-title="Lista 28",PERU | TV PERU SD (E)
+https://blackghost.live/play/codeplus4-755.php?c=8293
+#EXTINF:-1 group-title="Lista 28",PERU | TV PERU HD (E)
+https://blackghost.live/play/codeplus4-755.php?c=7905
+#EXTINF:-1 group-title="Lista 28",PERU | M. DEPORTES HD (E)
+https://blackghost.live/play/codeplus4-755.php?c=7908
+#EXTINF:-1 group-title="Lista 28",PERU | PLUS TV FHD
+https://blackghost.live/play/codeplus4-755.php?c=1337
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Caracol UHD (EXCLUSIVO)
+https://blackghost.live/play/codeplus4-755.php?c=87062
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Caracol HD 
+https://blackghost.live/play/codeplus4-755.php?c=1345
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | CARACOL FHD P
+https://blackghost.live/play/codeplus4-755.php?c=106313
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Caracol FHD
+https://blackghost.live/play/codeplus4-755.php?c=911
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Caracol FHD OPC 2
+https://blackghost.live/play/codeplus4-755.php?c=930
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Caracol FHD OPC 3
+https://blackghost.live/play/codeplus4-755.php?c=2975
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Caracol Internacional HD
+https://blackghost.live/play/codeplus4-755.php?c=912
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN UHD (EXCLUSIVO)
+https://blackghost.live/play/codeplus4-755.php?c=87063
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN HD
+https://blackghost.live/play/codeplus4-755.php?c=905
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN FHD
+https://blackghost.live/play/codeplus4-755.php?c=920
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN HD OPC 2
+https://blackghost.live/play/codeplus4-755.php?c=921
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN SD
+https://blackghost.live/play/codeplus4-755.php?c=2976
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN Novelas
+https://blackghost.live/play/codeplus4-755.php?c=55274
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN Internacional 
+https://blackghost.live/play/codeplus4-755.php?c=82956
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Canal Uno HD
+https://blackghost.live/play/codeplus4-755.php?c=906
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Cable Noticias HD
+https://blackghost.live/play/codeplus4-755.php?c=908
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | City TV
+https://blackghost.live/play/codeplus4-755.php?c=913
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Cosmovision
+https://blackghost.live/play/codeplus4-755.php?c=915
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | La Kalle HD
+https://blackghost.live/play/codeplus4-755.php?c=909
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | TeleEnvigado HD
+https://blackghost.live/play/codeplus4-755.php?c=916
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | El Tiempo
+https://blackghost.live/play/codeplus4-755.php?c=917
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Senal Colombia HD
+https://blackghost.live/play/codeplus4-755.php?c=923
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | TeleAntioquia HD
+https://blackghost.live/play/codeplus4-755.php?c=924
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | TeleCafe
+https://blackghost.live/play/codeplus4-755.php?c=925
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Telecaribe HD
+https://blackghost.live/play/codeplus4-755.php?c=926
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | TelePacifico HD
+https://blackghost.live/play/codeplus4-755.php?c=927
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Canal Capital HD
+https://blackghost.live/play/codeplus4-755.php?c=3643
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Cantinazo HD
+https://blackghost.live/play/codeplus4-755.php?c=17327
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Win Sports UHD (EXCLUSIVO)
+https://blackghost.live/play/codeplus4-755.php?c=87064
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | WinSports  FHD (L)
+https://blackghost.live/play/codeplus4-755.php?c=94107
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | WinSports FHD
+https://blackghost.live/play/codeplus4-755.php?c=1347
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | WinSports HD
+https://blackghost.live/play/codeplus4-755.php?c=928
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | WinSports FHD OPC 2
+https://blackghost.live/play/codeplus4-755.php?c=929
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Win Sports + UHD (EXCLUSIVO)
+https://blackghost.live/play/codeplus4-755.php?c=87065
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | WINSPORT+ FHD
+https://blackghost.live/play/codeplus4-755.php?c=106310
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | WinSports + FHD (L)
+https://blackghost.live/play/codeplus4-755.php?c=93165
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | WIN SPORTS + HD OPC 1 (E)
+https://blackghost.live/play/codeplus4-755.php?c=29602
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | WIN SPORTS + HD OPC 2
+https://blackghost.live/play/codeplus4-755.php?c=29603
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | WIN SPORTS + HD OPC 3
+https://blackghost.live/play/codeplus4-755.php?c=29601
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | TeleMedellin HD
+https://blackghost.live/play/codeplus4-755.php?c=2137
+#EXTINF:-1 group-title="Lista 28",CHILE | TVN UHD
+https://blackghost.live/play/codeplus4-755.php?c=87265
+#EXTINF:-1 group-title="Lista 28",PREMIUM | HGTV
+https://blackghost.live/play/codeplus4-755.php?c=87311
+#EXTINF:-1 group-title="Lista 28",PERU | MONTERRICO TV
+https://blackghost.live/play/codeplus4-755.php?c=87312
+#EXTINF:-1 group-title="Lista 28",INFANTILES | ZOOMOO
+https://blackghost.live/play/codeplus4-755.php?c=87313
+#EXTINF:-1 group-title="Lista 28",PREMIUM| MTV LATINO
+https://blackghost.live/play/codeplus4-755.php?c=87341
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | CANAL 4 (El Salvador)
+https://blackghost.live/play/codeplus4-755.php?c=87698
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | TIGO SPORTS HD (El Salvador)
+https://blackghost.live/play/codeplus4-755.php?c=87699
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | CANAL 3 (Guatemala)
+https://blackghost.live/play/codeplus4-755.php?c=87700
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | CANAL 7 (Guatemala)
+https://blackghost.live/play/codeplus4-755.php?c=87701
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | TIGO SPORTS HD (Guatemala)
+https://blackghost.live/play/codeplus4-755.php?c=87702
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | Tigo Sports (Honduras)
+https://blackghost.live/play/codeplus4-755.php?c=87703
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | Canal 11 HD (Honduras)
+https://blackghost.live/play/codeplus4-755.php?c=87704
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | TIGO SPORTS HD (Costa Rica) (L)
+https://blackghost.live/play/codeplus4-755.php?c=87705
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | TIGO SPORTS HD OPC2 (Costa Rica)
+https://blackghost.live/play/codeplus4-755.php?c=87706
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | Repretel 6 HD (Costa Rica)
+https://blackghost.live/play/codeplus4-755.php?c=87707
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | Repretel 11 HD (Costa Rica)
+https://blackghost.live/play/codeplus4-755.php?c=87708
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | Teletica 7 (Costa Rica)
+https://blackghost.live/play/codeplus4-755.php?c=87710
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | Teletica 7 OPC2 (Costa Rica)
+https://blackghost.live/play/codeplus4-755.php?c=87711
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | FUTV GRITALO (L) (Costa Rica)
+https://blackghost.live/play/codeplus4-755.php?c=87712
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | UTV (Costa Rica)
+https://blackghost.live/play/codeplus4-755.php?c=87713
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | TD+1 (Costa Rica)
+https://blackghost.live/play/codeplus4-755.php?c=87714
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | TD+2 (Costa Rica)
+https://blackghost.live/play/codeplus4-755.php?c=87715
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | Canal 8 (Nicaragua)
+https://blackghost.live/play/codeplus4-755.php?c=87716
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | CABLE ONDA SPORTS (Panamá)
+https://blackghost.live/play/codeplus4-755.php?c=87717
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | CABLE ONDA SPORTS FC (Panamá)
+https://blackghost.live/play/codeplus4-755.php?c=87718
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | TV MAX 9 (Panamá)
+https://blackghost.live/play/codeplus4-755.php?c=87719
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | TeleSistema (Panamá)
+https://blackghost.live/play/codeplus4-755.php?c=87720
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | TeleSistema SD (Panamá)
+https://blackghost.live/play/codeplus4-755.php?c=87721
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | TSI (Panamá)
+https://blackghost.live/play/codeplus4-755.php?c=87722
+#EXTINF:-1 group-title="Lista 28",LIGA CONCACAF | TSI HD (Honduras)
+https://blackghost.live/play/codeplus4-755.php?c=87723
+#EXTINF:-1 group-title="Lista 28",CHILE | LA RED EXCLUSIVO
+https://blackghost.live/play/codeplus4-755.php?c=106303
+#EXTINF:-1 group-title="Lista 28",CHILE  | La Red HD
+https://blackghost.live/play/codeplus4-755.php?c=90449
+#EXTINF:-1 group-title="Lista 28",CHILE | LaRed Ch
+https://blackghost.live/play/codeplus4-755.php?c=100635
+#EXTINF:-1 group-title="Lista 28",PANAMA | TVN 2 SD
+https://blackghost.live/play/codeplus4-755.php?c=90876
+#EXTINF:-1 group-title="Lista 28",ARG NEWS | TN NOTICIAS
+https://blackghost.live/play/codeplus4-755.php?c=91094
+#EXTINF:-1 group-title="Lista 28",USA Latino |  TELEXITOS 
+https://blackghost.live/play/codeplus4-755.php?c=92110
+#EXTINF:-1 group-title="Lista 28",ZONA LATINA
+https://blackghost.live/play/codeplus4-755.php?c=92449
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Tv Agro HD
+https://blackghost.live/play/codeplus4-755.php?c=92867
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Cantinazo
+https://blackghost.live/play/codeplus4-755.php?c=92868
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Cali TV
+https://blackghost.live/play/codeplus4-755.php?c=92869
+#EXTINF:-1 group-title="Lista 28",USA Latino | Univision Boston
+https://blackghost.live/play/codeplus4-755.php?c=92870
+#EXTINF:-1 group-title="Lista 28",DEPORTES HD | ESPN Argentina
+https://blackghost.live/play/codeplus4-755.php?c=92871
+#EXTINF:-1 group-title="Lista 28",MEXICO | Mexicanal
+https://blackghost.live/play/codeplus4-755.php?c=93009
+#EXTINF:-1 group-title="Lista 28",CHILE | TNT SPORTS 1
+https://blackghost.live/play/codeplus4-755.php?c=93010
+#EXTINF:-1 group-title="Lista 28",CHILE | TNT SPORTS 2
+https://blackghost.live/play/codeplus4-755.php?c=93011
+#EXTINF:-1 group-title="Lista 28",CHILE | TNT SPORTS 3 (E)
+https://blackghost.live/play/codeplus4-755.php?c=93012
+#EXTINF:-1 group-title="Lista 28",CHILE | TNT SPORTS ESTADIO
+https://blackghost.live/play/codeplus4-755.php?c=93050
+#EXTINF:-1 group-title="Lista 28",Peru | SUR PERU
+https://blackghost.live/play/codeplus4-755.php?c=93054
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Teleislas (L)
+https://blackghost.live/play/codeplus4-755.php?c=93163
+#EXTINF:-1 group-title="Lista 28",COLOMBIA | Zoom tv (L)
+https://blackghost.live/play/codeplus4-755.php?c=93164
 
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",USA Network
