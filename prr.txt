@@ -53,20 +53,22 @@ https://blackghost.live/play/totalp1-755.php?c=1784&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-755.php?c=1785&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="TK2020",Azteca 7 (HD)
 https://blackghost.live/play/totalp1-755.php?c=317&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="TK2020",NU9VE
+https://blackghost.live/play/totalp1-755.php?c=1783&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TK2020",Imagen Televisión (HD)
 https://blackghost.live/play/totalp1-755.php?c=2606&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="TK2020",Claro Sports
 https://blackghost.live/play/totalp1-755.php?c=2564&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="TelemundoTelevisionNetwork(Spanish).us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="TK2020",Telemundo
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" tvg-name="Telemundo Pac" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="TK2020",Telemundo Pac
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97838/12?f=.m3u8
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97838/12?f=.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcuni.png" group-title="TK2020",Universo
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="TK2020",NBC
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/93843/12?f=.m3u8
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93843/12?f=.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="NBCSN.us" tvg-name="NBCSN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcsp.png" group-title="TK2020",NBCSN
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/487/12?f=.m3u8
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/487/12?f=.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="" tvg-name="Canal 12 SV" tvg-logo="" group-title="TK2020",Canal 12 SV
 https://blackghost.live/play/codeplus3-755.php?c=33951
 #EXTINF:-1 tvg-id="CaracolTVCanal1.co" tvg-name="Caracol Televisión" tvg-logo="" group-title="TK2020",Caracol Televisión
