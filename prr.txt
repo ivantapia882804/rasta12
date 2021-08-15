@@ -45,6 +45,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="RECOMENDADOS",Bein Ñ | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8
+#EXTINF:-1 tvg-id="FoxDeportes(Spanish).us" tvg-name="Fox Deportes USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="RECOMENDADOS",Fox Deportes USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/88792/12?f=.m3u8
 
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno
@@ -211,31 +213,31 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/464/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/253/12?f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="CONOCIMIENTO",Discovery
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/235/12?f=.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="CONOCIMIENTO HD",Animal Planet | HD
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="CONOCIMIENTO",Animal Planet | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97929/12?f=.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="CONOCIMIENTO",Animal Planet
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/236/12?f=.m3u8
 #EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg" group-title="CONOCIMIENTO",TLC
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/215/12?f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="CONOCIMIENTO HD",Discovery Home & Health | HD
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="CONOCIMIENTO",Discovery Home & Health | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97904/12?f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="CONOCIMIENTO",Discovery Home & Health
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/221/12?f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png" group-title="CONOCIMIENTO HD",Discovery Theater HD
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png" group-title="CONOCIMIENTO",Discovery Theater HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93864/12?f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png" group-title="CONOCIMIENTO HD",Discovery World HD
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png" group-title="CONOCIMIENTO",Discovery World HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93866/12?f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/turbo.png" group-title="CONOCIMIENTO",Discovery Turbo
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93865/12?f=.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="CONOCIMIENTO HD",National Geographic | HD
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="CONOCIMIENTO",National Geographic | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97927/12?f=.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="CONOCIMIENTO",National Geographic
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/238/12?f=.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="CONOCIMIENTO HD",Nat Geo Wild | HD
+#EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="CONOCIMIENTO",Nat Geo Wild | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97928/12?f=.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="CONOCIMIENTO",Nat Geo Wild
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/412/12?f=.m3u8
-#EXTINF:-1 tvg-id="History.mx" tvg-name="History | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="CONOCIMIENTO HD",History | HD
+#EXTINF:-1 tvg-id="History.mx" tvg-name="History | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="CONOCIMIENTO",History | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97897/12?f=.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="CONOCIMIENTO",History
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/237/12?f=.m3u8
@@ -245,43 +247,43 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/224/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/225/12?f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="CONOCIMIENTO",Discovery En Español
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97932/12?f=.m3u8
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="DEPORTES HD",Fox Sports | HD
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="DEPORTES",Fox Sports | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97910/12?f=.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="DEPORTES",Fox Sports
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/293/12?f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="DEPORTES HD",Fox Sports 2 | HD
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="DEPORTES",Fox Sports 2 | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97909/12?f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="DEPORTES",Fox Sports 2
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/295/12?f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="DEPORTES",Fox Sports 3
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/297/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="DEPORTES HD",ESPN | HD
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="DEPORTES",ESPN | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97908/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="DEPORTES",ESPN
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/291/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2 | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="DEPORTES HD",ESPN 2 | HD
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2 | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="DEPORTES",ESPN 2 | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97926/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="DEPORTES",ESPN 2
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/292/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="DEPORTES",ESPN 3
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/424/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="DEPORTES HD",ESPN Extra
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="DEPORTES",ESPN Extra
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94068/12?f=.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES HD",TUDN
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/290/12?f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",Claro Sports
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/421/12?f=.m3u8
-#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="Adrenalina Sports Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/asn.png" group-title="DEPORTES HD",Adrenalina Sports Network
+#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="Adrenalina Sports Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/asn.png" group-title="DEPORTES",Adrenalina Sports Network
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97886/12?f=.m3u8
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="DEPORTES HD",Bein Ñ | HD
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="DEPORTES",Bein Ñ | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="DEPORTES",Bein Ñ
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
 #EXTINF:-1 tvg-id="NBCSN.us" tvg-name="NBCSN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcsp.png" group-title="DEPORTES",NBCSN
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/487/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="DEPORTES HD",ESPN Deportes | HD
+#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="DEPORTES",ESPN Deportes | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión (XHTDMX-TDT2)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/milen.png" group-title="INFORMACIÓN",Milenio Televisión (XHTDMX-TDT2)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/199/12?f=.m3u8
@@ -605,7 +607,7 @@ https://blackghost.live/play/totalp1-888.php?c=168&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-888.php?c=170&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="DEPORTES",Fox Sports 2
 https://blackghost.live/play/totalp1-888.php?c=172&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES HD",TUDN
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN
 https://blackghost.live/play/totalp1-888.php?c=174&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="DEPORTES",Fox Sports 3
 https://blackghost.live/play/totalp1-888.php?c=178&p=3&k=black&f=.m3u8
@@ -625,7 +627,7 @@ https://blackghost.live/play/totalp1-888.php?c=2089&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-888.php?c=2148&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="TVC Deportes" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvcd.png" group-title="DEPORTES",TVC Deportes
 https://blackghost.live/play/totalp1-888.php?c=2157&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES HD",Claro Sports
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",Claro Sports
 https://blackghost.live/play/totalp1-888.php?c=2564&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="FuelTV(English).de" tvg-name="Fuel TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fuel.png" group-title="DEPORTES",Fuel TV
 https://blackghost.live/play/totalp1-888.php?c=2587&p=3&k=black&f=.m3u8
@@ -643,7 +645,7 @@ https://blackghost.live/play/totalp1-888.php?c=89&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-888.php?c=91&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="CONOCIMIENTO",Nat Geo Wild
 https://blackghost.live/play/totalp1-888.php?c=92&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png" group-title="CONOCIMIENTO HD",Discovery Theater HD
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png" group-title="CONOCIMIENTO",Discovery Theater HD
 https://blackghost.live/play/totalp1-888.php?c=95&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="CONOCIMIENTO",Discovery Home & Health
 https://blackghost.live/play/totalp1-888.php?c=96&p=3&k=black&f=.m3u8
@@ -651,19 +653,19 @@ https://blackghost.live/play/totalp1-888.php?c=96&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-888.php?c=97&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sci.png" group-title="CONOCIMIENTO",Discovery Science
 https://blackghost.live/play/totalp1-888.php?c=98&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png" group-title="CONOCIMIENTO HD",Discovery World HD
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png" group-title="CONOCIMIENTO",Discovery World HD
 https://blackghost.live/play/totalp1-888.php?c=101&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="TVEAmericaTelevisionEspanola.mx" tvg-name="TVE Internacional" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tve.png" group-title="ENTRETENCIÓN",TVE Internacional
 https://blackghost.live/play/totalp1-888.php?c=198&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/food.png" group-title="CONOCIMIENTO HD",Food Network
+#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/food.png" group-title="CONOCIMIENTO",Food Network
 https://blackghost.live/play/totalp1-888.php?c=2145&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="TVE Star HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/startve.png" group-title="ENTRETENCIÓN",TVE Star HD
 https://blackghost.live/play/totalp1-888.php?c=2375&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/turbo.png" group-title="CONOCIMIENTO",Discovery Turbo
 https://blackghost.live/play/totalp1-888.php?c=2379&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="HGTV.mx" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/civil.png" group-title="CONOCIMIENTO HD",HGTV
+#EXTINF:-1 tvg-id="HGTV.mx" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/civil.png" group-title="CONOCIMIENTO",HGTV
 https://blackghost.live/play/totalp1-888.php?c=3105&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="CuriosityStream(English).mx" tvg-name="Curiosity Stream" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/curio.png" group-title="CONOCIMIENTO HD",Curiosity Stream
+#EXTINF:-1 tvg-id="CuriosityStream(English).mx" tvg-name="Curiosity Stream" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/curio.png" group-title="CONOCIMIENTO",Curiosity Stream
 https://blackghost.live/play/totalp1-888.php?c=2594&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="MTVLive(English).mx" tvg-name="MTV Live HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvl.png" group-title="MÚSICA",MTV Live HD
 https://blackghost.live/play/totalp1-888.php?c=211&p=3&k=black&f=.m3u8
