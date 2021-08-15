@@ -29,8 +29,6 @@ http://blackghost.live/play/futvall-888.php?id=afizzionados&f=.m3u8
 https://blackghost.live/play/totalp1-888.php?c=2564&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="StarAction.mx" tvg-name="Star Action" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="RECOMENDADOS",Star Action
 https://blackghost.live/play/totalp1-888.php?c=336&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="RECOMENDADOS",Space
-https://blackghost.live/play/totalp1-888.php?c=129&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Pacific)(Spanish).us" tvg-name="Univisión Pac" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión Pac
@@ -39,6 +37,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
 #EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="RECOMENDADOS",UniMas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
+#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="RECOMENDADOS",Galavisión
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
 #EXTINF:-1 tvg-id="TelemundoTelevisionNetwork(Spanish).us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="RECOMENDADOS",Telemundo
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="RECOMENDADOS",ESPN Deportes | HD
@@ -55,15 +55,15 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/495/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/191/12?f=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="LOCALES",Imagen Television
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/598/12?f=.m3u8
-#EXTINF:-1 tvg-id="ForoTVUSFeed(Spanish).us" tvg-name="Foro TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="LOCALES",Foro TV
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="LOCALES",Foro TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/193/12?f=.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="LOCALES",Canal 5
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/192/12?f=.m3u8
-#EXTINF:-1 tvg-id="MultimediosUSA(Spanish).us" tvg-name="Canal 6 CDMX (XHTDMX-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX (XHTDMX-TDT)
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/234/12?f=.m3u8
-#EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 Monterrey (XHAW-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 Monterrey (XHAW-TDT)
+#EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 Monterrey" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 Monterrey
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97868/12?f=.m3u8
-#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV (XHTDMX-TDT4)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="ENTRETENCIÓN",MVS TV (XHTDMX-TDT4)
+#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="ENTRETENCIÓN",MVS TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/307/12?f=.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="LOCALES",Azteca 7
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/194/12?f=.m3u8
