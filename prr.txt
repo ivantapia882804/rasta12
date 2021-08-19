@@ -41,9 +41,9 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
 #EXTINF:-1 tvg-id="TelemundoTelevisionNetwork(Spanish).us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="RECOMENDADOS",Telemundo
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="RECOMENDADOS",ESPN Deportes | HD
+#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="RECOMENDADOS",ESPN Deportes USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="RECOMENDADOS",Bein Ñ | HD
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="RECOMENDADOS",Bein Ñ
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes(Spanish).us" tvg-name="Fox Deportes USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="RECOMENDADOS",Fox Deportes USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97881/12?f=.m3u8
@@ -303,7 +303,7 @@ https://blackghost.live/play/totalp1-819.php?c=2157&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-819.php?c=2564&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="FuelTV(English).de" tvg-name="Fuel TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fuel.png" group-title="DEPORTES",Fuel TV
 https://blackghost.live/play/totalp1-819.php?c=2587&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID (CAÍDO)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="CONOCIMIENTO",ID (CAÍDO)
+#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID (CAÍDO)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="ENTRETENCIÓN",ID (CAÍDO)
 https://blackghost.live/play/totalp1-819.php?c=68&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="ElGarage.ar" tvg-name="Garage TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/garage.png" group-title="CONOCIMIENTO",Garage TV
 https://blackghost.live/play/totalp1-819.php?c=75&k=black&f=.m3u8
@@ -341,7 +341,7 @@ https://blackghost.live/play/totalp1-819.php?c=3105&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-819.php?c=2594&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="MTVLive(English).mx" tvg-name="MTV Live HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvl.png" group-title="MÚSICA",MTV Live HD
 https://blackghost.live/play/totalp1-819.php?c=211&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="MÚSICA",MTV
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="ENTRETENCIÓN",MTV
 https://blackghost.live/play/totalp1-819.php?c=212&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="MTVHits.es" tvg-name="MTV Hits" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvh.png" group-title="MÚSICA",MTV Hits
 https://blackghost.live/play/totalp1-819.php?c=213&k=black&f=.m3u8
@@ -435,31 +435,31 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/201/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94119/12?f=.m3u8
 #EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="INFORMACIÓN",Canal Del Congreso
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94120/12?f=.m3u8
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="ENTRETENCIÓN",Star Channel | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97891/12?f=.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="ENTRETENCIÓN",Star Channel
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97891/12?f=.m3u8
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="ENTRETENCIÓN",Star Channel SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/205/12?f=.m3u8
-#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony Channel | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sony.png" group-title="ENTRETENCIÓN",Sony Channel | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97896/12?f=.m3u8
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sony.png" group-title="ENTRETENCIÓN",Sony Channel
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97896/12?f=.m3u8
+#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony Channel SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sony.png" group-title="ENTRETENCIÓN",Sony Channel SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/206/12?f=.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" group-title="ENTRETENCIÓN",Unicable
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/208/12?f=.m3u8
 #EXTINF:-1 tvg-id="PasionesTV(Spanish).us" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/pasin.png" group-title="ENTRETENCIÓN",Pasiones
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94104/12?f=.m3u8
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENCIÓN",Warner | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97892/12?f=.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENCIÓN",Warner
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97892/12?f=.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENCIÓN",Warner SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/209/12?f=.m3u8
 #EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/eent.png" group-title="ENTRETENCIÓN",E!
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/210/12?f=.m3u8
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENCIÓN",FX | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97898/12?f=.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENCIÓN",FX
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97898/12?f=.m3u8
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENCIÓN",FX SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/211/12?f=.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="ENTRETENCIÓN",Universal | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97893/12?f=.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="ENTRETENCIÓN",Universal
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97893/12?f=.m3u8
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="ENTRETENCIÓN",Universal SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/212/12?f=.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="ENTRETENCIÓN",TNT Series
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/223/12?f=.m3u8
@@ -467,19 +467,19 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/223/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/213/12?f=.m3u8
 #EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="ENTRETENCIÓN",TBS
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/227/12?f=.m3u8
-#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="ENTRETENCIÓN",ID | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/93863/12?f=.m3u8
 #EXTINF:-1 tvg-id="ID.mx" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="ENTRETENCIÓN",ID
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93863/12?f=.m3u8
+#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="ENTRETENCIÓN",ID SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/214/12?f=.m3u8
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENCIÓN",A&E | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97906/12?f=.m3u8
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENCIÓN",A&E
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97906/12?f=.m3u8
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENCIÓN",A&E SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/216/12?f=.m3u8
 #EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png" group-title="ENTRETENCIÓN",Lifetime
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/240/12?f=.m3u8
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="ENTRETENCIÓN",AXN | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97905/12?f=.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="ENTRETENCIÓN",AXN
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97905/12?f=.m3u8
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="ENTRETENCIÓN",AXN SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/217/12?f=.m3u8
 #EXTINF:-1 tvg-id="ISAT.mx" tvg-name="I-Sat" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/isatarg.png" group-title="ENTRETENCIÓN",I-Sat
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/269/12?f=.m3u8
@@ -517,9 +517,9 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97812/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/458/12?f=.m3u8
 #EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="¡Hola! TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hola.jpg" group-title="ENTRETENCIÓN",¡Hola! TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/457/12?f=.m3u8
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="ENTRETENCIÓN",MTV | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97930/12?f=.m3u8
 #EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="ENTRETENCIÓN",MTV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97930/12?f=.m3u8
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="ENTRETENCIÓN",MTV SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/302/12?f=.m3u8
 #EXTINF:-1 tvg-id="MTVHits.es" tvg-name="MTV Hits" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvh.png" group-title="MÚSICA",MTV Hits
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/463/12?f=.m3u8
@@ -547,9 +547,9 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/94121/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/246/12?f=.m3u8
 #EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png" group-title="KIDS",Nick
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/247/12?f=.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="KIDS",Disney Channel | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97903/12?f=.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="KIDS",Disney Channel
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97903/12?f=.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="KIDS",Disney Channel SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/251/12?f=.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dxd.png" group-title="KIDS",Disney XD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/248/12?f=.m3u8
@@ -563,15 +563,15 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/464/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/253/12?f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="CONOCIMIENTO",Discovery
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/235/12?f=.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="CONOCIMIENTO",Animal Planet | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97929/12?f=.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="CONOCIMIENTO",Animal Planet
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97929/12?f=.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="CONOCIMIENTO",Animal Planet SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/236/12?f=.m3u8
 #EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg" group-title="CONOCIMIENTO",TLC
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/215/12?f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="CONOCIMIENTO",Discovery Home & Health | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97904/12?f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="CONOCIMIENTO",Discovery Home & Health
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97904/12?f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="CONOCIMIENTO",Discovery Home & Health SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/221/12?f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png" group-title="CONOCIMIENTO",Discovery Theater HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93864/12?f=.m3u8
@@ -579,17 +579,17 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/93864/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93866/12?f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/turbo.png" group-title="CONOCIMIENTO",Discovery Turbo
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93865/12?f=.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="CONOCIMIENTO",National Geographic | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97927/12?f=.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="CONOCIMIENTO",National Geographic
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97927/12?f=.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="CONOCIMIENTO",National Geographic SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/238/12?f=.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="CONOCIMIENTO",Nat Geo Wild | HD
+#EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="CONOCIMIENTO",Nat Geo Wild SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97928/12?f=.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="CONOCIMIENTO",Nat Geo Wild
+#EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="CONOCIMIENTO",Nat Geo Wild SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/412/12?f=.m3u8
-#EXTINF:-1 tvg-id="History.mx" tvg-name="History | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="CONOCIMIENTO",History | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97897/12?f=.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="CONOCIMIENTO",History
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97897/12?f=.m3u8
+#EXTINF:-1 tvg-id="History.mx" tvg-name="History SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="CONOCIMIENTO",History SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/237/12?f=.m3u8
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/h2.png" group-title="CONOCIMIENTO",History 2
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/224/12?f=.m3u8
@@ -597,29 +597,29 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/224/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/225/12?f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="CONOCIMIENTO",Discovery En Español
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97932/12?f=.m3u8
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="DEPORTES",Fox Sports | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97910/12?f=.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="DEPORTES",Fox Sports
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97910/12?f=.m3u8
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="DEPORTES",Fox Sports
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/293/12?f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="DEPORTES",Fox Sports 2 | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97909/12?f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="DEPORTES",Fox Sports 2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97909/12?f=.m3u8
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="DEPORTES",Fox Sports 2 SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/295/12?f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="DEPORTES",Fox Sports 3
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/297/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="DEPORTES",ESPN | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97908/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="DEPORTES",ESPN
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97908/12?f=.m3u8
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="DEPORTES",ESPN SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/291/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2 | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="DEPORTES",ESPN 2 | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97926/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="DEPORTES",ESPN 2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97926/12?f=.m3u8
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2 SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="DEPORTES",ESPN 2 SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/292/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="DEPORTES",ESPN 3
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/424/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="DEPORTES",ESPN Extra
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94068/12?f=.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN | HD
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/290/12?f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
@@ -627,13 +627,13 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/421/12?f=.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="Adrenalina Sports Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/asn.png" group-title="DEPORTES",Adrenalina Sports Network
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97886/12?f=.m3u8
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="DEPORTES",Bein Ñ | HD
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="DEPORTES",Bein Ñ
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="DEPORTES",Bein Ñ
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="DEPORTES",Bein Ñ SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
 #EXTINF:-1 tvg-id="NBCSN.us" tvg-name="NBCSN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcsp.png" group-title="DEPORTES",NBCSN
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/487/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="DEPORTES",ESPN Deportes | HD
+#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="DEPORTES",ESPN Deportes USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión (XHTDMX-TDT2)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/milen.png" group-title="INFORMACIÓN",Milenio Televisión (XHTDMX-TDT2)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/199/12?f=.m3u8
@@ -647,13 +647,13 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/600/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93853/12?f=.m3u8
 #EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INFORMACIÓN",RT (Español)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97868/12?f=.m3u8
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="CINE",TNT | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97894/12?f=.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="CINE",TNT
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97894/12?f=.m3u8
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="CINE",TNT SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/262/12?f=.m3u8
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="CINE",Space | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97895/12?f=.m3u8
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="CINE",Space
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97895/12?f=.m3u8
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="CINE",Space SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/265/12?f=.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="CINE",Cinemax
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/427/12?f=.m3u8
@@ -675,17 +675,17 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/466/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/261/12?f=.m3u8
 #EXTINF:-1 tvg-id="Cinema.mx" tvg-name="Cinema" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="CINE",Cinema
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/494/12?f=.m3u8
-#EXTINF:-1 tvg-id="StarSeries.ar" tvg-name="Star Series HD (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="CINE PREMIUM",Star Series HD (SUB)
+#EXTINF:-1 tvg-id="StarSeries.ar" tvg-name="Star Series (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="CINE PREMIUM",Star Series (SUB)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97899/12?f=.m3u8
-#EXTINF:-1 tvg-id="StarSeries.mx" tvg-name="Star Series (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="CINE PREMIUM",Star Series (SUB)
+#EXTINF:-1 tvg-id="StarSeries.mx" tvg-name="Star Series SD (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="CINE PREMIUM",Star Series SD (SUB)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/274/12?f=.m3u8
-#EXTINF:-1 tvg-id="StarAction.ar" tvg-name="Star Action HD (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="CINE PREMIUM",Star Action HD (SUB)
+#EXTINF:-1 tvg-id="StarAction.ar" tvg-name="Star Action (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="CINE PREMIUM",Star Action (SUB)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97901/12?f=.m3u8
-#EXTINF:-1 tvg-id="StarAction.mx" tvg-name="Star Action (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="CINE PREMIUM",Star Action (SUB)
+#EXTINF:-1 tvg-id="StarAction.mx" tvg-name="Star Action SD (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="CINE PREMIUM",Star Action SD (SUB)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/277/12?f=.m3u8
-#EXTINF:-1 tvg-id="StarHits.mx" tvg-name="Star Hits HD (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="CINE PREMIUM",Star Hits HD (SUB)
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97900/12?f=.m3u8
 #EXTINF:-1 tvg-id="StarHits.mx" tvg-name="Star Hits (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="CINE PREMIUM",Star Hits (SUB)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97900/12?f=.m3u8
+#EXTINF:-1 tvg-id="StarHits.mx" tvg-name="Star Hits SD (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="CINE PREMIUM",Star Hits SD (SUB)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/278/12?f=.m3u8
 #EXTINF:-1 tvg-id="STARFUN.co" tvg-name="Star Fun" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starfamily.png" group-title="CINE PREMIUM",Star Fun
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/275/12?f=.m3u8
@@ -728,249 +728,249 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8
 
 
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS" tvg-logo="/logos/tntsports.png" group-title="Lista 16",TNT SPORTS
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tnt-sports&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tnt-sports&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="/logos/fox-sports-premium1.png" group-title="Lista 16",FOX SPORTS PREMIUM
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fox-sports-premium&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fox-sports-premium&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="/logos/tudn.png" group-title="Lista 16",TUDN
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tudn&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tudn&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="GOLTV(Spanish).us" tvg-name="GOLTV Latino en vivo Online" tvg-logo="/logos/goltvlatino.png" group-title="Lista 16",GOLTV Latino en vivo Online
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=goltvlatino&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=goltvlatino&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Sports Latino en vivo Online" tvg-logo="/logos/beinlatino.png" group-title="Lista 16",Bein Sports Latino en vivo Online
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=beinlatino&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=beinlatino&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="VTV URUGUAY" tvg-logo="/logos/vtv.png" group-title="Lista 16",VTV URUGUAY
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=vtv&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=vtv&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="CaracolTVCanal1.co" tvg-name="CARACOL TV" tvg-logo="/logos/caracoltv.png" group-title="Lista 16",CARACOL TV
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=caracoltv&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=caracoltv&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="GOL PERU" tvg-logo="/logos/golperu.png" group-title="Lista 16",GOL PERU
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=golperu&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=golperu&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="CDF" tvg-logo="/logos/cdf.png" group-title="Lista 16",CDF
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=cdfpremium&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=cdfpremium&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoSurArgentina).ar" tvg-name="FOX SPORTS ARGENTINA" tvg-logo="/logos/foxsports1ar.png" group-title="Lista 16",FOX SPORTS ARGENTINA
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fox-sports1ar&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fox-sports1ar&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(Argentina).ar" tvg-name="FOX SPORTS 2 ARGENTINA" tvg-logo="/logos/foxsports2ar.png" group-title="Lista 16",FOX SPORTS 2 ARGENTINA
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fox-sports2ar&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fox-sports2ar&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports3(ConoSur).ar" tvg-name="FOX SPORTS 3 ARGENTINA" tvg-logo="/logos/foxsports3ar.png" group-title="Lista 16",FOX SPORTS 3 ARGENTINA
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fox-sports3ar&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fox-sports3ar&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN ARGENTINA" tvg-logo="/logos/espnar.png" group-title="Lista 16",ESPN ARGENTINA
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=espn1ar&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=espn1ar&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 ARGENTINA" tvg-logo="/logos/espn2ar.png" group-title="Lista 16",ESPN 2 ARGENTINA
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=espn2ar&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=espn2ar&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN3(South).ar" tvg-name="ESPN 3 ARGENTINA" tvg-logo="/logos/espn3ar.png" group-title="Lista 16",ESPN 3 ARGENTINA
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=espn3ar&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=espn3ar&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX SPORTS MEXICO" tvg-logo="/logos/foxsports1mx.png" group-title="Lista 16",FOX SPORTS MEXICO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fox-sports1mx&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fox-sports1mx&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="FOX SPORTS 2 MEXICO" tvg-logo="/logos/foxsports2mx.png" group-title="Lista 16",FOX SPORTS 2 MEXICO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fox-sports2mx&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fox-sports2mx&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="FOX SPORTS 3 MEXICO" tvg-logo="/logos/foxsports3mx.png" group-title="Lista 16",FOX SPORTS 3 MEXICO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fox-sports3mx&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fox-sports3mx&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN MEXICO" tvg-logo="/logos/espnmx.png" group-title="Lista 16",ESPN MEXICO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=espn1mx&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=espn1mx&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2 MEXICO" tvg-logo="/logos/espn2mx.png" group-title="Lista 16",ESPN 2 MEXICO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=espn2mx&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=espn2mx&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3 MEXICO" tvg-logo="/logos/espn3mx.png" group-title="Lista 16",ESPN 3 MEXICO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=espn3mx&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=espn3mx&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="ESPNEXTRA.co" tvg-name="ESPN + ARGENTINA" tvg-logo="/logos/espnmasar.png" group-title="Lista 16",ESPN + ARGENTINA
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=espn+ar&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=espn+ar&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="DIRECTV SPORTS" tvg-logo="/logos/directvsports.png" group-title="Lista 16",DIRECTV SPORTS
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=directv-sports&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=directv-sports&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="DIRECTV SPORTS 2" tvg-logo="/logos/directvsports2.png" group-title="Lista 16",DIRECTV SPORTS 2
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=directv-sports2&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=directv-sports2&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="DIRECTV SPORTS PLUS" tvg-logo="/logos/directv-sports-plus.png" group-title="Lista 16",DIRECTV SPORTS PLUS
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=directv-sports-plus&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=directv-sports-plus&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" tvg-logo="/logos/tyc.png" group-title="Lista 16",TYC SPORTS
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tyc&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tyc&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="GOLF CHANNEL" tvg-logo="/logos/golflatino.png" group-title="Lista 16",GOLF CHANNEL
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=golflatino&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=golflatino&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="StarAction.ar" tvg-name="FOX PREMIUM ACTION" tvg-logo="/logos/foxaction.png" group-title="Lista 16",FOX PREMIUM ACTION
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=foxaction&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=foxaction&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="ADRENALINA SPORTS" tvg-logo="/logos/adrenalinatv.png" group-title="Lista 16",ADRENALINA SPORTS
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=adrenalinatv&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=adrenalinatv&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AYM SPORTS" tvg-logo="/logos/aym.png" group-title="Lista 16",AYM SPORTS
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=aymsports&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=aymsports&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="UNIVISION DEPORTES" tvg-logo="/logos/univisiondeportes.png" group-title="Lista 16",UNIVISION DEPORTES
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=univisiondeportes&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=univisiondeportes&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS" tvg-logo="/logos/win.png" group-title="Lista 16",WIN SPORTS
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=winsports&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=winsports&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="TELEFE" tvg-logo="/logos/telefe.png" group-title="Lista 16",TELEFE
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=telefe&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=telefe&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="EL TRECE" tvg-logo="/logos/eltrece.png" group-title="Lista 16",EL TRECE
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=eltrece&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=eltrece&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="AMERICA TV" tvg-logo="/logos/america2.png" group-title="Lista 16",AMERICA TV
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=america2&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=america2&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="TvPublica.ar" tvg-name="TV PUBLICA" tvg-logo="/logos/tvpublica.png" group-title="Lista 16",TV PUBLICA
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tvpublica&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tvpublica&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="TODONOTICIAS.ar" tvg-name="TN ARGENTINA" tvg-logo="/logos/tn.png" group-title="Lista 16",TN ARGENTINA
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tn&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tn&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N ARGENTINA" tvg-logo="/logos/c5n.png" group-title="Lista 16",C5N ARGENTINA
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=c5n&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=c5n&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Elnueve.ar" tvg-name="EL NUEVE" tvg-logo="/logos/canalnueve.png" group-title="Lista 16",EL NUEVE
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=canal9ar&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=canal9ar&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="CANAL 26" tvg-logo="/logos/canal26.png" group-title="Lista 16",CANAL 26
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=canal26ar&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=canal26ar&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="CRONICA TV" tvg-logo="/logos/cronicatv.png" group-title="Lista 16",CRONICA TV
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=cronicatv&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=cronicatv&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="CIUDAD MAGAZINE" tvg-logo="/logos/ciudadmagazine.png" group-title="Lista 16",CIUDAD MAGAZINE
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=ciudadmagazine&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=ciudadmagazine&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="America24.ar" tvg-name="A 24" tvg-logo="/logos/a24.png" group-title="Lista 16",A 24
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=a24&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=a24&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="XHLTDT.mx" tvg-name="TELEVISA DEL BAJIO-" tvg-logo="/logos/televisabajio.png" group-title="Lista 16",TELEVISA DEL BAJIO-
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=canalbajio&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=canalbajio&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="/logos/canal5televisa.png" group-title="Lista 16",CANAL 5
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=canal5televisa&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=canal5televisa&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="AZTECA UNO" tvg-logo="/logos/azteca.png" group-title="Lista 16",AZTECA UNO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=azteca&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=azteca&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="/logos/azteca7.png" group-title="Lista 16",AZTECA 7
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=azteca7&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=azteca7&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+" tvg-logo="/logos/aztecamas.png" group-title="Lista 16",A+
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=aztecamas&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=aztecamas&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Cinema.mx" tvg-name="CINEMA" tvg-logo="/logos/aztecacinema.png" group-title="Lista 16",CINEMA
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=aztecacinema&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=aztecacinema&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Mundo.mx" tvg-name="MUNDO" tvg-logo="/logos/aztecamundo.png" group-title="Lista 16",MUNDO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=aztecamundo&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=aztecamundo&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Corazon.mx" tvg-name="CORAZON" tvg-logo="/logos/aztecacorazon.png" group-title="Lista 16",CORAZON
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=aztecacorazon&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=aztecacorazon&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="/logos/canalestrellas.png" group-title="Lista 16",LAS ESTRELLAS
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=canalestrellas&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=canalestrellas&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="TLNOVELAS" tvg-logo="/logos/telenovelas.png" group-title="Lista 16",TLNOVELAS
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=telenovelas&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=telenovelas&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="/logos/mtvlatino.png" group-title="Lista 16",MTV
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=mtv&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=mtv&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL" tvg-logo="/logos/foxlatino.png" group-title="Lista 16",STAR CHANNEL
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fox&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fox&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="StarSeries.ar" tvg-name="STAR SERIES" tvg-logo="/logos/foxseries.png" group-title="Lista 16",STAR SERIES
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=foxseries&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=foxseries&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="STARFUN.ar" tvg-name="STAR FUN" tvg-logo="/logos/foxfamily.png" group-title="Lista 16",STAR FUN
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=foxfamily&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=foxfamily&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="STARCINEMA.ar" tvg-name="STAR CINEMA" tvg-logo="/logos/foxcinema.png" group-title="Lista 16",STAR CINEMA
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=foxcinema&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=foxcinema&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="STARCOMEDY.ar" tvg-name="STAR COMEDY" tvg-logo="/logos/foxcomedy.png" group-title="Lista 16",STAR COMEDY
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=foxcomedy&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=foxcomedy&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="StarClassics.ar" tvg-name="STAR CLASSICS" tvg-logo="/logos/foxclassics.png" group-title="Lista 16",STAR CLASSICS
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=foxclassics&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=foxclassics&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="StarHits.co" tvg-name="STAR HITS" tvg-logo="/logos/foxmovies.png" group-title="Lista 16",STAR HITS
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=foxmovies&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=foxmovies&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="StarLife.mx" tvg-name="STAR LIFE" tvg-logo="/logos/foxlifelatino.png" group-title="Lista 16",STAR LIFE
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=foxlife&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=foxlife&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO" tvg-logo="/logos/hbo.png" group-title="Lista 16",HBO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=hbo&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=hbo&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2" tvg-logo="/logos/hbo2.png" group-title="Lista 16",HBO 2
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=hbo2&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=hbo2&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.co" tvg-name="HBO PLUS" tvg-logo="/logos/hboplus.png" group-title="Lista 16",HBO PLUS
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=hboplus&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=hboplus&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.co" tvg-name="HBO FAMILY" tvg-logo="/logos/hbofamily.png" group-title="Lista 16",HBO FAMILY
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=hbofamily&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=hbofamily&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="HBOSignature.ar" tvg-name="HBO SIGNATURE" tvg-logo="/logos/hbosignature.png" group-title="Lista 16",HBO SIGNATURE
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=hbosignature&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=hbosignature&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-name="HBO XTREME" tvg-logo="/logos/hboxtreme.png" group-title="Lista 16",HBO XTREME
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=maxprime&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=maxprime&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="HBOMundi.co" tvg-name="HBO MUNDI" tvg-logo="/logos/hbomundi.png" group-title="Lista 16",HBO MUNDI
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=maxlatino&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=maxlatino&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="HBOPop.ar" tvg-name="HBO POP" tvg-logo="/logos/hbopop.png" group-title="Lista 16",HBO POP
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=maxup&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=maxup&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN" tvg-logo="/logos/golden.png" group-title="Lista 16",GOLDEN
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=golden&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=golden&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="GOLDEN PLUS" tvg-logo="/logos/goldenplus.png" group-title="Lista 16",GOLDEN PLUS
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=goldenplus&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=goldenplus&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="/logos/goldenedge.png" group-title="Lista 16",GOLDEN EDGE
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=goldenedge&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=goldenedge&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINEMAX" tvg-logo="/logos/cinemax.png" group-title="Lista 16",CINEMAX
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=cinemax&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=cinemax&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINECANAL" tvg-logo="/logos/cinecanal.png" group-title="Lista 16",CINECANAL
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=cinecanal&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=cinecanal&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT LATINO" tvg-logo="/logos/tntlatino.png" group-title="Lista 16",TNT LATINO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tnt&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tnt&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT SERIES" tvg-logo="/logos/tntseries.png" group-title="Lista 16",TNT SERIES
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tntseries&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tntseries&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN LATINO" tvg-logo="/logos/axnlatino.png" group-title="Lista 16",AXN LATINO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=axn&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=axn&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC LATINO" tvg-logo="/logos/amclatino.png" group-title="Lista 16",AMC LATINO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=amc&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=amc&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM LATINO" tvg-logo="/logos/tcmlatino.png" group-title="Lista 16",TCM LATINO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tcm&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tcm&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY LATINO" tvg-logo="/logos/syfy.png" group-title="Lista 16",SYFY LATINO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=syfy&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=syfy&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="FXMovies.mx" tvg-name="FXM" tvg-logo="/logos/fxm.png" group-title="Lista 16",FXM
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fxm&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fxm&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="/logos/fx.png" group-title="Lista 16",FX
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fx&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=fx&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Space.ar" tvg-name="SPACE" tvg-logo="/logos/space.png" group-title="Lista 16",SPACE
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=space&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=space&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL LATINO" tvg-logo="/logos/comedycentrallatino.png" group-title="Lista 16",COMEDY CENTRAL LATINO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=comedycentral&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=comedycentral&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="PARAMOUNT CHANNEL LATINO" tvg-logo="/logos/paramountlatino.png" group-title="Lista 16",PARAMOUNT CHANNEL LATINO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=paramountchannel&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=paramountchannel&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="SONY" tvg-logo="/logos/sony.png" group-title="Lista 16",SONY
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=sony&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=sony&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="/logos/tbs.png" group-title="Lista 16",TBS
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tbs&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tbs&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="/logos/studiouniversal.png" group-title="Lista 16",STUDIO UNIVERSAL
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=studiouniversal&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=studiouniversal&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="UNIVERSAL CHANNEL" tvg-logo="/logos/universalchannel.png" group-title="Lista 16",UNIVERSAL CHANNEL
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=universalchannel&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=universalchannel&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER" tvg-logo="/logos/warner.png" group-title="Lista 16",WARNER
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=warner&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=warner&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA" tvg-logo="/logos/depelicula.png" group-title="Lista 16",DE PELICULA
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=depelicula&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=depelicula&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="/logos/distritocomedia.png" group-title="Lista 16",DISTRITO COMEDIA
 https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=distritocomedia
 #EXTINF:-1 tvg-id="History.mx" tvg-name="HISTORY" tvg-logo="/logos/historylatino.png" group-title="Lista 16",HISTORY
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=history&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=history&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="H2History.ar" tvg-name="HISTORY 2" tvg-logo="/logos/history2.png" group-title="Lista 16",HISTORY 2
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=history2&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=history2&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="/logos/discoverychannellatino.png" group-title="Lista 16",DISCOVERY CHANNEL
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=discoverychannel&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=discoverychannel&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="TLC.mx" tvg-name="DISCOVERY TLC" tvg-logo="/logos/tlc.png" group-title="Lista 16",DISCOVERY TLC
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tlc&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tlc&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="HGTV.mx" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="/logos/discoverycivilization.png" group-title="Lista 16",DISCOVERY CIVILIZATION
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=discoverycivilization&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=discoverycivilization&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="DISCOVERY TURBO" tvg-logo="/logos/discoveryturbo.png" group-title="Lista 16",DISCOVERY TURBO
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=discoveryturbo&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=discoveryturbo&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER" tvg-logo="/logos/discoverytheater.png" group-title="Lista 16",DISCOVERY THEATER
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=discoverytheater&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=discoverytheater&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY SCIENCIE" tvg-logo="/logos/discoverysci.png" group-title="Lista 16",DISCOVERY SCIENCIE
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=discoverysciencie&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=discoverysciencie&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="ID.mx" tvg-name="INVESTIGACION DISCOVERY" tvg-logo="/logos/invdiscovery.png" group-title="Lista 16",INVESTIGACION DISCOVERY
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=discoveryinvestigacion&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=discoveryinvestigacion&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="DISCOVERY H&H" tvg-logo="/logos/discoveryhh.png" group-title="Lista 16",DISCOVERY H&H
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=discoveryhh&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=discoveryhh&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORL" tvg-logo="/logos/discoveryworl.png" group-title="Lista 16",DISCOVERY WORL
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=discoveryworl&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=discoveryworl&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="/logos/nationalgeographiclatino.png" group-title="Lista 16",NATIONAL GEOGRAPHIC
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=nationalgeo&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=nationalgeo&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="NAT GEO WILL" tvg-logo="/logos/natgeowilllatino.png" group-title="Lista 16",NAT GEO WILL
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=nationalwill&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=nationalwill&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="/logos/ae.png" group-title="Lista 16",A&E
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=ae&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=ae&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="/logos/animalplanet.png" group-title="Lista 16",ANIMAL PLANET
-https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=animalplanet&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=animalplanet&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="cartoon network" tvg-logo="/logos/cartoonnetwork.png" group-title="Lista 16",cartoon network
-https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=cartoonnetwork&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=cartoonnetwork&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="discovery kids" tvg-logo="/logos/discoverykids.png" group-title="Lista 16",discovery kids
-https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=discoverykids&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=discoverykids&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="disney junior" tvg-logo="/logos/disneyjunior.png" group-title="Lista 16",disney junior
-https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=disneyjunior&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=disneyjunior&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="disney xd" tvg-logo="/logos/disneyxd.png" group-title="Lista 16",disney xd
-https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=disneyxd&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=disneyxd&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="disney channel" tvg-logo="/logos/disneychannel.png" group-title="Lista 16",disney channel
-https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=disneychannel&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=disneychannel&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Nick.mx" tvg-name="nick" tvg-logo="/logos/nick.png" group-title="Lista 16",nick
-https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=nick&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=nick&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="nicktoons" tvg-logo="/logos/nicktoons.png" group-title="Lista 16",nicktoons
-https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=nicktoons&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=nicktoons&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="BabyFirstAmericasSpanish.mx" tvg-name="babyfirst" tvg-logo="/logos/babyfirst.png" group-title="Lista 16",babyfirst
-https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=babyfirst&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=babyfirst&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="tooncast" tvg-logo="/logos/tooncast.png" group-title="Lista 16",tooncast
-https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=tooncast&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=tooncast&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="boomerang" tvg-logo="/logos/boomerang.png" group-title="Lista 16",boomerang
-https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=boomerang&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=boomerang&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Boing.es" tvg-name="boing" tvg-logo="/logos/boing.png" group-title="Lista 16",boing
-https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=boing&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=boing&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="clantv" tvg-logo="/logos/clantv.png" group-title="Lista 16",clantv
-https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=clantv&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=clantv&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="paka paka" tvg-logo="/logos/pakapaka.png" group-title="Lista 16",paka paka
-https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=pakapaka&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=pakapaka&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="kidstv" tvg-logo="/logos/kidstv.png" group-title="Lista 16",kidstv
-https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=kidstv&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/wistream-bglive-819.php?cat=infantiles&ch=kidstv&k=blaacccghost&f=.m3u8
 
 
 #EXTINF:-1  group-title="Lista 08",Baby TV
@@ -2930,9 +2930,9 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanade TV" tvg-logo="https://i.ibb.co/X8gmqHg/logo-white.png" group-title="FTA (LOCALES LIBRES)",Kanade TV
 http://207.246.84.143:8080/hls/Kanade.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 10 Chetumal | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c10.jpg" group-title="FTA (LOCALES LIBRES)",Canal 10 Chetumal | HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 10 Chetumal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c10.jpg" group-title="FTA (LOCALES LIBRES)",Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-id="Once(Spanish).us" tvg-name="Canal Once IPN  Int. | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onceint.png" group-title="FTA (LOCALES LIBRES)",Canal Once IPN  Int. | HD
+#EXTINF:-1 tvg-id="Once(Spanish).us" tvg-name="Canal Once IPN  Int." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onceint.png" group-title="FTA (LOCALES LIBRES)",Canal Once IPN  Int. | HD
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso 45.1 | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="FTA (LOCALES LIBRES)",Canal Del Congreso 45.1 | SD
 https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores3.smil/playlist.m3u8
