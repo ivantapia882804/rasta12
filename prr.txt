@@ -727,6 +727,94 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/576/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8
 
 
+#EXTINF:-1 tvg-id="ENLACETV.co" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93862/12?f=.m3u8
+#EXTINF:-1 tvg-id="EnlaceJuvenil.mx" tvg-name="Enlace Juvenil" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace Juvenil
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93855/12?f=.m3u8
+#EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="El Sembrador Nueva Evangelización" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/esne.png" group-title="RELIGIÓN",El Sembrador Nueva Evangelización
+https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8
+#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="María Visión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/maria.png" group-title="RELIGIÓN",María Visión
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ewtn.png" group-title="RELIGIÓN",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Locomotion" tvg-logo="https://i.ibb.co/5K8QbNp/image.png" group-title="ENTRETENCIÓN",Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanade TV" tvg-logo="https://i.ibb.co/X8gmqHg/logo-white.png" group-title="ENTRETENCIÓN",Kanade TV
+http://96.30.193.226:81/hls/kanadetv.m3u8
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX
+http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A+ CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhimt2.png" group-title="LOCALES",A+ CDMX
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-id="XEIPN.mx" tvg-name="Canal Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onceint.png" group-title="LOCALES",Canal Once
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="LOCALES",Canal Catorce
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="LOCALES",Canal 22
+https://5fe2654d6127d.streamlock.net/canal22/videocanal22/playlist.m3u8
+#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="Canal 22.2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="LOCALES",Canal 22.2
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso 45.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.1
+https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.2
+https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.3
+https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="QuieroTv.mx" tvg-name="Quiero TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ochotv.png" group-title="REGIONALES",Quiero TV
+https://quierotvlive.tk/httplive/playlist_playlist.m3u8
+#EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 MTY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES 2",Canal 6 MTY
+http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 LAG" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES 2",Canal 6 LAG
+http://mdstrm.com/live-stream-playlist_2500/57bf686a61ff39e1085d43e1.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GDL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES 2",Canal 6 GDL
+http://mdstrm.com/live-stream-playlist_2500/5c54d38ca392a5119bb0aa0d.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 PUE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 PUE
+http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES 2",Canal 6 GTO
+http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
+#EXTINF:-1 tvg-id="XHOAHTDT.mx" tvg-name="Canal 6 SAL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES 2",Canal 6 SAL
+http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDJ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES 2",Canal 6 CDJ
+http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 8 SJCR" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c8cr.png" group-title="REGIONALES 2",Canal 8 SJCR
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="MÚSICA",Teleritmo
+http://mdstrm.com/live-stream-playlist_800/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="REGIONALES",Capital 21
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="REGIONALES",Mexiquense Televisión
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="REGIONALES",AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET 26.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/set.png" group-title="REGIONALES 2",SET 26.1
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4 Gto." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="REGIONALES 2",TV4 Gto.
+https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.2 Gto." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="REGIONALES 2",TV4.2 Gto.
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.3 Gto." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="REGIONALES 2",TV4.3 Gto.
+https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IMRyT 15.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/imryt.png" group-title="REGIONALES 2",IMRyT 15.1
+http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diez Chiapas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/diez.png" group-title="REGIONALES 2",Diez Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SM 16.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/smr.png" group-title="REGIONALES 2",SM 16.1
+https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Mas 26.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="REGIONALES 2",TV Mas 26.1
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sizart TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sizart.png" group-title="REGIONALES 2",Sizart TV
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTQ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="REGIONALES 2",RTQ
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 10 Chetumal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c10.jpg" group-title="REGIONALES 2",Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (ESPAÑOL)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INFORMACIÓN",RT (ESPAÑOL)
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+#EXTINF:-1 tvg-id="TeleSur.co" tvg-name="TELESUR" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sur.png" group-title="INFORMACIÓN",TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS" tvg-logo="/logos/tntsports.png" group-title="Lista 16",TNT SPORTS
 https://blackghost.live/play/wistream-bglive-819.php?cat=latinos&ch=tnt-sports&k=blaacccghost&f=.m3u8
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="/logos/fox-sports-premium1.png" group-title="Lista 16",FOX SPORTS PREMIUM
@@ -2911,113 +2999,6 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97838/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
 #EXTINF:-1 tvg-id="UniMas(Spanish).us" tvg-name="UniMas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="SOLO PARA ROKOOS ANGLO",UniMas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
-
-
-
-#EXTINF:-1 tvg-id="ENLACETV.co" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/93862/12?f=.m3u8
-#EXTINF:-1 tvg-id="EnlaceJuvenil.mx" tvg-name="Enlace Juvenil" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace Juvenil
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/93855/12?f=.m3u8
-#EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="El Sembrador Nueva Evangelización" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/esne.png" group-title="RELIGIÓN",El Sembrador Nueva Evangelización
-https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8
-#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="María Visión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/maria.png" group-title="RELIGIÓN",María Visión
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ewtn.png" group-title="RELIGIÓN",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Locomotion" tvg-logo="https://i.ibb.co/5K8QbNp/image.png" group-title="FTA (LOCALES LIBRES)",Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanade TV" tvg-logo="https://i.ibb.co/X8gmqHg/logo-white.png" group-title="FTA (LOCALES LIBRES)",Kanade TV
-http://207.246.84.143:8080/hls/Kanade.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 10 Chetumal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c10.jpg" group-title="FTA (LOCALES LIBRES)",Canal 10 Chetumal | HD
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-id="Once(Spanish).us" tvg-name="Canal Once IPN  Int." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onceint.png" group-title="FTA (LOCALES LIBRES)",Canal Once IPN  Int. | HD
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso 45.1 | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="FTA (LOCALES LIBRES)",Canal Del Congreso 45.1 | SD
-https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.2 | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="FTA (LOCALES LIBRES)",Canal Del Congreso 45.2 | SD
-https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.3 | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="FTA (LOCALES LIBRES)",Canal Del Congreso 45.3 | SD
-http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="QuieroTv.mx" tvg-name="Quiero TV | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ochotv.png" group-title="FTA (LOCALES LIBRES)",Quiero TV | SD
-https://quierotvlive.tk/httplive/playlist_playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 4 RCG | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg" group-title="FTA (LOCALES LIBRES)",Canal 4 RCG | SD
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCG | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg" group-title="FTA (LOCALES LIBRES)",RCG | SD
-http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCG 2 | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg" group-title="FTA (LOCALES LIBRES)",RCG 2 | SD
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCG 3 | SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg" group-title="FTA (LOCALES LIBRES)",RCG 3 | SD
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="CANAL 6 MONTERREY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)",CANAL 6 MONTERREY
-http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
-#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="CANAL 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)",CANAL 6 CDMX
-http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 6 LAGUNA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)",CANAL 6 LAGUNA
-http://mdstrm.com/live-stream-playlist_2500/57bf686a61ff39e1085d43e1.m3u8?
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 6 GUADALAJARA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)",CANAL 6 GUADALAJARA
-http://mdstrm.com/live-stream-playlist_2500/5c54d38ca392a5119bb0aa0d.m3u8?
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 6 PUEBLA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)",CANAL 6 PUEBLA
-http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 6 BAJÍO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)",CANAL 6 BAJÍO
-http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
-#EXTINF:-1 tvg-id="XHOAHTDT.mx" tvg-name="CANAL 6 SALTILLO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)",CANAL 6 SALTILLO
-http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 6 JUAREZ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)",CANAL 6 JUAREZ
-http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 8 COSTA RICA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c8cr.png" group-title="FTA (LOCALES LIBRES)",CANAL 8 COSTA RICA
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="TELERITMO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="FTA (LOCALES LIBRES)",TELERITMO
-http://mdstrm.com/live-stream-playlist_800/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A+ METROPOLITANO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhimt2.png" group-title="FTA (LOCALES LIBRES)",A+ METROPOLITANO
-https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
-#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="CANAL CATORCE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="FTA (LOCALES LIBRES)",CANAL CATORCE
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
-#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="CANAL CATORCE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="FTA (LOCALES LIBRES)",CANAL CATORCE
-https://live2.canaloncelive.tv/spr/smil:spr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="CANAL 22" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="FTA (LOCALES LIBRES)",CANAL 22
-https://5fe2654d6127d.streamlock.net/canal22/videocanal22/playlist.m3u8
-#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="CANAL 22.2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="FTA (LOCALES LIBRES)",CANAL 22.2
-https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
-#EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="MEXIQUENSE TELEVISIÓN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="FTA (LOCALES LIBRES)",MEXIQUENSE TELEVISIÓN
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX NOTICIAS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="FTA (LOCALES LIBRES)",AMX NOTICIAS
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET PUEBLA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/set.png" group-title="FTA (LOCALES LIBRES)",SET PUEBLA
-http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV CUATRO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)",TV CUATRO
-https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV CUATRO MEDIA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)",TV CUATRO MEDIA
-https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV CUATRO EXPRESA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)",TV CUATRO EXPRESA
-https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IMRyT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/imryt.png" group-title="FTA (LOCALES LIBRES)",IMRyT
-http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C21 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="FTA (LOCALES LIBRES)",C21 CDMX
-https://video.cdmx.gob.mx/livestream/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JALISCO TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c7.png" group-title="FTA (LOCALES LIBRES)",JALISCO TV
-https://5b59c7a47236a.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 28 NL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/28nl.png" group-title="FTA (LOCALES LIBRES)",CANAL 28 NL
-https://5e307acc9a171.streamlock.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal44(XHUDGTDT).mx" tvg-name="CANAL 44" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/udg44.png" group-title="FTA (LOCALES LIBRES)",CANAL 44
-https://liveingesta118.cdnmedia.tv/udgmxlive/smil:canal44.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 44 NOTICIAS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/udgnot.png" group-title="FTA (LOCALES LIBRES)",CANAL 44 NOTICIAS
-https://liveingesta118.cdnmedia.tv/udgmxlive/smil:44noticias.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIEZ CHIAPAS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/diez.png" group-title="FTA (LOCALES LIBRES)",DIEZ CHIAPAS
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/smr.png" group-title="FTA (LOCALES LIBRES)",SM
-https://5e307acc9a171.streamlock.net:1936/noticias/noticias/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV MAS 26.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="FTA (LOCALES LIBRES)",TV MAS 26.1
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SIZART CANAL 24" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sizart.png" group-title="FTA (LOCALES LIBRES)",SIZART CANAL 24
-https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTQ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="FTA (LOCALES LIBRES)",RTQ
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (ESPAÑOL)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="FTA (LOCALES LIBRES)",RT (ESPAÑOL)
-https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
-#EXTINF:-1 tvg-id="TeleSur.co" tvg-name="TELESUR" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sur.png" group-title="FTA (LOCALES LIBRES)",TELESUR
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="RealExtreme.us" tvg-name="RealExtreme" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/realx.png" group-title="SOLO PARA ROKOOS +18",RealExtreme
