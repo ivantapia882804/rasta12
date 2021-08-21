@@ -817,6 +817,8 @@ https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 10 Chetumal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c10.jpg" group-title="REGIONALES 2",Canal 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/judic.png" group-title="INFORMACIÓN",Justicia TV
+https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
 #EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (ESPAÑOL)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INFORMACIÓN",RT (ESPAÑOL)
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 #EXTINF:-1 tvg-id="TeleSur.co" tvg-name="TELESUR" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sur.png" group-title="INFORMACIÓN",TELESUR
