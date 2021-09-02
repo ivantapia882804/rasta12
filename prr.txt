@@ -43,8 +43,10 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="RECOMENDADOS",Bein Ñ
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes(Spanish).us" tvg-name="Fox Deportes USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/foxdep.png" group-title="RECOMENDADOS",Fox Deportes USA
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97881/12?f=.m3u8
+#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcuni.png" group-title="RECOMENDADOS",Universo
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8
+#EXTINF:-1 tvg-id="Canal4Nacional.sv" tvg-name="Canal 4 TCS" tvg-logo="" group-title="RECOMENDADOS",Canal 4 TCS
+http://kstv.xyz:8080/live/Admluda192/0046096196/46844.m3u8
 
 
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno (HD)
@@ -1653,6 +1655,1018 @@ http://blackghost.live/play/mitv-900.php?id=natgeo&f=.m3u8
 http://blackghost.live/play/mitv-900.php?id=natgeowild&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/tlc-discovery_thumb_7dgud1ly.png" group-title="Lista 22",TLC Discovery
 http://blackghost.live/play/mitv-900.php?id=tlc&f=.m3u8
+
+
+#EXTINF:-1  group-title="Lista 36",LAT | A&E
+http://kstv.xyz:8080/live/Admluda192/0046096196/46526.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | A&E Alt
+http://kstv.xyz:8080/live/Admluda192/0046096196/46527.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | A&E HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46528.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | AMC
+http://kstv.xyz:8080/live/Admluda192/0046096196/46529.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | AMC HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46530.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | ANIMAL PLANET
+http://kstv.xyz:8080/live/Admluda192/0046096196/46531.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | ANIMAL PLANET HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46532.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | AXN
+http://kstv.xyz:8080/live/Admluda192/0046096196/46533.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | AXN Alt
+http://kstv.xyz:8080/live/Admluda192/0046096196/46534.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | AXN HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46535.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | AZ CINEMA HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46536.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | CINE CANAL
+http://kstv.xyz:8080/live/Admluda192/0046096196/46537.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | CINE CANAL HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46538.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | CINEMA DINAMITA
+http://kstv.xyz:8080/live/Admluda192/0046096196/46571.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | CINEMAX
+http://kstv.xyz:8080/live/Admluda192/0046096196/46572.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | CINEMAX HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46573.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | COMEDY CENTRAL
+http://kstv.xyz:8080/live/Admluda192/0046096196/46574.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | COMEDY CENTRAL HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46575.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DE PELICULA HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46576.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DE PELICULA PLUS
+http://kstv.xyz:8080/live/Admluda192/0046096196/46577.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DE PELICULA PLUS HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46578.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DISCOVERY CHANNEL
+http://kstv.xyz:8080/live/Admluda192/0046096196/46579.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DISCOVERY CHANNEL HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46580.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DISCOVERY CIVILIZACION
+http://kstv.xyz:8080/live/Admluda192/0046096196/46581.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DISCOVERY H&H
+http://kstv.xyz:8080/live/Admluda192/0046096196/46582.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DISCOVERY H&H HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46583.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DISCOVERY ID
+http://kstv.xyz:8080/live/Admluda192/0046096196/46584.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DISCOVERY ID HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46585.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DISCOVERY SCIENCE HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46586.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DISCOVERY THEATER HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46587.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DISCOVERY TLC HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46588.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DISCOVERY TURBO HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46589.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DISCOVERY WORLD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46590.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DISCOVERY WORLD HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46591.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | DISTRITO COMEDIA
+http://kstv.xyz:8080/live/Admluda192/0046096196/46592.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | E! ENTERTAINMENT HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46593.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | EL GOURMET HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46594.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | EUROPA EUROPA
+http://kstv.xyz:8080/live/Admluda192/0046096196/46595.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FILM & ARTS
+http://kstv.xyz:8080/live/Admluda192/0046096196/46596.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX
+http://kstv.xyz:8080/live/Admluda192/0046096196/46597.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX ACTION HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46598.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX CINEMA HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46599.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX CLASSICS HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46600.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX COMEDY HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46601.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX COMEDY HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46602.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX FAMILY HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46603.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX FAMILY HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46604.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46605.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX HD Alt
+http://kstv.xyz:8080/live/Admluda192/0046096196/46606.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX LIFE
+http://kstv.xyz:8080/live/Admluda192/0046096196/46607.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX LIFE HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46608.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX MOVIES HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46609.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX PREMIUM ACTION
+http://kstv.xyz:8080/live/Admluda192/0046096196/46610.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX PREMIUM CINEMA
+http://kstv.xyz:8080/live/Admluda192/0046096196/46611.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX PREMIUM CLASSIC
+http://kstv.xyz:8080/live/Admluda192/0046096196/46612.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX PREMIUM COMEDY
+http://kstv.xyz:8080/live/Admluda192/0046096196/46613.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX PREMIUM FAMILY
+http://kstv.xyz:8080/live/Admluda192/0046096196/46614.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX PREMIUM MOVIES
+http://kstv.xyz:8080/live/Admluda192/0046096196/46615.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX PREMIUM SERIES
+http://kstv.xyz:8080/live/Admluda192/0046096196/46617.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FOX SERIES HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46618.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FX
+http://kstv.xyz:8080/live/Admluda192/0046096196/46619.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FX HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46620.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FXM
+http://kstv.xyz:8080/live/Admluda192/0046096196/46621.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | FXM HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46622.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | GLITZ
+http://kstv.xyz:8080/live/Admluda192/0046096196/46623.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | GOLDEN
+http://kstv.xyz:8080/live/Admluda192/0046096196/46624.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | GOLDEN EDGE
+http://kstv.xyz:8080/live/Admluda192/0046096196/46625.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | GOLDEN PLUS HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46626.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | GOLDEN PREMIER HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46627.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | H2 HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46628.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | HBO
+http://kstv.xyz:8080/live/Admluda192/0046096196/46629.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | HBO 2
+http://kstv.xyz:8080/live/Admluda192/0046096196/46630.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | HBO 2 HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46631.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | HBO FAMILY
+http://kstv.xyz:8080/live/Admluda192/0046096196/46632.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | HBO FAMILY HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46633.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | HBO HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46634.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | HBO PLUS
+http://kstv.xyz:8080/live/Admluda192/0046096196/46635.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | HBO PLUS HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46636.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | HBO SIGNATURE
+http://kstv.xyz:8080/live/Admluda192/0046096196/46637.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | HBO SIGNATURE HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46638.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | HISTORY CHANNEL HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46639.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | HOLA TV
+http://kstv.xyz:8080/live/Admluda192/0046096196/46640.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | I SAT
+http://kstv.xyz:8080/live/Admluda192/0046096196/46641.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | LIFETIME HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46643.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | MAS CHIC HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46644.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | MAX
+http://kstv.xyz:8080/live/Admluda192/0046096196/46645.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | MAX PRIME HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46646.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | MAX UP HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46647.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | MOREMAX HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46648.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | NAT GEO
+http://kstv.xyz:8080/live/Admluda192/0046096196/46649.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | NAT GEO HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46650.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | NAT GEO WILD HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46651.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | OUTERMAX HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46652.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | PARAMOUNT CHANNEL
+http://kstv.xyz:8080/live/Admluda192/0046096196/46653.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | PARAMOUNT CHANNEL HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46654.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | PASIONES
+http://kstv.xyz:8080/live/Admluda192/0046096196/46655.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | RETROPLEX HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46656.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | SHOWTIME BEYOND HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46657.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | SHOWTIME HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46658.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | SONY
+http://kstv.xyz:8080/live/Admluda192/0046096196/46659.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | SONY HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46660.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | SPACE
+http://kstv.xyz:8080/live/Admluda192/0046096196/46661.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | SPACE HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46662.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | STAR TVE
+http://kstv.xyz:8080/live/Admluda192/0046096196/46663.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | STARZ BLACK HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46664.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | STARZ CINEMA HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46665.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | STARZ COMEDY HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46666.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | STARZ EDGE HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46667.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | STARZ ENCORE ACTION HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46668.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | STARZ ENCORE ACTION HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46669.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | STARZ ENCORE CLASSIC HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46670.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | STARZ ENCORE FAMILY HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46671.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | STARZ ENCORE SUSPENSE HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46672.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | STARZ ENCORE WESTERN HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46673.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | STARZ HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46674.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | Studio Universal HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46675.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | SUNDANCE HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46676.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | TBS
+http://kstv.xyz:8080/live/Admluda192/0046096196/46677.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | TBS HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46678.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | TCM
+http://kstv.xyz:8080/live/Admluda192/0046096196/46679.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | TNT
+http://kstv.xyz:8080/live/Admluda192/0046096196/46680.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | TNT HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46681.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | TNT SERIES
+http://kstv.xyz:8080/live/Admluda192/0046096196/46682.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | TNT SERIES HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46683.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | ULTRA CINE HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46684.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | ULTRA CLASICO HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46685.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | ULTRA FAMILIA HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46686.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | ULTRA FILM HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46687.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | ULTRA MACHO HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46688.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | ULTRA TAINMENT HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46689.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | UNIVERSAL CHANNEL
+http://kstv.xyz:8080/live/Admluda192/0046096196/46690.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | WARNER CHANNEL HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46691.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT | WOBI
+http://kstv.xyz:8080/live/Admluda192/0046096196/46692.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | 13 Max (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46693.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | 5RTV Santa Fe (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46694.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | 8 Digital (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46695.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | 9 MULTIVISION HD (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46696.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | A24 (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46697.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Aire de Santa Fe (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46698.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | AMERICA (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46699.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | AMERICA HD (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46700.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | ARGENTINISIMA (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46701.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | C5N (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46702.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Canal 26 (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46703.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Canal 26 (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46704.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Canal 4 Jujuy (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46705.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Canal 4 San Juan (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46706.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | CANAL 4 SD (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46707.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | CANAL 9 (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46708.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Canal 9 Comodoro Rivadavia (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46709.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Canal Acequia (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46710.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | CANAL PROVINCIAL SAN MIGUEL (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46711.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | CANAL RURAL (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46712.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | CANAL_13 (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46713.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | CIUDAD MAGAZINE HD (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46714.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Ciudad TV Chaco (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46715.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | CL3 (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46716.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | CN23 HD (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46717.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | CONEXION (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46718.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Conexion Abierta (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46719.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | CPEtv (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46720.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | CRONICA (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46721.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | DEPORTV (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46722.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | DEPORTV HD (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46723.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | DESIERTO TV (Chile)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46724.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | El Garage (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46725.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Fenix (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46726.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | FOX SPORTS PREMIUM (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46727.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | FOX SPORTS PREMIUM HD (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46728.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Frecuencia Musical TV (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46729.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Garage TV (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46730.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | GARAGE TV (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46731.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | LA 90 FM (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46732.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Net TV (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46733.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | ORBE 21 (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46734.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | RTN Neuqu\u00e9n (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46735.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | T5 Satelital (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46736.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | T\u00e9lam 4 (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46737.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | TELEFE HD (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46738.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Telemax (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46739.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | TELEMAX HD (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46740.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | TeleNord Corrientes (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46741.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Tierramia TV (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46742.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | TN NOTICIAS (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46743.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | TNT SPORTS HD (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46744.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | TV Man\u00e1 C\u00f3rdoba (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46745.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Tv Publica (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46746.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | Tv Publica HD (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46747.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | TYC SPORTS (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46748.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | TYC SPORTS 1 HD (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46749.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | TYC SPORTS HD (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46750.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-A | VOLVER (ARGENTINA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46751.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-B | ATB (BOLIVIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46752.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-B | BOLIVIA TV (BOLIVIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46753.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-B | BOLIVIA TV Deportes (BOLIVIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46754.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-B | Bolivision (BOLIVIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46755.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-B | CANALZATEL (BOLIVIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46756.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-B | PAT TV LA PAZ (BOLIVIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46757.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-B | PAT TV Santa Cruz (BOLIVIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46758.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-B | RTP (BOLIVIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46759.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-B | TIGO SPORTS 1 HD (BOLIVIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46760.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-B | TIGO SPORTS 1 SD (BOLIVIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46761.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-B | TIGO SPORTS 2 HD (BOLIVIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46762.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-B | TIGO SPORTS 2 SD (BOLIVIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46763.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | 13 HD (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46764.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | 24 Horas TVN HD (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46765.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Anexion TV (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46766.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Blu Radio Medellin (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46767.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Cable Noticias HD (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46768.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Cali TV (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46769.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Canal 13 (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46770.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Canal 13 HD (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46771.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Canal 14 Tv Sur (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46772.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Canal Uno HD (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46773.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Caracol FHD (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46774.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Caracol FHD OPC 2 (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46775.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Caracol FHD OPC 3 (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46776.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Caracol HD (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46777.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Caracol HD OPC 2 (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46778.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Caracol Internacional HD (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46779.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | CB24 (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46780.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | CDF Estadio HD (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46781.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | CDF HD OPC 2 (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46783.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Chilevision FHD (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46784.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Chilevision HD (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46785.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | City TV (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46786.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | CNC Medellin (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46787.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | CNN Chile (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46788.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Cosmovision (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46789.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | CTV Barranquilla HD (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46790.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | CUBAMAX (CUBA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46791.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | CUBAVISION (CUBA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46792.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | El Tiempo (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46793.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Emol TV (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46794.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Extrema TV (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46795.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Guapiles TV (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46796.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | La Red HD (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46797.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Mega FHD (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46798.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Mega HD (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46799.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Multimedios (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46800.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | NTN24 (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46801.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Radio Caracol (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46802.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | RCN FHD (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46803.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | RCN HD (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46804.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | RCN HD OPC 2 (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46805.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | RCN SD (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46806.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Repretel 11 (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46807.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Repretel 11 HD (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46808.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Repretel 4 (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46809.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Repretel 6 (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46810.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Repretel 6 HD (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46811.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Senal Colombia HD (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46812.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | T13 Noticias (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46813.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | TD 2 HD (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46814.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | TD HD (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46815.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Tele Red Alajuela TV (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46816.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | TeleAntoquia (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46817.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | TeleCafe (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46818.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Telecaribe HD (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46819.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | TeleEnvigado (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46820.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | TELEMARTI (CUBA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46821.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | TeleMedellin (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46822.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | TelePacifico HD (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46823.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Telered (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46824.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Teletica 7 (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46825.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Teletica HD (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46826.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Teletrack chile (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46827.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | TELETRACK OPC 2 (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46828.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Teleuno (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46829.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | TICAVISION (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46830.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | Tigo Sports C.R HD (Costa Rica)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46831.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | TVN (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46832.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | TVN Culto (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46833.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | VTV Chile (CHILE)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46834.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | WinSports FHD (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46835.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | WinSports FHD* (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46836.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | WinSports HD (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46837.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | CANAL 10 (EL SALVADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46838.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | CANAL 12 (EL SALVADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46839.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | CANAL 19 (EL SALVADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46840.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | CANAL 2 (EL SALVADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46841.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | CANAL 21 (EL SALVADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46842.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | CANAL 24 WOW TV (EL SALVADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46843.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | CANAL 4 (EL SALVADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46844.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | CANAL 6 (EL SALVADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46845.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Canal del Futbol FHD ( Solo Eventos ) (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46846.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Canal Uno FHD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46847.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Canal Uno HD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46848.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Canal Uno SD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46849.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Canela TV SD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46850.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | DIRECTV SPORTS FHD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46851.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | DIRECTV SPORTS HD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46852.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | DIRECTV SPORTS SD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46853.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Ecuador TV FHD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46854.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Ecuador TV HD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46855.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Ecuador TV SD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46856.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Ecuavisa FHD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46857.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Ecuavisa HD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46858.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Ecuavisa SD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46859.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Ecuavisa Sierra (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46860.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Gamavision FHD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46861.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Gamavision HD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46862.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Gamavision SD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46863.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | GOL TV HD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46864.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Gol TV SD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46865.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | GOLTV ECUADOR HD
+http://kstv.xyz:8080/live/Admluda192/0046096196/46866.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Oromar TV FHD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46867.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Oromar TV HD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46868.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | RTS FHD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46869.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | RTS HD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46870.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | RTS SD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46871.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | TC Television FHD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46872.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | TC Television HD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46873.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | TC Television SD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46874.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Teleamazonas FHD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46875.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Teleamazonas FHD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46876.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Teleamazonas HD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46877.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | Teleamazonas Sierra (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46878.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | TELEDOS (EL SALVADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46879.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | TVC FHD (ECUADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46880.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-E | VTV CANAL 35 (EL SALVADOR)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46881.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-G | CANAL 11 (GUATEMALA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46882.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-G | CANAL 13 (GUATEMALA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46883.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-G | CANAL ANTIGUA (GUATEMALA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46884.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-G | GUATEVISION (GUATEMALA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46885.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | 45 TV (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46886.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | Azteca Honduras (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46887.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | CANAL 10 HD (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46888.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | CANAL 11 HD (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46889.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | CANAL 5 HD (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46890.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | CANAL 6 HD (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46891.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | D TELEVISION (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46892.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | EBENEZER (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46893.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | HCH TV (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46894.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | HONDURED TV (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46895.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | MAYA TV (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46896.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | MEGA TV HD (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46897.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | SITV (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46898.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | Sulavisi\u00f3n (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46899.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | TELECADENA HD (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46900.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | Telecadena SD (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46901.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | Teleceiba (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46902.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | TELEPROGRESO (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46903.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | Telesistema HD (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46904.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | Telesistema SD (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46905.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | TIGO SPORTS (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46906.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | TNH (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46907.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | TSI HD (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46908.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | UNE TV (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46909.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-H | VICA TV (HONDURAS)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46910.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | BABY TV FHD (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46911.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | BOOMERANG (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46912.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | Boomerang HD (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46913.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | CARTOON NETWORK HD (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46914.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | DISCOVERY KIDS HD (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46915.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | DISNEY CHANNEL HD (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46916.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | DISNEY JR (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46917.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | DISNEY JR HD (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46918.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | Disney XD (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46919.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | DISNEY XD HD (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46920.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | NAT GEO KIDS (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46921.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | NAT GEO KIDS HD (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46922.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | NICK (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46923.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | NICK 2 HD (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46924.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | NICK JR (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46925.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | NICKELODEON HD (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46926.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I | TOONCAST (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46927.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-I |\u00a0Cartoon Network (INFANTILES)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46928.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | ADN40 HD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46929.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | ADN40 HD OPC 2 (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46930.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | AZ CLIC HD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46931.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | AZ CORAZON (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46932.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | AZ MUNDO (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46933.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | AZTECA 7 FHD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46934.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | AZTECA 7 HD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46935.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | AZTECA UNO FHD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46936.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | AZTECA UNO HD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46937.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | CANAL  4 (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46938.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | CANAL  5 (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46939.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | CANAL  7 (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46940.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | CANAL 26 FHD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46941.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | CANAL 5 HD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46942.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | CANAL 5 HD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46943.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | CANAL NU9VE (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46944.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | CANAL ONCE (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46945.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | CNN EN ESPANOL (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46946.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | Distrito Comedia (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46947.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | FORO TV FHD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46948.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | FORO TV HD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46949.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | FORO TV HD OPC 2 (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46950.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | GALAVISION HD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46951.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | HOLA TV SD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46952.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | IMAGEN (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46953.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | INGENIO TV SD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46954.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | ITV SD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46955.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | LAS ESTRELLAS (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46956.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | LAS ESTRELLAS HD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46957.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | LAS ESTRELLAS SD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46958.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | MEXIQUENSE (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46959.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | MILENIO TV (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46960.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | MULTIMEDIOS (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46961.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | MULTIMEDIOS PLUS HD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46962.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | SAT SD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46963.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | TELEHIT SD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46964.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | TELEVISA PUEBLA (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46965.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-M | VH1 CLASSIC SD (MEXICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46966.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-N | Canal 10 (Nicaragua)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46967.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-N | Canal 11 (Nicaragua)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46968.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-N | Canal 12 (Nicaragua)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46969.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-N | Canal 13 (Nicaragua)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46970.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-N | Canal 2 (Nicaragua)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46971.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-N | Canal 21 (Nicaragua)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46972.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-N | Canal 23 (Nicaragua)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46973.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-N | Canal 4 (Nicaragua)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46974.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-N | Canal 6 (Nicaragua)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46975.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-N | Canal 8 (Nicaragua)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46976.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-N | Canal 9 (Nicaragua)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46977.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-N | Difuso 22 (Nicaragua)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46978.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | America TV  HD (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46979.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | America TV FHD (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46980.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | America TV FHD OPC 2 (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46981.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Antares TV SD (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46982.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | ATV  FHD (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46983.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | ATV (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46984.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | C9N (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46985.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | CANAL 13 (PANAMA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46986.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | CANAL 2 (PANAMA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46987.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | CANAL 4 (PANAMA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46988.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | CANAL N SD (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46989.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Cultura 24 TV (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46992.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | EXITOSA TV SD (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46993.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Farra Play (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46994.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Gol Peru FHD (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46995.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Gol Peru HD (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46996.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Gol Peru SD (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46997.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Hei Paraguay (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46998.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | HOSSANA VISION (PANAMA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/46999.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | IPE (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47000.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | La Tele (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47001.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Latina FHD  (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47002.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Latina HD (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47003.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Lobo Station (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47004.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Mall TV (PANAMA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47005.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | MAS TV 23 (PANAMA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47006.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Mega Tv (PUERTO RICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47007.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | MOVISTAR DEPORTES (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47008.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Movistar Deportes FHD (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47009.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Movistar Plus (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47010.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Noticias (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47011.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Oye TV (PANAMA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47012.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | PANAMERICANA (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47013.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Paraguay TV (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47014.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Paravision (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47015.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Peru Magico FHD (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47016.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Peru Noticias (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47017.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Punto 2 TV (PUERTO RICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47019.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Radio Venus (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47020.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Red Guarani (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47021.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | RPC (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47022.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | RPC 4 HD (PANAMA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47023.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | SER TV (PANAMA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47024.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | SNT (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47025.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Sur TV (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47026.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Telefuturo (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47027.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | TELEMETRO 13 (PANAMA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47028.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Telemundo (PUERTO RICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47029.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Tigo Sports (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47031.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | TIGO SPORTS (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47032.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Tigo Sports Plus (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47033.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | TV MAX 9 (PANAMA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47034.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | TVN HD (PANAMA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47035.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | TVPERU (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47036.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Unicanal (PARAGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47037.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Univision (PUERTO RICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47038.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Univision (PUERTO RICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47039.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Wapa (PUERTO RICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47040.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Wapa 2 (PUERTO RICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47041.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Willax (PERU)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47042.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-P | Wipr Canal 6 (PUERTO RICO)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47043.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | AV (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47046.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | Canal 10 HD (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47047.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | Canal 10 SD (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47048.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | Canal 12 HD (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47050.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | Canal 12 Melo (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47051.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | Canal 4 (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47054.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | Canal 4 HD (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47055.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | Canal 4 Paysandu (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47056.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | Canal 4 Salto (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47057.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | Canal U (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47062.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | Canal-M (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47063.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | Teledoce HD (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47073.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | TV Ciudad (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47074.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | TV Ciudad (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47075.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | VERA HD (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47077.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | VTV HD (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47078.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | VTV HD (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47079.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | VTV Plus HD (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47080.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-U | VTV SD (URUGUAY)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47081.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-V | ANTV (Venezuela)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47082.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-V | Canal I (Venezuela)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47083.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-V | TV ConCiencia (Venezuela)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47084.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-V | Vale TV (Venezuela)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47085.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-V | Venevision (Venezuela)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47086.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-V | Vive Television (Venezuela)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47087.m3u8
+#EXTINF:-1  group-title="Lista 36",LAT-C | RCN Internacional (COLOMBIA)
+http://kstv.xyz:8080/live/Admluda192/0046096196/47550
 
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",USA Network
