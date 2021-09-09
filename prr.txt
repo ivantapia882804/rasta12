@@ -756,11 +756,11 @@ https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
 #EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="Canal 22.2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="LOCALES",Canal 22.2
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 #EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso 45.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.1
-https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores3.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados3.smil/chunklist_b500000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.2
-https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados4.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados4.smil/chunklist_b500000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.3
-https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
 #EXTINF:-1 tvg-id="QuieroTv.mx" tvg-name="Quiero TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ochotv.png" group-title="REGIONALES 2",Quiero TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 #EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 MTY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES 2",Canal 6 MTY
@@ -822,7 +822,7 @@ https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist
 #EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INFORMACIÓN",RT (Español)
 https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-id="TeleSur.co" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sur.png" group-title="INFORMACIÓN",Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/audio/playlist.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS" tvg-logo="/logos/tntsports.png" group-title="Lista 16",TNT SPORTS
