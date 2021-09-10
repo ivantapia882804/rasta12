@@ -43,8 +43,6 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8
 #EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcuni.png" group-title="RECOMENDADOS",Universo
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8
-#EXTINF:-1 tvg-id="Canal4Nacional.sv" tvg-name="Canal 4 TCS" tvg-logo="" group-title="RECOMENDADOS",Canal 4 TCS
-http://qqtv.nl:8080/Bradley1/Bradley123/148605
 
 
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno (HD)
@@ -347,7 +345,7 @@ https://blackghost.live/play/totalp1-933.php?c=213&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-933.php?c=214&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="Nickmusic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nickm.png" group-title="MÚSICA",Nickmusic
 https://blackghost.live/play/totalp1-933.php?c=1708&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="MTV00s.br" tvg-name="MTV 00s" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="MÚSICA",MTV 00s
+#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="MÚSICA",MTV 00s
 https://blackghost.live/play/totalp1-933.php?c=217&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-name="Telehit Música" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rms.png" group-title="MÚSICA",Telehit Música
 https://blackghost.live/play/totalp1-933.php?c=218&p=3&k=black&f=.m3u8
@@ -357,7 +355,7 @@ https://blackghost.live/play/totalp1-933.php?c=220&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-933.php?c=221&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Clic.mx" tvg-name="Clic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="MÚSICA",Clic
 https://blackghost.live/play/totalp1-933.php?c=223&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="MTV00s.br" tvg-name="MTV 00s (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="MÚSICA",MTV 00s (HD)
+#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="MÚSICA",MTV 00s (HD)
 https://blackghost.live/play/totalp1-933.php?c=334&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="CNN(English).mx" tvg-name="CNN International (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnn.png" group-title="INFORMACIÓN",CNN International (HD)
 https://blackghost.live/play/totalp1-933.php?c=185&p=3&k=black&f=.m3u8
@@ -525,7 +523,7 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/302/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/463/12?f=.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/comedyc.png" group-title="ENTRETENCIÓN",Comedy Central
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/231/12?f=.m3u8
-#EXTINF:-1 tvg-id="MTV00s.br" tvg-name="MTV 00s" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="MÚSICA",MTV 00s
+#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="MÚSICA",MTV 00s
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/303/12?f=.m3u8
 #EXTINF:-1 tvg-id="EXATV.mx" tvg-name="Exa TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/exa.png" group-title="MÚSICA",Exa TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/460/12?f=.m3u8
@@ -537,7 +535,7 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/401/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/306/12?f=.m3u8
 #EXTINF:-1 tvg-id="VideoRola.mx" tvg-name="VideoRola" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vrola.png" group-title="MÚSICA",VideoRola
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/461/12?f=.m3u8
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="MÚSICA",Teleritmo
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.jpg" group-title="MÚSICA",Teleritmo
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97866/12?f=.m3u8
 #EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="Nat Geo Kids" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngk.png" group-title="KIDS",Nat Geo Kids
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94121/12?f=.m3u8
@@ -779,7 +777,7 @@ http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
 http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 8 SJCR" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c8cr.png" group-title="REGIONALES 2",Canal 8 SJCR
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="MÚSICA",Teleritmo
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.jpg" group-title="MÚSICA",Teleritmo
 http://mdstrm.com/live-stream-playlist_800/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="REGIONALES",Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
@@ -792,7 +790,7 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal44(XHUDGTDT).mx" tvg-name="Canal 44" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/udg44.png" group-title="REGIONALES 2",Canal 44
 https://stream-04.sv4.dailymotion.com/sec(z78NI1m0neFnRd2EIIVngJPQxxTGnhD-_FBB9cQXQBc)/dm/3/x3m1xfy/s/live-3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 44 Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/udgnot.png" group-title="REGIONALES 2",Canal 44 Noticias
-https://stream-04.sv4.dailymotion.com/sec(B_XzEw6KFrYpQxnvKcvKVDeq7D2UPwCskslSLjTuMZw)/dm/3/x6km0ku/s/live-3.m3u8
+https://stream-02.sv4.dailymotion.com/sec(B_XzEw6KFrYpQxnvKcvKVJ5KvfgsAPuFQ0V9r5ek5aI)/dm/3/x6km0ku/s/live-3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 28 NL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/28nl.png" group-title="REGIONALES 2",Canal 28 NL
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET 26.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/set.png" group-title="REGIONALES 2",SET 26.1
