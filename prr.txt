@@ -39,6 +39,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="RECOMENDADOS",ESPN Deportes USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
+#EXTINF:-1 tvg-id="Canal4Nacional.sv" tvg-name="Canal 4 TCS" tvg-logo=" group-title="RECOMENDADOS",Canal 4 TCS
+http://qqtv.nl:8080/Bradley1/Bradley123/148605
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN (ARG)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="RECOMENDADOS",ESPN (ARG)
 http://45.235.37.254:8600/play/a0cs
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN (COL)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="RECOMENDADOS",ESPN (COL)
