@@ -51,6 +51,26 @@ http://45.235.37.254:8600/play/a0cs
 http://45.235.37.254:8600/play/a08a
 #EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN2 (COL)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="RECOMENDADOS",ESPN2 (COL)
 http://177.126.50.94:8000/play/a010/index.m3u8
+#EXTINF:-1  group-title="RECOMENDADOS",TUDNXTRA 1
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041089.m3u8
+#EXTINF:-1  group-title="RECOMENDADOS",TUDNXTRA 2
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041092.m3u8
+#EXTINF:-1  group-title="RECOMENDADOS",TUDNXTRA 3
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041093.m3u8
+#EXTINF:-1  group-title="RECOMENDADOS",TUDNXTRA 4
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041094.m3u8
+#EXTINF:-1  group-title="RECOMENDADOS",TUDNXTRA 5
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041095.m3u8
+#EXTINF:-1  group-title="RECOMENDADOS",TUDNXTRA 6
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041096.m3u8
+#EXTINF:-1  group-title="RECOMENDADOS",TUDNXTRA 7
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041097.m3u8
+#EXTINF:-1  group-title="RECOMENDADOS",TUDNXTRA 8
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041098.m3u8
+#EXTINF:-1  group-title="RECOMENDADOS",TUDNXTRA 9
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041099.m3u8
+#EXTINF:-1  group-title="RECOMENDADOS",TUDNXTRA 10
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041090.m3u8
 
 
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno (HD)
@@ -3198,6 +3218,344 @@ http://blackghost.live/play/mitv-911.php?id=natgeo&f=.m3u8
 http://blackghost.live/play/mitv-911.php?id=natgeowild&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/tlc-discovery_thumb_7dgud1ly.png" group-title="Lista 22",TLC Discovery
 http://blackghost.live/play/mitv-911.php?id=tlc&f=.m3u8
+
+
+#EXTINF:-1  group-title="Lista 23",Telefe
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1059380.m3u8
+#EXTINF:-1  group-title="Lista 23",TR3S
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1059392.m3u8
+#EXTINF:-1  group-title="Lista 23",Univision Network
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1059417.m3u8
+#EXTINF:-1  group-title="Lista 23",TeleNi\u00f1os
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1073981.m3u8
+#EXTINF:-1  group-title="Lista 23",Univision Canada 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1073990.m3u8
+#EXTINF:-1  group-title="Lista 23",24H
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041139.m3u8
+#EXTINF:-1  group-title="Lista 23",ANTENA 3
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041136.m3u8
+#EXTINF:-1  group-title="Lista 23",ANTENA 3 INTERNACIONAL
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041137.m3u8
+#EXTINF:-1  group-title="Lista 23",ATRESERIES
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041138.m3u8
+#EXTINF:-1  group-title="Lista 23",BabyTV Espa\u00f1ol
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074114.m3u8
+#EXTINF:-1  group-title="Lista 23",BaNDAMAX
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041134.m3u8
+#EXTINF:-1  group-title="Lista 23",BENFICA TV
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041135.m3u8
+#EXTINF:-1  group-title="Lista 23",CINE SONY
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1000361.m3u8
+#EXTINF:-1  group-title="Lista 23",CNN EN ESPANOL
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041132.m3u8
+#EXTINF:-1  group-title="Lista 23",DE PELICULA
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041130.m3u8
+#EXTINF:-1  group-title="Lista 23",DE PELICULA CLASICO
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041131.m3u8
+#EXTINF:-1  group-title="Lista 23",DISCOVERY EN ESPANOL
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041128.m3u8
+#EXTINF:-1  group-title="Lista 23",DISCOVERY FAMILIA
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041129.m3u8
+#EXTINF:-1  group-title="Lista 23",EL GOURMET
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041127.m3u8
+#EXTINF:-1  group-title="Lista 23",FOROtv
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1059261.m3u8
+#EXTINF:-1  group-title="Lista 23",FOX LIFE
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1000385.m3u8
+#EXTINF:-1  group-title="Lista 23",GALAVISION
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041126.m3u8
+#EXTINF:-1  group-title="Lista 23",LA 1
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041121.m3u8
+#EXTINF:-1  group-title="Lista 23",LA 1 CATALUNYA
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041122.m3u8
+#EXTINF:-1  group-title="Lista 23",LA 2
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041123.m3u8
+#EXTINF:-1  group-title="Lista 23",LA SEXTA
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041124.m3u8
+#EXTINF:-1  group-title="Lista 23",MAS CHIC
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041120.m3u8
+#EXTINF:-1  group-title="Lista 23",MEGA
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041119.m3u8
+#EXTINF:-1  group-title="Lista 23",NBC UNIVERSO (EAST)
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041117.m3u8
+#EXTINF:-1  group-title="Lista 23",NBC UNIVERSO (WEST)
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041118.m3u8
+#EXTINF:-1  group-title="Lista 23",NEOX
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1059327.m3u8
+#EXTINF:-1  group-title="Lista 23",NUESTRA TELE
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041115.m3u8
+#EXTINF:-1  group-title="Lista 23",NUESTRA TELE NOTICIAS 24
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041116.m3u8
+#EXTINF:-1  group-title="Lista 23",PARAMOUNT NETWORK ES
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041114.m3u8
+#EXTINF:-1  group-title="Lista 23",RTP INTERNACIONAL
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041112.m3u8
+#EXTINF:-1  group-title="Lista 23",TELEHIT
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041109.m3u8
+#EXTINF:-1  group-title="Lista 23",TELEMUNDO (EAST)
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041100.m3u8
+#EXTINF:-1  group-title="Lista 23",TELEMUNDO (WEST)
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041101.m3u8
+#EXTINF:-1  group-title="Lista 23",UNIMAS
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041103.m3u8
+#EXTINF:-1  group-title="Lista 23",UNIVISION TLNOVELAS
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041104.m3u8
+#EXTINF:-1  group-title="Lista 23",HBO Latino
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170874.m3u8
+#EXTINF:-1  group-title="Lista 23",NOVA
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1002549.m3u8
+#EXTINF:-1  group-title="Lista 23",STARZ ENCORE ESPA\u00d1OL
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1071158.m3u8
+#EXTINF:-1  group-title="Lista 23",\u00a1HOLA! TV
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074105.m3u8
+#EXTINF:-1  group-title="Lista 23",AZ Coraz\u00f3n
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074111.m3u8
+#EXTINF:-1  group-title="Lista 23",Azteca
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074112.m3u8
+#EXTINF:-1  group-title="Lista 23",BabyTV Espa\u00f1ol
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074115.m3u8
+#EXTINF:-1  group-title="Lista 23",Canal Once
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074123.m3u8
+#EXTINF:-1  group-title="Lista 23",Caracol TV Internacional
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074125.m3u8
+#EXTINF:-1  group-title="Lista 23",Centroamerica TV
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074130.m3u8
+#EXTINF:-1  group-title="Lista 23",Cinelatino
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074132.m3u8
+#EXTINF:-1  group-title="Lista 23",Ecuavisa Internacional
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074136.m3u8
+#EXTINF:-1  group-title="Lista 23",Estrella TV
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074141.m3u8
+#EXTINF:-1  group-title="Lista 23",History en Espa\u00f1ol
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074146.m3u8
+#EXTINF:-1  group-title="Lista 23",Multimedios Televisi\u00f3n
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074154.m3u8
+#EXTINF:-1  group-title="Lista 23",Nat Geo Mundo
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074155.m3u8
+#EXTINF:-1  group-title="Lista 23",NTN24
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074156.m3u8
+#EXTINF:-1  group-title="Lista 23",Pasiones
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074158.m3u8
+#EXTINF:-1  group-title="Lista 23",Telemicro Internacional
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074171.m3u8
+#EXTINF:-1  group-title="Lista 23",Teleuniverso
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074173.m3u8
+#EXTINF:-1  group-title="Lista 23",UNIVERSO
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074183.m3u8
+#EXTINF:-1  group-title="Lista 23",Video Rola
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074184.m3u8
+#EXTINF:-1  group-title="Lista 23",WAPA America
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074187.m3u8
+#EXTINF:-1  group-title="Lista 23",GLOBO INTERNATIONAL
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1155585.m3u8
+#EXTINF:-1  group-title="Lista 23",Sportowa TV
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1166487.m3u8
+#EXTINF:-1  group-title="Lista 23",Canal 22 Internacional
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179087.m3u8
+#EXTINF:-1  group-title="Lista 23",Cine Estelar
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179088.m3u8
+#EXTINF:-1  group-title="Lista 23",Cine Mexicano
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179089.m3u8
+#EXTINF:-1  group-title="Lista 23",Cine Nostalgia
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179090.m3u8
+#EXTINF:-1  group-title="Lista 23",Ecuador TV
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179091.m3u8
+#EXTINF:-1  group-title="Lista 23",Enlace
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179092.m3u8
+#EXTINF:-1  group-title="Lista 23",HITN
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179093.m3u8
+#EXTINF:-1  group-title="Lista 23",Peru Magico
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179094.m3u8
+#EXTINF:-1  group-title="Lista 23",SUR Peru
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179095.m3u8
+#EXTINF:-1  group-title="Lista 23",TV Chile
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179096.m3u8
+#EXTINF:-1  group-title="Lista 23",TVE
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179097.m3u8
+#EXTINF:-1  group-title="Lista 23",V-Me
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179098.m3u8
+#EXTINF:-1  group-title="Lista 23",VePlus
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179099.m3u8
+#EXTINF:-1  group-title="Lista 23",ViendoMovies
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179100.m3u8
+#EXTINF:-1  group-title="Lista 23",ZooMoo
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179101.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Aruba - TELEARUBA
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179143.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Cine Accion HD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179166.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Cine Comedia 1
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179169.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Cine Comedia 2
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179170.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: CINE DINAMITA
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179171.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Cine Ficcion\/Fantasia 1
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179172.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Cine Infantil Sagas
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179173.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Cine Marvel HD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179174.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: CINEMA DINAMITA
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179175.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: CLARO CINEMA
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179176.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: FOX PREMIUM Series 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179213.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Fox Premium Series Subtitulado
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179214.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Fx Movie Mex 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179215.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: GLITZ HD 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179216.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Golden 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179217.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Guatemala - Canal 7 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179221.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Guatemala - Guatevision 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179224.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: HTV
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179226.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: I-SAT
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179227.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: LAS ESTRELLAS
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179228.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Las Estrellas Europa 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179229.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: M Channel
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179230.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: MASCHIC
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179231.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: MTV Latino
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179232.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: MTV Latino Hits
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179233.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: NAT GEO Kids Mex
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179234.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: NOS PAIS HD (Curacao)
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179235.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: PAN RPC 4
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179236.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: PAN SER TV CANAL 11
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179237.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: PAN TELEMETRO 13
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179238.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: PAN TV MAX 9
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179239.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: PAN TVN 2
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179240.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: PANAMA - MAS TV 23
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179241.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Panama - NEXT TV 21
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179242.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: PANAMA - TELEMETRO 13
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179243.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: PANAMA NET TV
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179244.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Panamericana
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179245.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: RD Telefuturo
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179246.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: RECORD TV AMERICAS
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179247.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: REPRETEL 4
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179248.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Repretel 6
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179249.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: REPRETEL 11
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179250.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Ritmoson 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179251.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: RTU
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179252.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: SAL CANAL 2 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179254.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Space HD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179256.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: STUDIO UNIVERSAL 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179258.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Telecaribe HD 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179264.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: TELEFE HD 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179265.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Telemicro 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179266.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Teletica 7
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179267.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Teleunion
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179268.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: TV CANAL 11 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179272.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: TV Direct 13
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179273.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: TV MAS 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179274.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: TV MAX 9
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179275.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: TVG
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179278.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: TVN 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179279.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Unicable 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179280.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Univision TDN 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179282.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: Univision Telenovelas HD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179283.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: UR La Red 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179284.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: VENEVISION PLUS 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179285.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: VH1 Latino 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179286.m3u8
+#EXTINF:-1  group-title="Lista 23",LA: A3Cine
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179949.m3u8
+#EXTINF:-1  group-title="Lista 23",Mexicanal
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2180807
+#EXTINF:-1  group-title="Lista 23",Barca TV
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1059204.m3u8
+#EXTINF:-1  group-title="Lista 23",BEIN SPORTS EN ESPANOL
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041107.m3u8
+#EXTINF:-1  group-title="Lista 23",US-S: ESPN Deportes
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074139.m3u8
+#EXTINF:-1  group-title="Lista 23",TELEDEPORTE
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041108.m3u8
+#EXTINF:-1  group-title="Lista 23",TUDN
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041088.m3u8
+#EXTINF:-1  group-title="Lista 23",TUDNXTRA 1
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041089.m3u8
+#EXTINF:-1  group-title="Lista 23",TUDNXTRA 10
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041090.m3u8
+#EXTINF:-1  group-title="Lista 23",TUDNXTRA 2
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041092.m3u8
+#EXTINF:-1  group-title="Lista 23",TUDNXTRA 3
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041093.m3u8
+#EXTINF:-1  group-title="Lista 23",TUDNXTRA 4
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041094.m3u8
+#EXTINF:-1  group-title="Lista 23",TUDNXTRA 5
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041095.m3u8
+#EXTINF:-1  group-title="Lista 23",TUDNXTRA 6
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041096.m3u8
+#EXTINF:-1  group-title="Lista 23",TUDNXTRA 7
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041097.m3u8
+#EXTINF:-1  group-title="Lista 23",TUDNXTRA 8
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041098.m3u8
+#EXTINF:-1  group-title="Lista 23",TUDNXTRA 9
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041099.m3u8
+#EXTINF:-1  group-title="Lista 23",TYC SPORTS
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041102.m3u8
+#EXTINF:-1  group-title="Lista 23",ZONA FUTBOL
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1041105.m3u8
+#EXTINF:-1  group-title="Lista 23",beIN SPORTS CONNECT LaLiga
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074117.m3u8
+#EXTINF:-1  group-title="Lista 23",beIN SPORTS CONNECT LaLiga
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074118.m3u8
+#EXTINF:-1  group-title="Lista 23",beIN SPORTS en Espa\u00f1ol
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074119.m3u8
+#EXTINF:-1  group-title="Lista 23",beIN SPORTS en Espa\u00f1ol
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1074121.m3u8
+#EXTINF:-1  group-title="Lista 23",MX: FOX SPORTS 1
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1171008
 
 
 #EXTINF:-1  group-title="Lista 31", TLN CANADA ES
