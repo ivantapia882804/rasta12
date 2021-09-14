@@ -34,9 +34,13 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Pacific)(Spanish).us" tvg-name="Univisión Pac" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión Pac
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN USA
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
+http://xgtv.club:8080/play/6H2kdIejLUkHALMBPZG-BD1vVSkj5GXqmRweAs1QTMaUSwcrqu2pOj2Bjop9TlhK/ts
 #EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="RECOMENDADOS",UniMas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
+#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="RECOMENDADOS",Galavisión
+http://xgtv.club:8080/play/6H2kdIejLUkHALMBPZG-BD1vVSkj5GXqmRweAs1QTMZ5xB7czDclwaZYQEM7zB3H/ts
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="RECOMENDADOS",CBS Sports Network
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4310/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="RECOMENDADOS",ESPN Deportes USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
 #EXTINF:-1 tvg-id="Canal4Nacional.sv" tvg-name="Canal 4 TCS" tvg-logo=" group-title="RECOMENDADOS",Canal 4 TCS
