@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD)
 https://blackghost.live/play/totalp1-950.php?c=7&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas (HD)
@@ -28,13 +29,13 @@ https://blackghost.live/play/totalp1-950.php?c=2564&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-950.php?c=126&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="RECOMENDADOS",Cinemax
 https://blackghost.live/play/totalp1-950.php?c=158&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
-#EXTINF:-1 tvg-id="UnivisionNetwork(Pacific)(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión Pac
+#EXTINF:-1 tvg-id="UnivisionNetwork(Pacific)(Spanish).us" tvg-name="Univisión Pac" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión Pac
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
-#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="RECOMENDADOS",UniMas
+#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="RECOMENDADOS",UniMas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
-#EXTINF:-1 tvg-id="TUDN(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN USA
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
 #EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="RECOMENDADOS",Galavisión
 http://qqtv.nl:8080/Bradley1/Bradley123/51872
@@ -4456,4 +4457,242 @@ http://qqtv.nl:8080/Bradley1/Bradley123/20409
 #EXTINF:-1  group-title="Lista 31",ARG: TELEMUNDO
 http://qqtv.nl:8080/Bradley1/Bradley123/20220
 #EXTINF:-1  group-title="Lista 31",ARG: CANAL 13
-http://qqtv.nl:8080/Bradle
+http://qqtv.nl:8080/Bradley1/Bradley123/20099
+#EXTINF:-1  group-title="Lista 31",ARG: CANAL 26 HD
+http://qqtv.nl:8080/Bradley1/Bradley123/20151
+#EXTINF:-1  group-title="Lista 31",ARG: TNT HD
+http://qqtv.nl:8080/Bradley1/Bradley123/20150
+#EXTINF:-1  group-title="Lista 31",ARG: TN HD
+http://qqtv.nl:8080/Bradley1/Bradley123/20070
+#EXTINF:-1  group-title="Lista 31",ARG: TELEFE
+http://qqtv.nl:8080/Bradley1/Bradley123/20199
+#EXTINF:-1  group-title="Lista 31",ARG: TELEMAX
+http://qqtv.nl:8080/Bradley1/Bradley123/20415
+#EXTINF:-1  group-title="Lista 31",ARG: TIERRAMIA TV
+http://qqtv.nl:8080/Bradley1/Bradley123/20176
+#EXTINF:-1  group-title="Lista 31",ARG:  EL TRECE EN
+http://qqtv.nl:8080/Bradley1/Bradley123/20253
+#EXTINF:-1  group-title="Lista 31",ARG: TV PUBLICA
+http://qqtv.nl:8080/Bradley1/Bradley123/20092
+#EXTINF:-1  group-title="Lista 31",***** URUGUAY  *****
+http://qqtv.nl:8080/Bradley1/Bradley123/87109
+#EXTINF:-1  group-title="Lista 31",URUG: VTV + Uruguay
+http://qqtv.nl:8080/Bradley1/Bradley123/87102
+#EXTINF:-1  group-title="Lista 31",URUG: TV NACIONAL URUGUAYA
+http://qqtv.nl:8080/Bradley1/Bradley123/87107
+#EXTINF:-1  group-title="Lista 31",URUG: CANAL 5 Uruguay
+http://qqtv.nl:8080/Bradley1/Bradley123/87106
+#EXTINF:-1  group-title="Lista 31",URUG: CANAL 6 Uruguay
+http://qqtv.nl:8080/Bradley1/Bradley123/87105
+#EXTINF:-1  group-title="Lista 31",URUG: CANAL 7 Uruguay
+http://qqtv.nl:8080/Bradley1/Bradley123/87104
+#EXTINF:-1  group-title="Lista 31",URUG: CANAL 8 Uruguay
+http://qqtv.nl:8080/Bradley1/Bradley123/87103
+#EXTINF:-1  group-title="Lista 31",URUG: CANAL N Uruguay
+http://qqtv.nl:8080/Bradley1/Bradley123/87108
+
+
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",USA Network
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4248/12?f=.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/comedyc.png" group-title="SOLO PARA ROKOOS ANGLO",Comedy Central
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4300/12?f=.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png" group-title="SOLO PARA ROKOOS ANGLO",Lifetime
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4285/12?f=.m3u8
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="LMN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",LMN
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4286/12?f=.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/food.png" group-title="SOLO PARA ROKOOS ANGLO",Food Network
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4279/12?f=.m3u8
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/civil.png" group-title="SOLO PARA ROKOOS ANGLO",HGTV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4278/12?f=.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Cooking Channel
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94083/12?f=.m3u8
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/eent.png" group-title="SOLO PARA ROKOOS ANGLO",E!
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4289/12?f=.m3u8
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="SOLO PARA ROKOOS ANGLO",A&E
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4237/12?f=.m3u8
+#EXTINF:-1 tvg-id="FYI.us" tvg-name="FYI" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",FYI
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4260/12?f=.m3u8
+#EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="SOLO PARA ROKOOS ANGLO",History
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4306/12?f=.m3u8
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Vice
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4339/12?f=.m3u8
+#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png" group-title="SOLO PARA ROKOOS ANGLO",SYFY
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4249/12?f=.m3u8
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET Networks" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",BET Networks
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94097/12?f=.m3u8
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",FXX
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4334/12?f=.m3u8
+#EXTINF:-1 tvg-id="WEtv.us" tvg-name="WE TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",WE TV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4375/12?f=.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amc.png" group-title="SOLO PARA ROKOOS ANGLO",AMC
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4235/12?f=.m3u8
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="SOLO PARA ROKOOS ANGLO",FX
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4290/12?f=.m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="SOLO PARA ROKOOS ANGLO",TNT
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4238/12?f=.m3u8
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="SOLO PARA ROKOOS ANGLO",TBS
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4314/12?f=.m3u8
+#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="SOLO PARA ROKOOS ANGLO",Galavisión
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
+#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcuni.png" group-title="SOLO PARA ROKOOS ANGLO",Universo
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8
+#EXTINF:-1 tvg-id="PasionesTV(Spanish).us" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/pasin.png" group-title="SOLO PARA ROKOOS ANGLO",Pasiones
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94104/12?f=.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="SOLO PARA ROKOOS ANGLO",ESPN
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4242/12?f=.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",ESPN U
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4345/12?f=.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="SOLO PARA ROKOOS ANGLO",ESPN 2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4243/12?f=.m3u8
+#EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="Motor Trend" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Motor Trend
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94106/12?f=.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",FS1
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94096/12?f=.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FS2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",FS2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97864/12?f=.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",CBS Sports Network
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4310/12?f=.m3u8
+#EXTINF:-1 tvg-id="NBCSN.us" tvg-name="NBCSN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcsp.png" group-title="SOLO PARA ROKOOS ANGLO",NBCSN
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94093/12?f=.m3u8
+#EXTINF:-1 tvg-id="TheSportsmanChannel.us" tvg-name="Sportsman Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Sportsman Channel
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4298/12?f=.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Outdoor Channel
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4407/12?f=.m3u8
+#EXTINF:-1 tvg-id="TheCowboyChannel.us" tvg-name="The Cowboy Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",The Cowboy Channel
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97933/12?f=.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Tennis Channel
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94108/12?f=.m3u8
+#EXTINF:-1 tvg-id="TheGolfChannel.us" tvg-name="Golf Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/golf.png" group-title="SOLO PARA ROKOOS ANGLO",Golf Channel
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4288/12?f=.m3u8
+#EXTINF:-1 tvg-id="GOLTV(Spanish).us" tvg-name="GolTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gol.png" group-title="SOLO PARA ROKOOS ANGLO",GolTV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/90366/12?f=.m3u8
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SOLO PARA ROKOOS ANGLO",Bein Ñ
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4388/12?f=.m3u8
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="Bein Ñ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SOLO PARA ROKOOS ANGLO",Bein Ñ
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="Bein Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Bein Sports
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97912/12?f=.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",MLB Network
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97839/12?f=.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",NBA TV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97840/12?f=.m3u8
+#EXTINF:-1 tvg-id="NFLNETWORK.us" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",NFL Network
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/574/12?f=.m3u8
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="SOLO PARA ROKOOS ANGLO",TUDN USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
+#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="SOLO PARA ROKOOS ANGLO",ESPN Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="SOLO PARA ROKOOS ANGLO",MTV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4299/12?f=.m3u8
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="SOLO PARA ROKOOS ANGLO",VH1
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4322/12?f=.m3u8
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",CMT
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4308/12?f=.m3u8
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXSTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",AXSTV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4240/12?f=.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nick" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png" group-title="SOLO PARA ROKOOS ANGLO",Nick
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/89973/12?f=.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="SOLO PARA ROKOOS ANGLO",Disney Channel
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4366/12?f=.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="SOLO PARA ROKOOS ANGLO",Cartoon Network
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4280/12?f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Discovery Family
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4309/12?f=.m3u8
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Freeform
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4367/12?f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="SOLO PARA ROKOOS ANGLO",Discovery
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4302/12?f=.m3u8
+#EXTINF:-1 tvg-id="TheLearningChannel.us" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg" group-title="SOLO PARA ROKOOS ANGLO",TLC
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4303/12?f=.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="SOLO PARA ROKOOS ANGLO",Animal Planet
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4304/12?f=.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="SOLO PARA ROKOOS ANGLO",National Geographic
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4246/12?f=.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="NatGeo Wild" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="SOLO PARA ROKOOS ANGLO",NatGeo Wild
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4262/12?f=.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="SOLO PARA ROKOOS ANGLO",ID
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94099/12?f=.m3u8
+#EXTINF:-1 tvg-id="Science.us" tvg-name="Science" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Science
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4305/12?f=.m3u8
+#EXTINF:-1 tvg-id="TheTravelChannel.us" tvg-name="Trvl" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Trvl
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4254/12?f=.m3u8
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Destination America
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94086/12?f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="SOLO PARA ROKOOS ANGLO",Discovery En Español
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97932/12?f=.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnn.png" group-title="SOLO PARA ROKOOS ANGLO",CNN
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4253/12?f=.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/foxn.png" group-title="SOLO PARA ROKOOS ANGLO",Fox News
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4292/12?f=.m3u8
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="Fox Business" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Fox Business
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4291/12?f=.m3u8
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",CNBC
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4256/12?f=.m3u8
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",The Weather Channel
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4255/12?f=.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Paramount Network
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4321/12?f=.m3u8
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="TruTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/trutv.png" group-title="SOLO PARA ROKOOS ANGLO",TruTV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4247/12?f=.m3u8
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="SOLO PARA ROKOOS ANGLO",HBO
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4293/12?f=.m3u8
+#EXTINF:-1 tvg-id="5StarMAX.us" tvg-name="5 Star Max" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",5 Star Max
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4258/12?f=.m3u8
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime (E)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Showtime (E)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94088/12?f=.m3u8
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime (W)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Showtime (W)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94098/12?f=.m3u8
+#EXTINF:-1 tvg-id="TheMovieChannel.us" tvg-name="The Movie Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",The Movie Channel
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94089/12?f=.m3u8
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Starz
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94094/12?f=.m3u8
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Starz Comedy
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4301/12?f=.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="Starz Family" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Starz Family
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4312/12?f=.m3u8
+#EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fxm.png" group-title="SOLO PARA ROKOOS ANGLO",FXM
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4257/12?f=.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",Hallmark
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4297/12?f=.m3u8
+#EXTINF:-1 tvg-id="CineLatinoUS(Spanish).us" tvg-name="Cine Latino" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/latinopl.png" group-title="SOLO PARA ROKOOS ANGLO",Cine Latino
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97902/12?f=.m3u8
+#EXTINF:-1 tvg-id="KVIADT.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",ABC
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93841/12?f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",CBS
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93842/12?f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",NBC
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93843/12?f=.m3u8
+#EXTINF:-1 tvg-id="KMEXDT(Spanish).us" tvg-name="Univisión Pac" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="SOLO PARA ROKOOS ANGLO",Univisión Pac
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC (Alt.)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="SOLO PARA ROKOOS ANGLO",NBC (Alt.)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93845/12?f=.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/estrella.png" group-title="SOLO PARA ROKOOS ANGLO",Estrella TV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97889/12?f=.m3u8
+#EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="SOLO PARA ROKOOS ANGLO",Telemundo
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
+#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" tvg-name="Telemundo Pac" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="SOLO PARA ROKOOS ANGLO",Telemundo Pac
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97838/12?f=.m3u8
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="SOLO PARA ROKOOS ANGLO",Univisión
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
+#EXTINF:-1 tvg-id="UniMas(Spanish).us" tvg-name="UniMas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="SOLO PARA ROKOOS ANGLO",UniMas
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
+
+
+#EXTINF:-1 tvg-id="RealExtreme.us" tvg-name="RealExtreme" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/realx.png" group-title="SOLO PARA ROKOOS +18",RealExtreme
+http://23.237.29.98:2095/491REALX/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="BraZZersTVPlus.us" tvg-name="Brazzers TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/braz.png" group-title="SOLO PARA ROKOOS +18",Brazzers TV
+http://23.237.29.98:2095/493BRAZZ/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="TenXX5.us" tvg-name="TEN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ten.png" group-title="SOLO PARA ROKOOS +18",TEN
+http://23.237.29.98:2095/494TEN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="RealityKingsTV.us" tvg-name="RK" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rk.png" group-title="SOLO PARA ROKOOS +18",RK
+http://23.237.29.98:2095/495RKTV/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="Hustler.us" tvg-name="Hustler TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hus.png" group-title="SOLO PARA ROKOOS +18",Hustler TV
+http://23.237.29.98:2095/496HUSLR/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="XtsyNewFrontier(English).mx" tvg-name="XTSY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xtsy.png" group-title="SOLO PARA ROKOOS +18",XTSY
+http://23.237.29.98:2095/498XTSY/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="Playboy.mx" tvg-name="Playboy TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/plby.png" group-title="SOLO PARA ROKOOS +18",Playboy TV
+http://23.237.29.98:2095/484Playboy/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="Venus.mx" tvg-name="Venus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vens.png" group-title="SOLO PARA ROKOOS +18",Venus
+http://23.237.29.98:2095/488Venus/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="SeXtreme.mx" tvg-name="Sextreme" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sextr.jpg" group-title="SOLO PARA ROKOOS +18",Sextreme
+http://23.237.29.98:2095/490Sextreme/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
