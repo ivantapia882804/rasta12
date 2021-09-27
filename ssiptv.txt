@@ -428,15 +428,15 @@ https://blackghost.live/play/totalp1-950.php?c=2402&p=3&k=black&f=.m3u8
 
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno SD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/495/12?f=.m3u8
+http://208.88.246.11:4153/113azteca13/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/191/12?f=.m3u8
+http://208.88.246.11:4153/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="LOCALES",Imagen Television
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/598/12?f=.m3u8
+http://208.88.246.11:4153/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ForoTVUSFeed(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="LOCALES",Foro TV
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/193/12?f=.m3u8
+http://208.88.246.11:4153/push/forotv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="LOCALES",Canal 5
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/192/12?f=.m3u8
+http://208.88.246.11:4153/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/234/12?f=.m3u8
 #EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 MTY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 MTY
@@ -733,26 +733,6 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/282/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/284/12?f=.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mprime.png" group-title="CINE PREMIUM",HBO Xtreme
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/288/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="EVENTO PP1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="EVEN",EVENTO PP1
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/88792/12?f=.m3u8
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="EVENTO PP2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="EVEN",EVENTO PP2
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/88793/12?f=.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes(Spanish).us" tvg-name="EVENTO 1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="EVEN",EVENTO 1
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97881/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="EVENTO 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="EVEN",EVENTO 2
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97882/12?f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports(ConoNorteMexico).mx" tvg-name="EVENTO 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="EVEN",EVENTO 3
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97883/12?f=.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="EVENTO 4" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="EVEN",EVENTO 4
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97884/12?f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="EVENTO 5" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="EVEN",EVENTO 5
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/562/12?f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTO 6" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="EVEN",EVENTO 6
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/574/12?f=.m3u8
-#EXTINF:-1 tvg-id="AninalPlanet.mx" tvg-name="EVENTO 7" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="EVEN",EVENTO 7
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/576/12?f=.m3u8
-#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="EVENTO 8" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="EVEN",EVENTO 8
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8
 
 
 #EXTINF:-1 tvg-id="ENLACETV.co" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace
