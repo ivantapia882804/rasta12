@@ -1,6 +1,3 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
-
-
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD)
 https://blackghost.live/play/totalp1-950.php?c=7&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas (HD)
@@ -22,23 +19,59 @@ https://blackghost.live/play/totalp1-950.php?c=172&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN (HD)
 https://blackghost.live/play/totalp1-950.php?c=174&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group-title="RECOMENDADOS",Afizzionados
-http://blackghost.live/play/futvall-950.php?id=afizzionados&k=blaacckkghoost&f=.m3u8
+http://odenfull.co:2086/142536/142536/58029
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports (HD)
 https://blackghost.live/play/totalp1-950.php?c=2564&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="StarAction.mx" tvg-name="Star Action" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="RECOMENDADOS",Star Action
-https://blackghost.live/play/totalp1-950.php?c=336&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="RECOMENDADOS",TNT
+https://blackghost.live/play/totalp1-950.php?c=126&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="RECOMENDADOS",Cinemax
+https://blackghost.live/play/totalp1-950.php?c=158&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
-#EXTINF:-1 tvg-id="UnivisionNetwork(Pacific)(Spanish).us" tvg-name="Univisión Pac" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión Pac
+#EXTINF:-1 tvg-id="UnivisionNetwork(Pacific)(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión Pac
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
-#EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telem.png" group-title="RECOMENDADOS",Telemundo Internacional
-https://blackghost.live/play/totalp1-950.php?c=85&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="RECOMENDADOS",UniMas
+#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="RECOMENDADOS",UniMas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
-#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN USA
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
-#EXTINF:-1 user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="RECOMENDADOS",ESPN Deportes USA
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
+#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="RECOMENDADOS",Galavisión
+http://qqtv.nl:8080/Bradley1/Bradley123/51872
+#EXTINF:-1 tvg-id="Canal4Nacional.sv" group-title="RECOMENDADOS",Canal 4 TCS
+http://odenfull.co:2086/142536/142536/31585
+#EXTINF:-1 tvg-id="ESPN.co" group-title="RECOMENDADOS",DEP SD: ESPN 1 (COL)
+http://odenfull.co:2086/142536/142536/135286
+#EXTINF:-1 tvg-id="ESPN.co" group-title="RECOMENDADOS",DEP HD: ESPN 1 (COL)
+http://odenfull.co:2086/142536/142536/135287
+#EXTINF:-1 tvg-id="ESPN2.co" group-title="RECOMENDADOS",DEP SD: ESPN 2 (COL) 
+http://odenfull.co:2086/142536/142536/135289
+#EXTINF:-1 tvg-id="ESPN2.co" group-title="RECOMENDADOS",DEP HD: ESPN 2 (COL) 
+http://odenfull.co:2086/142536/142536/135290
+#EXTINF:-1 tvg-id="ESPNTres(South).co" group-title="RECOMENDADOS",DEP SD: ESPN 3 (COL) 
+http://odenfull.co:2086/142536/142536/135291
+#EXTINF:-1 tvg-id="ESPNTres(South).co" group-title="RECOMENDADOS",DEP HD: ESPN 3 (COL) 
+http://odenfull.co:2086/142536/142536/135292
+#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 1
+http://tvstarlife.com:25461/Yann/Yann/26021
+#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 2
+http://tvstarlife.com:25461/Yann/Yann/26022
+#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 3
+http://tvstarlife.com:25461/Yann/Yann/26023
+#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 4
+http://tvstarlife.com:25461/Yann/Yann/26024
+#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 5
+http://tvstarlife.com:25461/Yann/Yann/26025
+#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 6
+http://tvstarlife.com:25461/Yann/Yann/26026
+#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 7
+http://tvstarlife.com:25461/Yann/Yann/26027
+#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 8
+http://tvstarlife.com:25461/Yann/Yann/26028
+#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 9
+http://tvstarlife.com:25461/Yann/Yann/26029
+#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 10
+http://tvstarlife.com:25461/Yann/Yann/26030
+#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 11
+http://tvstarlife.com:25461/Yann/Yann/26031
 
 
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno (HD)
@@ -817,238 +850,6 @@ https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist
 https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-id="TeleSur.co" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sur.png" group-title="INFORMACIÓN",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Lista 04",A&E 
-https://blackghost.live/play/axa-950.php?c=6220
-#EXTINF:-1 group-title="Lista 04",AXN
-https://blackghost.live/play/axa-950.php?c=6222
-#EXTINF:-1 group-title="Lista 04",AMC
-https://blackghost.live/play/axa-950.php?c=6221
-#EXTINF:-1 group-title="Lista 04",CINE CANAL
-https://blackghost.live/play/axa-950.php?c=27
-#EXTINF:-1 group-title="Lista 04",CineMax
-https://blackghost.live/play/axa-950.php?c=6224
-#EXTINF:-1 group-title="Lista 04",HBO
-https://blackghost.live/play/axa-950.php?c=6235
-#EXTINF:-1 group-title="Lista 04",HBO 2
-https://blackghost.live/play/axa-950.php?c=6236
-#EXTINF:-1 group-title="Lista 04",HBO FAMILY
-https://blackghost.live/play/axa-950.php?c=6238
-#EXTINF:-1 group-title="Lista 04",HBO+
-https://blackghost.live/play/axa-950.php?c=6239
-#EXTINF:-1 group-title="Lista 04",HBO POP
-https://blackghost.live/play/axa-950.php?c=83690
-#EXTINF:-1 group-title="Lista 04",HBO EXTREME
-https://blackghost.live/play/axa-950.php?c=83694
-#EXTINF:-1 group-title="Lista 04",HBO MUNDI
-https://blackghost.live/play/axa-950.php?c=83683
-#EXTINF:-1 group-title="Lista 04",HBO SIGNATURE
-https://blackghost.live/play/axa-950.php?c=83692
-#EXTINF:-1 group-title="Lista 04",Golden
-https://blackghost.live/play/axa-950.php?c=58
-#EXTINF:-1 group-title="Lista 04",Golden Premier
-https://blackghost.live/play/axa-950.php?c=59
-#EXTINF:-1 group-title="Lista 04",Golden Plus
-https://blackghost.live/play/axa-950.php?c=60
-#EXTINF:-1 group-title="Lista 04",Space
-https://blackghost.live/play/axa-950.php?c=79
-#EXTINF:-1 group-title="Lista 04",STUDIO UNIVERSAL
-https://blackghost.live/play/axa-950.php?c=80
-#EXTINF:-1 group-title="Lista 04",SYFY
-https://blackghost.live/play/axa-950.php?c=82
-#EXTINF:-1 group-title="Lista 04",SONY CHANNEL
-https://blackghost.live/play/axa-950.php?c=6244
-#EXTINF:-1 group-title="Lista 04",TNT
-https://blackghost.live/play/axa-950.php?c=6247
-#EXTINF:-1 group-title="Lista 04",TNT SERIES
-https://blackghost.live/play/axa-950.php?c=6248
-#EXTINF:-1 group-title="Lista 04",Universal Channel
-https://blackghost.live/play/axa-950.php?c=92
-#EXTINF:-1 group-title="Lista 04",De Pelicula Plus
-https://blackghost.live/play/axa-950.php?c=94
-#EXTINF:-1 group-title="Lista 04",TV AZTECA HONDURAS
-https://blackghost.live/play/axa-950.php?c=6574
-#EXTINF:-1 group-title="Lista 04",TV AZTECA GUATEMALA
-https://blackghost.live/play/axa-950.php?c=87499
-#EXTINF:-1 group-title="Lista 04",AZTECA CORAZON
-https://blackghost.live/play/axa-950.php?c=6905
-#EXTINF:-1 group-title="Lista 04",WIN SPORTS +
-https://blackghost.live/play/axa-950.php?c=33394
-#EXTINF:-1 group-title="Lista 04",24/7
-http://stalkertvlatino.com:8080/play1/play1
-#EXTINF:-1 group-title="Lista 04",NU9VE
-https://blackghost.live/play/axa-950.php?c=56
-#EXTINF:-1 group-title="Lista 04",LAS ESTRELLAS
-https://blackghost.live/play/axa-950.php?c=924
-#EXTINF:-1 group-title="Lista 04",TELEMUNDO
-https://blackghost.live/play/axa-950.php?c=85
-#EXTINF:-1 group-title="Lista 04",BANG BROS
-https://blackghost.live/play/axa-950.php?c=6756
-#EXTINF:-1 group-title="Lista 04",Peliculas 24/7
-https://blackghost.live/play/axa-950.php?c=87513
-#EXTINF:-1 group-title="Lista 04",WARNER BROS TV
-https://blackghost.live/play/axa-950.php?c=6249
-#EXTINF:-1 group-title="Lista 04",PlayBoy HD
-https://blackghost.live/play/axa-950.php?c=6754
-#EXTINF:-1 group-title="Lista 04",XXX HD
-https://blackghost.live/play/axa-950.php?c=6753
-#EXTINF:-1 group-title="Lista 04",Mia khalifa HD
-https://blackghost.live/play/axa-950.php?c=6745
-#EXTINF:-1 group-title="Lista 04",Play House HD
-https://blackghost.live/play/axa-950.php?c=6752
-#EXTINF:-1 group-title="Lista 04",Erotic 5 XXX
-https://blackghost.live/play/axa-950.php?c=87776
-#EXTINF:-1 group-title="Lista 04",Brazzers HD
-https://blackghost.live/play/axa-950.php?c=6759
-#EXTINF:-1 group-title="Lista 04",Play h HD
-https://blackghost.live/play/axa-950.php?c=6755
-#EXTINF:-1 group-title="Lista 04",Peliculas #2 24/7
-https://blackghost.live/play/axa-950.php?c=87516
-#EXTINF:-1 group-title="Lista 04",Peliculas #3 24/7
-https://blackghost.live/play/axa-950.php?c=87519
-#EXTINF:-1 group-title="Lista 04",Peliculas #4 24/7
-https://blackghost.live/play/axa-950.php?c=87520
-#EXTINF:-1 group-title="Lista 04",Peliculas #6 Infantil 24/7
-https://blackghost.live/play/axa-950.php?c=87541
-#EXTINF:-1 group-title="Lista 04",Peliculas #5 24/7
-https://blackghost.live/play/axa-950.php?c=87540
-#EXTINF:-1 group-title="Lista 04",CANALES DE ESPAÑA
-http://srv1.exyu.cc:8080/I0mCeYo60J/eq8SsxyYRv/1276
-#EXTINF:-1 group-title="Lista 04",FX
-https://blackghost.live/play/axa-950.php?c=54
-#EXTINF:-1 group-title="Lista 04",FX
-https://blackghost.live/play/axa-950.php?c=100855
-#EXTINF:-1 group-title="Lista 04",FXM
-https://blackghost.live/play/axa-950.php?c=83618
-#EXTINF:-1 group-title="Lista 04",STAR COMEDY
-https://blackghost.live/play/axa-950.php?c=6227
-#EXTINF:-1 group-title="Lista 04",STAR FUN
-https://blackghost.live/play/axa-950.php?c=6228
-#EXTINF:-1 group-title="Lista 04",STAR HITS
-https://blackghost.live/play/axa-950.php?c=6232
-#EXTINF:-1 group-title="Lista 04",FOX LIFE
-https://blackghost.live/play/axa-950.php?c=6230
-#EXTINF:-1 group-title="Lista 04",STAR LIFE
-https://blackghost.live/play/axa-950.php?c=46
-#EXTINF:-1 group-title="Lista 04",STAR ACTION
-https://blackghost.live/play/axa-950.php?c=83625
-#EXTINF:-1 group-title="Lista 04",STAR CINEMA
-https://blackghost.live/play/axa-950.php?c=83632
-#EXTINF:-1 group-title="Lista 04",STAR SERIES
-https://blackghost.live/play/axa-950.php?c=6233
-#EXTINF:-1 group-title="Lista 04",HBO POP
-https://blackghost.live/play/axa-950.php?c=72
-#EXTINF:-1 group-title="Lista 04",TBS
-https://blackghost.live/play/axa-950.php?c=83
-#EXTINF:-1 group-title="Lista 04",TCM
-https://blackghost.live/play/axa-950.php?c=84
-#EXTINF:-1 group-title="Lista 04",PARAMOUNT NETWORK
-https://blackghost.live/play/axa-950.php?c=6242
-#EXTINF:-1 group-title="Lista 04",TCM
-https://blackghost.live/play/axa-950.php?c=84
-#EXTINF:-1 group-title="Lista 04",SONY CHANNEL
-https://blackghost.live/play/axa-950.php?c=6244
-#EXTINF:-1 group-title="Lista 04",DHE
-https://blackghost.live/play/axa-950.php?c=104192
-#EXTINF:-1 group-title="Lista 04",ULTRA FAMILY
-https://blackghost.live/play/axa-950.php?c=6861
-#EXTINF:-1 group-title="Lista 04",CLARO CINEMA
-https://blackghost.live/play/axa-950.php?c=104191
-#EXTINF:-1 group-title="Lista 04",LIFE TIME
-https://blackghost.live/play/axa-950.php?c=70
-#EXTINF:-1 group-title="Lista 04",BABY TV
-https://blackghost.live/play/axa-950.php?c=6286
-#EXTINF:-1 group-title="Lista 04",BABY FIRST
-https://blackghost.live/play/axa-950.php?c=104196
-#EXTINF:-1 group-title="Lista 04",DISNEY JR.
-https://blackghost.live/play/axa-950.php?c=932
-#EXTINF:-1 group-title="Lista 04",NICK
-https://blackghost.live/play/axa-950.php?c=931
-#EXTINF:-1 group-title="Lista 04",TENN NICK
-https://blackghost.live/play/axa-950.php?c=930
-#EXTINF:-1 group-title="Lista 04",NICK 2
-https://blackghost.live/play/axa-950.php?c=6296
-#EXTINF:-1 group-title="Lista 04",NICK JR.
-https://blackghost.live/play/axa-950.php?c=919
-#EXTINF:-1 group-title="Lista 04",DISCOVERY KITS
-https://blackghost.live/play/axa-950.php?c=922
-#EXTINF:-1 group-title="Lista 04",CARTOON NETWORK
-https://blackghost.live/play/axa-950.php?c=923
-#EXTINF:-1 group-title="Lista 04",CARTOON NETWORK HD
-https://blackghost.live/play/axa-950.php?c=6288
-#EXTINF:-1 group-title="Lista 04",BOOMERANG
-https://blackghost.live/play/axa-950.php?c=6287
-#EXTINF:-1 group-title="Lista 04",DISNEY XD
-https://blackghost.live/play/axa-950.php?c=6292
-#EXTINF:-1 group-title="Lista 04",DISNEY CHANNEL
-https://blackghost.live/play/axa-950.php?c=6290
-#EXTINF:-1 group-title="Lista 04",NATGEO KITS
-https://blackghost.live/play/axa-950.php?c=6293
-#EXTINF:-1 group-title="Lista 04",ULTRA KITS
-https://blackghost.live/play/axa-950.php?c=6864
-#EXTINF:-1 group-title="Lista 04",CANAL 5
-https://blackghost.live/play/axa-950.php?c=6896
-#EXTINF:-1 group-title="Lista 04",CANAL 7
-https://blackghost.live/play/axa-950.php?c=6897
-#EXTINF:-1 group-title="Lista 04",AZTECA UNO
-https://blackghost.live/play/axa-950.php?c=95193
-#EXTINF:-1 group-title="Lista 04",A +
-https://blackghost.live/play/axa-950.php?c=96554
-#EXTINF:-1 group-title="Lista 04",IMAGEN
-https://blackghost.live/play/axa-950.php?c=96559
-#EXTINF:-1 group-title="Lista 04",ADN 40
-https://blackghost.live/play/axa-950.php?c=6585
-#EXTINF:-1 group-title="Lista 04",FORO TV
-https://blackghost.live/play/axa-950.php?c=6600
-#EXTINF:-1 group-title="Lista 04",RT ESPAÑOL
-https://blackghost.live/play/axa-950.php?c=96583
-#EXTINF:-1 group-title="Lista 04",CONTENIDO INFANTIL
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=1973&format=HLS
-#EXTINF:-1 group-title="Lista 04",ESPN EXTRA
-https://blackghost.live/play/axa-950.php?c=928
-#EXTINF:-1 group-title="Lista 04",ESPN 2
-https://blackghost.live/play/axa-950.php?c=6255
-#EXTINF:-1 group-title="Lista 04",ESPN 3
-https://blackghost.live/play/axa-950.php?c=6250
-#EXTINF:-1 group-title="Lista 04",DIRECTV SPORTS +
-https://blackghost.live/play/axa-950.php?c=942
-#EXTINF:-1 group-title="Lista 04",FOX SPORTS PREMIUM
-https://blackghost.live/play/axa-950.php?c=945
-#EXTINF:-1 group-title="Lista 04",GOL PERU
-https://blackghost.live/play/axa-950.php?c=83841
-#EXTINF:-1 group-title="Lista 04",BEIN Ñ
-https://blackghost.live/play/axa-950.php?c=933
-#EXTINF:-1 group-title="Lista 04",ECDF
-https://blackghost.live/play/axa-950.php?c=96461
-#EXTINF:-1 group-title="Lista 04",TNT SPORTS HD
-https://blackghost.live/play/axa-950.php?c=6269
-#EXTINF:-1 group-title="Lista 04",EUROSPORTS 1
-https://blackghost.live/play/axa-950.php?c=914
-#EXTINF:-1 group-title="Lista 04",DEPORTES
-https://blackghost.live/play/axa-950.php?c=102476
-#EXTINF:-1 group-title="Lista 04",TIGO SPORTS 2
-https://blackghost.live/play/axa-950.php?c=95210
-#EXTINF:-1 group-title="Lista 04",TIGO SPORTS 3
-https://blackghost.live/play/axa-950.php?c=95211
-#EXTINF:-1 group-title="Lista 04",AFIZZIONADOS
-https://blackghost.live/play/axa-950.php?c=83860
-#EXTINF:-1 group-title="Lista 04",CLARO SPORTS
-https://blackghost.live/play/axa-950.php?c=83862
-#EXTINF:-1 group-title="Lista 04",TD+
-https://blackghost.live/play/axa-950.php?c=87782
-#EXTINF:-1 group-title="Lista 04",SECCION XXX
-https://blackghost.live/play/axa-950.php?c=6263
-#EXTINF:-1 group-title="Lista 04",HIPODROMO CHILE
-https://blackghost.live/play/axa-950.php?c=96532
-#EXTINF:-1 group-title="Lista 04",TNT SPORTS HD CHILE
-https://blackghost.live/play/axa-950.php?c=6266
-#EXTINF:-1 group-title="Lista 04",TyC SPORTS
-https://blackghost.live/play/axa-950.php?c=6267
-#EXTINF:-1 group-title="Lista 04",TNT SPORTS 2 HD
-https://blackghost.live/play/axa-950.php?c=6813
-#EXTINF:-1 group-title="Lista 04",LOS SIMPSON 24/7
-https://blackghost.live/play/axa-950.php?c=948
 
 
 #EXTINF:-1 group-title="Lista tv6",80s Hits
