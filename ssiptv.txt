@@ -5,6 +5,8 @@
 https://blackghost.live/play/totalp1-990.php?c=7&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas (HD)
 https://blackghost.live/play/totalp1-990.php?c=1784&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="RECOMENDADOS",Imagen Televisión (HD)
+https://blackghost.live/play/totalp1-990.php?c=2606&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="RECOMENDADOS",Canal 5 (HD)
 https://blackghost.live/play/totalp1-990.php?c=1785&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="RECOMENDADOS",Azteca 7 (HD)
@@ -33,12 +35,12 @@ https://blackghost.live/play/totalp1-990.php?c=158&p=3&k=black&f=.m3u8
 http://208.88.246.11:4153/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 #EXTINF:-1 user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión Pac
 http://208.88.246.11:4153/eventox2/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="RECOMENDADOS",UniMas
-http://qqtv.nl:8080/Bradley1/Bradley123/51873
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN USA
-http://tvstarlife.com:25461/Yann/Yann/1313
-#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="RECOMENDADOS",Galavisión
-http://qqtv.nl:8080/Bradley1/Bradley123/51872
+#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="RECOMENDADOS",UniMas
+http://208.88.246.11:4153/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN USA
+http://208.88.246.11:4153/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="RECOMENDADOS",Galavisión
+http://208.88.246.11:4153/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 #EXTINF:-1 user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" group-title="RECOMENDADOS",CBS Sports Network
 http://23.237.29.98:4153/transco9/9495CBSSN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Nacional.sv" group-title="RECOMENDADOS",Canal 4 TCS
