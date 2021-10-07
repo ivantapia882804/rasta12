@@ -27,28 +27,20 @@ https://blackghost.live/play/totalp1-106.php?c=174&p=3&k=black&f=.m3u8
 http://odenfull.co:2086/142536/142536/58029
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports (HD)
 https://blackghost.live/play/totalp1-106.php?c=2564&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="StarAction.mx" tvg-name="Star Action" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="RECOMENDADOS",Star Action
+https://blackghost.live/play/totalp1-106.php?c=336&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Pacific)(Spanish).us" tvg-name="Univisión Pac" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión Pac
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
 #EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="RECOMENDADOS",UniMas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
-#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcuni.png" group-title="RECOMENDADOS",Universo
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8
-#EXTINF:-1 tvg-id="TelemundoTelevisionNetwork(Spanish).us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="RECOMENDADOS",Telemundo
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="RECOMENDADOS",ESPN Deportes USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPN.co" group-title="RECOMENDADOS",DEP SD: ESPN 1 (COL)
-http://odenfull.co:2086/142536/142536/135286
-#EXTINF:-1 tvg-id="ESPN.co" group-title="RECOMENDADOS",DEP HD: ESPN 1 (COL)
-http://odenfull.co:2086/142536/142536/135287
-#EXTINF:-1 tvg-id="ESPN2.co" group-title="RECOMENDADOS",DEP SD: ESPN 2 (COL) 
-http://odenfull.co:2086/142536/142536/135289
-#EXTINF:-1 tvg-id="ESPN2.co" group-title="RECOMENDADOS",DEP HD: ESPN 2 (COL) 
-http://odenfull.co:2086/142536/142536/135290
+#EXTINF:-1 group-title="RECOMENDADOS",Canal 4 TCS
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/51402
 
 
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno (HD)
