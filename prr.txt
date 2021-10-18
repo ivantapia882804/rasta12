@@ -53,11 +53,11 @@ http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244586
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244585
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="RECOMENDADOS",CBS Sports Network
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4310/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN2 (COL)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="RECOMENDADOS",ESPN2 (COL)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262312
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN (COL)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="RECOMENDADOS",ESPN (COL)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262312
+#EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN2 (COL)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="RECOMENDADOS",ESPN2 (COL)
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/271287
-#EXTINF:-1 tvg-id="Canal4Nacional.sv" tvg-name="Canal 4 TCS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="RECOMENDADOS",Canal 4 TCS 
+#EXTINF:-1 tvg-id="Canal4Nacional.sv" tvg-name="Canal 4 TCS" group-title="RECOMENDADOS",Canal 4 TCS 
 http://qqtv.nl:8080/Bradley1/Bradley123/148605
 
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno (HD)
