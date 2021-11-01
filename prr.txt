@@ -31,6 +31,10 @@ https://blackghost.live/play/totalp1-126.php?c=174&p=3&k=black&f=.m3u8
 http://odenfull.co:2086/142536/142536/58029
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports (HD)
 https://blackghost.live/play/totalp1-126.php?c=2564&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="RECOMENDADOS",TNT
+https://blackghost.live/play/totalp1-126.php?c=126&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="RECOMENDADOS",Cinemax
+https://blackghost.live/play/totalp1-126.php?c=158&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="StarAction.mx" tvg-name="Star Action" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="RECOMENDADOS",Star Action
 https://blackghost.live/play/totalp1-126.php?c=336&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcuni.png" group-title="RECOMENDADOS",Universo
@@ -49,6 +53,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="RECOMENDADOS",CBS Sports Network
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4310/12?f=.m3u8
 #EXTINF:-1, group-title="RECOMENDADOS" ,DE | TUDN XTRA 1
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244577
 #EXTINF:-1, group-title="RECOMENDADOS" ,DE | TUDN XTRA 2
