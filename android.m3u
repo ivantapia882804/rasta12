@@ -829,6 +829,8 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/judic.png" group-title="INFORMACIÓN",Justicia TV
 https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
+#EXTINF:-1 tvg-id="LaOctava.mx" tvg-name="La Octava" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhfamx.png" group-title="INFORMACIÓN",La Octava
+https://stream-02.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2m7TJj7h-MZkCcPuIiF_pLk)/dm/3/x80mow9/d/live-2.m3u8
 #EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INFORMACIÓN",RT (Español)
 https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-id="TeleSur.co" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sur.png" group-title="INFORMACIÓN",Telesur
