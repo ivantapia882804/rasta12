@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIENVENIDO" tvg-logo="" group-title="RECOMENDADOS",BIENVENIDO
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97901/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=7&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas (HD)
@@ -405,6 +407,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2402&format=HLSAD&f=.m3u8
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dishome" tvg-logo="" group-title="LOCALES",Dishome
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97900/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/495/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas
@@ -426,6 +430,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/194/12?f=.m3u8|user
 #EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="LOCALES",NU9VE
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/196/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Canal Once
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97899/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Canal Once SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/197/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="XEIPNTDT2TVCanal11.mx" tvg-name="Once Niñas y Niños" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onyn.png" group-title="LOCALES",Once Niñas y Niños
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/472/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -681,16 +687,10 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/466/12?f=.m3u8|user
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/261/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="Cinema.mx" tvg-name="Cinema" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="CINE",Cinema
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/494/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="StarSeries.mx" tvg-name="Star Series (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="CINE PREMIUM",Star Series (SUB)
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97899/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="StarSeries.mx" tvg-name="Star Series SD (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="CINE PREMIUM",Star Series SD (SUB)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/274/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="StarAction.mx" tvg-name="Star Action (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="CINE PREMIUM",Star Action (SUB)
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97901/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="StarAction.mx" tvg-name="Star Action SD (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="CINE PREMIUM",Star Action SD (SUB)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/277/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="StarHits.mx" tvg-name="Star Hits (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="CINE PREMIUM",Star Hits (SUB)
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97900/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="StarHits.mx" tvg-name="Star Hits SD (SUB)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="CINE PREMIUM",Star Hits SD (SUB)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/278/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="STARFUN.mx" tvg-name="Star Fun" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starfamily.png" group-title="CINE PREMIUM",Star Fun
