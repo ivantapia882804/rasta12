@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIENVENIDO" tvg-logo="" group-title="RECOMENDADOS",BIENVENIDO
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97901/12?f=.m3u8
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD)
 http://blackaddon.com/play/totalp1-118.php?c=7&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas (HD)
@@ -405,13 +403,13 @@ http://blackaddon.com/play/totalp1-118.php?c=2091&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/totalp1-118.php?c=2402&p=3&k=black&f=.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dishome" tvg-logo="" group-title="LOCALES",Dishome
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97900/12?f=.m3u8
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97899/12?f=.m3u8
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/495/12?f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97901/12?f=.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/191/12?f=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="LOCALES",Imagen Television
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/598/12?f=.m3u8
@@ -429,6 +427,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/307/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/194/12?f=.m3u8
 #EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="LOCALES",NU9VE
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/196/12?f=.m3u8
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Canal Once
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97900/12?f=.m3u8
 #EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Canal Once SD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/197/12?f=.m3u8
 #EXTINF:-1 tvg-id="XEIPNTDT2TVCanal11.mx" tvg-name="Once Niñas y Niños" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onyn.png" group-title="LOCALES",Once Niñas y Niños
