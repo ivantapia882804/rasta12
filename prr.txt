@@ -35,22 +35,6 @@ http://blackaddon.com/play/totalp1-156.php?c=2564&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/totalp1-156.php?c=126&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="RECOMENDADOS",Cinemax
 http://blackaddon.com/play/totalp1-156.php?c=158&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcuni.png" group-title="RECOMENDADOS",Universo
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8
-#EXTINF:-1 tvg-id="TelemundoTelevisionNetwork(Spanish).us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="RECOMENDADOS",Telemundo
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
-#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" tvg-name="Telemundo Pac" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="RECOMENDADOS",Telemundo Pac
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97838/12?f=.m3u8
-#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
-#EXTINF:-1 tvg-id="UnivisionNetwork(Pacific)(Spanish).us" tvg-name="Univisión Pac" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión Pac
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
-#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="RECOMENDADOS",UniMas
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
-#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="RECOMENDADOS",Galavisión
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
-#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN USA
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
 
 
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno (HD)
@@ -391,6 +375,596 @@ http://blackaddon.com/play/totalp1-156.php?c=2091&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/totalp1-156.php?c=2402&p=3&k=black&f=.m3u8
 
 
+#EXTINF:-1 group-title="ENTRETENCIÓN", A3 Series
+http://blackaddon.com/play/zufree-156.php?c=3018
+#EXTINF:-1 group-title="ENTRETENCIÓN", A&E
+http://blackaddon.com/play/zufree-156.php?c=3019
+#EXTINF:-1 group-title="LOCALES", ADN 40
+http://blackaddon.com/play/zufree-156.php?c=3020
+#EXTINF:-1 group-title="CINE", AMC
+http://blackaddon.com/play/zufree-156.php?c=3021
+#EXTINF:-1 group-title="CONOCIMIENTO", Animal Planet
+http://blackaddon.com/play/zufree-156.php?c=3022
+#EXTINF:-1 group-title="ENTRETENCIÓN", Antena 3
+http://blackaddon.com/play/zufree-156.php?c=3023
+#EXTINF:-1 group-title="LOCALES", A+
+http://blackaddon.com/play/zufree-156.php?c=3024
+#EXTINF:-1 group-title="ENTRETENCIÓN", AXN
+http://blackaddon.com/play/zufree-156.php?c=3025
+#EXTINF:-1 group-title="DEPORTES", AyM Sports
+http://blackaddon.com/play/zufree-156.php?c=3026
+#EXTINF:-1 group-title="CINE", Az Cinema
+http://blackaddon.com/play/zufree-156.php?c=3027
+#EXTINF:-1 group-title="ENTRETENCIÓN", Az Corazon
+http://blackaddon.com/play/zufree-156.php?c=3028
+#EXTINF:-1 group-title="ENTRETENCIÓN", Az Mundo
+http://blackaddon.com/play/zufree-156.php?c=3029
+#EXTINF:-1 group-title="LOCALES", Azteca 7
+http://blackaddon.com/play/zufree-156.php?c=3030
+#EXTINF:-1 group-title="LOCALES", Azteca UNO
+http://blackaddon.com/play/zufree-156.php?c=3031
+#EXTINF:-1 group-title="KIDS", Baby First
+http://blackaddon.com/play/zufree-156.php?c=3032
+#EXTINF:-1 group-title="KIDS", Baby TV
+http://blackaddon.com/play/zufree-156.php?c=3033
+#EXTINF:-1 group-title="MÚSICA", Bandamax
+http://blackaddon.com/play/zufree-156.php?c=3034
+#EXTINF:-1 group-title="KIDS", BitMe
+http://blackaddon.com/play/zufree-156.php?c=3035
+#EXTINF:-1 group-title="LOCALES", Canal 11
+http://blackaddon.com/play/zufree-156.php?c=3037
+#EXTINF:-1 group-title="LOCALES", Canal 5
+http://blackaddon.com/play/zufree-156.php?c=3038
+#EXTINF:-1 group-title="KIDS", Cartoonito
+http://blackaddon.com/play/zufree-156.php?c=3036
+#EXTINF:-1 group-title="KIDS", Cartoon Network
+http://blackaddon.com/play/zufree-156.php?c=3039
+#EXTINF:-1 group-title="CINE", Cinecanal
+http://blackaddon.com/play/zufree-156.php?c=3040
+#EXTINF:-1 group-title="CINE", Cinemax
+http://blackaddon.com/play/zufree-156.php?c=3041
+#EXTINF:-1 group-title="INFORMACIÓN", CNN en Espanol
+http://blackaddon.com/play/zufree-156.php?c=3042
+#EXTINF:-1 group-title="INFORMACIÓN", CNN USA
+http://blackaddon.com/play/zufree-156.php?c=3043
+#EXTINF:-1 group-title="ENTRETENCIÓN", Comedy Central
+http://blackaddon.com/play/zufree-156.php?c=3044
+#EXTINF:-1 group-title="CINE", De Pelicula
+http://blackaddon.com/play/zufree-156.php?c=3045
+#EXTINF:-1 group-title="CINE", De Pelicula Plus
+http://blackaddon.com/play/zufree-156.php?c=3047
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Channel
+http://blackaddon.com/play/zufree-156.php?c=3048
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Civilization
+http://blackaddon.com/play/zufree-156.php?c=3049
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery H&H
+http://blackaddon.com/play/zufree-156.php?c=3050
+#EXTINF:-1 group-title="ENTRETENCIÓN", ID
+http://blackaddon.com/play/zufree-156.php?c=3051
+#EXTINF:-1 group-title="KIDS", Discovery KIDS
+http://blackaddon.com/play/zufree-156.php?c=3052
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Science
+http://blackaddon.com/play/zufree-156.php?c=3053
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Theater
+http://blackaddon.com/play/zufree-156.php?c=3054
+#EXTINF:-1 group-title="CONOCIMIENTO", TLC
+http://blackaddon.com/play/zufree-156.php?c=3055
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Turbo
+http://blackaddon.com/play/zufree-156.php?c=3056
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery World
+http://blackaddon.com/play/zufree-156.php?c=3057
+#EXTINF:-1 group-title="KIDS", Disney Channel
+http://blackaddon.com/play/zufree-156.php?c=3058
+#EXTINF:-1 group-title="KIDS", Disney Junior
+http://blackaddon.com/play/zufree-156.php?c=3059
+#EXTINF:-1 group-title="KIDS", Disney XD
+http://blackaddon.com/play/zufree-156.php?c=3060
+#EXTINF:-1 group-title="ENTRETENCIÓN", Distrito Comedia
+http://blackaddon.com/play/zufree-156.php?c=3061
+#EXTINF:-1 group-title="ENTRETENCIÓN", E!
+http://blackaddon.com/play/zufree-156.php?c=3062
+#EXTINF:-1 group-title="INFORMACIÓN", El Financiero Bloomberg
+http://blackaddon.com/play/zufree-156.php?c=3063
+#EXTINF:-1 group-title="COMOCIMIENTO", El Gourmet
+http://blackaddon.com/play/zufree-156.php?c=3064
+#EXTINF:-1 group-title="DEPORTES", ESPN EXTRA
+http://blackaddon.com/play/zufree-156.php?c=3065
+#EXTINF:-1 group-title="DEPORTES", ESPN
+http://blackaddon.com/play/zufree-156.php?c=3066
+#EXTINF:-1 group-title="DEPORTES", ESPN 2
+http://blackaddon.com/play/zufree-156.php?c=3067
+#EXTINF:-1 group-title="DEPORTES", ESPN 3
+http://blackaddon.com/play/zufree-156.php?c=3068
+#EXTINF:-1 group-title="DEPORTES", ESPN U
+http://blackaddon.com/play/zufree-156.php?c=3069
+#EXTINF:-1 group-title="CONOCIMIENTO", Food Network
+http://blackaddon.com/play/zufree-156.php?c=3070
+#EXTINF:-1 group-title="LOCALES", Foro TV
+http://blackaddon.com/play/zufree-156.php?c=3071
+#EXTINF:-1 group-title="ENTRETENCIÓN", Star Channel
+http://blackaddon.com/play/zufree-156.php?c=3072
+#EXTINF:-1 group-title="DEPORTES", FOX Sports 1
+http://blackaddon.com/play/zufree-156.php?c=3081
+#EXTINF:-1 group-title="DEPORTES", FOX Sports 2
+http://blackaddon.com/play/zufree-156.php?c=3082
+#EXTINF:-1 group-title="DEPORTES", FOX Sports 3
+http://blackaddon.com/play/zufree-156.php?c=3083
+#EXTINF:-1 group-title="ENTRETENCIÓN", FX
+http://blackaddon.com/play/zufree-156.php?c=3084
+#EXTINF:-1 group-title="CINE", FXMOVIES
+http://blackaddon.com/play/zufree-156.php?c=3085
+#EXTINF:-1 group-title="LOCALES", NU9VE
+http://blackaddon.com/play/zufree-156.php?c=3086
+#EXTINF:-1 group-title="DEPORTES", Garage TV
+http://blackaddon.com/play/zufree-156.php?c=3087
+#EXTINF:-1 group-title="ENTRETENCIÓN", Glitz
+http://blackaddon.com/play/zufree-156.php?c=3088
+#EXTINF:-1 group-title="CINE", Golden
+http://blackaddon.com/play/zufree-156.php?c=3089
+#EXTINF:-1 group-title="CINE", Golden EDGE
+http://blackaddon.com/play/zufree-156.php?c=3090
+#EXTINF:-1 group-title="CINE", Golden Plus
+http://blackaddon.com/play/zufree-156.php?c=3091
+#EXTINF:-1 group-title="CINE PREMIUM", Golden Premier
+http://blackaddon.com/play/zufree-156.php?c=3092
+#EXTINF:-1 group-title="DEPORTES", Golf Channel Latinoamerica
+http://blackaddon.com/play/zufree-156.php?c=3093
+#EXTINF:-1 group-title="CONOCIMIENTO", HGTV
+http://blackaddon.com/play/zufree-156.php?c=3094
+#EXTINF:-1 group-title="CONOCIMIENTO", History
+http://blackaddon.com/play/zufree-156.php?c=3095
+#EXTINF:-1 group-title="ENTRETENCIÓN", Hola TV
+http://blackaddon.com/play/zufree-156.php?c=3096
+#EXTINF:-1 group-title="LOCALES", Imagen Television
+http://blackaddon.com/play/zufree-156.php?c=3097
+#EXTINF:-1 group-title="LOCALES", Ingenio TV
+http://blackaddon.com/play/zufree-156.php?c=3098
+#EXTINF:-1 group-title="ENTRETENCIÓN", I.Sat
+http://blackaddon.com/play/zufree-156.php?c=3099
+#EXTINF:-1 group-title="LOCALES", Las Estrellas
+http://blackaddon.com/play/zufree-156.php?c=3100
+#EXTINF:-1 group-title="ENTRETENCIÓN", Lifetime
+http://blackaddon.com/play/zufree-156.php?c=3101
+#EXTINF:-1 group-title="ENTRETENCIÓN", Mas chic
+http://blackaddon.com/play/zufree-156.php?c=3102
+#EXTINF:-1 group-title="INFORMACIÓN", Milenio
+http://blackaddon.com/play/zufree-156.php?c=3103
+#EXTINF:-1 group-title="ENTRETENCIÓN", MTV
+http://blackaddon.com/play/zufree-156.php?c=3104
+#EXTINF:-1 group-title="MÚSICA", MTV Hits
+http://blackaddon.com/play/zufree-156.php?c=3105
+#EXTINF:-1 group-title="MÚSICA", MTV Live
+http://blackaddon.com/play/zufree-156.php?c=3106
+#EXTINF:-1 group-title="ENTRETENCIÓN", Multimedios Plus
+http://blackaddon.com/play/zufree-156.php?c=3107
+#EXTINF:-1 group-title="CONOCIMIENTO", NatGeo
+http://blackaddon.com/play/zufree-156.php?c=3108
+#EXTINF:-1 group-title="KIDS", NatGeo KIDS
+http://blackaddon.com/play/zufree-156.php?c=3109
+#EXTINF:-1 group-title="CONOCIMIENTO", NatGeo Wild
+http://blackaddon.com/play/zufree-156.php?c=3110
+#EXTINF:-1 group-title="KIDS", Nickelodeon
+http://blackaddon.com/play/zufree-156.php?c=3111
+#EXTINF:-1 group-title="KIDS", TeenNick
+http://blackaddon.com/play/zufree-156.php?c=3112
+#EXTINF:-1 group-title="KIDS", Nick JR
+http://blackaddon.com/play/zufree-156.php?c=3113
+#EXTINF:-1 group-title="MÚSICA", Nickmusic
+http://blackaddon.com/play/zufree-156.php?c=3114
+#EXTINF:-1 group-title="CONOCIMIENTO", Outdoor Channel
+http://blackaddon.com/play/zufree-156.php?c=3115
+#EXTINF:-1 group-title="CINE", Paramount Network
+http://blackaddon.com/play/zufree-156.php?c=3116
+#EXTINF:-1 group-title="MÚSICA", Telehit Musica
+http://blackaddon.com/play/zufree-156.php?c=3117
+#EXTINF:-1 group-title="ENTRETENCIÓN", Sony
+http://blackaddon.com/play/zufree-156.php?c=3118
+#EXTINF:-1 group-title="CINE", Space
+http://blackaddon.com/play/zufree-156.php?c=3119
+#EXTINF:-1 group-title="CINE", Studio Universal
+http://blackaddon.com/play/zufree-156.php?c=3120
+#EXTINF:-1 group-title="ENTRETENCIÓN", SyFy
+http://blackaddon.com/play/zufree-156.php?c=3122
+#EXTINF:-1 group-title="ENTRETENCIÓN", TBS
+http://blackaddon.com/play/zufree-156.php?c=3123
+#EXTINF:-1 group-title="ENTRETENCIÓN", TCM
+http://blackaddon.com/play/zufree-156.php?c=3124
+#EXTINF:-1 group-title="INFORMACIÓN", Teleformula
+http://blackaddon.com/play/zufree-156.php?c=3125
+#EXTINF:-1 group-title="MÚSICA", Telehit
+http://blackaddon.com/play/zufree-156.php?c=3126
+#EXTINF:-1 group-title="ENTRETENCIÓN", Telemundo Internacional
+http://blackaddon.com/play/zufree-156.php?c=3127
+#EXTINF:-1 group-title="REGIONALES", Televisa Monterrey
+http://blackaddon.com/play/zufree-156.php?c=3128
+#EXTINF:-1 group-title="ENTRETENCIÓN", Tlnovelas
+http://blackaddon.com/play/zufree-156.php?c=3129
+#EXTINF:-1 group-title="CINE", TNT
+http://blackaddon.com/play/zufree-156.php?c=3130
+#EXTINF:-1 group-title="ENTRETENCIÓN", TNT Series
+http://blackaddon.com/play/zufree-156.php?c=3131
+#EXTINF:-1 group-title="KIDS", Tooncast
+http://blackaddon.com/play/zufree-156.php?c=3132
+#EXTINF:-1 group-title="ENTRETENCIÓN", TruTV
+http://blackaddon.com/play/zufree-156.php?c=3133
+#EXTINF:-1 group-title="DEPORTES", TVC Deportes
+http://blackaddon.com/play/zufree-156.php?c=3134
+#EXTINF:-1 group-title="ENTRETENCIÓN", TVE
+http://blackaddon.com/play/zufree-156.php?c=3135
+#EXTINF:-1 group-title="ENTRETENCIÓN", Unicable
+http://blackaddon.com/play/zufree-156.php?c=3136
+#EXTINF:-1 group-title="ENTRETENCIÓN", Universal TV
+http://blackaddon.com/play/zufree-156.php?c=3137
+#EXTINF:-1 group-title="MÚSICA", MTV 00S
+http://blackaddon.com/play/zufree-156.php?c=3138
+#EXTINF:-1 group-title="MÚSICA", MTV 80S
+http://blackaddon.com/play/zufree-156.php?c=3139
+#EXTINF:-1 group-title="ENTRETENCIÓN", Warner
+http://blackaddon.com/play/zufree-156.php?c=3140
+#EXTINF:-1 group-title="LOCALES", A+
+http://blackaddon.com/play/zufree-156.php?c=3141
+#EXTINF:-1 group-title="LOCALES", Azteca 7
+http://blackaddon.com/play/zufree-156.php?c=3142
+#EXTINF:-1 group-title="LOCALES", Azteca UNO
+http://blackaddon.com/play/zufree-156.php?c=3143
+#EXTINF:-1 group-title="LOCALES", Azteca Uno -2 Horas
+http://blackaddon.com/play/zufree-156.php?c=3144
+#EXTINF:-1 group-title="LOCALES", Canal 11
+http://blackaddon.com/play/zufree-156.php?c=3145
+#EXTINF:-1 group-title="LOCALES", Canal 5
+http://blackaddon.com/play/zufree-156.php?c=3146
+#EXTINF:-1 group-title="LOCALES", NU9VE
+http://blackaddon.com/play/zufree-156.php?c=3147
+#EXTINF:-1 group-title="LOCALES", Imagen Television
+http://blackaddon.com/play/zufree-156.php?c=3148
+#EXTINF:-1 group-title="LOCALES", Ingenio TV
+http://blackaddon.com/play/zufree-156.php?c=3149
+#EXTINF:-1 group-title="LOCALES", Las Estrellas
+http://blackaddon.com/play/zufree-156.php?c=3150
+#EXTINF:-1 group-title="LOCALES", Multimedios Plus
+http://blackaddon.com/play/zufree-156.php?c=3151
+#EXTINF:-1 group-title="REGIONALES", Multimedios MTY
+http://blackaddon.com/play/zufree-156.php?c=3152
+#EXTINF:-1 group-title="INFORMACIÓN", Teleformula
+http://blackaddon.com/play/zufree-156.php?c=3153
+#EXTINF:-1 group-title="REGIONALES", Televisa Monterrey
+http://blackaddon.com/play/zufree-156.php?c=3154
+#EXTINF:-1 group-title="INFORMACIÓN", Meganoticias MX
+http://blackaddon.com/play/zufree-156.php?c=3155
+#EXTINF:-1 group-title="ENTRETENCIÓN", RCN Nuestra Tele Internacional
+http://blackaddon.com/play/zufree-156.php?c=3156
+#EXTINF:-1 group-title="ENTRETENCIÓN", A3 Series
+http://blackaddon.com/play/zufree-156.php?c=3157
+#EXTINF:-1 group-title="ENTRETENCIÓN", A&E
+http://blackaddon.com/play/zufree-156.php?c=3158
+#EXTINF:-1 group-title="CINE", AMC
+http://blackaddon.com/play/zufree-156.php?c=3159
+#EXTINF:-1 group-title="ENTRETENCIÓN", Antena 3
+http://blackaddon.com/play/zufree-156.php?c=3160
+#EXTINF:-1 group-title="ENTRETENCIÓN", AXN
+http://blackaddon.com/play/zufree-156.php?c=3161
+#EXTINF:-1 group-title="ENTRETENCIÓN", Az Corazon
+http://blackaddon.com/play/zufree-156.php?c=3162
+#EXTINF:-1 group-title="ENTRETENCIÓN", Az Mundo
+http://blackaddon.com/play/zufree-156.php?c=3163
+#EXTINF:-1 group-title="KIDS", BitMe
+http://blackaddon.com/play/zufree-156.php?c=3164
+#EXTINF:-1 group-title="ENTRETENCIÓN", Caracol
+http://blackaddon.com/play/zufree-156.php?c=3165
+#EXTINF:-1 group-title="ENTRETENCIÓN", Comedy Central
+http://blackaddon.com/play/zufree-156.php?c=3166
+#EXTINF:-1 group-title="ENTRETENCIÓN", Distrito Comedia
+http://blackaddon.com/play/zufree-156.php?c=3167
+#EXTINF:-1 group-title="ENTRETENCIÓN", E!
+http://blackaddon.com/play/zufree-156.php?c=3168
+#EXTINF:-1 group-title="CONOCIMIENTO", El Gourmet
+http://blackaddon.com/play/zufree-156.php?c=3169
+#EXTINF:-1 group-title="ENTRETENCIÓN", Estrella TV
+http://blackaddon.com/play/zufree-156.php?c=3170
+#EXTINF:-1 group-title="CONOCIMIENTO", Food Network
+http://blackaddon.com/play/zufree-156.php?c=3171
+#EXTINF:-1 group-title="ENTRETENCIÓN", Star Channel
+http://blackaddon.com/play/zufree-156.php?c=3172
+#EXTINF:-1 group-title="ENTRETENCIÓN", Star Life
+http://blackaddon.com/play/zufree-156.php?c=3173
+#EXTINF:-1 group-title="ENTRETENCIÓN", FX
+http://blackaddon.com/play/zufree-156.php?c=3175
+#EXTINF:-1 group-title="DEPORTES", Garage TV
+http://blackaddon.com/play/zufree-156.php?c=3176
+#EXTINF:-1 group-title="ENTRETENCIÓN", Glitz
+http://blackaddon.com/play/zufree-156.php?c=3177
+#EXTINF:-1 group-title="ENTRETENCIÓN", Hola TV
+http://blackaddon.com/play/zufree-156.php?c=3178
+#EXTINF:-1 group-title="ENTRETENCIÓN", Lifetime
+http://blackaddon.com/play/zufree-156.php?c=3179
+#EXTINF:-1 group-title="ENTRETENCIÓN", Mas Chic
+http://blackaddon.com/play/zufree-156.php?c=3180
+#EXTINF:-1 group-title="ENTRETENCIÓN", Pasiones
+http://blackaddon.com/play/zufree-156.php?c=3181
+#EXTINF:-1 group-title="ENTRETENCIÓN", RCN
+http://blackaddon.com/play/zufree-156.php?c=3182
+#EXTINF:-1 group-title="ENTRETENCIÓN", Sony
+http://blackaddon.com/play/zufree-156.php?c=3183
+#EXTINF:-1 group-title="ENTRETENCIÓN", TBS
+http://blackaddon.com/play/zufree-156.php?c=3184
+#EXTINF:-1 group-title="ENTRETENCIÓN", Telemundo Internacional
+http://blackaddon.com/play/zufree-156.php?c=3185
+#EXTINF:-1 group-title="ENTRETENCIÓN", Tlnovelas
+http://blackaddon.com/play/zufree-156.php?c=3186
+#EXTINF:-1 group-title="ENTRETENCIÓN", TNT Series
+http://blackaddon.com/play/zufree-156.php?c=3187
+#EXTINF:-1 group-title="ENTRETENCIÓN", TruTV
+http://blackaddon.com/play/zufree-156.php?c=3188
+#EXTINF:-1 group-title="ENTRETENCIÓN", Unicable
+http://blackaddon.com/play/zufree-156.php?c=3189
+#EXTINF:-1 group-title="ENTRETENCIÓN", Univision 41
+http://blackaddon.com/play/zufree-156.php?c=3190
+#EXTINF:-1 group-title="ENTRETENCIÓN", Warner
+http://blackaddon.com/play/zufree-156.php?c=3191
+#EXTINF:-1 group-title="DEPORTES", Adrenalina Sports Network
+http://blackaddon.com/play/zufree-156.php?c=3192
+#EXTINF:-1 group-title="DEPORTES", Afizzionados
+http://blackaddon.com/play/zufree-156.php?c=3193
+#EXTINF:-1 group-title="DEPORTES", AyM Sports
+http://blackaddon.com/play/zufree-156.php?c=3194
+#EXTINF:-1 group-title="DEPORTES", BeinSports ñ
+http://blackaddon.com/play/zufree-156.php?c=3195
+#EXTINF:-1 group-title="DEPORTES", BeinSports USA
+http://blackaddon.com/play/zufree-156.php?c=3196
+#EXTINF:-1 group-title="DEPORTES", Canal Toros
+http://blackaddon.com/play/zufree-156.php?c=3197
+#EXTINF:-1 group-title="DEPORTES", Claro Sports
+http://blackaddon.com/play/zufree-156.php?c=3198
+#EXTINF:-1 group-title="DEPORTES", ESPN 1
+http://blackaddon.com/play/zufree-156.php?c=3199
+#EXTINF:-1 group-title="DEPORTES", ESPN 2
+http://blackaddon.com/play/zufree-156.php?c=3200
+#EXTINF:-1 group-title="DEPORTES", ESPN 3
+http://blackaddon.com/play/zufree-156.php?c=3201
+#EXTINF:-1 group-title="DEPORTES", ESPN +
+http://blackaddon.com/play/zufree-156.php?c=3202
+#EXTINF:-1 group-title="DEPORTES", ESPN Deportes
+http://blackaddon.com/play/zufree-156.php?c=3203
+#EXTINF:-1 group-title="DEPORTES", FOX Deportes
+http://blackaddon.com/play/zufree-156.php?c=3204
+#EXTINF:-1 group-title="DEPORTES", FOX Sports 1
+http://blackaddon.com/play/zufree-156.php?c=3205
+#EXTINF:-1 group-title="DEPORTES", FOX Sports 2
+http://blackaddon.com/play/zufree-156.php?c=3206
+#EXTINF:-1 group-title="DEPORTES", FOX Sports 3
+http://blackaddon.com/play/zufree-156.php?c=3207
+#EXTINF:-1 group-title="DEPORTES", Golf Channel Latinoamerica
+http://blackaddon.com/play/zufree-156.php?c=3208
+#EXTINF:-1 group-title="DEPORTES", Movistar F1 TV
+http://blackaddon.com/play/zufree-156.php?c=3209
+#EXTINF:-1 group-title="DEPORTES", Movistar Golf
+http://blackaddon.com/play/zufree-156.php?c=3210
+#EXTINF:-1 group-title="DEPORTES", NFL Network
+http://blackaddon.com/play/zufree-156.php?c=3211
+#EXTINF:-1 group-title="DEPORTES", Outdoor Channel
+http://blackaddon.com/play/zufree-156.php?c=3212
+#EXTINF:-1 group-title="DEPORTES", SEC ESPN Network
+http://blackaddon.com/play/zufree-156.php?c=3213
+#EXTINF:-1 group-title="DEPORTES", TUDN MX
+http://blackaddon.com/play/zufree-156.php?c=3214
+#EXTINF:-1 group-title="DEPORTES", TUDN USA
+http://blackaddon.com/play/zufree-156.php?c=3215
+#EXTINF:-1 group-title="DEPORTES", TVC Deportes
+http://blackaddon.com/play/zufree-156.php?c=3216
+#EXTINF:-1 group-title="DEPORTES", TyC Sports
+http://blackaddon.com/play/zufree-156.php?c=3217
+#EXTINF:-1 group-title="DEPORTES", UFC Fight Pass
+http://blackaddon.com/play/zufree-156.php?c=3218
+#EXTINF:-1 group-title="DEPORTES", WinSports
+http://blackaddon.com/play/zufree-156.php?c=3219
+#EXTINF:-1 group-title="DEPORTES", Barca TV
+http://blackaddon.com/play/zufree-156.php?c=3220
+#EXTINF:-1 group-title="DEPORTES", Eurosport 1
+http://blackaddon.com/play/zufree-156.php?c=3221
+#EXTINF:-1 group-title="DEPORTES", Eurosport 2
+http://blackaddon.com/play/zufree-156.php?c=3222
+#EXTINF:-1 group-title="DEPORTES", Movistar Deportes
+http://blackaddon.com/play/zufree-156.php?c=3223
+#EXTINF:-1 group-title="DEPORTES", Movistar Deportes 2
+http://blackaddon.com/play/zufree-156.php?c=3224
+#EXTINF:-1 group-title="DEPORTES", Movistar F1
+http://blackaddon.com/play/zufree-156.php?c=3225
+#EXTINF:-1 group-title="DEPORTES", Movistar Golf
+http://blackaddon.com/play/zufree-156.php?c=3226
+#EXTINF:-1 group-title="DEPORTES", Movistar Liga de Campeones
+http://blackaddon.com/play/zufree-156.php?c=3227
+#EXTINF:-1 group-title="DEPORTES", Real Madrid TV
+http://blackaddon.com/play/zufree-156.php?c=3228
+#EXTINF:-1 group-title="DEPORTES", Toros TV
+http://blackaddon.com/play/zufree-156.php?c=3229
+#EXTINF:-1 group-title="DEPORTES", Argentina - ESPN
+http://blackaddon.com/play/zufree-156.php?c=3230
+#EXTINF:-1 group-title="DEPORTES", Argentina - ESPN 2
+http://blackaddon.com/play/zufree-156.php?c=3231
+#EXTINF:-1 group-title="DEPORTES", Argentina - ESPN 3
+http://blackaddon.com/play/zufree-156.php?c=3232
+#EXTINF:-1 group-title="DEPORTES", Argentina - FOX Sports
+http://blackaddon.com/play/zufree-156.php?c=3233
+#EXTINF:-1 group-title="DEPORTES", Argentina - FOX Sports 2
+http://blackaddon.com/play/zufree-156.php?c=3234
+#EXTINF:-1 group-title="DEPORTES", Argentina - FOX Sports 3
+http://blackaddon.com/play/zufree-156.php?c=3235
+#EXTINF:-1 group-title="DEPORTES", Argentina - FOX Sports Premium
+http://blackaddon.com/play/zufree-156.php?c=3236
+#EXTINF:-1 group-title="DEPORTES", Argentina - TNT Sports
+http://blackaddon.com/play/zufree-156.php?c=3237
+#EXTINF:-1 group-title="DEPORTES", Argentina - TYC Sports
+http://blackaddon.com/play/zufree-156.php?c=3238
+#EXTINF:-1 group-title="DEPORTES", Brasil - Sport TV 1
+http://blackaddon.com/play/zufree-156.php?c=3239
+#EXTINF:-1 group-title="DEPORTES", Chile - CFD
+http://blackaddon.com/play/zufree-156.php?c=3240
+#EXTINF:-1 group-title="DEPORTES", Chile - CDF Estadio
+http://blackaddon.com/play/zufree-156.php?c=3241
+#EXTINF:-1 group-title="DEPORTES", Chile - CDF Premium
+http://blackaddon.com/play/zufree-156.php?c=3242
+#EXTINF:-1 group-title="DEPORTES", Chile - CDO Premium
+http://blackaddon.com/play/zufree-156.php?c=3243
+#EXTINF:-1 group-title="DEPORTES", Colombia - Win Sports
+http://blackaddon.com/play/zufree-156.php?c=3244
+#EXTINF:-1 group-title="DEPORTES", Colombia - Win Sports +
+http://blackaddon.com/play/zufree-156.php?c=3245
+#EXTINF:-1 group-title="DEPORTES", Sudamerica - DirecTV Sports
+http://blackaddon.com/play/zufree-156.php?c=3246
+#EXTINF:-1 group-title="DEPORTES", Sudamerica - DirecTV Sports 2
+http://blackaddon.com/play/zufree-156.php?c=3247
+#EXTINF:-1 group-title="DEPORTES", Sudamerica - DirecTV Sports +
+http://blackaddon.com/play/zufree-156.php?c=3248
+#EXTINF:-1 group-title="CONOCIMIENTO", Animal Planet
+http://blackaddon.com/play/zufree-156.php?c=3249
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Channel
+http://blackaddon.com/play/zufree-156.php?c=3250
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Civilization
+http://blackaddon.com/play/zufree-156.php?c=3251
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery H&H
+http://blackaddon.com/play/zufree-156.php?c=3252
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Science
+http://blackaddon.com/play/zufree-156.php?c=3253
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Theater
+http://blackaddon.com/play/zufree-156.php?c=3254
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery TLC
+http://blackaddon.com/play/zufree-156.php?c=3255
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Turbo
+http://blackaddon.com/play/zufree-156.php?c=3256
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery World
+http://blackaddon.com/play/zufree-156.php?c=3257
+#EXTINF:-1 group-title="CONOCIMIENTO", HISTORY 2
+http://blackaddon.com/play/zufree-156.php?c=3258
+#EXTINF:-1 group-title="CONOCIMIENTO", HGTV
+http://blackaddon.com/play/zufree-156.php?c=3259
+#EXTINF:-1 group-title="CONOCIMIENTO", History
+http://blackaddon.com/play/zufree-156.php?c=3260
+#EXTINF:-1 group-title="ENTRETENCIÓN", ID
+http://blackaddon.com/play/zufree-156.php?c=3261
+#EXTINF:-1 group-title="CONOCIMIENTO", NatGeo
+http://blackaddon.com/play/zufree-156.php?c=3262
+#EXTINF:-1 group-title="CONOCIMIENTO", NatGeo Wild
+http://blackaddon.com/play/zufree-156.php?c=3263
+#EXTINF:-1 group-title="KIDS", Baby TV
+http://blackaddon.com/play/zufree-156.php?c=3264
+#EXTINF:-1 group-title="KIDS", Baby First
+http://blackaddon.com/play/zufree-156.php?c=3265
+#EXTINF:-1 group-title="KIDS", Boomerang
+http://blackaddon.com/play/zufree-156.php?c=3266
+#EXTINF:-1 group-title="KIDS", Cartoon Network
+http://blackaddon.com/play/zufree-156.php?c=3267
+#EXTINF:-1 group-title="KIDS", Discovery KIDS
+http://blackaddon.com/play/zufree-156.php?c=3268
+#EXTINF:-1 group-title="KIDS", Disney Channel
+http://blackaddon.com/play/zufree-156.php?c=3269
+#EXTINF:-1 group-title="KIDS", Disney Junior
+http://blackaddon.com/play/zufree-156.php?c=3270
+#EXTINF:-1 group-title="KIDS", Disney XD
+http://blackaddon.com/play/zufree-156.php?c=3271
+#EXTINF:-1 group-title="KIDS", NatGeo KIDS
+http://blackaddon.com/play/zufree-156.php?c=3272
+#EXTINF:-1 group-title="KIDS", Nickelodeon
+http://blackaddon.com/play/zufree-156.php?c=3273
+#EXTINF:-1 group-title="KIDS", TeenNick
+http://blackaddon.com/play/zufree-156.php?c=3274
+#EXTINF:-1 group-title="KIDS", Nick JR
+http://blackaddon.com/play/zufree-156.php?c=3275
+#EXTINF:-1 group-title="MÚSICA", Nickmusic
+http://blackaddon.com/play/zufree-156.php?c=3276
+#EXTINF:-1 group-title="KIDS", Tooncast
+http://blackaddon.com/play/zufree-156.php?c=3277
+#EXTINF:-1 group-title="CINE", Az Cinema
+http://blackaddon.com/play/zufree-156.php?c=3278
+#EXTINF:-1 group-title="CINE", Cinelatino
+http://blackaddon.com/play/zufree-156.php?c=3279
+#EXTINF:-1 group-title="CINE", Cinecanal
+http://blackaddon.com/play/zufree-156.php?c=3280
+#EXTINF:-1 group-title="CINE", Cinemax
+http://blackaddon.com/play/zufree-156.php?c=3281
+#EXTINF:-1 group-title="CINE", De Pelicula
+http://blackaddon.com/play/zufree-156.php?c=3282
+#EXTINF:-1 group-title="CINE", De Pelicula Clasico
+http://blackaddon.com/play/zufree-156.php?c=3283
+#EXTINF:-1 group-title="CINE", De Pelicula Plus
+http://blackaddon.com/play/zufree-156.php?c=3284
+#EXTINF:-1 group-title="CINE", FXM
+http://blackaddon.com/play/zufree-156.php?c=3291
+#EXTINF:-1 group-title="CINE", Golden
+http://blackaddon.com/play/zufree-156.php?c=3292
+#EXTINF:-1 group-title="CINE", Golden EDGE
+http://blackaddon.com/play/zufree-156.php?c=3293
+#EXTINF:-1 group-title="CINE", Golden Plus
+http://blackaddon.com/play/zufree-156.php?c=3294
+#EXTINF:-1 group-title="CINE PREMIUM", Golden Premier
+http://blackaddon.com/play/zufree-156.php?c=3295
+#EXTINF:-1 group-title="CINE PREMIUM", HBO
+http://blackaddon.com/play/zufree-156.php?c=3296
+#EXTINF:-1 group-title="CINE PREMIUM", HBO 2
+http://blackaddon.com/play/zufree-156.php?c=3297
+#EXTINF:-1 group-title="CINE PREMIUM", HBO Family
+http://blackaddon.com/play/zufree-156.php?c=3298
+#EXTINF:-1 group-title="CINE PREMIUM", HBO Mundi
+http://blackaddon.com/play/zufree-156.php?c=3299
+#EXTINF:-1 group-title="CINE PREMIUM", HBO Plus
+http://blackaddon.com/play/zufree-156.php?c=3300
+#EXTINF:-1 group-title="CINE PREMIUM", HBO Signature
+http://blackaddon.com/play/zufree-156.php?c=3301
+#EXTINF:-1 group-title="CINE PREMIUM", HBO Xtreme
+http://blackaddon.com/play/zufree-156.php?c=3302
+#EXTINF:-1 group-title="ENTRETENCIÓN", I.Sat
+http://blackaddon.com/play/zufree-156.php?c=3303
+#EXTINF:-1 group-title="CINE PREMIUM", HBO POP
+http://blackaddon.com/play/zufree-156.php?c=3304
+#EXTINF:-1 group-title="CINE", Paramount Network
+http://blackaddon.com/play/zufree-156.php?c=3305
+#EXTINF:-1 group-title="CINE", Space
+http://blackaddon.com/play/zufree-156.php?c=3306
+#EXTINF:-1 group-title="CINE", Studio Universal
+http://blackaddon.com/play/zufree-156.php?c=3307
+#EXTINF:-1 group-title="CINE", SyFy
+http://blackaddon.com/play/zufree-156.php?c=3309
+#EXTINF:-1 group-title="ENTRETENCIÓN", TCM
+http://blackaddon.com/play/zufree-156.php?c=3310
+#EXTINF:-1 group-title="CINE", TNT
+http://blackaddon.com/play/zufree-156.php?c=3311
+#EXTINF:-1 group-title="ENTRETENCIÓN", Universal TV
+http://blackaddon.com/play/zufree-156.php?c=3312
+#EXTINF:-1 group-title="MÚSICA", Bandamax
+http://blackaddon.com/play/zufree-156.php?c=3313
+#EXTINF:-1 group-title="MÚSICA", MTV
+http://blackaddon.com/play/zufree-156.php?c=3314
+#EXTINF:-1 group-title="MÚSICA", MTV Hits
+http://blackaddon.com/play/zufree-156.php?c=3315
+#EXTINF:-1 group-title="MÚSICA", MTV Live
+http://blackaddon.com/play/zufree-156.php?c=3316
+#EXTINF:-1 group-title="MÚSICA", Telehit Musica
+http://blackaddon.com/play/zufree-156.php?c=3317
+#EXTINF:-1 group-title="MÚSICA", Telehit
+http://blackaddon.com/play/zufree-156.php?c=3318
+#EXTINF:-1 group-title="MÚSICA", Telehit Plus
+http://blackaddon.com/play/zufree-156.php?c=3319
+#EXTINF:-1 group-title="MÚSICA", MTV 00S
+http://blackaddon.com/play/zufree-156.php?c=3320
+#EXTINF:-1 group-title="MÚSICA", MTV 80S
+http://blackaddon.com/play/zufree-156.php?c=3321
+#EXTINF:-1 group-title="RELIGIÓN", Maria Vision
+http://blackaddon.com/play/zufree-156.php?c=3322
+#EXTINF:-1 group-title="LOCALES", ADN 40
+http://blackaddon.com/play/zufree-156.php?c=3323
+#EXTINF:-1 group-title="INFORMACIÓN", El Financiero Bloomberg
+http://blackaddon.com/play/zufree-156.php?c=3324
+#EXTINF:-1 group-title="INFORMACIÓN", CNN en Espanol
+http://blackaddon.com/play/zufree-156.php?c=3325
+#EXTINF:-1 group-title="INFORMACIÓN", CNN USA
+http://blackaddon.com/play/zufree-156.php?c=3326
+#EXTINF:-1 group-title="INFORMACIÓN", Foro TV
+http://blackaddon.com/play/zufree-156.php?c=3327
+#EXTINF:-1 group-title="INFORMACIÓN", Milenio
+http://blackaddon.com/play/zufree-156.php?c=3328
+#EXTINF:-1 group-title="ENTRETENCIÓN", Antena 3
+http://blackaddon.com/play/zufree-156.php?c=3329
+
+
 #EXTINF:-1 tvg-id="ENLACETV.co" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace
 https://1-349-11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EnlaceJuvenil.mx" tvg-name="Enlace Juvenil" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace Juvenil
@@ -570,3 +1144,335 @@ https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?Pla
 http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 group-title="PERSONAL (flow)",26TV
+http://181.191.141.4:9981/stream/channelid/931767364?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",A&E HD
+http://181.191.141.4:9981/stream/channelid/1061633884?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",A24
+http://181.191.141.4:9981/stream/channelid/1543881397?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",AM Continental
+http://181.191.141.4:9981/stream/channelid/1461913031?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",AM Sports
+http://181.191.141.4:9981/stream/channelid/359833065?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",AMC
+http://181.191.141.4:9981/stream/channelid/169202585?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",AXN HD
+http://181.191.141.4:9981/stream/channelid/1753402049?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Baby TV
+http://181.191.141.4:9981/stream/channelid/1555137065?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",C5N
+http://181.191.141.4:9981/stream/channelid/734028913?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Cadena 3
+http://181.191.141.4:9981/stream/channelid/567830715?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Canal de la Ciudad
+http://181.191.141.4:9981/stream/channelid/1069805917?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Cartoon Network HD
+http://181.191.141.4:9981/stream/channelid/685601258?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Cine.AR
+http://181.191.141.4:9981/stream/channelid/1491881413?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Cinecanal HD
+http://181.191.141.4:9981/stream/channelid/425316660?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Cinemax
+http://181.191.141.4:9981/stream/channelid/1606078654?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",ciudad magazine
+http://181.191.141.4:9981/stream/channelid/1275327731?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",CNN en EspaÃ¦ol
+http://181.191.141.4:9981/stream/channelid/485766222?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",CrÃ°nica
+http://181.191.141.4:9981/stream/channelid/1547044203?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",DeporTV
+http://181.191.141.4:9981/stream/channelid/959577406?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Discovery Channel HD
+http://181.191.141.4:9981/stream/channelid/1841823551?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Discovery H&H HD
+http://181.191.141.4:9981/stream/channelid/593338370?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Discovery Kids
+http://181.191.141.4:9981/stream/channelid/172516479?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Discovery Science
+http://181.191.141.4:9981/stream/channelid/2084815926?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Discovery Theater HD
+http://181.191.141.4:9981/stream/channelid/811740311?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Discovery Turbo
+http://181.191.141.4:9981/stream/channelid/273907486?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Discovery World HD
+http://181.191.141.4:9981/stream/channelid/1170775916?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Disney Channel HD
+http://181.191.141.4:9981/stream/channelid/336517816?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Disney Junior
+http://181.191.141.4:9981/stream/channelid/921973190?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Disney XD
+http://181.191.141.4:9981/stream/channelid/1418456914?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",E! Entertainment
+http://181.191.141.4:9981/stream/channelid/1175345814?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",El Canal  de las Estrellas
+http://181.191.141.4:9981/stream/channelid/1061169648?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",El Gourmet
+http://181.191.141.4:9981/stream/channelid/328356436?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Encuentro
+http://181.191.141.4:9981/stream/channelid/1629308641?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",ESPN 2
+http://181.191.141.4:9981/stream/channelid/371483615?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",ESPN 2 HD
+http://181.191.141.4:9981/stream/channelid/462957684?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",ESPN 3 HD
+http://181.191.141.4:9981/stream/channelid/2062388909?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",ESPN Extra HD
+http://181.191.141.4:9981/stream/channelid/1788551776?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",ESPN HD
+http://181.191.141.4:9981/stream/channelid/1469125493?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Film & Arts HD
+http://181.191.141.4:9981/stream/channelid/1301502662?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",FM 100
+http://181.191.141.4:9981/stream/channelid/1084839082?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Fox Sports 2 HD
+http://181.191.141.4:9981/stream/channelid/1795408407?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Fox Sports 3 HD
+http://181.191.141.4:9981/stream/channelid/1539821382?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Fox Sports HD
+http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Fox Sports Premium HD
+http://181.191.141.4:9981/stream/channelid/60660329?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",FX HD
+http://181.191.141.4:9981/stream/channelid/333875611?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",FX Movies HD
+http://181.191.141.4:9981/stream/channelid/1776419326?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Galicia TV
+http://181.191.141.4:9981/stream/channelid/1691238473?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Glitz
+http://181.191.141.4:9981/stream/channelid/2090285312?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",HBO
+http://181.191.141.4:9981/stream/channelid/1891222005?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",HBO 2
+http://181.191.141.4:9981/stream/channelid/1348061264?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",HBO Family
+http://181.191.141.4:9981/stream/channelid/404483297?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",HBO Plus
+http://181.191.141.4:9981/stream/channelid/340621241?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",HGTV
+http://181.191.141.4:9981/stream/channelid/1074479430?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",History 2
+http://181.191.141.4:9981/stream/channelid/886152250?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",HTV
+http://181.191.141.4:9981/stream/channelid/401192013?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",I-Sat
+http://181.191.141.4:9981/stream/channelid/986884731?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",La Nacion TV
+http://181.191.141.4:9981/stream/channelid/243224648?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",La Tele
+http://181.191.141.4:9981/stream/channelid/765269091?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Metro
+http://181.191.141.4:9981/stream/channelid/851458238?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Mitre AM790
+http://181.191.141.4:9981/stream/channelid/541102658?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",MTV
+http://181.191.141.4:9981/stream/channelid/2469161?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Nacional
+http://181.191.141.4:9981/stream/channelid/1959797170?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Nat Geo HD
+http://181.191.141.4:9981/stream/channelid/1887575995?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Nat Geo Kids
+http://181.191.141.4:9981/stream/channelid/1069550335?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Natgeo Wild HD
+http://181.191.141.4:9981/stream/channelid/1820566379?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Nickelodeon
+http://181.191.141.4:9981/stream/channelid/985295901?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Pakapaka
+http://181.191.141.4:9981/stream/channelid/2107207963?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Quiero Musica
+http://181.191.141.4:9981/stream/channelid/23253608?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",RAI Italia
+http://181.191.141.4:9981/stream/channelid/1726107404?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Rural
+http://181.191.141.4:9981/stream/channelid/1473600554?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Saeta Canal 10
+http://181.191.141.4:9981/stream/channelid/103374338?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Somos Nacional
+http://181.191.141.4:9981/stream/channelid/97823377?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Sony HD
+http://181.191.141.4:9981/stream/channelid/900158665?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Space HD
+http://181.191.141.4:9981/stream/channelid/1139727443?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Star Channel HD
+http://181.191.141.4:9981/stream/channelid/494575838?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Star Life
+http://181.191.141.4:9981/stream/channelid/497096544?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Studio Universal
+http://181.191.141.4:9981/stream/channelid/750601861?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",SyFy
+http://181.191.141.4:9981/stream/channelid/2119587575?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",TBS HD
+http://181.191.141.4:9981/stream/channelid/230985306?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",TCM
+http://181.191.141.4:9981/stream/channelid/1490081439?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",The History Channel HD
+http://181.191.141.4:9981/stream/channelid/1075086592?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",TN HD
+http://181.191.141.4:9981/stream/channelid/741145843?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",TNT HD
+http://181.191.141.4:9981/stream/channelid/190293602?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",TNT Series
+http://181.191.141.4:9981/stream/channelid/570384589?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",TNT Sports HD
+http://181.191.141.4:9981/stream/channelid/1708683349?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",TruTV HD
+http://181.191.141.4:9981/stream/channelid/369370178?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",TVE
+http://181.191.141.4:9981/stream/channelid/419589038?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",TyC Sports HD
+http://181.191.141.4:9981/stream/channelid/1517208799?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Universal HD
+http://181.191.141.4:9981/stream/channelid/1228704801?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Volver
+http://181.191.141.4:9981/stream/channelid/271365858?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Warner Channel HD
+http://181.191.141.4:9981/stream/channelid/1818231013?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",America TV HD
+http://181.191.141.4:9981/stream/channelid/1225739939?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",el nueve HD
+http://181.191.141.4:9981/stream/channelid/647912218?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",el trece HD
+http://181.191.141.4:9981/stream/channelid/2033616169?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",Telefe HD
+http://181.191.141.4:9981/stream/channelid/410397537?profile=pass
+#EXTINF:-1 group-title="PERSONAL (flow)",TV Publica HD
+http://181.191.141.4:9981/stream/channelid/961486854?profile=pass
+
+
+#EXTINF:-1 group-title="VTR",24 HORAS
+http://45.160.73.129:8888/play/a05d/index.m3u8
+#EXTINF:-1 group-title="VTR",AE Mundo
+http://45.160.73.129:8888/play/a00n/index.m3u8
+#EXTINF:-1 group-title="VTR",AXN
+http://45.160.73.129:8888/play/a03e/index.m3u8
+#EXTINF:-1 group-title="VTR",AXN1
+http://45.160.73.129:8888/play/a001/index.m3u8
+#EXTINF:-1 group-title="VTR",AXN2
+http://45.160.73.129:8888/play/a002/index.m3u8
+#EXTINF:-1 group-title="VTR",Animal Planet
+http://45.160.73.129:8888/play/a00e/index.m3u8
+#EXTINF:-1 group-title="VTR",CANAL 13
+http://45.160.73.129:8888/play/a04x/index.m3u8
+#EXTINF:-1 group-title="VTR",CHV
+http://45.160.73.129:8888/play/a04w/index.m3u8
+#EXTINF:-1 group-title="VTR",CNN Chile
+http://45.160.73.129:8888/play/a01r/index.m3u8
+#EXTINF:-1 group-title="VTR",CNN Espanol
+http://45.160.73.129:8888/play/a056/index.m3u8
+#EXTINF:-1 group-title="VTR",Canal de Las estrellas
+http://45.160.73.129:8888/play/a00r/index.m3u8
+#EXTINF:-1 group-title="VTR",Cartoon Network
+http://45.160.73.129:8888/play/a01u/index.m3u8
+#EXTINF:-1 group-title="VTR",Cinecanal
+http://45.160.73.129:8888/play/a04j/index.m3u8
+#EXTINF:-1 group-title="VTR",Cinemax
+http://45.160.73.129:8888/play/a03c/index.m3u8
+#EXTINF:-1 group-title="VTR",Discovery Channel
+http://45.160.73.129:8888/play/a00d/index.m3u8
+#EXTINF:-1 group-title="VTR",Discovery ID
+http://45.160.73.129:8888/play/a023/index.m3u8
+#EXTINF:-1 group-title="VTR",Discovery Kids
+http://45.160.73.129:8888/play/a055/index.m3u8
+#EXTINF:-1 group-title="VTR",Discovery Turbo
+http://45.160.73.129:8888/play/a03p/index.m3u8
+#EXTINF:-1 group-title="VTR",Disney Channel
+http://45.160.73.129:8888/play/a045/index.m3u8
+#EXTINF:-1 group-title="VTR",Disney Jr
+http://45.160.73.129:8888/play/a05c/index.m3u8
+#EXTINF:-1 group-title="VTR",Disney XD
+http://45.160.73.129:8888/play/a01h/index.m3u8
+#EXTINF:-1 group-title="VTR",E Entertainment
+http://45.160.73.129:8888/play/a00g/index.m3u8
+#EXTINF:-1 group-title="VTR",ESPN
+http://45.160.73.129:8888/play/a00i/index.m3u8
+#EXTINF:-1 group-title="VTR",ESPN 2
+http://45.160.73.129:8888/play/a00j/index.m3u8
+#EXTINF:-1 group-title="VTR",ESPN 2 CO
+http://45.160.73.129:8888/play/a032/index.m3u8
+#EXTINF:-1 group-title="VTR",ESPN 3
+http://45.160.73.129:8888/play/a03r/index.m3u8
+#EXTINF:-1 group-title="VTR",Enlace
+http://45.160.73.129:8888/play/a01z/index.m3u8
+#EXTINF:-1 group-title="VTR",FX
+http://45.160.73.129:8888/play/a03g/index.m3u8
+#EXTINF:-1 group-title="VTR",FXM
+http://45.160.73.129:8888/play/a057/index.m3u8
+#EXTINF:-1 group-title="VTR",Fox Life
+http://45.160.73.129:8888/play/a01q/index.m3u8
+#EXTINF:-1 group-title="VTR",Fox Sports
+http://45.160.73.129:8888/play/a00h/index.m3u8
+#EXTINF:-1 group-title="VTR",Fox Sports 3
+http://45.160.73.129:8888/play/a00t/index.m3u8
+#EXTINF:-1 group-title="VTR",GOL TV
+http://45.160.73.129:8888/play/a04q/index.m3u8
+#EXTINF:-1 group-title="VTR",HBO
+http://45.160.73.129:8888/play/a03b/index.m3u8
+#EXTINF:-1 group-title="VTR",HBO 2
+http://45.160.73.129:8888/play/a05f/index.m3u8
+#EXTINF:-1 group-title="VTR",HBO Family
+http://45.160.73.129:8888/play/a05h/index.m3u8
+#EXTINF:-1 group-title="VTR",HBO Plus
+http://45.160.73.129:8888/play/a05g/index.m3u8
+#EXTINF:-1 group-title="VTR",HBO XTREME SD
+http://45.160.73.129:8888/play/a05b/index.m3u8
+#EXTINF:-1 group-title="VTR",History Channel
+http://45.160.73.129:8888/play/a01j/index.m3u8
+#EXTINF:-1 group-title="VTR",Home and Health
+http://45.160.73.129:8888/play/a027/index.m3u8
+#EXTINF:-1 group-title="VTR",I-Sat
+http://45.160.73.129:8888/play/a01n/index.m3u8
+#EXTINF:-1 group-title="VTR",La Red
+http://45.160.73.129:8888/play/a04t/index.m3u8
+#EXTINF:-1 group-title="VTR",MTV
+http://45.160.73.129:8888/play/a01o/index.m3u8
+#EXTINF:-1 group-title="VTR",Mega
+http://45.160.73.129:8888/play/a04v/index.m3u8
+#EXTINF:-1 group-title="VTR",NTV
+http://45.160.73.129:8888/play/a013/index.m3u8
+#EXTINF:-1 group-title="VTR",Nat Geo
+http://45.160.73.129:8888/play/a01i/index.m3u8
+#EXTINF:-1 group-title="VTR",NatGeo Kids
+http://45.160.73.129:8888/play/a01t/index.m3u8
+#EXTINF:-1 group-title="VTR",Nick Jr
+http://45.160.73.129:8888/play/a03o/index.m3u8
+#EXTINF:-1 group-title="VTR",Nickelodeon
+http://45.160.73.129:8888/play/a04b/index.m3u8
+#EXTINF:-1 group-title="VTR",RCN Novelas
+http://45.160.73.129:8888/play/a022/index.m3u8
+#EXTINF:-1 group-title="VTR",STAR CHANNEL
+http://45.160.73.129:8888/play/a04c/index.m3u8
+#EXTINF:-1 group-title="VTR",Sony
+http://45.160.73.129:8888/play/a03d/index.m3u8
+#EXTINF:-1 group-title="VTR",Space
+http://45.160.73.129:8888/play/a03f/index.m3u8
+#EXTINF:-1 group-title="VTR",TBS
+http://45.160.73.129:8888/play/a026/index.m3u8
+#EXTINF:-1 group-title="VTR",TCM
+http://45.160.73.129:8888/play/a01s/index.m3u8
+#EXTINF:-1 group-title="VTR",TLC
+http://45.160.73.129:8888/play/a014/index.m3u8
+#EXTINF:-1 group-title="VTR",TNT
+http://45.160.73.129:8888/play/a01v/index.m3u8
+#EXTINF:-1 group-title="VTR",TNT SPORT 2 ROBADO
+http://45.160.73.129:8888/play/a00x/index.m3u8
+#EXTINF:-1 group-title="VTR",TNT SPORT 3 (CDF BASICO)
+http://45.160.73.129:8888/play/a00m/index.m3u8
+#EXTINF:-1 group-title="VTR",TNT SPORTS 2
+http://45.160.73.129:8888/play/a012/index.m3u8
+#EXTINF:-1 group-title="VTR",TVE
+http://45.160.73.129:8888/play/a020/index.m3u8
+#EXTINF:-1 group-title="VTR",TVN
+http://45.160.73.129:8888/play/a04u/index.m3u8
+#EXTINF:-1 group-title="VTR",Telemundo
+http://45.160.73.129:8888/play/a04p/index.m3u8
+#EXTINF:-1 group-title="VTR",Travel and Living
+http://45.160.73.129:8888/play/a00p/index.m3u8
+#EXTINF:-1 group-title="VTR",TyC
+http://45.160.73.129:8888/play/a04r/index.m3u8
+#EXTINF:-1 group-title="VTR",Universal
+http://45.160.73.129:8888/play/a01l/index.m3u8
+#EXTINF:-1 group-title="VTR",ViaX
+http://45.160.73.129:8888/play/a00q/index.m3u8
+#EXTINF:-1 group-title="VTR",Warner
+http://45.160.73.129:8888/play/a00f/index.m3u8
+#EXTINF:-1 group-title="VTR",Zona Latina
+http://45.160.73.129:8888/play/a01p/index.m3u8
