@@ -1144,6 +1144,40 @@ https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?Pla
 http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
+http://clubtv.link/iptv/p13/distro.php?c=euronews-spa&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine
+http://clubtv.link/iptv/p13/distro.php?c=top-cine-latam&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos
+http://clubtv.link/iptv/p13/distro.php?c=juntos&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real
+http://clubtv.link/iptv/p13/distro.php?c=cine-real-latam&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño
+http://clubtv.link/iptv/p13/distro.php?c=cine-sureno&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy
+http://clubtv.link/iptv/p13/distro.php?c=casa-comedy&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/R6L274o.png" group-title="DISTRO TV",Spanglish
+http://clubtv.link/iptv/p13/distro.php?c=spanglish&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6W5H0ww.png" group-title="DISTRO TV",Horrofy
+http://clubtv.link/iptv/p13/distro.php?c=horrofy&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp
+http://clubtv.link/iptv/p13/distro.php?c=wapptv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MwHOw6v.png" group-title="DISTRO TV",Tu Cine
+http://clubtv.link/iptv/p13/distro.php?c=tu.cine-latam&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="DISTRO TV",El Conflicto TV
+http://clubtv.link/iptv/p13/distro.php?c=el-conflicto-tv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas
+http://clubtv.link/iptv/p13/distro.php?c=saber-mas&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CSdHTbt.png" group-title="DISTRO TV",Flash
+http://clubtv.link/iptv/p13/distro.php?c=flash-1&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oUB44oQ.png" group-title="DISTRO TV",MMC
+http://clubtv.link/iptv/p13/distro.php?c=mmc&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="DISTRO TV",Chiquilines
+http://clubtv.link/iptv/p13/distro.php?c=chiquilines&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
+http://clubtv.link/iptv/p13/distro.php?c=glewedtv-spanish&f=.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png"  group-title="Lista 01", A+
 http://blackaddon.com/play/pl-235.php?c=406&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png"  group-title="Lista 01", A3Series
