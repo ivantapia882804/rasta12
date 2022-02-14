@@ -3249,7 +3249,7 @@ https://channel-rms-cdn.blim.com/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
-#EXTINF:-1 tvg-id="TelehitPlus.mx" tvg-logo="https://static.epg.best/mx/TelehitHD.mx.png"  group-title="Blim TV (OTT NAV)", TELEHIT PLUS
+#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-logo="https://static.epg.best/mx/TelehitHD.mx.png"  group-title="Blim TV (OTT NAV)", TELEHIT PLUS
 https://channel-telehitplus-cdn.blim.com/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3259,7 +3259,7 @@ https://channel-tlnovelas-cdn.blim.com/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
-#EXTINF:-1 tvg-id="Telemundo.mx" tvg-logo="https://static.flow.com.ar/images/7117/CH_LOGO/60/40/0/40/96362376074301.png"  group-title="Blim TV (OTT NAV)", TELEMUNDO
+#EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-logo="https://static.flow.com.ar/images/7117/CH_LOGO/60/40/0/40/96362376074301.png"  group-title="Blim TV (OTT NAV)", TELEMUNDO
 https://channel-telemundo-cdn.blim.com/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3284,7 +3284,7 @@ https://channel-antena3-cdn.blim.com/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
-#EXTINF:-1 tvg-id="TVEInternacional.mx" tvg-logo="https://static.flow.com.ar/images/728/CH_LOGO/60/40/0/40/834899000759.png"  group-title="Blim TV (OTT NAV)", TVE
+#EXTINF:-1 tvg-id="TVEAmericaTelevisionEspanola.mx" tvg-logo="https://static.flow.com.ar/images/728/CH_LOGO/60/40/0/40/834899000759.png"  group-title="Blim TV (OTT NAV)", TVE
 https://channel-tve-cdn.blim.com/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
