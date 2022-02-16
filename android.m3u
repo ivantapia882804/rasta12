@@ -5600,7 +5600,7 @@ https://channel-adrenalina-cdn.blim.com/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://blackaddon.com/get/lic-mega.php
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
 #EXTINF:-1 tvg-id="Canal24Horas.mx" tvg-name="24 Hrs"  group-title="IzziGo (OTT NAV)",24 Hrs
 #KODIPROP:inputstreamaddon=inputstream.adaptive
