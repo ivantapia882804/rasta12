@@ -5200,14 +5200,14 @@ https://channel-adrenalina-cdn.blim.com/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live4-ott.izzigo.tv/out/u/dash/24-HRS-SD/default.mpd
-#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="A Plus"  group-title="IzziGo (OTT NAV)",A Plus
+#EXTINF:-1 tvg-id="XHFNTDT2.mx" tvg-name="A+"  group-title="IzziGo (OTT NAV)",A+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd
-#EXTINF:-1 tvg-id="Antena3.mx" tvg-name="A3 Cine"  group-title="IzziGo (OTT NAV)",A3 Cine
+#EXTINF:-1 tvg-id="A3Cine(Spanish).us" tvg-name="A3 Cine"  group-title="IzziGo (OTT NAV)",A3 Cine
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
@@ -5284,7 +5284,7 @@ https://live3-ott.izzigo.tv/out/u/dash/AXN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno"  group-title="IzziGo (OTT NAV)",Azteca Uno
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno"  group-title="IzziGo (OTT NAV)",Azteca Uno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
@@ -5319,21 +5319,21 @@ https://live3-ott.izzigo.tv/out/u/dash/BBC-WORLD-NEWS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
-#EXTINF:-1 tvg-id="Bloomberg.mx" tvg-name="Blomberg Mexico"  group-title="IzziGo (OTT NAV)",Blomberg Mexico
+#EXTINF:-1 tvg-id="Bloomberg.mx" tvg-name="El Financiero Bloomberg"  group-title="IzziGo (OTT NAV)",El Financiero Bloomberg
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang"  group-title="IzziGo (OTT NAV)",Boomerang
+#EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="Cartoonito"  group-title="IzziGo (OTT NAV)",Cartoonito
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
-#EXTINF:-1 tvg-id="CANAL22INTERNACIONAL.mx" tvg-name="Canal 22"  group-title="IzziGo (OTT NAV)",Canal 22
+#EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22"  group-title="IzziGo (OTT NAV)",Canal 22
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
@@ -5347,7 +5347,7 @@ https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
-#EXTINF:-1 tvg-id="CanalNu9ve.mx" tvg-name="Canal 9"  group-title="IzziGo (OTT NAV)",Canal 9
+#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="Canal 9"  group-title="IzziGo (OTT NAV)",Canal 9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
@@ -5389,7 +5389,7 @@ https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live5-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd
-#EXTINF:-1 tvg-id="ClanTv.mx" tvg-name="Clan"  group-title="IzziGo (OTT NAV)",Clan
+#EXTINF:-1 tvg-id="Clan.mx" tvg-name="Clan"  group-title="IzziGo (OTT NAV)",Clan
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
@@ -5452,7 +5452,7 @@ https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Home Garden"  group-title="IzziGo (OTT NAV)",Discovery Home Garden
+#EXTINF:-1 tvg-id="HGTV.mx" tvg-name="HGTV"  group-title="IzziGo (OTT NAV)",HGTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
@@ -5578,21 +5578,21 @@ https://live1-ott.izzigo.tv/out/u/dash/GOURMET-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live5-ott.izzigo.tv/out/u/dash/ENLACE-SD/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Esne"  group-title="IzziGo (OTT NAV)",Esne
+#EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="Esne"  group-title="IzziGo (OTT NAV)",Esne
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live5-ott.izzigo.tv/out/u/dash/ESNE-SD/default.mpd
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="Espn"  group-title="IzziGo (OTT NAV)",Espn
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="Espn2"  group-title="IzziGo (OTT NAV)",Espn2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="Espn 2"  group-title="IzziGo (OTT NAV)",Espn 2
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="Espn"  group-title="IzziGo (OTT NAV)",Espn
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
@@ -5655,7 +5655,35 @@ https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd
-#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="Fox Life"  group-title="IzziGo (OTT NAV)",Fox Life
+#EXTINF:-1 tvg-id="" tvg-name="U+"  group-title="IzziGo (OTT NAV)",U+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
+https://live3-ott.izzigo.tv/out/u/dash/FOX-CLASSICS-HD/default.mpd
+#EXTINF:-1 tvg-id="" tvg-name="U+"  group-title="IzziGo (OTT NAV)",U+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
+https://live2-ott.izzigo.tv/out/u/dash/FOX-COMEDY-HD/default.mpd
+#EXTINF:-1 tvg-id="" tvg-name="U+"  group-title="IzziGo (OTT NAV)",U+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
+https://live2-ott.izzigo.tv/out/u/dash/FOX-FAMILY-(WEST)-SD/default.mpd
+#EXTINF:-1 tvg-id="" tvg-name="U+"  group-title="IzziGo (OTT NAV)",U+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
+https://live3-ott.izzigo.tv/out/u/dash/FOX-MOVIES-HD/default.mpd
+#EXTINF:-1 tvg-id="StarLife.mx" tvg-name="Star Life"  group-title="IzziGo (OTT NAV)",Star Life
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
@@ -5669,13 +5697,55 @@ https://live2-ott.izzigo.tv/out/u/dash/FOX-LIFE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live2-ott.izzigo.tv/out/u/dash/FOX-NEWS-HD/default.mpd
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Fox O"  group-title="IzziGo (OTT NAV)",Star Channel
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel"  group-title="IzziGo (OTT NAV)",Star Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
+#EXTINF:-1 tvg-id="" tvg-name="U+"  group-title="IzziGo (OTT NAV)",U+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
+https://live3-ott.izzigo.tv/out/u/dash/FOX-ACTION-HD/default.mpd
+#EXTINF:-1 tvg-id="" tvg-name="U+"  group-title="IzziGo (OTT NAV)",U+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
+https://live2-ott.izzigo.tv/out/u/dash/FOX-ACTION-(WEST)-SD/default.mpd
+#EXTINF:-1 tvg-id="" tvg-name="U+"  group-title="IzziGo (OTT NAV)",U+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
+https://live4-ott.izzigo.tv/out/u/dash/FOX-CINEMA-HD/default.mpd
+#EXTINF:-1 tvg-id="" tvg-name="U+"  group-title="IzziGo (OTT NAV)",U+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
+https://live2-ott.izzigo.tv/out/u/dash/FOX-FAMILY-HD/default.mpd
+#EXTINF:-1 tvg-id="" tvg-name="U+"  group-title="IzziGo (OTT NAV)",U+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
+https://live4-ott.izzigo.tv/out/u/dash/FOX-1-SERIES-HD/default.mpd
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="IzziGo (OTT NAV)",U+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
+https://live2-ott.izzigo.tv/out/u/dash/FOX-SERIES-(WEST)-SD/default.mpd
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports"  group-title="IzziGo (OTT NAV)",Fox Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -5732,7 +5802,7 @@ https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden Hd"  group-title="IzziGo (OTT NAV)",Golden Hd
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="Golden Plus"  group-title="IzziGo (OTT NAV)",Golden Plus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
@@ -5858,14 +5928,14 @@ https://d27tvzq2si8mqa.cloudfront.net/out/v1/fcd0c858d99b4a94b36623d32b9b59af/de
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live5-ott.izzigo.tv/out/u/dash/INGENIO-SD/default.mpd
-#EXTINF:-1 tvg-id="Inova.mx" tvg-name="Innova"  group-title="IzziGo (OTT NAV)",Innova
+#EXTINF:-1 tvg-id="Inova.mx" tvg-name="Inova"  group-title="IzziGo (OTT NAV)",Inova
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live1-ott.izzigo.tv/out/u/dash/INNOVA-SD/default.mpd
-#EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Investigation Discovery"  group-title="IzziGo (OTT NAV)",Investigation Discovery
+#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID"  group-title="IzziGo (OTT NAV)",ID
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
@@ -5893,7 +5963,7 @@ https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live4-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
-#EXTINF:-1 tvg-id="LasEstrellasInternacional.mx" tvg-name="Las Estrellas 2hrs"  group-title="IzziGo (OTT NAV)",Las Estrellas 2hrs
+#EXTINF:-1 tvg-id="XHUAATDT.mx" tvg-name="Las Estrellas 2hrs"  group-title="IzziGo (OTT NAV)",Las Estrellas 2hrs
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
@@ -5942,14 +6012,14 @@ https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live2-ott.izzigo.tv/out/u/dash/MTV-HD/default.mpd
-#EXTINF:-1 tvg-id="MTV(English).mx" tvg-name="Mtv Dance"  group-title="IzziGo (OTT NAV)",Mtv Dance
+#EXTINF:-1 tvg-id="ClubMTV(English).mx" tvg-name="Club MTV"  group-title="IzziGo (OTT NAV)",Club MTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
-#EXTINF:-1 tvg-id="MTVHits(English).mx" tvg-name="Mtv Hits"  group-title="IzziGo (OTT NAV)",Mtv Hits
+#EXTINF:-1 tvg-id="MTVHits.es" tvg-name="Mtv Hits"  group-title="IzziGo (OTT NAV)",Mtv Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
@@ -6278,14 +6348,14 @@ https://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live4-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
-#EXTINF:-1 tvg-id="VH1.mx" tvg-name="Vh1"  group-title="IzziGo (OTT NAV)",Vh1
+#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s"  group-title="IzziGo (OTT NAV)",MTV 00s
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
-#EXTINF:-1 tvg-id="VH1Megahits.mx" tvg-name="Vh1 Classic"  group-title="IzziGo (OTT NAV)",Vh1 Classic
+#EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="MTV 80s"  group-title="IzziGo (OTT NAV)",MTV 80s
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
