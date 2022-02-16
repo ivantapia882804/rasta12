@@ -5557,7 +5557,7 @@ https://live5-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live3-ott.izzigo.tv/out/u/dash/E-Entertainment-HD/default.mpd
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="Ea"  group-title="IzziGo (OTT NAV)",Ea
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E"  group-title="IzziGo (OTT NAV)",A&E
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
@@ -6159,14 +6159,14 @@ https://live1-ott.izzigo.tv/out/u/dash/TELEFE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live4-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
-#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="Telehit"  group-title="IzziGo (OTT NAV)",Telehit
+#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Música Plus"  group-title="IzziGo (OTT NAV)",Telehit Música Plus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlicm3ukodi.php
 https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd
-#EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-name="Telehit Urbano"  group-title="IzziGo (OTT NAV)",Telehit Urbano
+#EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-name="Telehit Música"  group-title="IzziGo (OTT NAV)",Telehit Música
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
