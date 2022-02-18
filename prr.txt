@@ -83,7 +83,7 @@ http://blackaddon.com/play/totalp2s-226.php?c=322&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/totalp2s-226.php?c=2298&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="XHCTRMTDT4.mx" tvg-name="Imagen Multicast" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx4.jpg" group-title="LOCALES",Imagen Multicast
 http://blackaddon.com/play/totalp2s-226.php?c=1449&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="MULTIMEDIOSPLUS.mx" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX
 http://blackaddon.com/play/totalp2s-226.php?c=1253&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 Monterrey (XHAW-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 Monterrey (XHAW-TDT)
 http://blackaddon.com/play/totalp2s-226.php?c=2305&p=3&k=black&f=.m3u8
@@ -121,7 +121,7 @@ http://blackaddon.com/play/totalp2s-226.php?c=2331&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/totalp2s-226.php?c=2352&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="LOCALES",Imagen Televisión (HD)
 http://blackaddon.com/play/totalp2s-226.php?c=2606&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="MULTIMEDIOSPLUS.mx" tvg-name="Canal 6 CDMX (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX (HD)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDMX (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX (HD)
 http://blackaddon.com/play/totalp2s-226.php?c=2882&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tooncast.png" group-title="KIDS",Tooncast
 http://blackaddon.com/play/totalp2s-226.php?c=108&p=3&k=black&f=.m3u8
