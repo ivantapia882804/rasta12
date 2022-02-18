@@ -6170,7 +6170,7 @@ https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/licencia.php?izlicm3ukodi
-#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="AEC (Sec/Media Sup)"  group-title="IzziGo (OTT NAV)",AEC (Sec/Media Sup)
+#EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22"  group-title="IzziGo (OTT NAV)",Canal 22
 https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-22-SD/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
