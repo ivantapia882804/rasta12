@@ -7039,7 +7039,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/licencia.php?izlicm3ukodi
 #EXTINF:-1 tvg-id="TLC.mx" tvg-name="Tlc"  group-title="IzziGo (OTT NAV)",Tlc
-live3-ott.izzigo.tv/out/u/dash/TLC-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/TLC-HD/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
