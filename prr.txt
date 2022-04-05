@@ -377,6 +377,1142 @@ http://bgapp.live/play/totalp3-400.php?c=2091&p=3&k=black&t=.m3u8
 http://bgapp.live/play/totalp3-400.php?c=2402&p=3&k=black&t=.m3u8
 
 
+#EXTINF:-1 tvg-id="ENLACETV.co" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace
+https://1-349-11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EnlaceJuvenil.mx" tvg-name="Enlace Juvenil" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace Juvenil
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93855/12?f=.m3u8
+#EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="El Sembrador Nueva Evangelización" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/esne.png" group-title="RELIGIÓN",El Sembrador Nueva Evangelización
+https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8
+#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="María Visión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/maria.png" group-title="RELIGIÓN",María Visión
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ewtn.png" group-title="RELIGIÓN",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX
+http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
+#EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+ CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhimt2.png" group-title="LOCALES",A+ CDMX
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-id="XEIPN.mx" tvg-name="Canal Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Canal Once
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="LOCALES",Canal Catorce
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unam.png" group-title="LOCALES",TV UNAM
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
+#EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="LOCALES",Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
+#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="Canal 22.2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="LOCALES",Canal 22.2
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso 45.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.1
+https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados3.smil/chunklist_b500000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.2
+https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados4.smil/chunklist_b500000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.3
+https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
+#EXTINF:-1 tvg-id="QuieroTv.mx" tvg-name="Quiero TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ochotv.png" group-title="REGIONALES",Quiero TV
+https://quierotvlive.tk/httplive/playlist_playlist.m3u8
+#EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 MTY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 MTY
+http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 LAG" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 LAG
+http://mdstrm.com/live-stream-playlist_2500/57bf686a61ff39e1085d43e1.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GDL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 GDL
+http://mdstrm.com/live-stream-playlist_2500/5c54d38ca392a5119bb0aa0d.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 PUE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 PUE
+http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 GTO
+http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
+#EXTINF:-1 tvg-id="XHOAHTDT.mx" tvg-name="Canal 6 SAL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 SAL
+http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDJ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 CDJ
+http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 8 SJCR" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c8cr.png" group-title="REGIONALES",Canal 8 SJCR
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.jpg" group-title="MUSICA",Teleritmo
+http://mdstrm.com/live-stream-playlist_800/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="ENTRETENCIÓN",MVS TV
+https://stream-03.sv4.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqu0k-ONeQE11ysneOi_Zb2w)/dm/3/x7urqme/d/live-4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="REGIONALES PÚBLICOS",Capital 21
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="REGIONALES PÚBLICOS",Mexiquense Televisión
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="REGIONALES PÚBLICOS",AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalisco TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c7.png" group-title="REGIONALES PÚBLICOS",Jalisco TV
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal44(XHUDGTDT).mx" tvg-name="UDGTV 44" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/udg44.png" group-title="REGIONALES PÚBLICOS",UDGTV 44
+https://stream-02.sv4.dailymotion.com/sec(z78NI1m0neFnRd2EIIVngNxPFuGTDJeMHYGExI_Ehy0)/dm/3/x3m1xfy/s/live-1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UDGTV 44 Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/44N.jpg" group-title="REGIONALES PÚBLICOS",UDGTV 44 Noticias
+https://stream-01.sv4.dailymotion.com/sec(B_XzEw6KFrYpQxnvKcvKVAfuvlPFexMn8EfpA_d6kBM)/dm/3/x6km0ku/s/live-1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 28 NL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/28nl.png" group-title="REGIONALES PÚBLICOS",Canal 28 NL
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET TV 26.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/set.png" group-title="REGIONALES PÚBLICOS",SET TV 26.1
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4 Gto." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="REGIONALES PÚBLICOS",TV4 Gto.
+https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.2 Gto." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="REGIONALES PÚBLICOS",TV4.2 Gto.
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.3 Gto." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="REGIONALES PÚBLICOS",TV4.3 Gto.
+https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IMRyT 15.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/imryt.png" group-title="REGIONALES PÚBLICOS",IMRyT 15.1
+http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diez Chiapas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/diez.png" group-title="REGIONALES PÚBLICOS",Diez Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SM 16.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/smr.png" group-title="REGIONALES PÚBLICOS",SM 16.1
+https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Mas 26.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="REGIONALES PÚBLICOS",TV Mas 26.1
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sizart TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sizart.png" group-title="REGIONALES PÚBLICOS",Sizart TV
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTQ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="REGIONALES PÚBLICOS",RTQ
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 10 Chetumal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c10.jpg" group-title="REGIONALES",Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/judic.png" group-title="INFORMACIÓN",Justicia TV
+https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
+#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INFORMACIÓN",RT (Español)
+https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
+#EXTINF:-1 tvg-id="TeleSur.co" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sur.png" group-title="INFORMACIÓN",Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="INFORMACIÓN",DW (Español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="RTInSpanish.mx" tvg-logo="" group-title="INFORMACIÓN", RT ESPANOL
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-logo="" group-title="ENTRETENCIÓN", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCALES", AZTECA UNO (SIN CORTES)
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCALES", AZTECA 7 (SIN CORTES)
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCALES", A MÁS (SIN CORTES)
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCALES", ADN40 (SIN CORTES)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="" group-title="REGIONALES PÚBLICOS", CANAL 26 AGUASCALIENTES
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1 tvg-id="Videorola.mx" tvg-logo="" group-title="MUSICA", VIDEOROLA
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+
+
+#EXTINF:-1 group-title="MUSICA" tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png", Rewind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png", Ruidos TV
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="12" tvg-name="Awka" tvg-logo="https://lh3.googleusercontent.com/-axPzeNdcvq4/X4JBO2dt35I/AAAAAAAA6UM/X-3kz1phNyUa8lUEEnt_0-Nv3OZdOWACwCK8BGAsYHg/s0/2020-10-10.png", Awka
+https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="14" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="3" tvg-name="XTV Music" tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png", XTV Music
+https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0/2020-10-26.png", Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png", Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png", Retro Music Television
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://lh3.googleusercontent.com/-3hmTnW9e-Y4/XbDAlKKxKtI/AAAAAAAArnA/OkLJM2f1T0ktieMaceuBzVPOADwGIf1jACK8BGAsYHg/s0/2019-10-23.png", Carolina TV
+http://unlimited1-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="32" tvg-name="Alegria TV" tvg-logo="https://lh3.googleusercontent.com/-IDCwMaJRdnM/Xb11MVTbE-I/AAAAAAAAr4s/PbNF6ie1AIothtCRKeVvdVC6S5hO6a3xACK8BGAsYHg/s0/2019-11-02.png", Alegria TV
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="37" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png", Canal 38
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="63" tvg-name="Bajo Cero TV" tvg-logo="https://lh3.googleusercontent.com/-bNr32YilkwI/X7gHapMZxAI/AAAAAAAA7hc/tUFlaalIohMz1NqYEMuP77GfeYrh7HBNgCK8BGAsYHg/s0/2020-11-20.png", Bajo Cero TV
+https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png", Conecta TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="18" tvg-name="Corazon Llanero" tvg-logo="https://lh3.googleusercontent.com/-XR46wyY1FZc/XjomdF00q2I/AAAAAAAAvlY/RR7N6BVs2fQVrkRxUvldT5NN7KN5QGDDACK8BGAsYHg/s0/2020-02-04.png", Corazon Llanero
+https://5fa4275407563.streamlock.net:455/corazonllanerotv/corazonllanerotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="15" tvg-name="Eurolatina TV" tvg-logo="https://lh3.googleusercontent.com/-TM44QoGsUd4/X8bhuroUcNI/AAAAAAAA73Y/o84W1d_xBXA1yInTgmrlcjwFIGrFPTv9ACK8BGAsYHg/s0/2020-12-01.jpg", Eurolatina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://lh3.googleusercontent.com/-7rDHdedeWvo/Xmr-CC8Pa2I/AAAAAAAAwyI/X8CvdyCJtdQZutdQi2clULPfWJH0c8S3QCK8BGAsYHg/s0/2020-03-12.png", Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="23" tvg-name="m2o TV" tvg-logo="https://lh3.googleusercontent.com/-8k2_MMN4_Bc/X0Khp3P6tWI/AAAAAAAA46E/RE_IEG7uAo4WhxuJy71et8N5L1BRugBLgCK8BGAsYHg/s0/2020-08-23.png", m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://lh3.googleusercontent.com/-RF13xAQ97o0/XxzMzRqfnBI/AAAAAAAA3Zc/xet9CCbU7H8WEPRQGCXEPpiBxM5RUK6EwCK8BGAsYHg/s0/2020-07-25.png", Maxima FM
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="24" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="20" tvg-name="On Radio Ksun" tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png", On Radio Ksun
+https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="26" tvg-name="RCKStudio" tvg-logo="https://lh3.googleusercontent.com/-k220wrO7Pks/X2tCElFr0xI/AAAAAAAA50E/JjO-VenWP_cETYy8Se1-2pxO3-vMYU5nACK8BGAsYHg/s0/2020-09-23.png", RCKStudio
+https://rckstudio.duckdns.org/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://lh3.googleusercontent.com/-t2WD0yOsfvg/XzxnxYhCPPI/AAAAAAAA4oY/qwvkZXM7rAUzOACe0-fSRAQ7_8n6xb5wgCK8BGAsYHg/s0/2020-08-18.png", The Retro Channel
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="25" tvg-name="TuTv Quillota" tvg-logo="https://lh3.googleusercontent.com/-WD49JzHZ9cM/Xrsv-mIjUjI/AAAAAAAA0rs/g_Pgm6hQvNIbp8aHuvQ3H7kEkiu3-M4zQCK8BGAsYHg/s0/2020-05-12.png", TuTv Quillota
+https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="34" tvg-name="TV vconline.cl" tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png", TV vconline.cl
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="29" tvg-name="DJ Loncho TV" tvg-logo="https://lh3.googleusercontent.com/-VPBp6Vk47T4/XnzDahiuJCI/AAAAAAAAxMI/BkejtQRObwcVvsIvYbdi3Yf5UOizKSRoQCK8BGAsYHg/s0/2020-03-26.png", DJ Loncho TV
+https://srv2.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="28" tvg-name="Natural TV" tvg-logo="https://lh3.googleusercontent.com/-mHhSrfB607c/Xofchq4pWAI/AAAAAAAAxd8/1PbG6O1b6ZU6d_G1AImfuPfCMgxVk9eeACK8BGAsYHg/s0/2020-04-03.png", Natural TV
+http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="42" tvg-name="RadioTV.pro" tvg-logo="https://lh3.googleusercontent.com/-wwOQH4WvSZI/X5jEE-BBCmI/AAAAAAAA6y4/RgkfOZHscEIH9ceLQR6UPtuXQQUw0FXCACK8BGAsYHg/s0/2020-10-27.png", RadioTV.pro
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png", TV Exitos
+http://siglo21.dnsalias.com:8080/mylive/tvexitos/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica
+https://5f2eaf2aa4061.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg", Karibeña TV
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg", Best Cable Music
+https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg", Hatun TV
+https://live.siete.us:1991/bestcablehatuntv/bestcablehatuntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png", Mas Cumbia
+https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png", Turbo Mix TV
+http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="ENTRETENCIÓN", A&E
+http://bgapp.live/play/14-400.php?c=1&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="ENTRETENCIÓN", A&E Sur
+http://bgapp.live/play/14-400.php?c=734&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="ENTRETENCIÓN", A&E
+http://bgapp.live/play/14-400.php?c=474&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" group-title="LOCALES", A+
+http://bgapp.live/play/14-400.php?c=406&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="ENTRETENCIÓN", A3Series
+http://bgapp.live/play/14-400.php?c=444&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png" group-title="LOCALES", ADN 40
+http://bgapp.live/play/14-400.php?c=447&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="DEPORTES", Afizzionados
+http://bgapp.live/play/14-400.php?c=878&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7", Alf 24/7
+http://bgapp.live/play/14-400.php?c=426&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="ENTRETENCIÓN", AMC
+http://bgapp.live/play/14-400.php?c=183&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="CINE", AMC ES
+http://bgapp.live/play/14-400.php?c=715&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="CINE", AMC
+http://bgapp.live/play/14-400.php?c=475&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="ENTRETENCIÓN", America
+http://bgapp.live/play/14-400.php?c=780&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="CONOCIMIENTO", Animal Planet
+http://bgapp.live/play/14-400.php?c=3&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="CONOCIMIENTO", Animal Planet
+http://bgapp.live/play/14-400.php?c=633&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7", Animaniacs 24/7
+http://bgapp.live/play/14-400.php?c=677&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Anime 24H
+http://bgapp.live/play/14-400.php?c=269&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="ENTRETENCIÓN", Antena 3
+http://bgapp.live/play/14-400.php?c=298&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="ENTRETENCIÓN", AXN
+http://bgapp.live/play/14-400.php?c=146&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="ENTRETENCIÓN", AXN Sur
+http://bgapp.live/play/14-400.php?c=804&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="ENTRETENCIÓN", AXN (ES)
+http://bgapp.live/play/14-400.php?c=713&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="ENTRETENCIÓN", AXN
+http://bgapp.live/play/14-400.php?c=476&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="ENTRETENCIÓN", AXN WHITE (ES)
+http://bgapp.live/play/14-400.php?c=714&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="DEPORTES", AyM Sports
+http://bgapp.live/play/14-400.php?c=148&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" group-title="CINE", Az Cinema
+http://bgapp.live/play/14-400.php?c=186&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png" group-title="ENTRETENCIÓN", Az Clic
+http://bgapp.live/play/14-400.php?c=165&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="ENTRETENCIÓN", Az Corazón
+http://bgapp.live/play/14-400.php?c=166&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="ENTRETENCIÓN", Az Corazón
+http://bgapp.live/play/14-400.php?c=834&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="LOCALES", Azteca 1
+http://bgapp.live/play/14-400.php?c=4&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="LOCALES", Azteca 1
+http://bgapp.live/play/14-400.php?c=634&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="LOCALES", Azteca 7
+http://bgapp.live/play/14-400.php?c=5&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="LOCALES", Azteca 7
+http://bgapp.live/play/14-400.php?c=635&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="KIDS", Baby TV
+http://bgapp.live/play/14-400.php?c=7&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="MUSICA", Bandamax
+http://bgapp.live/play/14-400.php?c=8&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="MUSICA", Bandamax
+http://bgapp.live/play/14-400.php?c=833&t=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7", Barbie 24/7
+http://bgapp.live/play/14-400.php?c=788&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="DEPORTES", Bein
+http://bgapp.live/play/14-400.php?c=763&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="DEPORTES", BeinSports
+http://bgapp.live/play/14-400.php?c=753&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="DEPORTES", BeinSports
+http://bgapp.live/play/14-400.php?c=9&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="DEPORTES", BeinSports Ñ
+http://bgapp.live/play/14-400.php?c=761&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="DEPORTES", BeinSports Ñ
+http://bgapp.live/play/14-400.php?c=376&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bleach.png" group-title="24/7", Bleach 24/7
+http://bgapp.live/play/14-400.php?c=883&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7", Bob Esponja 24/7
+http://bgapp.live/play/14-400.php?c=518&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="ENTRETENCIÓN", Bolivision
+http://bgapp.live/play/14-400.php?c=783&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="24/7", Breaking Bad 24/7
+http://bgapp.live/play/14-400.php?c=846&t=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7", Brickleberry 24/7
+http://bgapp.live/play/14-400.php?c=789&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7", Caballeros del Zodiaco 24/7
+http://bgapp.live/play/14-400.php?c=427&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal2televicentro.png" group-title="ENTRETENCIÓN", Canal 2 Televicentro
+http://bgapp.live/play/14-400.php?c=211&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="LOCALES", Canal 5
+http://bgapp.live/play/14-400.php?c=14&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="ENTRETENCIÓN", Canal 5 Honduras
+http://bgapp.live/play/14-400.php?c=773&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="LOCALES", Canal de las Estrellas
+http://bgapp.live/play/14-400.php?c=411&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="LOCALES", Canal de las Estrellas Sur
+http://bgapp.live/play/14-400.php?c=736&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="LOCALES", Canal de las Estrellas
+http://bgapp.live/play/14-400.php?c=636&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="DEPORTES", Canal Del Futbol
+http://bgapp.live/play/14-400.php?c=892&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canalonce.png" group-title="LOCALES", Canal Once
+http://bgapp.live/play/14-400.php?c=15&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png" group-title="ENTRETENCIÓN", Canal+ Accion
+http://bgapp.live/play/14-400.php?c=364&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png" group-title="DEPORTES", Canal+ Toros
+http://bgapp.live/play/14-400.php?c=369&t=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7", Candy Candy 24/7
+http://bgapp.live/play/14-400.php?c=808&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="24/7", Cantinflas 24/7
+http://bgapp.live/play/14-400.php?c=428&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/capitaltv.png" group-title="MUSICA", Capital TV
+http://bgapp.live/play/14-400.php?c=205&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="ENTRETENCIÓN", Caracol
+http://bgapp.live/play/14-400.php?c=391&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="ENTRETENCIÓN", Caracol Internacional
+http://bgapp.live/play/14-400.php?c=290&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="KIDS", Cartoon Network
+http://bgapp.live/play/14-400.php?c=17&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="KIDS", Cartoon Network Sur
+http://bgapp.live/play/14-400.php?c=737&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="KIDS", Cartoon Network
+http://bgapp.live/play/14-400.php?c=637&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="KIDS", Cartoonito (Boomerang)
+http://bgapp.live/play/14-400.php?c=11&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="kids", Cartoonito (Boomerang)
+http://bgapp.live/play/14-400.php?c=824&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="KIDS", Cartoonito Sur
+http://bgapp.live/play/14-400.php?c=735&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/catdog.png" group-title="24/7", CatDog 24/7
+http://bgapp.live/play/14-400.php?c=785&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdf.png" group-title="DEPORTES", CDF Premium
+http://bgapp.live/play/14-400.php?c=318&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdfpremium.png" group-title="DEPORTES", CDF Premium
+http://bgapp.live/play/14-400.php?c=725&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdnsportsmax.png" group-title="DEPORTES", CDN Sportsmax
+http://bgapp.live/play/14-400.php?c=206&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdo.png" group-title="DEPORTES", CDO
+http://bgapp.live/play/14-400.php?c=513&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png" group-title="DEPORTES", CDO Premium
+http://bgapp.live/play/14-400.php?c=401&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7", Chapulin Colorado 24/7
+http://bgapp.live/play/14-400.php?c=418&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="24/7", Chespirito 24/7
+http://bgapp.live/play/14-400.php?c=417&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png" group-title="ENTRETENCIÓN", CHV Chilevision
+http://bgapp.live/play/14-400.php?c=198&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/2020/img.jpg" group-title="CINE", Cine 2020
+http://bgapp.live/play/14-400.php?c=857&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="CINE", Cine Accion
+http://bgapp.live/play/14-400.php?c=699&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Accion
+http://bgapp.live/play/14-400.php?c=706&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg" group-title="CINE", Cine Accion Sagas
+http://bgapp.live/play/14-400.php?c=700&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Accion Sagas
+http://bgapp.live/play/14-400.php?c=707&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg" group-title="CINE", Cine Comedia 1
+http://bgapp.live/play/14-400.php?c=695&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg" group-title="CINE", Cine Comedia 2
+http://bgapp.live/play/14-400.php?c=696&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg" group-title="CINE", Cine Ficcion/Fantasia 1
+http://bgapp.live/play/14-400.php?c=709&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg" group-title="CINE", Cine Ficcion/Fantasia 2
+http://bgapp.live/play/14-400.php?c=710&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Ficcion/Fantasia
+http://bgapp.live/play/14-400.php?c=712&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg" group-title="CINE", Cine Ficcion/Fantasia Sagas
+http://bgapp.live/play/14-400.php?c=711&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" group-title="CINE", Cine Infantil
+http://bgapp.live/play/14-400.php?c=687&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Infantil
+http://bgapp.live/play/14-400.php?c=702&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg" group-title="CINE", Cine Infantil Sagas
+http://bgapp.live/play/14-400.php?c=694&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/infantil_sagas_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Infantil Sagas
+http://bgapp.live/play/14-400.php?c=703&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="CINE", Cine Latino
+http://bgapp.live/play/14-400.php?c=295&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" group-title="CINE", Cine Marvel
+http://bgapp.live/play/14-400.php?c=697&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Marvel
+http://bgapp.live/play/14-400.php?c=701&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" group-title="CINE", Cine Romance
+http://bgapp.live/play/14-400.php?c=689&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Romance
+http://bgapp.live/play/14-400.php?c=705&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" group-title="CINE", Cine Terror
+http://bgapp.live/play/14-400.php?c=693&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Terror
+http://bgapp.live/play/14-400.php?c=704&t=.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" group-title="CINE", Cine Zombis
+http://bgapp.live/play/14-400.php?c=688&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="CINE", Cinecanal
+http://bgapp.live/play/14-400.php?c=18&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="CINE", Cinecanal Sur
+http://bgapp.live/play/14-400.php?c=738&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="CINE", Cinecanal
+http://bgapp.live/play/14-400.php?c=479&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="CINE", Cinemax
+http://bgapp.live/play/14-400.php?c=20&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="CINE", Cinemax Sur
+http://bgapp.live/play/14-400.php?c=739&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="CINE", Cinemax
+http://bgapp.live/play/14-400.php?c=638&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="DEPORTES", Claro Sports
+http://bgapp.live/play/14-400.php?c=328&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png" group-title="INFORMACIÓN", CNN en Español
+http://bgapp.live/play/14-400.php?c=136&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="ENTRETENCIÓN", Comedy Central
+http://bgapp.live/play/14-400.php?c=135&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="ENTRETENCIÓN", Comedy Central Sur
+http://bgapp.live/play/14-400.php?c=740&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="ENTRETENCIÓN", Comedy Central (ES)
+http://bgapp.live/play/14-400.php?c=719&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="ENTRETENCIÓN", Comedy Central
+http://bgapp.live/play/14-400.php?c=480&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png" group-title="24/7", Coraje el Perro Cobarde 24/7
+http://bgapp.live/play/14-400.php?c=519&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/crimeinvestigation.png" group-title="ENTRETENCIÓN", Crime Investigation (ES)
+http://bgapp.live/play/14-400.php?c=720&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", CTNI
+http://bgapp.live/play/14-400.php?c=160&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="CINE", De Película
+http://bgapp.live/play/14-400.php?c=21&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="CINE", De Pelicula Plus
+http://bgapp.live/play/14-400.php?c=481&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/deportv.png" group-title="DEPORTES", DeporTV
+http://bgapp.live/play/14-400.php?c=139&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="CINE", DHE
+http://bgapp.live/play/14-400.php?c=844&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="24/7", Dinosaurios 24/7
+http://bgapp.live/play/14-400.php?c=670&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTES", DirectTV Sports
+http://bgapp.live/play/14-400.php?c=259&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTES", DirectTV Sports 2
+http://bgapp.live/play/14-400.php?c=667&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="ENTRETENCIÓN", DirectTV Sports Peru
+http://bgapp.live/play/14-400.php?c=879&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", Discovery Channel
+http://bgapp.live/play/14-400.php?c=22&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", Discovery Channel Sur
+http://bgapp.live/play/14-400.php?c=741&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", Discovery Channel
+http://bgapp.live/play/14-400.php?c=639&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="CONOCIMIENTO", Discovery Civilization
+http://bgapp.live/play/14-400.php?c=23&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CONOCIMIENTO", Discovery H&H
+http://bgapp.live/play/14-400.php?c=24&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CONOCIMIENTO", Discovery H&H Sur
+http://bgapp.live/play/14-400.php?c=742&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CONOCIMIENTO", Discovery H&H
+http://bgapp.live/play/14-400.php?c=640&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="KIDS", Discovery Kids
+http://bgapp.live/play/14-400.php?c=25&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="KIDS", Discovery Kids
+http://bgapp.live/play/14-400.php?c=641&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="CONOCIMIENTO", Discovery SCI
+http://bgapp.live/play/14-400.php?c=26&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="CONOCIMIENTO", Discovery Theater
+http://bgapp.live/play/14-400.php?c=27&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="CONOCIMIENTO", Discovery Turbo
+http://bgapp.live/play/14-400.php?c=28&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="CONOCIMIENTO", Discovery Turbo
+http://bgapp.live/play/14-400.php?c=727&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="CONOCIMIENTO", Discovery World
+http://bgapp.live/play/14-400.php?c=187&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="KIDS", Disney Channel
+http://bgapp.live/play/14-400.php?c=29&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="KIDS", Disney Junior
+http://bgapp.live/play/14-400.php?c=30&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="KIDS", Disney Junior Sur
+http://bgapp.live/play/14-400.php?c=743&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="KIDS", Disney Junior
+http://bgapp.live/play/14-400.php?c=826&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="ENTRETENCIÓN", Distrito Comedia
+http://bgapp.live/play/14-400.php?c=32&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/djing.png" group-title="MUSICA", Djing Ibiza
+http://bgapp.live/play/14-400.php?c=277&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7", Doraemon 24/7
+http://bgapp.live/play/14-400.php?c=521&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7", Dragon Ball 24/7
+http://bgapp.live/play/14-400.php?c=425&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7", Dragon Ball GT 24/7
+http://bgapp.live/play/14-400.php?c=520&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7", Dragon Ball Super 24/7
+http://bgapp.live/play/14-400.php?c=424&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7", Dragon Ball Z 24/7
+http://bgapp.live/play/14-400.php?c=329&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="ENTRETENCIÓN", E!
+http://bgapp.live/play/14-400.php?c=33&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="ENTRETENCIÓN", E!
+http://bgapp.live/play/14-400.php?c=483&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="ENTRETENCIÓN", Ecuavisa
+http://bgapp.live/play/14-400.php?c=319&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="ENTRETENCIÓN", El 13 Argentina
+http://bgapp.live/play/14-400.php?c=239&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="24/7", El Chavo Animado 24/7
+http://bgapp.live/play/14-400.php?c=790&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7", El Chavo del 8 24/7
+http://bgapp.live/play/14-400.php?c=400&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7", El Coyote y el Correcaminos 24/7
+http://bgapp.live/play/14-400.php?c=429&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="24/7", El Gallo Claudio 24/7
+http://bgapp.live/play/14-400.php?c=845&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="ENTRETENCIÓN", El Gourmet
+http://bgapp.live/play/14-400.php?c=157&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png" group-title="24/7", El Increible Mundo de Gumball 24/7
+http://bgapp.live/play/14-400.php?c=791&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="ENTRETENCIÓN", El Nueve
+http://bgapp.live/play/14-400.php?c=772&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7", El Pajaro Loco 24/7
+http://bgapp.live/play/14-400.php?c=525&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7", El Principel del Rap 24/7
+http://bgapp.live/play/14-400.php?c=430&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" group-title="24/7", El Señor de los Cielos 24/7
+http://bgapp.live/play/14-400.php?c=820&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="ENTRETENCIÓN", El Trece
+http://bgapp.live/play/14-400.php?c=765&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", El Trece
+http://bgapp.live/play/14-400.php?c=767&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="RELIGIÓN", Enlace Juvenil
+http://bgapp.live/play/14-400.php?c=162&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="RELIGIÓN", Enlace TV
+http://bgapp.live/play/14-400.php?c=161&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN
+http://bgapp.live/play/14-400.php?c=34&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES", ESPN 2
+http://bgapp.live/play/14-400.php?c=35&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES", ESPN 2
+http://bgapp.live/play/14-400.php?c=484&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES", ESPN 2 MX
+http://bgapp.live/play/14-400.php?c=531&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="DEPORTES", ESPN 3
+http://bgapp.live/play/14-400.php?c=485&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN Chile
+http://bgapp.live/play/14-400.php?c=842&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN
+http://bgapp.live/play/14-400.php?c=486&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN MX
+http://bgapp.live/play/14-400.php?c=530&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="DEPORTES", ESPN EXTRA
+http://bgapp.live/play/14-400.php?c=37&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="DEPORTES", ESPN EXTRA
+http://bgapp.live/play/14-400.php?c=487&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="ENTRETENCIÓN", Estrella TV
+http://bgapp.live/play/14-400.php?c=177&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eurosport.png" group-title="DEPORTES", Eurosport
+http://bgapp.live/play/14-400.php?c=39&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ewtn.png" group-title="RELIGIÓN", EWTN
+http://bgapp.live/play/14-400.php?c=38&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="CINE", Film & Arts
+http://bgapp.live/play/14-400.php?c=149&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="CINE", Film & Arts (EN)
+http://bgapp.live/play/14-400.php?c=729&t=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", FM Hot TV
+http://bgapp.live/play/14-400.php?c=731&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="ENTRETENCIÓN", Star Channel Sur
+http://bgapp.live/play/14-400.php?c=750&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports
+http://bgapp.live/play/14-400.php?c=52&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports 2
+http://bgapp.live/play/14-400.php?c=53&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports 2 Argentina
+http://bgapp.live/play/14-400.php?c=770&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports 2
+http://bgapp.live/play/14-400.php?c=494&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports 2 MX
+http://bgapp.live/play/14-400.php?c=528&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTES", Fox Sports 3
+http://bgapp.live/play/14-400.php?c=54&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTES", Fox Sports 3
+http://bgapp.live/play/14-400.php?c=839&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports Argentina
+http://bgapp.live/play/14-400.php?c=769&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports
+http://bgapp.live/play/14-400.php?c=493&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports MX
+http://bgapp.live/play/14-400.php?c=527&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports MX Sur
+http://bgapp.live/play/14-400.php?c=748&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTES", Fox Sports Premium
+http://bgapp.live/play/14-400.php?c=512&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTES", Fox Sports Premium
+http://bgapp.live/play/14-400.php?c=658&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports Sur
+http://bgapp.live/play/14-400.php?c=402&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports Sur 2
+http://bgapp.live/play/14-400.php?c=410&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTES", Fox Sports Sur 3
+http://bgapp.live/play/14-400.php?c=511&t=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7", Futurama 24/7
+http://bgapp.live/play/14-400.php?c=793&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="ENTRETENCIÓN", FX
+http://bgapp.live/play/14-400.php?c=42&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="ENTRETENCIÓN", FX Sur
+http://bgapp.live/play/14-400.php?c=749&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="ENTRETENCIÓN", FX
+http://bgapp.live/play/14-400.php?c=495&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="LOCALES", NU9VE
+http://bgapp.live/play/14-400.php?c=56&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="LOCALES", NU9VE
+http://bgapp.live/play/14-400.php?c=651&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="ENTRETENCIÓN", Gamavision
+http://bgapp.live/play/14-400.php?c=891&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="24/7", Game of Thrones 24/7
+http://bgapp.live/play/14-400.php?c=515&t=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7", Garfield 24/7
+http://bgapp.live/play/14-400.php?c=812&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="ENTRETENCIÓN", Glitz
+http://bgapp.live/play/14-400.php?c=158&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="DEPORTES", Gol Peru
+http://bgapp.live/play/14-400.php?c=686&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="DEPORTES", Gol TV
+http://bgapp.live/play/14-400.php?c=287&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="DEPORTES", Gol TV
+http://bgapp.live/play/14-400.php?c=514&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="CINE", Golden
+http://bgapp.live/play/14-400.php?c=57&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="CINE", Golden Edge
+http://bgapp.live/play/14-400.php?c=58&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="CINE", Golden Plus
+http://bgapp.live/play/14-400.php?c=496&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="CONOCIMIENTO", H2
+http://bgapp.live/play/14-400.php?c=61&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="CONOCIMIENTO", H2 Sur
+http://bgapp.live/play/14-400.php?c=760&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE PREMIUM", HBO
+http://bgapp.live/play/14-400.php?c=62&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE PREMIUM", HBO (EN)
+http://bgapp.live/play/14-400.php?c=723&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE PREMIUM", HBO 2
+http://bgapp.live/play/14-400.php?c=300&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE PREMIUM", HBO 2 (EN)
+http://bgapp.live/play/14-400.php?c=724&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE PREMIUM", HBO 2
+http://bgapp.live/play/14-400.php?c=732&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE PREMIUM", HBO 2 (EN)
+http://bgapp.live/play/14-400.php?c=733&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="CINE PREMIUM", HBO Family
+http://bgapp.live/play/14-400.php?c=63&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE PREMIUM", HBO
+http://bgapp.live/play/14-400.php?c=654&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE PREMIUM", HBO Plus
+http://bgapp.live/play/14-400.php?c=64&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE PREMIUM", HBO Plus (EN)
+http://bgapp.live/play/14-400.php?c=722&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE PREMIUM", HBO Plus
+http://bgapp.live/play/14-400.php?c=655&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE PREMIUM", HBO Plus Oeste
+http://bgapp.live/play/14-400.php?c=728&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="CINE PREMIUM", HBO Xtreme
+http://bgapp.live/play/14-400.php?c=814&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="CINE PREMIUM", HBO Xtreme
+http://bgapp.live/play/14-400.php?c=841&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hchhonduras.png" group-title="ENTRETENCIÓN", HCH
+http://bgapp.live/play/14-400.php?c=779&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7", Hey Arnold 24/7
+http://bgapp.live/play/14-400.php?c=522&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CONOCIMIENTO", Historia (ES)
+http://bgapp.live/play/14-400.php?c=718&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CONOCIMIENTO", History Channel
+http://bgapp.live/play/14-400.php?c=67&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CONOCIMIENTO", History Channel
+http://bgapp.live/play/14-400.php?c=642&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png" group-title="MUSICA", Hit TV
+http://bgapp.live/play/14-400.php?c=201&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="ENTRETENCIÓN", Hola TV
+http://bgapp.live/play/14-400.php?c=189&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="MUSICA", HTV
+http://bgapp.live/play/14-400.php?c=66&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="CINE", I.Sat
+http://bgapp.live/play/14-400.php?c=153&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="LOCALES", Imagen Television
+http://bgapp.live/play/14-400.php?c=341&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="LOCALES", Imagen Televisión
+http://bgapp.live/play/14-400.php?c=643&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="CONOCIMIENTO", ID
+http://bgapp.live/play/14-400.php?c=68&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="CONOCIMIENTO", ID
+http://bgapp.live/play/14-400.php?c=825&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="24/7", Johnny Bravo 24/7
+http://bgapp.live/play/14-400.php?c=786&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Juce TV
+http://bgapp.live/play/14-400.php?c=263&t=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7", La Casa de Papel 24/7
+http://bgapp.live/play/14-400.php?c=403&t=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7", La Familia PeLuche 24/7
+http://bgapp.live/play/14-400.php?c=811&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" group-title="24/7", La Hora Pico 24/7
+http://bgapp.live/play/14-400.php?c=887&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7", La Pantera Rosa 24/7
+http://bgapp.live/play/14-400.php?c=671&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png" group-title="24/7", La Pequeña Lulu 24/7
+http://bgapp.live/play/14-400.php?c=792&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7", La Rosa de Guadalupe 24/7
+http://bgapp.live/play/14-400.php?c=886&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasfa.png" group-title="ENTRETENCIÓN", La Sfa
+http://bgapp.live/play/14-400.php?c=326&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="24/7", La Vaca y ElPollito 24/7
+http://bgapp.live/play/14-400.php?c=809&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="ENTRETENCIÓN", Latina TV
+http://bgapp.live/play/14-400.php?c=782&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="24/7", Le Temes a la Oscuridad 24/7
+http://bgapp.live/play/14-400.php?c=888&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="ENTRETENCIÓN", Lifetime
+http://bgapp.live/play/14-400.php?c=152&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="DEPORTES", Liga de Campeones
+http://bgapp.live/play/14-400.php?c=890&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="DEPORTES", Liga de Campeones 2
+http://bgapp.live/play/14-400.php?c=893&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7", Looney Tunes 24/7
+http://bgapp.live/play/14-400.php?c=524&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png" group-title="24/7", Los 3 Chiflados 24/7
+http://bgapp.live/play/14-400.php?c=423&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="24/7", Los Años Maravillosos 24/7
+http://bgapp.live/play/14-400.php?c=810&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" group-title="24/7", Los Padrinos Magicos 24/7
+http://bgapp.live/play/14-400.php?c=813&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7", Los Picapiedra 24/7
+http://bgapp.live/play/14-400.php?c=669&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="24/7", Los Pinguinos de Madagascar 24/7
+http://bgapp.live/play/14-400.php?c=794&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="24/7", Los Pitufos 24/7
+http://bgapp.live/play/14-400.php?c=795&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="24/7", Los Reyes de la Colina 24/7
+http://bgapp.live/play/14-400.php?c=796&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7", Los Simpson 24/7
+http://bgapp.live/play/14-400.php?c=357&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="24/7", Los Supersonicos 24/7
+http://bgapp.live/play/14-400.php?c=797&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="24/7", Los Vengadores Unidos 24/7
+http://bgapp.live/play/14-400.php?c=818&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", m2o TV
+http://bgapp.live/play/14-400.php?c=203&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7", Malcolm 24/7
+http://bgapp.live/play/14-400.php?c=798&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png" group-title="ENTRETENCIÓN", Más chic
+http://bgapp.live/play/14-400.php?c=180&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="CINE PREMIUM", HBO Xtreme
+http://bgapp.live/play/14-400.php?c=730&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="24/7", Max Steel 24/7
+http://bgapp.live/play/14-400.php?c=880&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="CINE PREMIUM", HBO Pop
+http://bgapp.live/play/14-400.php?c=659&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="ENTRETENCIÓN", Mega
+http://bgapp.live/play/14-400.php?c=766&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="ENTRETENCIÓN", Mega
+http://bgapp.live/play/14-400.php?c=784&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Mega (ES)
+http://bgapp.live/play/14-400.php?c=352&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="CINE", MegaCine
+http://bgapp.live/play/14-400.php?c=517&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mimusicaENTRETENCIÓN.png" group-title="MUSICA", Mi Musica
+http://bgapp.live/play/14-400.php?c=172&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Miami TV
+http://bgapp.live/play/14-400.php?c=251&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/milenio.png" group-title="INFORMACIÓN", Milenio
+http://bgapp.live/play/14-400.php?c=140&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mlb.png" group-title="DEPORTES", MLB Network
+http://bgapp.live/play/14-400.php?c=293&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="CINE", Movistar Comedia
+http://bgapp.live/play/14-400.php?c=370&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_DEPORTES.png" group-title="DEPORTES", Movistar DEPORTES
+http://bgapp.live/play/14-400.php?c=366&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_DEPORTES2.png" group-title="DEPORTES", Movistar DEPORTES 2
+http://bgapp.live/play/14-400.php?c=367&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_xtra.png" group-title="ENTRETENCIÓN", Movistar Xtra
+http://bgapp.live/play/14-400.php?c=372&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7", Mr. Bean 24/7
+http://bgapp.live/play/14-400.php?c=431&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="ENTRETENCIÓN", MTV
+http://bgapp.live/play/14-400.php?c=69&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="ENTRETENCIÓN", MTV (ES)
+http://bgapp.live/play/14-400.php?c=803&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="ENTRETENCIÓN", MTV
+http://bgapp.live/play/14-400.php?c=828&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png" group-title="MUSICA", MTV Live
+http://bgapp.live/play/14-400.php?c=70&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="ENTRETENCIÓN", MTV Sur
+http://bgapp.live/play/14-400.php?c=823&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="REGIONALES", Canal 6 Monterrey
+http://bgapp.live/play/14-400.php?c=155&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png" group-title="CINE", MultiPremier
+http://bgapp.live/play/14-400.php?c=294&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Music Now
+http://bgapp.live/play/14-400.php?c=690&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png" group-title="MUSICA", MusicTop
+http://bgapp.live/play/14-400.php?c=691&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mvs.png" group-title="INFORMACIÓN", MVS INFORMACIÓN
+http://bgapp.live/play/14-400.php?c=448&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" group-title="24/7", Naruto 24/7
+http://bgapp.live/play/14-400.php?c=523&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="CONOCIMIENTO", Nat Geo
+http://bgapp.live/play/14-400.php?c=76&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="CONOCIMIENTO", Nat Geo
+http://bgapp.live/play/14-400.php?c=644&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png" group-title="DEPORTES", NBA
+http://bgapp.live/play/14-400.php?c=838&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/neox.png" group-title="ENTRETENCIÓN", Neox (ES)
+http://bgapp.live/play/14-400.php?c=353&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nfl.png" group-title="DEPORTES", NFL Network
+http://bgapp.live/play/14-400.php?c=204&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="KIDS", Nick
+http://bgapp.live/play/14-400.php?c=78&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick2.png" group-title="KIDS", Teennick
+http://bgapp.live/play/14-400.php?c=646&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="KIDS", Nick
+http://bgapp.live/play/14-400.php?c=645&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="KIDS", Nick JR
+http://bgapp.live/play/14-400.php?c=79&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="KIDS", Nick JR
+http://bgapp.live/play/14-400.php?c=829&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="MUSICA", Nickmusic
+http://bgapp.live/play/14-400.php?c=80&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="KIDS", Nickelodeon
+http://bgapp.live/play/14-400.php?c=184&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nova.png" group-title="ENTRETENCIÓN", Nova (ES)
+http://bgapp.live/play/14-400.php?c=717&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="24/7", One Punch Man 24/7
+http://bgapp.live/play/14-400.php?c=661&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="RELIGIÓN", ORBE 21
+http://bgapp.live/play/14-400.php?c=242&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="24/7", Padre de Familia 24/7
+http://bgapp.live/play/14-400.php?c=416&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="CINE", Paramount
+http://bgapp.live/play/14-400.php?c=200&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="CINE", Paramount
+http://bgapp.live/play/14-400.php?c=647&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="ENTRETENCIÓN", Pasiones
+http://bgapp.live/play/14-400.php?c=755&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="24/7", Patoaventuras 24/7
+http://bgapp.live/play/14-400.php?c=819&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="24/7", Patrulla Canina 24/7
+http://bgapp.live/play/14-400.php?c=807&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="24/7", Peppa Pig 24/7
+http://bgapp.live/play/14-400.php?c=787&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/america_peru.png" group-title="ENTRETENCIÓN", PERU: América TV
+http://bgapp.live/play/14-400.php?c=304&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: Antares TV
+http://bgapp.live/play/14-400.php?c=451&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: BHTV
+http://bgapp.live/play/14-400.php?c=399&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: La Luz
+http://bgapp.live/play/14-400.php?c=338&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="ENTRETENCIÓN", PERU: Latina
+http://bgapp.live/play/14-400.php?c=317&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: Plus TV
+http://bgapp.live/play/14-400.php?c=337&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: RBC
+http://bgapp.live/play/14-400.php?c=220&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rpp_peru.png" group-title="ENTRETENCIÓN", PERU: RPP
+http://bgapp.live/play/14-400.php?c=336&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: TV Peru
+http://bgapp.live/play/14-400.php?c=306&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: Willax TV
+http://bgapp.live/play/14-400.php?c=334&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="24/7", Pinky y Cerebro 24/7
+http://bgapp.live/play/14-400.php?c=721&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="24/7", Pocoyo 24/7
+http://bgapp.live/play/14-400.php?c=799&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7", Pokemon 24/7
+http://bgapp.live/play/14-400.php?c=420&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 1
+http://bgapp.live/play/14-400.php?c=847&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 10
+http://bgapp.live/play/14-400.php?c=856&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 11
+http://bgapp.live/play/14-400.php?c=858&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 12
+http://bgapp.live/play/14-400.php?c=859&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 13
+http://bgapp.live/play/14-400.php?c=860&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 14
+http://bgapp.live/play/14-400.php?c=862&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 15
+http://bgapp.live/play/14-400.php?c=863&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 16
+http://bgapp.live/play/14-400.php?c=864&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 17
+http://bgapp.live/play/14-400.php?c=865&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 18
+http://bgapp.live/play/14-400.php?c=866&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 19
+http://bgapp.live/play/14-400.php?c=861&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 2
+http://bgapp.live/play/14-400.php?c=848&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 20
+http://bgapp.live/play/14-400.php?c=867&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 21
+http://bgapp.live/play/14-400.php?c=868&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 22
+http://bgapp.live/play/14-400.php?c=869&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 23
+http://bgapp.live/play/14-400.php?c=870&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 24
+http://bgapp.live/play/14-400.php?c=871&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 25
+http://bgapp.live/play/14-400.php?c=873&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 26
+http://bgapp.live/play/14-400.php?c=874&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 27
+http://bgapp.live/play/14-400.php?c=876&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 28
+http://bgapp.live/play/14-400.php?c=875&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 29
+http://bgapp.live/play/14-400.php?c=872&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 3
+http://bgapp.live/play/14-400.php?c=849&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 30
+http://bgapp.live/play/14-400.php?c=877&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 4
+http://bgapp.live/play/14-400.php?c=850&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 5
+http://bgapp.live/play/14-400.php?c=851&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 6
+http://bgapp.live/play/14-400.php?c=852&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 7
+http://bgapp.live/play/14-400.php?c=853&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 8
+http://bgapp.live/play/14-400.php?c=854&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 9
+http://bgapp.live/play/14-400.php?c=855&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png" group-title="24/7", Prison Break 24/7
+http://bgapp.live/play/14-400.php?c=884&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pxtv.png" group-title="DEPORTES", PX TV
+http://bgapp.live/play/14-400.php?c=193&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" group-title="24/7", Ranma 1/2 24/7
+http://bgapp.live/play/14-400.php?c=419&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="REGIONALES", RCG TV Coahuila
+http://bgapp.live/play/14-400.php?c=346&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png" group-title="ENTRETENCIÓN", RCN
+http://bgapp.live/play/14-400.php?c=390&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcnnovelas.png" group-title="ENTRETENCIÓN", RCN Novelas
+http://bgapp.live/play/14-400.php?c=279&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="DEPORTES", Real Madrid TV
+http://bgapp.live/play/14-400.php?c=270&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/retromusic.png" group-title="MUSICA", Retro Music
+http://bgapp.live/play/14-400.php?c=692&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ritmoson.png" group-title="MUSICA", Telehit Música
+http://bgapp.live/play/14-400.php?c=154&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rt.png" group-title="INFORMACIÓN", RT
+http://bgapp.live/play/14-400.php?c=142&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rtp.png" group-title="ENTRETENCIÓN", RTP
+http://bgapp.live/play/14-400.php?c=781&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png" group-title="24/7", Sakura Card Captor 24/7
+http://bgapp.live/play/14-400.php?c=672&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="24/7", Samurai X 24/7
+http://bgapp.live/play/14-400.php?c=663&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="24/7", Scooby Doo 24/7
+http://bgapp.live/play/14-400.php?c=422&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/showtime.png" group-title="CINE", Showtime
+http://bgapp.live/play/14-400.php?c=679&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" group-title="24/7", Smallville 24/7
+http://bgapp.live/play/14-400.php?c=673&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="ENTRETENCIÓN", Sony
+http://bgapp.live/play/14-400.php?c=145&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="ENTRETENCIÓN", Sony
+http://bgapp.live/play/14-400.php?c=498&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png" group-title="24/7", South Park 24/7
+http://bgapp.live/play/14-400.php?c=674&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="CINE", Space
+http://bgapp.live/play/14-400.php?c=83&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="CINE", Space Sur
+http://bgapp.live/play/14-400.php?c=751&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="CINE", Space
+http://bgapp.live/play/14-400.php?c=499&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="24/7", Spiderman 24/7
+http://bgapp.live/play/14-400.php?c=889&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="ENTRETENCIÓN", Star
+http://bgapp.live/play/14-400.php?c=45&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="CINE", Studio Universal
+http://bgapp.live/play/14-400.php?c=84&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="CINE", Studio Universal
+http://bgapp.live/play/14-400.php?c=830&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="24/7", Super Campeones 24/7
+http://bgapp.live/play/14-400.php?c=432&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="ENTRETENCIÓN", SyFy
+http://bgapp.live/play/14-400.php?c=151&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="ENTRETENCIÓN", SyFy Sur
+http://bgapp.live/play/14-400.php?c=758&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="ENTRETENCIÓN", SyFy
+http://bgapp.live/play/14-400.php?c=648&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="ENTRETENCIÓN", TBS Very Funny
+http://bgapp.live/play/14-400.php?c=171&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="ENTRETENCIÓN", TBS Very Funny
+http://bgapp.live/play/14-400.php?c=831&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="ENTRETENCIÓN", TC Ecuador
+http://bgapp.live/play/14-400.php?c=885&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" group-title="ENTRETENCIÓN", TCM
+http://bgapp.live/play/14-400.php?c=85&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png" group-title="KIDS", TeenNick
+http://bgapp.live/play/14-400.php?c=882&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Tele
+http://bgapp.live/play/14-400.php?c=778&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ENTRETENCIÓN", TeleAmazonas
+http://bgapp.live/play/14-400.php?c=320&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="ENTRETENCIÓN", Telefe
+http://bgapp.live/play/14-400.php?c=771&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleformula.png" group-title="INFORMACIÓN", TeleFórmula
+http://bgapp.live/play/14-400.php?c=182&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="MUSICA", Telehit
+http://bgapp.live/play/14-400.php?c=91&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="MÚSICA", Telehit Música Plus
+http://bgapp.live/play/14-400.php?c=649&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemedellin.png" group-title="ENTRETENCIÓN", Telemedellin
+http://bgapp.live/play/14-400.php?c=197&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="ENTRETENCIÓN", Telemundo
+http://bgapp.live/play/14-400.php?c=92&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="ENTRETENCIÓN", Telemundo
+http://bgapp.live/play/14-400.php?c=660&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png" group-title="ENTRETENCIÓN", Televicentro
+http://bgapp.live/play/14-400.php?c=776&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="24/7", The Big Bang Theory 24/7
+http://bgapp.live/play/14-400.php?c=676&t=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7", The Walking Dead 24/7
+http://bgapp.live/play/14-400.php?c=800&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="DEPORTES", TigoSports Bolivia
+http://bgapp.live/play/14-400.php?c=764&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="DEPORTES", TigoSports Paraguay
+http://bgapp.live/play/14-400.php?c=843&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tiin.png" group-title="KIDS", BitMe
+http://bgapp.live/play/14-400.php?c=93&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="CONOCIMIENTO", TLC
+http://bgapp.live/play/14-400.php?c=87&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="ENTRETENCIÓN", Tlnovelas
+http://bgapp.live/play/14-400.php?c=94&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="ENTRETENCIÓN", Tlnovelas
+http://bgapp.live/play/14-400.php?c=832&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="CINE", TNT
+http://bgapp.live/play/14-400.php?c=179&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="CINE", TNT Sur
+http://bgapp.live/play/14-400.php?c=752&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="CINE", TNT (ES)
+http://bgapp.live/play/14-400.php?c=716&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="CINE", TNT
+http://bgapp.live/play/14-400.php?c=500&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="ENTRETENCIÓN", TNT Series
+http://bgapp.live/play/14-400.php?c=90&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="ENTRETENCIÓN", TNT Series Sur
+http://bgapp.live/play/14-400.php?c=757&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="ENTRETENCIÓN", TNT Series
+http://bgapp.live/play/14-400.php?c=650&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="DEPORTES", TNT Sports
+http://bgapp.live/play/14-400.php?c=509&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="24/7", Tom y Jerry 24/7
+http://bgapp.live/play/14-400.php?c=421&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="KIDS", Tooncast
+http://bgapp.live/play/14-400.php?c=95&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trece_colombia.png" group-title="ENTRETENCIÓN", Trece
+http://bgapp.live/play/14-400.php?c=774&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="24/7", TrollHunters 24/7
+http://bgapp.live/play/14-400.php?c=662&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" group-title="ENTRETENCIÓN", TruTV
+http://bgapp.live/play/14-400.php?c=96&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" group-title="ENTRETENCIÓN", TruTv
+http://bgapp.live/play/14-400.php?c=501&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tumusicaENTRETENCIÓN.png" group-title="MUSICA", Tu Musica
+http://bgapp.live/play/14-400.php?c=516&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN 
+http://bgapp.live/play/14-400.php?c=698&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN (Pocos Datos)
+http://bgapp.live/play/14-400.php?c=822&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN
+http://bgapp.live/play/14-400.php?c=801&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN USA
+http://bgapp.live/play/14-400.php?c=86&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN USA
+http://bgapp.live/play/14-400.php?c=821&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tvcDEPORTES.png" group-title="DEPORTES", TVC DEPORTES
+http://bgapp.live/play/14-400.php?c=837&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tve.png" group-title="ENTRETENCIÓN", TVE
+http://bgapp.live/play/14-400.php?c=195&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="24/7", Two And a Half Men 24/7
+http://bgapp.live/play/14-400.php?c=675&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="DEPORTES", Tyc Sports
+http://bgapp.live/play/14-400.php?c=274&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png" group-title="DEPORTES", Adrenalina
+http://bgapp.live/play/14-400.php?c=97&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="ENTRETENCIÓN", Unicable
+http://bgapp.live/play/14-400.php?c=98&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="ENTRETENCIÓN", Unicable
+http://bgapp.live/play/14-400.php?c=653&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="ENTRETENCIÓN", Universal
+http://bgapp.live/play/14-400.php?c=137&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="ENTRETENCIÓN", Universal
+http://bgapp.live/play/14-400.php?c=502&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png" group-title="ENTRETENCIÓN", Univision
+http://bgapp.live/play/14-400.php?c=99&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univisionDEPORTES.png" group-title="DEPORTES", TUDN USA
+http://bgapp.live/play/14-400.php?c=373&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="DEPORTES", TUDN USA
+http://bgapp.live/play/14-400.php?c=100&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Univision Tlnovelas
+http://bgapp.live/play/14-400.php?c=413&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Uno
+http://bgapp.live/play/14-400.php?c=775&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" group-title="MUSICA", MTV 00s
+http://bgapp.live/play/14-400.php?c=101&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" group-title="MUSICA", MTV 00s
+http://bgapp.live/play/14-400.php?c=632&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/videorola.png" group-title="MUSICA", Video Rola
+http://bgapp.live/play/14-400.php?c=359&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Videos: 1Music
+http://bgapp.live/play/14-400.php?c=433&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Videos: Company Radio TV
+http://bgapp.live/play/14-400.php?c=435&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Videos: Dream TV
+http://bgapp.live/play/14-400.php?c=439&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Virgin TV
+http://bgapp.live/play/14-400.php?c=315&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv.png" group-title="ENTRETENCIÓN", VTV Uruaguay
+http://bgapp.live/play/14-400.php?c=708&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv2_chile.png" group-title="ENTRETENCIÓN", VTV2 Chile
+http://bgapp.live/play/14-400.php?c=321&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png" group-title="ENTRETENCIÓN", Wapa PR
+http://bgapp.live/play/14-400.php?c=327&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="ENTRETENCIÓN", Warner Channel
+http://bgapp.live/play/14-400.php?c=102&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="ENTRETENCIÓN", Warner Channel Sur
+http://bgapp.live/play/14-400.php?c=759&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="ENTRETENCIÓN", Warner Channel
+http://bgapp.live/play/14-400.php?c=503&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="DEPORTES", Win Sports
+http://bgapp.live/play/14-400.php?c=292&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="DEPORTES", Win Sports +
+http://bgapp.live/play/14-400.php?c=881&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="DEPORTES", Win Sports +
+http://bgapp.live/play/14-400.php?c=802&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="DEPORTES", Win Sports
+http://bgapp.live/play/14-400.php?c=754&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" group-title="DEPORTES", WWE Network
+http://bgapp.live/play/14-400.php?c=276&t=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="24/7", Yu-Gi-Oh! 24/7
+http://bgapp.live/play/14-400.php?c=664&t=.m3u8
+
+
 #EXTINF:-1 group-title="ENTRETENCIÓN", A3 Series
 http://bgapp.live/play/zufree-400.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3018.m3u8
 #EXTINF:-1 group-title="ENTRETENCIÓN", A&E
@@ -1640,1066 +2776,6 @@ http://bgapp.live/play/trasco-400.php?c=484Playboy/transco8&t=blackghost.m3u8
 http://bgapp.live/play/trasco-400.php?c=488Venus/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA", sextreme
 http://bgapp.live/play/trasco-400.php?c=490Sextreme/transco8&t=blackghost.m3u8
-
-
-#EXTINF:-1 tvg-id="ENLACETV.co" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace
-https://1-349-11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
-#EXTINF:-1 tvg-id="EnlaceJuvenil.mx" tvg-name="Enlace Juvenil" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace Juvenil
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/93855/12?f=.m3u8
-#EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="El Sembrador Nueva Evangelización" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/esne.png" group-title="RELIGIÓN",El Sembrador Nueva Evangelización
-https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8
-#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="María Visión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/maria.png" group-title="RELIGIÓN",María Visión
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ewtn.png" group-title="RELIGIÓN",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX
-http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
-#EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+ CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhimt2.png" group-title="LOCALES",A+ CDMX
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-id="XEIPN.mx" tvg-name="Canal Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Canal Once
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="LOCALES",Canal Catorce
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
-#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unam.png" group-title="LOCALES",TV UNAM
-https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
-#EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="LOCALES",Canal 22
-https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
-#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="Canal 22.2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="LOCALES",Canal 22.2
-https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
-#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso 45.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.1
-https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados3.smil/chunklist_b500000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.2
-https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados4.smil/chunklist_b500000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.3
-https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
-#EXTINF:-1 tvg-id="QuieroTv.mx" tvg-name="Quiero TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ochotv.png" group-title="REGIONALES",Quiero TV
-https://quierotvlive.tk/httplive/playlist_playlist.m3u8
-#EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 MTY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 MTY
-http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 LAG" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 LAG
-http://mdstrm.com/live-stream-playlist_2500/57bf686a61ff39e1085d43e1.m3u8?
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GDL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 GDL
-http://mdstrm.com/live-stream-playlist_2500/5c54d38ca392a5119bb0aa0d.m3u8?
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 PUE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 PUE
-http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 GTO
-http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
-#EXTINF:-1 tvg-id="XHOAHTDT.mx" tvg-name="Canal 6 SAL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 SAL
-http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDJ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 CDJ
-http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 8 SJCR" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c8cr.png" group-title="REGIONALES",Canal 8 SJCR
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.jpg" group-title="MUSICA",Teleritmo
-http://mdstrm.com/live-stream-playlist_800/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="ENTRETENCIÓN",MVS TV
-https://stream-03.sv4.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqu0k-ONeQE11ysneOi_Zb2w)/dm/3/x7urqme/d/live-4.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="REGIONALES PÚBLICOS",Capital 21
-https://video.cdmx.gob.mx/livestream/stream.m3u8
-#EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="REGIONALES PÚBLICOS",Mexiquense Televisión
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="REGIONALES PÚBLICOS",AMX Noticias
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalisco TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c7.png" group-title="REGIONALES PÚBLICOS",Jalisco TV
-https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal44(XHUDGTDT).mx" tvg-name="UDGTV 44" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/udg44.png" group-title="REGIONALES PÚBLICOS",UDGTV 44
-https://stream-02.sv4.dailymotion.com/sec(z78NI1m0neFnRd2EIIVngNxPFuGTDJeMHYGExI_Ehy0)/dm/3/x3m1xfy/s/live-1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UDGTV 44 Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/44N.jpg" group-title="REGIONALES PÚBLICOS",UDGTV 44 Noticias
-https://stream-01.sv4.dailymotion.com/sec(B_XzEw6KFrYpQxnvKcvKVAfuvlPFexMn8EfpA_d6kBM)/dm/3/x6km0ku/s/live-1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 28 NL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/28nl.png" group-title="REGIONALES PÚBLICOS",Canal 28 NL
-https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET TV 26.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/set.png" group-title="REGIONALES PÚBLICOS",SET TV 26.1
-http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4 Gto." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="REGIONALES PÚBLICOS",TV4 Gto.
-https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.2 Gto." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="REGIONALES PÚBLICOS",TV4.2 Gto.
-https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.3 Gto." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="REGIONALES PÚBLICOS",TV4.3 Gto.
-https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IMRyT 15.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/imryt.png" group-title="REGIONALES PÚBLICOS",IMRyT 15.1
-http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diez Chiapas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/diez.png" group-title="REGIONALES PÚBLICOS",Diez Chiapas
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SM 16.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/smr.png" group-title="REGIONALES PÚBLICOS",SM 16.1
-https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Mas 26.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="REGIONALES PÚBLICOS",TV Mas 26.1
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sizart TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sizart.png" group-title="REGIONALES PÚBLICOS",Sizart TV
-https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTQ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="REGIONALES PÚBLICOS",RTQ
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 10 Chetumal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c10.jpg" group-title="REGIONALES",Canal 10 Chetumal
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/judic.png" group-title="INFORMACIÓN",Justicia TV
-https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
-#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INFORMACIÓN",RT (Español)
-https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
-#EXTINF:-1 tvg-id="TeleSur.co" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sur.png" group-title="INFORMACIÓN",Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="INFORMACIÓN",DW (Español)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="RTInSpanish.mx" tvg-logo="" group-title="INFORMACIÓN", RT ESPANOL
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-logo="" group-title="ENTRETENCIÓN", ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCALES", AZTECA UNO (SIN CORTES)
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCALES", AZTECA 7 (SIN CORTES)
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCALES", A MÁS (SIN CORTES)
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCALES", ADN40 (SIN CORTES)
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONALES PÚBLICOS", CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 tvg-id="Videorola.mx" tvg-logo="" group-title="MUSICA", VIDEOROLA
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="ENTRETENCIÓN", A&E
-http://bgapp.live/play/14-400.php?c=1&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="ENTRETENCIÓN", A&E Sur
-http://bgapp.live/play/14-400.php?c=734&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="ENTRETENCIÓN", A&E
-http://bgapp.live/play/14-400.php?c=474&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" group-title="LOCALES", A+
-http://bgapp.live/play/14-400.php?c=406&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="ENTRETENCIÓN", A3Series
-http://bgapp.live/play/14-400.php?c=444&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png" group-title="LOCALES", ADN 40
-http://bgapp.live/play/14-400.php?c=447&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="DEPORTES", Afizzionados
-http://bgapp.live/play/14-400.php?c=878&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7", Alf 24/7
-http://bgapp.live/play/14-400.php?c=426&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="ENTRETENCIÓN", AMC
-http://bgapp.live/play/14-400.php?c=183&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="CINE", AMC ES
-http://bgapp.live/play/14-400.php?c=715&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="CINE", AMC
-http://bgapp.live/play/14-400.php?c=475&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="ENTRETENCIÓN", America
-http://bgapp.live/play/14-400.php?c=780&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="CONOCIMIENTO", Animal Planet
-http://bgapp.live/play/14-400.php?c=3&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="CONOCIMIENTO", Animal Planet
-http://bgapp.live/play/14-400.php?c=633&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7", Animaniacs 24/7
-http://bgapp.live/play/14-400.php?c=677&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Anime 24H
-http://bgapp.live/play/14-400.php?c=269&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="ENTRETENCIÓN", Antena 3
-http://bgapp.live/play/14-400.php?c=298&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="ENTRETENCIÓN", AXN
-http://bgapp.live/play/14-400.php?c=146&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="ENTRETENCIÓN", AXN Sur
-http://bgapp.live/play/14-400.php?c=804&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="ENTRETENCIÓN", AXN (ES)
-http://bgapp.live/play/14-400.php?c=713&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="ENTRETENCIÓN", AXN
-http://bgapp.live/play/14-400.php?c=476&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="ENTRETENCIÓN", AXN WHITE (ES)
-http://bgapp.live/play/14-400.php?c=714&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="DEPORTES", AyM Sports
-http://bgapp.live/play/14-400.php?c=148&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" group-title="CINE", Az Cinema
-http://bgapp.live/play/14-400.php?c=186&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png" group-title="ENTRETENCIÓN", Az Clic
-http://bgapp.live/play/14-400.php?c=165&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="ENTRETENCIÓN", Az Corazón
-http://bgapp.live/play/14-400.php?c=166&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="ENTRETENCIÓN", Az Corazón
-http://bgapp.live/play/14-400.php?c=834&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="LOCALES", Azteca 1
-http://bgapp.live/play/14-400.php?c=4&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="LOCALES", Azteca 1
-http://bgapp.live/play/14-400.php?c=634&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="LOCALES", Azteca 7
-http://bgapp.live/play/14-400.php?c=5&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="LOCALES", Azteca 7
-http://bgapp.live/play/14-400.php?c=635&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="KIDS", Baby TV
-http://bgapp.live/play/14-400.php?c=7&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="MUSICA", Bandamax
-http://bgapp.live/play/14-400.php?c=8&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="MUSICA", Bandamax
-http://bgapp.live/play/14-400.php?c=833&t=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7", Barbie 24/7
-http://bgapp.live/play/14-400.php?c=788&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="DEPORTES", Bein
-http://bgapp.live/play/14-400.php?c=763&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="DEPORTES", BeinSports
-http://bgapp.live/play/14-400.php?c=753&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="DEPORTES", BeinSports
-http://bgapp.live/play/14-400.php?c=9&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="DEPORTES", BeinSports Ñ
-http://bgapp.live/play/14-400.php?c=761&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="DEPORTES", BeinSports Ñ
-http://bgapp.live/play/14-400.php?c=376&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bleach.png" group-title="24/7", Bleach 24/7
-http://bgapp.live/play/14-400.php?c=883&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7", Bob Esponja 24/7
-http://bgapp.live/play/14-400.php?c=518&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="ENTRETENCIÓN", Bolivision
-http://bgapp.live/play/14-400.php?c=783&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="24/7", Breaking Bad 24/7
-http://bgapp.live/play/14-400.php?c=846&t=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7", Brickleberry 24/7
-http://bgapp.live/play/14-400.php?c=789&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7", Caballeros del Zodiaco 24/7
-http://bgapp.live/play/14-400.php?c=427&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal2televicentro.png" group-title="ENTRETENCIÓN", Canal 2 Televicentro
-http://bgapp.live/play/14-400.php?c=211&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="LOCALES", Canal 5
-http://bgapp.live/play/14-400.php?c=14&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="ENTRETENCIÓN", Canal 5 Honduras
-http://bgapp.live/play/14-400.php?c=773&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="LOCALES", Canal de las Estrellas
-http://bgapp.live/play/14-400.php?c=411&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="LOCALES", Canal de las Estrellas Sur
-http://bgapp.live/play/14-400.php?c=736&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="LOCALES", Canal de las Estrellas
-http://bgapp.live/play/14-400.php?c=636&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="DEPORTES", Canal Del Futbol
-http://bgapp.live/play/14-400.php?c=892&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canalonce.png" group-title="LOCALES", Canal Once
-http://bgapp.live/play/14-400.php?c=15&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png" group-title="ENTRETENCIÓN", Canal+ Accion
-http://bgapp.live/play/14-400.php?c=364&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png" group-title="DEPORTES", Canal+ Toros
-http://bgapp.live/play/14-400.php?c=369&t=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7", Candy Candy 24/7
-http://bgapp.live/play/14-400.php?c=808&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="24/7", Cantinflas 24/7
-http://bgapp.live/play/14-400.php?c=428&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/capitaltv.png" group-title="MUSICA", Capital TV
-http://bgapp.live/play/14-400.php?c=205&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="ENTRETENCIÓN", Caracol
-http://bgapp.live/play/14-400.php?c=391&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="ENTRETENCIÓN", Caracol Internacional
-http://bgapp.live/play/14-400.php?c=290&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="KIDS", Cartoon Network
-http://bgapp.live/play/14-400.php?c=17&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="KIDS", Cartoon Network Sur
-http://bgapp.live/play/14-400.php?c=737&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="ENTRETENCIÓN", Cartoon Network
-http://bgapp.live/play/14-400.php?c=637&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="KIDS", Cartoonito (Boomerang)
-http://bgapp.live/play/14-400.php?c=11&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="kids", Cartoonito (Boomerang)
-http://bgapp.live/play/14-400.php?c=824&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="KIDS", Cartoonito Sur
-http://bgapp.live/play/14-400.php?c=735&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/catdog.png" group-title="24/7", CatDog 24/7
-http://bgapp.live/play/14-400.php?c=785&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdf.png" group-title="DEPORTES", CDF Premium
-http://bgapp.live/play/14-400.php?c=318&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdfpremium.png" group-title="DEPORTES", CDF Premium
-http://bgapp.live/play/14-400.php?c=725&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdnsportsmax.png" group-title="DEPORTES", CDN Sportsmax
-http://bgapp.live/play/14-400.php?c=206&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdo.png" group-title="DEPORTES", CDO
-http://bgapp.live/play/14-400.php?c=513&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png" group-title="DEPORTES", CDO Premium
-http://bgapp.live/play/14-400.php?c=401&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7", Chapulin Colorado 24/7
-http://bgapp.live/play/14-400.php?c=418&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="24/7", Chespirito 24/7
-http://bgapp.live/play/14-400.php?c=417&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png" group-title="ENTRETENCIÓN", CHV Chilevision
-http://bgapp.live/play/14-400.php?c=198&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/2020/img.jpg" group-title="CINE", Cine 2020
-http://bgapp.live/play/14-400.php?c=857&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="CINE", Cine Accion
-http://bgapp.live/play/14-400.php?c=699&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Accion
-http://bgapp.live/play/14-400.php?c=706&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg" group-title="CINE", Cine Accion Sagas
-http://bgapp.live/play/14-400.php?c=700&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Accion Sagas
-http://bgapp.live/play/14-400.php?c=707&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg" group-title="CINE", Cine Comedia 1
-http://bgapp.live/play/14-400.php?c=695&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg" group-title="CINE", Cine Comedia 2
-http://bgapp.live/play/14-400.php?c=696&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg" group-title="CINE", Cine Ficcion/Fantasia 1
-http://bgapp.live/play/14-400.php?c=709&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg" group-title="CINE", Cine Ficcion/Fantasia 2
-http://bgapp.live/play/14-400.php?c=710&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Ficcion/Fantasia
-http://bgapp.live/play/14-400.php?c=712&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg" group-title="CINE", Cine Ficcion/Fantasia Sagas
-http://bgapp.live/play/14-400.php?c=711&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" group-title="CINE", Cine Infantil
-http://bgapp.live/play/14-400.php?c=687&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Infantil
-http://bgapp.live/play/14-400.php?c=702&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg" group-title="CINE", Cine Infantil Sagas
-http://bgapp.live/play/14-400.php?c=694&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/infantil_sagas_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Infantil Sagas
-http://bgapp.live/play/14-400.php?c=703&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="CINE", Cine Latino
-http://bgapp.live/play/14-400.php?c=295&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" group-title="CINE", Cine Marvel
-http://bgapp.live/play/14-400.php?c=697&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Marvel
-http://bgapp.live/play/14-400.php?c=701&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" group-title="CINE", Cine Romance
-http://bgapp.live/play/14-400.php?c=689&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Romance
-http://bgapp.live/play/14-400.php?c=705&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" group-title="CINE", Cine Terror
-http://bgapp.live/play/14-400.php?c=693&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Terror
-http://bgapp.live/play/14-400.php?c=704&t=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" group-title="CINE", Cine Zombis
-http://bgapp.live/play/14-400.php?c=688&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="CINE", Cinecanal
-http://bgapp.live/play/14-400.php?c=18&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="CINE", Cinecanal Sur
-http://bgapp.live/play/14-400.php?c=738&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="CINE", Cinecanal
-http://bgapp.live/play/14-400.php?c=479&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="CINE", Cinemax
-http://bgapp.live/play/14-400.php?c=20&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="CINE", Cinemax Sur
-http://bgapp.live/play/14-400.php?c=739&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="CINE", Cinemax
-http://bgapp.live/play/14-400.php?c=638&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="DEPORTES", Claro Sports
-http://bgapp.live/play/14-400.php?c=328&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png" group-title="INFORMACIÓN", CNN en Español
-http://bgapp.live/play/14-400.php?c=136&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="ENTRETENCIÓN", Comedy Central
-http://bgapp.live/play/14-400.php?c=135&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="ENTRETENCIÓN", Comedy Central Sur
-http://bgapp.live/play/14-400.php?c=740&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="ENTRETENCIÓN", Comedy Central (ES)
-http://bgapp.live/play/14-400.php?c=719&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="ENTRETENCIÓN", Comedy Central
-http://bgapp.live/play/14-400.php?c=480&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png" group-title="24/7", Coraje el Perro Cobarde 24/7
-http://bgapp.live/play/14-400.php?c=519&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/crimeinvestigation.png" group-title="ENTRETENCIÓN", Crime Investigation (ES)
-http://bgapp.live/play/14-400.php?c=720&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", CTNI
-http://bgapp.live/play/14-400.php?c=160&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="CINE", De Película
-http://bgapp.live/play/14-400.php?c=21&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="CINE", De Pelicula Plus
-http://bgapp.live/play/14-400.php?c=481&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/deportv.png" group-title="DEPORTES", DeporTV
-http://bgapp.live/play/14-400.php?c=139&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="CINE", DHE
-http://bgapp.live/play/14-400.php?c=844&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="24/7", Dinosaurios 24/7
-http://bgapp.live/play/14-400.php?c=670&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTES", DirectTV Sports
-http://bgapp.live/play/14-400.php?c=259&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTES", DirectTV Sports 2
-http://bgapp.live/play/14-400.php?c=667&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="ENTRETENCIÓN", DirectTV Sports Peru
-http://bgapp.live/play/14-400.php?c=879&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", Discovery Channel
-http://bgapp.live/play/14-400.php?c=22&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", Discovery Channel Sur
-http://bgapp.live/play/14-400.php?c=741&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", Discovery Channel
-http://bgapp.live/play/14-400.php?c=639&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="CONOCIMIENTO", Discovery Civilization
-http://bgapp.live/play/14-400.php?c=23&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CONOCIMIENTO", Discovery H&H
-http://bgapp.live/play/14-400.php?c=24&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CONOCIMIENTO", Discovery H&H Sur
-http://bgapp.live/play/14-400.php?c=742&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CONOCIMIENTO", Discovery H&H
-http://bgapp.live/play/14-400.php?c=640&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="KIDS", Discovery Kids
-http://bgapp.live/play/14-400.php?c=25&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="KIDS", Discovery Kids
-http://bgapp.live/play/14-400.php?c=641&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="CONOCIMIENTO", Discovery SCI
-http://bgapp.live/play/14-400.php?c=26&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="CONOCIMIENTO", Discovery Theater
-http://bgapp.live/play/14-400.php?c=27&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="CONOCIMIENTO", Discovery Turbo
-http://bgapp.live/play/14-400.php?c=28&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="CONOCIMIENTO", Discovery Turbo
-http://bgapp.live/play/14-400.php?c=727&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="CONOCIMIENTO", Discovery World
-http://bgapp.live/play/14-400.php?c=187&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="KIDS", Disney Channel
-http://bgapp.live/play/14-400.php?c=29&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="KIDS", Disney Junior
-http://bgapp.live/play/14-400.php?c=30&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="KIDS", Disney Junior Sur
-http://bgapp.live/play/14-400.php?c=743&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="KIDS", Disney Junior
-http://bgapp.live/play/14-400.php?c=826&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="ENTRETENCIÓN", Distrito Comedia
-http://bgapp.live/play/14-400.php?c=32&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/djing.png" group-title="MUSICA", Djing Ibiza
-http://bgapp.live/play/14-400.php?c=277&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7", Doraemon 24/7
-http://bgapp.live/play/14-400.php?c=521&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7", Dragon Ball 24/7
-http://bgapp.live/play/14-400.php?c=425&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7", Dragon Ball GT 24/7
-http://bgapp.live/play/14-400.php?c=520&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7", Dragon Ball Super 24/7
-http://bgapp.live/play/14-400.php?c=424&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7", Dragon Ball Z 24/7
-http://bgapp.live/play/14-400.php?c=329&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="ENTRETENCIÓN", E!
-http://bgapp.live/play/14-400.php?c=33&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="ENTRETENCIÓN", E!
-http://bgapp.live/play/14-400.php?c=483&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="ENTRETENCIÓN", Ecuavisa
-http://bgapp.live/play/14-400.php?c=319&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="ENTRETENCIÓN", El 13 Argentina
-http://bgapp.live/play/14-400.php?c=239&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="24/7", El Chavo Animado 24/7
-http://bgapp.live/play/14-400.php?c=790&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7", El Chavo del 8 24/7
-http://bgapp.live/play/14-400.php?c=400&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7", El Coyote y el Correcaminos 24/7
-http://bgapp.live/play/14-400.php?c=429&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="24/7", El Gallo Claudio 24/7
-http://bgapp.live/play/14-400.php?c=845&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="ENTRETENCIÓN", El Gourmet
-http://bgapp.live/play/14-400.php?c=157&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png" group-title="24/7", El Increible Mundo de Gumball 24/7
-http://bgapp.live/play/14-400.php?c=791&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="ENTRETENCIÓN", El Nueve
-http://bgapp.live/play/14-400.php?c=772&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7", El Pajaro Loco 24/7
-http://bgapp.live/play/14-400.php?c=525&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7", El Principel del Rap 24/7
-http://bgapp.live/play/14-400.php?c=430&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" group-title="24/7", El Señor de los Cielos 24/7
-http://bgapp.live/play/14-400.php?c=820&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="ENTRETENCIÓN", El Trece
-http://bgapp.live/play/14-400.php?c=765&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", El Trece
-http://bgapp.live/play/14-400.php?c=767&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="RELIGIÓN", Enlace Juvenil
-http://bgapp.live/play/14-400.php?c=162&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="RELIGIÓN", Enlace TV
-http://bgapp.live/play/14-400.php?c=161&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN
-http://bgapp.live/play/14-400.php?c=34&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES", ESPN 2
-http://bgapp.live/play/14-400.php?c=35&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES", ESPN 2
-http://bgapp.live/play/14-400.php?c=484&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES", ESPN 2 MX
-http://bgapp.live/play/14-400.php?c=531&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="DEPORTES", ESPN 3
-http://bgapp.live/play/14-400.php?c=485&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN Chile
-http://bgapp.live/play/14-400.php?c=842&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN
-http://bgapp.live/play/14-400.php?c=486&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN MX
-http://bgapp.live/play/14-400.php?c=530&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="DEPORTES", ESPN EXTRA
-http://bgapp.live/play/14-400.php?c=37&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="DEPORTES", ESPN EXTRA
-http://bgapp.live/play/14-400.php?c=487&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="ENTRETENCIÓN", Estrella TV
-http://bgapp.live/play/14-400.php?c=177&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eurosport.png" group-title="DEPORTES", Eurosport
-http://bgapp.live/play/14-400.php?c=39&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ewtn.png" group-title="RELIGIÓN", EWTN
-http://bgapp.live/play/14-400.php?c=38&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="CINE", Film & Arts
-http://bgapp.live/play/14-400.php?c=149&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="CINE", Film & Arts (EN)
-http://bgapp.live/play/14-400.php?c=729&t=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", FM Hot TV
-http://bgapp.live/play/14-400.php?c=731&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="ENTRETENCIÓN", Star Channel Sur
-http://bgapp.live/play/14-400.php?c=750&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports
-http://bgapp.live/play/14-400.php?c=52&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports 2
-http://bgapp.live/play/14-400.php?c=53&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports 2 Argentina
-http://bgapp.live/play/14-400.php?c=770&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports 2
-http://bgapp.live/play/14-400.php?c=494&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports 2 MX
-http://bgapp.live/play/14-400.php?c=528&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTES", Fox Sports 3
-http://bgapp.live/play/14-400.php?c=54&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTES", Fox Sports 3
-http://bgapp.live/play/14-400.php?c=839&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports Argentina
-http://bgapp.live/play/14-400.php?c=769&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports
-http://bgapp.live/play/14-400.php?c=493&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports MX
-http://bgapp.live/play/14-400.php?c=527&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports MX Sur
-http://bgapp.live/play/14-400.php?c=748&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTES", Fox Sports Premium
-http://bgapp.live/play/14-400.php?c=512&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTES", Fox Sports Premium
-http://bgapp.live/play/14-400.php?c=658&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports Sur
-http://bgapp.live/play/14-400.php?c=402&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports Sur 2
-http://bgapp.live/play/14-400.php?c=410&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTES", Fox Sports Sur 3
-http://bgapp.live/play/14-400.php?c=511&t=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7", Futurama 24/7
-http://bgapp.live/play/14-400.php?c=793&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="ENTRETENCIÓN", FX
-http://bgapp.live/play/14-400.php?c=42&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="ENTRETENCIÓN", FX Sur
-http://bgapp.live/play/14-400.php?c=749&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="ENTRETENCIÓN", FX
-http://bgapp.live/play/14-400.php?c=495&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="LOCALES", NU9VE
-http://bgapp.live/play/14-400.php?c=56&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="LOCALES", NU9VE
-http://bgapp.live/play/14-400.php?c=651&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="ENTRETENCIÓN", Gamavision
-http://bgapp.live/play/14-400.php?c=891&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="24/7", Game of Thrones 24/7
-http://bgapp.live/play/14-400.php?c=515&t=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7", Garfield 24/7
-http://bgapp.live/play/14-400.php?c=812&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="ENTRETENCIÓN", Glitz
-http://bgapp.live/play/14-400.php?c=158&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="DEPORTES", Gol Peru
-http://bgapp.live/play/14-400.php?c=686&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="DEPORTES", Gol TV
-http://bgapp.live/play/14-400.php?c=287&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="DEPORTES", Gol TV
-http://bgapp.live/play/14-400.php?c=514&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="CINE", Golden
-http://bgapp.live/play/14-400.php?c=57&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="CINE", Golden Edge
-http://bgapp.live/play/14-400.php?c=58&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="CINE", Golden Plus
-http://bgapp.live/play/14-400.php?c=496&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="CONOCIMIENTO", H2
-http://bgapp.live/play/14-400.php?c=61&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="CONOCIMIENTO", H2 Sur
-http://bgapp.live/play/14-400.php?c=760&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE PREMIUM", HBO
-http://bgapp.live/play/14-400.php?c=62&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE PREMIUM", HBO (EN)
-http://bgapp.live/play/14-400.php?c=723&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE PREMIUM", HBO 2
-http://bgapp.live/play/14-400.php?c=300&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE PREMIUM", HBO 2 (EN)
-http://bgapp.live/play/14-400.php?c=724&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE PREMIUM", HBO 2
-http://bgapp.live/play/14-400.php?c=732&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE PREMIUM", HBO 2 (EN)
-http://bgapp.live/play/14-400.php?c=733&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="CINE PREMIUM", HBO Family
-http://bgapp.live/play/14-400.php?c=63&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE PREMIUM", HBO
-http://bgapp.live/play/14-400.php?c=654&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE PREMIUM", HBO Plus
-http://bgapp.live/play/14-400.php?c=64&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE PREMIUM", HBO Plus (EN)
-http://bgapp.live/play/14-400.php?c=722&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE PREMIUM", HBO Plus
-http://bgapp.live/play/14-400.php?c=655&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="ENTRETENCIÓN", HBO Plus Oeste
-http://bgapp.live/play/14-400.php?c=728&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="CINE PREMIUM", HBO Xtreme
-http://bgapp.live/play/14-400.php?c=814&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="CINE PREMIUM", HBO Xtreme
-http://bgapp.live/play/14-400.php?c=841&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hchhonduras.png" group-title="ENTRETENCIÓN", HCH
-http://bgapp.live/play/14-400.php?c=779&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7", Hey Arnold 24/7
-http://bgapp.live/play/14-400.php?c=522&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CONOCIMIENTO", Historia (ES)
-http://bgapp.live/play/14-400.php?c=718&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CONOCIMIENTO", History Channel
-http://bgapp.live/play/14-400.php?c=67&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CONOCIMIENTO", History Channel
-http://bgapp.live/play/14-400.php?c=642&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png" group-title="MUSICA", Hit TV
-http://bgapp.live/play/14-400.php?c=201&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="ENTRETENCIÓN", Hola TV
-http://bgapp.live/play/14-400.php?c=189&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="MUSICA", HTV
-http://bgapp.live/play/14-400.php?c=66&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="CINE", I.Sat
-http://bgapp.live/play/14-400.php?c=153&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="LOCALES", Imagen Television
-http://bgapp.live/play/14-400.php?c=341&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="LOCALES", Imagen Televisión
-http://bgapp.live/play/14-400.php?c=643&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="CONOCIMIENTO", ID
-http://bgapp.live/play/14-400.php?c=68&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="CONOCIMIENTO", ID
-http://bgapp.live/play/14-400.php?c=825&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="24/7", Johnny Bravo 24/7
-http://bgapp.live/play/14-400.php?c=786&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Juce TV
-http://bgapp.live/play/14-400.php?c=263&t=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7", La Casa de Papel 24/7
-http://bgapp.live/play/14-400.php?c=403&t=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7", La Familia PeLuche 24/7
-http://bgapp.live/play/14-400.php?c=811&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" group-title="24/7", La Hora Pico 24/7
-http://bgapp.live/play/14-400.php?c=887&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7", La Pantera Rosa 24/7
-http://bgapp.live/play/14-400.php?c=671&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png" group-title="24/7", La Pequeña Lulu 24/7
-http://bgapp.live/play/14-400.php?c=792&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7", La Rosa de Guadalupe 24/7
-http://bgapp.live/play/14-400.php?c=886&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasfa.png" group-title="ENTRETENCIÓN", La Sfa
-http://bgapp.live/play/14-400.php?c=326&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="24/7", La Vaca y ElPollito 24/7
-http://bgapp.live/play/14-400.php?c=809&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="ENTRETENCIÓN", Latina TV
-http://bgapp.live/play/14-400.php?c=782&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="24/7", Le Temes a la Oscuridad 24/7
-http://bgapp.live/play/14-400.php?c=888&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="ENTRETENCIÓN", Lifetime
-http://bgapp.live/play/14-400.php?c=152&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="DEPORTES", Liga de Campeones
-http://bgapp.live/play/14-400.php?c=890&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="DEPORTES", Liga de Campeones 2
-http://bgapp.live/play/14-400.php?c=893&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7", Looney Tunes 24/7
-http://bgapp.live/play/14-400.php?c=524&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png" group-title="24/7", Los 3 Chiflados 24/7
-http://bgapp.live/play/14-400.php?c=423&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="24/7", Los Años Maravillosos 24/7
-http://bgapp.live/play/14-400.php?c=810&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" group-title="24/7", Los Padrinos Magicos 24/7
-http://bgapp.live/play/14-400.php?c=813&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7", Los Picapiedra 24/7
-http://bgapp.live/play/14-400.php?c=669&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="24/7", Los Pinguinos de Madagascar 24/7
-http://bgapp.live/play/14-400.php?c=794&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="24/7", Los Pitufos 24/7
-http://bgapp.live/play/14-400.php?c=795&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="24/7", Los Reyes de la Colina 24/7
-http://bgapp.live/play/14-400.php?c=796&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7", Los Simpson 24/7
-http://bgapp.live/play/14-400.php?c=357&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="24/7", Los Supersonicos 24/7
-http://bgapp.live/play/14-400.php?c=797&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="24/7", Los Vengadores Unidos 24/7
-http://bgapp.live/play/14-400.php?c=818&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", m2o TV
-http://bgapp.live/play/14-400.php?c=203&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7", Malcolm 24/7
-http://bgapp.live/play/14-400.php?c=798&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png" group-title="ENTRETENCIÓN", Más chic
-http://bgapp.live/play/14-400.php?c=180&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="CINE PREMIUM", HBO Xtreme
-http://bgapp.live/play/14-400.php?c=730&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="24/7", Max Steel 24/7
-http://bgapp.live/play/14-400.php?c=880&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="CINE PREMIUM", HBO Pop
-http://bgapp.live/play/14-400.php?c=659&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="ENTRETENCIÓN", Mega
-http://bgapp.live/play/14-400.php?c=766&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="ENTRETENCIÓN", Mega
-http://bgapp.live/play/14-400.php?c=784&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Mega (ES)
-http://bgapp.live/play/14-400.php?c=352&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="CINE", MegaCine
-http://bgapp.live/play/14-400.php?c=517&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mimusicaENTRETENCIÓN.png" group-title="MUSICA", Mi Musica
-http://bgapp.live/play/14-400.php?c=172&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Miami TV
-http://bgapp.live/play/14-400.php?c=251&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/milenio.png" group-title="INFORMACIÓN", Milenio
-http://bgapp.live/play/14-400.php?c=140&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mlb.png" group-title="DEPORTES", MLB Network
-http://bgapp.live/play/14-400.php?c=293&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="CINE", Movie Max
-http://bgapp.live/play/14-400.php?c=678&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="CINE", Movistar Comedia
-http://bgapp.live/play/14-400.php?c=370&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_DEPORTES.png" group-title="DEPORTES", Movistar DEPORTES
-http://bgapp.live/play/14-400.php?c=366&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_DEPORTES2.png" group-title="DEPORTES", Movistar DEPORTES 2
-http://bgapp.live/play/14-400.php?c=367&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_xtra.png" group-title="ENTRETENCIÓN", Movistar Xtra
-http://bgapp.live/play/14-400.php?c=372&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7", Mr. Bean 24/7
-http://bgapp.live/play/14-400.php?c=431&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="ENTRETENCIÓN", MTV
-http://bgapp.live/play/14-400.php?c=69&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="ENTRETENCIÓN", MTV (ES)
-http://bgapp.live/play/14-400.php?c=803&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="ENTRETENCIÓN", MTV
-http://bgapp.live/play/14-400.php?c=828&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png" group-title="MUSICA", MTV Live
-http://bgapp.live/play/14-400.php?c=70&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="ENTRETENCIÓN", MTV Sur
-http://bgapp.live/play/14-400.php?c=823&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="REGIONALES", Canal 6 Monterrey
-http://bgapp.live/play/14-400.php?c=155&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png" group-title="CINE", MultiPremier
-http://bgapp.live/play/14-400.php?c=294&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Music Now
-http://bgapp.live/play/14-400.php?c=690&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png" group-title="MUSICA", MusicTop
-http://bgapp.live/play/14-400.php?c=691&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mvs.png" group-title="INFORMACIÓN", MVS INFORMACIÓN
-http://bgapp.live/play/14-400.php?c=448&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" group-title="24/7", Naruto 24/7
-http://bgapp.live/play/14-400.php?c=523&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="CONOCIMIENTO", Nat Geo
-http://bgapp.live/play/14-400.php?c=76&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="CONOCIMIENTO", Nat Geo
-http://bgapp.live/play/14-400.php?c=644&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png" group-title="DEPORTES", NBA
-http://bgapp.live/play/14-400.php?c=838&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/neox.png" group-title="ENTRETENCIÓN", Neox (ES)
-http://bgapp.live/play/14-400.php?c=353&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nfl.png" group-title="DEPORTES", NFL Network
-http://bgapp.live/play/14-400.php?c=204&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="KIDS", Nick
-http://bgapp.live/play/14-400.php?c=78&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick2.png" group-title="ENTRETENCIÓN", Teennick
-http://bgapp.live/play/14-400.php?c=646&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="ENTRETENCIÓN", Nick
-http://bgapp.live/play/14-400.php?c=645&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="KIDS", Nick JR
-http://bgapp.live/play/14-400.php?c=79&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="ENTRETENCIÓN", Nick JR
-http://bgapp.live/play/14-400.php?c=829&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="MUSICA", Nickmusic
-http://bgapp.live/play/14-400.php?c=80&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="KIDS", Nickelodeon
-http://bgapp.live/play/14-400.php?c=184&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nova.png" group-title="ENTRETENCIÓN", Nova (ES)
-http://bgapp.live/play/14-400.php?c=717&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="24/7", One Punch Man 24/7
-http://bgapp.live/play/14-400.php?c=661&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="RELIGIÓN", ORBE 21
-http://bgapp.live/play/14-400.php?c=242&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="24/7", Padre de Familia 24/7
-http://bgapp.live/play/14-400.php?c=416&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="CINE", Paramount
-http://bgapp.live/play/14-400.php?c=200&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="CINE", Paramount
-http://bgapp.live/play/14-400.php?c=647&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="ENTRETENCIÓN", Pasiones
-http://bgapp.live/play/14-400.php?c=755&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="24/7", Patoaventuras 24/7
-http://bgapp.live/play/14-400.php?c=819&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="24/7", Patrulla Canina 24/7
-http://bgapp.live/play/14-400.php?c=807&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="24/7", Peppa Pig 24/7
-http://bgapp.live/play/14-400.php?c=787&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/america_peru.png" group-title="ENTRETENCIÓN", PERU: América TV
-http://bgapp.live/play/14-400.php?c=304&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: Antares TV
-http://bgapp.live/play/14-400.php?c=451&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: BHTV
-http://bgapp.live/play/14-400.php?c=399&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: La Luz
-http://bgapp.live/play/14-400.php?c=338&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="ENTRETENCIÓN", PERU: Latina
-http://bgapp.live/play/14-400.php?c=317&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: Plus TV
-http://bgapp.live/play/14-400.php?c=337&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: RBC
-http://bgapp.live/play/14-400.php?c=220&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rpp_peru.png" group-title="ENTRETENCIÓN", PERU: RPP
-http://bgapp.live/play/14-400.php?c=336&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: TV Peru
-http://bgapp.live/play/14-400.php?c=306&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: Willax TV
-http://bgapp.live/play/14-400.php?c=334&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="24/7", Pinky y Cerebro 24/7
-http://bgapp.live/play/14-400.php?c=721&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="24/7", Pocoyo 24/7
-http://bgapp.live/play/14-400.php?c=799&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7", Pokemon 24/7
-http://bgapp.live/play/14-400.php?c=420&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 1
-http://bgapp.live/play/14-400.php?c=847&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 10
-http://bgapp.live/play/14-400.php?c=856&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 11
-http://bgapp.live/play/14-400.php?c=858&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 12
-http://bgapp.live/play/14-400.php?c=859&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 13
-http://bgapp.live/play/14-400.php?c=860&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 14
-http://bgapp.live/play/14-400.php?c=862&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 15
-http://bgapp.live/play/14-400.php?c=863&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 16
-http://bgapp.live/play/14-400.php?c=864&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 17
-http://bgapp.live/play/14-400.php?c=865&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 18
-http://bgapp.live/play/14-400.php?c=866&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 19
-http://bgapp.live/play/14-400.php?c=861&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 2
-http://bgapp.live/play/14-400.php?c=848&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 20
-http://bgapp.live/play/14-400.php?c=867&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 21
-http://bgapp.live/play/14-400.php?c=868&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 22
-http://bgapp.live/play/14-400.php?c=869&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 23
-http://bgapp.live/play/14-400.php?c=870&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 24
-http://bgapp.live/play/14-400.php?c=871&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 25
-http://bgapp.live/play/14-400.php?c=873&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 26
-http://bgapp.live/play/14-400.php?c=874&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 27
-http://bgapp.live/play/14-400.php?c=876&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 28
-http://bgapp.live/play/14-400.php?c=875&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 29
-http://bgapp.live/play/14-400.php?c=872&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 3
-http://bgapp.live/play/14-400.php?c=849&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 30
-http://bgapp.live/play/14-400.php?c=877&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 4
-http://bgapp.live/play/14-400.php?c=850&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 5
-http://bgapp.live/play/14-400.php?c=851&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 6
-http://bgapp.live/play/14-400.php?c=852&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 7
-http://bgapp.live/play/14-400.php?c=853&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 8
-http://bgapp.live/play/14-400.php?c=854&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 9
-http://bgapp.live/play/14-400.php?c=855&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png" group-title="24/7", Prison Break 24/7
-http://bgapp.live/play/14-400.php?c=884&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pxtv.png" group-title="DEPORTES", PX TV
-http://bgapp.live/play/14-400.php?c=193&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" group-title="24/7", Ranma 1/2 24/7
-http://bgapp.live/play/14-400.php?c=419&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="REGIONALES", RCG TV Coahuila
-http://bgapp.live/play/14-400.php?c=346&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png" group-title="ENTRETENCIÓN", RCN
-http://bgapp.live/play/14-400.php?c=390&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcnnovelas.png" group-title="ENTRETENCIÓN", RCN Novelas
-http://bgapp.live/play/14-400.php?c=279&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="DEPORTES", Real Madrid TV
-http://bgapp.live/play/14-400.php?c=270&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/retromusic.png" group-title="MUSICA", Retro Music
-http://bgapp.live/play/14-400.php?c=692&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ritmoson.png" group-title="MUSICA", Telehit Música
-http://bgapp.live/play/14-400.php?c=154&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rt.png" group-title="INFORMACIÓN", RT
-http://bgapp.live/play/14-400.php?c=142&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rtp.png" group-title="ENTRETENCIÓN", RTP
-http://bgapp.live/play/14-400.php?c=781&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png" group-title="24/7", Sakura Card Captor 24/7
-http://bgapp.live/play/14-400.php?c=672&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="24/7", Samurai X 24/7
-http://bgapp.live/play/14-400.php?c=663&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="24/7", Scooby Doo 24/7
-http://bgapp.live/play/14-400.php?c=422&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/showtime.png" group-title="CINE", Showtime
-http://bgapp.live/play/14-400.php?c=679&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" group-title="24/7", Smallville 24/7
-http://bgapp.live/play/14-400.php?c=673&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="ENTRETENCIÓN", Sony
-http://bgapp.live/play/14-400.php?c=145&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="ENTRETENCIÓN", Sony
-http://bgapp.live/play/14-400.php?c=498&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png" group-title="24/7", South Park 24/7
-http://bgapp.live/play/14-400.php?c=674&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="CINE", Space
-http://bgapp.live/play/14-400.php?c=83&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="CINE", Space Sur
-http://bgapp.live/play/14-400.php?c=751&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="CINE", Space
-http://bgapp.live/play/14-400.php?c=499&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="24/7", Spiderman 24/7
-http://bgapp.live/play/14-400.php?c=889&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="ENTRETENCIÓN", Star
-http://bgapp.live/play/14-400.php?c=45&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="CINE", Studio Universal
-http://bgapp.live/play/14-400.php?c=84&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="CINE", Studio Universal
-http://bgapp.live/play/14-400.php?c=830&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="24/7", Super Campeones 24/7
-http://bgapp.live/play/14-400.php?c=432&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="ENTRETENCIÓN", SyFy
-http://bgapp.live/play/14-400.php?c=151&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="ENTRETENCIÓN", SyFy Sur
-http://bgapp.live/play/14-400.php?c=758&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="ENTRETENCIÓN", SyFy
-http://bgapp.live/play/14-400.php?c=648&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="ENTRETENCIÓN", TBS Very Funny
-http://bgapp.live/play/14-400.php?c=171&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="ENTRETENCIÓN", TBS Very Funny
-http://bgapp.live/play/14-400.php?c=831&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="ENTRETENCIÓN", TC Ecuador
-http://bgapp.live/play/14-400.php?c=885&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" group-title="ENTRETENCIÓN", TCM
-http://bgapp.live/play/14-400.php?c=85&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png" group-title="KIDS", TeenNick
-http://bgapp.live/play/14-400.php?c=882&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Tele
-http://bgapp.live/play/14-400.php?c=778&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ENTRETENCIÓN", TeleAmazonas
-http://bgapp.live/play/14-400.php?c=320&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="ENTRETENCIÓN", Telefe
-http://bgapp.live/play/14-400.php?c=771&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleformula.png" group-title="INFORMACIÓN", TeleFórmula
-http://bgapp.live/play/14-400.php?c=182&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="MUSICA", Telehit
-http://bgapp.live/play/14-400.php?c=91&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="ENTRETENCIÓN", Telehit
-http://bgapp.live/play/14-400.php?c=649&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemedellin.png" group-title="ENTRETENCIÓN", Telemedellin
-http://bgapp.live/play/14-400.php?c=197&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="ENTRETENCIÓN", Telemundo
-http://bgapp.live/play/14-400.php?c=92&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="ENTRETENCIÓN", Telemundo
-http://bgapp.live/play/14-400.php?c=660&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png" group-title="ENTRETENCIÓN", Televicentro
-http://bgapp.live/play/14-400.php?c=776&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="24/7", The Big Bang Theory 24/7
-http://bgapp.live/play/14-400.php?c=676&t=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7", The Walking Dead 24/7
-http://bgapp.live/play/14-400.php?c=800&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="DEPORTES", TigoSports Bolivia
-http://bgapp.live/play/14-400.php?c=764&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="DEPORTES", TigoSports Paraguay
-http://bgapp.live/play/14-400.php?c=843&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tiin.png" group-title="KIDS", BitMe
-http://bgapp.live/play/14-400.php?c=93&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="CONOCIMIENTO", TLC
-http://bgapp.live/play/14-400.php?c=87&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="ENTRETENCIÓN", Tlnovelas
-http://bgapp.live/play/14-400.php?c=94&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="ENTRETENCIÓN", Tlnovelas
-http://bgapp.live/play/14-400.php?c=832&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="CINE", TNT
-http://bgapp.live/play/14-400.php?c=179&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="CINE", TNT Sur
-http://bgapp.live/play/14-400.php?c=752&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="CINE", TNT (ES)
-http://bgapp.live/play/14-400.php?c=716&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="CINE", TNT
-http://bgapp.live/play/14-400.php?c=500&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="ENTRETENCIÓN", TNT Series
-http://bgapp.live/play/14-400.php?c=90&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="ENTRETENCIÓN", TNT Series Sur
-http://bgapp.live/play/14-400.php?c=757&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="ENTRETENCIÓN", TNT Series
-http://bgapp.live/play/14-400.php?c=650&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="DEPORTES", TNT Sports
-http://bgapp.live/play/14-400.php?c=509&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="24/7", Tom y Jerry 24/7
-http://bgapp.live/play/14-400.php?c=421&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="KIDS", Tooncast
-http://bgapp.live/play/14-400.php?c=95&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trece_colombia.png" group-title="ENTRETENCIÓN", Trece
-http://bgapp.live/play/14-400.php?c=774&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="24/7", TrollHunters 24/7
-http://bgapp.live/play/14-400.php?c=662&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" group-title="ENTRETENCIÓN", TruTV
-http://bgapp.live/play/14-400.php?c=96&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" group-title="ENTRETENCIÓN", TruTv
-http://bgapp.live/play/14-400.php?c=501&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tumusicaENTRETENCIÓN.png" group-title="MUSICA", Tu Musica
-http://bgapp.live/play/14-400.php?c=516&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN 
-http://bgapp.live/play/14-400.php?c=698&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN (Pocos Datos)
-http://bgapp.live/play/14-400.php?c=822&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN
-http://bgapp.live/play/14-400.php?c=801&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN USA
-http://bgapp.live/play/14-400.php?c=86&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN USA
-http://bgapp.live/play/14-400.php?c=821&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tvcDEPORTES.png" group-title="DEPORTES", TVC DEPORTES
-http://bgapp.live/play/14-400.php?c=837&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tve.png" group-title="ENTRETENCIÓN", TVE
-http://bgapp.live/play/14-400.php?c=195&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="24/7", Two And a Half Men 24/7
-http://bgapp.live/play/14-400.php?c=675&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="DEPORTES", Tyc Sports
-http://bgapp.live/play/14-400.php?c=274&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png" group-title="DEPORTES", Adrenalina
-http://bgapp.live/play/14-400.php?c=97&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="ENTRETENCIÓN", Unicable
-http://bgapp.live/play/14-400.php?c=98&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="ENTRETENCIÓN", Unicable
-http://bgapp.live/play/14-400.php?c=653&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="ENTRETENCIÓN", Universal
-http://bgapp.live/play/14-400.php?c=137&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="ENTRETENCIÓN", Universal
-http://bgapp.live/play/14-400.php?c=502&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png" group-title="ENTRETENCIÓN", Univision
-http://bgapp.live/play/14-400.php?c=99&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univisionDEPORTES.png" group-title="DEPORTES", TUDN USA
-http://bgapp.live/play/14-400.php?c=373&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="DEPORTES", TUDN USA
-http://bgapp.live/play/14-400.php?c=100&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Univision Tlnovelas
-http://bgapp.live/play/14-400.php?c=413&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Uno
-http://bgapp.live/play/14-400.php?c=775&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" group-title="MUSICA", MTV 00s
-http://bgapp.live/play/14-400.php?c=101&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" group-title="MUSICA", MTV 00s
-http://bgapp.live/play/14-400.php?c=632&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/videorola.png" group-title="MUSICA", Video Rola
-http://bgapp.live/play/14-400.php?c=359&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Videos: 1Music
-http://bgapp.live/play/14-400.php?c=433&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Videos: Company Radio TV
-http://bgapp.live/play/14-400.php?c=435&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Videos: Dream TV
-http://bgapp.live/play/14-400.php?c=439&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Virgin TV
-http://bgapp.live/play/14-400.php?c=315&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv.png" group-title="ENTRETENCIÓN", VTV Uruaguay
-http://bgapp.live/play/14-400.php?c=708&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv2_chile.png" group-title="ENTRETENCIÓN", VTV2 Chile
-http://bgapp.live/play/14-400.php?c=321&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png" group-title="ENTRETENCIÓN", Wapa PR
-http://bgapp.live/play/14-400.php?c=327&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="ENTRETENCIÓN", Warner Channel
-http://bgapp.live/play/14-400.php?c=102&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="ENTRETENCIÓN", Warner Channel Sur
-http://bgapp.live/play/14-400.php?c=759&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="ENTRETENCIÓN", Warner Channel
-http://bgapp.live/play/14-400.php?c=503&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="DEPORTES", Win Sports
-http://bgapp.live/play/14-400.php?c=292&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="DEPORTES", Win Sports +
-http://bgapp.live/play/14-400.php?c=881&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="DEPORTES", Win Sports +
-http://bgapp.live/play/14-400.php?c=802&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="DEPORTES", Win Sports
-http://bgapp.live/play/14-400.php?c=754&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" group-title="DEPORTES", WWE Network
-http://bgapp.live/play/14-400.php?c=276&t=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="24/7", Yu-Gi-Oh! 24/7
-http://bgapp.live/play/14-400.php?c=664&t=.m3u8
 
 
 #EXTINF:-1 group-title="Lista 17", MOVISTAR LaLiga
@@ -4086,84 +4162,6 @@ http://201.182.242.135:12000/play/a03v/index.m3u8
 http://201.182.242.135:12000/play/a06b/index.m3u8
 #EXTINF:-1 group-title="Lista 05",trece-ext
 http://201.182.242.135:12000/play/a05o/index.m3u8
-
-
-#EXTINF:-1 group-title="MUSICA" tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png", Rewind TV
-https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png", Ruidos TV
-https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="12" tvg-name="Awka" tvg-logo="https://lh3.googleusercontent.com/-axPzeNdcvq4/X4JBO2dt35I/AAAAAAAA6UM/X-3kz1phNyUa8lUEEnt_0-Nv3OZdOWACwCK8BGAsYHg/s0/2020-10-10.png", Awka
-https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="14" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="3" tvg-name="XTV Music" tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png", XTV Music
-https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0/2020-10-26.png", Zapping Music
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png", Portal FoxMix
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png", Retro Music Television
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://lh3.googleusercontent.com/-3hmTnW9e-Y4/XbDAlKKxKtI/AAAAAAAArnA/OkLJM2f1T0ktieMaceuBzVPOADwGIf1jACK8BGAsYHg/s0/2019-10-23.png", Carolina TV
-http://unlimited1-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="32" tvg-name="Alegria TV" tvg-logo="https://lh3.googleusercontent.com/-IDCwMaJRdnM/Xb11MVTbE-I/AAAAAAAAr4s/PbNF6ie1AIothtCRKeVvdVC6S5hO6a3xACK8BGAsYHg/s0/2019-11-02.png", Alegria TV
-https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="37" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png", Canal 38
-https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="63" tvg-name="Bajo Cero TV" tvg-logo="https://lh3.googleusercontent.com/-bNr32YilkwI/X7gHapMZxAI/AAAAAAAA7hc/tUFlaalIohMz1NqYEMuP77GfeYrh7HBNgCK8BGAsYHg/s0/2020-11-20.png", Bajo Cero TV
-https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png", Conecta TV
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="18" tvg-name="Corazon Llanero" tvg-logo="https://lh3.googleusercontent.com/-XR46wyY1FZc/XjomdF00q2I/AAAAAAAAvlY/RR7N6BVs2fQVrkRxUvldT5NN7KN5QGDDACK8BGAsYHg/s0/2020-02-04.png", Corazon Llanero
-https://5fa4275407563.streamlock.net:455/corazonllanerotv/corazonllanerotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="15" tvg-name="Eurolatina TV" tvg-logo="https://lh3.googleusercontent.com/-TM44QoGsUd4/X8bhuroUcNI/AAAAAAAA73Y/o84W1d_xBXA1yInTgmrlcjwFIGrFPTv9ACK8BGAsYHg/s0/2020-12-01.jpg", Eurolatina TV
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://lh3.googleusercontent.com/-7rDHdedeWvo/Xmr-CC8Pa2I/AAAAAAAAwyI/X8CvdyCJtdQZutdQi2clULPfWJH0c8S3QCK8BGAsYHg/s0/2020-03-12.png", Ibiza Global TV
-https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="23" tvg-name="m2o TV" tvg-logo="https://lh3.googleusercontent.com/-8k2_MMN4_Bc/X0Khp3P6tWI/AAAAAAAA46E/RE_IEG7uAo4WhxuJy71et8N5L1BRugBLgCK8BGAsYHg/s0/2020-08-23.png", m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://lh3.googleusercontent.com/-RF13xAQ97o0/XxzMzRqfnBI/AAAAAAAA3Zc/xet9CCbU7H8WEPRQGCXEPpiBxM5RUK6EwCK8BGAsYHg/s0/2020-07-25.png", Maxima FM
-http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="24" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png", Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="20" tvg-name="On Radio Ksun" tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png", On Radio Ksun
-https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="26" tvg-name="RCKStudio" tvg-logo="https://lh3.googleusercontent.com/-k220wrO7Pks/X2tCElFr0xI/AAAAAAAA50E/JjO-VenWP_cETYy8Se1-2pxO3-vMYU5nACK8BGAsYHg/s0/2020-09-23.png", RCKStudio
-https://rckstudio.duckdns.org/hls/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://lh3.googleusercontent.com/-t2WD0yOsfvg/XzxnxYhCPPI/AAAAAAAA4oY/qwvkZXM7rAUzOACe0-fSRAQ7_8n6xb5wgCK8BGAsYHg/s0/2020-08-18.png", The Retro Channel
-https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="25" tvg-name="TuTv Quillota" tvg-logo="https://lh3.googleusercontent.com/-WD49JzHZ9cM/Xrsv-mIjUjI/AAAAAAAA0rs/g_Pgm6hQvNIbp8aHuvQ3H7kEkiu3-M4zQCK8BGAsYHg/s0/2020-05-12.png", TuTv Quillota
-https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="34" tvg-name="TV vconline.cl" tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png", TV vconline.cl
-https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="29" tvg-name="DJ Loncho TV" tvg-logo="https://lh3.googleusercontent.com/-VPBp6Vk47T4/XnzDahiuJCI/AAAAAAAAxMI/BkejtQRObwcVvsIvYbdi3Yf5UOizKSRoQCK8BGAsYHg/s0/2020-03-26.png", DJ Loncho TV
-https://srv2.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="28" tvg-name="Natural TV" tvg-logo="https://lh3.googleusercontent.com/-mHhSrfB607c/Xofchq4pWAI/AAAAAAAAxd8/1PbG6O1b6ZU6d_G1AImfuPfCMgxVk9eeACK8BGAsYHg/s0/2020-04-03.png", Natural TV
-http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="42" tvg-name="RadioTV.pro" tvg-logo="https://lh3.googleusercontent.com/-wwOQH4WvSZI/X5jEE-BBCmI/AAAAAAAA6y4/RgkfOZHscEIH9ceLQR6UPtuXQQUw0FXCACK8BGAsYHg/s0/2020-10-27.png", RadioTV.pro
-https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png", TV Exitos
-http://siglo21.dnsalias.com:8080/mylive/tvexitos/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica
-https://5f2eaf2aa4061.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", TOP Latino TV
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg", Karibeña TV
-https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg", Best Cable Music
-https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg", Hatun TV
-https://live.siete.us:1991/bestcablehatuntv/bestcablehatuntv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png", Mas Cumbia
-https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png", Turbo Mix TV
-http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 group-title="Lista 11", Animal Planet
