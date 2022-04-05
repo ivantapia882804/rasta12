@@ -42,9 +42,9 @@ http://alv.encohd.co:39591/live/j0roNAC/n3XT33/345.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" group-title="RECOMENDADOS" ,TUDN (USA)
 http://bgapp.live/play/14-400.php?c=100&F=.m3u8
 #EXTINF:-1 tvg-id="UnimasNetworkEast(Spanish).us" group-title="RECOMENDADOS" ,UniMás
-http://bgapp.live/play/trasco-400.php?c=9603UNIMW/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9603UNIMW/transco7&t=blackghost.m3u8
 #EXTINF:-1 tvg-id="GalavisionNetwork(Spanish).us" group-title="RECOMENDADOS" ,GALAVISIÓN (USA)
-http://bgapp.live/play/trasco-400.php?c=9602GLVSN/transco16&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9602GLVSN/transco16&t=blackghost.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoSur).co" tvg-name="Fox Sports 2 (COL)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="RECOMENDADOS",Fox Sports 2 (COL)
 http://190.92.95.37:8000/play/a0hn/index.m3u8
 
@@ -1150,107 +1150,107 @@ http://bgapp.live/play/zufree-400.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3544
 
 
 #EXTINF:-1  group-title="LOCALES", Azteca Uno
-http://bgapp.live/play/trasco-400.php?c=113azteca13/transco1&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=113azteca13/transco1&t=blackghost.m3u8
 #EXTINF:-1  group-title="LOCALES", Las Estrellas
-http://bgapp.live/play/trasco-400.php?c=102estrellas/transco1&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=102estrellas/transco1&t=blackghost.m3u8
 #EXTINF:-1  group-title="LOCALES", Imagen Television
-http://bgapp.live/play/trasco-400.php?c=103Imagen/transco13&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=103Imagen/transco13&t=blackghost.m3u8
 #EXTINF:-1  group-title="LOCALES", Foro TV
-http://bgapp.live/play/trasco-400.php?c=push/forotv&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=push/forotv&t=blackghost.m3u8
 #EXTINF:-1  group-title="LOCALES", Canal 5
-http://bgapp.live/play/trasco-400.php?c=105canal5/transco1&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=105canal5/transco1&t=blackghost.m3u8
 #EXTINF:-1  group-title="LOCALES", Canal 6 CDMX (XHTDMX-TDT)
-http://bgapp.live/play/trasco-400.php?c=MultimediosPlus/transco15&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=MultimediosPlus/transco15&t=blackghost.m3u8
 #EXTINF:-1  group-title="INFORMACIÓN", Milenio Televisión (XHTDMX-TDT2)
-http://bgapp.live/play/trasco-400.php?c=710MilenioTV/transco13&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=710MilenioTV/transco13&t=blackghost.m3u8
 #EXTINF:-1  group-title="REGIONALES", Canal 6 Monterrey (XHAW-TDT)
-http://bgapp.live/play/trasco-400.php?c=Multimediosmty/transco15&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=Multimediosmty/transco15&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", MVS TV (XHTDMX-TDT4)
-http://bgapp.live/play/trasco-400.php?c=152mx52/transco1&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=152mx52/transco1&t=blackghost.m3u8
 #EXTINF:-1  group-title="LOCALES", Azteca 7
-http://bgapp.live/play/trasco-400.php?c=107azteca7/transco1&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=107azteca7/transco1&t=blackghost.m3u8
 #EXTINF:-1  group-title="LOCALES", NU9VE
-http://bgapp.live/play/trasco-400.php?c=andrew/galatv&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andrew/galatv&t=blackghost.m3u8
 #EXTINF:-1  group-title="LOCALES", Canal Once
-http://bgapp.live/play/trasco-400.php?c=111OnceTvMexico/transco1&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=111OnceTvMexico/transco1&t=blackghost.m3u8
 #EXTINF:-1  group-title="LOCALES", Aprende En Casa IV-1 (11.2/5.2)
-http://bgapp.live/play/trasco-400.php?c=133once2/transco1&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=133once2/transco1&t=blackghost.m3u8
 #EXTINF:-1  group-title="LOCALES", Canal Catorce
-http://bgapp.live/play/trasco-400.php?c=130unavoz/transco1&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=130unavoz/transco1&t=blackghost.m3u8
 #EXTINF:-1  group-title="LOCALES", Aprende En Casa IV-2 (14.2/20.1 Nal)
-http://bgapp.live/play/trasco-400.php?c=131ingenioTV/transco1&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=131ingenioTV/transco1&t=blackghost.m3u8
 #EXTINF:-1  group-title="LOCALES", TV UNAM
-http://bgapp.live/play/trasco-400.php?c=120tvunam/transco1&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=120tvunam/transco1&t=blackghost.m3u8
 #EXTINF:-1  group-title="LOCALES", Canal 22
-http://bgapp.live/play/trasco-400.php?c=122canal22/transco1&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=122canal22/transco1&t=blackghost.m3u8
 #EXTINF:-1  group-title="LOCALES", Canal 22.2
-http://bgapp.live/play/trasco-400.php?c=304Canal222/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=304Canal222/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="INFORMACIÓN", Canal Del Congreso
-http://bgapp.live/play/trasco-400.php?c=145congreso/transco14&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=145congreso/transco14&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Star Channel | HD
-http://bgapp.live/play/trasco-400.php?c=andromeda/FOX&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/FOX&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Star Channel
-http://bgapp.live/play/trasco-400.php?c=202CanalFOXMexico/transco1&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=202CanalFOXMexico/transco1&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Sony Channel | HD
-http://bgapp.live/play/trasco-400.php?c=andromeda/SONY&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/SONY&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Sony Channel
-http://bgapp.live/play/trasco-400.php?c=211sony/transco14&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=211sony/transco14&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Unicable
-http://bgapp.live/play/trasco-400.php?c=andromeda/UNICABLE&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/UNICABLE&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Pasiones
-http://bgapp.live/play/trasco-400.php?c=andromeda/PASIONES&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/PASIONES&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Warner | HD
-http://bgapp.live/play/trasco-400.php?c=andromeda/WARNER&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/WARNER&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Warner
-http://bgapp.live/play/trasco-400.php?c=210WarnerChannel/transco14&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=210WarnerChannel/transco14&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", E!
-http://bgapp.live/play/trasco-400.php?c=212E!Latino/transco14&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=212E!Latino/transco14&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", FX | HD
-http://bgapp.live/play/trasco-400.php?c=andromeda/FX&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/FX&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", FX
-http://bgapp.live/play/trasco-400.php?c=207FXLatin/transco1&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=207FXLatin/transco1&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Universal | HD
-http://bgapp.live/play/trasco-400.php?c=andromeda/UNIVERSAL&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/UNIVERSAL&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Universal
-http://bgapp.live/play/trasco-400.php?c=203Universal/transco1&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=203Universal/transco1&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", TNT Series
-http://bgapp.live/play/trasco-400.php?c=205TNTSE/transco1&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=205TNTSE/transco1&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", SYFY
-http://bgapp.live/play/trasco-400.php?c=204SyFyLatin/transco1&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=204SyFyLatin/transco1&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", TBS
-http://bgapp.live/play/trasco-400.php?c=223TBS/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=223TBS/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", ID | HD
-http://bgapp.live/play/trasco-400.php?c=andromeda/ID&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/ID&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", ID
-http://bgapp.live/play/trasco-400.php?c=216I.D/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=216I.D/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", A&E | HD
-http://bgapp.live/play/trasco-400.php?c=andromeda/AE&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/AE&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", A&E
-http://bgapp.live/play/trasco-400.php?c=214AELatino/transco14&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=214AELatino/transco14&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Lifetime
-http://bgapp.live/play/trasco-400.php?c=414LIFET/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=414LIFET/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", AXN | HD
-http://bgapp.live/play/trasco-400.php?c=andromeda/AXN&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/AXN&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", AXN
-http://bgapp.live/play/trasco-400.php?c=213AXNLatinoAmerica/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=213AXNLatinoAmerica/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", I-Sat
-http://bgapp.live/play/trasco-400.php?c=222ISAT/transco14&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=222ISAT/transco14&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Universo
-http://bgapp.live/play/trasco-400.php?c=transco10/9509UNVSO&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco10/9509UNVSO&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Estrella TV
-http://bgapp.live/play/trasco-400.php?c=eventox3/lista&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=eventox3/lista&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Telemundo
-http://bgapp.live/play/trasco-400.php?c=encoder75/evento9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=encoder75/evento9&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Telemundo 52 Pac
-http://bgapp.live/play/trasco-400.php?c=andrew/telehit&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andrew/telehit&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Univisión
-http://bgapp.live/play/trasco-400.php?c=9604UNVSN/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9604UNVSN/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Univisión 34 Pac
-http://bgapp.live/play/trasco-400.php?c=eventox2/lista&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=eventox2/lista&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", UniMas
-http://bgapp.live/play/trasco-400.php?c=9603UNIMW/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9603UNIMW/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Galavisión
-http://bgapp.live/play/trasco-400.php?c=9602GLVSN/transco16&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9602GLVSN/transco16&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Telemundo PR (WKAQ-DT)
 http://bgapp.live/play/trasco-400.php?c=0000/CH=%C2%A0PR-WKAQ/playlist.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", WAPA
@@ -1258,388 +1258,388 @@ http://bgapp.live/play/trasco-400.php?c=0000/CH=%C2%A0PR-%C2%A0WAPA/playlist.m3u
 #EXTINF:-1  group-title="ENTRETENCIÓN", WAPA Deportes
 http://bgapp.live/play/trasco-400.php?c=0000/CH=%C2%A0PR-%C2%A0WAPA2/playlist.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", WIPR
-http://bgapp.live/play/trasco-400.php?c=wipr&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=wipr&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Tele11
 http://bgapp.live/play/trasco-400.php?c=0000/CH=%C2%A0PR-WLII/playlist.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", MegaTV PR
-http://bgapp.live/play/trasco-400.php?c=megatvpr&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=megatvpr&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Punto 2 (WKAQ-DT2)
-http://bgapp.live/play/trasco-400.php?c=live/punto2pr&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=live/punto2pr&t=blackghost.m3u8
 
 #EXTINF:-1  group-title="ENTRETENCIÓN", A3 Series
-http://bgapp.live/play/trasco-400.php?c=230Atres/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=230Atres/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", ¡Hola! TV
-http://bgapp.live/play/trasco-400.php?c=218Hola/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=218Hola/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", MTV | HD
-http://bgapp.live/play/trasco-400.php?c=live/ID&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=live/ID&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", MTV
-http://bgapp.live/play/trasco-400.php?c=250mtvla/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=250mtvla/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", MTV Hits
-http://bgapp.live/play/trasco-400.php?c=mtvhitsts/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=mtvhitsts/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Comedy Central
-http://bgapp.live/play/trasco-400.php?c=225CMEDY/transco14&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=225CMEDY/transco14&t=blackghost.m3u8
 #EXTINF:-1  group-title="MUSICA", Exa TV
-http://bgapp.live/play/trasco-400.php?c=252NU/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=252NU/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="MUSICA", La Mejor TV
-http://23.237.29.98:2095/255exatv/transco7&f=blackghost.m3u8
+http://23.237.29.98:2095/255exatv/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="MUSICA", HTV
-http://bgapp.live/play/trasco-400.php?c=260htv/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=260htv/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="MUSICA", Telehit Música Plus
-http://bgapp.live/play/trasco-400.php?c=live/DTURBO&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=live/DTURBO&t=blackghost.m3u8
 #EXTINF:-1  group-title="MUSICA", Bandamax
-http://bgapp.live/play/trasco-400.php?c=encoder70/goltv&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=encoder70/goltv&t=blackghost.m3u8
 #EXTINF:-1  group-title="MUSICA", VideoRola
-http://bgapp.live/play/trasco-400.php?c=258VROLA/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=258VROLA/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="MUSICA", Teleritmo
-http://bgapp.live/play/trasco-400.php?c=276teleritmo/transco13&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=276teleritmo/transco13&t=blackghost.m3u8
 #EXTINF:-1  group-title="KIDS", Discovery Kids
-http://bgapp.live/play/trasco-400.php?c=310discoverykids/transco14&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=310discoverykids/transco14&t=blackghost.m3u8
 #EXTINF:-1  group-title="KIDS", Nick
-http://bgapp.live/play/trasco-400.php?c=305nickelodeon/transco14&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=305nickelodeon/transco14&t=blackghost.m3u8
 #EXTINF:-1  group-title="KIDS", Disney Channel | HD
-http://bgapp.live/play/trasco-400.php?c=andromeda/DISNEY&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/DISNEY&t=blackghost.m3u8
 #EXTINF:-1  group-title="KIDS", Disney Channel
-http://bgapp.live/play/trasco-400.php?c=302Disneychannel/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=302Disneychannel/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="KIDS", Disney Junior
-http://bgapp.live/play/trasco-400.php?c=303DisneyJunior/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=303DisneyJunior/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="KIDS", Cartoon Network
-http://bgapp.live/play/trasco-400.php?c=307CartoonNetwork/transco14&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=307CartoonNetwork/transco14&t=blackghost.m3u8
 #EXTINF:-1  group-title="KIDS", Baby TV
-http://bgapp.live/play/trasco-400.php?c=315BabyTVLatinAmerica/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=315BabyTVLatinAmerica/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="KIDS", Nick Jr.
-http://bgapp.live/play/trasco-400.php?c=306NickJrLatinAmerica/transco14&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=306NickJrLatinAmerica/transco14&t=blackghost.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", Discovery
-http://bgapp.live/play/trasco-400.php?c=402discoverychannel/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=402discoverychannel/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", Animal Planet | HD
-http://bgapp.live/play/trasco-400.php?c=evento4/bodega&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=evento4/bodega&t=blackghost.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", Animal Planet
-http://bgapp.live/play/trasco-400.php?c=408animalplanet/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=408animalplanet/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", TLC
-http://bgapp.live/play/trasco-400.php?c=217TLC/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=217TLC/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", Discovery Home & Health | HD
-http://bgapp.live/play/trasco-400.php?c=andromeda/DISCOVERYHH&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/DISCOVERYHH&t=blackghost.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", Discovery Theater HD
-http://bgapp.live/play/trasco-400.php?c=andromeda/DISCOVERYTH&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/DISCOVERYTH&t=blackghost.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", Discovery World HD
-http://bgapp.live/play/trasco-400.php?c=live/DWORLD&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=live/DWORLD&t=blackghost.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", Discovery Turbo
-http://bgapp.live/play/trasco-400.php?c=345turbo/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=345turbo/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", National Geographic | HD
-http://bgapp.live/play/trasco-400.php?c=encoder18/unicable&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=encoder18/unicable&t=blackghost.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", National Geographic
-http://bgapp.live/play/trasco-400.php?c=405Natgeo/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=405Natgeo/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", History | HD
-http://bgapp.live/play/trasco-400.php?c=andromeda/HISTORY&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/HISTORY&t=blackghost.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", History
-http://bgapp.live/play/trasco-400.php?c=409history/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=409history/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", History 2
-http://bgapp.live/play/trasco-400.php?c=413H2/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=413H2/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", El Gourmet
-http://bgapp.live/play/trasco-400.php?c=evento5/bodega&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=evento5/bodega&t=blackghost.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", Discovery En Español
-http://bgapp.live/play/trasco-400.php?c=transco9/9535DISCOVERYESP&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco9/9535DISCOVERYESP&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", Fox Sports | HD
-http://bgapp.live/play/trasco-400.php?c=evento3/bodega&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=evento3/bodega&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", Fox Sports
-http://bgapp.live/play/trasco-400.php?c=502FoxSport1/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=502FoxSport1/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", Fox Sports 2 | HD
-http://bgapp.live/play/trasco-400.php?c=andromeda/FOXSP2&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/FOXSP2&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", Fox Sports 2
-http://bgapp.live/play/trasco-400.php?c=503FoxSport2/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=503FoxSport2/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", Fox Sports 3
-http://bgapp.live/play/trasco-400.php?c=508FoxSports3/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=508FoxSports3/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", ESPN | HD
-http://bgapp.live/play/trasco-400.php?c=evento/bodega&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=evento/bodega&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", ESPN
-http://bgapp.live/play/trasco-400.php?c=506ESPN2/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=506ESPN2/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", ESPN 2 | HD
-http://bgapp.live/play/trasco-400.php?c=evento2/bodega&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=evento2/bodega&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", ESPN 2
-http://bgapp.live/play/trasco-400.php?c=505ESPN/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=505ESPN/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", ESPN 3
-http://bgapp.live/play/trasco-400.php?c=507ESPN3/transco14&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=507ESPN3/transco14&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", ESPN Extra
-http://bgapp.live/play/trasco-400.php?c=andromeda/ESPN+&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/ESPN+&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", TUDN
-http://bgapp.live/play/trasco-400.php?c=encoder84/evento17&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=encoder84/evento17&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", TUDN (Alt.)
-http://bgapp.live/play/trasco-400.php?c=encoder84/evento17&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=encoder84/evento17&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", TUDN USA
-http://bgapp.live/play/trasco-400.php?c=encoder82/evento16&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=encoder82/evento16&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", ESPN Deportes
-http://bgapp.live/play/trasco-400.php?c=9556UTDN/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9556UTDN/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", Claro Sports
-http://bgapp.live/play/trasco-400.php?c=504clarosport/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=504clarosport/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", Adrenalina Sports Network
-http://bgapp.live/play/trasco-400.php?c=UFCNET/transco2&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=UFCNET/transco2&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", Bein Ñ | HD
-http://bgapp.live/play/trasco-400.php?c=andromeda/BEINES&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/BEINES&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", Bein Ñ
-http://bgapp.live/play/trasco-400.php?c=9592BEINE/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9592BEINE/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", NBCSN
-http://bgapp.live/play/trasco-400.php?c=9466NBCSP/transco15&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9466NBCSP/transco15&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", TUDN USA
-http://bgapp.live/play/trasco-400.php?c=9556UTDN/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9556UTDN/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="DEPORTES", ESPN Deportes | HD
-http://bgapp.live/play/trasco-400.php?c=encoder82/evento16&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=encoder82/evento16&t=blackghost.m3u8
 #EXTINF:-1  group-title="INFORMACIÓN", Meganoticias MX
-http://bgapp.live/play/trasco-400.php?c=220TVC/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=220TVC/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="INFORMACIÓN", CNN En Español
-http://bgapp.live/play/trasco-400.php?c=702CNN/transco13&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=702CNN/transco13&t=blackghost.m3u8
 #EXTINF:-1  group-title="INFORMACIÓN", Teleformula
-http://bgapp.live/play/trasco-400.php?c=354Elfinanciero/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=354Elfinanciero/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE", TNT | HD
-http://bgapp.live/play/trasco-400.php?c=andromeda/TNT&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/TNT&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE", TNT
-http://bgapp.live/play/trasco-400.php?c=602TNT/transco14&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=602TNT/transco14&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE", Space | HD
-http://bgapp.live/play/trasco-400.php?c=andromeda/SPACE&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/SPACE&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE", Space
-http://bgapp.live/play/trasco-400.php?c=221SpaceMexico/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=221SpaceMexico/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE", Cinemax
-http://bgapp.live/play/trasco-400.php?c=603Cinemax/transco14&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=603Cinemax/transco14&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE", MC
-http://bgapp.live/play/trasco-400.php?c=607MC/transco13&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=607MC/transco13&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE", Multipremier
-http://bgapp.live/play/trasco-400.php?c=606MultiPremiere/transco13&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=606MultiPremiere/transco13&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE", De Película Plus
-http://bgapp.live/play/trasco-400.php?c=live/DTHEATER&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=live/DTHEATER&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE", Cine Latino
-http://bgapp.live/play/trasco-400.php?c=608CineLatino/transco13&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=608CineLatino/transco13&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE", Cine Latino US
-http://bgapp.live/play/trasco-400.php?c=andromeda/CINELATINO&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/CINELATINO&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE", Cinecanal (SUB)
-http://bgapp.live/play/trasco-400.php?c=664Cinecanal/transco13&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=664Cinecanal/transco13&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE", Paramount Network
-http://bgapp.live/play/trasco-400.php?c=615PARAM/transco13&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=615PARAM/transco13&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE", Cinema
-http://bgapp.live/play/trasco-400.php?c=andromeda/AZCINEMA&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/AZCINEMA&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE PREMIUM", HBO
-http://bgapp.live/play/trasco-400.php?c=eventox6/lista&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=eventox6/lista&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE PREMIUM", HBO (Alt.)
-http://bgapp.live/play/trasco-400.php?c=650HBO/transco13&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=650HBO/transco13&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE PREMIUM", HBO 2
-http://bgapp.live/play/trasco-400.php?c=651HBO2/transco13&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=651HBO2/transco13&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE PREMIUM", HBO Plus
-http://bgapp.live/play/trasco-400.php?c=654HBOPlus/transco13&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=654HBOPlus/transco13&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE PREMIUM", HBO Family
-http://bgapp.live/play/trasco-400.php?c=652HBOFamily/transco13&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=652HBOFamily/transco13&t=blackghost.m3u8
 #EXTINF:-1  group-title="CINE PREMIUM", HBO Xtreme
-http://bgapp.live/play/trasco-400.php?c=658MaxPrime/transco13&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=658MaxPrime/transco13&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  USA Network
-http://bgapp.live/play/trasco-400.php?c=9431USA/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9431USA/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Comedy Central
-http://bgapp.live/play/trasco-400.php?c=9485CMDY/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9485CMDY/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Lifetime
-http://bgapp.live/play/trasco-400.php?c=9470LIFE/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9470LIFE/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  LMN
-http://bgapp.live/play/trasco-400.php?c=transco9/9471LMN&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco9/9471LMN&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Food Network
-http://bgapp.live/play/trasco-400.php?c=9462FOOD/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9462FOOD/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Bravo
-http://bgapp.live/play/trasco-400.php?c=99492BRAVO/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=99492BRAVO/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  HGTV
-http://bgapp.live/play/trasco-400.php?c=transcob9/9461HGTV&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transcob9/9461HGTV&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Cooking Channel
-http://bgapp.live/play/trasco-400.php?c=9447COOK/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9447COOK/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  E!
-http://bgapp.live/play/trasco-400.php?c=9474E/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9474E/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  A&E
-http://bgapp.live/play/trasco-400.php?c=9419AE/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9419AE/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  FY
-http://bgapp.live/play/trasco-400.php?c=9443FYI/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9443FYI/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  History
-http://bgapp.live/play/trasco-400.php?c=9491HIST/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9491HIST/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Vice
-http://bgapp.live/play/trasco-400.php?c=9525VICE/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9525VICE/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  SYFY
-http://bgapp.live/play/trasco-400.php?c=9432SYFY/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9432SYFY/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  BET Networks
-http://bgapp.live/play/trasco-400.php?c=9510BET/transco16&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9510BET/transco16&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  FXX
-http://bgapp.live/play/trasco-400.php?c=9520FXX/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9520FXX/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  WE TV
-http://bgapp.live/play/trasco-400.php?c=transco9/9578WE&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco9/9578WE&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  AMC
-http://bgapp.live/play/trasco-400.php?c=transco9/9417AMC&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco9/9417AMC&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  FX
-http://bgapp.live/play/trasco-400.php?c=9475FX/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9475FX/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  TNT
-http://bgapp.live/play/trasco-400.php?c=9420TNT/transco9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9420TNT/transco9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  TBS
-http://bgapp.live/play/trasco-400.php?c=9499TBS/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9499TBS/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Galavisión
-http://bgapp.live/play/trasco-400.php?c=9602GLVSN/transco16&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9602GLVSN/transco16&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Universo
-http://bgapp.live/play/trasco-400.php?c=transco10/9509UNVSO&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco10/9509UNVSO&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Pasiones
-http://bgapp.live/play/trasco-400.php?c=andromeda/PASIONES&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/PASIONES&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  ESPN
-http://bgapp.live/play/trasco-400.php?c=9424ESPN/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9424ESPN/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  ESPN U
-http://bgapp.live/play/trasco-400.php?c=9531ESPNU/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9531ESPNU/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  ESPN 2
-http://bgapp.live/play/trasco-400.php?c=9425ESPN2/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9425ESPN2/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Motor Trend
-http://bgapp.live/play/trasco-400.php?c=transco10/4697VLCTY&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco10/4697VLCTY&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  FS1
-http://bgapp.live/play/trasco-400.php?c=9468FOXS1/transco10&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9468FOXS1/transco10&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  FS2
-http://bgapp.live/play/trasco-400.php?c=9613FOXS2/transco15&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9613FOXS2/transco15&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  CBS Sports Network
-http://bgapp.live/play/trasco-400.php?c=transco9/9495CBSSN&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco9/9495CBSSN&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  NBCSN
-http://bgapp.live/play/trasco-400.php?c=9466NBCSP/transco15&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9466NBCSP/transco15&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Sportsman Channel
-http://bgapp.live/play/trasco-400.php?c=9483SPMAN/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9483SPMAN/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Outdoor Channel
-http://bgapp.live/play/trasco-400.php?c=9619OTDCH/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9619OTDCH/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  The Cowboy Channel
-http://bgapp.live/play/trasco-400.php?c=transco9/9684COWBOY&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco9/9684COWBOY&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Tennis Channel
-http://bgapp.live/play/trasco-400.php?c=eventox7/lista&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=eventox7/lista&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Golf Channel
-http://bgapp.live/play/trasco-400.php?c=9473GOLF/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9473GOLF/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  GolTV
-http://bgapp.live/play/trasco-400.php?c=encoder76/evento10&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=encoder76/evento10&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Bein Ñ
-http://bgapp.live/play/trasco-400.php?c=9592BEINE/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9592BEINE/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Bein Ñ
-http://bgapp.live/play/trasco-400.php?c=andromeda/BEINES&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/BEINES&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Bein Sports
-http://bgapp.live/play/trasco-400.php?c=andromeda/BEINENG&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/BEINENG&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  MLB Network
-http://bgapp.live/play/trasco-400.php?c=eventox5/lista&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=eventox5/lista&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  NBA T
-http://bgapp.live/play/trasco-400.php?c=eventox1/lista&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=eventox1/lista&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  NFL Network
-http://bgapp.live/play/trasco-400.php?c=eventox4/lista&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=eventox4/lista&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  TUDN USA
-http://bgapp.live/play/trasco-400.php?c=9556UTDN/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9556UTDN/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  ESPN Deportes
-http://bgapp.live/play/trasco-400.php?c=encoder82/evento16&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=encoder82/evento16&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  MTV
-http://bgapp.live/play/trasco-400.php?c=9484MTV/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9484MTV/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  MTV
-http://bgapp.live/play/trasco-400.php?c=mtvhitsts/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=mtvhitsts/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  MTV
-http://bgapp.live/play/trasco-400.php?c=250mtvla/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=250mtvla/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  VH1
-http://bgapp.live/play/trasco-400.php?c=9507VH1/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9507VH1/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  VH1
-http://bgapp.live/play/trasco-400.php?c=254VH1/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=254VH1/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Videorola
-http://bgapp.live/play/trasco-400.php?c=258VROLA/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=258VROLA/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  CMT
-http://bgapp.live/play/trasco-400.php?c=9493CMT/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9493CMT/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  AXSTV
-http://bgapp.live/play/trasco-400.php?c=9422AXS/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9422AXS/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Nick
-http://bgapp.live/play/trasco-400.php?c=transco9/9416NICK&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco9/9416NICK&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Disney Channel
-http://bgapp.live/play/trasco-400.php?c=9557DISE/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9557DISE/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Cartoon Network
-http://bgapp.live/play/trasco-400.php?c=9463TOON/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9463TOON/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Discovery Family
-http://bgapp.live/play/trasco-400.php?c=transco9/9494DISCF&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco9/9494DISCF&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Freeform
-http://bgapp.live/play/trasco-400.php?c=9558FRFM/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9558FRFM/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Discovery
-http://bgapp.live/play/trasco-400.php?c=9487DISC/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9487DISC/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  TLC
-http://bgapp.live/play/trasco-400.php?c=9488TLC/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9488TLC/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Animal Planet
-http://bgapp.live/play/trasco-400.php?c=transco9/9489APL&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco9/9489APL&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  National Geographic
-http://bgapp.live/play/trasco-400.php?c=transco9/9429NTGEO&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco9/9429NTGEO&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  NatGeo Wild
-http://bgapp.live/play/trasco-400.php?c=9445NATG/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9445NATG/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  ID
-http://bgapp.live/play/trasco-400.php?c=9526ID/transco16&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9526ID/transco16&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Science
-http://bgapp.live/play/trasco-400.php?c=9490SCI/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9490SCI/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Trvl
-http://bgapp.live/play/trasco-400.php?c=9437TRV/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9437TRV/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Destination America
-http://bgapp.live/play/trasco-400.php?c=9457AMERI/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9457AMERI/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Discovery En Español
-http://bgapp.live/play/trasco-400.php?c=transco9/9535DISCOVERYESP&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco9/9535DISCOVERYESP&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  CNN
-http://bgapp.live/play/trasco-400.php?c=transco9/9436CNN&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco9/9436CNN&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Fox News
-http://bgapp.live/play/trasco-400.php?c=9477FXNWS/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9477FXNWS/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Fox Business
-http://bgapp.live/play/trasco-400.php?c=9476FOXB/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9476FOXB/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  CNBC
-http://bgapp.live/play/trasco-400.php?c=9439CNBC/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9439CNBC/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  The Weather Channel
-http://bgapp.live/play/trasco-400.php?c=9438WEATH/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9438WEATH/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Paramount Network
-http://bgapp.live/play/trasco-400.php?c=9506SPIKE/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9506SPIKE/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  TruTV
-http://bgapp.live/play/trasco-400.php?c=transco9/9430TRU&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco9/9430TRU&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  HBO
-http://bgapp.live/play/trasco-400.php?c=encoder78/evento12&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=encoder78/evento12&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  5 Star Max
-http://bgapp.live/play/trasco-400.php?c=encoder77/evento11&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=encoder77/evento11&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Showtime (E)
-http://bgapp.live/play/trasco-400.php?c=9460SHO-E/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9460SHO-E/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Showtime (W)
-http://bgapp.live/play/trasco-400.php?c=9512SHO-W/transco16&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9512SHO-W/transco16&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  The Movie Channel
-http://bgapp.live/play/trasco-400.php?c=9481TMC-E/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9481TMC-E/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Starz
-http://bgapp.live/play/trasco-400.php?c=9498STRZW/transco15&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9498STRZW/transco15&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Starz Comedy
-http://bgapp.live/play/trasco-400.php?c=9486STZC/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9486STZC/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Starz Family
-http://bgapp.live/play/trasco-400.php?c=9497StarzF/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9497StarzF/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  FXM
-http://bgapp.live/play/trasco-400.php?c=9440MAXW/transcob9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9440MAXW/transcob9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Hallmark
-http://bgapp.live/play/trasco-400.php?c=transco9/9482HLMRK&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=transco9/9482HLMRK&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Cine Latino
-http://bgapp.live/play/trasco-400.php?c=andromeda/CINELATINO&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andromeda/CINELATINO&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  ABC
-http://bgapp.live/play/trasco-400.php?c=encoder81/evento15&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=encoder81/evento15&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  CBS
-http://bgapp.live/play/trasco-400.php?c=encoder80/evento14&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=encoder80/evento14&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  NBC
-http://bgapp.live/play/trasco-400.php?c=encoder79/evento13&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=encoder79/evento13&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Univisión Pac
-http://bgapp.live/play/trasco-400.php?c=eventox2/lista&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=eventox2/lista&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  NBC (Alt.)
-http://bgapp.live/play/trasco-400.php?c=eventox8/lista&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=eventox8/lista&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Estrella TV
-http://bgapp.live/play/trasco-400.php?c=eventox3/lista&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=eventox3/lista&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Telemundo
-http://bgapp.live/play/trasco-400.php?c=encoder75/evento9&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=encoder75/evento9&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Telemundo Pac
-http://bgapp.live/play/trasco-400.php?c=andrew/telehit&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=andrew/telehit&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Telemundo
-http://bgapp.live/play/trasco-400.php?c=encoder69/telemundo&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=encoder69/telemundo&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  Univisión
-http://bgapp.live/play/trasco-400.php?c=9604UNVSN/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9604UNVSN/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA",  UniMas
-http://bgapp.live/play/trasco-400.php?c=9603UNIMW/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=9603UNIMW/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA", RealExtreme
-http://bgapp.live/play/trasco-400.php?c=491REALX/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=491REALX/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA", Brazzers TV
-http://bgapp.live/play/trasco-400.php?c=493BRAZZ/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=493BRAZZ/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA", TEN
-http://bgapp.live/play/trasco-400.php?c=494TEN/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=494TEN/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA", RK
-http://bgapp.live/play/trasco-400.php?c=495RKTV/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=495RKTV/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA", Hustler TV
-http://bgapp.live/play/trasco-400.php?c=496HUSLR/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=496HUSLR/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA", XTSY
-http://bgapp.live/play/trasco-400.php?c=498XTSY/transco7&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=498XTSY/transco7&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA", playboy
-http://bgapp.live/play/trasco-400.php?c=484Playboy/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=484Playboy/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA", venus
-http://bgapp.live/play/trasco-400.php?c=488Venus/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=488Venus/transco8&t=blackghost.m3u8
 #EXTINF:-1  group-title="USA", sextreme
-http://bgapp.live/play/trasco-400.php?c=490Sextreme/transco8&f=blackghost.m3u8
+http://bgapp.live/play/trasco-400.php?c=490Sextreme/transco8&t=blackghost.m3u8
 
 
 #EXTINF:-1 tvg-id="ENLACETV.co" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace
