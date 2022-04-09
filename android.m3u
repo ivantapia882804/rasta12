@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tplogo.png" group-title="RECOMENDADOS",Totalplay
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tptotal.jpg" group-title="RECOMENDADOS",Canal Total
 http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=3255
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD)
 http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=649
@@ -129,9 +129,9 @@ http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=2355
 http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=2606
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDMX (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX (HD)
 http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=2882
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tplogo.png" group-title="LOCALES",Totalplay
-http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=3255
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tptotal.jpg" group-title="LOCALES",Canal Total
+http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=3255
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tplogo.png" group-title="LOCALES",Totalplay
 http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=2361
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ftp.jpg" group-title="LOCALES",Familia Totalplay
 http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=1977
@@ -189,12 +189,10 @@ http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=135
 http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=136
 #EXTINF:-1 tvg-id="FilmandArts.mx" tvg-name="Film & Arts" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/filmarts.jpg" group-title="CINE",Film & Arts
 http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=137
-#EXTINF:-1 tvg-id="" tvg-name="GRACIAS POR VERNOS" tvg-logo="" group-title="CINE PREMIUM",GRACIAS POR VERNOS
-http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=139
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="" group-title="CINE PREMIUM",PREMIUM
+http://
 #EXTINF:-1 tvg-id="MorbidoTV.mx" tvg-name="Morbido TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/morbido.png" group-title="CINE",Morbido TV
 http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=140
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cc.png" group-title="CINE",Cinecanal (HD)
-http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=337
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cc.png" group-title="CINE",Cinecanal
 http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=149
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="CINE",Cinemax
@@ -227,6 +225,8 @@ http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=59
 http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=60
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENCIÓN",A&E
 http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=62
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="ENTRETENCIÓN",AXN
+http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=64
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="ENTRETENCIÓN",TNT Series
 http://bgapp.live/play/totalp2s-405.php?k=blckgho&token=blccck-gh0ost&c=71
 #EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/glitz.png" group-title="ENTRETENCIÓN",Glitz
