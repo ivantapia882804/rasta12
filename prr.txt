@@ -30,25 +30,19 @@ http://clubtv.link/11ab/abril1/geomex.php?c=178
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN (HD)
 http://clubtv.link/11ab/abril1/geomex.php?c=174
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group-title="RECOMENDADOS",Afizzionados
-http://bgapp.live/play/14-412.php?c=878&token=blccck-gh08st&f=.m3u8
+http://bgapp.live/play/tvghd-412.php?id=izzi-afizzionados-en-vivo&k=blckghooooooooooooossst&file=.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports (HD)
 http://clubtv.link/11ab/abril1/geomex.php?c=2564
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="RECOMENDADOS",TNT
 http://clubtv.link/11ab/abril1/geomex.php?c=126
-#EXTINF:-1 group-title="RECOMENDADOS", *TNT SPORT 2 MX HBO MAX HD
-http://bgapp.live/play/zufree-412.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3549.m3u8
-#EXTINF:-1 group-title="RECOMENDADOS", *TNT SPORT MX HBO MAX HD
-http://bgapp.live/play/zufree-412.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3550.m3u8
-#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" group-title="RECOMENDADOS" ,Univisión 23 FL
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/345.m3u8
+#EXTINF:-1 tvg-id="TelemundoNetwork(Spanish).us" group-title="RECOMENDADOS" ,Telemundo 51 Miami
+http://bgapp.live/play/tvghd-412.php?id=telemundo-en-vivo&K=blckghooooooooooooossst&file=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" group-title="RECOMENDADOS" ,TUDN (USA)
 http://bgapp.live/play/14-412.php?c=100&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1 tvg-id="UnimasNetworkEast(Spanish).us" group-title="RECOMENDADOS" ,UniMás
+#EXTINF:-1 tvg-id="UnimasNetwork(Spanish).us" group-title="RECOMENDADOS" ,UniMás
 http://bgapp.live/play/trasco-412.php?c=9603UNIMW/transco7&token=blccck-gh08st&f=.m3u8
 #EXTINF:-1 tvg-id="GalavisionNetwork(Spanish).us" group-title="RECOMENDADOS" ,GALAVISIÓN (USA)
 http://bgapp.live/play/trasco-412.php?c=9602GLVSN/transco16&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoSur).co" tvg-name="Fox Sports 2 (COL)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="RECOMENDADOS",Fox Sports 2 (COL)
-http://190.92.95.37:8000/play/a0hn/index.m3u8
 
 
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno (HD)
@@ -585,6 +579,751 @@ https://live.siete.us:1991/bestcablehatuntv/bestcablehatuntv/playlist.m3u8?Playl
 https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA" tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png", Turbo Mix TV
 http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1  group-title="LOCALES", Azteca Uno
+http://bgapp.live/play/trasco-412.php?c=113azteca13/transco1&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="LOCALES", Las Estrellas
+http://bgapp.live/play/trasco-412.php?c=102estrellas/transco1&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="LOCALES", Imagen Television
+http://bgapp.live/play/trasco-412.php?c=103Imagen/transco13&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="LOCALES", Foro TV
+http://bgapp.live/play/trasco-412.php?c=push/forotv&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="LOCALES", Canal 5
+http://bgapp.live/play/trasco-412.php?c=105canal5/transco1&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="LOCALES", Canal 6 CDMX (XHTDMX-TDT)
+http://bgapp.live/play/trasco-412.php?c=MultimediosPlus/transco15&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="INFORMACIÓN", Milenio Televisión (XHTDMX-TDT2)
+http://bgapp.live/play/trasco-412.php?c=710MilenioTV/transco13&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="REGIONALES", Canal 6 Monterrey (XHAW-TDT)
+http://bgapp.live/play/trasco-412.php?c=Multimediosmty/transco15&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", MVS TV (XHTDMX-TDT4)
+http://bgapp.live/play/trasco-412.php?c=152mx52/transco1&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="LOCALES", Azteca 7
+http://bgapp.live/play/trasco-412.php?c=107azteca7/transco1&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="LOCALES", NU9VE
+http://bgapp.live/play/trasco-412.php?c=andrew/galatv&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="LOCALES", Canal Once
+http://bgapp.live/play/trasco-412.php?c=111OnceTvMexico/transco1&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="LOCALES", Aprende En Casa IV-1 (11.2/5.2)
+http://bgapp.live/play/trasco-412.php?c=133once2/transco1&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="LOCALES", Canal Catorce
+http://bgapp.live/play/trasco-412.php?c=130unavoz/transco1&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="LOCALES", Aprende En Casa IV-2 (14.2/20.1 Nal)
+http://bgapp.live/play/trasco-412.php?c=131ingenioTV/transco1&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="LOCALES", TV UNAM
+http://bgapp.live/play/trasco-412.php?c=120tvunam/transco1&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="LOCALES", Canal 22
+http://bgapp.live/play/trasco-412.php?c=122canal22/transco1&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="LOCALES", Canal 22.2
+http://bgapp.live/play/trasco-412.php?c=304Canal222/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="INFORMACIÓN", Canal Del Congreso
+http://bgapp.live/play/trasco-412.php?c=145congreso/transco14&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Star Channel | HD
+http://bgapp.live/play/trasco-412.php?c=andromeda/FOX&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Star Channel
+http://bgapp.live/play/trasco-412.php?c=202CanalFOXMexico/transco1&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Sony Channel | HD
+http://bgapp.live/play/trasco-412.php?c=andromeda/SONY&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Sony Channel
+http://bgapp.live/play/trasco-412.php?c=211sony/transco14&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Unicable
+http://bgapp.live/play/trasco-412.php?c=andromeda/UNICABLE&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Pasiones
+http://bgapp.live/play/trasco-412.php?c=andromeda/PASIONES&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Warner | HD
+http://bgapp.live/play/trasco-412.php?c=andromeda/WARNER&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Warner
+http://bgapp.live/play/trasco-412.php?c=210WarnerChannel/transco14&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", E!
+http://bgapp.live/play/trasco-412.php?c=212E!Latino/transco14&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", FX | HD
+http://bgapp.live/play/trasco-412.php?c=andromeda/FX&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", FX
+http://bgapp.live/play/trasco-412.php?c=207FXLatin/transco1&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Universal | HD
+http://bgapp.live/play/trasco-412.php?c=andromeda/UNIVERSAL&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Universal
+http://bgapp.live/play/trasco-412.php?c=203Universal/transco1&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", TNT Series
+http://bgapp.live/play/trasco-412.php?c=205TNTSE/transco1&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", SYFY
+http://bgapp.live/play/trasco-412.php?c=204SyFyLatin/transco1&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", TBS
+http://bgapp.live/play/trasco-412.php?c=223TBS/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", ID | HD
+http://bgapp.live/play/trasco-412.php?c=andromeda/ID&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", ID
+http://bgapp.live/play/trasco-412.php?c=216I.D/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", A&E | HD
+http://bgapp.live/play/trasco-412.php?c=andromeda/AE&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", A&E
+http://bgapp.live/play/trasco-412.php?c=214AELatino/transco14&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Lifetime
+http://bgapp.live/play/trasco-412.php?c=414LIFET/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", AXN | HD
+http://bgapp.live/play/trasco-412.php?c=andromeda/AXN&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", AXN
+http://bgapp.live/play/trasco-412.php?c=213AXNLatinoAmerica/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", I-Sat
+http://bgapp.live/play/trasco-412.php?c=222ISAT/transco14&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Universo
+http://bgapp.live/play/trasco-412.php?c=transco10/9509UNVSO&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Estrella TV
+http://bgapp.live/play/trasco-412.php?c=eventox3/lista&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Telemundo
+http://bgapp.live/play/trasco-412.php?c=encoder75/evento9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Telemundo 52 Pac
+http://bgapp.live/play/trasco-412.php?c=andrew/telehit&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Univisión
+http://bgapp.live/play/trasco-412.php?c=9604UNVSN/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Univisión 34 Pac
+http://bgapp.live/play/trasco-412.php?c=eventox2/lista&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", UniMas
+http://bgapp.live/play/trasco-412.php?c=9603UNIMW/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Galavisión
+http://bgapp.live/play/trasco-412.php?c=9602GLVSN/transco16&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Telemundo PR (WKAQ-DT)
+http://bgapp.live/play/trasco-412.php?c=0000/CH=%C2%A0PR-WKAQ/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", WAPA
+http://bgapp.live/play/trasco-412.php?c=0000/CH=%C2%A0PR-%C2%A0WAPA/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", WAPA Deportes
+http://bgapp.live/play/trasco-412.php?c=0000/CH=%C2%A0PR-%C2%A0WAPA2/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", WIPR
+http://bgapp.live/play/trasco-412.php?c=wipr&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Tele11
+http://bgapp.live/play/trasco-412.php?c=0000/CH=%C2%A0PR-WLII/playlist.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", MegaTV PR
+http://bgapp.live/play/trasco-412.php?c=megatvpr&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Punto 2 (WKAQ-DT2)
+http://bgapp.live/play/trasco-412.php?c=live/punto2pr&token=blccck-gh08st&f=.m3u8
+
+#EXTINF:-1  group-title="ENTRETENCIÓN", A3 Series
+http://bgapp.live/play/trasco-412.php?c=230Atres/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", ¡Hola! TV
+http://bgapp.live/play/trasco-412.php?c=218Hola/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", MTV | HD
+http://bgapp.live/play/trasco-412.php?c=live/ID&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", MTV
+http://bgapp.live/play/trasco-412.php?c=250mtvla/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", MTV Hits
+http://bgapp.live/play/trasco-412.php?c=mtvhitsts/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Comedy Central
+http://bgapp.live/play/trasco-412.php?c=225CMEDY/transco14&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", Exa TV
+http://bgapp.live/play/trasco-412.php?c=252NU/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", La Mejor TV
+http://23.237.29.98:2095/255exatv/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", HTV
+http://bgapp.live/play/trasco-412.php?c=260htv/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", Telehit Música Plus
+http://bgapp.live/play/trasco-412.php?c=live/DTURBO&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", Bandamax
+http://bgapp.live/play/trasco-412.php?c=encoder70/goltv&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", VideoRola
+http://bgapp.live/play/trasco-412.php?c=258VROLA/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="MUSICA", Teleritmo
+http://bgapp.live/play/trasco-412.php?c=276teleritmo/transco13&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="KIDS", Discovery Kids
+http://bgapp.live/play/trasco-412.php?c=310discoverykids/transco14&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="KIDS", Nick
+http://bgapp.live/play/trasco-412.php?c=305nickelodeon/transco14&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="KIDS", Disney Channel | HD
+http://bgapp.live/play/trasco-412.php?c=andromeda/DISNEY&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="KIDS", Disney Channel
+http://bgapp.live/play/trasco-412.php?c=302Disneychannel/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="KIDS", Disney Junior
+http://bgapp.live/play/trasco-412.php?c=303DisneyJunior/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="KIDS", Cartoon Network
+http://bgapp.live/play/trasco-412.php?c=307CartoonNetwork/transco14&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="KIDS", Baby TV
+http://bgapp.live/play/trasco-412.php?c=315BabyTVLatinAmerica/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="KIDS", Nick Jr.
+http://bgapp.live/play/trasco-412.php?c=306NickJrLatinAmerica/transco14&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", Discovery
+http://bgapp.live/play/trasco-412.php?c=402discoverychannel/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", Animal Planet | HD
+http://bgapp.live/play/trasco-412.php?c=evento4/bodega&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", Animal Planet
+http://bgapp.live/play/trasco-412.php?c=408animalplanet/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", TLC
+http://bgapp.live/play/trasco-412.php?c=217TLC/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", Discovery Home & Health | HD
+http://bgapp.live/play/trasco-412.php?c=andromeda/DISCOVERYHH&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", Discovery Theater HD
+http://bgapp.live/play/trasco-412.php?c=andromeda/DISCOVERYTH&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", Discovery World HD
+http://bgapp.live/play/trasco-412.php?c=live/DWORLD&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", Discovery Turbo
+http://bgapp.live/play/trasco-412.php?c=345turbo/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", National Geographic | HD
+http://bgapp.live/play/trasco-412.php?c=encoder18/unicable&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", National Geographic
+http://bgapp.live/play/trasco-412.php?c=405Natgeo/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", History | HD
+http://bgapp.live/play/trasco-412.php?c=andromeda/HISTORY&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", History
+http://bgapp.live/play/trasco-412.php?c=409history/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", History 2
+http://bgapp.live/play/trasco-412.php?c=413H2/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", El Gourmet
+http://bgapp.live/play/trasco-412.php?c=evento5/bodega&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", Discovery En Español
+http://bgapp.live/play/trasco-412.php?c=transco9/9535DISCOVERYESP&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Fox Sports | HD
+http://bgapp.live/play/trasco-412.php?c=evento3/bodega&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Fox Sports
+http://bgapp.live/play/trasco-412.php?c=502FoxSport1/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Fox Sports 2 | HD
+http://bgapp.live/play/trasco-412.php?c=andromeda/FOXSP2&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Fox Sports 2
+http://bgapp.live/play/trasco-412.php?c=503FoxSport2/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Fox Sports 3
+http://bgapp.live/play/trasco-412.php?c=508FoxSports3/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN | HD
+http://bgapp.live/play/trasco-412.php?c=evento/bodega&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN
+http://bgapp.live/play/trasco-412.php?c=506ESPN2/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN 2 | HD
+http://bgapp.live/play/trasco-412.php?c=evento2/bodega&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN 2
+http://bgapp.live/play/trasco-412.php?c=505ESPN/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN 3
+http://bgapp.live/play/trasco-412.php?c=507ESPN3/transco14&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN Extra
+http://bgapp.live/play/trasco-412.php?c=andromeda/ESPN+&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", TUDN
+http://bgapp.live/play/trasco-412.php?c=encoder84/evento17&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", TUDN (Alt.)
+http://bgapp.live/play/trasco-412.php?c=encoder84/evento17&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", TUDN USA
+http://bgapp.live/play/trasco-412.php?c=encoder82/evento16&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN Deportes
+http://bgapp.live/play/trasco-412.php?c=9556UTDN/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Claro Sports
+http://bgapp.live/play/trasco-412.php?c=504clarosport/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Adrenalina Sports Network
+http://bgapp.live/play/trasco-412.php?c=UFCNET/transco2&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Bein Ñ | HD
+http://bgapp.live/play/trasco-412.php?c=andromeda/BEINES&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Bein Ñ
+http://bgapp.live/play/trasco-412.php?c=9592BEINE/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", NBCSN
+http://bgapp.live/play/trasco-412.php?c=9466NBCSP/transco15&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", TUDN USA
+http://bgapp.live/play/trasco-412.php?c=9556UTDN/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN Deportes | HD
+http://bgapp.live/play/trasco-412.php?c=encoder82/evento16&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="INFORMACIÓN", Meganoticias MX
+http://bgapp.live/play/trasco-412.php?c=220TVC/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="INFORMACIÓN", CNN En Español
+http://bgapp.live/play/trasco-412.php?c=702CNN/transco13&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="INFORMACIÓN", Teleformula
+http://bgapp.live/play/trasco-412.php?c=354Elfinanciero/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE", TNT | HD
+http://bgapp.live/play/trasco-412.php?c=andromeda/TNT&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE", TNT
+http://bgapp.live/play/trasco-412.php?c=602TNT/transco14&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE", Space | HD
+http://bgapp.live/play/trasco-412.php?c=andromeda/SPACE&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE", Space
+http://bgapp.live/play/trasco-412.php?c=221SpaceMexico/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE", Cinemax
+http://bgapp.live/play/trasco-412.php?c=603Cinemax/transco14&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE", MC
+http://bgapp.live/play/trasco-412.php?c=607MC/transco13&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE", Multipremier
+http://bgapp.live/play/trasco-412.php?c=606MultiPremiere/transco13&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE", De Película Plus
+http://bgapp.live/play/trasco-412.php?c=live/DTHEATER&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE", Cine Latino
+http://bgapp.live/play/trasco-412.php?c=608CineLatino/transco13&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE", Cine Latino US
+http://bgapp.live/play/trasco-412.php?c=andromeda/CINELATINO&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE", Cinecanal (SUB)
+http://bgapp.live/play/trasco-412.php?c=664Cinecanal/transco13&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE", Paramount Network
+http://bgapp.live/play/trasco-412.php?c=615PARAM/transco13&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE", Cinema
+http://bgapp.live/play/trasco-412.php?c=andromeda/AZCINEMA&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE PREMIUM", HBO
+http://bgapp.live/play/trasco-412.php?c=eventox6/lista&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE PREMIUM", HBO (Alt.)
+http://bgapp.live/play/trasco-412.php?c=650HBO/transco13&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE PREMIUM", HBO 2
+http://bgapp.live/play/trasco-412.php?c=651HBO2/transco13&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE PREMIUM", HBO Plus
+http://bgapp.live/play/trasco-412.php?c=654HBOPlus/transco13&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE PREMIUM", HBO Family
+http://bgapp.live/play/trasco-412.php?c=652HBOFamily/transco13&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="CINE PREMIUM", HBO Xtreme
+http://bgapp.live/play/trasco-412.php?c=658MaxPrime/transco13&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  USA Network
+http://bgapp.live/play/trasco-412.php?c=9431USA/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Comedy Central
+http://bgapp.live/play/trasco-412.php?c=9485CMDY/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Lifetime
+http://bgapp.live/play/trasco-412.php?c=9470LIFE/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  LMN
+http://bgapp.live/play/trasco-412.php?c=transco9/9471LMN&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Food Network
+http://bgapp.live/play/trasco-412.php?c=9462FOOD/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Bravo
+http://bgapp.live/play/trasco-412.php?c=99492BRAVO/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  HGTV
+http://bgapp.live/play/trasco-412.php?c=transcob9/9461HGTV&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Cooking Channel
+http://bgapp.live/play/trasco-412.php?c=9447COOK/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  E!
+http://bgapp.live/play/trasco-412.php?c=9474E/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  A&E
+http://bgapp.live/play/trasco-412.php?c=9419AE/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  FY
+http://bgapp.live/play/trasco-412.php?c=9443FYI/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  History
+http://bgapp.live/play/trasco-412.php?c=9491HIST/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Vice
+http://bgapp.live/play/trasco-412.php?c=9525VICE/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  SYFY
+http://bgapp.live/play/trasco-412.php?c=9432SYFY/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  BET Networks
+http://bgapp.live/play/trasco-412.php?c=9510BET/transco16&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  FXX
+http://bgapp.live/play/trasco-412.php?c=9520FXX/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  WE TV
+http://bgapp.live/play/trasco-412.php?c=transco9/9578WE&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  AMC
+http://bgapp.live/play/trasco-412.php?c=transco9/9417AMC&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  FX
+http://bgapp.live/play/trasco-412.php?c=9475FX/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  TNT
+http://bgapp.live/play/trasco-412.php?c=9420TNT/transco9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  TBS
+http://bgapp.live/play/trasco-412.php?c=9499TBS/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Galavisión
+http://bgapp.live/play/trasco-412.php?c=9602GLVSN/transco16&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Universo
+http://bgapp.live/play/trasco-412.php?c=transco10/9509UNVSO&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Pasiones
+http://bgapp.live/play/trasco-412.php?c=andromeda/PASIONES&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  ESPN
+http://bgapp.live/play/trasco-412.php?c=9424ESPN/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  ESPN U
+http://bgapp.live/play/trasco-412.php?c=9531ESPNU/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  ESPN 2
+http://bgapp.live/play/trasco-412.php?c=9425ESPN2/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Motor Trend
+http://bgapp.live/play/trasco-412.php?c=transco10/4697VLCTY&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  FS1
+http://bgapp.live/play/trasco-412.php?c=9468FOXS1/transco10&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  FS2
+http://bgapp.live/play/trasco-412.php?c=9613FOXS2/transco15&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  CBS Sports Network
+http://bgapp.live/play/trasco-412.php?c=transco9/9495CBSSN&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  NBCSN
+http://bgapp.live/play/trasco-412.php?c=9466NBCSP/transco15&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Sportsman Channel
+http://bgapp.live/play/trasco-412.php?c=9483SPMAN/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Outdoor Channel
+http://bgapp.live/play/trasco-412.php?c=9619OTDCH/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  The Cowboy Channel
+http://bgapp.live/play/trasco-412.php?c=transco9/9684COWBOY&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Tennis Channel
+http://bgapp.live/play/trasco-412.php?c=eventox7/lista&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Golf Channel
+http://bgapp.live/play/trasco-412.php?c=9473GOLF/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  GolTV
+http://bgapp.live/play/trasco-412.php?c=encoder76/evento10&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Bein Ñ
+http://bgapp.live/play/trasco-412.php?c=9592BEINE/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Bein Ñ
+http://bgapp.live/play/trasco-412.php?c=andromeda/BEINES&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Bein Sports
+http://bgapp.live/play/trasco-412.php?c=andromeda/BEINENG&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  MLB Network
+http://bgapp.live/play/trasco-412.php?c=eventox5/lista&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  NBA T
+http://bgapp.live/play/trasco-412.php?c=eventox1/lista&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  NFL Network
+http://bgapp.live/play/trasco-412.php?c=eventox4/lista&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  TUDN USA
+http://bgapp.live/play/trasco-412.php?c=9556UTDN/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  ESPN Deportes
+http://bgapp.live/play/trasco-412.php?c=encoder82/evento16&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  MTV
+http://bgapp.live/play/trasco-412.php?c=9484MTV/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  MTV
+http://bgapp.live/play/trasco-412.php?c=mtvhitsts/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  MTV
+http://bgapp.live/play/trasco-412.php?c=250mtvla/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  VH1
+http://bgapp.live/play/trasco-412.php?c=9507VH1/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  VH1
+http://bgapp.live/play/trasco-412.php?c=254VH1/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Videorola
+http://bgapp.live/play/trasco-412.php?c=258VROLA/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  CMT
+http://bgapp.live/play/trasco-412.php?c=9493CMT/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  AXSTV
+http://bgapp.live/play/trasco-412.php?c=9422AXS/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Nick
+http://bgapp.live/play/trasco-412.php?c=transco9/9416NICK&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Disney Channel
+http://bgapp.live/play/trasco-412.php?c=9557DISE/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Cartoon Network
+http://bgapp.live/play/trasco-412.php?c=9463TOON/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Discovery Family
+http://bgapp.live/play/trasco-412.php?c=transco9/9494DISCF&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Freeform
+http://bgapp.live/play/trasco-412.php?c=9558FRFM/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Discovery
+http://bgapp.live/play/trasco-412.php?c=9487DISC/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  TLC
+http://bgapp.live/play/trasco-412.php?c=9488TLC/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Animal Planet
+http://bgapp.live/play/trasco-412.php?c=transco9/9489APL&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  National Geographic
+http://bgapp.live/play/trasco-412.php?c=transco9/9429NTGEO&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  NatGeo Wild
+http://bgapp.live/play/trasco-412.php?c=9445NATG/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  ID
+http://bgapp.live/play/trasco-412.php?c=9526ID/transco16&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Science
+http://bgapp.live/play/trasco-412.php?c=9490SCI/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Trvl
+http://bgapp.live/play/trasco-412.php?c=9437TRV/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Destination America
+http://bgapp.live/play/trasco-412.php?c=9457AMERI/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Discovery En Español
+http://bgapp.live/play/trasco-412.php?c=transco9/9535DISCOVERYESP&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  CNN
+http://bgapp.live/play/trasco-412.php?c=transco9/9436CNN&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Fox News
+http://bgapp.live/play/trasco-412.php?c=9477FXNWS/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Fox Business
+http://bgapp.live/play/trasco-412.php?c=9476FOXB/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  CNBC
+http://bgapp.live/play/trasco-412.php?c=9439CNBC/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  The Weather Channel
+http://bgapp.live/play/trasco-412.php?c=9438WEATH/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Paramount Network
+http://bgapp.live/play/trasco-412.php?c=9506SPIKE/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  TruTV
+http://bgapp.live/play/trasco-412.php?c=transco9/9430TRU&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  HBO
+http://bgapp.live/play/trasco-412.php?c=encoder78/evento12&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  5 Star Max
+http://bgapp.live/play/trasco-412.php?c=encoder77/evento11&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Showtime (E)
+http://bgapp.live/play/trasco-412.php?c=9460SHO-E/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Showtime (W)
+http://bgapp.live/play/trasco-412.php?c=9512SHO-W/transco16&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  The Movie Channel
+http://bgapp.live/play/trasco-412.php?c=9481TMC-E/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Starz
+http://bgapp.live/play/trasco-412.php?c=9498STRZW/transco15&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Starz Comedy
+http://bgapp.live/play/trasco-412.php?c=9486STZC/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Starz Family
+http://bgapp.live/play/trasco-412.php?c=9497StarzF/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  FXM
+http://bgapp.live/play/trasco-412.php?c=9440MAXW/transcob9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Hallmark
+http://bgapp.live/play/trasco-412.php?c=transco9/9482HLMRK&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Cine Latino
+http://bgapp.live/play/trasco-412.php?c=andromeda/CINELATINO&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  ABC
+http://bgapp.live/play/trasco-412.php?c=encoder81/evento15&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  CBS
+http://bgapp.live/play/trasco-412.php?c=encoder80/evento14&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  NBC
+http://bgapp.live/play/trasco-412.php?c=encoder79/evento13&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Univisión Pac
+http://bgapp.live/play/trasco-412.php?c=eventox2/lista&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  NBC (Alt.)
+http://bgapp.live/play/trasco-412.php?c=eventox8/lista&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Estrella TV
+http://bgapp.live/play/trasco-412.php?c=eventox3/lista&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Telemundo
+http://bgapp.live/play/trasco-412.php?c=encoder75/evento9&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Telemundo Pac
+http://bgapp.live/play/trasco-412.php?c=andrew/telehit&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Telemundo
+http://bgapp.live/play/trasco-412.php?c=encoder69/telemundo&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  Univisión
+http://bgapp.live/play/trasco-412.php?c=9604UNVSN/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA",  UniMas
+http://bgapp.live/play/trasco-412.php?c=9603UNIMW/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA", RealExtreme
+http://bgapp.live/play/trasco-412.php?c=491REALX/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA", Brazzers TV
+http://bgapp.live/play/trasco-412.php?c=493BRAZZ/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA", TEN
+http://bgapp.live/play/trasco-412.php?c=494TEN/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA", RK
+http://bgapp.live/play/trasco-412.php?c=495RKTV/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA", Hustler TV
+http://bgapp.live/play/trasco-412.php?c=496HUSLR/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA", XTSY
+http://bgapp.live/play/trasco-412.php?c=498XTSY/transco7&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA", playboy
+http://bgapp.live/play/trasco-412.php?c=484Playboy/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA", venus
+http://bgapp.live/play/trasco-412.php?c=488Venus/transco8&token=blccck-gh08st&f=.m3u8
+#EXTINF:-1  group-title="USA", sextreme
+http://bgapp.live/play/trasco-412.php?c=490Sextreme/transco8&token=blccck-gh08st&f=.m3u8
+
+
+#EXTINF:-1  group-title="DEPORTES", TUDN
+http://bgapp.live/play/tvghd-412.php?id=tudn-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Gol Perú
+http://bgapp.live/play/tvghd-412.php?id=gol-peru-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Gol TV
+http://bgapp.live/play/tvghd-412.php?id=gol-tv-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Win Sports
+http://bgapp.live/play/tvghd-412.php?id=win-sports-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Win Sports Plus
+http://bgapp.live/play/tvghd-412.php?id=win-sports-plus-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", TNT Sports
+http://bgapp.live/play/tvghd-412.php?id=tnt-sports-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Fox Sports Premium
+http://bgapp.live/play/tvghd-412.php?id=fox-sports-premium-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", TYC Sports
+http://bgapp.live/play/tvghd-412.php?id=tyc-sports-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Fox Sports
+http://bgapp.live/play/tvghd-412.php?id=fox-sports-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Fox Sports 2
+http://bgapp.live/play/tvghd-412.php?id=fox-sports-2-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Fox Sports 3
+http://bgapp.live/play/tvghd-412.php?id=fox-sports-3-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Espn Deportes
+http://bgapp.live/play/tvghd-412.php?id=espn-deportes-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Espn Plus
+http://bgapp.live/play/tvghd-412.php?id=espn-plus-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Espn
+http://bgapp.live/play/tvghd-412.php?id=espn-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Espn 2
+http://bgapp.live/play/tvghd-412.php?id=espn-2-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", espn 3
+http://bgapp.live/play/tvghd-412.php?id=espn-3-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Directv Sports
+http://bgapp.live/play/tvghd-412.php?id=directv-sports-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Bein La Liga
+http://bgapp.live/play/tvghd-412.php?id=bein-la-liga-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Fox Sports Mexico
+http://bgapp.live/play/tvghd-412.php?id=fox-sports-mexico-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", fox sports mexico 2
+http://bgapp.live/play/tvghd-412.php?id=fox-sports-2-mexico-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", fox sports mexico 3
+http://bgapp.live/play/tvghd-412.php?id=fox-sports-3-mexico-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Espn Mexico
+http://bgapp.live/play/tvghd-412.php?id=espn-mexico-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Espn 2 Mexico
+http://bgapp.live/play/tvghd-412.php?id=espn-2-mexico-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Espn 3 Mexico
+http://bgapp.live/play/tvghd-412.php?id=espn-3-mexico-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Izzi Afizzionados
+http://bgapp.live/play/tvghd-412.php?id=izzi-afizzionados-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Tigo Sports Bolivia
+http://bgapp.live/play/tvghd-412.php?id=tigo-sports-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Tigo Sports Paraguay
+http://bgapp.live/play/tvghd-412.php?id=tigo-sports-paraguay-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Movistar Deportes
+http://bgapp.live/play/tvghd-412.php?id=movistar-deportes-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", Sport TV
+http://bgapp.live/play/tvghd-412.php?id=sport-tv-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="DEPORTES", UFC Network
+http://bgapp.live/play/tvghd-412.php?id=ufc-network-en-vivo&k=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CINE", Space
+http://bgapp.live/play/tvghd-412.php?id=space-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Warner Bros TV
+http://bgapp.live/play/tvghd-412.php?id=warner-bros-tv-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CINE", TNT
+http://bgapp.live/play/tvghd-412.php?id=tnt-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", TNT Series
+http://bgapp.live/play/tvghd-412.php?id=tnt-series-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CINE", Cinemax
+http://bgapp.live/play/tvghd-412.php?id=cinemax-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CINE", Cinecanal
+http://bgapp.live/play/tvghd-412.php?id=cinecanal-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Syfy
+http://bgapp.live/play/tvghd-412.php?id=syfy-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Star Channel
+http://bgapp.live/play/tvghd-412.php?id=star-channel-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CINE PREMIUM", Universal Cinema
+http://bgapp.live/play/tvghd-412.php?id=star-fun-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", FX
+http://bgapp.live/play/tvghd-412.php?id=fx-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CINE", Golden
+http://bgapp.live/play/tvghd-412.php?id=golden-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CINE", Golden Plus
+http://bgapp.live/play/tvghd-412.php?id=golden-plus-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CINE", Golden Edge
+http://bgapp.live/play/tvghd-412.php?id=golden-edge-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CINE PREMIUM", Golden Premier
+http://bgapp.live/play/tvghd-412.php?id=golden-premier-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CINE", Multi Premier
+http://bgapp.live/play/tvghd-412.php?id=multi-premier-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", AXN
+http://bgapp.live/play/tvghd-412.php?id=axn-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Universal Channel
+http://bgapp.live/play/tvghd-412.php?id=universal-channel-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CINE", Studio Universal
+http://bgapp.live/play/tvghd-412.php?id=studio-universal-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CINE", AMC
+http://bgapp.live/play/tvghd-412.php?id=amc-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CINE", DPelicula
+http://bgapp.live/play/tvghd-412.php?id=dpelicula-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", TCM
+http://bgapp.live/play/tvghd-412.php?id=tcm-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", History
+http://bgapp.live/play/tvghd-412.php?id=history-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", History 2
+http://bgapp.live/play/tvghd-412.php?id=history-2-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", Nat Geo
+http://bgapp.live/play/tvghd-412.php?id=national-geographic-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", Animal Planet
+http://bgapp.live/play/tvghd-412.php?id=animal-planet-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", E!
+http://bgapp.live/play/tvghd-412.php?id=everything-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", El Gourmet
+http://bgapp.live/play/tvghd-412.php?id=el-gourmet-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", Discovery Channel
+http://bgapp.live/play/tvghd-412.php?id=discovery-channel-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", Discovery Turbo
+http://bgapp.live/play/tvghd-412.php?id=discovery-turbo-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", Discovery HYH
+http://bgapp.live/play/tvghd-412.php?id=discovery-hyh-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", ID
+http://bgapp.live/play/tvghd-412.php?id=id-investigation-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", AandE
+http://bgapp.live/play/tvghd-412.php?id=discovery-aye-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", TLC
+http://bgapp.live/play/tvghd-412.php?id=discovery-tlc-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CONOCIMIENTO", Discovery Theater
+http://bgapp.live/play/tvghd-412.php?id=discovery-theater-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="KIDS", Disney Channel
+http://bgapp.live/play/tvghd-412.php?id=disney-channel-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="KIDS", Disney Junior
+http://bgapp.live/play/tvghd-412.php?id=disney-junior-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="KIDS", Nick
+http://bgapp.live/play/tvghd-412.php?id=nick-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="KIDS", Teen Nick
+http://bgapp.live/play/tvghd-412.php?id=teen-nick-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="KIDS", Nick JR
+http://bgapp.live/play/tvghd-412.php?id=nick-jr-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="MUSICA", Nick Music
+http://bgapp.live/play/tvghd-412.php?id=nick-music-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="KIDS", Cartoon Network
+http://bgapp.live/play/tvghd-412.php?id=cartoon-network-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="KIDS", Cartoonito
+http://bgapp.live/play/tvghd-412.php?id=boomerang-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="KIDS", Tooncast
+http://bgapp.live/play/tvghd-412.php?id=tooncast-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="KIDS", Discovery Kids
+http://bgapp.live/play/tvghd-412.php?id=discovery-kids-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="KIDS", Boing
+http://bgapp.live/play/tvghd-412.php?id=boing-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", MTV
+http://bgapp.live/play/tvghd-412.php?id=mtv-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="MUSICA", HTV
+http://bgapp.live/play/tvghd-412.php?id=htv-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="MUSICA", MTV 00s
+http://bgapp.live/play/tvghd-412.php?id=vh1-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="MUSICA", MTV 80s
+http://bgapp.live/play/tvghd-412.php?id=vh1-classic-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="MUSICA", Telehit
+http://bgapp.live/play/tvghd-412.php?id=telehit-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="MUSICA", Top Latino
+http://bgapp.live/play/tvghd-412.php?id=top-latino-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="MUSICA", Retro
+http://bgapp.live/play/tvghd-412.php?id=retro-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="INFORMACIÓN", RT Noticias
+http://bgapp.live/play/tvghd-412.php?id=rt-noticias-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="INFORMACIÓN", CNN Español
+http://bgapp.live/play/tvghd-412.php?id=cnn-espanol-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="24/7", Terror 24/7
+http://bgapp.live/play/tvghd-412.php?id=terror-24-horas-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="24/7", South Park 24/7
+http://bgapp.live/play/tvghd-412.php?id=south-park-24-horas-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="24/7", Alf 24/7
+http://bgapp.live/play/tvghd-412.php?id=alf-24-horas-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="24/7", Dragon Ball Super 24/7
+http://bgapp.live/play/tvghd-412.php?id=dragon-ball-super-24-horas-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="24/7", El Chavo 24/7
+http://bgapp.live/play/tvghd-412.php?id=el-chavo-24-horas-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="24/7", Los Simpson 24/7
+http://bgapp.live/play/tvghd-412.php?id=los-simpson-24-horas-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="24/7", Pokemon 24/7
+http://bgapp.live/play/tvghd-412.php?id=pokemon-24-horas-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="24/7", Futurama 24/7
+http://bgapp.live/play/tvghd-412.php?id=futurama-24-horas-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="24/7", Digimon 24/7
+http://bgapp.live/play/tvghd-412.php?id=digimon-24-horas-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="LOCALES", Azteca 7
+http://bgapp.live/play/tvghd-412.php?id=azteca-7-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="LOCALES", Canal 5
+http://bgapp.live/play/tvghd-412.php?id=canal-5-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Latina
+http://bgapp.live/play/tvghd-412.php?id=latina-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", America TV
+http://bgapp.live/play/tvghd-412.php?id=america-tv-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", ATV
+http://bgapp.live/play/tvghd-412.php?id=atv-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Canal N
+http://bgapp.live/play/tvghd-412.php?id=canal-n-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Willax
+http://bgapp.live/play/tvghd-412.php?id=willax-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Telefe
+http://bgapp.live/play/tvghd-412.php?id=telefe-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", El Trece
+http://bgapp.live/play/tvghd-412.php?id=el-trece-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Distrito Comedia
+http://bgapp.live/play/tvghd-412.php?id=distrito-comedia-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Telemundo 51 Miami
+http://bgapp.live/play/tvghd-412.php?id=telemundo-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Pasiones
+http://bgapp.live/play/tvghd-412.php?id=pasiones-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="LOCALES", Azteca Uno
+http://bgapp.live/play/tvghd-412.php?id=azteca-uno-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Az Corazon
+http://bgapp.live/play/tvghd-412.php?id=az-corazon-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Az Mundo
+http://bgapp.live/play/tvghd-412.php?id=az-mundo-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Az Cinema
+http://bgapp.live/play/tvghd-412.php?id=az-cinema-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Galavision
+http://bgapp.live/play/tvghd-412.php?id=galavision-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Tlnovelas
+http://bgapp.live/play/tvghd-412.php?id=tlnovelas-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="LOCALES", Las Estrellas
+http://bgapp.live/play/tvghd-412.php?id=las-estrellas-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Caracol
+http://bgapp.live/play/tvghd-412.php?id=caracol-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", RCN
+http://bgapp.live/play/tvghd-412.php?id=rcn-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Univision
+http://bgapp.live/play/tvghd-412.php?id=univision-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Unicable
+http://bgapp.live/play/tvghd-412.php?id=unicable-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Unimas
+http://bgapp.live/play/tvghd-412.php?id=unimas-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="LOCALES", Imagen TV
+http://bgapp.live/play/tvghd-412.php?id=imagen-tv-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", Comedy Central
+http://bgapp.live/play/tvghd-412.php?id=comedy-central-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", TLT VENEZUELA
+http://bgapp.live/play/tvghd-412.php?id=tlt-venezuela-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CINE", CINECANAL
+http://bgapp.live/play/tvghd-412.php?id=cinecanal-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="CINE", SPACE
+http://bgapp.live/play/tvghd-412.php?id=space-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", TELEFE
+http://bgapp.live/play/tvghd-412.php?id=telefe-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", EL TRECE
+http://bgapp.live/play/tvghd-412.php?id=el-trece-en-vivo&K=blckghooooooooooooossst&file=.m3u8
+#EXTINF:-1  group-title="ENTRETENCIÓN", AMERICA TV ARGENTINA
+http://bgapp.live/play/tvghd-412.php?id=america-tv-argentina-en-vivo&K=blckghooooooooooooossst&file=.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="ENTRETENCIÓN", A&E
@@ -2299,499 +3038,6 @@ http://bgapp.live/play/zufree-412.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3425
 http://bgapp.live/play/zufree-412.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3424.m3u8
 #EXTINF:-1 group-title="ENTRETENCIÓN", TELEMUNDO USA
 http://bgapp.live/play/zufree-412.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3544.m3u8
-
-
-#EXTINF:-1  group-title="LOCALES", Azteca Uno
-http://bgapp.live/play/trasco-412.php?c=113azteca13/transco1&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="LOCALES", Las Estrellas
-http://bgapp.live/play/trasco-412.php?c=102estrellas/transco1&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="LOCALES", Imagen Television
-http://bgapp.live/play/trasco-412.php?c=103Imagen/transco13&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="LOCALES", Foro TV
-http://bgapp.live/play/trasco-412.php?c=push/forotv&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="LOCALES", Canal 5
-http://bgapp.live/play/trasco-412.php?c=105canal5/transco1&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="LOCALES", Canal 6 CDMX (XHTDMX-TDT)
-http://bgapp.live/play/trasco-412.php?c=MultimediosPlus/transco15&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="INFORMACIÓN", Milenio Televisión (XHTDMX-TDT2)
-http://bgapp.live/play/trasco-412.php?c=710MilenioTV/transco13&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="REGIONALES", Canal 6 Monterrey (XHAW-TDT)
-http://bgapp.live/play/trasco-412.php?c=Multimediosmty/transco15&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", MVS TV (XHTDMX-TDT4)
-http://bgapp.live/play/trasco-412.php?c=152mx52/transco1&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="LOCALES", Azteca 7
-http://bgapp.live/play/trasco-412.php?c=107azteca7/transco1&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="LOCALES", NU9VE
-http://bgapp.live/play/trasco-412.php?c=andrew/galatv&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="LOCALES", Canal Once
-http://bgapp.live/play/trasco-412.php?c=111OnceTvMexico/transco1&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="LOCALES", Aprende En Casa IV-1 (11.2/5.2)
-http://bgapp.live/play/trasco-412.php?c=133once2/transco1&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="LOCALES", Canal Catorce
-http://bgapp.live/play/trasco-412.php?c=130unavoz/transco1&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="LOCALES", Aprende En Casa IV-2 (14.2/20.1 Nal)
-http://bgapp.live/play/trasco-412.php?c=131ingenioTV/transco1&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="LOCALES", TV UNAM
-http://bgapp.live/play/trasco-412.php?c=120tvunam/transco1&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="LOCALES", Canal 22
-http://bgapp.live/play/trasco-412.php?c=122canal22/transco1&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="LOCALES", Canal 22.2
-http://bgapp.live/play/trasco-412.php?c=304Canal222/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="INFORMACIÓN", Canal Del Congreso
-http://bgapp.live/play/trasco-412.php?c=145congreso/transco14&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Star Channel | HD
-http://bgapp.live/play/trasco-412.php?c=andromeda/FOX&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Star Channel
-http://bgapp.live/play/trasco-412.php?c=202CanalFOXMexico/transco1&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Sony Channel | HD
-http://bgapp.live/play/trasco-412.php?c=andromeda/SONY&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Sony Channel
-http://bgapp.live/play/trasco-412.php?c=211sony/transco14&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Unicable
-http://bgapp.live/play/trasco-412.php?c=andromeda/UNICABLE&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Pasiones
-http://bgapp.live/play/trasco-412.php?c=andromeda/PASIONES&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Warner | HD
-http://bgapp.live/play/trasco-412.php?c=andromeda/WARNER&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Warner
-http://bgapp.live/play/trasco-412.php?c=210WarnerChannel/transco14&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", E!
-http://bgapp.live/play/trasco-412.php?c=212E!Latino/transco14&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", FX | HD
-http://bgapp.live/play/trasco-412.php?c=andromeda/FX&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", FX
-http://bgapp.live/play/trasco-412.php?c=207FXLatin/transco1&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Universal | HD
-http://bgapp.live/play/trasco-412.php?c=andromeda/UNIVERSAL&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Universal
-http://bgapp.live/play/trasco-412.php?c=203Universal/transco1&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", TNT Series
-http://bgapp.live/play/trasco-412.php?c=205TNTSE/transco1&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", SYFY
-http://bgapp.live/play/trasco-412.php?c=204SyFyLatin/transco1&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", TBS
-http://bgapp.live/play/trasco-412.php?c=223TBS/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", ID | HD
-http://bgapp.live/play/trasco-412.php?c=andromeda/ID&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", ID
-http://bgapp.live/play/trasco-412.php?c=216I.D/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", A&E | HD
-http://bgapp.live/play/trasco-412.php?c=andromeda/AE&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", A&E
-http://bgapp.live/play/trasco-412.php?c=214AELatino/transco14&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Lifetime
-http://bgapp.live/play/trasco-412.php?c=414LIFET/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", AXN | HD
-http://bgapp.live/play/trasco-412.php?c=andromeda/AXN&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", AXN
-http://bgapp.live/play/trasco-412.php?c=213AXNLatinoAmerica/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", I-Sat
-http://bgapp.live/play/trasco-412.php?c=222ISAT/transco14&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Universo
-http://bgapp.live/play/trasco-412.php?c=transco10/9509UNVSO&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Estrella TV
-http://bgapp.live/play/trasco-412.php?c=eventox3/lista&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Telemundo
-http://bgapp.live/play/trasco-412.php?c=encoder75/evento9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Telemundo 52 Pac
-http://bgapp.live/play/trasco-412.php?c=andrew/telehit&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Univisión
-http://bgapp.live/play/trasco-412.php?c=9604UNVSN/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Univisión 34 Pac
-http://bgapp.live/play/trasco-412.php?c=eventox2/lista&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", UniMas
-http://bgapp.live/play/trasco-412.php?c=9603UNIMW/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Galavisión
-http://bgapp.live/play/trasco-412.php?c=9602GLVSN/transco16&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Telemundo PR (WKAQ-DT)
-http://bgapp.live/play/trasco-412.php?c=0000/CH=%C2%A0PR-WKAQ/playlist.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", WAPA
-http://bgapp.live/play/trasco-412.php?c=0000/CH=%C2%A0PR-%C2%A0WAPA/playlist.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", WAPA Deportes
-http://bgapp.live/play/trasco-412.php?c=0000/CH=%C2%A0PR-%C2%A0WAPA2/playlist.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", WIPR
-http://bgapp.live/play/trasco-412.php?c=wipr&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Tele11
-http://bgapp.live/play/trasco-412.php?c=0000/CH=%C2%A0PR-WLII/playlist.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", MegaTV PR
-http://bgapp.live/play/trasco-412.php?c=megatvpr&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Punto 2 (WKAQ-DT2)
-http://bgapp.live/play/trasco-412.php?c=live/punto2pr&token=blccck-gh08st&f=.m3u8
-
-#EXTINF:-1  group-title="ENTRETENCIÓN", A3 Series
-http://bgapp.live/play/trasco-412.php?c=230Atres/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", ¡Hola! TV
-http://bgapp.live/play/trasco-412.php?c=218Hola/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", MTV | HD
-http://bgapp.live/play/trasco-412.php?c=live/ID&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", MTV
-http://bgapp.live/play/trasco-412.php?c=250mtvla/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", MTV Hits
-http://bgapp.live/play/trasco-412.php?c=mtvhitsts/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Comedy Central
-http://bgapp.live/play/trasco-412.php?c=225CMEDY/transco14&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="MUSICA", Exa TV
-http://bgapp.live/play/trasco-412.php?c=252NU/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="MUSICA", La Mejor TV
-http://23.237.29.98:2095/255exatv/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="MUSICA", HTV
-http://bgapp.live/play/trasco-412.php?c=260htv/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="MUSICA", Telehit Música Plus
-http://bgapp.live/play/trasco-412.php?c=live/DTURBO&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="MUSICA", Bandamax
-http://bgapp.live/play/trasco-412.php?c=encoder70/goltv&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="MUSICA", VideoRola
-http://bgapp.live/play/trasco-412.php?c=258VROLA/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="MUSICA", Teleritmo
-http://bgapp.live/play/trasco-412.php?c=276teleritmo/transco13&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="KIDS", Discovery Kids
-http://bgapp.live/play/trasco-412.php?c=310discoverykids/transco14&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="KIDS", Nick
-http://bgapp.live/play/trasco-412.php?c=305nickelodeon/transco14&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="KIDS", Disney Channel | HD
-http://bgapp.live/play/trasco-412.php?c=andromeda/DISNEY&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="KIDS", Disney Channel
-http://bgapp.live/play/trasco-412.php?c=302Disneychannel/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="KIDS", Disney Junior
-http://bgapp.live/play/trasco-412.php?c=303DisneyJunior/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="KIDS", Cartoon Network
-http://bgapp.live/play/trasco-412.php?c=307CartoonNetwork/transco14&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="KIDS", Baby TV
-http://bgapp.live/play/trasco-412.php?c=315BabyTVLatinAmerica/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="KIDS", Nick Jr.
-http://bgapp.live/play/trasco-412.php?c=306NickJrLatinAmerica/transco14&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", Discovery
-http://bgapp.live/play/trasco-412.php?c=402discoverychannel/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", Animal Planet | HD
-http://bgapp.live/play/trasco-412.php?c=evento4/bodega&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", Animal Planet
-http://bgapp.live/play/trasco-412.php?c=408animalplanet/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", TLC
-http://bgapp.live/play/trasco-412.php?c=217TLC/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", Discovery Home & Health | HD
-http://bgapp.live/play/trasco-412.php?c=andromeda/DISCOVERYHH&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", Discovery Theater HD
-http://bgapp.live/play/trasco-412.php?c=andromeda/DISCOVERYTH&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", Discovery World HD
-http://bgapp.live/play/trasco-412.php?c=live/DWORLD&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", Discovery Turbo
-http://bgapp.live/play/trasco-412.php?c=345turbo/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", National Geographic | HD
-http://bgapp.live/play/trasco-412.php?c=encoder18/unicable&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", National Geographic
-http://bgapp.live/play/trasco-412.php?c=405Natgeo/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", History | HD
-http://bgapp.live/play/trasco-412.php?c=andromeda/HISTORY&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", History
-http://bgapp.live/play/trasco-412.php?c=409history/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", History 2
-http://bgapp.live/play/trasco-412.php?c=413H2/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", El Gourmet
-http://bgapp.live/play/trasco-412.php?c=evento5/bodega&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", Discovery En Español
-http://bgapp.live/play/trasco-412.php?c=transco9/9535DISCOVERYESP&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", Fox Sports | HD
-http://bgapp.live/play/trasco-412.php?c=evento3/bodega&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", Fox Sports
-http://bgapp.live/play/trasco-412.php?c=502FoxSport1/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", Fox Sports 2 | HD
-http://bgapp.live/play/trasco-412.php?c=andromeda/FOXSP2&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", Fox Sports 2
-http://bgapp.live/play/trasco-412.php?c=503FoxSport2/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", Fox Sports 3
-http://bgapp.live/play/trasco-412.php?c=508FoxSports3/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN | HD
-http://bgapp.live/play/trasco-412.php?c=evento/bodega&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN
-http://bgapp.live/play/trasco-412.php?c=506ESPN2/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN 2 | HD
-http://bgapp.live/play/trasco-412.php?c=evento2/bodega&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN 2
-http://bgapp.live/play/trasco-412.php?c=505ESPN/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN 3
-http://bgapp.live/play/trasco-412.php?c=507ESPN3/transco14&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN Extra
-http://bgapp.live/play/trasco-412.php?c=andromeda/ESPN+&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", TUDN
-http://bgapp.live/play/trasco-412.php?c=encoder84/evento17&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", TUDN (Alt.)
-http://bgapp.live/play/trasco-412.php?c=encoder84/evento17&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", TUDN USA
-http://bgapp.live/play/trasco-412.php?c=encoder82/evento16&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN Deportes
-http://bgapp.live/play/trasco-412.php?c=9556UTDN/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", Claro Sports
-http://bgapp.live/play/trasco-412.php?c=504clarosport/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", Adrenalina Sports Network
-http://bgapp.live/play/trasco-412.php?c=UFCNET/transco2&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", Bein Ñ | HD
-http://bgapp.live/play/trasco-412.php?c=andromeda/BEINES&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", Bein Ñ
-http://bgapp.live/play/trasco-412.php?c=9592BEINE/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", NBCSN
-http://bgapp.live/play/trasco-412.php?c=9466NBCSP/transco15&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", TUDN USA
-http://bgapp.live/play/trasco-412.php?c=9556UTDN/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN Deportes | HD
-http://bgapp.live/play/trasco-412.php?c=encoder82/evento16&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="INFORMACIÓN", Meganoticias MX
-http://bgapp.live/play/trasco-412.php?c=220TVC/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="INFORMACIÓN", CNN En Español
-http://bgapp.live/play/trasco-412.php?c=702CNN/transco13&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="INFORMACIÓN", Teleformula
-http://bgapp.live/play/trasco-412.php?c=354Elfinanciero/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE", TNT | HD
-http://bgapp.live/play/trasco-412.php?c=andromeda/TNT&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE", TNT
-http://bgapp.live/play/trasco-412.php?c=602TNT/transco14&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE", Space | HD
-http://bgapp.live/play/trasco-412.php?c=andromeda/SPACE&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE", Space
-http://bgapp.live/play/trasco-412.php?c=221SpaceMexico/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE", Cinemax
-http://bgapp.live/play/trasco-412.php?c=603Cinemax/transco14&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE", MC
-http://bgapp.live/play/trasco-412.php?c=607MC/transco13&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE", Multipremier
-http://bgapp.live/play/trasco-412.php?c=606MultiPremiere/transco13&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE", De Película Plus
-http://bgapp.live/play/trasco-412.php?c=live/DTHEATER&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE", Cine Latino
-http://bgapp.live/play/trasco-412.php?c=608CineLatino/transco13&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE", Cine Latino US
-http://bgapp.live/play/trasco-412.php?c=andromeda/CINELATINO&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE", Cinecanal (SUB)
-http://bgapp.live/play/trasco-412.php?c=664Cinecanal/transco13&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE", Paramount Network
-http://bgapp.live/play/trasco-412.php?c=615PARAM/transco13&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE", Cinema
-http://bgapp.live/play/trasco-412.php?c=andromeda/AZCINEMA&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE PREMIUM", HBO
-http://bgapp.live/play/trasco-412.php?c=eventox6/lista&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE PREMIUM", HBO (Alt.)
-http://bgapp.live/play/trasco-412.php?c=650HBO/transco13&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE PREMIUM", HBO 2
-http://bgapp.live/play/trasco-412.php?c=651HBO2/transco13&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE PREMIUM", HBO Plus
-http://bgapp.live/play/trasco-412.php?c=654HBOPlus/transco13&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE PREMIUM", HBO Family
-http://bgapp.live/play/trasco-412.php?c=652HBOFamily/transco13&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="CINE PREMIUM", HBO Xtreme
-http://bgapp.live/play/trasco-412.php?c=658MaxPrime/transco13&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  USA Network
-http://bgapp.live/play/trasco-412.php?c=9431USA/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Comedy Central
-http://bgapp.live/play/trasco-412.php?c=9485CMDY/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Lifetime
-http://bgapp.live/play/trasco-412.php?c=9470LIFE/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  LMN
-http://bgapp.live/play/trasco-412.php?c=transco9/9471LMN&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Food Network
-http://bgapp.live/play/trasco-412.php?c=9462FOOD/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Bravo
-http://bgapp.live/play/trasco-412.php?c=99492BRAVO/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  HGTV
-http://bgapp.live/play/trasco-412.php?c=transcob9/9461HGTV&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Cooking Channel
-http://bgapp.live/play/trasco-412.php?c=9447COOK/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  E!
-http://bgapp.live/play/trasco-412.php?c=9474E/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  A&E
-http://bgapp.live/play/trasco-412.php?c=9419AE/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  FY
-http://bgapp.live/play/trasco-412.php?c=9443FYI/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  History
-http://bgapp.live/play/trasco-412.php?c=9491HIST/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Vice
-http://bgapp.live/play/trasco-412.php?c=9525VICE/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  SYFY
-http://bgapp.live/play/trasco-412.php?c=9432SYFY/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  BET Networks
-http://bgapp.live/play/trasco-412.php?c=9510BET/transco16&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  FXX
-http://bgapp.live/play/trasco-412.php?c=9520FXX/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  WE TV
-http://bgapp.live/play/trasco-412.php?c=transco9/9578WE&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  AMC
-http://bgapp.live/play/trasco-412.php?c=transco9/9417AMC&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  FX
-http://bgapp.live/play/trasco-412.php?c=9475FX/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  TNT
-http://bgapp.live/play/trasco-412.php?c=9420TNT/transco9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  TBS
-http://bgapp.live/play/trasco-412.php?c=9499TBS/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Galavisión
-http://bgapp.live/play/trasco-412.php?c=9602GLVSN/transco16&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Universo
-http://bgapp.live/play/trasco-412.php?c=transco10/9509UNVSO&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Pasiones
-http://bgapp.live/play/trasco-412.php?c=andromeda/PASIONES&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  ESPN
-http://bgapp.live/play/trasco-412.php?c=9424ESPN/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  ESPN U
-http://bgapp.live/play/trasco-412.php?c=9531ESPNU/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  ESPN 2
-http://bgapp.live/play/trasco-412.php?c=9425ESPN2/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Motor Trend
-http://bgapp.live/play/trasco-412.php?c=transco10/4697VLCTY&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  FS1
-http://bgapp.live/play/trasco-412.php?c=9468FOXS1/transco10&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  FS2
-http://bgapp.live/play/trasco-412.php?c=9613FOXS2/transco15&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  CBS Sports Network
-http://bgapp.live/play/trasco-412.php?c=transco9/9495CBSSN&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  NBCSN
-http://bgapp.live/play/trasco-412.php?c=9466NBCSP/transco15&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Sportsman Channel
-http://bgapp.live/play/trasco-412.php?c=9483SPMAN/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Outdoor Channel
-http://bgapp.live/play/trasco-412.php?c=9619OTDCH/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  The Cowboy Channel
-http://bgapp.live/play/trasco-412.php?c=transco9/9684COWBOY&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Tennis Channel
-http://bgapp.live/play/trasco-412.php?c=eventox7/lista&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Golf Channel
-http://bgapp.live/play/trasco-412.php?c=9473GOLF/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  GolTV
-http://bgapp.live/play/trasco-412.php?c=encoder76/evento10&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Bein Ñ
-http://bgapp.live/play/trasco-412.php?c=9592BEINE/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Bein Ñ
-http://bgapp.live/play/trasco-412.php?c=andromeda/BEINES&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Bein Sports
-http://bgapp.live/play/trasco-412.php?c=andromeda/BEINENG&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  MLB Network
-http://bgapp.live/play/trasco-412.php?c=eventox5/lista&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  NBA T
-http://bgapp.live/play/trasco-412.php?c=eventox1/lista&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  NFL Network
-http://bgapp.live/play/trasco-412.php?c=eventox4/lista&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  TUDN USA
-http://bgapp.live/play/trasco-412.php?c=9556UTDN/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  ESPN Deportes
-http://bgapp.live/play/trasco-412.php?c=encoder82/evento16&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  MTV
-http://bgapp.live/play/trasco-412.php?c=9484MTV/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  MTV
-http://bgapp.live/play/trasco-412.php?c=mtvhitsts/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  MTV
-http://bgapp.live/play/trasco-412.php?c=250mtvla/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  VH1
-http://bgapp.live/play/trasco-412.php?c=9507VH1/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  VH1
-http://bgapp.live/play/trasco-412.php?c=254VH1/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Videorola
-http://bgapp.live/play/trasco-412.php?c=258VROLA/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  CMT
-http://bgapp.live/play/trasco-412.php?c=9493CMT/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  AXSTV
-http://bgapp.live/play/trasco-412.php?c=9422AXS/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Nick
-http://bgapp.live/play/trasco-412.php?c=transco9/9416NICK&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Disney Channel
-http://bgapp.live/play/trasco-412.php?c=9557DISE/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Cartoon Network
-http://bgapp.live/play/trasco-412.php?c=9463TOON/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Discovery Family
-http://bgapp.live/play/trasco-412.php?c=transco9/9494DISCF&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Freeform
-http://bgapp.live/play/trasco-412.php?c=9558FRFM/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Discovery
-http://bgapp.live/play/trasco-412.php?c=9487DISC/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  TLC
-http://bgapp.live/play/trasco-412.php?c=9488TLC/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Animal Planet
-http://bgapp.live/play/trasco-412.php?c=transco9/9489APL&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  National Geographic
-http://bgapp.live/play/trasco-412.php?c=transco9/9429NTGEO&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  NatGeo Wild
-http://bgapp.live/play/trasco-412.php?c=9445NATG/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  ID
-http://bgapp.live/play/trasco-412.php?c=9526ID/transco16&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Science
-http://bgapp.live/play/trasco-412.php?c=9490SCI/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Trvl
-http://bgapp.live/play/trasco-412.php?c=9437TRV/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Destination America
-http://bgapp.live/play/trasco-412.php?c=9457AMERI/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Discovery En Español
-http://bgapp.live/play/trasco-412.php?c=transco9/9535DISCOVERYESP&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  CNN
-http://bgapp.live/play/trasco-412.php?c=transco9/9436CNN&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Fox News
-http://bgapp.live/play/trasco-412.php?c=9477FXNWS/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Fox Business
-http://bgapp.live/play/trasco-412.php?c=9476FOXB/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  CNBC
-http://bgapp.live/play/trasco-412.php?c=9439CNBC/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  The Weather Channel
-http://bgapp.live/play/trasco-412.php?c=9438WEATH/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Paramount Network
-http://bgapp.live/play/trasco-412.php?c=9506SPIKE/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  TruTV
-http://bgapp.live/play/trasco-412.php?c=transco9/9430TRU&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  HBO
-http://bgapp.live/play/trasco-412.php?c=encoder78/evento12&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  5 Star Max
-http://bgapp.live/play/trasco-412.php?c=encoder77/evento11&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Showtime (E)
-http://bgapp.live/play/trasco-412.php?c=9460SHO-E/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Showtime (W)
-http://bgapp.live/play/trasco-412.php?c=9512SHO-W/transco16&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  The Movie Channel
-http://bgapp.live/play/trasco-412.php?c=9481TMC-E/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Starz
-http://bgapp.live/play/trasco-412.php?c=9498STRZW/transco15&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Starz Comedy
-http://bgapp.live/play/trasco-412.php?c=9486STZC/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Starz Family
-http://bgapp.live/play/trasco-412.php?c=9497StarzF/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  FXM
-http://bgapp.live/play/trasco-412.php?c=9440MAXW/transcob9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Hallmark
-http://bgapp.live/play/trasco-412.php?c=transco9/9482HLMRK&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Cine Latino
-http://bgapp.live/play/trasco-412.php?c=andromeda/CINELATINO&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  ABC
-http://bgapp.live/play/trasco-412.php?c=encoder81/evento15&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  CBS
-http://bgapp.live/play/trasco-412.php?c=encoder80/evento14&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  NBC
-http://bgapp.live/play/trasco-412.php?c=encoder79/evento13&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Univisión Pac
-http://bgapp.live/play/trasco-412.php?c=eventox2/lista&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  NBC (Alt.)
-http://bgapp.live/play/trasco-412.php?c=eventox8/lista&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Estrella TV
-http://bgapp.live/play/trasco-412.php?c=eventox3/lista&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Telemundo
-http://bgapp.live/play/trasco-412.php?c=encoder75/evento9&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Telemundo Pac
-http://bgapp.live/play/trasco-412.php?c=andrew/telehit&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Telemundo
-http://bgapp.live/play/trasco-412.php?c=encoder69/telemundo&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  Univisión
-http://bgapp.live/play/trasco-412.php?c=9604UNVSN/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA",  UniMas
-http://bgapp.live/play/trasco-412.php?c=9603UNIMW/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA", RealExtreme
-http://bgapp.live/play/trasco-412.php?c=491REALX/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA", Brazzers TV
-http://bgapp.live/play/trasco-412.php?c=493BRAZZ/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA", TEN
-http://bgapp.live/play/trasco-412.php?c=494TEN/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA", RK
-http://bgapp.live/play/trasco-412.php?c=495RKTV/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA", Hustler TV
-http://bgapp.live/play/trasco-412.php?c=496HUSLR/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA", XTSY
-http://bgapp.live/play/trasco-412.php?c=498XTSY/transco7&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA", playboy
-http://bgapp.live/play/trasco-412.php?c=484Playboy/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA", venus
-http://bgapp.live/play/trasco-412.php?c=488Venus/transco8&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1  group-title="USA", sextreme
-http://bgapp.live/play/trasco-412.php?c=490Sextreme/transco8&token=blccck-gh08st&f=.m3u8
 
 
 #EXTINF:-1 group-title="Lista 17", MOVISTAR LaLiga
