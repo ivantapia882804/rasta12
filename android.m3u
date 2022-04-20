@@ -7443,6 +7443,13 @@ https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-SD/default.mpd
 https://live4-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bgaddon16.000webhostapp.com/izz.php?token=a2luZyBvZiBhbnl0aGluZw
+#EXTINF:-1 tvg-id="DreamWorksChannel.ar" tvg-name="DreamWorks Channel"  group-title="IzziGo (OTT NAV)", DreamWorks Channel
+https://live5-ott.izzigo.tv/out/u/dash/DISNEY-XD-HD/default.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bgaddon16.000webhostapp.com/izz.php?token=a2luZyBvZiBhbnl0aGluZw
@@ -7894,13 +7901,6 @@ https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bgaddon16.000webhostapp.com/izz.php?token=a2luZyBvZiBhbnl0aGluZw
-#EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Natgeo Wild"  group-title="IzziGo (OTT NAV)",Natgeo Wild
-https://live2-ott.izzigo.tv/out/u/dash/NAT-GEO-WILD-HD/default.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon16.000webhostapp.com/izz.php?token=a2luZyBvZiBhbnl0aGluZw
 #EXTINF:-1 tvg-id="NFLNetwork(English).mx" tvg-name="Nfl"  group-title="IzziGo (OTT NAV)",Nfl
 https://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -8001,6 +8001,13 @@ https://live4-ott.izzigo.tv/out/u/dash/SONGIE-TV-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://bgaddon16.000webhostapp.com/izz.php?token=a2luZyBvZiBhbnl0aGluZw
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony"  group-title="IzziGo (OTT NAV)",Sony
 https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bgaddon16.000webhostapp.com/izz.php?token=a2luZyBvZiBhbnl0aGluZw
+#EXTINF:-1 tvg-id="SonyMovies.mx" tvg-name="Sony Movies"  group-title="IzziGo (OTT NAV)",Sony Movies
+https://live5-ott.izzigo.tv/out/u/dash/FX-MOVIES-HD/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="IzziGo (OTT NAV)" group-title="IzziGo (OTT NAV)", like Gecko) Chrome/85.0.4183.83 Safari/537.3
