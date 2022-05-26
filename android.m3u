@@ -33,6 +33,8 @@ http://clubtv.link/m26m/m26m/geomex.php?c=174
 http://bgapp.live/play/ultimate-599.php?c=878&tokeen=blackgghost&f=.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports (HD)
 http://clubtv.link/m26m/m26m/geomex.php?c=2564
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="RECOMENDADOS",TNT
+http://clubtv.link/m26m/m26m/geomex.php?c=126
 #EXTINF:-1 tvg-id="UnivisionNetworkEast(Spanish).us" group-title="RECOMENDADOS" ,Univisión (USA)
 http://bgapp.live/play/ultimate-599.php?c=99&tokeen=blackgghost&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" group-title="RECOMENDADOS" ,TUDN (USA)
@@ -41,7 +43,7 @@ http://bgapp.live/play/ultimate-599.php?c=86&tokeen=blackgghost&f=.m3u8
 
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno (HD)
 http://clubtv.link/m26m/m26m/geomex.php?c=7
-#EXTINF:-1 tvg-id="Clic.mx" tvg-name="Clic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="ENTRETENCIÓN",Clic
+#EXTINF:-1 tvg-id="Clic.mx" tvg-name="A+ 2.0" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="ENTRETENCIÓN",A+ 2.0
 http://clubtv.link/m26m/m26m/geomex.php?c=11
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas
 http://clubtv.link/m26m/m26m/geomex.php?c=17
@@ -339,7 +341,7 @@ http://clubtv.link/m26m/m26m/geomex.php?c=218
 http://clubtv.link/m26m/m26m/geomex.php?c=220
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bmax.png" group-title="MUSICA",Bandamax
 http://clubtv.link/m26m/m26m/geomex.php?c=221
-#EXTINF:-1 tvg-id="Clic.mx" tvg-name="Clic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="MUSICA",Clic
+#EXTINF:-1 tvg-id="Clic.mx" tvg-name="A+ 2.0" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="ENTRETENCIÓN",A+ 2.0
 http://clubtv.link/m26m/m26m/geomex.php?c=223
 #EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="MUSICA",MTV 00s (HD)
 http://clubtv.link/m26m/m26m/geomex.php?c=334
