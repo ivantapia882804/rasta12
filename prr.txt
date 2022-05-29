@@ -32,15 +32,15 @@ http://bgapp.live/play/zufree-559.php?c=102.m3u8&blck
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN (HD)
 http://clubtv.link/m26m/m26m/geomex.php?c=174
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group-title="RECOMENDADOS",Afizzionados
-http://bgapp.live/play/ultimate-559.php?c=878&tokeen=blackgghost&f=.m3u8
+http://bgapp.live/play/bud-559.php?c=53494.m3u8&blck
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports (HD)
 http://clubtv.link/m26m/m26m/geomex.php?c=2564
 #EXTINF:-1 group-title="RECOMENDADOS", ESPN DEPORTES
 http://bgapp.live/play/zufree-559.php?c=39.m3u8&blck
-#EXTINF:-1 tvg-id="UnivisionNetworkEast(Spanish).us" group-title="RECOMENDADOS" ,Univisión (USA)
-http://bgapp.live/play/ultimate-559.php?c=99&tokeen=blackgghost&f=.m3u8
+#EXTINF:-1 tvg-id="WLTV(Spanish).us" group-title="RECOMENDADOS" ,Univisión 23 Miami (USA)
+http://bgapp.live/play/bud-559.php?c=12209.m3u8&blck
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" group-title="RECOMENDADOS" ,TUDN (USA)
-http://bgapp.live/play/ultimate-559.php?c=86&tokeen=blackgghost&f=.m3u8
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=189&f=.m3u8
 
 
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno (HD)
@@ -581,1992 +581,998 @@ https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?Pla
 http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="ENTRETENCIÓN", A&E
-http://bgapp.live/play/ultimate-559.php?c=1&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="ENTRETENCIÓN", A&E Sur
-http://bgapp.live/play/ultimate-559.php?c=734&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="ENTRETENCIÓN", A&E
-http://bgapp.live/play/ultimate-559.php?c=474&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" group-title="LOCALES", A+
-http://bgapp.live/play/ultimate-559.php?c=406&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="ENTRETENCIÓN", A3Series
-http://bgapp.live/play/ultimate-559.php?c=444&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png" group-title="LOCALES", ADN 40
-http://bgapp.live/play/ultimate-559.php?c=447&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="DEPORTES", Afizzionados
-http://bgapp.live/play/ultimate-559.php?c=878&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7", Alf 24/7
-http://bgapp.live/play/ultimate-559.php?c=426&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="ENTRETENCIÓN", AMC
-http://bgapp.live/play/ultimate-559.php?c=183&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="CINE", AMC ES
-http://bgapp.live/play/ultimate-559.php?c=715&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="CINE", AMC
-http://bgapp.live/play/ultimate-559.php?c=475&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="ENTRETENCIÓN", America
-http://bgapp.live/play/ultimate-559.php?c=780&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="CONOCIMIENTO", Animal Planet
-http://bgapp.live/play/ultimate-559.php?c=3&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="CONOCIMIENTO", Animal Planet
-http://bgapp.live/play/ultimate-559.php?c=633&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7", Animaniacs 24/7
-http://bgapp.live/play/ultimate-559.php?c=677&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Anime 24H
-http://bgapp.live/play/ultimate-559.php?c=269&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="ENTRETENCIÓN", Antena 3
-http://bgapp.live/play/ultimate-559.php?c=298&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="ENTRETENCIÓN", AXN
-http://bgapp.live/play/ultimate-559.php?c=146&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="ENTRETENCIÓN", AXN Sur
-http://bgapp.live/play/ultimate-559.php?c=804&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="ENTRETENCIÓN", AXN (ES)
-http://bgapp.live/play/ultimate-559.php?c=713&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="ENTRETENCIÓN", AXN
-http://bgapp.live/play/ultimate-559.php?c=476&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="ENTRETENCIÓN", AXN WHITE (ES)
-http://bgapp.live/play/ultimate-559.php?c=714&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="DEPORTES", AyM Sports
-http://bgapp.live/play/ultimate-559.php?c=148&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" group-title="CINE", Az Cinema
-http://bgapp.live/play/ultimate-559.php?c=186&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png" group-title="ENTRETENCIÓN", Az Clic
-http://bgapp.live/play/ultimate-559.php?c=165&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="ENTRETENCIÓN", Az Corazón
-http://bgapp.live/play/ultimate-559.php?c=166&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="ENTRETENCIÓN", Az Corazón
-http://bgapp.live/play/ultimate-559.php?c=834&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="LOCALES", Azteca 1
-http://bgapp.live/play/ultimate-559.php?c=4&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="LOCALES", Azteca 1
-http://bgapp.live/play/ultimate-559.php?c=634&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="LOCALES", Azteca 7
-http://bgapp.live/play/ultimate-559.php?c=5&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="LOCALES", Azteca 7
-http://bgapp.live/play/ultimate-559.php?c=635&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="KIDS", Baby TV
-http://bgapp.live/play/ultimate-559.php?c=7&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="MUSICA", Bandamax
-http://bgapp.live/play/ultimate-559.php?c=8&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="MUSICA", Bandamax
-http://bgapp.live/play/ultimate-559.php?c=833&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7", Barbie 24/7
-http://bgapp.live/play/ultimate-559.php?c=788&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="DEPORTES", Bein
-http://bgapp.live/play/ultimate-559.php?c=763&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="DEPORTES", BeinSports
-http://bgapp.live/play/ultimate-559.php?c=753&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="DEPORTES", BeinSports
-http://bgapp.live/play/ultimate-559.php?c=9&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="DEPORTES", BeinSports Ñ
-http://bgapp.live/play/ultimate-559.php?c=761&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="DEPORTES", BeinSports Ñ
-http://bgapp.live/play/ultimate-559.php?c=376&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bleach.png" group-title="24/7", Bleach 24/7
-http://bgapp.live/play/ultimate-559.php?c=883&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7", Bob Esponja 24/7
-http://bgapp.live/play/ultimate-559.php?c=518&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="ENTRETENCIÓN", Bolivision
-http://bgapp.live/play/ultimate-559.php?c=783&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="24/7", Breaking Bad 24/7
-http://bgapp.live/play/ultimate-559.php?c=846&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7", Brickleberry 24/7
-http://bgapp.live/play/ultimate-559.php?c=789&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7", Caballeros del Zodiaco 24/7
-http://bgapp.live/play/ultimate-559.php?c=427&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal2televicentro.png" group-title="ENTRETENCIÓN", Canal 2 Televicentro
-http://bgapp.live/play/ultimate-559.php?c=211&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="LOCALES", Canal 5
-http://bgapp.live/play/ultimate-559.php?c=14&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="ENTRETENCIÓN", Canal 5 Honduras
-http://bgapp.live/play/ultimate-559.php?c=773&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="LOCALES", Canal de las Estrellas
-http://bgapp.live/play/ultimate-559.php?c=411&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="LOCALES", Canal de las Estrellas Sur
-http://bgapp.live/play/ultimate-559.php?c=736&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="LOCALES", Canal de las Estrellas
-http://bgapp.live/play/ultimate-559.php?c=636&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="DEPORTES", Canal Del Futbol
-http://bgapp.live/play/ultimate-559.php?c=892&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canalonce.png" group-title="LOCALES", Canal Once
-http://bgapp.live/play/ultimate-559.php?c=15&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png" group-title="ENTRETENCIÓN", Canal+ Accion
-http://bgapp.live/play/ultimate-559.php?c=364&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png" group-title="DEPORTES", Canal+ Toros
-http://bgapp.live/play/ultimate-559.php?c=369&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7", Candy Candy 24/7
-http://bgapp.live/play/ultimate-559.php?c=808&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="24/7", Cantinflas 24/7
-http://bgapp.live/play/ultimate-559.php?c=428&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/capitaltv.png" group-title="MUSICA", Capital TV
-http://bgapp.live/play/ultimate-559.php?c=205&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="ENTRETENCIÓN", Caracol
-http://bgapp.live/play/ultimate-559.php?c=391&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="ENTRETENCIÓN", Caracol Internacional
-http://bgapp.live/play/ultimate-559.php?c=290&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="KIDS", Cartoon Network
-http://bgapp.live/play/ultimate-559.php?c=17&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="KIDS", Cartoon Network Sur
-http://bgapp.live/play/ultimate-559.php?c=737&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="KIDS", Cartoon Network
-http://bgapp.live/play/ultimate-559.php?c=637&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="KIDS", Cartoonito (Boomerang)
-http://bgapp.live/play/ultimate-559.php?c=11&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="KIDS", Cartoonito (Boomerang)
-http://bgapp.live/play/ultimate-559.php?c=824&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="KIDS", Cartoonito Sur
-http://bgapp.live/play/ultimate-559.php?c=735&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/catdog.png" group-title="24/7", CatDog 24/7
-http://bgapp.live/play/ultimate-559.php?c=785&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdf.png" group-title="DEPORTES", CDF Premium
-http://bgapp.live/play/ultimate-559.php?c=318&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdfpremium.png" group-title="DEPORTES", CDF Premium
-http://bgapp.live/play/ultimate-559.php?c=725&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdnsportsmax.png" group-title="DEPORTES", CDN Sportsmax
-http://bgapp.live/play/ultimate-559.php?c=206&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdo.png" group-title="DEPORTES", CDO
-http://bgapp.live/play/ultimate-559.php?c=513&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png" group-title="DEPORTES", CDO Premium
-http://bgapp.live/play/ultimate-559.php?c=401&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7", Chapulin Colorado 24/7
-http://bgapp.live/play/ultimate-559.php?c=418&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="24/7", Chespirito 24/7
-http://bgapp.live/play/ultimate-559.php?c=417&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png" group-title="ENTRETENCIÓN", CHV Chilevision
-http://bgapp.live/play/ultimate-559.php?c=198&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/2020/img.jpg" group-title="CINE", Cine 2020
-http://bgapp.live/play/ultimate-559.php?c=857&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="CINE", Cine Accion
-http://bgapp.live/play/ultimate-559.php?c=699&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Accion
-http://bgapp.live/play/ultimate-559.php?c=706&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg" group-title="CINE", Cine Accion Sagas
-http://bgapp.live/play/ultimate-559.php?c=700&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Accion Sagas
-http://bgapp.live/play/ultimate-559.php?c=707&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg" group-title="CINE", Cine Comedia 1
-http://bgapp.live/play/ultimate-559.php?c=695&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg" group-title="CINE", Cine Comedia 2
-http://bgapp.live/play/ultimate-559.php?c=696&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg" group-title="CINE", Cine Ficcion/Fantasia 1
-http://bgapp.live/play/ultimate-559.php?c=709&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg" group-title="CINE", Cine Ficcion/Fantasia 2
-http://bgapp.live/play/ultimate-559.php?c=710&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Ficcion/Fantasia
-http://bgapp.live/play/ultimate-559.php?c=712&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg" group-title="CINE", Cine Ficcion/Fantasia Sagas
-http://bgapp.live/play/ultimate-559.php?c=711&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" group-title="CINE", Cine Infantil
-http://bgapp.live/play/ultimate-559.php?c=687&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Infantil
-http://bgapp.live/play/ultimate-559.php?c=702&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg" group-title="CINE", Cine Infantil Sagas
-http://bgapp.live/play/ultimate-559.php?c=694&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/infantil_sagas_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Infantil Sagas
-http://bgapp.live/play/ultimate-559.php?c=703&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="CINE", Cine Latino
-http://bgapp.live/play/ultimate-559.php?c=295&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" group-title="CINE", Cine Marvel
-http://bgapp.live/play/ultimate-559.php?c=697&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Marvel
-http://bgapp.live/play/ultimate-559.php?c=701&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" group-title="CINE", Cine Romance
-http://bgapp.live/play/ultimate-559.php?c=689&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Romance
-http://bgapp.live/play/ultimate-559.php?c=705&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" group-title="CINE", Cine Terror
-http://bgapp.live/play/ultimate-559.php?c=693&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror_ENTRETENCIÓN/img.jpg" group-title="CINE", Cine Terror
-http://bgapp.live/play/ultimate-559.php?c=704&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" group-title="CINE", Cine Zombis
-http://bgapp.live/play/ultimate-559.php?c=688&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="CINE", Cinecanal
-http://bgapp.live/play/ultimate-559.php?c=18&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="CINE", Cinecanal Sur
-http://bgapp.live/play/ultimate-559.php?c=738&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="CINE", Cinecanal
-http://bgapp.live/play/ultimate-559.php?c=479&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="CINE", Cinemax
-http://bgapp.live/play/ultimate-559.php?c=20&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="CINE", Cinemax Sur
-http://bgapp.live/play/ultimate-559.php?c=739&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="CINE", Cinemax
-http://bgapp.live/play/ultimate-559.php?c=638&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="DEPORTES", Claro Sports
-http://bgapp.live/play/ultimate-559.php?c=328&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png" group-title="INFORMACIÓN", CNN en Español
-http://bgapp.live/play/ultimate-559.php?c=136&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="ENTRETENCIÓN", Comedy Central
-http://bgapp.live/play/ultimate-559.php?c=135&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="ENTRETENCIÓN", Comedy Central Sur
-http://bgapp.live/play/ultimate-559.php?c=740&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="ENTRETENCIÓN", Comedy Central (ES)
-http://bgapp.live/play/ultimate-559.php?c=719&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="ENTRETENCIÓN", Comedy Central
-http://bgapp.live/play/ultimate-559.php?c=480&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png" group-title="24/7", Coraje el Perro Cobarde 24/7
-http://bgapp.live/play/ultimate-559.php?c=519&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/crimeinvestigation.png" group-title="ENTRETENCIÓN", Crime Investigation (ES)
-http://bgapp.live/play/ultimate-559.php?c=720&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", CTNI
-http://bgapp.live/play/ultimate-559.php?c=160&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="CINE", De Película
-http://bgapp.live/play/ultimate-559.php?c=21&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="CINE", De Pelicula Plus
-http://bgapp.live/play/ultimate-559.php?c=481&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/deportv.png" group-title="DEPORTES", DeporTV
-http://bgapp.live/play/ultimate-559.php?c=139&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="CINE", DHE
-http://bgapp.live/play/ultimate-559.php?c=844&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="24/7", Dinosaurios 24/7
-http://bgapp.live/play/ultimate-559.php?c=670&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTES", DirectTV Sports
-http://bgapp.live/play/ultimate-559.php?c=259&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTES", DirectTV Sports 2
-http://bgapp.live/play/ultimate-559.php?c=667&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="ENTRETENCIÓN", DirectTV Sports Peru
-http://bgapp.live/play/ultimate-559.php?c=879&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", Discovery Channel
-http://bgapp.live/play/ultimate-559.php?c=22&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", Discovery Channel Sur
-http://bgapp.live/play/ultimate-559.php?c=741&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", Discovery Channel
-http://bgapp.live/play/ultimate-559.php?c=639&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="CONOCIMIENTO", Discovery Civilization
-http://bgapp.live/play/ultimate-559.php?c=23&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CONOCIMIENTO", Discovery H&H
-http://bgapp.live/play/ultimate-559.php?c=24&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CONOCIMIENTO", Discovery H&H Sur
-http://bgapp.live/play/ultimate-559.php?c=742&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CONOCIMIENTO", Discovery H&H
-http://bgapp.live/play/ultimate-559.php?c=640&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="KIDS", Discovery Kids
-http://bgapp.live/play/ultimate-559.php?c=25&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="KIDS", Discovery Kids
-http://bgapp.live/play/ultimate-559.php?c=641&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="CONOCIMIENTO", Discovery SCI
-http://bgapp.live/play/ultimate-559.php?c=26&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="CONOCIMIENTO", Discovery Theater
-http://bgapp.live/play/ultimate-559.php?c=27&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="CONOCIMIENTO", Discovery Turbo
-http://bgapp.live/play/ultimate-559.php?c=28&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="CONOCIMIENTO", Discovery Turbo
-http://bgapp.live/play/ultimate-559.php?c=727&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="CONOCIMIENTO", Discovery World
-http://bgapp.live/play/ultimate-559.php?c=187&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="KIDS", Disney Channel
-http://bgapp.live/play/ultimate-559.php?c=29&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="KIDS", Disney Junior
-http://bgapp.live/play/ultimate-559.php?c=30&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="KIDS", Disney Junior Sur
-http://bgapp.live/play/ultimate-559.php?c=743&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="KIDS", Disney Junior
-http://bgapp.live/play/ultimate-559.php?c=826&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="ENTRETENCIÓN", Distrito Comedia
-http://bgapp.live/play/ultimate-559.php?c=32&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/djing.png" group-title="MUSICA", Djing Ibiza
-http://bgapp.live/play/ultimate-559.php?c=277&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7", Doraemon 24/7
-http://bgapp.live/play/ultimate-559.php?c=521&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7", Dragon Ball 24/7
-http://bgapp.live/play/ultimate-559.php?c=425&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7", Dragon Ball GT 24/7
-http://bgapp.live/play/ultimate-559.php?c=520&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7", Dragon Ball Super 24/7
-http://bgapp.live/play/ultimate-559.php?c=424&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7", Dragon Ball Z 24/7
-http://bgapp.live/play/ultimate-559.php?c=329&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="ENTRETENCIÓN", E!
-http://bgapp.live/play/ultimate-559.php?c=33&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="ENTRETENCIÓN", E!
-http://bgapp.live/play/ultimate-559.php?c=483&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="ENTRETENCIÓN", Ecuavisa
-http://bgapp.live/play/ultimate-559.php?c=319&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="ENTRETENCIÓN", El 13 Argentina
-http://bgapp.live/play/ultimate-559.php?c=239&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="24/7", El Chavo Animado 24/7
-http://bgapp.live/play/ultimate-559.php?c=790&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7", El Chavo del 8 24/7
-http://bgapp.live/play/ultimate-559.php?c=400&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7", El Coyote y el Correcaminos 24/7
-http://bgapp.live/play/ultimate-559.php?c=429&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="24/7", El Gallo Claudio 24/7
-http://bgapp.live/play/ultimate-559.php?c=845&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="ENTRETENCIÓN", El Gourmet
-http://bgapp.live/play/ultimate-559.php?c=157&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png" group-title="24/7", El Increible Mundo de Gumball 24/7
-http://bgapp.live/play/ultimate-559.php?c=791&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="ENTRETENCIÓN", El Nueve
-http://bgapp.live/play/ultimate-559.php?c=772&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7", El Pajaro Loco 24/7
-http://bgapp.live/play/ultimate-559.php?c=525&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7", El Principel del Rap 24/7
-http://bgapp.live/play/ultimate-559.php?c=430&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" group-title="24/7", El Señor de los Cielos 24/7
-http://bgapp.live/play/ultimate-559.php?c=820&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="ENTRETENCIÓN", El Trece
-http://bgapp.live/play/ultimate-559.php?c=765&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", El Trece
-http://bgapp.live/play/ultimate-559.php?c=767&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="RELIGIÓN", Enlace Juvenil
-http://bgapp.live/play/ultimate-559.php?c=162&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="RELIGIÓN", Enlace TV
-http://bgapp.live/play/ultimate-559.php?c=161&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN
-http://bgapp.live/play/ultimate-559.php?c=34&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES", ESPN 2
-http://bgapp.live/play/ultimate-559.php?c=35&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES", ESPN 2
-http://bgapp.live/play/ultimate-559.php?c=484&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES", ESPN 2 MX
-http://bgapp.live/play/ultimate-559.php?c=531&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="DEPORTES", ESPN 3
-http://bgapp.live/play/ultimate-559.php?c=485&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN Chile
-http://bgapp.live/play/ultimate-559.php?c=842&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN
-http://bgapp.live/play/ultimate-559.php?c=486&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN MX
-http://bgapp.live/play/ultimate-559.php?c=530&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="DEPORTES", ESPN EXTRA
-http://bgapp.live/play/ultimate-559.php?c=37&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="DEPORTES", ESPN EXTRA
-http://bgapp.live/play/ultimate-559.php?c=487&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="ENTRETENCIÓN", Estrella TV
-http://bgapp.live/play/ultimate-559.php?c=177&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eurosport.png" group-title="DEPORTES", Eurosport
-http://bgapp.live/play/ultimate-559.php?c=39&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ewtn.png" group-title="RELIGIÓN", EWTN
-http://bgapp.live/play/ultimate-559.php?c=38&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="CINE", Film & Arts
-http://bgapp.live/play/ultimate-559.php?c=149&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="CINE", Film & Arts (EN)
-http://bgapp.live/play/ultimate-559.php?c=729&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", FM Hot TV
-http://bgapp.live/play/ultimate-559.php?c=731&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="ENTRETENCIÓN", Star Channel Sur
-http://bgapp.live/play/ultimate-559.php?c=750&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports
-http://bgapp.live/play/ultimate-559.php?c=52&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports 2
-http://bgapp.live/play/ultimate-559.php?c=53&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports 2 Argentina
-http://bgapp.live/play/ultimate-559.php?c=770&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports 2
-http://bgapp.live/play/ultimate-559.php?c=494&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports 2 MX
-http://bgapp.live/play/ultimate-559.php?c=528&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTES", Fox Sports 3
-http://bgapp.live/play/ultimate-559.php?c=54&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTES", Fox Sports 3
-http://bgapp.live/play/ultimate-559.php?c=839&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports Argentina
-http://bgapp.live/play/ultimate-559.php?c=769&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports
-http://bgapp.live/play/ultimate-559.php?c=493&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports MX
-http://bgapp.live/play/ultimate-559.php?c=527&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports MX Sur
-http://bgapp.live/play/ultimate-559.php?c=748&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTES", Fox Sports Premium
-http://bgapp.live/play/ultimate-559.php?c=512&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTES", Fox Sports Premium
-http://bgapp.live/play/ultimate-559.php?c=658&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports Sur
-http://bgapp.live/play/ultimate-559.php?c=402&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports Sur 2
-http://bgapp.live/play/ultimate-559.php?c=410&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTES", Fox Sports Sur 3
-http://bgapp.live/play/ultimate-559.php?c=511&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7", Futurama 24/7
-http://bgapp.live/play/ultimate-559.php?c=793&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="ENTRETENCIÓN", FX
-http://bgapp.live/play/ultimate-559.php?c=42&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="ENTRETENCIÓN", FX Sur
-http://bgapp.live/play/ultimate-559.php?c=749&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="ENTRETENCIÓN", FX
-http://bgapp.live/play/ultimate-559.php?c=495&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="LOCALES", NU9VE
-http://bgapp.live/play/ultimate-559.php?c=56&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="LOCALES", NU9VE
-http://bgapp.live/play/ultimate-559.php?c=651&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="ENTRETENCIÓN", Gamavision
-http://bgapp.live/play/ultimate-559.php?c=891&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="24/7", Game of Thrones 24/7
-http://bgapp.live/play/ultimate-559.php?c=515&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7", Garfield 24/7
-http://bgapp.live/play/ultimate-559.php?c=812&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="ENTRETENCIÓN", Glitz
-http://bgapp.live/play/ultimate-559.php?c=158&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="DEPORTES", Gol Peru
-http://bgapp.live/play/ultimate-559.php?c=686&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="DEPORTES", Gol TV
-http://bgapp.live/play/ultimate-559.php?c=287&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="DEPORTES", Gol TV
-http://bgapp.live/play/ultimate-559.php?c=514&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="CINE", Golden
-http://bgapp.live/play/ultimate-559.php?c=57&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="CINE", Golden Edge
-http://bgapp.live/play/ultimate-559.php?c=58&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="CINE", Golden Plus
-http://bgapp.live/play/ultimate-559.php?c=496&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="CONOCIMIENTO", H2
-http://bgapp.live/play/ultimate-559.php?c=61&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="CONOCIMIENTO", H2 Sur
-http://bgapp.live/play/ultimate-559.php?c=760&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE PREMIUM", HBO
-http://bgapp.live/play/ultimate-559.php?c=62&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE PREMIUM", HBO (EN)
-http://bgapp.live/play/ultimate-559.php?c=723&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE PREMIUM", HBO 2
-http://bgapp.live/play/ultimate-559.php?c=300&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE PREMIUM", HBO 2 (EN)
-http://bgapp.live/play/ultimate-559.php?c=724&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE PREMIUM", HBO 2
-http://bgapp.live/play/ultimate-559.php?c=732&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE PREMIUM", HBO 2 (EN)
-http://bgapp.live/play/ultimate-559.php?c=733&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="CINE PREMIUM", HBO Family
-http://bgapp.live/play/ultimate-559.php?c=63&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE PREMIUM", HBO
-http://bgapp.live/play/ultimate-559.php?c=654&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE PREMIUM", HBO Plus
-http://bgapp.live/play/ultimate-559.php?c=64&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE PREMIUM", HBO Plus (EN)
-http://bgapp.live/play/ultimate-559.php?c=722&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE PREMIUM", HBO Plus
-http://bgapp.live/play/ultimate-559.php?c=655&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE PREMIUM", HBO Plus Oeste
-http://bgapp.live/play/ultimate-559.php?c=728&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="CINE PREMIUM", HBO Xtreme
-http://bgapp.live/play/ultimate-559.php?c=814&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="CINE PREMIUM", HBO Xtreme
-http://bgapp.live/play/ultimate-559.php?c=841&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hchhonduras.png" group-title="ENTRETENCIÓN", HCH
-http://bgapp.live/play/ultimate-559.php?c=779&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7", Hey Arnold 24/7
-http://bgapp.live/play/ultimate-559.php?c=522&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CONOCIMIENTO", Historia (ES)
-http://bgapp.live/play/ultimate-559.php?c=718&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CONOCIMIENTO", History Channel
-http://bgapp.live/play/ultimate-559.php?c=67&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CONOCIMIENTO", History Channel
-http://bgapp.live/play/ultimate-559.php?c=642&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png" group-title="MUSICA", Hit TV
-http://bgapp.live/play/ultimate-559.php?c=201&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="ENTRETENCIÓN", Hola TV
-http://bgapp.live/play/ultimate-559.php?c=189&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="MUSICA", HTV
-http://bgapp.live/play/ultimate-559.php?c=66&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="CINE", I.Sat
-http://bgapp.live/play/ultimate-559.php?c=153&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="LOCALES", Imagen Television
-http://bgapp.live/play/ultimate-559.php?c=341&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="LOCALES", Imagen Televisión
-http://bgapp.live/play/ultimate-559.php?c=643&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="CONOCIMIENTO", ID
-http://bgapp.live/play/ultimate-559.php?c=68&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="CONOCIMIENTO", ID
-http://bgapp.live/play/ultimate-559.php?c=825&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="24/7", Johnny Bravo 24/7
-http://bgapp.live/play/ultimate-559.php?c=786&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Juce TV
-http://bgapp.live/play/ultimate-559.php?c=263&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7", La Casa de Papel 24/7
-http://bgapp.live/play/ultimate-559.php?c=403&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7", La Familia PeLuche 24/7
-http://bgapp.live/play/ultimate-559.php?c=811&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" group-title="24/7", La Hora Pico 24/7
-http://bgapp.live/play/ultimate-559.php?c=887&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7", La Pantera Rosa 24/7
-http://bgapp.live/play/ultimate-559.php?c=671&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png" group-title="24/7", La Pequeña Lulu 24/7
-http://bgapp.live/play/ultimate-559.php?c=792&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7", La Rosa de Guadalupe 24/7
-http://bgapp.live/play/ultimate-559.php?c=886&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasfa.png" group-title="ENTRETENCIÓN", La Sfa
-http://bgapp.live/play/ultimate-559.php?c=326&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="24/7", La Vaca y ElPollito 24/7
-http://bgapp.live/play/ultimate-559.php?c=809&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="ENTRETENCIÓN", Latina TV
-http://bgapp.live/play/ultimate-559.php?c=782&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="24/7", Le Temes a la Oscuridad 24/7
-http://bgapp.live/play/ultimate-559.php?c=888&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="ENTRETENCIÓN", Lifetime
-http://bgapp.live/play/ultimate-559.php?c=152&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="DEPORTES", Liga de Campeones
-http://bgapp.live/play/ultimate-559.php?c=890&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="DEPORTES", Liga de Campeones 2
-http://bgapp.live/play/ultimate-559.php?c=893&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7", Looney Tunes 24/7
-http://bgapp.live/play/ultimate-559.php?c=524&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png" group-title="24/7", Los 3 Chiflados 24/7
-http://bgapp.live/play/ultimate-559.php?c=423&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="24/7", Los Años Maravillosos 24/7
-http://bgapp.live/play/ultimate-559.php?c=810&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" group-title="24/7", Los Padrinos Magicos 24/7
-http://bgapp.live/play/ultimate-559.php?c=813&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7", Los Picapiedra 24/7
-http://bgapp.live/play/ultimate-559.php?c=669&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="24/7", Los Pinguinos de Madagascar 24/7
-http://bgapp.live/play/ultimate-559.php?c=794&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="24/7", Los Pitufos 24/7
-http://bgapp.live/play/ultimate-559.php?c=795&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="24/7", Los Reyes de la Colina 24/7
-http://bgapp.live/play/ultimate-559.php?c=796&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7", Los Simpson 24/7
-http://bgapp.live/play/ultimate-559.php?c=357&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="24/7", Los Supersonicos 24/7
-http://bgapp.live/play/ultimate-559.php?c=797&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="24/7", Los Vengadores Unidos 24/7
-http://bgapp.live/play/ultimate-559.php?c=818&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", m2o TV
-http://bgapp.live/play/ultimate-559.php?c=203&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7", Malcolm 24/7
-http://bgapp.live/play/ultimate-559.php?c=798&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png" group-title="ENTRETENCIÓN", Más chic
-http://bgapp.live/play/ultimate-559.php?c=180&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="CINE PREMIUM", HBO Xtreme
-http://bgapp.live/play/ultimate-559.php?c=730&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="24/7", Max Steel 24/7
-http://bgapp.live/play/ultimate-559.php?c=880&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="CINE PREMIUM", HBO Pop
-http://bgapp.live/play/ultimate-559.php?c=659&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="ENTRETENCIÓN", Mega
-http://bgapp.live/play/ultimate-559.php?c=766&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="ENTRETENCIÓN", Mega
-http://bgapp.live/play/ultimate-559.php?c=784&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Mega (ES)
-http://bgapp.live/play/ultimate-559.php?c=352&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="CINE", MegaCine
-http://bgapp.live/play/ultimate-559.php?c=517&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mimusicaENTRETENCIÓN.png" group-title="MUSICA", Mi Musica
-http://bgapp.live/play/ultimate-559.php?c=172&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Miami TV
-http://bgapp.live/play/ultimate-559.php?c=251&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/milenio.png" group-title="INFORMACIÓN", Milenio
-http://bgapp.live/play/ultimate-559.php?c=140&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mlb.png" group-title="DEPORTES", MLB Network
-http://bgapp.live/play/ultimate-559.php?c=293&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="CINE", Movistar Comedia
-http://bgapp.live/play/ultimate-559.php?c=370&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_DEPORTES.png" group-title="DEPORTES", Movistar DEPORTES
-http://bgapp.live/play/ultimate-559.php?c=366&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_DEPORTES2.png" group-title="DEPORTES", Movistar DEPORTES 2
-http://bgapp.live/play/ultimate-559.php?c=367&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_xtra.png" group-title="ENTRETENCIÓN", Movistar Xtra
-http://bgapp.live/play/ultimate-559.php?c=372&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7", Mr. Bean 24/7
-http://bgapp.live/play/ultimate-559.php?c=431&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="ENTRETENCIÓN", MTV
-http://bgapp.live/play/ultimate-559.php?c=69&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="ENTRETENCIÓN", MTV (ES)
-http://bgapp.live/play/ultimate-559.php?c=803&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="ENTRETENCIÓN", MTV
-http://bgapp.live/play/ultimate-559.php?c=828&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png" group-title="MUSICA", MTV Live
-http://bgapp.live/play/ultimate-559.php?c=70&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="ENTRETENCIÓN", MTV Sur
-http://bgapp.live/play/ultimate-559.php?c=823&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="REGIONALES", Canal 6 Monterrey
-http://bgapp.live/play/ultimate-559.php?c=155&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png" group-title="CINE", MultiPremier
-http://bgapp.live/play/ultimate-559.php?c=294&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Music Now
-http://bgapp.live/play/ultimate-559.php?c=690&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png" group-title="MUSICA", MusicTop
-http://bgapp.live/play/ultimate-559.php?c=691&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mvs.png" group-title="INFORMACIÓN", MVS INFORMACIÓN
-http://bgapp.live/play/ultimate-559.php?c=448&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" group-title="24/7", Naruto 24/7
-http://bgapp.live/play/ultimate-559.php?c=523&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="CONOCIMIENTO", Nat Geo
-http://bgapp.live/play/ultimate-559.php?c=76&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="CONOCIMIENTO", Nat Geo
-http://bgapp.live/play/ultimate-559.php?c=644&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png" group-title="DEPORTES", NBA
-http://bgapp.live/play/ultimate-559.php?c=838&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/neox.png" group-title="ENTRETENCIÓN", Neox (ES)
-http://bgapp.live/play/ultimate-559.php?c=353&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nfl.png" group-title="DEPORTES", NFL Network
-http://bgapp.live/play/ultimate-559.php?c=204&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="KIDS", Nick
-http://bgapp.live/play/ultimate-559.php?c=78&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick2.png" group-title="KIDS", Teennick
-http://bgapp.live/play/ultimate-559.php?c=646&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="KIDS", Nick
-http://bgapp.live/play/ultimate-559.php?c=645&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="KIDS", Nick JR
-http://bgapp.live/play/ultimate-559.php?c=79&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="KIDS", Nick JR
-http://bgapp.live/play/ultimate-559.php?c=829&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="MUSICA", Nickmusic
-http://bgapp.live/play/ultimate-559.php?c=80&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="KIDS", Nickelodeon
-http://bgapp.live/play/ultimate-559.php?c=184&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nova.png" group-title="ENTRETENCIÓN", Nova (ES)
-http://bgapp.live/play/ultimate-559.php?c=717&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="24/7", One Punch Man 24/7
-http://bgapp.live/play/ultimate-559.php?c=661&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="RELIGIÓN", ORBE 21
-http://bgapp.live/play/ultimate-559.php?c=242&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="24/7", Padre de Familia 24/7
-http://bgapp.live/play/ultimate-559.php?c=416&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="CINE", Paramount
-http://bgapp.live/play/ultimate-559.php?c=200&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="CINE", Paramount
-http://bgapp.live/play/ultimate-559.php?c=647&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="ENTRETENCIÓN", Pasiones
-http://bgapp.live/play/ultimate-559.php?c=755&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="24/7", Patoaventuras 24/7
-http://bgapp.live/play/ultimate-559.php?c=819&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="24/7", Patrulla Canina 24/7
-http://bgapp.live/play/ultimate-559.php?c=807&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="24/7", Peppa Pig 24/7
-http://bgapp.live/play/ultimate-559.php?c=787&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/america_peru.png" group-title="ENTRETENCIÓN", PERU: América TV
-http://bgapp.live/play/ultimate-559.php?c=304&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: Antares TV
-http://bgapp.live/play/ultimate-559.php?c=451&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: BHTV
-http://bgapp.live/play/ultimate-559.php?c=399&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: La Luz
-http://bgapp.live/play/ultimate-559.php?c=338&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="ENTRETENCIÓN", PERU: Latina
-http://bgapp.live/play/ultimate-559.php?c=317&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: Plus TV
-http://bgapp.live/play/ultimate-559.php?c=337&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: RBC
-http://bgapp.live/play/ultimate-559.php?c=220&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rpp_peru.png" group-title="ENTRETENCIÓN", PERU: RPP
-http://bgapp.live/play/ultimate-559.php?c=336&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: TV Peru
-http://bgapp.live/play/ultimate-559.php?c=306&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", PERU: Willax TV
-http://bgapp.live/play/ultimate-559.php?c=334&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="24/7", Pinky y Cerebro 24/7
-http://bgapp.live/play/ultimate-559.php?c=721&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="24/7", Pocoyo 24/7
-http://bgapp.live/play/ultimate-559.php?c=799&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7", Pokemon 24/7
-http://bgapp.live/play/ultimate-559.php?c=420&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 1
-http://bgapp.live/play/ultimate-559.php?c=847&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 10
-http://bgapp.live/play/ultimate-559.php?c=856&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 11
-http://bgapp.live/play/ultimate-559.php?c=858&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 12
-http://bgapp.live/play/ultimate-559.php?c=859&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 13
-http://bgapp.live/play/ultimate-559.php?c=860&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 14
-http://bgapp.live/play/ultimate-559.php?c=862&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 15
-http://bgapp.live/play/ultimate-559.php?c=863&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 16
-http://bgapp.live/play/ultimate-559.php?c=864&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 17
-http://bgapp.live/play/ultimate-559.php?c=865&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 18
-http://bgapp.live/play/ultimate-559.php?c=866&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 19
-http://bgapp.live/play/ultimate-559.php?c=861&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 2
-http://bgapp.live/play/ultimate-559.php?c=848&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 20
-http://bgapp.live/play/ultimate-559.php?c=867&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 21
-http://bgapp.live/play/ultimate-559.php?c=868&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 22
-http://bgapp.live/play/ultimate-559.php?c=869&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 23
-http://bgapp.live/play/ultimate-559.php?c=870&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 24
-http://bgapp.live/play/ultimate-559.php?c=871&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 25
-http://bgapp.live/play/ultimate-559.php?c=873&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 26
-http://bgapp.live/play/ultimate-559.php?c=874&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 27
-http://bgapp.live/play/ultimate-559.php?c=876&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 28
-http://bgapp.live/play/ultimate-559.php?c=875&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 29
-http://bgapp.live/play/ultimate-559.php?c=872&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 3
-http://bgapp.live/play/ultimate-559.php?c=849&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 30
-http://bgapp.live/play/ultimate-559.php?c=877&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 4
-http://bgapp.live/play/ultimate-559.php?c=850&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 5
-http://bgapp.live/play/ultimate-559.php?c=851&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 6
-http://bgapp.live/play/ultimate-559.php?c=852&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 7
-http://bgapp.live/play/ultimate-559.php?c=853&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 8
-http://bgapp.live/play/ultimate-559.php?c=854&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 9
-http://bgapp.live/play/ultimate-559.php?c=855&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png" group-title="24/7", Prison Break 24/7
-http://bgapp.live/play/ultimate-559.php?c=884&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pxtv.png" group-title="DEPORTES", PX TV
-http://bgapp.live/play/ultimate-559.php?c=193&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" group-title="24/7", Ranma 1/2 24/7
-http://bgapp.live/play/ultimate-559.php?c=419&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="REGIONALES", RCG TV Coahuila
-http://bgapp.live/play/ultimate-559.php?c=346&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png" group-title="ENTRETENCIÓN", RCN
-http://bgapp.live/play/ultimate-559.php?c=390&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcnnovelas.png" group-title="ENTRETENCIÓN", RCN Novelas
-http://bgapp.live/play/ultimate-559.php?c=279&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="DEPORTES", Real Madrid TV
-http://bgapp.live/play/ultimate-559.php?c=270&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/retromusic.png" group-title="MUSICA", Retro Music
-http://bgapp.live/play/ultimate-559.php?c=692&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ritmoson.png" group-title="MUSICA", Telehit Música
-http://bgapp.live/play/ultimate-559.php?c=154&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rt.png" group-title="INFORMACIÓN", RT
-http://bgapp.live/play/ultimate-559.php?c=142&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rtp.png" group-title="ENTRETENCIÓN", RTP
-http://bgapp.live/play/ultimate-559.php?c=781&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png" group-title="24/7", Sakura Card Captor 24/7
-http://bgapp.live/play/ultimate-559.php?c=672&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="24/7", Samurai X 24/7
-http://bgapp.live/play/ultimate-559.php?c=663&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="24/7", Scooby Doo 24/7
-http://bgapp.live/play/ultimate-559.php?c=422&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/showtime.png" group-title="CINE", Showtime
-http://bgapp.live/play/ultimate-559.php?c=679&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" group-title="24/7", Smallville 24/7
-http://bgapp.live/play/ultimate-559.php?c=673&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="ENTRETENCIÓN", Sony
-http://bgapp.live/play/ultimate-559.php?c=145&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="ENTRETENCIÓN", Sony
-http://bgapp.live/play/ultimate-559.php?c=498&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png" group-title="24/7", South Park 24/7
-http://bgapp.live/play/ultimate-559.php?c=674&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="CINE", Space
-http://bgapp.live/play/ultimate-559.php?c=83&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="CINE", Space Sur
-http://bgapp.live/play/ultimate-559.php?c=751&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="CINE", Space
-http://bgapp.live/play/ultimate-559.php?c=499&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="24/7", Spiderman 24/7
-http://bgapp.live/play/ultimate-559.php?c=889&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="ENTRETENCIÓN", Star
-http://bgapp.live/play/ultimate-559.php?c=45&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="CINE", Studio Universal
-http://bgapp.live/play/ultimate-559.php?c=84&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="CINE", Studio Universal
-http://bgapp.live/play/ultimate-559.php?c=830&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="24/7", Super Campeones 24/7
-http://bgapp.live/play/ultimate-559.php?c=432&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="ENTRETENCIÓN", SyFy
-http://bgapp.live/play/ultimate-559.php?c=151&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="ENTRETENCIÓN", SyFy Sur
-http://bgapp.live/play/ultimate-559.php?c=758&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="ENTRETENCIÓN", SyFy
-http://bgapp.live/play/ultimate-559.php?c=648&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="ENTRETENCIÓN", TBS Very Funny
-http://bgapp.live/play/ultimate-559.php?c=171&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="ENTRETENCIÓN", TBS Very Funny
-http://bgapp.live/play/ultimate-559.php?c=831&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="ENTRETENCIÓN", TC Ecuador
-http://bgapp.live/play/ultimate-559.php?c=885&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" group-title="ENTRETENCIÓN", TCM
-http://bgapp.live/play/ultimate-559.php?c=85&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png" group-title="KIDS", TeenNick
-http://bgapp.live/play/ultimate-559.php?c=882&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Tele
-http://bgapp.live/play/ultimate-559.php?c=778&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ENTRETENCIÓN", TeleAmazonas
-http://bgapp.live/play/ultimate-559.php?c=320&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="ENTRETENCIÓN", Telefe
-http://bgapp.live/play/ultimate-559.php?c=771&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleformula.png" group-title="INFORMACIÓN", TeleFórmula
-http://bgapp.live/play/ultimate-559.php?c=182&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="MUSICA", Telehit
-http://bgapp.live/play/ultimate-559.php?c=91&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="MUSICA", Telehit Música Plus
-http://bgapp.live/play/ultimate-559.php?c=649&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemedellin.png" group-title="ENTRETENCIÓN", Telemedellin
-http://bgapp.live/play/ultimate-559.php?c=197&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="ENTRETENCIÓN", Telemundo
-http://bgapp.live/play/ultimate-559.php?c=92&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="ENTRETENCIÓN", Telemundo
-http://bgapp.live/play/ultimate-559.php?c=660&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png" group-title="ENTRETENCIÓN", Televicentro
-http://bgapp.live/play/ultimate-559.php?c=776&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="24/7", The Big Bang Theory 24/7
-http://bgapp.live/play/ultimate-559.php?c=676&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7", The Walking Dead 24/7
-http://bgapp.live/play/ultimate-559.php?c=800&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="DEPORTES", TigoSports Bolivia
-http://bgapp.live/play/ultimate-559.php?c=764&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="DEPORTES", TigoSports Paraguay
-http://bgapp.live/play/ultimate-559.php?c=843&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tiin.png" group-title="KIDS", BitMe
-http://bgapp.live/play/ultimate-559.php?c=93&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="CONOCIMIENTO", TLC
-http://bgapp.live/play/ultimate-559.php?c=87&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="ENTRETENCIÓN", Tlnovelas
-http://bgapp.live/play/ultimate-559.php?c=94&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="ENTRETENCIÓN", Tlnovelas
-http://bgapp.live/play/ultimate-559.php?c=832&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="CINE", TNT
-http://bgapp.live/play/ultimate-559.php?c=179&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="CINE", TNT Sur
-http://bgapp.live/play/ultimate-559.php?c=752&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="CINE", TNT (ES)
-http://bgapp.live/play/ultimate-559.php?c=716&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="CINE", TNT
-http://bgapp.live/play/ultimate-559.php?c=500&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="ENTRETENCIÓN", TNT Series
-http://bgapp.live/play/ultimate-559.php?c=90&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="ENTRETENCIÓN", TNT Series Sur
-http://bgapp.live/play/ultimate-559.php?c=757&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="ENTRETENCIÓN", TNT Series
-http://bgapp.live/play/ultimate-559.php?c=650&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="DEPORTES", TNT Sports
-http://bgapp.live/play/ultimate-559.php?c=509&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="24/7", Tom y Jerry 24/7
-http://bgapp.live/play/ultimate-559.php?c=421&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="KIDS", Tooncast
-http://bgapp.live/play/ultimate-559.php?c=95&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trece_colombia.png" group-title="ENTRETENCIÓN", Trece
-http://bgapp.live/play/ultimate-559.php?c=774&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="24/7", TrollHunters 24/7
-http://bgapp.live/play/ultimate-559.php?c=662&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" group-title="ENTRETENCIÓN", TruTV
-http://bgapp.live/play/ultimate-559.php?c=96&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" group-title="ENTRETENCIÓN", TruTv
-http://bgapp.live/play/ultimate-559.php?c=501&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tumusicaENTRETENCIÓN.png" group-title="MUSICA", Tu Musica
-http://bgapp.live/play/ultimate-559.php?c=516&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN 
-http://bgapp.live/play/ultimate-559.php?c=698&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN (Pocos Datos)
-http://bgapp.live/play/ultimate-559.php?c=822&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN
-http://bgapp.live/play/ultimate-559.php?c=801&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN USA
-http://bgapp.live/play/ultimate-559.php?c=86&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN USA
-http://bgapp.live/play/ultimate-559.php?c=821&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tvcDEPORTES.png" group-title="DEPORTES", TVC DEPORTES
-http://bgapp.live/play/ultimate-559.php?c=837&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tve.png" group-title="ENTRETENCIÓN", TVE
-http://bgapp.live/play/ultimate-559.php?c=195&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="24/7", Two And a Half Men 24/7
-http://bgapp.live/play/ultimate-559.php?c=675&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="DEPORTES", Tyc Sports
-http://bgapp.live/play/ultimate-559.php?c=274&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png" group-title="DEPORTES", Adrenalina
-http://bgapp.live/play/ultimate-559.php?c=97&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="ENTRETENCIÓN", Unicable
-http://bgapp.live/play/ultimate-559.php?c=98&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="ENTRETENCIÓN", Unicable
-http://bgapp.live/play/ultimate-559.php?c=653&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="ENTRETENCIÓN", Universal
-http://bgapp.live/play/ultimate-559.php?c=137&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="ENTRETENCIÓN", Universal
-http://bgapp.live/play/ultimate-559.php?c=502&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png" group-title="ENTRETENCIÓN", Univision
-http://bgapp.live/play/ultimate-559.php?c=99&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univisionDEPORTES.png" group-title="DEPORTES", TUDN USA
-http://bgapp.live/play/ultimate-559.php?c=373&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="DEPORTES", TUDN USA
-http://bgapp.live/play/ultimate-559.php?c=100&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Univision Tlnovelas
-http://bgapp.live/play/ultimate-559.php?c=413&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ENTRETENCIÓN", Uno
-http://bgapp.live/play/ultimate-559.php?c=775&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" group-title="MUSICA", MTV 00s
-http://bgapp.live/play/ultimate-559.php?c=101&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" group-title="MUSICA", MTV 00s
-http://bgapp.live/play/ultimate-559.php?c=632&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/videorola.png" group-title="MUSICA", Video Rola
-http://bgapp.live/play/ultimate-559.php?c=359&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Videos: 1Music
-http://bgapp.live/play/ultimate-559.php?c=433&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Videos: Company Radio TV
-http://bgapp.live/play/ultimate-559.php?c=435&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Videos: Dream TV
-http://bgapp.live/play/ultimate-559.php?c=439&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MUSICA", Virgin TV
-http://bgapp.live/play/ultimate-559.php?c=315&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv.png" group-title="ENTRETENCIÓN", VTV Uruaguay
-http://bgapp.live/play/ultimate-559.php?c=708&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv2_chile.png" group-title="ENTRETENCIÓN", VTV2 Chile
-http://bgapp.live/play/ultimate-559.php?c=321&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png" group-title="ENTRETENCIÓN", Wapa PR
-http://bgapp.live/play/ultimate-559.php?c=327&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="ENTRETENCIÓN", Warner Channel
-http://bgapp.live/play/ultimate-559.php?c=102&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="ENTRETENCIÓN", Warner Channel Sur
-http://bgapp.live/play/ultimate-559.php?c=759&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="ENTRETENCIÓN", Warner Channel
-http://bgapp.live/play/ultimate-559.php?c=503&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="DEPORTES", Win Sports
-http://bgapp.live/play/ultimate-559.php?c=292&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="DEPORTES", Win Sports +
-http://bgapp.live/play/ultimate-559.php?c=881&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="DEPORTES", Win Sports +
-http://bgapp.live/play/ultimate-559.php?c=802&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="DEPORTES", Win Sports
-http://bgapp.live/play/ultimate-559.php?c=754&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" group-title="DEPORTES", WWE Network
-http://bgapp.live/play/ultimate-559.php?c=276&tokeen=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="24/7", Yu-Gi-Oh! 24/7
-http://bgapp.live/play/ultimate-559.php?c=664&tokeen=blackgghost&f=.m3u8
-
-
-#EXTINF:-1 group-title="LOCALES", 101 Azteca Uno
-http://38.123.205.70:8000/play/a0cc/index.m3u8
-#EXTINF:-1 group-title="LOCALES", 102 Las Estrellas
-http://38.123.205.70:8000/play/a0d4/index.m3u8
-#EXTINF:-1 group-title="LOCALES", 103 IMAGEN
-http://38.123.205.70:8000/play/a0d5/index.m3u8
-#EXTINF:-1 group-title="LOCALES", 105 canal 5
-http://38.123.205.70:8000/play/a0fl/index.m3u8
-#EXTINF:-1 group-title="LOCALES", 106 Canal 6 CDMX
-http://38.123.205.70:8000/play/a0bp/index.m3u8
-#EXTINF:-1 group-title="LOCALES", 107 AZTECA 7
-http://38.123.205.70:8000/play/a0fm/index.m3u8
-#EXTINF:-1 group-title="LOCALES", 111 Canal Once
-http://38.123.205.70:8000/play/a0bq/index.m3u8
-#EXTINF:-1 group-title="LOCALES", 114 Canal 14 CDMX
-http://38.123.205.70:8000/play/a0ax/index.m3u8
-#EXTINF:-1 group-title="LOCALES", 120 TV UNAM
-http://38.123.205.70:8000/play/a0ay/index.m3u8
-#EXTINF:-1 group-title="LOCALES", 122 CANAL 22
-http://38.123.205.70:8000/play/a0d7/index.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN", 145 Canal del Congreso
-http://38.123.205.70:8000/play/a0az/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 152 MVS TV
-http://38.123.205.70:8000/play/a0jp/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 154 EXA TV
-http://38.123.205.70:8000/play/a0je/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 155 La Mejor TV
-http://38.123.205.70:8000/play/a0jf/index.m3u8
-#EXTINF:-1 group-title="CINE", 160 Multi Premier
-http://38.123.205.70:8000/play/a0ce/index.m3u8
-#EXTINF:-1 group-title="CINE", 162 Cine Latino
-http://38.123.205.70:8000/play/a08u/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 202 STAR Channel
-http://38.123.205.70:8000/play/a08v/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 206 universal
-http://38.123.205.70:8000/play/a0bt/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 208 Sony
-http://38.123.205.70:8000/play/a0aj/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 210 WARNER
-http://38.123.205.70:8000/play/a0cf/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 214 TNT SERIES
-http://38.123.205.70:8000/play/a0da/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 216 A3 SERIES
-http://38.123.205.70:8000/play/a0b0/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 218 Antena 3
-http://38.123.205.70:8000/play/a0bu/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 222 AXN
-http://38.123.205.70:8000/play/a08w/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 224 FX
-http://38.123.205.70:8000/play/a08x/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 226 SPACE
-http://38.123.205.70:8000/play/a0cg/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 228 SYFY
-http://38.123.205.70:8000/play/a0b1/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 230 A&E
-http://38.123.205.70:8000/play/a0bv/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 232 ISAT
-http://38.123.205.70:8000/play/a0b2/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 234 Investigation Discovery
-http://38.123.205.70:8000/play/a0ch/index.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", 236 Discovery H&H
-http://38.123.205.70:8000/play/a0bw/index.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", 240 TLC
-http://38.123.205.70:8000/play/a0bx/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 242 LIFE TIME
-http://38.123.205.70:8000/play/a0ci/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 246 HolaTV
-http://38.123.205.70:8000/play/a0db/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 248 E!
-http://38.123.205.70:8000/play/a0by/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 250 TBS
-http://38.123.205.70:8000/play/a0dc/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 252 COMEDY CENTRAL
-http://38.123.205.70:8000/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="ENTRETENCIÓN", 260 MTV Latino
-http://38.123.205.70:8000/play/a0ak/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 262 MTV HITS Europa
-http://38.123.205.70:8000/play/a0b4/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 268 VIDEO ROLA
-http://38.123.205.70:8000/play/a0b5/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 270 MTV 00'S
-http://38.123.205.70:8000/play/a0b6/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 274 HTV
-http://38.123.205.70:8000/play/a0b7/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 276 TLR
-http://38.123.205.70:8000/play/a0em/index.m3u8
-#EXTINF:-1 group-title="LOCALES", 280 Once Niños y Niñas
-http://38.123.205.70:8000/play/a0jq/index.m3u8
-#EXTINF:-1 group-title="KIDS", 282 DISNEY CHANNEL
-http://38.123.205.70:8000/play/a0al/index.m3u8
-#EXTINF:-1 group-title="KIDS", 283 DISNEY JR
-http://38.123.205.70:8000/play/a0bz/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 285 Nick Music
-http://38.123.205.70:8000/play/a0df/index.m3u8
-#EXTINF:-1 group-title="KIDS", 286 Nickelodeon
-http://38.123.205.70:8000/play/a0am/index.m3u8
-#EXTINF:-1 group-title="KIDS", 290 CARTOON NETWORK
-http://38.123.205.70:8000/play/a0c0/index.m3u8
-#EXTINF:-1 group-title="KIDS", 291 NICK JR
-http://38.123.205.70:8000/play/a0ck/index.m3u8
-#EXTINF:-1 group-title="KIDS", 292 Discovery Kids
-http://38.123.205.70:8000/play/a0an/index.m3u8
-#EXTINF:-1 group-title="KIDS", 296 BABY TV
-http://38.123.205.70:8000/play/a0b9/index.m3u8
-#EXTINF:-1 group-title="KIDS", 298 Cartoonito
-http://38.123.205.70:8000/play/a0c1/index.m3u8
-#EXTINF:-1 group-title="LOCALES", 306 Ingenio TV
-http://38.123.205.70:8000/play/a0jr/index.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", 308 Discovery Channel
-http://38.123.205.70:8000/play/a0ep/index.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", 312 NATGEO LA
-http://38.123.205.70:8000/play/a0cl/index.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", 316 ANIMAL PLANET
-http://38.123.205.70:8000/play/a0ao/index.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", 318 History Channel
-http://38.123.205.70:8000/play/a0ap/index.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", 320 H2
-http://38.123.205.70:8000/play/a0dj/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 322 ARTS
-http://38.123.205.70:8000/play/a0bc/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", 336 Claro Sports
-http://38.123.205.70:8000/play/a0cm/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", 338 ESPN
-http://38.123.205.70:8000/play/a091/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", 342 ESPN 2
-http://38.123.205.70:8000/play/a092/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", 344 ESPN 3
-http://38.123.205.70:8000/play/a0c3/index.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", 345 DISCOVERY TURBO
-http://38.123.205.70:8000/play/a0c4/index.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN", 350 CNN en Español
-http://38.123.205.70:8000/play/a0dl/index.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN", 352 CNN Internacional
-http://38.123.205.70:8000/play/a0bd/index.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN", 353 RT Español
-http://38.123.205.70:8000/play/a0cn/index.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN", 354 Teleformula
-http://38.123.205.70:8000/play/a0be/index.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN", 356 Milenio
-http://38.123.205.70:8000/play/a0dm/index.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN", 358 MEGANOTICIAS MX
-http://38.123.205.70:8000/play/a0bf/index.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN", 360 JUSTICIA TV
-http://38.123.205.70:8000/play/a0bg/index.m3u8
-#EXTINF:-1 group-title="CINE", 370 TNT
-http://38.123.205.70:8000/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="CINE", 372 MC
-http://38.123.205.70:8000/play/a0co/index.m3u8
-#EXTINF:-1 group-title="CINE", 374 CINEMAX
-http://38.123.205.70:8000/play/a093/index.m3u8
-#EXTINF:-1 group-title="CINE", 376 MULTI PREMIER
-http://38.123.205.70:8000/play/a0cp/index.m3u8
-#EXTINF:-1 group-title="CINE", 378 Cinecanal
-http://38.123.205.70:8000/play/a0cq/index.m3u8
-#EXTINF:-1 group-title="CINE", 382 Cine Latino
-http://38.123.205.70:8000/play/a0k6/index.m3u8
-#EXTINF:-1 group-title="CINE", 386 STUDIO UNIVERSAL
-http://38.123.205.70:8000/play/a0bh/index.m3u8
-#EXTINF:-1 group-title="CINE", 388 PARAMOUNT
-http://38.123.205.70:8000/play/a0cs/index.m3u8
-#EXTINF:-1 group-title="CINE PREMIUM", 402 HBO
-http://38.123.205.70:8000/play/a0c5/index.m3u8
-#EXTINF:-1 group-title="CINE PREMIUM", 406 HBO 2
-http://38.123.205.70:8000/play/a0ct/index.m3u8
-#EXTINF:-1 group-title="CINE PREMIUM", 410 HBO FAMILY
-http://38.123.205.70:8000/play/a0cu/index.m3u8
-#EXTINF:-1 group-title="CINE PREMIUM", 414 HBO +
-http://38.123.205.70:8000/play/a0cv/index.m3u8
-#EXTINF:-1 group-title="CINE PREMIUM", 422 HBO XTREME
-http://38.123.205.70:8000/play/a096/index.m3u8
-#EXTINF:-1 group-title="XXX", 484 PLAY BOY
-http://38.123.205.70:8000/play/a09a/index.m3u8
-#EXTINF:-1 group-title="XXX", 488 VENUS
-http://38.123.205.70:8000/play/a09b/index.m3u8
-#EXTINF:-1 group-title="XXX", 490 Sextreme
-http://38.123.205.70:8000/play/a09c/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 960 Ritmo Digital
-http://38.123.205.70:8000/play/a0j3/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 962 Decades
-http://38.123.205.70:8000/play/a0j4/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 964 Rock Clasico
-http://38.123.205.70:8000/play/a0j5/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 966 EXA FM CDMX
-http://38.123.205.70:8000/play/a0j6/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 968 FM GLOBO
-http://38.123.205.70:8000/play/a0j7/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 970 LA MEJOR FM
-http://38.123.205.70:8000/play/a0j8/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 972 Fiesta Latina
-http://38.123.205.70:8000/play/a0j9/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 974 Stereo Rey
-http://38.123.205.70:8000/play/a0ja/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 976 Ambient
-http://38.123.205.70:8000/play/a0jb/index.m3u8
+#EXTINF:-1 group-title="ENTRETENCIÓN", STAR CHANNEL
+http://bgapp.live/play/zufree-559.php?c=2.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", FX
+http://bgapp.live/play/zufree-559.php?c=3.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", A&E LATINO
+http://bgapp.live/play/zufree-559.php?c=4.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", TBS
+http://bgapp.live/play/zufree-559.php?c=6.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", SYFY
+http://bgapp.live/play/zufree-559.php?c=7.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", AXN
+http://bgapp.live/play/zufree-559.php?c=8.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", UNIVERSAL
+http://bgapp.live/play/zufree-559.php?c=9.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", Warner
+http://bgapp.live/play/zufree-559.php?c=10.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", SONY
+http://bgapp.live/play/zufree-559.php?c=11.m3u8&blck
+#EXTINF:-1 group-title="CINE", STUDIO UNIVERSAL
+http://bgapp.live/play/zufree-559.php?c=12.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", TNT SERIES
+http://bgapp.live/play/zufree-559.php?c=13.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", E!
+http://bgapp.live/play/zufree-559.php?c=14.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", COMEDY CENTRAL
+http://bgapp.live/play/zufree-559.php?c=15.m3u8&blck
+#EXTINF:-1 group-title="CONOCIMIENTO", HISTORY CHANNEL
+http://bgapp.live/play/zufree-559.php?c=16.m3u8&blck
+#EXTINF:-1 group-title="CONOCIMIENTO", NATIONAL GEOGRAPHIC
+http://bgapp.live/play/zufree-559.php?c=17.m3u8&blck
+#EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY CHANNEL
+http://bgapp.live/play/zufree-559.php?c=18.m3u8&blck
+#EXTINF:-1 group-title="CONOCIMIENTO", ANIMAL PLANET
+http://bgapp.live/play/zufree-559.php?c=19.m3u8&blck
+#EXTINF:-1 group-title="KIDS", NICK JR
+http://bgapp.live/play/zufree-559.php?c=20.m3u8&blck
+#EXTINF:-1 group-title="KIDS", DISCOVERY KIDS
+http://bgapp.live/play/zufree-559.php?c=21.m3u8&blck
+#EXTINF:-1 group-title="KIDS", DISNEY JUNIOR
+http://bgapp.live/play/zufree-559.php?c=22.m3u8&blck
+#EXTINF:-1 group-title="KIDS", NICKELODEON
+http://bgapp.live/play/zufree-559.php?c=23.m3u8&blck
+#EXTINF:-1 group-title="KIDS", DISNEY CHANNEL
+http://bgapp.live/play/zufree-559.php?c=25.m3u8&blck
+#EXTINF:-1 group-title="DEPORTES", ESPN 3
+http://bgapp.live/play/zufree-559.php?c=26.m3u8&blck
+#EXTINF:-1 group-title="DEPORTES", ESPN 2
+http://bgapp.live/play/zufree-559.php?c=27.m3u8&blck
+#EXTINF:-1 group-title="DEPORTES", ESPN
+http://bgapp.live/play/zufree-559.php?c=28.m3u8&blck
+#EXTINF:-1 group-title="DEPORTES", CLARO SPORT
+http://bgapp.live/play/zufree-559.php?c=29.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", HOLA TV
+http://bgapp.live/play/zufree-559.php?c=30.m3u8&blck
+#EXTINF:-1 group-title="CINE", TNT
+http://bgapp.live/play/zufree-559.php?c=31.m3u8&blck
+#EXTINF:-1 group-title="CINE PREMIUM", HBO 2
+http://bgapp.live/play/zufree-559.php?c=32.m3u8&blck
+#EXTINF:-1 group-title="CINE PREMIUM", HBO FAMILY
+http://bgapp.live/play/zufree-559.php?c=33.m3u8&blck
+#EXTINF:-1 group-title="CINE PREMIUM", HBO XTREME
+http://bgapp.live/play/zufree-559.php?c=35.m3u8&blck
+#EXTINF:-1 group-title="KIDS", BABY TV
+http://bgapp.live/play/zufree-559.php?c=36.m3u8&blck
+#EXTINF:-1 group-title="KIDS", CARTOONITO
+http://bgapp.live/play/zufree-559.php?c=37.m3u8&blck
+#EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES
+http://bgapp.live/play/zufree-559.php?c=39.m3u8&blck
+#EXTINF:-1 group-title="CONOCIMIENTO", NET GEO
+http://bgapp.live/play/zufree-559.php?c=40.m3u8&blck
+#EXTINF:-1 group-title="CINE", SPACE MX
+http://bgapp.live/play/zufree-559.php?c=41.m3u8&blck
+#EXTINF:-1 group-title="MUSICA", MTV HITLIST
+http://bgapp.live/play/zufree-559.php?c=42.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN",  MTV
+http://bgapp.live/play/zufree-559.php?c=43.m3u8&blck
+#EXTINF:-1 group-title="MUSICA",  MTV 00S
+http://bgapp.live/play/zufree-559.php?c=44.m3u8&blck
+#EXTINF:-1 group-title="MUSICA", VIDEO ROLA
+http://bgapp.live/play/zufree-559.php?c=45.m3u8&blck
+#EXTINF:-1 group-title="USA", FOODN
+http://bgapp.live/play/zufree-559.php?c=46.m3u8&blck
+#EXTINF:-1 group-title="USA", DISCOVERY FAMILY
+http://bgapp.live/play/zufree-559.php?c=47.m3u8&blck
+#EXTINF:-1 group-title="USA",  BRAVO TV
+http://bgapp.live/play/zufree-559.php?c=48.m3u8&blck
+#EXTINF:-1 group-title="INFORMACIÓN", [SD:] NOTICIA - CNN
+http://bgapp.live/play/zufree-559.php?c=49.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", ATRES
+http://bgapp.live/play/zufree-559.php?c=50.m3u8&blck
+#EXTINF:-1 group-title="LOCALES", [SD:] MEXICO - AZTECA 7
+http://bgapp.live/play/zufree-559.php?c=51.m3u8&blck
+#EXTINF:-1 group-title="LOCALES", [SD:] MEXICO - IMAGEN
+http://bgapp.live/play/zufree-559.php?c=52.m3u8&blck
+#EXTINF:-1 group-title="LOCALES", [SD:] MEXICO - CANAL 22
+http://bgapp.live/play/zufree-559.php?c=53.m3u8&blck
+#EXTINF:-1 group-title="LOCALES", [SD:] MEXICO - ONCE TV MX
+http://bgapp.live/play/zufree-559.php?c=54.m3u8&blck
+#EXTINF:-1 group-title="DEPORTES", MLB
+http://bgapp.live/play/zufree-559.php?c=55.m3u8&blck
+#EXTINF:-1 group-title="DEPORTES", NBA
+http://bgapp.live/play/zufree-559.php?c=56.m3u8&blck
+#EXTINF:-1 group-title="DEPORTES", FOX SPORT 3
+http://bgapp.live/play/zufree-559.php?c=57.m3u8&blck
+#EXTINF:-1 group-title="DEPORTES",  ESPN 1
+http://bgapp.live/play/zufree-559.php?c=58.m3u8&blck
+#EXTINF:-1 group-title="DEPORTES", ESPN EXTRA
+http://bgapp.live/play/zufree-559.php?c=59.m3u8&blck
+#EXTINF:-1 group-title="DEPORTES", ESPN 2
+http://bgapp.live/play/zufree-559.php?c=60.m3u8&blck
+#EXTINF:-1 group-title="Lista 04", MULTIMEDIOS MTY
+http://bgapp.live/play/zufree-559.php?c=61.m3u8&blck
+#EXTINF:-1 group-title="INFORMACIÓN", [SD:] NOTICIA - EL FINANCIERO
+http://bgapp.live/play/zufree-559.php?c=62.m3u8&blck
+#EXTINF:-1 group-title="INFORMACIÓN", [SD:] NOTICIA - DW
+http://bgapp.live/play/zufree-559.php?c=63.m3u8&blck
+#EXTINF:-1 group-title="CINE", CINEMAX
+http://bgapp.live/play/zufree-559.php?c=65.m3u8&blck
+#EXTINF:-1 group-title="CINE", CINECANAL
+http://bgapp.live/play/zufree-559.php?c=66.m3u8&blck
+#EXTINF:-1 group-title="CINE", CINE LATINO
+http://bgapp.live/play/zufree-559.php?c=68.m3u8&blck
+#EXTINF:-1 group-title="CINE", ISAT
+http://bgapp.live/play/zufree-559.php?c=69.m3u8&blck
+#EXTINF:-1 group-title="CINE", PARAMOOUNT
+http://bgapp.live/play/zufree-559.php?c=70.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", [SD:] ENTRETE -PASIONES
+http://bgapp.live/play/zufree-559.php?c=72.m3u8&blck
+#EXTINF:-1 group-title="CINE PREMIUM", GOLDEN PREMIER
+http://bgapp.live/play/zufree-559.php?c=73.m3u8&blck
+#EXTINF:-1 group-title="CINE PREMIUM", HBO 1
+http://bgapp.live/play/zufree-559.php?c=80.m3u8&blck
+#EXTINF:-1 group-title="CINE PREMIUM", HBO Plus
+http://bgapp.live/play/zufree-559.php?c=81.m3u8&blck
+#EXTINF:-1 group-title="LOCALES", [SD:] MEXICO - AZTECA UNO
+http://bgapp.live/play/zufree-559.php?c=82.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", [SD:] ENTRE - LIFETIME
+http://bgapp.live/play/zufree-559.php?c=83.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", [HD:] ENTRE - UNICABLE
+http://bgapp.live/play/zufree-559.php?c=84.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", [SD:] ENTRE - UNIMAS
+http://bgapp.live/play/zufree-559.php?c=85.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", [SD:] ENTRE - GALAVISION
+http://bgapp.live/play/zufree-559.php?c=86.m3u8&blck
+#EXTINF:-1 group-title="CINE", MC
+http://bgapp.live/play/zufree-559.php?c=87.m3u8&blck
+#EXTINF:-1 group-title="CINE", MULTIPREMIER
+http://bgapp.live/play/zufree-559.php?c=88.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", [SD:] ENTRE - TELENOVELA PR
+http://bgapp.live/play/zufree-559.php?c=89.m3u8&blck
+#EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY TURBO
+http://bgapp.live/play/zufree-559.php?c=90.m3u8&blck
+#EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY H&H
+http://bgapp.live/play/zufree-559.php?c=91.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", DISCOVERY ID
+http://bgapp.live/play/zufree-559.php?c=92.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN", DISCOVERY TLC
+http://bgapp.live/play/zufree-559.php?c=93.m3u8&blck
+#EXTINF:-1 group-title="CONOCIMIENTO", [HD:] CULTURA - DISCOVERY THEATER
+http://bgapp.live/play/zufree-559.php?c=94.m3u8&blck
+#EXTINF:-1 group-title="CONOCIMIENTO", H2
+http://bgapp.live/play/zufree-559.php?c=95.m3u8&blck
+#EXTINF:-1 group-title="LOCALES", [SD:] MEXICO - CANAL 5 SD
+http://bgapp.live/play/zufree-559.php?c=96.m3u8&blck
+#EXTINF:-1 group-title="LOCALES", [SD:] MEXICO - LAS ESTRELLAS
+http://bgapp.live/play/zufree-559.php?c=97.m3u8&blck
+#EXTINF:-1 group-title="ENTRETENCIÓN",  UNIVERSO
+http://bgapp.live/play/zufree-559.php?c=99.m3u8&blck
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORT 720 HD
+http://bgapp.live/play/zufree-559.php?c=100.m3u8&blck
+#EXTINF:-1 group-title="DEPORTES",  NBCSN
+http://bgapp.live/play/zufree-559.php?c=101.m3u8&blck
+#EXTINF:-1 group-title="DEPORTES", FOX SPORT  premium mx
+http://bgapp.live/play/zufree-559.php?c=102.m3u8&blck
+#EXTINF:-1 group-title="DEPORTES", FOX SPORT 2
+http://bgapp.live/play/zufree-559.php?c=103.m3u8&blck
+#EXTINF:-1 group-title="DEPORTES", ESPN 3
+http://bgapp.live/play/zufree-559.php?c=104.m3u8&blck
+#EXTINF:-1 group-title="CINE", SD:] ENTRETE - FILM ART
+http://bgapp.live/play/zufree-559.php?c=106.m3u8&blck
+#EXTINF:-1 group-title="CINE", MULTICINEMA
+http://bgapp.live/play/zufree-559.php?c=107.m3u8&blck
 
 
 #EXTINF:-1  group-title="LOCALES", Azteca 7
-http://bgapp.live/play/tvhd-559.php?id=1&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=1&k=&file=.m3u8
 #EXTINF:-1  group-title="LOCALES", Canal5
-http://bgapp.live/play/tvhd-559.php?id=2&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=2&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", TUDN
-http://bgapp.live/play/tvhd-559.php?id=3&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=3&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Latina
-http://bgapp.live/play/tvhd-559.php?id=4&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=4&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", AmericaTV
-http://bgapp.live/play/tvhd-559.php?id=5&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=5&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Gol Peru
-http://bgapp.live/play/tvhd-559.php?id=6&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=6&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", GolTV
-http://bgapp.live/play/tvhd-559.php?id=7&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=7&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", WinSports
-http://bgapp.live/play/tvhd-559.php?id=8&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=8&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", TNT Sports
-http://bgapp.live/play/tvhd-559.php?id=9&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=9&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", FoxSports
-http://bgapp.live/play/tvhd-559.php?id=10&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=10&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", TYCSports
-http://bgapp.live/play/tvhd-559.php?id=11&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=11&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", FoxSports
-http://bgapp.live/play/tvhd-559.php?id=12&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=12&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Fox Sports Mexico 3
-http://bgapp.live/play/tvhd-559.php?id=13&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=13&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Espn Deportes
-http://bgapp.live/play/tvhd-559.php?id=16&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=16&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Espn
-http://bgapp.live/play/tvhd-559.php?id=17&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=17&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Espn 2
-http://bgapp.live/play/tvhd-559.php?id=18&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=18&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", espn3
-http://bgapp.live/play/tvhd-559.php?id=19&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=19&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Fox Sports 2
-http://bgapp.live/play/tvhd-559.php?id=20&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=20&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", DirectvSports
-http://bgapp.live/play/tvhd-559.php?id=21&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=21&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Fox Sports Mexico
-http://bgapp.live/play/tvhd-559.php?id=22&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=22&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Bein La Liga
-http://bgapp.live/play/tvhd-559.php?id=23&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=23&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Fox Sports Premium
-http://bgapp.live/play/tvhd-559.php?id=24&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=24&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Fox Sports Mexico 2
-http://bgapp.live/play/tvhd-559.php?id=25&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=25&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Fox Sports 3
-http://bgapp.live/play/tvhd-559.php?id=26&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=26&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", ESPN
-http://bgapp.live/play/tvhd-559.php?id=27&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=27&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Espn 2 Mexico
-http://bgapp.live/play/tvhd-559.php?id=28&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=28&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Espn3Mexico
-http://bgapp.live/play/tvhd-559.php?id=29&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=29&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Afizzionados
-http://bgapp.live/play/tvhd-559.php?id=30&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=30&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE PREMIUM", HBO Family
-http://bgapp.live/play/tvhd-559.php?id=34&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=34&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE PREMIUM", HBO EXTREM
-http://bgapp.live/play/tvhd-559.php?id=35&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=35&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Espn Mexico
-http://bgapp.live/play/tvhd-559.php?id=36&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=36&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", EspnPlus
-http://bgapp.live/play/tvhd-559.php?id=37&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=37&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", DPelicula
-http://bgapp.live/play/tvhd-559.php?id=38&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=38&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", Space
-http://bgapp.live/play/tvhd-559.php?id=39&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=39&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", WarnerBrosTV HD
-http://bgapp.live/play/tvhd-559.php?id=40&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=40&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", TNT
-http://bgapp.live/play/tvhd-559.php?id=41&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=41&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Star Channel
-http://bgapp.live/play/tvhd-559.php?id=42&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=42&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", Cinemax
-http://bgapp.live/play/tvhd-559.php?id=43&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=43&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", Cinecanal
-http://bgapp.live/play/tvhd-559.php?id=44&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=44&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Telefe
-http://bgapp.live/play/tvhd-559.php?id=45&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=45&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", ElTrece
-http://bgapp.live/play/tvhd-559.php?id=46&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=46&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Distrito Comedia
-http://bgapp.live/play/tvhd-559.php?id=47&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=47&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", TeleMundo
-http://bgapp.live/play/tvhd-559.php?id=48&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=48&k=&file=.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", History
-http://bgapp.live/play/tvhd-559.php?id=49&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=49&k=&file=.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", History2
-http://bgapp.live/play/tvhd-559.php?id=50&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=50&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Pasiones
-http://bgapp.live/play/tvhd-559.php?id=51&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=51&k=&file=.m3u8
 #EXTINF:-1  group-title="LOCALES", Azteca Uno
-http://bgapp.live/play/tvhd-559.php?id=52&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=52&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", AzMundo
-http://bgapp.live/play/tvhd-559.php?id=53&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=53&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", Cinema Inolvidable
-http://bgapp.live/play/tvhd-559.php?id=54&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=54&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Galavision
-http://bgapp.live/play/tvhd-559.php?id=55&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=55&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Tlnovelas
-http://bgapp.live/play/tvhd-559.php?id=56&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=56&k=&file=.m3u8
 #EXTINF:-1  group-title="LOCALES", Canal Estrellas
-http://bgapp.live/play/tvhd-559.php?id=57&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=57&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Syfy
-http://bgapp.live/play/tvhd-559.php?id=58&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=58&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Caracol
-http://bgapp.live/play/tvhd-559.php?id=59&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=59&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", ATV
-http://bgapp.live/play/tvhd-559.php?id=61&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=61&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Unicable
-http://bgapp.live/play/tvhd-559.php?id=63&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=63&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Unimas
-http://bgapp.live/play/tvhd-559.php?id=64&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=64&k=&file=.m3u8
 #EXTINF:-1  group-title="LOCALES", ImagenTV
-http://bgapp.live/play/tvhd-559.php?id=65&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=65&k=&file=.m3u8
 #EXTINF:-1  group-title="INFORMACIÓN", CNN EspaÃƒÂ±ol
-http://bgapp.live/play/tvhd-559.php?id=66&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=66&k=&file=.m3u8
 #EXTINF:-1  group-title="INFORMACIÓN", RT NOTICIAS
-http://bgapp.live/play/tvhd-559.php?id=67&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=67&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE PREMIUM", Universal Reality
-http://bgapp.live/play/tvhd-559.php?id=68&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=68&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", FX
-http://bgapp.live/play/tvhd-559.php?id=70&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=70&k=&file=.m3u8
 #EXTINF:-1  group-title="24/7", Don Gato y su Pandilla 24/7
-http://bgapp.live/play/tvhd-559.php?id=71&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=71&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", WarnerBrosTV
-http://bgapp.live/play/tvhd-559.php?id=72&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=72&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", Golden
-http://bgapp.live/play/tvhd-559.php?id=73&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=73&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", GOLDEN EDGE
-http://bgapp.live/play/tvhd-559.php?id=74&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=74&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE PREMIUM", GOLDEN PREMIER
-http://bgapp.live/play/tvhd-559.php?id=75&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=75&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", TNTSeries
-http://bgapp.live/play/tvhd-559.php?id=76&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=76&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Sony Channel
-http://bgapp.live/play/tvhd-559.php?id=77&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=77&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", AXN
-http://bgapp.live/play/tvhd-559.php?id=78&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=78&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Universal Channel
-http://bgapp.live/play/tvhd-559.php?id=79&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=79&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", Studio Universal
-http://bgapp.live/play/tvhd-559.php?id=80&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=80&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", MULTI PREMIER
-http://bgapp.live/play/tvhd-559.php?id=81&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=81&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", AMC
-http://bgapp.live/play/tvhd-559.php?id=82&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=82&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", PARAMOUNT SD
-http://bgapp.live/play/tvhd-559.php?id=83&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=83&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", CineLatino
-http://bgapp.live/play/tvhd-559.php?id=84&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=84&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", SAT
-http://bgapp.live/play/tvhd-559.php?id=86&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=86&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", MTV
-http://bgapp.live/play/tvhd-559.php?id=87&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=87&k=&file=.m3u8
 #EXTINF:-1  group-title="MUSICA", MTV HIT
-http://bgapp.live/play/tvhd-559.php?id=88&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=88&k=&file=.m3u8
 #EXTINF:-1  group-title="MUSICA", HTV
-http://bgapp.live/play/tvhd-559.php?id=89&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=89&k=&file=.m3u8
 #EXTINF:-1  group-title="MUSICA", BANDMAX
-http://bgapp.live/play/tvhd-559.php?id=90&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=90&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Comedy Central
-http://bgapp.live/play/tvhd-559.php?id=91&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=91&k=&file=.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", NatGeo
-http://bgapp.live/play/tvhd-559.php?id=92&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=92&k=&file=.m3u8
 #EXTINF:-1  group-title="24/7", Mi Bella Genio 24/7
-http://bgapp.live/play/tvhd-559.php?id=93&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=93&k=&file=.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", Animal Planet
-http://bgapp.live/play/tvhd-559.php?id=94&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=94&k=&file=.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", DiscoveryChannel
-http://bgapp.live/play/tvhd-559.php?id=95&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=95&k=&file=.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", Discovery Turbo
-http://bgapp.live/play/tvhd-559.php?id=96&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=96&k=&file=.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", Discovery HYH
-http://bgapp.live/play/tvhd-559.php?id=97&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=97&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", IDInvestigation
-http://bgapp.live/play/tvhd-559.php?id=98&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=98&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", A&E
-http://bgapp.live/play/tvhd-559.php?id=99&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=99&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", TLC
-http://bgapp.live/play/tvhd-559.php?id=100&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=100&k=&file=.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", Discovery World
-http://bgapp.live/play/tvhd-559.php?id=102&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=102&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", !E
-http://bgapp.live/play/tvhd-559.php?id=103&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=103&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", LifeTime
-http://bgapp.live/play/tvhd-559.php?id=104&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=104&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", TBS
-http://bgapp.live/play/tvhd-559.php?id=105&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=105&k=&file=.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", El Gourmet
-http://bgapp.live/play/tvhd-559.php?id=106&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=106&k=&file=.m3u8
 #EXTINF:-1  group-title="KIDS", Disney Channel
-http://bgapp.live/play/tvhd-559.php?id=107&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=107&k=&file=.m3u8
 #EXTINF:-1  group-title="LOCALES", LasEstrellas
-http://bgapp.live/play/tvhd-559.php?id=108&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=108&k=&file=.m3u8
 #EXTINF:-1  group-title="KIDS", Disney Junior
-http://bgapp.live/play/tvhd-559.php?id=109&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=109&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", PARAMOUNT PLUS
-http://bgapp.live/play/tvhd-559.php?id=110&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=110&k=&file=.m3u8
 #EXTINF:-1  group-title="KIDS", Nick
-http://bgapp.live/play/tvhd-559.php?id=112&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=112&k=&file=.m3u8
 #EXTINF:-1  group-title="24/7", Chapulin Colorado 24/7
-http://bgapp.live/play/tvhd-559.php?id=113&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=113&k=&file=.m3u8
 #EXTINF:-1  group-title="KIDS", Cartoon Network
-http://bgapp.live/play/tvhd-559.php?id=114&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=114&k=&file=.m3u8
 #EXTINF:-1  group-title="KIDS", CartoonITO
-http://bgapp.live/play/tvhd-559.php?id=115&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=115&k=&file=.m3u8
 #EXTINF:-1  group-title="KIDS", Tooncast
-http://bgapp.live/play/tvhd-559.php?id=116&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=116&k=&file=.m3u8
 #EXTINF:-1  group-title="KIDS", Discovery Kids
-http://bgapp.live/play/tvhd-559.php?id=117&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=117&k=&file=.m3u8
 #EXTINF:-1  group-title="INFORMACIÓN", CGTN ESPANOL
-http://bgapp.live/play/tvhd-559.php?id=118&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=118&k=&file=.m3u8
 #EXTINF:-1  group-title="KIDS", Boing
-http://bgapp.live/play/tvhd-559.php?id=119&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=119&k=&file=.m3u8
 #EXTINF:-1  group-title="MUSICA", MTV CLASICC
-http://bgapp.live/play/tvhd-559.php?id=121&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=121&k=&file=.m3u8
 #EXTINF:-1  group-title="MUSICA", Telehit
-http://bgapp.live/play/tvhd-559.php?id=122&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=122&k=&file=.m3u8
 #EXTINF:-1  group-title="MUSICA", TopLatino
-http://bgapp.live/play/tvhd-559.php?id=123&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=123&k=&file=.m3u8
 #EXTINF:-1  group-title="XXX", BrazzerTV
-http://bgapp.live/play/tvhd-559.php?id=124&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=124&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", NBA TV
-http://bgapp.live/play/tvhd-559.php?id=125&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=125&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Clic
-http://bgapp.live/play/tvhd-559.php?id=127&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=127&k=&file=.m3u8
 #EXTINF:-1  group-title="24/7", Alf 24/7
-http://bgapp.live/play/tvhd-559.php?id=128&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=128&k=&file=.m3u8
 #EXTINF:-1  group-title="24/7", Digimon 24/7
-http://bgapp.live/play/tvhd-559.php?id=129&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=129&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", A3SERIES
-http://bgapp.live/play/tvhd-559.php?id=130&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=130&k=&file=.m3u8
 #EXTINF:-1  group-title="KIDS", BITME
-http://bgapp.live/play/tvhd-559.php?id=131&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=131&k=&file=.m3u8
 #EXTINF:-1  group-title="LOCALES", CANAL 11
-http://bgapp.live/play/tvhd-559.php?id=132&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=132&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", MLB TV
-http://bgapp.live/play/tvhd-559.php?id=134&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=134&k=&file=.m3u8
 #EXTINF:-1  group-title="XXX", BrazzerTV SD
-http://bgapp.live/play/tvhd-559.php?id=135&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=135&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Hola TV
-http://bgapp.live/play/tvhd-559.php?id=136&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=136&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", ESPN 4
-http://bgapp.live/play/tvhd-559.php?id=138&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=138&k=&file=.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", Discovery SCI
-http://bgapp.live/play/tvhd-559.php?id=139&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=139&k=&file=.m3u8
 #EXTINF:-1  group-title="XXX", SEXETREM
-http://bgapp.live/play/tvhd-559.php?id=144&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=144&k=&file=.m3u8
 #EXTINF:-1  group-title="XXX", PLAYBOY
-http://bgapp.live/play/tvhd-559.php?id=145&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=145&k=&file=.m3u8
 #EXTINF:-1  group-title="24/7", SOUTHPARK 24/7
-http://bgapp.live/play/tvhd-559.php?id=146&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=146&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", ESPN U
-http://bgapp.live/play/tvhd-559.php?id=148&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=148&k=&file=.m3u8
 #EXTINF:-1  group-title="24/7", CHAVO DEL 8 24/7
-http://bgapp.live/play/tvhd-559.php?id=150&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=150&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", NFL NETWORK
-http://bgapp.live/play/tvhd-559.php?id=151&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=151&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", TCM
-http://bgapp.live/play/tvhd-559.php?id=152&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=152&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Willax
-http://bgapp.live/play/tvhd-559.php?id=153&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=153&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", NBC
-http://bgapp.live/play/tvhd-559.php?id=164&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=164&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", ESPN 4
-http://bgapp.live/play/tvhd-559.php?id=167&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=167&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", PANAMERICANA
-http://bgapp.live/play/tvhd-559.php?id=167&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=167&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", UNIMAS
-http://bgapp.live/play/tvhd-559.php?id=179&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=179&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", RCN NOVELAS
-http://bgapp.live/play/tvhd-559.php?id=190&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=190&k=&file=.m3u8
 #EXTINF:-1  group-title="24/7", DragonBallSuper24/7
-http://bgapp.live/play/tvhd-559.php?id=191&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=191&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", RCN
-http://bgapp.live/play/tvhd-559.php?id=193&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=193&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", M DEPORTES
-http://bgapp.live/play/tvhd-559.php?id=194&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=194&k=&file=.m3u8
 #EXTINF:-1  group-title="24/7", DORAIMON 24/7
-http://bgapp.live/play/tvhd-559.php?id=195&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=195&k=&file=.m3u8
 #EXTINF:-1  group-title="24/7", Terror 24/7
-http://bgapp.live/play/tvhd-559.php?id=196&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=196&k=&file=.m3u8
 #EXTINF:-1  group-title="INFORMACIÓN", CanalN
-http://bgapp.live/play/tvhd-559.php?id=197&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=197&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Azteca Corazon
-http://bgapp.live/play/tvhd-559.php?id=198&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=198&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", SportTV
-http://bgapp.live/play/tvhd-559.php?id=199&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=199&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", TUDN HD
-http://bgapp.live/play/tvhd-559.php?id=200&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=200&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", TigoSportsBolivia
-http://bgapp.live/play/tvhd-559.php?id=201&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=201&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", Golden
-http://bgapp.live/play/tvhd-559.php?id=202&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=202&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", TUDN
-http://bgapp.live/play/tvhd-559.php?id=205&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=205&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE PREMIUM", HBO
-http://bgapp.live/play/tvhd-559.php?id=207&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=207&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE PREMIUM", HBO 2
-http://bgapp.live/play/tvhd-559.php?id=209&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=209&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", TNT
-http://bgapp.live/play/tvhd-559.php?id=214&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=214&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", TNT HD
-http://bgapp.live/play/tvhd-559.php?id=222&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=222&k=&file=.m3u8
 #EXTINF:-1  group-title="CINE", CINECANAL
-http://bgapp.live/play/tvhd-559.php?id=223&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=223&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", FOX SPORT
-http://bgapp.live/play/tvhd-559.php?id=224&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=224&k=&file=.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", Discovery H&H
-http://bgapp.live/play/tvhd-559.php?id=229&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=229&k=&file=.m3u8
 #EXTINF:-1  group-title="CONOCIMIENTO", Discovery SCI
-http://bgapp.live/play/tvhd-559.php?id=230&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=230&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", GALAVISION
-http://bgapp.live/play/tvhd-559.php?id=238&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=238&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Fox Sport 2
-http://bgapp.live/play/tvhd-559.php?id=247&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=247&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Fox Sport 3
-http://bgapp.live/play/tvhd-559.php?id=248&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=248&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", ESPN 2
-http://bgapp.live/play/tvhd-559.php?id=250&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=250&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", ESPN 3 COMPAQ
-http://bgapp.live/play/tvhd-559.php?id=251&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=251&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", TNT SPORT 2
-http://bgapp.live/play/tvhd-559.php?id=254&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=254&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Fox Sport
-http://bgapp.live/play/tvhd-559.php?id=255&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=255&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Fox Sport 3
-http://bgapp.live/play/tvhd-559.php?id=256&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=256&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Direct TV Sport 2
-http://bgapp.live/play/tvhd-559.php?id=257&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=257&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", TyC Sport
-http://bgapp.live/play/tvhd-559.php?id=258&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=258&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Caracol
-http://bgapp.live/play/tvhd-559.php?id=259&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=259&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", WinSportsPlus
-http://bgapp.live/play/tvhd-559.php?id=260&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=260&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Sony
-http://bgapp.live/play/tvhd-559.php?id=266&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=266&k=&file=.m3u8
 #EXTINF:-1  group-title="KIDS", Cartoon Network
-http://bgapp.live/play/tvhd-559.php?id=269&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=269&k=&file=.m3u8
 #EXTINF:-1  group-title="KIDS", Disney
-http://bgapp.live/play/tvhd-559.php?id=270&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=270&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", TeleMundo 52
-http://bgapp.live/play/tvhd-559.php?id=271&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=271&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", America TV
-http://bgapp.live/play/tvhd-559.php?id=274&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=274&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", EuroSport
-http://bgapp.live/play/tvhd-559.php?id=275&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=275&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", Toros
-http://bgapp.live/play/tvhd-559.php?id=289&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=289&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Nova
-http://bgapp.live/play/tvhd-559.php?id=298&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=298&k=&file=.m3u8
 #EXTINF:-1  group-title="INFORMACIÓN", 24 Horas
-http://bgapp.live/play/tvhd-559.php?id=301&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=301&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Ecuavisa Ecuador
-http://bgapp.live/play/tvhd-559.php?id=311&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=311&k=&file=.m3u8
 #EXTINF:-1  group-title="DEPORTES", M Dportes
-http://bgapp.live/play/tvhd-559.php?id=312&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=312&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", RTS Noticias
-http://bgapp.live/play/tvhd-559.php?id=313&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=313&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", TeleAmazonas Ecuador
-http://bgapp.live/play/tvhd-559.php?id=314&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=314&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Canal 7 Ecuador
-http://bgapp.live/play/tvhd-559.php?id=315&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=315&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", TC Ecuador
-http://bgapp.live/play/tvhd-559.php?id=316&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=316&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", OroMarTv Chile
-http://bgapp.live/play/tvhd-559.php?id=317&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=317&k=&file=.m3u8
 #EXTINF:-1  group-title="24/7", LosSimpson 24/7
-http://bgapp.live/play/tvhd-559.php?id=329&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=329&k=&file=.m3u8
 #EXTINF:-1  group-title="MUSICA", Nick Music
-http://bgapp.live/play/tvhd-559.php?id=331&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=331&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", TL Novela Univision
-http://bgapp.live/play/tvhd-559.php?id=336&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=336&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Glitz
-http://bgapp.live/play/tvhd-559.php?id=339&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=339&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Gol Peru
-http://bgapp.live/play/tvhd-559.php?id=340&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=340&k=&file=.m3u8
 #EXTINF:-1  group-title="ENTRETENCIÓN", Wanner TV
-http://bgapp.live/play/tvhd-559.php?id=341&k=blackghooossst&file=.m3u8
+http://bgapp.live/play/tvhd-559.php?id=341&k=&file=.m3u8
 
 
-#EXTINF:-1  group-title="DEPORTES", Directv Sports
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/382.m3u8
-#EXTINF:-1  group-title="DEPORTES", Directv Sports 2
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/383.m3u8
-#EXTINF:-1  group-title="DEPORTES", Win sports
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/384.m3u8
-#EXTINF:-1  group-title="DEPORTES", Fox Sports Premium
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/385.m3u8
-#EXTINF:-1  group-title="DEPORTES", Fox Soccer plus
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/386.m3u8
-#EXTINF:-1  group-title="DEPORTES", La Liga
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/387.m3u8
-#EXTINF:-1  group-title="DEPORTES", Toros
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/388.m3u8
-#EXTINF:-1  group-title="DEPORTES", Tyc Sports
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/389.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", Discovery World
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/391.m3u8
-#EXTINF:-1  group-title="CINE", DePelicula Plus
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/392.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", TLNovelas
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/393.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", AzClic
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/394.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", AzMundo
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/395.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", TruTV
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/396.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Distrito Comedia
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/397.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", El Gourmet
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/398.m3u8
-#EXTINF:-1  group-title="24/7", Power Rangers Space 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/400.m3u8
-#EXTINF:-1  group-title="24/7", Thundercats 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/401.m3u8
-#EXTINF:-1  group-title="24/7", Le Temes a La Oscuridad 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/402.m3u8
-#EXTINF:-1  group-title="24/7", CatDog 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/403.m3u8
-#EXTINF:-1  group-title="24/7", Coraje Perro Cobarde 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/404.m3u8
-#EXTINF:-1  group-title="24/7", La Familia Peluche 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/405.m3u8
-#EXTINF:-1  group-title="24/7", Extranormal 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/406.m3u8
-#EXTINF:-1  group-title="24/7", Hey Arnold ! 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/407.m3u8
-#EXTINF:-1  group-title="24/7", Dr House 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/408.m3u8
-#EXTINF:-1  group-title="24/7", Ranma 1-2 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/409.m3u8
-#EXTINF:-1  group-title="24/7", Pokemon 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/410.m3u8
-#EXTINF:-1  group-title="24/7", Dinosaurios 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/411.m3u8
-#EXTINF:-1  group-title="24/7", Futurama 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/412.m3u8
-#EXTINF:-1  group-title="24/7", Dragon Ball Super 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/413.m3u8
-#EXTINF:-1  group-title="24/7", Los Simpsons 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/414.m3u8
-#EXTINF:-1  group-title="24/7", Chespirito 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/415.m3u8
-#EXTINF:-1  group-title="24/7", Malcom 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/417.m3u8
-#EXTINF:-1  group-title="24/7", Chavo Animado 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/418.m3u8
-#EXTINF:-1  group-title="24/7", SuperCampeones 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/419.m3u8
-#EXTINF:-1  group-title="USA", USA: CNN
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/420.m3u8
-#EXTINF:-1  group-title="24/7", Acapulco Shore 24-7
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/399.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", Discovery Sciense
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/421.m3u8
-#EXTINF:-1  group-title="USA", USA: Discovery Science 
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/422.m3u8
-#EXTINF:-1  group-title="USA", USA: Sportsnet Pittsburgh
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/423.m3u8
-#EXTINF:-1  group-title="USA", mlb network
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/542.m3u8
-#EXTINF:-1  group-title="USA", US: FOX SPORTS SAN DIEGO | HD
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/81.m3u8
-#EXTINF:-1  group-title="USA", US: FOX SPORTS SPORTSTIME OHIO | HD*
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/82.m3u8
-#EXTINF:-1  group-title="USA", US: Fox Sports (South East) HD
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/83.m3u8
-#EXTINF:-1  group-title="USA", US: Fox Sports (South West) HD
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/84.m3u8
-#EXTINF:-1  group-title="USA", US: FOX SPORTS MIDWEST | HD
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/85.m3u8
-#EXTINF:-1  group-title="USA", US: ABC New York
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/1.m3u8
-#EXTINF:-1  group-title="USA", US: CBS New York
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/2.m3u8
-#EXTINF:-1  group-title="USA", US: NBC New York
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/3.m3u8
-#EXTINF:-1  group-title="USA", US: FOX New York
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/4.m3u8
-#EXTINF:-1  group-title="USA", US: ABC Los Angeles
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/5.m3u8
-#EXTINF:-1  group-title="USA", US: CBS Los Angeles
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/6.m3u8
-#EXTINF:-1  group-title="USA", US: NBC Los Angeles
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/7.m3u8
-#EXTINF:-1  group-title="USA", US: FOX Los Angeles
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/8.m3u8
-#EXTINF:-1  group-title="USA", US: ABC Denver
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/9.m3u8
-#EXTINF:-1  group-title="USA", US: CBS Denver
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/10.m3u8
-#EXTINF:-1  group-title="USA", US: NBC Denver
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/11.m3u8
-#EXTINF:-1  group-title="USA", US: FOX Denver
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/12.m3u8
-#EXTINF:-1  group-title="USA", US: ABC Chicago
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/13.m3u8
-#EXTINF:-1  group-title="USA", US: CBS Chicago
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/14.m3u8
-#EXTINF:-1  group-title="USA", US: NBC Chicago
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/15.m3u8
-#EXTINF:-1  group-title="USA", US: FOX Chicago
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/16.m3u8
-#EXTINF:-1  group-title="USA", US: ABC Miami
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/17.m3u8
-#EXTINF:-1  group-title="USA", US: CBS Miami
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/18.m3u8
-#EXTINF:-1  group-title="USA", US: NBC Miami
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/19.m3u8
-#EXTINF:-1  group-title="USA", US: FOX Miami
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/20.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", PR | WAPA PR
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/21.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", WAPA2 PR
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/22.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", TELEMUNDO PR
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/23.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", PUNTO2 PR
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/24.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", MEGATV PR
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/25.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", TELE11 PR
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/26.m3u8
-#EXTINF:-1  group-title="USA", US: USA Network
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/28.m3u8
-#EXTINF:-1  group-title="DEPORTES", NHL NETWORK
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/29.m3u8
-#EXTINF:-1  group-title="DEPORTES", FISHING NETWORK
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/30.m3u8
-#EXTINF:-1  group-title="DEPORTES", MOVISTAR LaLiga
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/31.m3u8
-#EXTINF:-1  group-title="DEPORTES", (UK) SKY SPORTS PERMIERE LEAGUE
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/32.m3u8
-#EXTINF:-1  group-title="DEPORTES", (UK) SKY SPORTS F1
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/33.m3u8
-#EXTINF:-1  group-title="DEPORTES", (UK) SKY SPORTS MAIN EVENT
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/34.m3u8
-#EXTINF:-1  group-title="CINE", MX || Cinemax HD
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/35.m3u8
-#EXTINF:-1  group-title="DEPORTES", BOX NATION
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/36.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", TLENOVELAS UNIVISION
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/37.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", AZTECA CORAZON
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/38.m3u8
-#EXTINF:-1  group-title="24/7", 24-7|| El Chavo del 8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/39.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! La casa de Mickey Mouse
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/40.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! Cinema Navidad
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/41.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! Cinema Horror
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/42.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! Cinema Halloween
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/43.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! Cinema Actividad paranormal
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/44.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! Cinema Happy Madison
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/45.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! Cinema Ciencia Ficcion
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/46.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! Cinema Accion Classics
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/47.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! Cinema Lego Movies
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/48.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! Cinema Disney Live Action
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/49.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! Cinema Disney Pixar #1
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/50.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! Cinema Disney Pixar #2
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/51.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! Cinema Dreamworks #1
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/52.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! Cinema DC Universe
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/53.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! Cinema Marvel
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/54.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! Cinema Artes Marciales
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/55.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Play! Cinema La Risa en Vacaciones
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/56.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Vecinos
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/57.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || 40 y 20
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/58.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 || Nosotros Los Guapos
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/59.m3u8
-#EXTINF:-1  group-title="24/7", 24-7|| Peppa Pig
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/60.m3u8
-#EXTINF:-1  group-title="24/7", 24-7|| Halcones Galacticos
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/61.m3u8
-#EXTINF:-1  group-title="24/7", 24-7|| DRAGON BALL
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/62.m3u8
-#EXTINF:-1  group-title="24/7", 24-7 Rosa de Guadalupe
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/63.m3u8
-#EXTINF:-1  group-title="MUSICA", MX || Telehit Plus HD
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/64.m3u8
-#EXTINF:-1  group-title="MUSICA", MX | TeleHit Urbano ( RMS)
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/65.m3u8
-#EXTINF:-1  group-title="MUSICA", MX || BANDAMAX SD
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/66.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", ||ES3|| ANTENA 3 HD
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/67.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", CO | CARACOL
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/68.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", CO | RCN
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/69.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Claro | RAI
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/70.m3u8
-#EXTINF:-1  group-title="CONOCIMIENTO", US: Discovery Espa\u00f1ol
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/71.m3u8
-#EXTINF:-1  group-title="DEPORTES", ||ES3|| MOVISTAR F1 - DAZN
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/72.m3u8
-#EXTINF:-1  group-title="USA", USA | TSN 1
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/73.m3u8
-#EXTINF:-1  group-title="USA", US: ACC NETWORK | HD
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/74.m3u8
-#EXTINF:-1  group-title="USA", US: Fox News Channel
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/75.m3u8
-#EXTINF:-1  group-title="USA", USA | Spectrum Sportsnet LA Lakers
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/76.m3u8
-#EXTINF:-1  group-title="USA", US: OWN FHD
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/77.m3u8
-#EXTINF:-1  group-title="USA", US: Fox Sports (Arizona) HD
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/78.m3u8
-#EXTINF:-1  group-title="USA", US: FOX SPORTS DETROIT | HD
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/79.m3u8
-#EXTINF:-1  group-title="USA", US: FOX SPORTS FLORIDA | HD*
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/80.m3u8
-#EXTINF:-1  group-title="DEPORTES", WWE US
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/86.m3u8
-#EXTINF:-1  group-title="DEPORTES", TNT Sports 2 Chile
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/94.m3u8
-#EXTINF:-1  group-title="DEPORTES", ES||| EUROSPORT 1 HD
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/95.m3u8
-#EXTINF:-1  group-title="DEPORTES", ES||| EUROSPORT 2
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/96.m3u8
-#EXTINF:-1  group-title="KIDS", MX || Bitme SD
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/97.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN DEPORTES USA
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/523.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Galavision USA
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/524.m3u8
-#EXTINF:-1  group-title="DEPORTES", CBS Sports USA
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/525.m3u8
-#EXTINF:-1  group-title="USA", TNT USA
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/526.m3u8
-#EXTINF:-1  group-title="USA", BRAVO USA
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/527.m3u8
-#EXTINF:-1  group-title="DEPORTES", LIGA DE CAMPEONES
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/528.m3u8
-#EXTINF:-1  group-title="DEPORTES", TENNIS USA
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/529.m3u8
-#EXTINF:-1  group-title="USA", US: BT Sports UK
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/87.m3u8
-#EXTINF:-1  group-title="USA", US: NBC Sports Net
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/88.m3u8
-#EXTINF:-1  group-title="USA", US: Cowboy
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/89.m3u8
-#EXTINF:-1  group-title="USA", US: Hallmark
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/91.m3u8
-#EXTINF:-1  group-title="LOCALES", A+ (MX)
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/92.m3u8
-#EXTINF:-1  group-title="DEPORTES", TNT Sports
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/99.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", Telemundo UTAH
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/100.m3u8
-#EXTINF:-1  group-title="CINE", AMC MX
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/101.m3u8
-#EXTINF:-1  group-title="USA", MTV USA
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/103.m3u8
-#EXTINF:-1  group-title="ENTRETENCIÓN", TVE
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/106.m3u8
-#EXTINF:-1  group-title="CINE PREMIUM", MX Universal Premier
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/537.m3u8
-#EXTINF:-1  group-title="CINE PREMIUM", MX Universal Reality
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/538.m3u8
-#EXTINF:-1  group-title="CINE PREMIUM", Universal Comedy
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/539.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN ARGENTINA
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/107.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN 2 ARGENTINA
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/108.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN 3 ARGENTINA
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/109.m3u8
-#EXTINF:-1  group-title="USA", USA: Cinemax East
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/301.m3u8
-#EXTINF:-1  group-title="USA", USA: Cinemax Moremax
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/302.m3u8
-#EXTINF:-1  group-title="USA", USA: Cinemax West
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/303.m3u8
-#EXTINF:-1  group-title="USA", USA: HBO
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/304.m3u8
-#EXTINF:-1  group-title="USA", USA: HBO Signature
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/305.m3u8
-#EXTINF:-1  group-title="USA", USA: HBO Comedy
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/306.m3u8
-#EXTINF:-1  group-title="USA", USA: HBO East
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/307.m3u8
-#EXTINF:-1  group-title="USA", USA: HBO Family
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/308.m3u8
-#EXTINF:-1  group-title="USA", USA: HBO West
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/309.m3u8
-#EXTINF:-1  group-title="USA", USA: HBO 2
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/310.m3u8
-#EXTINF:-1  group-title="USA", USA: Showtime Women
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/311.m3u8
-#EXTINF:-1  group-title="USA", USA: Showtime Showcase
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/312.m3u8
-#EXTINF:-1  group-title="USA", USA: Showtime Next
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/313.m3u8
-#EXTINF:-1  group-title="USA", USA: Showtime Extreme
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/314.m3u8
-#EXTINF:-1  group-title="USA", USA: Showtime East
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/315.m3u8
-#EXTINF:-1  group-title="USA", USA: Showtime Beyond
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/316.m3u8
-#EXTINF:-1  group-title="USA", USA: Starz Comedy
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/317.m3u8
-#EXTINF:-1  group-title="USA", USA: Starz Cinema
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/318.m3u8
-#EXTINF:-1  group-title="USA", USA: Starz Encore Action
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/319.m3u8
-#EXTINF:-1  group-title="USA", USA: Starz Kids & Family
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/320.m3u8
-#EXTINF:-1  group-title="USA", USA: Starz Encore Western
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/321.m3u8
-#EXTINF:-1  group-title="USA", USA: Starz Encore Family
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/322.m3u8
-#EXTINF:-1  group-title="USA", USA: Starz in Black
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/323.m3u8
-#EXTINF:-1  group-title="USA", USA: Sony Movie Channel
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/324.m3u8
-#EXTINF:-1  group-title="USA", USA: American Heroes
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/325.m3u8
-#EXTINF:-1  group-title="USA", USA: The Weather Nation
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/327.m3u8
-#EXTINF:-1  group-title="USA", USA: AXS TV
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/328.m3u8
-#EXTINF:-1  group-title="USA", USA: Destination America
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/329.m3u8
-#EXTINF:-1  group-title="USA", USA: Pop Channel
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/330.m3u8
-#EXTINF:-1  group-title="USA", USA: Travel Channel
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/331.m3u8
-#EXTINF:-1  group-title="USA", USA: TruTv
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/332.m3u8
-#EXTINF:-1  group-title="USA", USA: Fuse
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/333.m3u8
-#EXTINF:-1  group-title="USA", USA: FX
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/334.m3u8
-#EXTINF:-1  group-title="USA", USA: Cinemax
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/335.m3u8
-#EXTINF:-1  group-title="USA", USA: Telemundo New York
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/336.m3u8
-#EXTINF:-1  group-title="USA", USA: Telemundo Los Angeles
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/337.m3u8
-#EXTINF:-1  group-title="USA", USA: Telemundo Chicago
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/338.m3u8
-#EXTINF:-1  group-title="USA", USA: Telemundo Houston
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/339.m3u8
-#EXTINF:-1  group-title="USA", USA: Telemundo Miami
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/340.m3u8
-#EXTINF:-1  group-title="USA", USA: Univision New York
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/341.m3u8
-#EXTINF:-1  group-title="USA", USA: Univision Los Angeles
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/342.m3u8
-#EXTINF:-1  group-title="USA", USA: Univision Chicago
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/343.m3u8
-#EXTINF:-1  group-title="USA", USA: Univision Houston
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/344.m3u8
-#EXTINF:-1  group-title="USA", USA: Univision Miami
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/345.m3u8
-#EXTINF:-1  group-title="USA", USA: NBC SN Washington
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/346.m3u8
-#EXTINF:-1  group-title="USA", USA: NBC SN Philadelphia
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/347.m3u8
-#EXTINF:-1  group-title="USA", USA: NBC SN Northwest
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/348.m3u8
-#EXTINF:-1  group-title="USA", USA: NBC SN Chicago
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/349.m3u8
-#EXTINF:-1  group-title="USA", USA: NBC SN California
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/350.m3u8
-#EXTINF:-1  group-title="USA", USA: NBC Sports By Area
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/351.m3u8
-#EXTINF:-1  group-title="USA", USA: PAC 12 Washington
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/352.m3u8
-#EXTINF:-1  group-title="USA", USA: PAC 12 Mountain
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/353.m3u8
-#EXTINF:-1  group-title="USA", USA: PAC 12 Los Angeles
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/354.m3u8
-#EXTINF:-1  group-title="USA", USA: PAC 12 By Area
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/355.m3u8
-#EXTINF:-1  group-title="USA", USA: RideTv
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/357.m3u8
-#EXTINF:-1  group-title="USA", USA: Stadium
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/358.m3u8
-#EXTINF:-1  group-title="USA", USA: Sportsnet West
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/359.m3u8
-#EXTINF:-1  group-title="USA", USA: Sportsnet NY
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/360.m3u8
-#EXTINF:-1  group-title="USA", USA: ESPN U
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/361.m3u8
-#EXTINF:-1  group-title="USA", USA: FS2
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/362.m3u8
-#EXTINF:-1  group-title="USA", USA: MSG
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/363.m3u8
-#EXTINF:-1  group-title="USA", USA: Yes Network
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/364.m3u8
-#EXTINF:-1  group-title="USA", USA: Eleven Sports
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/365.m3u8
-#EXTINF:-1  group-title="USA", USA: ESPN News
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/366.m3u8
-#EXTINF:-1  group-title="USA", Cartoon Network
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/367.m3u8
-#EXTINF:-1  group-title="USA", USA: Discovery Channel
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/368.m3u8
-#EXTINF:-1  group-title="USA", USA: CMT
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/369.m3u8
-#EXTINF:-1  group-title="USA", USA: AMC
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/370.m3u8
-#EXTINF:-1  group-title="USA", Sundance
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/371.m3u8
-#EXTINF:-1  group-title="USA", USA: SyFy
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/372.m3u8
-#EXTINF:-1  group-title="USA", USA: TBS
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/373.m3u8
-#EXTINF:-1  group-title="USA", USA: Lifetime
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/374.m3u8
-#EXTINF:-1  group-title="USA", USA: Estrella Tv
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/375.m3u8
-#EXTINF:-1  group-title="USA", USA: LongHorn Network
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/376.m3u8
-#EXTINF:-1  group-title="USA", USA: Dog TV
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/377.m3u8
-#EXTINF:-1  group-title="USA", USA: UFC Fight Pass
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/378.m3u8
-#EXTINF:-1  group-title="USA", USA: Sportsman
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/379.m3u8
-#EXTINF:-1  group-title="USA", USA: NESN Main Plus
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/380.m3u8
-#EXTINF:-1  group-title="USA", USA: TVG
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/381.m3u8
+#EXTINF:-1 group-title="Lista 08",A&E
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=1&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",AXN
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=2&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Animal Planet
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=3&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Az Corazon
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=4&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Az Mundo
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=5&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",AMC
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=6&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Antena 3 Internacional
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=7&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",BBC World
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=8&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Baby TV
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=9&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Bloomberg
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=10&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",CNN Espanol
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=11&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",CNN Internacional
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=12&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Cable Noticias
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=13&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Canal Claro
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=14&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Caracol
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=16&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Caracol Internacional
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=17&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Cartoon Network
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=18&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Cine Canal
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=19&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Cine Latino
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=20&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Cinema Dinamita
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=21&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Cinema Plus
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=22&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",City TV
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=23&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Claro Cinema
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=24&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Claro Music 2
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=26&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Claro Sports
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=27&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Claro Sports Latinoamerica
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=28&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Comedy Central
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=29&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",DHE
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=31&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",DW
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=32&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Concert Channel
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=30&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",DW America
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=33&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",De Pelicula Plus
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=34&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Discovery Channel
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=36&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Discovery Home and Health
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=37&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Discovery Kids
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=38&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Discovery Science
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=39&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Discovery Turbo
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=41&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Discovery World
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=42&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Discovery Theater
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=40&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Disney
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=43&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Disney JR
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=44&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",E !
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=46&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",El Gourmet
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=47&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Mas Chic
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=48&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MTV Hits
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=49&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MTV
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=50&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Lifetime
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=51&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Investigation Discovery
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=52&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",I.Sat
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=53&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Hola TV
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=54&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",H2
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=55&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",History Channel
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=56&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",HTV
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=57&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",HLN
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=58&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",HBO plus
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=59&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",HBO Subtitulado
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=60&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",HBO Signature
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=61&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",HBO Family
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=62&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",HBO 2
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=63&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",HBO
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=64&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Golf Channel
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=65&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Golden Premium
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=66&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Golden
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=67&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Glitz
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=68&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",France 24
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=71&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Fox Sports 3 Sur
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=72&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Fox Sports 2 MX
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=74&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Fox Sports 2 Sur
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=75&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Fox Sports 1 Sur
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=76&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Fox Sports 1 MX
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=77&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Fox News
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=80&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Star Channel
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=91&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",FX
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=92&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Euro Channel
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=93&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Espn Plus Sur
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=94&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Espn 3 Sur
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=95&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Espn 2 Sur
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=96&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Espn 1 Sur
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=97&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Win Sports
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=98&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Warner Channel
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=99&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MTV 80s
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=100&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MTV 00s
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=101&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Univision
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=102&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Universal Channel
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=103&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Unicable
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=104&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Tru TV
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=105&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Tve
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=106&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Tooncast
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=107&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Telemundo
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=108&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",TNT Series
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=109&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",TNT
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=110&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",TLC
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=111&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",TCM
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=112&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",TBS
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=113&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Studio Universal
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=115&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Space
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=116&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Sony
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=117&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",RCN Telenovelas
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=118&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Pasiones
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=119&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Paramount Channel
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=120&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Nickelodeon
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=121&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Nick Jr
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=122&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",TeenNick
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=123&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Nat Geo Mex
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=125&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",National Geographic Channel
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=128&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Multipremier
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=129&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Mtv Live
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=130&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",HBO Pop
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=131&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",HBO Xtreme
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=132&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",HBO Mundi
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=133&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Azteca 7
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=134&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Azteca Uno
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=135&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | ADN 40
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=136&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Az Clic
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=139&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Az Cinema
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=140&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | A3 Series
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=141&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Antena 3
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=142&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Aym Sports
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=143&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Canal 5
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=144&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Las Estrellas
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=145&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Galatv
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=146&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Foro TV
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=147&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Europa Europa
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=148&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Distrito Comedia
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=149&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Multimedios
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=150&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Televisa MTY
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=151&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Garage TV
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=152&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Congreso de la Unión
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=153&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Imagen TV
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=154&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Latin American Sports
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=155&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Teleritmo
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=156&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Milenio TV
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=157&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Espn Plus
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=160&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Espn
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=161&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Espn 2
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=162&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Fox Sports 3
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=165&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | RT Noticias
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=166&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Espn 3
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=167&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | RT en Espanol
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=168&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Tl Novelas
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=169&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | A Mas
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=170&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Cinemax
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=171&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Nickmusic
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=172&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Bandamax
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=173&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Food Network
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=174&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Cartoonito
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=176&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Ingenio TV
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=177&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Telehit Musica
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=178&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Telehit
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=179&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | TVC
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=180&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | TVC Deportes
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=181&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Telefórmula
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=182&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Golden
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=183&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MX | Golden Edge
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=184&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Bein Sports
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=185&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Directv Sports Plus
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=186&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Directv Sports
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=187&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Directv Sports 2
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=188&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",TUDN USA
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=189&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",TUDN MX
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=190&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",PE | TV Peru
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=191&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",PE | Peru Magico
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=192&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",PE | Panamericana
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=193&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",PE | Movistar Deportes
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=194&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",PE | Gol Peru
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=195&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",COL | Trece
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=198&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",COL | RCN Internacional
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=200&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",COL | RCN
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=201&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",COL | Caracol 2
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=204&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",COL | Caracol
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=205&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",CL | Fox Sports
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=211&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",CL | Chilevision
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=212&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",CL | CDO Premium
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=213&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",CL | CDO Basico
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=214&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",CL | CDF Premium
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=215&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",CL | CDF Basico
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=216&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",CL | CDF
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=217&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",AR | TNT Sports
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=219&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Wobi
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=337&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",VH1 HD
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=336&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Start TVE
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=335&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",TV Mas
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=334&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MVS
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=333&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Golden Plus
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=327&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Discovery Civilization
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=325&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",De Pelicula
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=324&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Gol TV Internacional
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=338&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Tigo Sports 1
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=339&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Tigo Sports py
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=340&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Tigo Sports 3
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=341&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Estrella tv
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=342&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Bein sports ñ T
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=343&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Fightbox
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=346&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Fight Time
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=347&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",MLB Network
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=349&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Motorsports TV
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=350&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",RedBull
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=351&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",UFC TV
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=353&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Bitme
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=354&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Locomotion
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=355&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",movistar liga de Campeones
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=357&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",nueve mx
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=356&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",ISAT
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=369&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Film&Arts
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=370&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Syfy
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=371&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Ultra Tainment
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=373&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Win Sports+
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=374&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Canal Once
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=380&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Once Niños
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=381&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",afizzionados
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=382&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",Fox Deportes
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=384&f=.m3u8
+#EXTINF:-1 group-title="Lista 08",HGTV
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=385&f=.m3u8
 
 
 #EXTINF:-1  group-title="Lista 15", FOX Sports HD Latino
@@ -4969,8 +3975,6 @@ http://bgapp.live/play/futvall-559.php?id=azteca7hd&token=blackgghost&f=.m3u8
 http://bgapp.live/play/futvall-559.php?id=elnueve&token=blackgghost&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", IMAGEN TV
 http://bgapp.live/play/futvall-559.php?id=imagentv&token=blackgghost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR ACTION
-http://bgapp.live/play/futvall-559.php?id=staraction&token=blackgghost&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", SPACE
 http://bgapp.live/play/futvall-559.php?id=space&token=blackgghost&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", ADRENALINA
@@ -5055,17 +4059,7 @@ http://bgapp.live/play/futvall-559.php?id=fight&token=blackgghost&f=.m3u8
 http://bgapp.live/play/futvall-559.php?id=ufc&token=blackgghost&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", WWE
 http://bgapp.live/play/futvall-559.php?id=wwe&token=blackgghost&f=.m3u8
-
-
-
-#EXTINF:-1 group-title="Lista 22", --------------
-http://bgapp.live/play/s&token=blackgghost&f=.m3u8
-
-
-
-
-
-
+#EXTINF:-1 group-title="Lista 22", TLC
 http://bgapp.live/play/futvall-559.php?id=tlc&token=blackgghost&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", MULTIPREMIER
 http://bgapp.live/play/futvall-559.php?id=mp&token=blackgghost&dos=.m3u8
@@ -5079,26 +4073,8 @@ http://bgapp.live/play/futvall-559.php?id=goldenedge&token=blackgghost&dos=.m3u8
 http://bgapp.live/play/futvall-559.php?id=goldenp&token=blackgghost&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", STAR CH
 http://bgapp.live/play/futvall-559.php?id=starch&token=blackgghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR ACTION
-http://bgapp.live/play/futvall-559.php?id=staraction&token=blackgghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR CINEMA
-http://bgapp.live/play/futvall-559.php?id=starcinema&token=blackgghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR CLASSICS
-http://bgapp.live/play/futvall-559.php?id=starclassics&token=blackgghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR COMEDY
-http://bgapp.live/play/futvall-559.php?id=starcomedy&token=blackgghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR FUN
-http://bgapp.live/play/futvall-559.php?id=starfun&token=blackgghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR HITS
-http://bgapp.live/play/futvall-559.php?id=starhits&token=blackgghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR LIFE
-http://bgapp.live/play/futvall-559.php?id=starlife&token=blackgghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", STAR SERIES
-http://bgapp.live/play/futvall-559.php?id=starseries&token=blackgghost&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", WOW TV
 http://bgapp.live/play/futvall-559.php?id=wow&token=blackgghost&dos=.m3u8
-
-
 #EXTINF:-1 group-title="Lista 22", A MAS
 http://bgapp.live/play/futvall-559.php?id=amas&token=blackgghost&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", AZTECA UNO
@@ -5155,8 +4131,6 @@ http://bgapp.live/play/futvall-559.php?id=comedy&token=blackgghost&dos=.m3u8
 http://bgapp.live/play/futvall-559.php?id=e&token=blackgghost&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", FOX Channel
 http://bgapp.live/play/futvall-559.php?id=starch&token=blackgghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", FOX LIFE
-http://bgapp.live/play/futvall-559.php?id=starlife&token=blackgghost&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", FX
 http://bgapp.live/play/futvall-559.php?id=fx&token=blackgghost&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", INVESTIGATION Discovery
@@ -5199,8 +4173,6 @@ http://bgapp.live/play/futvall-559.php?id=dhe&token=blackgghost&dos=.m3u8
 http://bgapp.live/play/futvall-559.php?id=europa&token=blackgghost&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", FILM &amp; ARTS
 http://bgapp.live/play/futvall-559.php?id=filmarts&token=blackgghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", FXM
-http://bgapp.live/play/futvall-559.php?id=fxm&token=blackgghost&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", ISAT
 http://bgapp.live/play/futvall-559.php?id=isat&token=blackgghost&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", MULTICINEMA
@@ -5255,8 +4227,6 @@ http://bgapp.live/play/futvall-559.php?id=holatv&token=blackgghost&dos=.m3u8
 http://bgapp.live/play/futvall-559.php?id=maschic&token=blackgghost&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", NATGEO
 http://bgapp.live/play/futvall-559.php?id=natgeo&token=blackgghost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22", Natgeo WILD
-http://bgapp.live/play/futvall-559.php?id=natgeowild&token=blackgghost&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", TLC Discovery
 http://bgapp.live/play/futvall-559.php?id=tlc&token=blackgghost&dos=.m3u8
 
