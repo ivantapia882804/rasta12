@@ -33,8 +33,8 @@ http://clubtv.link/m26m/m26m/geomex.php?c=174
 http://bgapp.live/play/ultimate-559.php?c=878&tokeen=blackgghost&f=.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports (HD)
 http://clubtv.link/m26m/m26m/geomex.php?c=2564
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="RECOMENDADOS",TNT
-http://clubtv.link/m26m/m26m/geomex.php?c=126
+#EXTINF:-1 group-title="RECOMENDADOS", ESPN DEPORTES
+http://bgapp.live/play/zufree-559.php?c=39.m3u8&blck
 #EXTINF:-1 tvg-id="UnivisionNetworkEast(Spanish).us" group-title="RECOMENDADOS" ,Univisión (USA)
 http://bgapp.live/play/ultimate-559.php?c=99&tokeen=blackgghost&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" group-title="RECOMENDADOS" ,TUDN (USA)
