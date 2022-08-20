@@ -10881,7 +10881,7 @@ https://live3-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="30" tvg-logo="https://logo.iptveditor.com/boomerang.png"  group-title=“Izzi Go (solo OTT)”,BOOMERANG HD
+#EXTINF:-1 tvg-id="30" tvg-logo="https://logo.iptveditor.com/boomerang.png"  group-title=“Izzi Go (solo OTT)”,CARTOONITO
 https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11121,14 +11121,6 @@ https://live3-ott.izzigo.tv/out/u/dash/DISNEY-JR-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="60" tvg-logo="https://logo.iptveditor.com/disneyxd.png"  group-title=“Izzi Go (solo OTT)”,DISNEY XD HD
-https://live3-ott.izzigo.tv/out/u/dash/DISNEY-XD-HD/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="61" tvg-logo="https://logo.iptveditor.com/distritocomedia.png"  group-title=“Izzi Go (solo OTT)”,DISTRITO COMEDIA
 https://live3-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -11217,7 +11209,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="72" tvg-logo="https://logo.iptveditor.com/espn+.png"  group-title=“Izzi Go (solo OTT)”,ESPN+ HD
+#EXTINF:-1 tvg-id="72" tvg-logo="https://logo.iptveditor.com/espn+.png"  group-title=“Izzi Go (solo OTT)”,ESPN EXTRA HD
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11273,24 +11265,8 @@ https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="79" tvg-logo="https://logo.iptveditor.com/staraction.png"  group-title=“Izzi Go (solo OTT)”,FOX ACTION (WEST)
-https://live2-ott.izzigo.tv/out/u/dash/FOX-ACTION-(WEST)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="80" tvg-logo="https://logo.iptveditor.com/fox.png"  group-title=“Izzi Go (solo OTT)”,FOX HD
+#EXTINF:-1 tvg-id="80" tvg-logo="https://logo.iptveditor.com/fox.png"  group-title=“Izzi Go (solo OTT)”,STAR CHANNEL
 https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="81" tvg-logo="https://logo.iptveditor.com/foxlife.png"  group-title=“Izzi Go (solo OTT)”,FOX LIFE HD
-https://live2-ott.izzigo.tv/out/u/dash/FOX-LIFE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
@@ -11337,14 +11313,6 @@ https://live3-ott.izzigo.tv/out/u/dash/FX-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="87" tvg-logo="https://logo.iptveditor.com/fxmovie.png"  group-title=“Izzi Go (solo OTT)”,FX MOVIES HD
-https://live3-ott.izzigo.tv/out/u/dash/FX-MOVIES-HD/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="88" tvg-logo="https://logo.iptveditor.com/glitz.png"  group-title=“Izzi Go (solo OTT)”,GLITZ
 https://live3-ott.izzigo.tv/out/u/dash/GLITZ-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -11369,7 +11337,7 @@ https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="91" tvg-logo="https://logo.iptveditor.com/golden.png"  group-title=“Izzi Go (solo OTT)”,GOLDEN HD
+#EXTINF:-1 tvg-id="91" tvg-logo="https://logo.iptveditor.com/golden.png"  group-title=“Izzi Go (solo OTT)”,GOLDEN PLUS
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11601,199 +11569,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="120" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d26vx7vzke0q28.cloudfront.net/out/v1/c4d8e344dd774c0fa0921439ea79b3ce/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="121" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d1ynfzqkzrrwzs.cloudfront.net/out/v1/3fbe531f96244098896d27ee747fe93a/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="122" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d3ltidrjpbkgsr.cloudfront.net/out/v1/a926f3fab9f24da2be48f763187e545c/mosaico_mpd.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="123" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d27tvzq2si8mqa.cloudfront.net/out/v1/fcd0c858d99b4a94b36623d32b9b59af/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="124" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d26vx7vzke0q28.cloudfront.net/out/v1/8e7aaf8dc03540de95249961e5c53fcc/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="125" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d2qb2cm0g9h56z.cloudfront.net/out/v1/75d0b06b8c2d434da15f2c59a420f94c/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="126" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d32ssuj3tq7z91.cloudfront.net/out/v1/60c286ff97e74be586ea559a9e93de1d/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="127" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d30wldjmree37l.cloudfront.net/out/v1/f63563de06f94d00acf786699de9cc28/mosaico2.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="128" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d22eqbdkqnkywe.cloudfront.net/out/v1/a9389d549ae447699f0dc0fca14fc93e/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="129" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d1ynfzqkzrrwzs.cloudfront.net/out/v1/786ae74b02b74bcca2cd28ade365313d/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="130" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d1ynfzqkzrrwzs.cloudfront.net/out/v1/e90d3aa8e1054a839cd93faebfbbae73/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="131" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d15cs7fkh0affx.cloudfront.net/out/v1/34d1935fb3464fc3940aba64dac36811/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="132" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d15cs7fkh0affx.cloudfront.net/out/v1/7a5ec68793ad4a40b4781d6b882e733c/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="133" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d2qb2cm0g9h56z.cloudfront.net/out/v1/f35da3f123f345bda7d1d104d267d6fa/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="134" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d12bww9t7e6mtv.cloudfront.net/out/v1/dd76423c40344a64ba8aa47f85b475fe/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="135" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d1ynfzqkzrrwzs.cloudfront.net/out/v1/222738ddb9274ed7aaf75543d6f31725/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="136" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO
-https://d1ynfzqkzrrwzs.cloudfront.net/out/v1/64aa09a04b6b422ca0c2f0719a3b6e0b/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="137" tvg-logo="https://logo.iptveditor.com/mdeportes.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO DEPORTES
-https://d2x688xcrrjspd.cloudfront.net/out/v1/0588d261b972443d850d7343e75a763d/deportes.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="138" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO HBO
-https://dwupwmhnd5p0c.cloudfront.net/out/v1/8932c386929845d1b627af64e9d3e0aa/mhbo.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="139" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO INFORMACION
-https://d1hacfkxse5lx7.cloudfront.net/out/v1/913093bdf54743ceb561692caeab7e4e/informacion.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="140" tvg-logo="https://logo.iptveditor.com/mundomas1.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO MUNDO
-https://dcuoufxq35cz8.cloudfront.net/out/v1/a9d3147ac14440f8aa6af49a98e09e59/mundo.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="141" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO NIÑOS
-https://d12bww9t7e6mtv.cloudfront.net/out/v1/ec80106d36e44980a295c5fc10c133c2/ninos.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="142" tvg-logo="https://logo.iptveditor.com/peliculas.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO PELICULAS
-https://d23krjoz8267fm.cloudfront.net/out/v1/2ea9d7594d1a4e6ea9fe18089bfc4cec/peliculas.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="143" tvg-logo="https://logo.iptveditor.com/mosa.png"  group-title=“Izzi Go (solo OTT)”,MOSAICO STAR
-https://d3mspciwfw6hm0.cloudfront.net/out/v1/edccab1d5fd94afe8da020e20efcfa33/mfox.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="144" tvg-logo="https://logo.iptveditor.com/mtvdance.png"  group-title=“Izzi Go (solo OTT)”,MTV DANCE
+#EXTINF:-1 tvg-id="144" tvg-logo="https://logo.iptveditor.com/mtvdance.png"  group-title=“Izzi Go (solo OTT)”,CLUB MTV
 https://live3-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11833,7 +11609,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="149" tvg-logo="https://logo.iptveditor.com/multimediosplus.png"  group-title=“Izzi Go (solo OTT)”,MULTIMEDIOS PLUS HD
+#EXTINF:-1 tvg-id="149" tvg-logo="https://logo.iptveditor.com/multimediosplus.png"  group-title=“Izzi Go (solo OTT)”,CANAL 6+
 https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12249,22 +12025,6 @@ https://live3-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="201" tvg-logo="https://logo.iptveditor.com/natgeokids.png"  group-title=“Izzi Go (solo OTT)”,NAT GEO KIDS HD
-https://live1-ott.izzigo.tv/out/u/dash/NAT-GEO-KIDS-HD/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="202" tvg-logo="https://logo.iptveditor.com/natgeowild.png"  group-title=“Izzi Go (solo OTT)”,NAT GEO WILD HD
-https://live2-ott.izzigo.tv/out/u/dash/NAT-GEO-WILD-HD/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="203" tvg-logo="https://logo.iptveditor.com/nfl.png"  group-title=“Izzi Go (solo OTT)”,NFL HD
 https://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -12281,7 +12041,7 @@ https://live2-ott.izzigo.tv/out/u/dash/NHK-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="205" tvg-logo="https://logo.iptveditor.com/nick2.png"  group-title=“Izzi Go (solo OTT)”,NICK 2 HD
+#EXTINF:-1 tvg-id="205" tvg-logo="https://logo.iptveditor.com/nick2.png"  group-title=“Izzi Go (solo OTT)”,TEENNICK
 https://live3-ott.izzigo.tv/out/u/dash/NICK-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12305,7 +12065,7 @@ https://live3-ott.izzigo.tv/out/u/dash/NICK-JR-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="208" tvg-logo="https://logo.iptveditor.com/nicktoons.png"  group-title=“Izzi Go (solo OTT)”,NICKTOONS
+#EXTINF:-1 tvg-id="208" tvg-logo="https://logo.iptveditor.com/nicktoons.png"  group-title=“Izzi Go (solo OTT)”,NICKMUSIC
 https://live3-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12313,7 +12073,7 @@ https://live3-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="209" tvg-logo="https://logo.iptveditor.com/ochotv.png"  group-title=“Izzi Go (solo OTT)”,OCHO TV HD
+#EXTINF:-1 tvg-id="209" tvg-logo="https://logo.iptveditor.com/ochotv.png"  group-title=“Izzi Go (solo OTT)”,QUIERO TV HD
 https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12369,7 +12129,7 @@ https://live2-ott.izzigo.tv/out/u/dash/RT-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="216" tvg-logo="https://logo.iptveditor.com/shopping.png"  group-title=“Izzi Go (solo OTT)”,SHOPPING SD
+#EXTINF:-1 tvg-id="216" tvg-logo="https://logo.iptveditor.com/shopping.png"  group-title=“Izzi Go (solo OTT)”,CV SHOPPING SD
 https://live3-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12393,48 +12153,8 @@ https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="219" tvg-logo="https://logo.iptveditor.com/staraction.png"  group-title=“Izzi Go (solo OTT)”,STAR ACTION HD
-https://live3-ott.izzigo.tv/out/u/dash/FOX-ACTION-HD/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="220" tvg-logo="https://logo.iptveditor.com/starcinema.png"  group-title=“Izzi Go (solo OTT)”,STAR CINEMA HD
-https://live3-ott.izzigo.tv/out/u/dash/FOX-CINEMA-HD/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="221" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarClassics_Logo2021_FondoOscuro.png.f7cd32710dcf0ab5c99586e83e8f2a42.png"  group-title=“Izzi Go (solo OTT)”,STAR CLASSIC HD
-https://live3-ott.izzigo.tv/out/u/dash/FOX-CLASSICS-HD/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="222" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarComedy_Logo2021_FondoOscuro.png.e50f0666a1a77a818216c526901a3351.png"  group-title=“Izzi Go (solo OTT)”,STAR COMEDY HD
-https://live2-ott.izzigo.tv/out/u/dash/FOX-COMEDY-HD/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="223" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarFun_Logo2021_FondoOscuro.png.2d12c2f71bc530fafe6b6e4d44986ffd.png"  group-title=“Izzi Go (solo OTT)”,STAR FUN (WEST)
-https://live2-ott.izzigo.tv/out/u/dash/FOX-FAMILY-(WEST)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="224" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarFun_Logo2021_FondoOscuro.png.2d12c2f71bc530fafe6b6e4d44986ffd.png"  group-title=“Izzi Go (solo OTT)”,STAR FUN HD
-https://live2-ott.izzigo.tv/out/u/dash/FOX-FAMILY-HD/default.mpd
+#EXTINF:-1 tvg-id="238" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f9140038718913.576c159a2de69.png”,SPACE HD
+https://live2-ott.izzigo.tv/out/u/dash/SPACE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
@@ -12443,30 +12163,6 @@ https://live2-ott.izzigo.tv/out/u/dash/FOX-FAMILY-HD/default.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="225" tvg-logo="https://logo.iptveditor.com/star.png"  group-title=“Izzi Go (solo OTT)”,STAR HD
 https://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="226" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarHits_Logo2021_FondoOscuro.png.45ae1af33adde821778a60e2d08ca43e.png"  group-title=“Izzi Go (solo OTT)”,STAR MOVIES HD
-https://live3-ott.izzigo.tv/out/u/dash/FOX-MOVIES-HD/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="227" tvg-logo="https://logo.iptveditor.com/starseries.png"  group-title=“Izzi Go (solo OTT)”,STAR SERIES
-https://live3-ott.izzigo.tv/out/u/dash/FOX-1-SERIES-HD/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="228" tvg-logo="https://logo.iptveditor.com/starseries.png"  group-title=“Izzi Go (solo OTT)”,STAR SERIES (WEST)
-https://live2-ott.izzigo.tv/out/u/dash/FOX-SERIES-(WEST)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
@@ -12513,7 +12209,15 @@ https://live3-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="234" tvg-logo="https://logo.iptveditor.com/telehit.png"  group-title=“Izzi Go (solo OTT)”,TELEHIT HD
+#EXTINF:-1 tvg-id="234" tvg-logo="https://logo.iptveditor.com/telehit.png"  group-title=“Izzi Go (solo OTT)”,TELEHIT
+https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghost
+#EXTVLCOPT:http-referrer=https://bgapp.live:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="234" tvg-logo="https://logo.iptveditor.com/telehit.png"  group-title=“Izzi Go (solo OTT)”,TELEHIT MUSICA PLUS
 https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12521,7 +12225,7 @@ https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="235" tvg-logo="https://logo.iptveditor.com/telehiturbano.png"  group-title=“Izzi Go (solo OTT)”,TELEHIT URBANO
+#EXTINF:-1 tvg-id="235" tvg-logo="https://logo.iptveditor.com/telehiturbano.png"  group-title=“Izzi Go (solo OTT)”,TELEHIT MUSICA
 https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12617,7 +12321,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TVE-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="247" tvg-logo="https://logo.iptveditor.com/teveunam.png"  group-title=“Izzi Go (solo OTT)”,UNAM
+#EXTINF:-1 tvg-id="247" tvg-logo="https://logo.iptveditor.com/teveunam.png"  group-title=“Izzi Go (solo OTT)”,INGENIO TV RDF (20.1)
 https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_TV-UNAM-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12633,7 +12337,7 @@ https://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="249" tvg-logo="https://logo.iptveditor.com/universal.png"  group-title=“Izzi Go (solo OTT)”,UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-id="249" tvg-logo="https://logo.iptveditor.com/universal.png"  group-title=“Izzi Go (solo OTT)”,UNIVERSAL TV HD
 https://live3-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12641,7 +12345,7 @@ https://live3-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="250" tvg-logo="https://logo.iptveditor.com/vh1classic.png"  group-title=“Izzi Go (solo OTT)”,VH1 CLASSIC
+#EXTINF:-1 tvg-id="250" tvg-logo="https://logo.iptveditor.com/vh1classic.png"  group-title=“Izzi Go (solo OTT)”,MTV 80S
 https://live3-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12649,7 +12353,7 @@ https://live3-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="251" tvg-logo="https://logo.iptveditor.com/vh1.png"  group-title=“Izzi Go (solo OTT)”,VH1 HD
+#EXTINF:-1 tvg-id="251" tvg-logo="https://logo.iptveditor.com/vh1.png"  group-title=“Izzi Go (solo OTT)”,MTV 00S
 https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
