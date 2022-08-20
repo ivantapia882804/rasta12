@@ -10649,7 +10649,7 @@ http://bgapp.live/play/megaplay-844.php?c=293&tokeen=blackghost&f=.m3u8|user-age
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="1" tvg-logo="https://www.izzigo.tv/images/repository/12121904-LOGO-m.png"  group-title=“Izzi Go (solo OTT)”,DREAMWORKS +
+#EXTINF:-1 tvg-id="1" tvg-logo="https://www.izzigo.tv/images/repository/12121904-LOGO-m.png"  group-title=“Lista 28 solo OTT”,DREAMWORKS +
 http://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10657,7 +10657,7 @@ http://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/12076206-LOGO-m.png"  group-title=“Izzi Go (solo OTT)”,SONY MOVIES
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/12076206-LOGO-m.png"  group-title=“Lista 28 solo OTT”,SONY MOVIES
 http://live2-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10665,7 +10665,7 @@ http://live2-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/11637923-LOGO-m.png"  group-title=“Izzi Go (solo OTT)”,OPERA PLUS
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/11637923-LOGO-m.png"  group-title=“Lista 28 solo OTT”,OPERA PLUS
 http://live2-ott.izzigo.tv/out/u/dash/OPERA-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10673,7 +10673,7 @@ http://live2-ott.izzigo.tv/out/u/dash/OPERA-PLUS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="4" tvg-logo="https://www.izzigo.tv/images/repository/11753188-LOGO-m.png"  group-title=“Izzi Go (solo OTT)”,UNIVERSAL REALITY
+#EXTINF:-1 tvg-id="4" tvg-logo="https://www.izzigo.tv/images/repository/11753188-LOGO-m.png"  group-title=“Lista 28 solo OTT”,UNIVERSAL REALITY
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10681,7 +10681,7 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="5" tvg-logo="https://www.izzigo.tv/images/repository/11753187-LOGO-m.png"  group-title=“Izzi Go (solo OTT)”,UNIVERSAL CRIME
+#EXTINF:-1 tvg-id="5" tvg-logo="https://www.izzigo.tv/images/repository/11753187-LOGO-m.png"  group-title=“Lista 28 solo OTT”,UNIVERSAL CRIME
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10689,7 +10689,7 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="6" tvg-logo="https://www.izzigo.tv/images/repository/11753186-LOGO-m.png"  group-title=“Izzi Go (solo OTT)”,UNIVERSAL COMEDY
+#EXTINF:-1 tvg-id="6" tvg-logo="https://www.izzigo.tv/images/repository/11753186-LOGO-m.png"  group-title=“Lista 28 solo OTT”,UNIVERSAL COMEDY
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10697,7 +10697,7 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="7" tvg-logo="https://www.izzigo.tv/images/repository/11753184-LOGO-m.png"  group-title=“Izzi Go (solo OTT)”,UNIVERSAL PREMIER
+#EXTINF:-1 tvg-id="7" tvg-logo="https://www.izzigo.tv/images/repository/11753184-LOGO-m.png"  group-title=“Lista 28 solo OTT”,UNIVERSAL PREMIER
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIER-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10705,7 +10705,7 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIER-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="8" tvg-logo="https://www.izzigo.tv/images/repository/11753180-LOGO-m.png"  group-title=“Izzi Go (solo OTT)”,UNIVERSAL CINEMA
+#EXTINF:-1 tvg-id="8" tvg-logo="https://www.izzigo.tv/images/repository/11753180-LOGO-m.png"  group-title=“Lista 28 solo OTT”,UNIVERSAL CINEMA
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10713,7 +10713,7 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="9" tvg-logo="https://www.izzigo.tv/images/repository/256983-LOGO-m.png"  group-title=“Izzi Go (solo OTT)”,24 HRS
+#EXTINF:-1 tvg-id="9" tvg-logo="https://www.izzigo.tv/images/repository/256983-LOGO-m.png"  group-title=“Lista 28 solo OTT”,24 HRS
 https://live3-ott.izzigo.tv/out/u/dash/SD-Canal-24-Horas/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10721,7 +10721,7 @@ https://live3-ott.izzigo.tv/out/u/dash/SD-Canal-24-Horas/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="10" tvg-logo="https://logo.iptveditor.com/a+.png"  group-title=“Izzi Go (solo OTT)”,A+
+#EXTINF:-1 tvg-id="10" tvg-logo="https://logo.iptveditor.com/a+.png"  group-title=“Lista 28 solo OTT”,A+
 https://live3-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10729,7 +10729,7 @@ https://live3-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="11" tvg-logo="https://www.tumundo.cl/multimedia/2020/04/sundance-channel-cambio-a-a3cine-2.png"  group-title=“Izzi Go (solo OTT)”,A3 CINE HD
+#EXTINF:-1 tvg-id="11" tvg-logo="https://www.tumundo.cl/multimedia/2020/04/sundance-channel-cambio-a-a3cine-2.png"  group-title=“Lista 28 solo OTT”,A3 CINE HD
 https://live3-ott.izzigo.tv/out/u/dash/A3-CINE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10737,7 +10737,7 @@ https://live3-ott.izzigo.tv/out/u/dash/A3-CINE-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="12" tvg-logo="https://logo.iptveditor.com/a3satreseries1.png"  group-title=“Izzi Go (solo OTT)”,A3 SERIES HD
+#EXTINF:-1 tvg-id="12" tvg-logo="https://logo.iptveditor.com/a3satreseries1.png"  group-title=“Lista 28 solo OTT”,A3 SERIES HD
 https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10745,7 +10745,7 @@ https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="13" tvg-logo="https://cdn.dribbble.com/users/1474214/screenshots/4259943/ae-logo.png"  group-title=“Izzi Go (solo OTT)”,AANDE HD
+#EXTINF:-1 tvg-id="13" tvg-logo="https://cdn.dribbble.com/users/1474214/screenshots/4259943/ae-logo.png"  group-title=“Lista 28 solo OTT”,AANDE HD
 https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10753,7 +10753,7 @@ https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="14" tvg-logo="https://logo.iptveditor.com/adn40.png"  group-title=“Izzi Go (solo OTT)”,ADN 40
+#EXTINF:-1 tvg-id="14" tvg-logo="https://logo.iptveditor.com/adn40.png"  group-title=“Lista 28 solo OTT”,ADN 40
 https://live3-ott.izzigo.tv/out/u/dash/ADN-40-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10761,7 +10761,7 @@ https://live3-ott.izzigo.tv/out/u/dash/ADN-40-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="15" tvg-logo="https://logo.iptveditor.com/adrenalina.png"  group-title=“Izzi Go (solo OTT)”,ADRENALINA HD
+#EXTINF:-1 tvg-id="15" tvg-logo="https://logo.iptveditor.com/adrenalina.png"  group-title=“Lista 28 solo OTT”,ADRENALINA HD
 https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10769,7 +10769,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="16" tvg-logo="https://mecambioya.com/wp-content/uploads/2021/03/afizzionados-3.png"  group-title=“Izzi Go (solo OTT)”,AFFIZIONADOS HD
+#EXTINF:-1 tvg-id="16" tvg-logo="https://mecambioya.com/wp-content/uploads/2021/03/afizzionados-3.png"  group-title=“Lista 28 solo OTT”,AFFIZIONADOS HD
 https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10777,7 +10777,7 @@ https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="17" tvg-logo="https://logo.iptveditor.com/aljazeera.png"  group-title=“Izzi Go (solo OTT)”,AL JASEERA HD
+#EXTINF:-1 tvg-id="17" tvg-logo="https://logo.iptveditor.com/aljazeera.png"  group-title=“Lista 28 solo OTT”,AL JASEERA HD
 https://live3-ott.izzigo.tv/out/u/dash/AL-JAZEERA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10785,7 +10785,7 @@ https://live3-ott.izzigo.tv/out/u/dash/AL-JAZEERA-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="18" tvg-logo="https://img1.wikia.nocookie.net/__cb20110408022156/logopedia/images/8/84/AMC_HD.png"  group-title=“Izzi Go (solo OTT)”,AMC HD
+#EXTINF:-1 tvg-id="18" tvg-logo="https://img1.wikia.nocookie.net/__cb20110408022156/logopedia/images/8/84/AMC_HD.png"  group-title=“Lista 28 solo OTT”,AMC HD
 https://live3-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10793,7 +10793,7 @@ https://live3-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="19" tvg-logo="https://logo.iptveditor.com/animalplanet.png"  group-title=“Izzi Go (solo OTT)”,ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="19" tvg-logo="https://logo.iptveditor.com/animalplanet.png"  group-title=“Lista 28 solo OTT”,ANIMAL PLANET HD
 https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10801,7 +10801,7 @@ https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="20" tvg-logo="https://logo.iptveditor.com/antena3.png"  group-title=“Izzi Go (solo OTT)”,ANTENA 3 HD
+#EXTINF:-1 tvg-id="20" tvg-logo="https://logo.iptveditor.com/antena3.png"  group-title=“Lista 28 solo OTT”,ANTENA 3 HD
 https://live3-ott.izzigo.tv/out/u/dash/ANTENA3-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10809,7 +10809,7 @@ https://live3-ott.izzigo.tv/out/u/dash/ANTENA3-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="21" tvg-logo="https://logo.iptveditor.com/axn.png"  group-title=“Izzi Go (solo OTT)”,AXN HD
+#EXTINF:-1 tvg-id="21" tvg-logo="https://logo.iptveditor.com/axn.png"  group-title=“Lista 28 solo OTT”,AXN HD
 https://live3-ott.izzigo.tv/out/u/dash/AXN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10817,7 +10817,7 @@ https://live3-ott.izzigo.tv/out/u/dash/AXN-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="22" tvg-logo="https://logo.iptveditor.com/azteca1.png"  group-title=“Izzi Go (solo OTT)”,AZTECA 1 2HS
+#EXTINF:-1 tvg-id="22" tvg-logo="https://logo.iptveditor.com/azteca1.png"  group-title=“Lista 28 solo OTT”,AZTECA 1 2HS
 https://live3-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10825,7 +10825,7 @@ https://live3-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="23" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/7/78/Azteca_uno_logo_2018.png/revision/latest?cb=20180101101047&path-prefix=es"  group-title=“Izzi Go (solo OTT)”,AZTECA 1 HD
+#EXTINF:-1 tvg-id="23" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/7/78/Azteca_uno_logo_2018.png/revision/latest?cb=20180101101047&path-prefix=es"  group-title=“Lista 28 solo OTT”,AZTECA 1 HD
 https://live3-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10833,7 +10833,7 @@ https://live3-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="24" tvg-logo="https://logo.iptveditor.com/azteca7.png"  group-title=“Izzi Go (solo OTT)”,AZTECA 7 HD
+#EXTINF:-1 tvg-id="24" tvg-logo="https://logo.iptveditor.com/azteca7.png"  group-title=“Lista 28 solo OTT”,AZTECA 7 HD
 https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_Azteca-7-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10841,7 +10841,7 @@ https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_Azteca-7-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="25" tvg-logo="https://logo.iptveditor.com/azteca7.png"  group-title=“Izzi Go (solo OTT)”,AZTECA 7 HD
+#EXTINF:-1 tvg-id="25" tvg-logo="https://logo.iptveditor.com/azteca7.png"  group-title=“Lista 28 solo OTT”,AZTECA 7 HD
 https://live3-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10849,7 +10849,7 @@ https://live3-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="26" tvg-logo="https://logo.iptveditor.com/aztecauno.png"  group-title=“Izzi Go (solo OTT)”,AZTECA UNO HD
+#EXTINF:-1 tvg-id="26" tvg-logo="https://logo.iptveditor.com/aztecauno.png"  group-title=“Lista 28 solo OTT”,AZTECA UNO HD
 https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_Azteca-Uno-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10857,7 +10857,7 @@ https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_Azteca-Uno-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="27" tvg-logo="https://logo.iptveditor.com/babytv.png"  group-title=“Izzi Go (solo OTT)”,BABY TV
+#EXTINF:-1 tvg-id="27" tvg-logo="https://logo.iptveditor.com/babytv.png"  group-title=“Lista 28 solo OTT”,BABY TV
 https://live3-ott.izzigo.tv/out/u/dash/BABY-TV-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10865,7 +10865,7 @@ https://live3-ott.izzigo.tv/out/u/dash/BABY-TV-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="28" tvg-logo="https://logo.iptveditor.com/bbcworldnews.png"  group-title=“Izzi Go (solo OTT)”,BBC WORLD NEWS
+#EXTINF:-1 tvg-id="28" tvg-logo="https://logo.iptveditor.com/bbcworldnews.png"  group-title=“Lista 28 solo OTT”,BBC WORLD NEWS
 https://live3-ott.izzigo.tv/out/u/dash/BBC-WORLD-NEWS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10873,7 +10873,7 @@ https://live3-ott.izzigo.tv/out/u/dash/BBC-WORLD-NEWS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="29" tvg-logo="https://logo.iptveditor.com/bit.png"  group-title=“Izzi Go (solo OTT)”,BIT ME HD
+#EXTINF:-1 tvg-id="29" tvg-logo="https://logo.iptveditor.com/bit.png"  group-title=“Lista 28 solo OTT”,BIT ME HD
 https://live3-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10881,7 +10881,7 @@ https://live3-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="30" tvg-logo="https://logo.iptveditor.com/boomerang.png"  group-title=“Izzi Go (solo OTT)”,CARTOONITO
+#EXTINF:-1 tvg-id="30" tvg-logo="https://logo.iptveditor.com/boomerang.png"  group-title=“Lista 28 solo OTT”,CARTOONITO
 https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10889,7 +10889,7 @@ https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="31" tvg-logo="https://logo.iptveditor.com/canal2.png"  group-title=“Izzi Go (solo OTT)”,CANAL 2 HD
+#EXTINF:-1 tvg-id="31" tvg-logo="https://logo.iptveditor.com/canal2.png"  group-title=“Lista 28 solo OTT”,CANAL 2 HD
 https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10897,7 +10897,7 @@ https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="32" tvg-logo="http://manualdeimagen.canal22.org.mx/img/bn.png"  group-title=“Izzi Go (solo OTT)”,CANAL 22
+#EXTINF:-1 tvg-id="32" tvg-logo="http://manualdeimagen.canal22.org.mx/img/bn.png"  group-title=“Lista 28 solo OTT”,CANAL 22
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10905,7 +10905,7 @@ https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="33" tvg-logo="https://logo.iptveditor.com/channel.png"  group-title=“Izzi Go (solo OTT)”,CANAL 22 SD
+#EXTINF:-1 tvg-id="33" tvg-logo="https://logo.iptveditor.com/channel.png"  group-title=“Lista 28 solo OTT”,CANAL 22 SD
 https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-22-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10913,7 +10913,7 @@ https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-22-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="34" tvg-logo="https://logo.iptveditor.com/canal5.png"  group-title=“Izzi Go (solo OTT)”,CANAL 5 HD
+#EXTINF:-1 tvg-id="34" tvg-logo="https://logo.iptveditor.com/canal5.png"  group-title=“Lista 28 solo OTT”,CANAL 5 HD
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10921,7 +10921,7 @@ https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="35" tvg-logo="https://logo.iptveditor.com/canal5.png"  group-title=“Izzi Go (solo OTT)”,CANAL 5 HD
+#EXTINF:-1 tvg-id="35" tvg-logo="https://logo.iptveditor.com/canal5.png"  group-title=“Lista 28 solo OTT”,CANAL 5 HD
 https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-Cinco-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10929,7 +10929,7 @@ https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-Cinco-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="36" tvg-logo="https://logo.iptveditor.com/9canal.png"  group-title=“Izzi Go (solo OTT)”,CANAL 9 SD
+#EXTINF:-1 tvg-id="36" tvg-logo="https://logo.iptveditor.com/9canal.png"  group-title=“Lista 28 solo OTT”,CANAL 9 SD
 https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10937,7 +10937,7 @@ https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="37" tvg-logo="https://logo.iptveditor.com/canalcatorce.png"  group-title=“Izzi Go (solo OTT)”,CANAL CATORCE HD
+#EXTINF:-1 tvg-id="37" tvg-logo="https://logo.iptveditor.com/canalcatorce.png"  group-title=“Lista 28 solo OTT”,CANAL CATORCE HD
 https://live3-ott.izzigo.tv/out/u/dash/RDF-MTY-Canal-Catorce-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10945,7 +10945,7 @@ https://live3-ott.izzigo.tv/out/u/dash/RDF-MTY-Canal-Catorce-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="38" tvg-logo="https://logo.iptveditor.com/ziggotv.png"  group-title=“Izzi Go (solo OTT)”,CANAL IZZI SD
+#EXTINF:-1 tvg-id="38" tvg-logo="https://logo.iptveditor.com/ziggotv.png"  group-title=“Lista 28 solo OTT”,CANAL IZZI SD
 https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10953,7 +10953,7 @@ https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="39" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png"  group-title=“Izzi Go (solo OTT)”,CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="39" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png"  group-title=“Lista 28 solo OTT”,CARTOON NETWORK HD
 https://live3-ott.izzigo.tv/out/u/dash/CARTOON-NETWORK-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10961,7 +10961,7 @@ https://live3-ott.izzigo.tv/out/u/dash/CARTOON-NETWORK-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="40" tvg-logo="https://logo.iptveditor.com/cinecanal.png"  group-title=“Izzi Go (solo OTT)”,CINECANAL HD
+#EXTINF:-1 tvg-id="40" tvg-logo="https://logo.iptveditor.com/cinecanal.png"  group-title=“Lista 28 solo OTT”,CINECANAL HD
 https://live3-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10969,7 +10969,7 @@ https://live3-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="41" tvg-logo="https://logo.iptveditor.com/cinemax.png"  group-title=“Izzi Go (solo OTT)”,CINEMAX HD
+#EXTINF:-1 tvg-id="41" tvg-logo="https://logo.iptveditor.com/cinemax.png"  group-title=“Lista 28 solo OTT”,CINEMAX HD
 https://live3-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10977,7 +10977,7 @@ https://live3-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="42" tvg-logo="https://logo.iptveditor.com/clan.png"  group-title=“Izzi Go (solo OTT)”,CLAN HD
+#EXTINF:-1 tvg-id="42" tvg-logo="https://logo.iptveditor.com/clan.png"  group-title=“Lista 28 solo OTT”,CLAN HD
 https://live2-ott.izzigo.tv/out/u/dash/CLAN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10985,7 +10985,7 @@ https://live2-ott.izzigo.tv/out/u/dash/CLAN-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="43" tvg-logo="https://logo.iptveditor.com/cnnenespa%C3%B1ol.png"  group-title=“Izzi Go (solo OTT)”,CNN EN ESPAÑOL
+#EXTINF:-1 tvg-id="43" tvg-logo="https://logo.iptveditor.com/cnnenespa%C3%B1ol.png"  group-title=“Lista 28 solo OTT”,CNN EN ESPAÑOL
 https://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10993,7 +10993,7 @@ https://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="44" tvg-logo="https://logo.iptveditor.com/cnn.png"  group-title=“Izzi Go (solo OTT)”,CNN HD
+#EXTINF:-1 tvg-id="44" tvg-logo="https://logo.iptveditor.com/cnn.png"  group-title=“Lista 28 solo OTT”,CNN HD
 https://live3-ott.izzigo.tv/out/u/dash/CNN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11001,7 +11001,7 @@ https://live3-ott.izzigo.tv/out/u/dash/CNN-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="45" tvg-logo="https://logo.iptveditor.com/cnninternacional.png"  group-title=“Izzi Go (solo OTT)”,CNN INTERNACIONAL
+#EXTINF:-1 tvg-id="45" tvg-logo="https://logo.iptveditor.com/cnninternacional.png"  group-title=“Lista 28 solo OTT”,CNN INTERNACIONAL
 https://live3-ott.izzigo.tv/out/u/dash/CNNI-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11009,7 +11009,7 @@ https://live3-ott.izzigo.tv/out/u/dash/CNNI-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="46" tvg-logo="https://logo.iptveditor.com/comedycentral.png"  group-title=“Izzi Go (solo OTT)”,COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="46" tvg-logo="https://logo.iptveditor.com/comedycentral.png"  group-title=“Lista 28 solo OTT”,COMEDY CENTRAL HD
 https://live2-ott.izzigo.tv/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11017,7 +11017,7 @@ https://live2-ott.izzigo.tv/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="47" tvg-logo="https://logo.iptveditor.com/pelicula.png"  group-title=“Izzi Go (solo OTT)”,DE PELICULA
+#EXTINF:-1 tvg-id="47" tvg-logo="https://logo.iptveditor.com/pelicula.png"  group-title=“Lista 28 solo OTT”,DE PELICULA
 https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11025,7 +11025,7 @@ https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="48" tvg-logo="https://logo.iptveditor.com/pelicula.png"  group-title=“Izzi Go (solo OTT)”,DE PELICULA HD
+#EXTINF:-1 tvg-id="48" tvg-logo="https://logo.iptveditor.com/pelicula.png"  group-title=“Lista 28 solo OTT”,DE PELICULA HD
 https://live3-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11033,7 +11033,7 @@ https://live3-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="49" tvg-logo="https://logo.iptveditor.com/discoverychannel.png"  group-title=“Izzi Go (solo OTT)”,DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="49" tvg-logo="https://logo.iptveditor.com/discoverychannel.png"  group-title=“Lista 28 solo OTT”,DISCOVERY CHANNEL HD
 https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11041,7 +11041,7 @@ https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="50" tvg-logo="https://logo.iptveditor.com/discoveryhomeandhealthhz.png"  group-title=“Izzi Go (solo OTT)”,DISCOVERY HOME AND GARDEN
+#EXTINF:-1 tvg-id="50" tvg-logo="https://logo.iptveditor.com/discoveryhomeandhealthhz.png"  group-title=“Lista 28 solo OTT”,DISCOVERY HOME AND GARDEN
 https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11049,7 +11049,7 @@ https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="51" tvg-logo="https://logo.iptveditor.com/discoveryhomeandhealth.png"  group-title=“Izzi Go (solo OTT)”,DISCOVERY HOME AND HEALTH HD
+#EXTINF:-1 tvg-id="51" tvg-logo="https://logo.iptveditor.com/discoveryhomeandhealth.png"  group-title=“Lista 28 solo OTT”,DISCOVERY HOME AND HEALTH HD
 https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11057,7 +11057,7 @@ https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="52" tvg-logo="https://logo.iptveditor.com/discoveryid.png"  group-title=“Izzi Go (solo OTT)”,DISCOVERY ID HD
+#EXTINF:-1 tvg-id="52" tvg-logo="https://logo.iptveditor.com/discoveryid.png"  group-title=“Lista 28 solo OTT”,DISCOVERY ID HD
 https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-ID-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11065,7 +11065,7 @@ https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-ID-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="53" tvg-logo="https://logo.iptveditor.com/discoverykids.png"  group-title=“Izzi Go (solo OTT)”,DISCOVERY KIDS HD
+#EXTINF:-1 tvg-id="53" tvg-logo="https://logo.iptveditor.com/discoverykids.png"  group-title=“Lista 28 solo OTT”,DISCOVERY KIDS HD
 https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11073,7 +11073,7 @@ https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="54" tvg-logo="https://logo.iptveditor.com/discoveryscience.png"  group-title=“Izzi Go (solo OTT)”,DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="54" tvg-logo="https://logo.iptveditor.com/discoveryscience.png"  group-title=“Lista 28 solo OTT”,DISCOVERY SCIENCE HD
 https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11081,7 +11081,7 @@ https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="55" tvg-logo="https://logo.iptveditor.com/discoverytheater.png"  group-title=“Izzi Go (solo OTT)”,DISCOVERY THEATER HD
+#EXTINF:-1 tvg-id="55" tvg-logo="https://logo.iptveditor.com/discoverytheater.png"  group-title=“Lista 28 solo OTT”,DISCOVERY THEATER HD
 https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11089,7 +11089,7 @@ https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="56" tvg-logo="https://logo.iptveditor.com/discoveryturbo.png"  group-title=“Izzi Go (solo OTT)”,DISCOVERY TURBO HD
+#EXTINF:-1 tvg-id="56" tvg-logo="https://logo.iptveditor.com/discoveryturbo.png"  group-title=“Lista 28 solo OTT”,DISCOVERY TURBO HD
 https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11097,7 +11097,7 @@ https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="57" tvg-logo="https://logo.iptveditor.com/discoveryworld.png"  group-title=“Izzi Go (solo OTT)”,DISCOVERY WORLD HD
+#EXTINF:-1 tvg-id="57" tvg-logo="https://logo.iptveditor.com/discoveryworld.png"  group-title=“Lista 28 solo OTT”,DISCOVERY WORLD HD
 https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-WORLD-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11105,7 +11105,7 @@ https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-WORLD-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="58" tvg-logo="https://logo.iptveditor.com/disneychannel.png"  group-title=“Izzi Go (solo OTT)”,DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="58" tvg-logo="https://logo.iptveditor.com/disneychannel.png"  group-title=“Lista 28 solo OTT”,DISNEY CHANNEL HD
 https://live2-ott.izzigo.tv/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11113,7 +11113,7 @@ https://live2-ott.izzigo.tv/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="59" tvg-logo="https://logo.iptveditor.com/disneyjrla.png"  group-title=“Izzi Go (solo OTT)”,DISNEY JRS HD
+#EXTINF:-1 tvg-id="59" tvg-logo="https://logo.iptveditor.com/disneyjrla.png"  group-title=“Lista 28 solo OTT”,DISNEY JRS HD
 https://live3-ott.izzigo.tv/out/u/dash/DISNEY-JR-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11121,7 +11121,7 @@ https://live3-ott.izzigo.tv/out/u/dash/DISNEY-JR-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="61" tvg-logo="https://logo.iptveditor.com/distritocomedia.png"  group-title=“Izzi Go (solo OTT)”,DISTRITO COMEDIA
+#EXTINF:-1 tvg-id="61" tvg-logo="https://logo.iptveditor.com/distritocomedia.png"  group-title=“Lista 28 solo OTT”,DISTRITO COMEDIA
 https://live3-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11129,7 +11129,7 @@ https://live3-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="62" tvg-logo="https://logo.iptveditor.com/dogtv.png"  group-title=“Izzi Go (solo OTT)”,DOG TV
+#EXTINF:-1 tvg-id="62" tvg-logo="https://logo.iptveditor.com/dogtv.png"  group-title=“Lista 28 solo OTT”,DOG TV
 https://live3-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11137,7 +11137,7 @@ https://live3-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="63" tvg-logo="https://logo.iptveditor.com/america.png"  group-title=“Izzi Go (solo OTT)”,DW AMERICA
+#EXTINF:-1 tvg-id="63" tvg-logo="https://logo.iptveditor.com/america.png"  group-title=“Lista 28 solo OTT”,DW AMERICA
 https://live3-ott.izzigo.tv/out/u/dash/DW-AMERIKA-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11145,7 +11145,7 @@ https://live3-ott.izzigo.tv/out/u/dash/DW-AMERIKA-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="64" tvg-logo="https://logo.iptveditor.com/dwespa%C3%B1ol.png"  group-title=“Izzi Go (solo OTT)”,DW ESPAÑOL
+#EXTINF:-1 tvg-id="64" tvg-logo="https://logo.iptveditor.com/dwespa%C3%B1ol.png"  group-title=“Lista 28 solo OTT”,DW ESPAÑOL
 https://live3-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11153,7 +11153,7 @@ https://live3-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="65" tvg-logo="https://logo.iptveditor.com/e.png"  group-title=“Izzi Go (solo OTT)”,E! HD
+#EXTINF:-1 tvg-id="65" tvg-logo="https://logo.iptveditor.com/e.png"  group-title=“Lista 28 solo OTT”,E! HD
 https://live3-ott.izzigo.tv/out/u/dash/E-Entertainment-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11161,7 +11161,7 @@ https://live3-ott.izzigo.tv/out/u/dash/E-Entertainment-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="66" tvg-logo="https://logo.iptveditor.com/elfinanciero.png"  group-title=“Izzi Go (solo OTT)”,EL FINANCIERO HD
+#EXTINF:-1 tvg-id="66" tvg-logo="https://logo.iptveditor.com/elfinanciero.png"  group-title=“Lista 28 solo OTT”,EL FINANCIERO HD
 https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11169,7 +11169,7 @@ https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="67" tvg-logo="https://logo.iptveditor.com/enlace.png"  group-title=“Izzi Go (solo OTT)”,ENLACE
+#EXTINF:-1 tvg-id="67" tvg-logo="https://logo.iptveditor.com/enlace.png"  group-title=“Lista 28 solo OTT”,ENLACE
 https://live3-ott.izzigo.tv/out/u/dash/ENLACE-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11177,7 +11177,7 @@ https://live3-ott.izzigo.tv/out/u/dash/ENLACE-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="68" tvg-logo="https://logo.iptveditor.com/nesn.png"  group-title=“Izzi Go (solo OTT)”,ESNE
+#EXTINF:-1 tvg-id="68" tvg-logo="https://logo.iptveditor.com/nesn.png"  group-title=“Lista 28 solo OTT”,ESNE
 https://live3-ott.izzigo.tv/out/u/dash/ESNE-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11185,7 +11185,7 @@ https://live3-ott.izzigo.tv/out/u/dash/ESNE-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="69" tvg-logo="https://logo.iptveditor.com/auespn2.png"  group-title=“Izzi Go (solo OTT)”,ESPN 2 HD
+#EXTINF:-1 tvg-id="69" tvg-logo="https://logo.iptveditor.com/auespn2.png"  group-title=“Lista 28 solo OTT”,ESPN 2 HD
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11193,7 +11193,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="70" tvg-logo="https://logo.iptveditor.com/espn3.png"  group-title=“Izzi Go (solo OTT)”,ESPN 3 HD
+#EXTINF:-1 tvg-id="70" tvg-logo="https://logo.iptveditor.com/espn3.png"  group-title=“Lista 28 solo OTT”,ESPN 3 HD
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11201,7 +11201,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="71" tvg-logo="https://logo.iptveditor.com/espn.png"  group-title=“Izzi Go (solo OTT)”,ESPN HD
+#EXTINF:-1 tvg-id="71" tvg-logo="https://logo.iptveditor.com/espn.png"  group-title=“Lista 28 solo OTT”,ESPN HD
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11209,7 +11209,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="72" tvg-logo="https://logo.iptveditor.com/espn+.png"  group-title=“Izzi Go (solo OTT)”,ESPN EXTRA HD
+#EXTINF:-1 tvg-id="72" tvg-logo="https://logo.iptveditor.com/espn+.png"  group-title=“Lista 28 solo OTT”,ESPN EXTRA HD
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11217,7 +11217,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="73" tvg-logo="https://logo.iptveditor.com/euronews.png"  group-title=“Izzi Go (solo OTT)”,EURONEWS
+#EXTINF:-1 tvg-id="73" tvg-logo="https://logo.iptveditor.com/euronews.png"  group-title=“Lista 28 solo OTT”,EURONEWS
 https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11225,7 +11225,7 @@ https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="74" tvg-logo="https://logo.iptveditor.com/europa7.png"  group-title=“Izzi Go (solo OTT)”,EUROPA HD
+#EXTINF:-1 tvg-id="74" tvg-logo="https://logo.iptveditor.com/europa7.png"  group-title=“Lista 28 solo OTT”,EUROPA HD
 https://live1-ott.izzigo.tv/out/u/dash/EUROPA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11233,7 +11233,7 @@ https://live1-ott.izzigo.tv/out/u/dash/EUROPA-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="75" tvg-logo="https://logo.iptveditor.com/ewtn.png"  group-title=“Izzi Go (solo OTT)”,EWTN
+#EXTINF:-1 tvg-id="75" tvg-logo="https://logo.iptveditor.com/ewtn.png"  group-title=“Lista 28 solo OTT”,EWTN
 https://live1-ott.izzigo.tv/out/u/dash/EWTN-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11241,7 +11241,7 @@ https://live1-ott.izzigo.tv/out/u/dash/EWTN-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="76" tvg-logo="https://logo.iptveditor.com/filmandarts.png"  group-title=“Izzi Go (solo OTT)”,FILM AND ARTS HD
+#EXTINF:-1 tvg-id="76" tvg-logo="https://logo.iptveditor.com/filmandarts.png"  group-title=“Lista 28 solo OTT”,FILM AND ARTS HD
 https://live3-ott.izzigo.tv/out/u/dash/FILM-AND-ARTS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11249,7 +11249,7 @@ https://live3-ott.izzigo.tv/out/u/dash/FILM-AND-ARTS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="77" tvg-logo="https://logo.iptveditor.com/foodnetwork.png"  group-title=“Izzi Go (solo OTT)”,FOOD NETWORK HD
+#EXTINF:-1 tvg-id="77" tvg-logo="https://logo.iptveditor.com/foodnetwork.png"  group-title=“Lista 28 solo OTT”,FOOD NETWORK HD
 https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11257,7 +11257,7 @@ https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="78" tvg-logo="https://logo.iptveditor.com/forotv.png"  group-title=“Izzi Go (solo OTT)”,FORO TV HD
+#EXTINF:-1 tvg-id="78" tvg-logo="https://logo.iptveditor.com/forotv.png"  group-title=“Lista 28 solo OTT”,FORO TV HD
 https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11265,7 +11265,7 @@ https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="80" tvg-logo="https://logo.iptveditor.com/fox.png"  group-title=“Izzi Go (solo OTT)”,STAR CHANNEL
+#EXTINF:-1 tvg-id="80" tvg-logo="https://logo.iptveditor.com/fox.png"  group-title=“Lista 28 solo OTT”,STAR CHANNEL
 https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11273,7 +11273,7 @@ https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="82" tvg-logo="https://logo.iptveditor.com/foxnews.png"  group-title=“Izzi Go (solo OTT)”,FOX NEWS HD
+#EXTINF:-1 tvg-id="82" tvg-logo="https://logo.iptveditor.com/foxnews.png"  group-title=“Lista 28 solo OTT”,FOX NEWS HD
 https://live2-ott.izzigo.tv/out/u/dash/FOX-NEWS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11281,7 +11281,7 @@ https://live2-ott.izzigo.tv/out/u/dash/FOX-NEWS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="83" tvg-logo="https://logo.iptveditor.com/foxsport2.png"  group-title=“Izzi Go (solo OTT)”,FOX SPORTS 2 HD
+#EXTINF:-1 tvg-id="83" tvg-logo="https://logo.iptveditor.com/foxsport2.png"  group-title=“Lista 28 solo OTT”,FOX SPORTS 2 HD
 https://live3-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11289,7 +11289,7 @@ https://live3-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="84" tvg-logo="https://logo.iptveditor.com/foxsports3.png"  group-title=“Izzi Go (solo OTT)”,FOX SPORTS 3 HD
+#EXTINF:-1 tvg-id="84" tvg-logo="https://logo.iptveditor.com/foxsports3.png"  group-title=“Lista 28 solo OTT”,FOX SPORTS 3 HD
 https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11297,7 +11297,7 @@ https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="85" tvg-logo="https://logo.iptveditor.com/foxsports.png"  group-title=“Izzi Go (solo OTT)”,FOX SPORTS HD
+#EXTINF:-1 tvg-id="85" tvg-logo="https://logo.iptveditor.com/foxsports.png"  group-title=“Lista 28 solo OTT”,FOX SPORTS HD
 https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11305,7 +11305,7 @@ https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="86" tvg-logo="https://logo.iptveditor.com/fx.png"  group-title=“Izzi Go (solo OTT)”,FX HD
+#EXTINF:-1 tvg-id="86" tvg-logo="https://logo.iptveditor.com/fx.png"  group-title=“Lista 28 solo OTT”,FX HD
 https://live3-ott.izzigo.tv/out/u/dash/FX-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11313,7 +11313,7 @@ https://live3-ott.izzigo.tv/out/u/dash/FX-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="88" tvg-logo="https://logo.iptveditor.com/glitz.png"  group-title=“Izzi Go (solo OTT)”,GLITZ
+#EXTINF:-1 tvg-id="88" tvg-logo="https://logo.iptveditor.com/glitz.png"  group-title=“Lista 28 solo OTT”,GLITZ
 https://live3-ott.izzigo.tv/out/u/dash/GLITZ-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11321,7 +11321,7 @@ https://live3-ott.izzigo.tv/out/u/dash/GLITZ-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="89" tvg-logo="https://logo.iptveditor.com/golden.png"  group-title=“Izzi Go (solo OTT)”,GOLDEN
+#EXTINF:-1 tvg-id="89" tvg-logo="https://logo.iptveditor.com/golden.png"  group-title=“Lista 28 solo OTT”,GOLDEN
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11329,7 +11329,7 @@ https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="90" tvg-logo="https://logo.iptveditor.com/goldenedge.png"  group-title=“Izzi Go (solo OTT)”,GOLDEN EDGE
+#EXTINF:-1 tvg-id="90" tvg-logo="https://logo.iptveditor.com/goldenedge.png"  group-title=“Lista 28 solo OTT”,GOLDEN EDGE
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11337,7 +11337,7 @@ https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="91" tvg-logo="https://logo.iptveditor.com/golden.png"  group-title=“Izzi Go (solo OTT)”,GOLDEN PLUS
+#EXTINF:-1 tvg-id="91" tvg-logo="https://logo.iptveditor.com/golden.png"  group-title=“Lista 28 solo OTT”,GOLDEN PLUS
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11345,7 +11345,7 @@ https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="92" tvg-logo="https://logo.iptveditor.com/goldenpremier2.png"  group-title=“Izzi Go (solo OTT)”,GOLDEN PREMIER 2HS HD
+#EXTINF:-1 tvg-id="92" tvg-logo="https://logo.iptveditor.com/goldenpremier2.png"  group-title=“Lista 28 solo OTT”,GOLDEN PREMIER 2HS HD
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER--2HR-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11353,7 +11353,7 @@ https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER--2HR-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="93" tvg-logo="https://logo.iptveditor.com/goldenpremier.png"  group-title=“Izzi Go (solo OTT)”,GOLDEN PREMIER HD
+#EXTINF:-1 tvg-id="93" tvg-logo="https://logo.iptveditor.com/goldenpremier.png"  group-title=“Lista 28 solo OTT”,GOLDEN PREMIER HD
 https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11361,7 +11361,7 @@ https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="94" tvg-logo="https://logo.iptveditor.com/golfchannel.png"  group-title=“Izzi Go (solo OTT)”,GOLF CHANNEL HD
+#EXTINF:-1 tvg-id="94" tvg-logo="https://logo.iptveditor.com/golfchannel.png"  group-title=“Lista 28 solo OTT”,GOLF CHANNEL HD
 https://live1-ott.izzigo.tv/out/u/dash/GOLF-CHANNEL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11369,7 +11369,7 @@ https://live1-ott.izzigo.tv/out/u/dash/GOLF-CHANNEL-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="95" tvg-logo="https://logo.iptveditor.com/gourmet.png"  group-title=“Izzi Go (solo OTT)”,GOURMET HD
+#EXTINF:-1 tvg-id="95" tvg-logo="https://logo.iptveditor.com/gourmet.png"  group-title=“Lista 28 solo OTT”,GOURMET HD
 https://live1-ott.izzigo.tv/out/u/dash/GOURMET-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11377,7 +11377,7 @@ https://live1-ott.izzigo.tv/out/u/dash/GOURMET-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="96" tvg-logo="https://logo.iptveditor.com/hbo2.png"  group-title=“Izzi Go (solo OTT)”,HBO 2 HD
+#EXTINF:-1 tvg-id="96" tvg-logo="https://logo.iptveditor.com/hbo2.png"  group-title=“Lista 28 solo OTT”,HBO 2 HD
 https://live3-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11385,7 +11385,7 @@ https://live3-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="97" tvg-logo="https://logo.iptveditor.com/hbofamily.png"  group-title=“Izzi Go (solo OTT)”,HBO FAMILY HD
+#EXTINF:-1 tvg-id="97" tvg-logo="https://logo.iptveditor.com/hbofamily.png"  group-title=“Lista 28 solo OTT”,HBO FAMILY HD
 https://live3-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11393,7 +11393,7 @@ https://live3-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="98" tvg-logo="https://logo.iptveditor.com/hbo.png"  group-title=“Izzi Go (solo OTT)”,HBO HD
+#EXTINF:-1 tvg-id="98" tvg-logo="https://logo.iptveditor.com/hbo.png"  group-title=“Lista 28 solo OTT”,HBO HD
 https://live3-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11401,7 +11401,7 @@ https://live3-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="99" tvg-logo="https://logo.iptveditor.com/hbomundi.png"  group-title=“Izzi Go (solo OTT)”,HBO MUNDI HD
+#EXTINF:-1 tvg-id="99" tvg-logo="https://logo.iptveditor.com/hbomundi.png"  group-title=“Lista 28 solo OTT”,HBO MUNDI HD
 https://live3-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11409,7 +11409,7 @@ https://live3-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="100" tvg-logo="https://logo.iptveditor.com/hbopop.png"  group-title=“Izzi Go (solo OTT)”,HBO POP HD
+#EXTINF:-1 tvg-id="100" tvg-logo="https://logo.iptveditor.com/hbopop.png"  group-title=“Lista 28 solo OTT”,HBO POP HD
 https://live3-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11417,7 +11417,7 @@ https://live3-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="101" tvg-logo="https://logo.iptveditor.com/hbosignature.png"  group-title=“Izzi Go (solo OTT)”,HBO SIGNATURE HD
+#EXTINF:-1 tvg-id="101" tvg-logo="https://logo.iptveditor.com/hbosignature.png"  group-title=“Lista 28 solo OTT”,HBO SIGNATURE HD
 https://live3-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11425,7 +11425,7 @@ https://live3-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="102" tvg-logo="https://logo.iptveditor.com/hboxtreme.png"  group-title=“Izzi Go (solo OTT)”,HBO XTREME HD
+#EXTINF:-1 tvg-id="102" tvg-logo="https://logo.iptveditor.com/hboxtreme.png"  group-title=“Lista 28 solo OTT”,HBO XTREME HD
 https://live3-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11433,7 +11433,7 @@ https://live3-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="103" tvg-logo="https://logo.iptveditor.com/hboplus.png"  group-title=“Izzi Go (solo OTT)”,HBO+ HD
+#EXTINF:-1 tvg-id="103" tvg-logo="https://logo.iptveditor.com/hboplus.png"  group-title=“Lista 28 solo OTT”,HBO+ HD
 https://live3-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11441,7 +11441,7 @@ https://live3-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="104" tvg-logo="https://logo.iptveditor.com/history2.png"  group-title=“Izzi Go (solo OTT)”,HISTORY 2 HD
+#EXTINF:-1 tvg-id="104" tvg-logo="https://logo.iptveditor.com/history2.png"  group-title=“Lista 28 solo OTT”,HISTORY 2 HD
 https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11449,7 +11449,7 @@ https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="105" tvg-logo="https://logo.iptveditor.com/historychannel.png"  group-title=“Izzi Go (solo OTT)”,HISTORY CHANNEL HD
+#EXTINF:-1 tvg-id="105" tvg-logo="https://logo.iptveditor.com/historychannel.png"  group-title=“Lista 28 solo OTT”,HISTORY CHANNEL HD
 https://live3-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11457,7 +11457,7 @@ https://live3-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="106" tvg-logo="https://logo.iptveditor.com/hln.png"  group-title=“Izzi Go (solo OTT)”,HLN
+#EXTINF:-1 tvg-id="106" tvg-logo="https://logo.iptveditor.com/hln.png"  group-title=“Lista 28 solo OTT”,HLN
 https://live3-ott.izzigo.tv/out/u/dash/HLN-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11465,7 +11465,7 @@ https://live3-ott.izzigo.tv/out/u/dash/HLN-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="107" tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/06/61060_1_27666.jpg"  group-title=“Izzi Go (solo OTT)”,HOLA TV HD
+#EXTINF:-1 tvg-id="107" tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/06/61060_1_27666.jpg"  group-title=“Lista 28 solo OTT”,HOLA TV HD
 https://live1-ott.izzigo.tv/out/u/dash/HOLA-TV-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11473,7 +11473,7 @@ https://live1-ott.izzigo.tv/out/u/dash/HOLA-TV-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="108" tvg-logo="https://logo.iptveditor.com/imagentelevision.png"  group-title=“Izzi Go (solo OTT)”,IMAGEN TELEVISION HD
+#EXTINF:-1 tvg-id="108" tvg-logo="https://logo.iptveditor.com/imagentelevision.png"  group-title=“Lista 28 solo OTT”,IMAGEN TELEVISION HD
 https://live3-ott.izzigo.tv/out/u/dash/RDF-MTY-Imagen-Television-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11481,7 +11481,7 @@ https://live3-ott.izzigo.tv/out/u/dash/RDF-MTY-Imagen-Television-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="109" tvg-logo="https://logo.iptveditor.com/ingeniotv.png"  group-title=“Izzi Go (solo OTT)”,INGENIO SD
+#EXTINF:-1 tvg-id="109" tvg-logo="https://logo.iptveditor.com/ingeniotv.png"  group-title=“Lista 28 solo OTT”,INGENIO SD
 https://live3-ott.izzigo.tv/out/u/dash/INGENIO-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11489,7 +11489,7 @@ https://live3-ott.izzigo.tv/out/u/dash/INGENIO-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="110" tvg-logo="https://logo.iptveditor.com/nova.png"  group-title=“Izzi Go (solo OTT)”,INNOVA
+#EXTINF:-1 tvg-id="110" tvg-logo="https://logo.iptveditor.com/nova.png"  group-title=“Lista 28 solo OTT”,INNOVA
 https://live1-ott.izzigo.tv/out/u/dash/INNOVA-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11497,7 +11497,7 @@ https://live1-ott.izzigo.tv/out/u/dash/INNOVA-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="111" tvg-logo="https://logo.iptveditor.com/isat.png"  group-title=“Izzi Go (solo OTT)”,ISAT
+#EXTINF:-1 tvg-id="111" tvg-logo="https://logo.iptveditor.com/isat.png"  group-title=“Lista 28 solo OTT”,ISAT
 https://live3-ott.izzigo.tv/out/u/dash/ISAT-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11505,7 +11505,7 @@ https://live3-ott.izzigo.tv/out/u/dash/ISAT-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="112" tvg-logo="https://logo.iptveditor.com/tvjustica.png"  group-title=“Izzi Go (solo OTT)”,JUSTICIA TV
+#EXTINF:-1 tvg-id="112" tvg-logo="https://logo.iptveditor.com/tvjustica.png"  group-title=“Lista 28 solo OTT”,JUSTICIA TV
 https://live3-ott.izzigo.tv/out/u/dash/JUSTICIA-TV-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11513,7 +11513,7 @@ https://live3-ott.izzigo.tv/out/u/dash/JUSTICIA-TV-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="113" tvg-logo="https://logo.iptveditor.com/lasestrellas.png"  group-title=“Izzi Go (solo OTT)”,LAS ESTRELLAS 1HS
+#EXTINF:-1 tvg-id="113" tvg-logo="https://logo.iptveditor.com/lasestrellas.png"  group-title=“Lista 28 solo OTT”,LAS ESTRELLAS 1HS
 https://live3-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11521,7 +11521,7 @@ https://live3-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="114" tvg-logo="https://logo.iptveditor.com/lasestrellas.png"  group-title=“Izzi Go (solo OTT)”,LAS ESTRELLAS 2HS
+#EXTINF:-1 tvg-id="114" tvg-logo="https://logo.iptveditor.com/lasestrellas.png"  group-title=“Lista 28 solo OTT”,LAS ESTRELLAS 2HS
 https://live2-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11529,7 +11529,7 @@ https://live2-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="115" tvg-logo="https://logo.iptveditor.com/lasestrellas.png"  group-title=“Izzi Go (solo OTT)”,LAS ESTRELLAS HD
+#EXTINF:-1 tvg-id="115" tvg-logo="https://logo.iptveditor.com/lasestrellas.png"  group-title=“Lista 28 solo OTT”,LAS ESTRELLAS HD
 https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_Las-Estrellas-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11537,7 +11537,7 @@ https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_Las-Estrellas-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="116" tvg-logo="https://logo.iptveditor.com/lifetime.png"  group-title=“Izzi Go (solo OTT)”,LIFETIME HD
+#EXTINF:-1 tvg-id="116" tvg-logo="https://logo.iptveditor.com/lifetime.png"  group-title=“Lista 28 solo OTT”,LIFETIME HD
 https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11545,7 +11545,7 @@ https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="117" tvg-logo="https://logo.iptveditor.com/mariavision.png"  group-title=“Izzi Go (solo OTT)”,MARIAVISION HD
+#EXTINF:-1 tvg-id="117" tvg-logo="https://logo.iptveditor.com/mariavision.png"  group-title=“Lista 28 solo OTT”,MARIAVISION HD
 https://live3-ott.izzigo.tv/out/u/dash/MARIAVISION-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11553,7 +11553,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MARIAVISION-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="118" tvg-logo="https://logo.iptveditor.com/maschic.png"  group-title=“Izzi Go (solo OTT)”,MASCHIC HD
+#EXTINF:-1 tvg-id="118" tvg-logo="https://logo.iptveditor.com/maschic.png"  group-title=“Lista 28 solo OTT”,MASCHIC HD
 https://live1-ott.izzigo.tv/out/u/dash/MASCHIC-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11561,7 +11561,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MASCHIC-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="119" tvg-logo="https://logo.iptveditor.com/milenio.png"  group-title=“Izzi Go (solo OTT)”,MILENIO HD
+#EXTINF:-1 tvg-id="119" tvg-logo="https://logo.iptveditor.com/milenio.png"  group-title=“Lista 28 solo OTT”,MILENIO HD
 https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11569,7 +11569,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="144" tvg-logo="https://logo.iptveditor.com/mtvdance.png"  group-title=“Izzi Go (solo OTT)”,CLUB MTV
+#EXTINF:-1 tvg-id="144" tvg-logo="https://logo.iptveditor.com/mtvdance.png"  group-title=“Lista 28 solo OTT”,CLUB MTV
 https://live3-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11577,7 +11577,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="145" tvg-logo="https://logo.iptveditor.com/mtv.png"  group-title=“Izzi Go (solo OTT)”,MTV HD
+#EXTINF:-1 tvg-id="145" tvg-logo="https://logo.iptveditor.com/mtv.png"  group-title=“Lista 28 solo OTT”,MTV HD
 https://live2-ott.izzigo.tv/out/u/dash/MTV-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11585,7 +11585,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MTV-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="146" tvg-logo="https://logo.iptveditor.com/mtvhits.png"  group-title=“Izzi Go (solo OTT)”,MTV HITS HD
+#EXTINF:-1 tvg-id="146" tvg-logo="https://logo.iptveditor.com/mtvhits.png"  group-title=“Lista 28 solo OTT”,MTV HITS HD
 https://live3-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11593,7 +11593,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="147" tvg-logo="https://logo.iptveditor.com/mtv.png"  group-title=“Izzi Go (solo OTT)”,MTV LIVE HD
+#EXTINF:-1 tvg-id="147" tvg-logo="https://logo.iptveditor.com/mtv.png"  group-title=“Lista 28 solo OTT”,MTV LIVE HD
 https://live3-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11601,7 +11601,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="148" tvg-logo="https://logo.iptveditor.com/ca048muchmusic.png"  group-title=“Izzi Go (solo OTT)”,MUCH MUSIC
+#EXTINF:-1 tvg-id="148" tvg-logo="https://logo.iptveditor.com/ca048muchmusic.png"  group-title=“Lista 28 solo OTT”,MUCH MUSIC
 https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11609,7 +11609,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="149" tvg-logo="https://logo.iptveditor.com/multimediosplus.png"  group-title=“Izzi Go (solo OTT)”,CANAL 6+
+#EXTINF:-1 tvg-id="149" tvg-logo="https://logo.iptveditor.com/multimediosplus.png"  group-title=“Lista 28 solo OTT”,CANAL 6+
 https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11617,7 +11617,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="150" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC AÑOS 70
+#EXTINF:-1 tvg-id="150" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC AÑOS 70
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-70/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11625,7 +11625,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-70/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="151" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC AÑOS 80
+#EXTINF:-1 tvg-id="151" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC AÑOS 80
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-80/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11633,7 +11633,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-80/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="152" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC AÑOS 90
+#EXTINF:-1 tvg-id="152" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC AÑOS 90
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-90/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11641,7 +11641,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-90/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="153" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC BIG BAND
+#EXTINF:-1 tvg-id="153" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC BIG BAND
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-BIG-BAND/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11649,7 +11649,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-BIG-BAND/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="154" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC BLUES
+#EXTINF:-1 tvg-id="154" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC BLUES
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-BLUES/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11657,7 +11657,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-BLUES/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="155" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC BRASILEIRA
+#EXTINF:-1 tvg-id="155" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC BRASILEIRA
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-POPULAR-BRASILEIRA/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11665,7 +11665,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-POPULAR-BRASILEIRA/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="156" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC CANCIONES DE AMOR
+#EXTINF:-1 tvg-id="156" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC CANCIONES DE AMOR
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-CANCIONES-AMOR/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11673,7 +11673,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-CANCIONES-AMOR/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="157" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC CLASSIC DANCE
+#EXTINF:-1 tvg-id="157" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC CLASSIC DANCE
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-DANCE/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11681,7 +11681,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-DANCE/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="158" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC CLASSIC INDIE
+#EXTINF:-1 tvg-id="158" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC CLASSIC INDIE
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-INDIE/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11689,7 +11689,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-INDIE/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="159" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC CLASSIC MAESTROS
+#EXTINF:-1 tvg-id="159" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC CLASSIC MAESTROS
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-MAESTROS-CLASICO/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11697,7 +11697,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-MAESTROS-CLASICO/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="160" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC CLASSIC SOUL
+#EXTINF:-1 tvg-id="160" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC CLASSIC SOUL
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-SOUL/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11705,7 +11705,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-SOUL/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="161" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC CLUB BAILE
+#EXTINF:-1 tvg-id="161" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC CLUB BAILE
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-CLUB-BAILE/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11713,7 +11713,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-CLUB-BAILE/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="162" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC COCKTAIL
+#EXTINF:-1 tvg-id="162" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC COCKTAIL
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-COCKTAIL-LOUNGE/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11721,7 +11721,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-COCKTAIL-LOUNGE/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="163" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC DANCEHALL
+#EXTINF:-1 tvg-id="163" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC DANCEHALL
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-SESIONES-DANCEHALL/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11729,7 +11729,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-SESIONES-DANCEHALL/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="164" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC EL SALON CHILL
+#EXTINF:-1 tvg-id="164" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC EL SALON CHILL
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-EL-SALON-CHILL/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11737,7 +11737,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-EL-SALON-CHILL/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="165" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC ESTANDAR
+#EXTINF:-1 tvg-id="165" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC ESTANDAR
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-ESTANDARES/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11745,7 +11745,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-ESTANDARES/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="166" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC EURO HITS
+#EXTINF:-1 tvg-id="166" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC EURO HITS
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-EURO-HITS/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11753,7 +11753,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-EURO-HITS/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="167" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC EXITOS AMERICA
+#EXTINF:-1 tvg-id="167" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC EXITOS AMERICA
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-AMERICAS/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11761,7 +11761,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-AMERICAS/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="168" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC EXITOS BRASIL
+#EXTINF:-1 tvg-id="168" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC EXITOS BRASIL
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-BRASIL/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11769,7 +11769,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-BRASIL/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="169" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC EXITOS RECIENTES
+#EXTINF:-1 tvg-id="169" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC EXITOS RECIENTES
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-RECIENTES/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11777,7 +11777,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-RECIENTES/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="170" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC EXITSO ITALIA
+#EXTINF:-1 tvg-id="170" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC EXITSO ITALIA
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-ITALIA/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11785,7 +11785,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-ITALIA/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="171" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC FIESTA
+#EXTINF:-1 tvg-id="171" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC FIESTA
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-FIESTA-CONTINUA/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11793,7 +11793,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-FIESTA-CONTINUA/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="172" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC HARD ROCK
+#EXTINF:-1 tvg-id="172" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC HARD ROCK
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-HARD-ROCK/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11801,7 +11801,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-HARD-ROCK/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="173" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC HIMNOS ROCK
+#EXTINF:-1 tvg-id="173" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC HIMNOS ROCK
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-HIMNOS-ROCK/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11809,7 +11809,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-HIMNOS-ROCK/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="174" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC JAMMIN REGGAE
+#EXTINF:-1 tvg-id="174" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC JAMMIN REGGAE
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-JAMMIN-REGGAE/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11817,7 +11817,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-JAMMIN-REGGAE/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="175" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC JAZZ LATINO
+#EXTINF:-1 tvg-id="175" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC JAZZ LATINO
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-JAZZ-LATINO/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11825,7 +11825,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-JAZZ-LATINO/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="176" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC LATINO LOUNGUE
+#EXTINF:-1 tvg-id="176" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC LATINO LOUNGUE
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-LATIN-LOUNGE/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11833,7 +11833,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-LATIN-LOUNGE/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="177" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC LATINO TROPICAL
+#EXTINF:-1 tvg-id="177" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC LATINO TROPICAL
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-LATINO-TROPICAL/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11841,7 +11841,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-LATINO-TROPICAL/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="178" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC LIGERA
+#EXTINF:-1 tvg-id="178" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC LIGERA
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-LIGERA/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11849,7 +11849,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-LIGERA/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="179" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC MAESTROS JAZZ
+#EXTINF:-1 tvg-id="179" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC MAESTROS JAZZ
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-JMAESTROS-JAZZ/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11857,7 +11857,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-JMAESTROS-JAZZ/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="180" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC MARIACHI
+#EXTINF:-1 tvg-id="180" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC MARIACHI
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-MARIACHI-PARA-SIEMPRE/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11865,7 +11865,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-MARIACHI-PARA-SIEMPRE/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="181" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC MUNDO
+#EXTINF:-1 tvg-id="181" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC MUNDO
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-DEL-MUNDO/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11873,7 +11873,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-DEL-MUNDO/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="182" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC NEW AGE
+#EXTINF:-1 tvg-id="182" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC NEW AGE
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-NEW-AGE/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11881,7 +11881,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-NEW-AGE/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="183" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC OPERA+
+#EXTINF:-1 tvg-id="183" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC OPERA+
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-OPERA-PLUS/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11889,7 +11889,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-OPERA-PLUS/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="184" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC POP ADULTO
+#EXTINF:-1 tvg-id="184" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC POP ADULTO
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-POP-ADULTO/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11897,7 +11897,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-POP-ADULTO/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="185" tvg-logo="https://logo.iptveditor.com/4musicp.png"  group-title=“Izzi Go (solo OTT)”,MUSIC POP LATINO
+#EXTINF:-1 tvg-id="185" tvg-logo="https://logo.iptveditor.com/4musicp.png"  group-title=“Lista 28 solo OTT”,MUSIC POP LATINO
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-POP-LATINO-ACTUAL/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11905,7 +11905,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-POP-LATINO-ACTUAL/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="186" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC POPCORN
+#EXTINF:-1 tvg-id="186" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC POPCORN
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-POPCORN/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11913,7 +11913,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-POPCORN/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="187" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC POPULAR CLASSIC
+#EXTINF:-1 tvg-id="187" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC POPULAR CLASSIC
 https://live3-ott.izzigo.tv/out/u/dash/POPULAR-CLASSICAL/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11921,7 +11921,7 @@ https://live3-ott.izzigo.tv/out/u/dash/POPULAR-CLASSICAL/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="188" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC REGGAETON
+#EXTINF:-1 tvg-id="188" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC REGGAETON
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-REGGAETON/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11929,7 +11929,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-REGGAETON/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="189" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC ROCK ALTERNATIVO
+#EXTINF:-1 tvg-id="189" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC ROCK ALTERNATIVO
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ROCK-ALTERNATIVO/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11937,7 +11937,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ROCK-ALTERNATIVO/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="190" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC ROCK BRASIL
+#EXTINF:-1 tvg-id="190" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC ROCK BRASIL
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-ROCK-BRASIL/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11945,7 +11945,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-ROCK-BRASIL/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="191" tvg-logo="https://logo.iptveditor.com/mcmusicrock.png"  group-title=“Izzi Go (solo OTT)”,MUSIC ROCK ESPAÑOL
+#EXTINF:-1 tvg-id="191" tvg-logo="https://logo.iptveditor.com/mcmusicrock.png"  group-title=“Lista 28 solo OTT”,MUSIC ROCK ESPAÑOL
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-R0CK-ESPANOL/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11953,7 +11953,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-R0CK-ESPANOL/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="192" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC ROMANCE LATINO
+#EXTINF:-1 tvg-id="192" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC ROMANCE LATINO
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-ROMANCE-LATINO/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11961,7 +11961,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-ROMANCE-LATINO/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="193" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC ROMPEPISTAS
+#EXTINF:-1 tvg-id="193" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC ROMPEPISTAS
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-ROMPEPISTAS/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11969,7 +11969,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-ROMPEPISTAS/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="194" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC SALSA MERENGUE
+#EXTINF:-1 tvg-id="194" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC SALSA MERENGUE
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-SALSA-MERENGUE/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11977,7 +11977,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-SALSA-MERENGUE/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="195" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC SAMBA
+#EXTINF:-1 tvg-id="195" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC SAMBA
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-SAMBA-PAGODE/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11985,7 +11985,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-SAMBA-PAGODE/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="196" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC SOLO PARA NIÑOS
+#EXTINF:-1 tvg-id="196" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC SOLO PARA NIÑOS
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-SOLO-PEQUES/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11993,7 +11993,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-SOLO-PEQUES/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="197" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC TANGO
+#EXTINF:-1 tvg-id="197" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC TANGO
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-TANGO/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12001,7 +12001,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-TANGO/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="198" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC VIEJOTAS BUENAS
+#EXTINF:-1 tvg-id="198" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC VIEJOTAS BUENAS
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-VIEJOTAS-BUENISIMAS/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12009,7 +12009,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-VIEJOTAS-BUENISIMAS/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="199" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Izzi Go (solo OTT)”,MUSIC VIVA MEXICO
+#EXTINF:-1 tvg-id="199" tvg-logo="https://logo.iptveditor.com/romances.png"  group-title=“Lista 28 solo OTT”,MUSIC VIVA MEXICO
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-VIVA-MEXICO/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12017,7 +12017,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-VIVA-MEXICO/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="200" tvg-logo="https://logo.iptveditor.com/natgeo.png"  group-title=“Izzi Go (solo OTT)”,NAT GEO HD
+#EXTINF:-1 tvg-id="200" tvg-logo="https://logo.iptveditor.com/natgeo.png"  group-title=“Lista 28 solo OTT”,NAT GEO HD
 https://live3-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12025,7 +12025,7 @@ https://live3-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="203" tvg-logo="https://logo.iptveditor.com/nfl.png"  group-title=“Izzi Go (solo OTT)”,NFL HD
+#EXTINF:-1 tvg-id="203" tvg-logo="https://logo.iptveditor.com/nfl.png"  group-title=“Lista 28 solo OTT”,NFL HD
 https://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12033,7 +12033,7 @@ https://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="204" tvg-logo="https://logo.iptveditor.com/nhk.png"  group-title=“Izzi Go (solo OTT)”,NHK HD
+#EXTINF:-1 tvg-id="204" tvg-logo="https://logo.iptveditor.com/nhk.png"  group-title=“Lista 28 solo OTT”,NHK HD
 https://live2-ott.izzigo.tv/out/u/dash/NHK-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12041,7 +12041,7 @@ https://live2-ott.izzigo.tv/out/u/dash/NHK-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="205" tvg-logo="https://logo.iptveditor.com/nick2.png"  group-title=“Izzi Go (solo OTT)”,TEENNICK
+#EXTINF:-1 tvg-id="205" tvg-logo="https://logo.iptveditor.com/nick2.png"  group-title=“Lista 28 solo OTT”,TEENNICK
 https://live3-ott.izzigo.tv/out/u/dash/NICK-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12049,7 +12049,7 @@ https://live3-ott.izzigo.tv/out/u/dash/NICK-2-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="206" tvg-logo="https://logo.iptveditor.com/nick.png"  group-title=“Izzi Go (solo OTT)”,NICK HD
+#EXTINF:-1 tvg-id="206" tvg-logo="https://logo.iptveditor.com/nick.png"  group-title=“Lista 28 solo OTT”,NICK HD
 https://live2-ott.izzigo.tv/out/u/dash/NICK-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12057,7 +12057,7 @@ https://live2-ott.izzigo.tv/out/u/dash/NICK-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="207" tvg-logo="https://logo.iptveditor.com/nickjr.png"  group-title=“Izzi Go (solo OTT)”,NICK JR HD
+#EXTINF:-1 tvg-id="207" tvg-logo="https://logo.iptveditor.com/nickjr.png"  group-title=“Lista 28 solo OTT”,NICK JR HD
 https://live3-ott.izzigo.tv/out/u/dash/NICK-JR-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12065,7 +12065,7 @@ https://live3-ott.izzigo.tv/out/u/dash/NICK-JR-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="208" tvg-logo="https://logo.iptveditor.com/nicktoons.png"  group-title=“Izzi Go (solo OTT)”,NICKMUSIC
+#EXTINF:-1 tvg-id="208" tvg-logo="https://logo.iptveditor.com/nicktoons.png"  group-title=“Lista 28 solo OTT”,NICKMUSIC
 https://live3-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12073,7 +12073,7 @@ https://live3-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="209" tvg-logo="https://logo.iptveditor.com/ochotv.png"  group-title=“Izzi Go (solo OTT)”,QUIERO TV HD
+#EXTINF:-1 tvg-id="209" tvg-logo="https://logo.iptveditor.com/ochotv.png"  group-title=“Lista 28 solo OTT”,QUIERO TV HD
 https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12081,7 +12081,7 @@ https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="210" tvg-logo="https://logo.iptveditor.com/canalonce.png"  group-title=“Izzi Go (solo OTT)”,ONCE HD
+#EXTINF:-1 tvg-id="210" tvg-logo="https://logo.iptveditor.com/canalonce.png"  group-title=“Lista 28 solo OTT”,ONCE HD
 https://live1-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12089,7 +12089,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="211" tvg-logo="https://logo.iptveditor.com/canalonceninos.png"  group-title=“Izzi Go (solo OTT)”,ONCE NINAS Y NINOS
+#EXTINF:-1 tvg-id="211" tvg-logo="https://logo.iptveditor.com/canalonceninos.png"  group-title=“Lista 28 solo OTT”,ONCE NINAS Y NINOS
 https://live3-ott.izzigo.tv/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12097,7 +12097,7 @@ https://live3-ott.izzigo.tv/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="212" tvg-logo="https://logo.iptveditor.com/paramount.png"  group-title=“Izzi Go (solo OTT)”,PARAMOUNT HD
+#EXTINF:-1 tvg-id="212" tvg-logo="https://logo.iptveditor.com/paramount.png"  group-title=“Lista 28 solo OTT”,PARAMOUNT HD
 https://live2-ott.izzigo.tv/out/u/dash/PARAMOUNT-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12105,7 +12105,7 @@ https://live2-ott.izzigo.tv/out/u/dash/PARAMOUNT-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/2092px-Rai_1_HD_-_Logo_2016.svg.png"  group-title=“Izzi Go (solo OTT)”,RAI HD
+#EXTINF:-1 tvg-id="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/2092px-Rai_1_HD_-_Logo_2016.svg.png"  group-title=“Lista 28 solo OTT”,RAI HD
 https://live3-ott.izzigo.tv/out/u/dash/RAI-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12113,7 +12113,7 @@ https://live3-ott.izzigo.tv/out/u/dash/RAI-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="214" tvg-logo="https://logo.iptveditor.com/realmadridtvenglish.png"  group-title=“Izzi Go (solo OTT)”,REAL MADRID HD
+#EXTINF:-1 tvg-id="214" tvg-logo="https://logo.iptveditor.com/realmadridtvenglish.png"  group-title=“Lista 28 solo OTT”,REAL MADRID HD
 https://live3-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12121,7 +12121,7 @@ https://live3-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="215" tvg-logo="https://logo.iptveditor.com/rt.png"  group-title=“Izzi Go (solo OTT)”,RT HD
+#EXTINF:-1 tvg-id="215" tvg-logo="https://logo.iptveditor.com/rt.png"  group-title=“Lista 28 solo OTT”,RT HD
 https://live2-ott.izzigo.tv/out/u/dash/RT-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12129,7 +12129,7 @@ https://live2-ott.izzigo.tv/out/u/dash/RT-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="216" tvg-logo="https://logo.iptveditor.com/shopping.png"  group-title=“Izzi Go (solo OTT)”,CV SHOPPING SD
+#EXTINF:-1 tvg-id="216" tvg-logo="https://logo.iptveditor.com/shopping.png"  group-title=“Lista 28 solo OTT”,CV SHOPPING SD
 https://live3-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12137,7 +12137,7 @@ https://live3-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="217" tvg-logo="https://logo.iptveditor.com/vietsong.png"  group-title=“Izzi Go (solo OTT)”,SONGIE TV
+#EXTINF:-1 tvg-id="217" tvg-logo="https://logo.iptveditor.com/vietsong.png"  group-title=“Lista 28 solo OTT”,SONGIE TV
 https://live3-ott.izzigo.tv/out/u/dash/SONGIE-TV-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12145,7 +12145,7 @@ https://live3-ott.izzigo.tv/out/u/dash/SONGIE-TV-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="218" tvg-logo="https://logo.iptveditor.com/sony.png"  group-title=“Izzi Go (solo OTT)”,SONY HD
+#EXTINF:-1 tvg-id="218" tvg-logo="https://logo.iptveditor.com/sony.png"  group-title=“Lista 28 solo OTT”,SONY HD
 https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12161,7 +12161,7 @@ https://live2-ott.izzigo.tv/out/u/dash/SPACE-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="225" tvg-logo="https://logo.iptveditor.com/star.png"  group-title=“Izzi Go (solo OTT)”,STAR HD
+#EXTINF:-1 tvg-id="225" tvg-logo="https://logo.iptveditor.com/star.png"  group-title=“Lista 28 solo OTT”,STAR HD
 https://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12169,7 +12169,7 @@ https://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="229" tvg-logo="https://logo.iptveditor.com/syfy.png"  group-title=“Izzi Go (solo OTT)”,SYFY HD
+#EXTINF:-1 tvg-id="229" tvg-logo="https://logo.iptveditor.com/syfy.png"  group-title=“Lista 28 solo OTT”,SYFY HD
 https://live3-ott.izzigo.tv/out/u/dash/SYFY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12177,7 +12177,7 @@ https://live3-ott.izzigo.tv/out/u/dash/SYFY-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="230" tvg-logo="https://logo.iptveditor.com/tbs.png"  group-title=“Izzi Go (solo OTT)”,TBS SD
+#EXTINF:-1 tvg-id="230" tvg-logo="https://logo.iptveditor.com/tbs.png"  group-title=“Lista 28 solo OTT”,TBS SD
 https://live3-ott.izzigo.tv/out/u/dash/TBS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12185,7 +12185,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TBS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="231" tvg-logo="https://logo.iptveditor.com/tcm.png"  group-title=“Izzi Go (solo OTT)”,TCM
+#EXTINF:-1 tvg-id="231" tvg-logo="https://logo.iptveditor.com/tcm.png"  group-title=“Lista 28 solo OTT”,TCM
 https://live3-ott.izzigo.tv/out/u/dash/TCM-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12193,7 +12193,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TCM-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="232" tvg-logo="https://logo.iptveditor.com/telefe.png"  group-title=“Izzi Go (solo OTT)”,TELEFE HD
+#EXTINF:-1 tvg-id="232" tvg-logo="https://logo.iptveditor.com/telefe.png"  group-title=“Lista 28 solo OTT”,TELEFE HD
 https://live1-ott.izzigo.tv/out/u/dash/TELEFE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12201,7 +12201,7 @@ https://live1-ott.izzigo.tv/out/u/dash/TELEFE-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="233" tvg-logo="https://logo.iptveditor.com/teleformula.png"  group-title=“Izzi Go (solo OTT)”,TELEFORMULA SD
+#EXTINF:-1 tvg-id="233" tvg-logo="https://logo.iptveditor.com/teleformula.png"  group-title=“Lista 28 solo OTT”,TELEFORMULA SD
 https://live3-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12209,7 +12209,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="234" tvg-logo="https://logo.iptveditor.com/telehit.png"  group-title=“Izzi Go (solo OTT)”,TELEHIT
+#EXTINF:-1 tvg-id="234" tvg-logo="https://logo.iptveditor.com/telehit.png"  group-title=“Lista 28 solo OTT”,TELEHIT
 https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12217,7 +12217,7 @@ https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="234" tvg-logo="https://logo.iptveditor.com/telehit.png"  group-title=“Izzi Go (solo OTT)”,TELEHIT MUSICA PLUS
+#EXTINF:-1 tvg-id="234" tvg-logo="https://logo.iptveditor.com/telehit.png"  group-title=“Lista 28 solo OTT”,TELEHIT MUSICA PLUS
 https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12225,7 +12225,7 @@ https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="235" tvg-logo="https://logo.iptveditor.com/telehiturbano.png"  group-title=“Izzi Go (solo OTT)”,TELEHIT MUSICA
+#EXTINF:-1 tvg-id="235" tvg-logo="https://logo.iptveditor.com/telehiturbano.png"  group-title=“Lista 28 solo OTT”,TELEHIT MUSICA
 https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12233,7 +12233,7 @@ https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="236" tvg-logo="https://logo.iptveditor.com/telemundo.png"  group-title=“Izzi Go (solo OTT)”,TELEMUNDO HD
+#EXTINF:-1 tvg-id="236" tvg-logo="https://logo.iptveditor.com/telemundo.png"  group-title=“Lista 28 solo OTT”,TELEMUNDO HD
 https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12241,7 +12241,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="237" tvg-logo="https://logo.iptveditor.com/tlnovelas.png"  group-title=“Izzi Go (solo OTT)”,TLNOVELAS
+#EXTINF:-1 tvg-id="237" tvg-logo="https://logo.iptveditor.com/tlnovelas.png"  group-title=“Lista 28 solo OTT”,TLNOVELAS
 https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12249,7 +12249,7 @@ https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="238" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png"  group-title=“Izzi Go (solo OTT)”,TNT HD
+#EXTINF:-1 tvg-id="238" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png"  group-title=“Lista 28 solo OTT”,TNT HD
 https://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12257,7 +12257,7 @@ https://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="239" tvg-logo="https://logo.iptveditor.com/tntseries.png"  group-title=“Izzi Go (solo OTT)”,TNT SERIES HD
+#EXTINF:-1 tvg-id="239" tvg-logo="https://logo.iptveditor.com/tntseries.png"  group-title=“Lista 28 solo OTT”,TNT SERIES HD
 https://live1-ott.izzigo.tv/out/u/dash/TNT-SERIES-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12265,7 +12265,7 @@ https://live1-ott.izzigo.tv/out/u/dash/TNT-SERIES-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="240" tvg-logo="https://logo.iptveditor.com/tooncast.png"  group-title=“Izzi Go (solo OTT)”,TOONCAST
+#EXTINF:-1 tvg-id="240" tvg-logo="https://logo.iptveditor.com/tooncast.png"  group-title=“Lista 28 solo OTT”,TOONCAST
 https://live3-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12273,7 +12273,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="241" tvg-logo="https://logo.iptveditor.com/trutv.png"  group-title=“Izzi Go (solo OTT)”,TRU TV HD
+#EXTINF:-1 tvg-id="241" tvg-logo="https://logo.iptveditor.com/trutv.png"  group-title=“Lista 28 solo OTT”,TRU TV HD
 https://live2-ott.izzigo.tv/out/u/dash/TRU-TV-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12281,7 +12281,7 @@ https://live2-ott.izzigo.tv/out/u/dash/TRU-TV-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="242" tvg-logo="https://logo.iptveditor.com/tudn.png"  group-title=“Izzi Go (solo OTT)”,TUDN HD
+#EXTINF:-1 tvg-id="242" tvg-logo="https://logo.iptveditor.com/tudn.png"  group-title=“Lista 28 solo OTT”,TUDN HD
 https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12289,7 +12289,7 @@ https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="243" tvg-logo="https://logo.iptveditor.com/galiciatveuropa.png"  group-title=“Izzi Go (solo OTT)”,TV GALICIA
+#EXTINF:-1 tvg-id="243" tvg-logo="https://logo.iptveditor.com/galiciatveuropa.png"  group-title=“Lista 28 solo OTT”,TV GALICIA
 https://live3-ott.izzigo.tv/out/u/dash/TV-GALICIA-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12297,7 +12297,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TV-GALICIA-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="244" tvg-logo="https://logo.iptveditor.com/globo.png"  group-title=“Izzi Go (solo OTT)”,TV GLOBO
+#EXTINF:-1 tvg-id="244" tvg-logo="https://logo.iptveditor.com/globo.png"  group-title=“Lista 28 solo OTT”,TV GLOBO
 https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12305,7 +12305,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="245" tvg-logo="https://logo.iptveditor.com/tv5.png"  group-title=“Izzi Go (solo OTT)”,TV5
+#EXTINF:-1 tvg-id="245" tvg-logo="https://logo.iptveditor.com/tv5.png"  group-title=“Lista 28 solo OTT”,TV5
 https://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12313,7 +12313,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="246" tvg-logo="https://medias.unifrance.org/medias/5/67/148229/format_hd/tve-television-espanola.png"  group-title=“Izzi Go (solo OTT)”,TVE
+#EXTINF:-1 tvg-id="246" tvg-logo="https://medias.unifrance.org/medias/5/67/148229/format_hd/tve-television-espanola.png"  group-title=“Lista 28 solo OTT”,TVE
 https://live3-ott.izzigo.tv/out/u/dash/TVE-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12321,7 +12321,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TVE-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="247" tvg-logo="https://logo.iptveditor.com/teveunam.png"  group-title=“Izzi Go (solo OTT)”,INGENIO TV RDF (20.1)
+#EXTINF:-1 tvg-id="247" tvg-logo="https://logo.iptveditor.com/teveunam.png"  group-title=“Lista 28 solo OTT”,INGENIO TV RDF (20.1)
 https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_TV-UNAM-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12329,7 +12329,7 @@ https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_TV-UNAM-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="248" tvg-logo="https://logo.iptveditor.com/unicable.png"  group-title=“Izzi Go (solo OTT)”,UNICABLE HD
+#EXTINF:-1 tvg-id="248" tvg-logo="https://logo.iptveditor.com/unicable.png"  group-title=“Lista 28 solo OTT”,UNICABLE HD
 https://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12337,7 +12337,7 @@ https://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="249" tvg-logo="https://logo.iptveditor.com/universal.png"  group-title=“Izzi Go (solo OTT)”,UNIVERSAL TV HD
+#EXTINF:-1 tvg-id="249" tvg-logo="https://logo.iptveditor.com/universal.png"  group-title=“Lista 28 solo OTT”,UNIVERSAL TV HD
 https://live3-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12345,7 +12345,7 @@ https://live3-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="250" tvg-logo="https://logo.iptveditor.com/vh1classic.png"  group-title=“Izzi Go (solo OTT)”,MTV 80S
+#EXTINF:-1 tvg-id="250" tvg-logo="https://logo.iptveditor.com/vh1classic.png"  group-title=“Lista 28 solo OTT”,MTV 80S
 https://live3-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12353,7 +12353,7 @@ https://live3-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="251" tvg-logo="https://logo.iptveditor.com/vh1.png"  group-title=“Izzi Go (solo OTT)”,MTV 00S
+#EXTINF:-1 tvg-id="251" tvg-logo="https://logo.iptveditor.com/vh1.png"  group-title=“Lista 28 solo OTT”,MTV 00S
 https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12361,7 +12361,7 @@ https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="252" tvg-logo="https://logo.iptveditor.com/warner.png"  group-title=“Izzi Go (solo OTT)”,WARNER HD
+#EXTINF:-1 tvg-id="252" tvg-logo="https://logo.iptveditor.com/warner.png"  group-title=“Lista 28 solo OTT”,WARNER HD
 https://live3-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -12370,13 +12370,13 @@ https://live3-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="253" tvg-logo="https://logo.iptveditor.com/zeemundo.png"  group-title=“Izzi Go (solo OTT)”,ZEE MUNDO HD
+#EXTINF:-1 tvg-id="253" tvg-logo="https://logo.iptveditor.com/zeemundo.png"  group-title=“Lista 28 solo OTT”,ZEE MUNDO HD
 https://live3-ott.izzigo.tv/out/u/dash/ZEE-MUNDO-HD/default.mpd
 
-#EXTINF:-1  group-title=“Izzi Go (solo OTT)”,FoxSports
+#EXTINF:-1  group-title=“Lista 28 solo OTT”,FoxSports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title=“Izzi Go (solo OTT)”,"kid":"dr6BBB5xM6OEV_CX0rAEHA" group-title=“Izzi Go (solo OTT)”,"k":"jO2EbJ7_1W1-KpJ2IkuzxQ"}] group-title=“Izzi Go (solo OTT)”,"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title=“Lista 28 solo OTT”,"kid":"dr6BBB5xM6OEV_CX0rAEHA" group-title=“Lista 28 solo OTT”,"k":"jO2EbJ7_1W1-KpJ2IkuzxQ"}] group-title=“Lista 28 solo OTT”,"type":"temporary"}
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
