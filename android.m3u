@@ -6273,7 +6273,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="234" tvg-logo="https://logo.iptveditor.com/telehit.png"  group-title=“Lista 28 solo OTT”,TELEHIT
-https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghostt
@@ -6435,14 +6435,3 @@ https://live3-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="253" tvg-logo="https://logo.iptveditor.com/zeemundo.png"  group-title=“Lista 28 solo OTT”,ZEE MUNDO HD
 https://live3-ott.izzigo.tv/out/u/dash/ZEE-MUNDO-HD/default.mpd
-
-#EXTINF:-1  group-title=“Lista 28 solo OTT”,FoxSports
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title=“Lista 28 solo OTT”,"kid":"dr6BBB5xM6OEV_CX0rAEHA" group-title=“Lista 28 solo OTT”,"k":"jO2EbJ7_1W1-KpJ2IkuzxQ"}] group-title=“Lista 28 solo OTT”,"type":"temporary"}
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-https://1118-vos.dtvott.com/DASH/manifest.mpd
-
-
