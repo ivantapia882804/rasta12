@@ -386,11 +386,11 @@ http://bgapp.live/play/totalp2s-844.php?k=blaacghost&token=blackghosst&c=2402
 
 
 #EXTINF:-1 tvg-id="ENLACETV.co" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace
-https://1-349-11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
+https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EnlaceJuvenil.mx" tvg-name="Enlace Juvenil" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace Juvenil
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93855/12?f=.m3u8
 #EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="El Sembrador Nueva Evangelización" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/esne.png" group-title="RELIGIÓN",El Sembrador Nueva Evangelización
-https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1661186586~acl=%2f*~data=hdntl~hmac=e878cc95f10a199a85e244e48d4ff1ee3ad7cf0b4fc97a0e48f2764db37322ea/chunklist.m3u8
 #EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="María Visión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/maria.png" group-title="RELIGIÓN",María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ewtn.png" group-title="RELIGIÓN",EWTN
@@ -406,7 +406,7 @@ https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
 #EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="LOCALES",Canal Catorce
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unam.png" group-title="LOCALES",TV UNAM
-https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w1881046714_DVR.m3u8
+https://5e50264bd6766.streamlock.net/tvunam2/videotvunam2/playlist.m3u8
 #EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="LOCALES",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
 #EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="Canal 22.2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="LOCALES",Canal 22.2
@@ -422,7 +422,7 @@ https://stream-02.sv4.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOg5xvHn_aSXFJBnAA0
 #EXTINF:-1 tvg-id="HeraldoTV.mx" tvg-name="Heraldo Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hc8.png" group-title="LOCALES",Heraldo Televisión
 https://stream-03.sv4.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRPIMaSUKTU77jbaNBAd7FDOeqehK-sdm0DIQXvalQosI)/dm/3/x88epch/d/live-4.m3u8
 #EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 MTY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 MTY
-http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 LAG" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 LAG
 http://mdstrm.com/live-stream-playlist_2500/57bf686a61ff39e1085d43e1.m3u8?
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GDL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 GDL
@@ -2079,437 +2079,682 @@ http://bgapp.live/play/ultima-844.php?tokeen=blackghostt&c=406&f=.m3u8
 http://bgapp.live/play/ultima-844.php?tokeen=blackghostt&c=407&f=.m3u8
 
 
-#EXTINF:-1 group-title="Lista 16" ,Directv Sports 2 Argentina
-https://sv.spliktv.xyz/live/caster/CA/c4eds/ESPNHD/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,ESPN 4 Argentina
-https://sv.spliktv.xyz/live/caster/CA/c4eds/FoxSports/ab.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" ,ESPN Premium Argentina Argentina
-https://sv.spliktv.xyz/live/caster/CA/c3eds/TNT_Sports_HD/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,TyC Sports Argentina
-https://sv.spliktv.xyz/live/caster/UY/c3eds/TyC_Internacional/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga
-https://sv.spliktv.xyz/live/caster/BE/84/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga 1
-https://sv.spliktv.xyz/live/caster/BE/538/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga 2
-https://sv.spliktv.xyz/live/caster/BE/539/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga 3
-https://sv.spliktv.xyz/live/caster/BE/540/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga 4
-https://sv.spliktv.xyz/live/caster/BE/106/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga 5
-https://sv.spliktv.xyz/live/caster/BE/155/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga 6
-https://sv.spliktv.xyz/live/caster/BE/107/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga 7
-https://sv.spliktv.xyz/live/caster/BE/156/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga 8
-https://sv.spliktv.xyz/live/caster/BE/160/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar Liga de Campeones
-https://sv.spliktv.xyz/live/caster/BE/435/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar Liga de Campeones 1
-https://sv.spliktv.xyz/live/caster/BE/158/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar Liga de Campeones 2
-https://sv.spliktv.xyz/live/caster/BE/157/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar Liga de Campeones 3
-https://sv.spliktv.xyz/live/caster/BE/156/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar Liga de Campeones 4
-https://sv.spliktv.xyz/live/caster/BE/19/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Mo_Deprt SPLHD887 1
-https://sv.spliktv.xyz/live/caster/BE/445/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Mo_Deprt SPLHD887 2
-https://sv.spliktv.xyz/live/caster/BE/446/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Mo_Deprt SPLHD887 3
-https://sv.spliktv.xyz/live/caster/BE/447/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Mo_Deprt SPLHD887 F1
-https://sv.spliktv.xyz/live/caster/BE/76/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,VTV Mexico
-https://sv.spliktv.xyz/live/caster/BE/66/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Cinecanal
-https://sv.spliktv.xyz/live/caster/RA/CinecanalHD.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Sony Cine
-http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" ,SYFY
-https://sv.spliktv.xyz/live/caster/SYFY_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" , 24/7 MX Classic Pel\u00edculas
-http://channels-spliktv.x10.mx/EventMovies/MxClassic.m3u8?redbull #EXTINF:-1 group-title="Lista 16" , 24/7 MX Prime Pel\u00edculas
-http://channels-spliktv.x10.mx/EventMovies/MxPrime.m3u8?redbull #EXTINF:-1 group-title="Lista 16" , 24/7 MX Family Pel\u00edculas
-http://channels-spliktv.x10.mx/EventMovies/MxFamily.m3u8?redbull #EXTINF:-1 group-title="Lista 16" , 24/7 Bob Esponja
-http://channels-spliktv.x10.mx/spliktv247/BobEsponja/index.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Doraemon
-http://channels-spliktv.x10.mx/spliktv247/Doraemon/index.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Animaniacs
-http://channels-spliktv.x10.mx/spliktv247/Animaniacs/index.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 El Pajaro Loco
-http://channels-spliktv.x10.mx/spliktv247/ElPajaroLoco/index.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Runtime Pel\u00edculas
-https://runtimemx-samsungmx.amagi.tv/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 PlanetaTV Niños
-https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Los Simpsons
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 RetroPlus Señal 1
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?castca
-#EXTINF:-1 group-title="Lista 16" , 24/7 RetroPlus Señal 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 RetroPlus Señal 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" ,RCN Novelas
-https://sv.spliktv.xyz/live/caster/RCN_TELENOVELAS/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,MTV
-https://sv.spliktv.xyz/live/caster/MTV_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Film & Arts
-https://sv.spliktv.xyz/live/caster/FILM_AND_ARTS_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Hola TV
-https://sv.spliktv.xyz/live/caster/CA/c7eds/Hola_TV/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,M\u00e1s Chic
-https://sv.spliktv.xyz/live/caster/MAS_CHIC_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,CNN en Espa\u00f1ol
-https://sv.spliktv.xyz/live/caster/CNN_EN_ESPANOL/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Bloomberg Television
-https://sv.spliktv.xyz/live/caster/BLOOMBERG/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Globo
-https://live-as-10-17.video.globo.com/h/0401650719953207816611816506335531344432660r5c5gPj8i9Q4cyM6bKjbuA/k/html5/a/F/u/fed61d68-b53f-4d2f-a2cf-c54915f1b772/nu/globo-sp1/playlist.m3u8
-#EXTINF:-1 group-title="Lista 16" ,RT en Espa\u00f1ol
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" ,A&E Pop
-https://sv.spliktv.xyz/live/caster/VEVO/POP.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E Latino
-https://sv.spliktv.xyz/live/caster/VEVO/LATINO.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E Country
-https://sv.spliktv.xyz/live/caster/VEVO/COUNTRY.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E R&B
-https://sv.spliktv.xyz/live/caster/VEVO/RB.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E Reggaeton & Trap
-https://sv.spliktv.xyz/live/caster/VEVO/REGGAEYTRAP.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E 2k
-https://sv.spliktv.xyz/live/caster/VEVO/2K.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E 90's
-https://sv.spliktv.xyz/live/caster/VEVO/90S.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E 80's
-https://sv.spliktv.xyz/live/caster/VEVO/80S.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E 70's
-https://sv.spliktv.xyz/live/caster/VEVO/70S.m3u8
-#EXTINF:-1 group-title="Lista 16" ,IP Noticias
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" ,Argentinisima Satelital
-https://sv.spliktv.xyz/live/caster/ARGENTINISIMA_SATELITAL/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,CINE.AR
-https://sv.spliktv.xyz/live/caster/CINEAR/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Bolivia TV 7.1
-https://sv.spliktv.xyz/live/web/BO/200.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Se\u00f1al Colombia
-https://sv.spliktv.xyz/live/caster/CO/SE-CO.m3u8
-#EXTINF:-1 group-title="Lista 16" ,ADN 40
-https://sv.spliktv.xyz/live/caster/RU/ADN40.m3u8
-#EXTINF:-1 group-title="Lista 16" ,RPC
-https://sv.spliktv.xyz/live/caster/PA/RPC.m3u8
-#EXTINF:-1 group-title="Lista 16" ,C9N
-https://sv.spliktv.xyz/live/caster/PY/c5eds/C9N_C4/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Telefuturo
-https://sv.spliktv.xyz/live/caster/PY/c4eds/TELEFUTURO_C4/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Paraguay TV
-https://sv.spliktv.xyz/live/caster/PY/c7eds/Paraguay_TV/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Noticias Paraguay
-https://sv.spliktv.xyz/live/caster/PY/c4eds/NOTICIAS_PY_C4/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,La Tele
-https://sv.spliktv.xyz/live/caster/PY/c4eds/LA_TELE_C4/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Trece
-https://sv.spliktv.xyz/live/caster/PY/c4eds/RPC_C4/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Paravisi\u00f3n
-https://sv.spliktv.xyz/live/caster/PY/c4eds/PARAVISION_C4/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,TV Camara
-https://sv.spliktv.xyz/live/caster/PY/c4eds/TV_Camara/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,GEN
-https://sv.spliktv.xyz/live/caster/PY/c7eds/GEN_TV/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,5 D\u00edas
-https://sv.spliktv.xyz/live/caster/PY/c4eds/5_Dias_PY/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Unicanal
-https://sv.spliktv.xyz/live/caster/PY/c4eds/UNICANAL_C4/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,SUR TV
-https://sv.spliktv.xyz/live/caster/PY/c4eds/SUR_TV_C4/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Latina
-https://sv.spliktv.xyz/live/caster/PE/LATINA.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Teledoce
-https://sv.spliktv.xyz/live/caster/UY/c4eds/Canal12URU/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Canal 4
-https://sv.spliktv.xyz/live/caster/UY/c4eds/Canal4_URU/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Canal 5
-https://sv.spliktv.xyz/live/caster/UY/c3eds/TV_Nacional_Uy/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,TV Ciudad
-https://sv.spliktv.xyz/live/caster/UY/c3eds/Teve_Ciudad/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,TLT
-https://sv.spliktv.xyz/live/caster/VE/TLT.m3u8
+#EXTINF:-1 group-title="Lista 15", Animal Planet HD
+http://181.129.186.36:8089/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Lista 15", CINE FAMILIAR
+http://181.129.186.36:8089/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Lista 15", CNN Espaæol
+http://181.129.186.36:8089/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Cartoon Network HD
+http://181.129.186.36:8089/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Cine hispano 
+http://181.129.186.36:8089/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Cine infantil 
+http://181.129.186.36:8089/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Cine premium 
+http://181.129.186.36:8089/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Lista 15", DHE HD
+http://181.129.186.36:8089/play/a009/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Discovery H&H HD
+http://181.129.186.36:8089/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Discovery HD
+http://181.129.186.36:8089/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Discovery Kids HD
+http://181.129.186.36:8089/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Discovery Theater HD
+http://181.129.186.36:8089/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Discovery World HD
+http://181.129.186.36:8089/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Disney HD
+http://181.129.186.36:8089/play/a002/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Disney Junior HD
+http://181.129.186.36:8089/play/a004/index.m3u8
+#EXTINF:-1 group-title="Lista 15", ESPN EXTRA HD
+http://181.129.186.36:8089/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Lista 15", HOGARTV
+http://181.129.186.36:8089/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Lista 15", ID HD
+http://181.129.186.36:8089/play/a006/index.m3u8
+#EXTINF:-1 group-title="Lista 15", LA KALLE
+http://181.129.186.36:8089/play/a013/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Musica kpop
+http://181.129.186.36:8089/play/a011/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Musica popular 
+http://181.129.186.36:8089/play/a010/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Musica reggeaton 
+http://181.129.186.36:8089/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Música hits
+http://181.129.186.36:8089/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Lista 15", NAT GEO 
+http://181.129.186.36:8089/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Lista 15", RPOVINCIA TV
+http://181.129.186.36:8089/play/a014/index.m3u8
+#EXTINF:-1 group-title="Lista 15", RT
+http://181.129.186.36:8089/play/a016/index.m3u8
+#EXTINF:-1 group-title="Lista 15", RUMBATV
+http://181.129.186.36:8089/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Space HD
+http://181.129.186.36:8089/play/a001/index.m3u8
+#EXTINF:-1 group-title="Lista 15", TNT HD
+http://181.129.186.36:8089/play/a003/index.m3u8
+#EXTINF:-1 group-title="Lista 15", TNT Series HD
+http://181.129.186.36:8089/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Lista 15", TVAGRO
+http://181.129.186.36:8089/play/a015/index.m3u8
+#EXTINF:-1 group-title="Lista 15", Telemundo
+http://181.129.186.36:8089/play/a008/index.m3u8
+#EXTINF:-1 group-title="Lista 15", UMC
+http://181.129.186.36:8089/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Lista 15", UNIVERSAL
+http://181.129.186.36:8089/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Lista 15", WIN SPORTS 
+http://181.129.186.36:8089/play/a00q/index.m3u8
+
+
+#EXTINF:-1 group-title="Lista 16", 002_1078-COMEDI CENTRAL
+http://190.108.83.142:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 004_10002-LATINA_SD
+http://190.108.83.142:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 006_1075-CITY TV
+http://190.108.83.142:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 008_4010-SMART PELICULAS
+http://190.108.83.142:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 010_4010-SMART KIDS
+http://190.108.83.142:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 012_1021-BETHEL
+http://190.108.83.142:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 014_1020-NatGoegraphic
+http://190.108.83.142:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 020_1003-ATV
+http://190.108.83.142:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 022_1060-NICK JUNIOR
+http://190.108.83.142:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 024_1076-NICK
+http://190.108.83.142:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 028_1015-FOX1
+http://190.108.83.142:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 030_1017-FOX2
+http://190.108.83.142:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 032_1018-FOX3
+http://190.108.83.142:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 034_1030_LAZONA
+http://190.108.83.142:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 036_1034_FELICIDAD
+http://190.108.83.142:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1002-FUEGOTV
+http://190.108.83.142:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1004-MX XTREME
+http://190.108.83.142:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1006-MX FAMILY
+http://190.108.83.142:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1010-UCHU TV
+http://190.108.83.142:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1012-CTC TV
+http://190.108.83.142:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1014-PALMERA
+http://190.108.83.142:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1016-TVPAZ
+http://190.108.83.142:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1018-TPTO
+http://190.108.83.142:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1020-PIURA TV
+http://190.108.83.142:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1022-IPE
+http://190.108.83.142:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1024-JUSTICIA TV
+http://190.108.83.142:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1026-TVPERU
+http://190.108.83.142:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1028-TIERRA MIA
+http://190.108.83.142:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1030-ATV
+http://190.108.83.142:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1032-GLOBAL
+http://190.108.83.142:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1034-ALBRICIAS
+http://190.108.83.142:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1036-FIT TV
+http://190.108.83.142:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1038-TEMP
+http://190.108.83.142:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1040-RT
+http://190.108.83.142:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1042-ZONA
+http://190.108.83.142:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1044-RPP
+http://190.108.83.142:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1046-STUDIO 92
+http://190.108.83.142:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1048-OXIGENO
+http://190.108.83.142:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 1050-FELICIDAD
+http://190.108.83.142:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Lista 16", 12_4010-SMART SECHURA
+http://190.108.83.142:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Lista 16", SRT
+http://190.108.83.142:8000/play/a01c/index.m3u8
+
+
+#EXTINF:-1  group-title="Lista 14",  40 Y 20
+http://bgapp.live/play/viix-844.php?c=340&pid=340&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Adrenalina Sport
+http://bgapp.live/play/viix-844.php?c=393&pid=393&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Afizzionados
+http://bgapp.live/play/viix-844.php?c=348&pid=348&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Alegrijes Y Rebujos
+http://bgapp.live/play/viix-844.php?c=319&pid=319&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Amigas Y Rivales
+http://bgapp.live/play/viix-844.php?c=320&pid=320&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Amores Verdaderos
+http://bgapp.live/play/viix-844.php?c=305&pid=305&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Aqui Y Ahora
+http://bgapp.live/play/viix-844.php?c=306&pid=306&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Atv+
+http://bgapp.live/play/viix-844.php?c=258&pid=258&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Bandamax
+http://bgapp.live/play/viix-844.php?c=400&pid=400&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Bein Sports Xtra
+http://bgapp.live/play/viix-844.php?c=256&pid=256&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Bitme
+http://bgapp.live/play/viix-844.php?c=401&pid=401&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Canal 5 (Mx)
+http://bgapp.live/play/viix-844.php?c=351&pid=351&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Cine 1
+http://bgapp.live/play/viix-844.php?c=307&pid=307&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Cine 2
+http://bgapp.live/play/viix-844.php?c=308&pid=308&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Cine 3
+http://bgapp.live/play/viix-844.php?c=309&pid=309&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Cine Club - Prendetv
+http://bgapp.live/play/viix-844.php?c=192&pid=192&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Cine Del Ayer
+http://bgapp.live/play/viix-844.php?c=429&pid=429&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Clase 406
+http://bgapp.live/play/viix-844.php?c=322&pid=322&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Cnn Colombia
+http://bgapp.live/play/viix-844.php?c=358&pid=358&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Comedy Tv
+http://bgapp.live/play/viix-844.php?c=89&pid=89&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Como Dice El Dicho
+http://bgapp.live/play/viix-844.php?c=341&pid=341&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Corazón Salvaje
+http://bgapp.live/play/viix-844.php?c=325&pid=325&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Crónicas
+http://bgapp.live/play/viix-844.php?c=315&pid=315&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Cuidado Con El Angel
+http://bgapp.live/play/viix-844.php?c=316&pid=316&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Del Mercado Al Plato
+http://bgapp.live/play/viix-844.php?c=317&pid=317&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Distrito Comedia
+http://bgapp.live/play/viix-844.php?c=405&pid=405&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Dpeliculas
+http://bgapp.live/play/viix-844.php?c=354&pid=354&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Dpeliculas +
+http://bgapp.live/play/viix-844.php?c=404&pid=404&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Durmiendo Con Mi Jefe
+http://bgapp.live/play/viix-844.php?c=312&pid=312&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  El Privilegio De Mandar
+http://bgapp.live/play/viix-844.php?c=313&pid=313&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Euronews
+http://bgapp.live/play/viix-844.php?c=255&pid=255&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Failarmy
+http://bgapp.live/play/viix-844.php?c=197&pid=197&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Familia P. Luche
+http://bgapp.live/play/viix-844.php?c=311&pid=311&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Foro Tv
+http://bgapp.live/play/viix-844.php?c=300&pid=300&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Fun Videos
+http://bgapp.live/play/viix-844.php?c=121&pid=121&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Golden Edge
+http://bgapp.live/play/viix-844.php?c=407&pid=407&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Golden Edge Sd
+http://bgapp.live/play/viix-844.php?c=410&pid=410&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Golden Plus
+http://bgapp.live/play/viix-844.php?c=414&pid=414&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Golden South
+http://bgapp.live/play/viix-844.php?c=409&pid=409&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Golden South Sd
+http://bgapp.live/play/viix-844.php?c=413&pid=413&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Héroes Del Norte
+http://bgapp.live/play/viix-844.php?c=323&pid=323&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Juana La Virgen
+http://bgapp.live/play/viix-844.php?c=327&pid=327&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Kids
+http://bgapp.live/play/viix-844.php?c=355&pid=355&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  La Promesa
+http://bgapp.live/play/viix-844.php?c=343&pid=343&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  La Rosa De Guadalupe
+http://bgapp.live/play/viix-844.php?c=344&pid=344&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  La Selecc10n
+http://bgapp.live/play/viix-844.php?c=345&pid=345&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Las Estrellas
+http://bgapp.live/play/viix-844.php?c=415&pid=415&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Latidos Music
+http://bgapp.live/play/viix-844.php?c=257&pid=257&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Level Up - Games
+http://bgapp.live/play/viix-844.php?c=263&pid=263&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Lo Mejor De La Liga Mx - Prendetv
+http://bgapp.live/play/viix-844.php?c=193&pid=193&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Lo Que Diga El Corazon
+http://bgapp.live/play/viix-844.php?c=346&pid=346&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Local View
+http://bgapp.live/play/viix-844.php?c=402&pid=402&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Local View 2
+http://bgapp.live/play/viix-844.php?c=403&pid=403&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Love Nature
+http://bgapp.live/play/viix-844.php?c=390&pid=390&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  María Mercedes
+http://bgapp.live/play/viix-844.php?c=328&pid=328&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Media +
+http://bgapp.live/play/viix-844.php?c=301&pid=301&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Mi Gorda Bella
+http://bgapp.live/play/viix-844.php?c=334&pid=334&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Muchachitas
+http://bgapp.live/play/viix-844.php?c=331&pid=331&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Muchachitas Como Tu
+http://bgapp.live/play/viix-844.php?c=332&pid=332&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  My Time Movies
+http://bgapp.live/play/viix-844.php?c=261&pid=261&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Noticias Univision 24/7
+http://bgapp.live/play/viix-844.php?c=254&pid=254&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Novelas De Oro - Prendetv
+http://bgapp.live/play/viix-844.php?c=196&pid=196&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Novelas De Romance - Prendetv
+http://bgapp.live/play/viix-844.php?c=194&pid=194&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Novelas En Familia - Prendetv
+http://bgapp.live/play/viix-844.php?c=195&pid=195&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Nuestra Vision
+http://bgapp.live/play/viix-844.php?c=262&pid=262&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Olden
+http://linear-409&pid=409&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Olden
+http://linear-406&pid=406&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Olden Edge
+http://linear-407&pid=407&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Olden Plus
+http://linear-410&pid=410&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Papa A Toda Madre
+http://bgapp.live/play/viix-844.php?c=336&pid=336&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  People Are Awesome
+http://bgapp.live/play/viix-844.php?c=39&pid=39&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Que Bonito Amor
+http://bgapp.live/play/viix-844.php?c=329&pid=329&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Rcn Mas
+http://bgapp.live/play/viix-844.php?c=286&pid=286&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Rebelde
+http://bgapp.live/play/viix-844.php?c=335&pid=335&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Retro Peli
+http://bgapp.live/play/viix-844.php?c=304&pid=304&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Revry-Lgbtq Tv
+http://bgapp.live/play/viix-844.php?c=139&pid=139&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Sortilegio
+http://bgapp.live/play/viix-844.php?c=337&pid=337&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Soy Tu Dueña
+http://bgapp.live/play/viix-844.php?c=318&pid=318&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Soy Tu Dueña
+http://bgapp.live/play/viix-844.php?c=339&pid=339&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tele Musica
+http://bgapp.live/play/viix-844.php?c=418&pid=418&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tele Musica+
+http://bgapp.live/play/viix-844.php?c=419&pid=419&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Telehit
+http://bgapp.live/play/viix-844.php?c=417&pid=417&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Teresa
+http://bgapp.live/play/viix-844.php?c=342&pid=342&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Teresa
+http://bgapp.live/play/viix-844.php?c=324&pid=324&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  The Weather Channel(Es)
+http://bgapp.live/play/viix-844.php?c=431&pid=431&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  The Weather Channel(Es) Hd
+http://bgapp.live/play/viix-844.php?c=453&pid=453&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tln Novelas
+http://bgapp.live/play/viix-844.php?c=421&pid=421&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tn23
+http://bgapp.live/play/viix-844.php?c=259&pid=259&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tres Veces Ana
+http://bgapp.live/play/viix-844.php?c=321&pid=321&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Triunfo Del Amor
+http://bgapp.live/play/viix-844.php?c=338&pid=338&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=373&pid=373&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=372&pid=372&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=376&pid=376&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=380&pid=380&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=375&pid=375&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=385&pid=385&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=386&pid=386&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=381&pid=381&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=379&pid=379&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=357&pid=357&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=347&pid=347&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=378&pid=378&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=383&pid=383&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=384&pid=384&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=377&pid=377&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=360&pid=360&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tudn
+http://bgapp.live/play/viix-844.php?c=374&pid=374&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Tv Venta
+http://bgapp.live/play/viix-844.php?c=352&pid=352&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Unicable
+http://bgapp.live/play/viix-844.php?c=423&pid=423&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Unknown 101
+http://bgapp.live/play/viix-844.php?c=330&pid=330&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Unknown 262
+http://bgapp.live/play/viix-844.php?c=446&pid=446&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Vecinos
+http://bgapp.live/play/viix-844.php?c=314&pid=314&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Vevo
+http://bgapp.live/play/viix-844.php?c=389&pid=389&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Vevo
+http://bgapp.live/play/viix-844.php?c=388&pid=388&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Videos Chistosos
+http://bgapp.live/play/viix-844.php?c=46&pid=46&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Videos Chistosos 2
+http://bgapp.live/play/viix-844.php?c=49&pid=49&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Vivo Play
+http://bgapp.live/play/viix-844.php?c=260&pid=260&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Cine 
+http://bgapp.live/play/viix-844.php?c=449&pid=449&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Cine Sd
+http://bgapp.live/play/viix-844.php?c=450&pid=450&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Cine Sd
+http://bgapp.live/play/viix-844.php?c=451&pid=451&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Deportes
+http://bgapp.live/play/viix-844.php?c=452&pid=452&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Novelas
+http://bgapp.live/play/viix-844.php?c=445&pid=445&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Novelas Hd
+http://bgapp.live/play/viix-844.php?c=448&pid=448&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Novelas Sd
+http://bgapp.live/play/viix-844.php?c=447&pid=447&f=tokeen=blck_
+#EXTINF:-1  group-title="Lista 14",  Xh Derbez - Nosotros Los Guapos
+http://bgapp.live/play/viix-844.php?c=310&pid=310&f=tokeen=blck_
 
 
 #EXTINF:-1 group-title="Lista 22", AZTECA UNO
-http://bgapp.live/play/futvall-844.php?id=aztecauno&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=aztecauno&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", CANAL 2
-http://bgapp.live/play/futvall-844.php?id=eldos&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=eldos&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", CANAL 5
-http://bgapp.live/play/futvall-844.php?id=elcinco&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=elcinco&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", AZTECA 7
-http://bgapp.live/play/futvall-844.php?id=azteca7&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=azteca7&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", AZTECA 7 HD
-http://bgapp.live/play/futvall-844.php?id=azteca7hd&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=azteca7hd&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", NUEVE
-http://bgapp.live/play/futvall-844.php?id=elnueve&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=elnueve&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", IMAGEN TV
-http://bgapp.live/play/futvall-844.php?id=imagentv&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=imagentv&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", SPACE
-http://bgapp.live/play/futvall-844.php?id=space&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=space&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", ADRENALINA
-http://bgapp.live/play/futvall-844.php?id=adrenalina&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=adrenalina&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", AFIZZIONADOS
-http://bgapp.live/play/futvall-844.php?id=afizzionados&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=afizzionados&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", AyM Sports
-http://bgapp.live/play/futvall-844.php?id=aymsports&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=aymsports&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", BASKET AMERICAS
-http://bgapp.live/play/futvall-844.php?id=basket&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=basket&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", BEIN SPORTS Ñ
-http://bgapp.live/play/futvall-844.php?id=beines&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=beines&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", BEIN US HD
-http://bgapp.live/play/futvall-844.php?id=beinhd&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=beinhd&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", DIRECTV SPORTS
-http://bgapp.live/play/futvall-844.php?id=directv&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=directv&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", DIRECTV 2
-http://bgapp.live/play/futvall-844.php?id=directv2&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=directv2&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", CLARO SPORTS
-http://bgapp.live/play/futvall-844.php?id=clarosports&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=clarosports&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", ESPN Deportes
-http://bgapp.live/play/futvall-844.php?id=espndep&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=espndep&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", ESPN 1
-http://bgapp.live/play/futvall-844.php?id=espn1-mx&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=espn1-mx&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", ESPN 2
-http://bgapp.live/play/futvall-844.php?id=espn2-mx&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=espn2-mx&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", ESPN 3
-http://bgapp.live/play/futvall-844.php?id=espn3-mx&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=espn3-mx&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", ESPN EXTRA
-http://bgapp.live/play/futvall-844.php?id=espnextra-mx&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=espnextra-mx&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", FOX SPORTS 1
-http://bgapp.live/play/futvall-844.php?id=foxsports1-mx&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=foxsports1-mx&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", FOX SPORTS 2
-http://bgapp.live/play/futvall-844.php?id=foxsports2-mx&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=foxsports2-mx&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", FOX SPORTS 3
-http://bgapp.live/play/futvall-844.php?id=foxsports3-mx&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=foxsports3-mx&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", FOX SPORTS PREMIUM
-http://bgapp.live/play/futvall-844.php?id=foxsportsp&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=foxsportsp&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", GALAVISION
-http://bgapp.live/play/futvall-844.php?id=galavision&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=galavision&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", GOL PERU
-http://bgapp.live/play/futvall-844.php?id=golperu&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=golperu&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", GOLTV
-http://bgapp.live/play/futvall-844.php?id=goltv&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=goltv&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", GOLF CHANNEL
-http://bgapp.live/play/futvall-844.php?id=golf&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=golf&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", HAVOC
-http://bgapp.live/play/futvall-844.php?id=havoc&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=havoc&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", NFL NETWORK
-http://bgapp.live/play/futvall-844.php?id=nfl&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=nfl&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", LAS Deportes
-http://bgapp.live/play/futvall-844.php?id=las&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=las&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", LALIGA
-http://bgapp.live/play/futvall-844.php?id=laliga&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=laliga&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", M LALIGA
-http://bgapp.live/play/futvall-844.php?id=mlaliga&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=mlaliga&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", M LIGA DE CAMPEONES
-http://bgapp.live/play/futvall-844.php?id=mligadec&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=mligadec&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", TELEMUNDO
-http://bgapp.live/play/futvall-844.php?id=telemundo&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=telemundo&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", TUDN
-http://bgapp.live/play/futvall-844.php?id=tudn-mx&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=tudn-mx&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", TUDN US
-http://bgapp.live/play/futvall-844.php?id=tudn-us&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=tudn-us&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", TVC Deportes
-http://bgapp.live/play/futvall-844.php?id=tvcdep-mx&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=tvcdep-mx&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", TyC SPORTS
-http://bgapp.live/play/futvall-844.php?id=tycsports&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=tycsports&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", UNIMAS
-http://bgapp.live/play/futvall-844.php?id=unimas&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=unimas&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", UNIVERSO
-http://bgapp.live/play/futvall-844.php?id=universo&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=universo&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", NBC SPORTS NET
-http://bgapp.live/play/futvall-844.php?id=nbcsn&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=nbcsn&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", WIN SPORTS
-http://bgapp.live/play/futvall-844.php?id=winsports&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=winsports&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", WIN SPORTS PLUS
-http://bgapp.live/play/futvall-844.php?id=winplus&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=winplus&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", FIGHT TIME
-http://bgapp.live/play/futvall-844.php?id=fight&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=fight&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", UFC
-http://bgapp.live/play/futvall-844.php?id=ufc&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=ufc&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", WWE
-http://bgapp.live/play/futvall-844.php?id=wwe&tokeen=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-844.php?id=wwe&token=blackghostt&f=.m3u8
 #EXTINF:-1 group-title="Lista 22", TLC
-http://bgapp.live/play/futvall-844.php?id=tlc&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=tlc&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", MULTIPREMIER
-http://bgapp.live/play/futvall-844.php?id=mp&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=mp&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", GOLDEN
-http://bgapp.live/play/futvall-844.php?id=golden&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=golden&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", GOLDEN PLUS
-http://bgapp.live/play/futvall-844.php?id=goldenplus&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=goldenplus&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", GOLDEN EDGE
-http://bgapp.live/play/futvall-844.php?id=goldenedge&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=goldenedge&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", GOLDEN PREMIER
-http://bgapp.live/play/futvall-844.php?id=goldenp&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=goldenp&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", STAR CH
-http://bgapp.live/play/futvall-844.php?id=starch&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=starch&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", WOW TV
-http://bgapp.live/play/futvall-844.php?id=wow&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=wow&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", A MAS
-http://bgapp.live/play/futvall-844.php?id=amas&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=amas&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", AZTECA UNO
-http://bgapp.live/play/futvall-844.php?id=aztecauno&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=aztecauno&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", EL DOS
-http://bgapp.live/play/futvall-844.php?id=eldos&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=eldos&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", CANAL 5
-http://bgapp.live/play/futvall-844.php?id=elcinco&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=elcinco&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", AZTECA 7
-http://bgapp.live/play/futvall-844.php?id=azteca7&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=azteca7&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", EL NUEVE
-http://bgapp.live/play/futvall-844.php?id=elnueve&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=elnueve&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", IMAGEN TV
-http://bgapp.live/play/futvall-844.php?id=imagentv&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=imagentv&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", MULTIMEDIOS
-http://bgapp.live/play/futvall-844.php?id=multimedios&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=multimedios&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", ONCE TV
-http://bgapp.live/play/futvall-844.php?id=oncetv&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=oncetv&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", ONCE TV HD
-http://bgapp.live/play/futvall-844.php?id=oncetvhd&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=oncetvhd&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", DISTRITO COMEDIA
-http://bgapp.live/play/futvall-844.php?id=distrito&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=distrito&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", UNICABLE
-http://bgapp.live/play/futvall-844.php?id=unicable&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=unicable&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", MVSTV
-http://bgapp.live/play/futvall-844.php?id=mvstv&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=mvstv&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", ANTENA 3 Int
-http://bgapp.live/play/futvall-844.php?id=antena3int&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=antena3int&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", A3 SERIES
-http://bgapp.live/play/futvall-844.php?id=a3series&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=a3series&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", STAR TVE
-http://bgapp.live/play/futvall-844.php?id=startve&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=startve&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", TVE
-http://bgapp.live/play/futvall-844.php?id=tve&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=tve&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", GALAVISION
-http://bgapp.live/play/futvall-844.php?id=galavision&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=galavision&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", GLITZ
-http://bgapp.live/play/futvall-844.php?id=glitz&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=glitz&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", TELEMUNDO
-http://bgapp.live/play/futvall-844.php?id=telemundo&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=telemundo&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", TELEMUNDO Internacional
-http://bgapp.live/play/futvall-844.php?id=telemundoint&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=telemundoint&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", UNIMAS
-http://bgapp.live/play/futvall-844.php?id=unimas&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=unimas&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", AZ CORAZON
-http://bgapp.live/play/futvall-844.php?id=azcorazon&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=azcorazon&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", AandE
-http://bgapp.live/play/futvall-844.php?id=ae&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=ae&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", AXN
-http://bgapp.live/play/futvall-844.php?id=axn&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=axn&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", COMEDY CENTRAL
-http://bgapp.live/play/futvall-844.php?id=comedy&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=comedy&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", Entertaiment
-http://bgapp.live/play/futvall-844.php?id=e&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=e&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", FOX Channel
-http://bgapp.live/play/futvall-844.php?id=starch&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=starch&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", FX
-http://bgapp.live/play/futvall-844.php?id=fx&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=fx&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", INVESTIGATION Discovery
-http://bgapp.live/play/futvall-844.php?id=id&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=id&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", PASIONES
-http://bgapp.live/play/futvall-844.php?id=pasiones&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=pasiones&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", RCN Novelas
-http://bgapp.live/play/futvall-844.php?id=rcntln&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=rcntln&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", SONY Channel
-http://bgapp.live/play/futvall-844.php?id=sony&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=sony&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", TLNovelas
-http://bgapp.live/play/futvall-844.php?id=tlnovelas&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=tlnovelas&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", Tele Novelas
-http://bgapp.live/play/futvall-844.php?id=univtln&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=univtln&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", TBS
-http://bgapp.live/play/futvall-844.php?id=tbs&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=tbs&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", TNT Series
-http://bgapp.live/play/futvall-844.php?id=tntseries&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=tntseries&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", TRU TV
-http://bgapp.live/play/futvall-844.php?id=trutv&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=trutv&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", UNIVERSAL TV
-http://bgapp.live/play/futvall-844.php?id=universal&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=universal&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", WARNER TV
-http://bgapp.live/play/futvall-844.php?id=warner&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=warner&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", AZ CINEMA
-http://bgapp.live/play/futvall-844.php?id=azcinema&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=azcinema&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", AMC
-http://bgapp.live/play/futvall-844.php?id=amc&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=amc&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", CINECANAL
-http://bgapp.live/play/futvall-844.php?id=cinecanal&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=cinecanal&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", CINEMAX
-http://bgapp.live/play/futvall-844.php?id=cinemax&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=cinemax&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", DE PELICULA
-http://bgapp.live/play/futvall-844.php?id=depelicula&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=depelicula&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", DE PELICULA PLUS
-http://bgapp.live/play/futvall-844.php?id=depeliculaplus&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=depeliculaplus&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", DHE
-http://bgapp.live/play/futvall-844.php?id=dhe&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=dhe&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", EUROPA
-http://bgapp.live/play/futvall-844.php?id=europa&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=europa&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", FILM &amp; ARTS
-http://bgapp.live/play/futvall-844.php?id=filmarts&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=filmarts&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", ISAT
-http://bgapp.live/play/futvall-844.php?id=isat&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=isat&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", MULTICINEMA
-http://bgapp.live/play/futvall-844.php?id=mc&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=mc&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", MULTIPREMIER
-http://bgapp.live/play/futvall-844.php?id=mp&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=mp&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", MORBIDO
-http://bgapp.live/play/futvall-844.php?id=morbido&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=morbido&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", PARAMOUNT Channel
-http://bgapp.live/play/futvall-844.php?id=paramount&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=paramount&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", SPACE
-http://bgapp.live/play/futvall-844.php?id=space&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=space&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", STUDIO Universal
-http://bgapp.live/play/futvall-844.php?id=studiouniversal&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=studiouniversal&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", SYFY
-http://bgapp.live/play/futvall-844.php?id=syfy&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=syfy&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", TCM
-http://bgapp.live/play/futvall-844.php?id=tcm&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=tcm&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", TNT
-http://bgapp.live/play/futvall-844.php?id=tnt&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=tnt&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", AZ MUNDO
-http://bgapp.live/play/futvall-844.php?id=azmundo&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=azmundo&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", ANIMAL Planet
-http://bgapp.live/play/futvall-844.php?id=animalp&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=animalp&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", DISCOVERY Channel
-http://bgapp.live/play/futvall-844.php?id=discoverych&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=discoverych&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", Discovery SCIENCE
-http://bgapp.live/play/futvall-844.php?id=dciencia&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=dciencia&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", Discovery CIVILIZATION
-http://bgapp.live/play/futvall-844.php?id=dcivil&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=dcivil&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", Discovery THEATER
-http://bgapp.live/play/futvall-844.php?id=dtheater&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=dtheater&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", Discovery TURBO
-http://bgapp.live/play/futvall-844.php?id=dturbo&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=dturbo&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", Discovery WORLD
-http://bgapp.live/play/futvall-844.php?id=dworld&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=dworld&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", FOOD Network
-http://bgapp.live/play/futvall-844.php?id=food&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=food&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", EL GOURMET
-http://bgapp.live/play/futvall-844.php?id=gourmet&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=gourmet&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", LIFE TIME
-http://bgapp.live/play/futvall-844.php?id=lifetime&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=lifetime&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", HISTORY Channel
-http://bgapp.live/play/futvall-844.php?id=history&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=history&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", Histrory 2
-http://bgapp.live/play/futvall-844.php?id=h2&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=h2&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", Home &amp; Health
-http://bgapp.live/play/futvall-844.php?id=hh&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=hh&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", HOLA TV
-http://bgapp.live/play/futvall-844.php?id=holatv&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=holatv&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", MAS CHIC
-http://bgapp.live/play/futvall-844.php?id=maschic&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=maschic&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", NATGEO
-http://bgapp.live/play/futvall-844.php?id=natgeo&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=natgeo&token=blackghostt&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", TLC Discovery
-http://bgapp.live/play/futvall-844.php?id=tlc&tokeen=blackghostt&dos=.m3u8
+http://bgapp.live/play/futvall-844.php?id=tlc&token=blackghostt&dos=.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s8.png" group-title="PRV", A&E
@@ -6273,7 +6518,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="234" tvg-logo="https://logo.iptveditor.com/telehit.png"  group-title=“Lista 28 solo OTT”,TELEHIT
-https://live3-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghostt
@@ -6384,7 +6629,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TVE-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgapp.live:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="247" tvg-logo="https://logo.iptveditor.com/teveunam.png"  group-title=“Lista 28 solo OTT”,INGENIO TV RDF (20.1)
+#EXTINF:-1 tvg-id="247" tvg-logo="https://logo.iptveditor.com/teveunam.png"  group-title=“Lista 28 solo OTT”,TV UNAM
 https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_TV-UNAM-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
