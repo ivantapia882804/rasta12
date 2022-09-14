@@ -44,14 +44,14 @@ https://gratuita.mrzutv.net:443/live/4B1D294369A9FE2CE066E04C31C74FCC/54
 #EXTINF:-1 tvg-id="UnimasNetwork(East)(Spanish).us" group-title="RECOMENDADOS" ,UniMás
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/174.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" group-title="RECOMENDADOS" ,TUDN (USA)
-http://bgapp.live/play/ultima-917.php?tokeen=blackgghooooostt&c=189&f=.m3u8
+https://gratuita.mrzutv.net:443/live/4B1D294369A9FE2CE066E04C31C74FCC/87
 #EXTINF:-1 tvg-id="TelemundoNetwork(Spanish).us" group-title="RECOMENDADOS" ,Telemundo (USA)
 http://bgapp.live/play/tvhd-917.php?id=48&token=blackgghooooostt&file=.m3u8
 
 
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno (HD)
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=7&f=.m3u8
-#EXTINF:-1 tvg-id="Clic.mx" tvg-name="Clic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="ENTRETENCIÓN",Clic
+#EXTINF:-1 tvg-id="Clic.mx" tvg-name="Clic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="ENTRETENIMIENTO",Clic
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=11&f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=17&f=.m3u8
@@ -73,9 +73,9 @@ https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=32&f=.m3u
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=44&f=.m3u8
 #EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg" group-title="LOCALES",ADN 40
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=40&f=.m3u8
-#EXTINF:-1 tvg-id="Corazon.mx" tvg-name="Corazón" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png" group-title="ENTRETENCIÓN",Corazón
+#EXTINF:-1 tvg-id="Corazon.mx" tvg-name="Corazón" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png" group-title="ENTRETENIMIENTO",Corazón
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=70&f=.m3u8
-#EXTINF:-1 tvg-id="Mundo.mx" tvg-name="Mundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mundo.png" group-title="ENTRETENCIÓN",Mundo
+#EXTINF:-1 tvg-id="Mundo.mx" tvg-name="Mundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mundo.png" group-title="ENTRETENIMIENTO",Mundo
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=84&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="LOCALES",Azteca 7 (HD)
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=317&f=.m3u8
@@ -157,7 +157,7 @@ https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=2147&f=.m
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=2591&f=.m3u8
 #EXTINF:-1 tvg-id="Atrescine(Spanish).us" tvg-name="A3 Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3c.png" group-title="CINE",A3 Cine
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=3112&f=.m3u8
-#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="ENTRETENCIÓN",TBS
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="ENTRETENIMIENTO",TBS
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=81&f=.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Película Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatinohd.png" group-title="CINE",De Película Plus
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=121&f=.m3u8
@@ -201,59 +201,59 @@ https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=335&f=.m3
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=1726&f=.m3u8
 #EXTINF:-1 tvg-id="Cinema.mx" tvg-name="Cinema" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="CINE",Cinema
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=1787&f=.m3u8
-#EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telem.png" group-title="ENTRETENCIÓN",Telemundo Internacional
+#EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telem.png" group-title="ENTRETENIMIENTO",Telemundo Internacional
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=85&f=.m3u8
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="ENTRETENCIÓN",Star Channel
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="ENTRETENIMIENTO",Star Channel
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=46&f=.m3u8
-#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sony.png" group-title="ENTRETENCIÓN",Sony Channel
+#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sony.png" group-title="ENTRETENIMIENTO",Sony Channel
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=48&f=.m3u8
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENCIÓN",Warner
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENIMIENTO",Warner
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=52&f=.m3u8
-#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/eent.png" group-title="ENTRETENCIÓN",E!
+#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/eent.png" group-title="ENTRETENIMIENTO",E!
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=55&f=.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="ENTRETENCIÓN",Universal
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="ENTRETENIMIENTO",Universal
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=57&f=.m3u8
-#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png" group-title="ENTRETENCIÓN",SYFY
+#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png" group-title="ENTRETENIMIENTO",SYFY
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=59&f=.m3u8
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENCIÓN",FX
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO",FX
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=60&f=.m3u8
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENCIÓN",A&E
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENIMIENTO",A&E
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=62&f=.m3u8
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="ENTRETENCIÓN",TNT Series
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="ENTRETENIMIENTO",TNT Series
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=71&f=.m3u8
-#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/glitz.png" group-title="ENTRETENCIÓN",Glitz
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/glitz.png" group-title="ENTRETENIMIENTO",Glitz
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=76&f=.m3u8
-#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="ElGourmet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gourmet.png" group-title="ENTRETENCIÓN",ElGourmet
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="ElGourmet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gourmet.png" group-title="ENTRETENIMIENTO",ElGourmet
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=74&f=.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clasico.png" group-title="ENTRETENCIÓN",Distrito Comedia
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clasico.png" group-title="ENTRETENIMIENTO",Distrito Comedia
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=78&f=.m3u8
-#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TruTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/trutv.png" group-title="ENTRETENCIÓN",TruTV
+#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TruTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/trutv.png" group-title="ENTRETENIMIENTO",TruTV
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=79&f=.m3u8
-#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="Tlnovelas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tln.png" group-title="ENTRETENCIÓN",Tlnovelas
+#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="Tlnovelas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tln.png" group-title="ENTRETENIMIENTO",Tlnovelas
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=83&f=.m3u8
-#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png" group-title="ENTRETENCIÓN",Lifetime
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png" group-title="ENTRETENIMIENTO",Lifetime
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=94&f=.m3u8
-#EXTINF:-1 tvg-id="Antena3Internacional.mx" tvg-name="Antena 3 Internacional" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3.png" group-title="ENTRETENCIÓN",Antena 3 Internacional
+#EXTINF:-1 tvg-id="Antena3Internacional.mx" tvg-name="Antena 3 Internacional" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3.png" group-title="ENTRETENIMIENTO",Antena 3 Internacional
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=199&f=.m3u8
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="ENTRETENCIÓN",Star Channel (HD)
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="ENTRETENIMIENTO",Star Channel (HD)
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=201&f=.m3u8
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENCIÓN",Warner (HD)
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENIMIENTO",Warner (HD)
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=205&f=.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="ENTRETENCIÓN",Universal (HD)
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="ENTRETENIMIENTO",Universal (HD)
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=207&f=.m3u8
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENCIÓN",FX (HD)
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO",FX (HD)
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=209&f=.m3u8
-#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TruTV (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/trutv.png" group-title="ENTRETENCIÓN",TruTV (HD)
+#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TruTV (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/trutv.png" group-title="ENTRETENIMIENTO",TruTV (HD)
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=215&f=.m3u8
-#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="¡Hola! TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hola.jpg" group-title="ENTRETENCIÓN",¡Hola! TV
+#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="¡Hola! TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hola.jpg" group-title="ENTRETENIMIENTO",¡Hola! TV
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=219&f=.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/comedyc.png" group-title="ENTRETENCIÓN",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/comedyc.png" group-title="ENTRETENIMIENTO",Comedy Central
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=340&f=.m3u8
-#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" group-title="ENTRETENCIÓN",Unicable
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" group-title="ENTRETENIMIENTO",Unicable
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=1499&f=.m3u8
-#EXTINF:-1 tvg-id="MasChic.mx" tvg-name="Mas Chic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/casaclub.png" group-title="ENTRETENCIÓN",Mas Chic
+#EXTINF:-1 tvg-id="MasChic.mx" tvg-name="Mas Chic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/casaclub.png" group-title="ENTRETENIMIENTO",Mas Chic
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=1842&f=.m3u8
-#EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="A3 Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3s.png" group-title="ENTRETENCIÓN",A3 Series
+#EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="A3 Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3s.png" group-title="ENTRETENIMIENTO",A3 Series
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=2113&f=.m3u8
 #EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="DEPORTES",ESPN Extra
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=167&f=.m3u8
@@ -309,13 +309,13 @@ https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=96&f=.m3u
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=98&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png" group-title="CONOCIMIENTO",Discovery World HD
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=101&f=.m3u8
-#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="ENTRETENCIÓN",ID
+#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="ENTRETENIMIENTO",ID
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=2376&f=.m3u8
-#EXTINF:-1 tvg-id="TVEAmericaTelevisionEspanola.mx" tvg-name="TVE Internacional" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tve.png" group-title="ENTRETENCIÓN",TVE Internacional
+#EXTINF:-1 tvg-id="TVEAmericaTelevisionEspanola.mx" tvg-name="TVE Internacional" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tve.png" group-title="ENTRETENIMIENTO",TVE Internacional
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=198&f=.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/food.png" group-title="CONOCIMIENTO",Food Network
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=2145&f=.m3u8
-#EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="TVE Star HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/startve.png" group-title="ENTRETENCIÓN",TVE Star HD
+#EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="TVE Star HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/startve.png" group-title="ENTRETENIMIENTO",TVE Star HD
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=2375&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/turbo.png" group-title="CONOCIMIENTO",Discovery Turbo
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=2379&f=.m3u8
@@ -327,7 +327,7 @@ https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=2594&f=.m
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=1943&f=.m3u8
 #EXTINF:-1 tvg-id="MTVLive(English).mx" tvg-name="MTV Live HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvl.png" group-title="MUSICA",MTV Live HD
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=211&f=.m3u8
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="ENTRETENCIÓN",MTV
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="ENTRETENIMIENTO",MTV
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=212&f=.m3u8
 #EXTINF:-1 tvg-id="MTVHits.es" tvg-name="MTV Hits" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvh.png" group-title="MUSICA",MTV Hits
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=213&f=.m3u8
@@ -343,7 +343,7 @@ https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=218&f=.m3
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=220&f=.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bmax.png" group-title="MUSICA",Bandamax
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=221&f=.m3u8
-#EXTINF:-1 tvg-id="Clic.mx" tvg-name="Clic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="ENTRETENCIÓN",Clic
+#EXTINF:-1 tvg-id="Clic.mx" tvg-name="Clic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="ENTRETENIMIENTO",Clic
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=223&f=.m3u8
 #EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="MUSICA",MTV 00s (HD)
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=334&f=.m3u8
@@ -507,7 +507,7 @@ https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA" tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="ENTRETENCIÓN" tvg-id="6" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 3
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-id="6" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?caster
 #EXTINF:-1 group-title="MUSICA" tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png", Ruidos TV
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
