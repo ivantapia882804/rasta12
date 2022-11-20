@@ -73,12 +73,18 @@ https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=7&f=.m3u8
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=11&f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas
 http://190.61.102.67:8000/play/las3
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (SIN QT2022)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas (SIN QT2022)
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=17&f=.m3u8
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="LOCALES",Foro
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=19&f=.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="LOCALES",Canal 5
 http://bgapp.live/play/tvhd-119.php?id=2&token=blackghostt&file=.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (SIN QT2022)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="LOCALES",Canal 5 (SIN QT2022)
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=20&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="LOCALES",Azteca 7
 http://bgapp.live/play/tvhd-119.php?id=1&token=blackghostt&file=.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (SIN QT2022)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="LOCALES",Azteca 7 (SIN QT2022)
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=21&f=.m3u8
 #EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="LOCALES",NU9VE
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=24&f=.m3u8
 #EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Canal Once
@@ -285,6 +291,8 @@ https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=170&f=.m3
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=172&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN (HD)
 http://bgapp.live/play/tvhd-119.php?id=3&token=blackghostt&file=.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD) (SIN QT2022)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN (HD) (SIN QT2022)
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=174&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="DEPORTES",Fox Sports 3
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=178&f=.m3u8
 #EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="Golf Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/golf.png" group-title="DEPORTES",Golf Channel
@@ -295,7 +303,7 @@ https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=180&f=.m3
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=345&f=.m3u8
 #EXTINF:-1 tvg-id="PXSports.mx" tvg-name="PXSports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/pxs.png" group-title="DEPORTES",PXSports
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=950&f=.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN (HD)
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD) (SIN QT2022)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN (HD) (SIN QT2022)
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=1049&f=.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="Adrenalina Sports Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/asn.png" group-title="DEPORTES",Adrenalina Sports Network
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=1799&f=.m3u8
