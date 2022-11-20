@@ -409,6 +409,126 @@ https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=2091&f=.m
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=2402&f=.m3u8
 
 
+#EXTINF:-1, tvg-id="XHJKTDT2.mx" group-title="LOCALES", ADN 40 1.2 (-2h)
+https://v-sd.mybtv.net/live/484.m3u8
+#EXTINF:-1, tvg-id="XHCTTITDT.mx" group-title="LOCALES", Imagen Televisión 3.1 (-2h)
+https://v-sd.mybtv.net/live/485.m3u8
+#EXTINF:-1, tvg-id="XHTJBTDT2.mx" group-title="LOCALES", Once Niñas y Niños 11.2 (-2h)
+https://v-sd.mybtv.net/live/496.m3u8
+#EXTINF:-1, tvg-id="XHTITTDT2.mx" group-title="LOCALES", A Mas 21.2 (-2h)
+https://v-sd.mybtv.net/live/503.m3u8
+#EXTINF:-1, tvg-id="XHDTVTDT.mx" group-title="LOCALES", Milenio Televisión 49.1
+https://v-sd.mybtv.net/live/521.m3u8
+#EXTINF:-1, tvg-id="XHUAATDT.mx" group-title="LOCALES", Las Estrellas 57.1 (-2h)
+https://v-sd.mybtv.net/live/530.m3u8
+#EXTINF:-1, tvg-id="XHCTTITDT2.mx" group-title="LOCALES", Imagen Multicast 3.4 (-2h)
+https://v-sd.mybtv.net/live/539.m3u8
+#EXTINF:-1, tvg-id="XHJKTDT.mx" group-title="LOCALES", Azteca Uno 1.1 (-2h)
+https://v-sd.mybtv.net/live/760.m3u8
+#EXTINF:-1, tvg-id="XETVTDT.mx" group-title="LOCALES", NU9VE 16.1 (-2h)
+https://v-sd.mybtv.net/live/761.m3u8
+#EXTINF:-1, tvg-id="XHUAATDT2.mx" group-title="LOCALES", Foro 57.2 (-2h)
+https://v-sd.mybtv.net/live/762.m3u8
+
+
+#EXTINF:-1, tvg-id="KSAZDT.us" group-title="USA LOCAL", FOX 10 AZ
+https://v-px.mybtv.net/live/14.m3u8
+#EXTINF:-1, tvg-id="" group-title="USA LOCAL", CBS 5 AZ
+https://v-px.mybtv.net/live/48.m3u8
+#EXTINF:-1, tvg-id="EstrellaTV(Spanish).us" group-title="USA LOCAL", Estrella TV 62 LA
+https://v-la.mybtv.net/live/112.m3u8
+#EXTINF:-1, tvg-id="LATVNetworks(Spanish).us" group-title="USA LOCAL", LATV CA
+https://v-ca.mybtv.net/live/129.m3u8
+#EXTINF:-1, tvg-id="EstrellaTV(Spanish).us" group-title="USA LOCAL", Estrella TV 50 CA
+https://v-ca.mybtv.net/live/137.m3u8
+#EXTINF:-1, tvg-id="Telemundo(Pacific)(Spanish).us" group-title="USA LOCAL", Telemundo 48 CA
+https://v-ca.mybtv.net/live/140.m3u8
+#EXTINF:-1, tvg-id="Unimas(Pacific)(Spanish).us" group-title="USA LOCAL", UniMás 46 LA
+https://v-la.mybtv.net/live/168.m3u8
+#EXTINF:-1, tvg-id="KMEXDT(Spanish).us" group-title="USA LOCAL", Univisión 34 LA
+https://v-la.mybtv.net/live/178.m3u8
+#EXTINF:-1, tvg-id="KWHYDT(Spanish).us" group-title="USA LOCAL", KWHY 22 LA
+https://v-la.mybtv.net/live/298.m3u8
+#EXTINF:-1, tvg-id="KTVKDT.us" group-title="USA LOCAL", CBS 3 IN
+https://v-pi.mybtv.net/live/318.m3u8
+#EXTINF:-1, tvg-id="WTXFDT.us" group-title="USA LOCAL", FOX 29 IN
+https://v-pi.mybtv.net/live/369.m3u8
+#EXTINF:-1, tvg-id="EstrellaTV(Spanish).us" group-title="USA LOCAL", Estrella TV 9 SD
+https://v-sd.mybtv.net/live/490.m3u8
+#EXTINF:-1, tvg-id="KNSDDT.us" group-title="USA LOCAL", NBC 7 SD
+https://v-sd.mybtv.net/live/512.m3u8
+#EXTINF:-1, tvg-id="WNBCDT.us" group-title="USA LOCAL", NBC NY
+https://v-ny.mybtv.net/live/548.m3u8
+#EXTINF:-1, tvg-id="WFOXDT.us" group-title="USA LOCAL", FOX NY
+https://v-ny.mybtv.net/live/550.m3u8
+#EXTINF:-1, tvg-id="WABCDT.us" group-title="USA LOCAL", ABC NY
+https://v-ny.mybtv.net/live/554.m3u8
+#EXTINF:-1, tvg-id="WABCDT2.us" group-title="USA LOCAL", ABCISH
+https://v-ny.mybtv.net/live/555.m3u8
+#EXTINF:-1, tvg-id="" group-title="USA LOCAL", My Network TV
+https://v-ny.mybtv.net/live/559.m3u8
+#EXTINF:-1, tvg-id="WDCW.us" group-title="USA LOCAL", The CW NY
+https://v-ny.mybtv.net/live/562.m3u8
+#EXTINF:-1, tvg-id="ClassicRewind.us" group-title="USA LOCAL", Rewind TV
+https://v-ny.mybtv.net/live/565.m3u8
+#EXTINF:-1, tvg-id="WNETDT.us" group-title="USA LOCAL", PBS WNET 13 NY
+https://v-ny.mybtv.net/live/567.m3u8
+#EXTINF:-1, tvg-id="WNETDT2.us" group-title="USA LOCAL", PBS KIDS
+https://v-ny.mybtv.net/live/568.m3u8
+#EXTINF:-1, tvg-id="WLIWDT.us" group-title="USA LOCAL", PBS WLIW 21 GC
+https://v-ny.mybtv.net/live/575.m3u8
+#EXTINF:-1, tvg-id="WLIWDT2.us" group-title="USA LOCAL", PBS CREATE
+https://v-ny.mybtv.net/live/576.m3u8
+#EXTINF:-1, tvg-id="WLIWDT3.us" group-title="USA LOCAL", PBS WORLD
+https://v-ny.mybtv.net/live/577.m3u8
+#EXTINF:-1, tvg-id="WLIWDT4.us" group-title="USA LOCAL", ALL ARTS
+https://v-ny.mybtv.net/live/578.m3u8
+#EXTINF:-1, tvg-id="BounceTV.us" group-title="USA LOCAL", Bounce
+https://v-ny.mybtv.net/live/581.m3u8
+#EXTINF:-1, tvg-id="" group-title="USA LOCAL", NYC Life
+https://v-ny.mybtv.net/live/591.m3u8
+#EXTINF:-1, tvg-id="" group-title="USA LOCAL", NYC Gov
+https://v-ny.mybtv.net/live/592.m3u8
+#EXTINF:-1, tvg-id="MeTVNetwork.us" group-title="USA LOCAL", MeTV
+https://v-ny.mybtv.net/live/637.m3u8
+#EXTINF:-1, tvg-id="WXTVDT(Spanish).us" group-title="USA LOCAL", Univisión 41 NY
+https://v-ny.mybtv.net/live/643.m3u8
+#EXTINF:-1, tvg-id="WNJUDT(Spanish).us" group-title="USA LOCAL", Telemundo 47 NY
+https://v-ny.mybtv.net/live/659.m3u8
+#EXTINF:-1, tvg-id="KNSODT2(Spanish).us" group-title="USA LOCAL", TeleXitos FN
+https://v-fn.mybtv.net/live/873.m3u8
+#EXTINF:-1, tvg-id="NuestraVision(Spanish).us" group-title="USA LOCAL", Nuestra Visión FN
+https://v-fn.mybtv.net/live/891.m3u8
+#EXTINF:-1, tvg-id="Novelisima(Spanish).us" group-title="USA LOCAL", Novelísima FN
+https://v-fn.mybtv.net/live/946.m3u8
+#EXTINF:-1, tvg-id="" group-title="USA LOCAL", Bein Ñ Sports Xtra
+https://v-fn.mybtv.net/live/948.m3u8
+#EXTINF:-1, tvg-id="LATVNetworks(Spanish).us" group-title="USA LOCAL", LATV LV
+https://v-lv.mybtv.net/live/1026.m3u8
+#EXTINF:-1, tvg-id="" group-title="USA LOCAL", Nuestra Visión LV
+https://v-lv.mybtv.net/live/1036.m3u8
+#EXTINF:-1, tvg-id="KMPHDT.us" group-title="USA LOCAL", Fox 26 FN
+https://v-fn.mybtv.net/live/1092.m3u8
+#EXTINF:-1, tvg-id="Enlace.us" group-title="RELIGIÓN", Enlace
+https://v-la.mybtv.net/live/96.m3u8
+#EXTINF:-1, tvg-id="" group-title="RELIGIÓN", Majestad TV
+https://v-la.mybtv.net/live/105.m3u8
+#EXTINF:-1, tvg-id="" group-title="RELIGIÓN", Canal de La Fé
+https://v-la.mybtv.net/live/280.m3u8
+#EXTINF:-1, tvg-id="" group-title="RELIGIÓN", TVA
+https://v-la.mybtv.net/live/300.m3u8
+#EXTINF:-1, tvg-id="" group-title="RELIGIÓN", Espíritu Santo TV
+https://v-fn.mybtv.net/live/893.m3u8
+#EXTINF:-1, tvg-id="ALmavision(Spanish).us" group-title="RELIGIÓN", AlmaVisión LV
+https://v-lv.mybtv.net/live/1047.m3u8
+#EXTINF:-1, tvg-id="" group-title="RELIGIÓN", Renuevo LV
+https://v-lv.mybtv.net/live/1056.m3u8
+#EXTINF:-1, tvg-id="CanalESNE(Spanish).us" group-title="RELIGIÓN", El Sembrador Nueva Evangelización
+https://v-lv.mybtv.net/live/1057.m3u8
+#EXTINF:-1, tvg-id="CanalESNE(Spanish).us" group-title="RELIGIÓN", El Sembrador Nueva Evangelización
+https://v-la.mybtv.net/live/1102.m3u8
+#EXTINF:-1, tvg-id="" group-title="RELIGIÓN", Hora de Fé
+https://v-fn.mybtv.net/live/1111.m3u8
 #EXTINF:-1 tvg-id="ENLACETV.co" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace
 https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EnlaceJuvenil.mx" tvg-name="Enlace Juvenil" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace Juvenil
