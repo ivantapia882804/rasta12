@@ -15,6 +15,18 @@ http://bgapp.live/play/totalp1-119.php?k=blaacghost&token=blacckkghost&c=1785&f=
 http://bgapp.live/play/totalp1-119.php?k=blaacghost&token=blacckkghost&c=317&f=.m3u8
 #EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="RECOMENDADOS",NU9VE
 http://bgapp.live/play/totalp1-119.php?k=blaacghost&token=blacckkghost&c=1783&f=.m3u8
+#EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="RECOMENDADOS" ,Telemundo (WCSV-DT USA)
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657.ts
+#EXTINF:-1 tvg-id="" group-title="RECOMENDADOS" ,Chilevisión (Chile)
+http://170.79.235.29:8000/play/066
+#EXTINF:-1 tvg-id="" group-title="RECOMENDADOS" ,El 13 (Chile)
+http://170.79.235.29:8000/play/067
+#EXTINF:-1 tvg-id="" group-title="RECOMENDADOS" ,Caracol
+http://190.27.172.226:25000/play/a033
+#EXTINF:-1 tvg-id="" group-title="RECOMENDADOS" ,Canal RCN
+http://190.27.172.226:25000/play/a034
+#EXTINF:-1 tvg-id="" group-title="RECOMENDADOS" ,Latina (Perú)
+http://168.194.171.33:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="RECOMENDADOS",TNT
 http://bgapp.live/play/totalp1-119.php?k=blaacghost&token=blacckkghost&c=126&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="RECOMENDADOS",ESPN
@@ -43,8 +55,6 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663.ts
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" group-title="RECOMENDADOS" ,TUDN (USA)
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666.ts
-#EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="RECOMENDADOS" ,Telemundo (WCSV-DT USA)
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657.ts
 
 
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno (HD)
