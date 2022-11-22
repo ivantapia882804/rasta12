@@ -6,13 +6,13 @@ https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=1973&f=.m
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD)
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=7&f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas (HD)
-http://190.61.102.67:8000/play/las3
+http://190.61.102.67:31589/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="RECOMENDADOS",Imagen Televisión (HD)
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=2606&f=.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="RECOMENDADOS",Canal 5 (HD)
-http://bgapp.live/play/tvhd-119.php?id=2&token=blackghost&file=.m3u8
+http://190.61.102.67:31589/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="RECOMENDADOS",Azteca 7 (HD)
-http://bgapp.live/play/tvhd-119.php?id=1&token=blackghost&file=.m3u8
+http://190.61.102.67:31589/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="RECOMENDADOS",NU9VE
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=1783&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN (HD)
@@ -72,17 +72,17 @@ https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=7&f=.m3u8
 #EXTINF:-1 tvg-id="Clic.mx" tvg-name="Clic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="ENTRETENIMIENTO",Clic
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=11&f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas
-http://190.61.102.67:8000/play/las3
+http://190.61.102.67:31589/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (SIN QT2022)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas (SIN QT2022)
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=17&f=.m3u8
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="LOCALES",Foro
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=19&f=.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="LOCALES",Canal 5
-http://bgapp.live/play/tvhd-119.php?id=2&token=blackghost&file=.m3u8
+http://190.61.102.67:31589/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (SIN QT2022)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="LOCALES",Canal 5 (SIN QT2022)
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=20&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="LOCALES",Azteca 7
-http://bgapp.live/play/tvhd-119.php?id=1&token=blackghost&file=.m3u8
+http://190.61.102.67:31589/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (SIN QT2022)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="LOCALES",Azteca 7 (SIN QT2022)
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=21&f=.m3u8
 #EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="LOCALES",NU9VE
