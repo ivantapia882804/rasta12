@@ -16,7 +16,7 @@ http://190.61.102.67:31589/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="RECOMENDADOS",NU9VE
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1783&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN (HD)
-http://bgapp.live/play/tvhd-122.php?id=3&token=blackghoosts&file=.m3u8
+http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="RECOMENDADOS" ,Telemundo (WCSV-DT USA)
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657.ts
 #EXTINF:-1 tvg-id="Universo(Spanish).us" group-title="RECOMENDADOS" ,Universo
@@ -30,15 +30,15 @@ http://bgapp.live/play/tvhd-122.php?id=22&token=blackghoosts&file=.m3u8
 #EXTINF:-1 tvg-id="" group-title="RECOMENDADOS" ,Azteca Guate
 http://190.61.102.67:8000/play/a07i
 #EXTINF:-1 tvg-id="" group-title="RECOMENDADOS" ,Chilevisión (Chile)
-http://170.79.235.29:8000/play/066
+http://45.232.210.1:8062/play/a07d/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="RECOMENDADOS" ,El 13 (Chile)
-http://170.79.235.29:8000/play/067
+http://45.232.210.1:8062/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="RECOMENDADOS" ,Caracol
 http://190.60.39.62:8000/play/a033
 #EXTINF:-1 tvg-id="" group-title="RECOMENDADOS" ,Canal RCN
 http://190.60.39.62:8000/play/a034
 #EXTINF:-1 tvg-id="" group-title="RECOMENDADOS" ,Latina (Perú)
-http://bgapp.live/play/tvhd-122.php?id=4&token=blackghoosts&file=.m3u8
+http://168.194.171.33:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="RECOMENDADOS",TNT
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=126&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="RECOMENDADOS",ESPN
@@ -290,7 +290,7 @@ https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=170&f=.
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="DEPORTES",Fox Sports 2
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=172&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN (HD)
-http://bgapp.live/play/tvhd-122.php?id=3&token=blackghoosts&file=.m3u8
+http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD) (SIN QT2022)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN (HD) (SIN QT2022)
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=174&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="DEPORTES",Fox Sports 3
@@ -413,10 +413,14 @@ https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2402&f=
 https://v-sd.mybtv.net/live/484.m3u8
 #EXTINF:-1 tvg-id="XHCTTITDT.mx" group-title="LOCALES", Imagen Televisión 3.1 (-2h)
 https://v-sd.mybtv.net/live/485.m3u8
+#EXTINF:-1 tvg-id="XETVTDT.mx" group-title="LOCALES", Canal 5 16.1 (-2h)
+https://v-sd.mybtv.net/live/486.m3u8
 #EXTINF:-1 tvg-id="XHTJBTDT2.mx" group-title="LOCALES", Once Niñas y Niños 11.2 (-2h)
 https://v-sd.mybtv.net/live/496.m3u8
 #EXTINF:-1 tvg-id="XHTITTDT2.mx" group-title="LOCALES", A Mas 21.2 (-2h)
 https://v-sd.mybtv.net/live/503.m3u8
+#EXTINF:-1 tvg-id="" group-title="LOCALES", Canal 6 45.1 (-2h)
+https://v-sd.mybtv.net/live/515.m3u8
 #EXTINF:-1 tvg-id="XHDTVTDT.mx" group-title="LOCALES", Milenio Televisión 49.1
 https://v-sd.mybtv.net/live/521.m3u8
 #EXTINF:-1 tvg-id="XHUAATDT.mx" group-title="LOCALES", Las Estrellas 57.1 (-2h)
@@ -425,7 +429,7 @@ https://v-sd.mybtv.net/live/530.m3u8
 https://v-sd.mybtv.net/live/539.m3u8
 #EXTINF:-1 tvg-id="XHJKTDT.mx" group-title="LOCALES", Azteca Uno 1.1 (-2h)
 https://v-sd.mybtv.net/live/760.m3u8
-#EXTINF:-1 tvg-id="XETVTDT.mx" group-title="LOCALES", NU9VE 16.1 (-2h)
+#EXTINF:-1 tvg-id="XETVTDT2.mx" group-title="LOCALES", NU9VE 16.2 (-2h)
 https://v-sd.mybtv.net/live/761.m3u8
 #EXTINF:-1 tvg-id="XHUAATDT2.mx" group-title="LOCALES", Foro 57.2 (-2h)
 https://v-sd.mybtv.net/live/762.m3u8
@@ -874,6 +878,188 @@ http://bgapp.live/play/viix-122.php?c=388&pid=388&token=blackghoosts
 http://bgapp.live/play/viix-122.php?c=46&pid=46&token=blackghoosts
 #EXTINF:-1  group-title="24/7",  Videos Chistosos 2
 http://bgapp.live/play/viix-122.php?c=49&pid=49&token=blackghoosts
+
+
+#EXTINF:-1 tvg-id="A&E.mx" group-title="ENTRETENIMIENTO", A&E
+http://189.203.160.152:10803/play/a0bv/index.m3u8
+#EXTINF:-1 tvg-id=""Atresseries.mx" group-title="ENTRETENIMIENTO", A3 SERIES
+http://189.203.160.152:10803/play/a0b0/index.m3u8
+#EXTINF:-1 tvg-id="ClassicArtsShowcase(English).mx "group-title="MUSICA", ARTS
+http://189.203.160.152:10803/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-id="AXN.mx" group-title="ENTRETENIMIENTO", AXN
+http://189.203.160.152:10803/play/a08w/index.m3u8
+#EXTINF:-1 tvg-id="BabyTv.mx" group-title="KIDS", BABY TV
+http://189.203.160.152:10803/play/a0b9/index.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.mx" group-title="KIDS", CARTOONITO
+http://189.203.160.152:10803/play/a0c1/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.mx" group-title="CINE", CINECANAL
+http://189.203.160.152:10803/play/a0cq/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" group-title="KIDS", DISCOVERY KIDS
+http://189.203.160.152:10803/play/a0an/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" group-title="CONOCIMIENTO", DISCOVERY CHANNEL
+http://189.203.160.152:10803/play/a0ep/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" group-title="CONOCIMIENTO", DISCOVERY TURBO
+http://189.203.160.152:10803/play/a0c4/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.mx" group-title="KIDS", DISNEY CHANNEL
+http://189.203.160.152:10803/play/a0al/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.mx" group-title="KIDS", DISNEY JR
+http://189.203.160.152:10803/play/a0bz/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.mx" group-title="DEPORTES", ESPN
+http://189.203.160.152:10803/play/a091/index.m3u8
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" group-title="DEPORTES", ESPN 3
+http://189.203.160.152:10803/play/a0c3/index.m3u8
+#EXTINF:-1 tvg-id="EENtertainmentTV.mx" group-title="ENTRETENIMIENTO", E!
+http://189.203.160.152:10803/play/a0by/index.m3u8
+#EXTINF:-1 tvg-id="Teleformula.mx" group-title="INFORMACIÓN", TELEFORMULA
+http://189.203.160.152:10803/play/a0be/index.m3u8
+#EXTINF:-1 tvg-id="FX.mx" group-title="ENTRETENIMIENTO", FX
+http://189.203.160.152:10803/play/a08x/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" group-title="CONOCIMIENTO", H&H
+http://189.203.160.152:10803/play/a0bw/index.m3u8
+#EXTINF:-1 tvg-id="HBO.mx" group-title="PREMIUM", HBO
+http://189.203.160.152:10803/play/a0c5/index.m3u8
+#EXTINF:-1 tvg-id="HBOPlus.mx" group-title="PREMIUM", HBO +
+http://189.203.160.152:10803/play/a0cv/index.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" group-title="LOCALES", IMAGEN
+http://189.203.160.152:10803/play/a0d5/index.m3u8
+#EXTINF:-1 tvg-id="ISat.mx" group-title="CINE", ISAT
+http://189.203.160.152:10803/play/a0b2/index.m3u8
+#EXTINF:-1 tvg-id="MC.mx" group-title="CINE", MC
+http://189.203.160.152:10803/play/a0co/index.m3u8
+#EXTINF:-1 tvg-id="MTVHits.es" group-title="MUSICA", MTV HITS
+http://189.203.160.152:10803/play/a0b4/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.mx" group-title="CONOCIMIENTO", NATGEO LA
+http://189.203.160.152:10803/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-id="Nick.mx" group-title="KIDS", NICK
+http://189.203.160.152:10803/play/a0am/index.m3u8
+#EXTINF:-1 tvg-id="Sextreme.mx" group-title="XXX", SEX XTREME
+http://189.203.160.152:10803/play/a09c/index.m3u8
+#EXTINF:-1 tvg-id="CanalSony.mx" group-title="ENTRETENIMIENTO", SONY
+http://189.203.160.152:10803/play/a0aj/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.mx" group-title="CINE", STUDIO UNIVERSAL
+http://189.203.160.152:10803/play/a0bh/index.m3u8
+#EXTINF:-1 tvg-id="Teleritmo.mx" group-title="MUSICA", TLR
+http://189.203.160.152:10803/play/a0em/index.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.mx" group-title="ENTRETENIMIENTO", TNT SERIES
+http://189.203.160.152:10803/play/a0da/index.m3u8
+#EXTINF:-1 tvg-id="Venus.mx" group-title="XXX", VENUS
+http://189.203.160.152:10803/play/a09b/index.m3u8
+#EXTINF:-1 tvg-id="MTV00s.mx" group-title="MUSICA", MTV 00s
+http://189.203.160.152:10803/play/a0b6/index.m3u8
+#EXTINF:-1 tvg-id="Videorola.mx" group-title="MUSICA", VIDEO ROLA
+http://189.203.160.152:10803/play/a0b5/index.m3u8
+#EXTINF:-1 tvg-id="H2.mx" group-title="CONOCIMIENTO", history 2
+http://189.203.160.152:10803/play/a0dj/index.m3u8
+#EXTINF:-1 tvg-id="HolaTV.mx" group-title="ENTRETENIMIENTO", hola tv
+http://189.203.160.152:10803/play/a0db/index.m3u8
+#EXTINF:-1 tvg-id="MilenioTV.mx" group-title="INFORMACIÓN", milenio
+http://189.203.160.152:10803/play/a0dm/index.m3u8
+#EXTINF:-1 tvg-id="Nickmusic.mx" group-title="MUSICA", nick music
+http://189.203.160.152:10803/play/a0df/index.m3u8
+#EXTINF:-1 tvg-id="XEIPN.mx" group-title="LOCALES", once
+http://189.203.160.152:10803/play/a0bq/index.m3u8
+#EXTINF:-1 tvg-id="TBS.mx" group-title="ENTRETENIMIENTO", tbs
+http://189.203.160.152:10803/play/a0dc/index.m3u8
+#EXTINF:-1 tvg-id="AMC.mx" group-title="CINE", AMC
+http://189.203.160.152:10803/play/a0k8/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" group-title="CONOCIMIENTO", ANIMAL PLANET
+http://189.203.160.152:10803/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" group-title="LOCALES", AZTECA 1
+http://189.203.160.152:10803/play/a0kp/index.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" group-title="LOCALES", AZTECA 7
+http://189.203.160.152:10803/play/a0fm/index.m3u8
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" group-title="LOCALES", AZTECA UNO
+http://189.203.160.152:10803/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-id="BabyFrstAmericasSpanish.mx" group-title="KIDS", BABY FIRST
+http://189.203.160.152:10803/play/a0kb/index.m3u8
+#EXTINF:-1 tvg-id="XEIPN.mx" group-title="LOCALES", CANAL 11
+http://189.203.160.152:10803/play/a0kq/index.m3u8
+#EXTINF:-1 tvg-id="Canal14.mx" group-title="LOCALES", CANAL 14
+http://189.203.160.152:10803/play/a0kr/index.m3u8
+#EXTINF:-1 tvg-id="XEIMTTDT.mx" group-title="LOCALES", CANAL 22
+http://189.203.160.152:10803/play/a0ks/index.m3u8
+#EXTINF:-1 tvg-id="XEIMTTDT.mx" group-title="LOCALES", CANAL 22
+http://189.203.160.152:10803/play/a0d7/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" group-title="LOCALES", CANAL 5
+http://189.203.160.152:10803/play/a0fl/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" group-title="KIDS", CARTOON NETWORK
+http://189.203.160.152:10803/play/a0c0/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.mx" group-title="CINE", CINEMAX
+http://189.203.160.152:10803/play/a093/index.m3u8
+#EXTINF:-1 tvg-id="ClaroSports.mx" group-title="DEPORTES", CLARO SPORT
+http://189.203.160.152:10803/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-id="CNNEnEspanol.mx" group-title="INFORMACIÓN", CNN
+http://189.203.160.152:10803/play/a0dl/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.mx" group-title="ENTRETENIMIENTO", COMEDY CENTRAL
+http://189.203.160.152:10803/play/a0b3/index.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.mx" group-title="KIDS", Cartonito
+http://189.203.160.152:10803/play/a0kc/index.m3u8
+#EXTINF:-1 tvg-id="ID.mx" group-title="Lista 25 Mexico", DISCOVERY ID
+http://189.203.160.152:10803/play/a0ch/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LOCALES", CANAL 6 CDMX
+http://189.203.160.152:10803/play/a0bp/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.mx" group-title="DEPORTES", ESPN 2
+http://189.203.160.152:10803/play/a092/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" group-title="LOCALES", LAS ESTRELLAS
+http://189.203.160.152:10803/play/a0d4/index.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.mx" group-title="CINE", EUROPA
+http://189.203.160.152:10803/play/a0k6/index.m3u8
+#EXTINF:-1 tvg-id="FilmandArts.mx" group-title="CINE", FILM & ARTS
+http://189.203.160.152:10803/play/a0k9/index.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.mx" group-title="ENTRETENIMIENTO", GOURMET
+http://189.203.160.152:10803/play/a0k7/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.mx" group-title="PREMIUM", HBO 2
+http://189.203.160.152:10803/play/a0ct/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.mx" group-title="PREMIUM", HBO FAMILY
+http://189.203.160.152:10803/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-id="HBOMundi.mx" group-title="PREMIUM", HBO MUNDI
+http://189.203.160.152:10803/play/a0jj/index.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.mx" group-title="PREMIUM", HBO SIGNATURE
+http://189.203.160.152:10803/play/a0ji/index.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme.mx" group-title="PREMIUM", HBO XTREME
+http://189.203.160.152:10803/play/a096/index.m3u8
+#EXTINF:-1 tvg-id="History.mx" group-title="CONOCIMIENTO", HISTORY CHANNEL
+http://189.203.160.152:10803/play/a0ap/index.m3u8
+#EXTINF:-1 tvg-id="HTV.mx" group-title="MUSICA", HTV
+http://189.203.160.152:10803/play/a0b7/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.mx" group-title="ENTRETENIMIENTO", LIFETIME
+http://189.203.160.152:10803/play/a0ci/index.m3u8
+#EXTINF:-1 tvg-id="MasChic.mx" group-title="ENTRETENIMIENTO", MASCHIC
+http://189.203.160.152:10803/play/a0ka/index.m3u8
+#EXTINF:-1 tvg-id="MTV.mx" group-title="ENTRETENIMIENTO", MTV
+http://189.203.160.152:10803/play/a0ak/index.m3u8
+#EXTINF:-1 tvg-id="MTV00s.mx" group-title="MUSICA", MTV 00
+http://189.203.160.152:10803/play/a0kh/index.m3u8
+#EXTINF:-1 tvg-id="Multipremier.mx" group-title="CINE", MULTIPREMIER
+http://189.203.160.152:10803/play/a0cp/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.mx" group-title="KIDS", NICK JR
+http://189.203.160.152:10803/play/a0ck/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.mx" group-title="CINE", PARAMOUNT
+http://189.203.160.152:10803/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-id="PlayboyTV.mx" group-title="XXX", PLAY BOY
+http://189.203.160.152:10803/play/a09a/index.m3u8
+#EXTINF:-1 tvg-id="RTinSpanish.mx" group-title="INFORMACIÓN", RT
+http://189.203.160.152:10803/play/a0cn/index.m3u8
+#EXTINF:-1 tvg-id="Space.mx" group-title="CINE", SPACE
+http://189.203.160.152:10803/play/a0cg/index.m3u8
+#EXTINF:-1 tvg-id="SYFY.mx" group-title="ENTRETENIMIENTO", SYFY
+http://189.203.160.152:10803/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-id="TLC.mx" group-title="ENTRETENIMIENTO", TLC
+http://189.203.160.152:10803/play/a0bx/index.m3u8
+#EXTINF:-1 tvg-id="TNT.mx" group-title="CINE", TNT
+http://189.203.160.152:10803/play/a0aq/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTV.mx" group-title="ENTRETENIMIENTO", UNIVERSAL
+http://189.203.160.152:10803/play/a0bt/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.mx" group-title="ENTRETENIMIENTO", WARNER
+http://189.203.160.152:10803/play/a0cf/index.m3u8
+#EXTINF:-1 tvg-id="Cinelatino.mx" group-title="CINE", cine latino
+http://189.203.160.152:10803/play/a08u/index.m3u8
+#EXTINF:-1 tvg-id="ESPNExtra.mx" group-title="DEPORTES", espn extra
+http://189.203.160.152:10803/play/a0kf/index.m3u8
+#EXTINF:-1 tvg-id="StarChannel.mx" group-title="ENTRETENIMIENTO", star channel
+http://189.203.160.152:10803/play/a08v/index.m3u8
+#EXTINF:-1 tvg-id="Antena3Internacional.mx" group-title="ENTRETENIMIENTO", A3Int
+http://189.203.160.152:10803/play/a0bu/index.m3u8
 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", 21 - 252 ComedyC
@@ -1392,390 +1578,6 @@ http://168.194.171.33:8000/play/a01s/index.m3u8
 http://168.194.171.33:8000/play/a016/index.m3u8
 
 
-#EXTINF:-1  group-title="LOCALES", Azteca 7
-http://bgapp.live/play/tvhd-122.php?id=1&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="LOCALES", Canal5
-http://bgapp.live/play/tvhd-122.php?id=2&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", TUDN
-http://bgapp.live/play/tvhd-122.php?id=3&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Latina
-http://bgapp.live/play/tvhd-122.php?id=4&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", AmericaTV
-http://bgapp.live/play/tvhd-122.php?id=5&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Gol Peru
-http://bgapp.live/play/tvhd-122.php?id=6&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", GolTV
-http://bgapp.live/play/tvhd-122.php?id=7&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", WinSports
-http://bgapp.live/play/tvhd-122.php?id=8&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", TNT Sports
-http://bgapp.live/play/tvhd-122.php?id=9&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", FoxSports
-http://bgapp.live/play/tvhd-122.php?id=10&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", TYCSports
-http://bgapp.live/play/tvhd-122.php?id=11&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", FoxSports
-http://bgapp.live/play/tvhd-122.php?id=12&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Fox Sports Mexico 3
-http://bgapp.live/play/tvhd-122.php?id=13&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Espn Deportes
-http://bgapp.live/play/tvhd-122.php?id=16&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Espn
-http://bgapp.live/play/tvhd-122.php?id=17&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Espn 2
-http://bgapp.live/play/tvhd-122.php?id=18&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", espn3
-http://bgapp.live/play/tvhd-122.php?id=19&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Fox Sports 2
-http://bgapp.live/play/tvhd-122.php?id=20&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", DirectvSports
-http://bgapp.live/play/tvhd-122.php?id=21&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Fox Sports Mexico
-http://bgapp.live/play/tvhd-122.php?id=22&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Bein La Liga
-http://bgapp.live/play/tvhd-122.php?id=23&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Fox Sports Premium
-http://bgapp.live/play/tvhd-122.php?id=24&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Fox Sports Mexico 2
-http://bgapp.live/play/tvhd-122.php?id=25&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Fox Sports 3
-http://bgapp.live/play/tvhd-122.php?id=26&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", ESPN
-http://bgapp.live/play/tvhd-122.php?id=27&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Espn 2 Mexico
-http://bgapp.live/play/tvhd-122.php?id=28&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Espn3Mexico
-http://bgapp.live/play/tvhd-122.php?id=29&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Afizzionados
-http://bgapp.live/play/tvhd-122.php?id=30&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="PREMIUM", HBO Family
-http://bgapp.live/play/tvhd-122.php?id=34&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="PREMIUM", HBO EXTREM
-http://bgapp.live/play/tvhd-122.php?id=35&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Espn Mexico
-http://bgapp.live/play/tvhd-122.php?id=36&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", EspnPlus
-http://bgapp.live/play/tvhd-122.php?id=37&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", DPelicula
-http://bgapp.live/play/tvhd-122.php?id=38&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", Space
-http://bgapp.live/play/tvhd-122.php?id=39&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", WarnerBrosTV HD
-http://bgapp.live/play/tvhd-122.php?id=40&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", TNT
-http://bgapp.live/play/tvhd-122.php?id=41&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Star Channel
-http://bgapp.live/play/tvhd-122.php?id=42&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", Cinemax
-http://bgapp.live/play/tvhd-122.php?id=43&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", Cinecanal
-http://bgapp.live/play/tvhd-122.php?id=44&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Telefe
-http://bgapp.live/play/tvhd-122.php?id=45&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", ElTrece
-http://bgapp.live/play/tvhd-122.php?id=46&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Distrito Comedia
-http://bgapp.live/play/tvhd-122.php?id=47&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TeleMundo
-http://bgapp.live/play/tvhd-122.php?id=48&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CONOCIMIENTO", History
-http://bgapp.live/play/tvhd-122.php?id=49&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CONOCIMIENTO", History2
-http://bgapp.live/play/tvhd-122.php?id=50&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Pasiones
-http://bgapp.live/play/tvhd-122.php?id=51&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="LOCALES", Azteca Uno
-http://bgapp.live/play/tvhd-122.php?id=52&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", AzMundo
-http://bgapp.live/play/tvhd-122.php?id=53&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", Cinema Inolvidable
-http://bgapp.live/play/tvhd-122.php?id=54&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Galavision
-http://bgapp.live/play/tvhd-122.php?id=55&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Tlnovelas
-http://bgapp.live/play/tvhd-122.php?id=56&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="LOCALES", Canal Estrellas
-http://bgapp.live/play/tvhd-122.php?id=57&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Syfy
-http://bgapp.live/play/tvhd-122.php?id=58&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Caracol
-http://bgapp.live/play/tvhd-122.php?id=59&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", ATV
-http://bgapp.live/play/tvhd-122.php?id=61&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Unicable
-http://bgapp.live/play/tvhd-122.php?id=63&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Unimas
-http://bgapp.live/play/tvhd-122.php?id=64&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="LOCALES", ImagenTV
-http://bgapp.live/play/tvhd-122.php?id=65&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="INFORMACIÓN", CNN EspaÃƒÂ±ol
-http://bgapp.live/play/tvhd-122.php?id=66&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="INFORMACIÓN", RT NOTICIAS
-http://bgapp.live/play/tvhd-122.php?id=67&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="PREMIUM", Universal Reality
-http://bgapp.live/play/tvhd-122.php?id=68&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", FX
-http://bgapp.live/play/tvhd-122.php?id=70&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="24/7", Don Gato y su Pandilla 24/7
-http://bgapp.live/play/tvhd-122.php?id=71&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", WarnerBrosTV
-http://bgapp.live/play/tvhd-122.php?id=72&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", Golden
-http://bgapp.live/play/tvhd-122.php?id=73&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", GOLDEN EDGE
-http://bgapp.live/play/tvhd-122.php?id=74&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="PREMIUM", GOLDEN PREMIER
-http://bgapp.live/play/tvhd-122.php?id=75&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TNTSeries
-http://bgapp.live/play/tvhd-122.php?id=76&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Sony Channel
-http://bgapp.live/play/tvhd-122.php?id=77&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", AXN
-http://bgapp.live/play/tvhd-122.php?id=78&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Universal Channel
-http://bgapp.live/play/tvhd-122.php?id=79&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", Studio Universal
-http://bgapp.live/play/tvhd-122.php?id=80&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", MULTI PREMIER
-http://bgapp.live/play/tvhd-122.php?id=81&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", AMC
-http://bgapp.live/play/tvhd-122.php?id=82&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", PARAMOUNT SD
-http://bgapp.live/play/tvhd-122.php?id=83&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", CineLatino
-http://bgapp.live/play/tvhd-122.php?id=84&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", SAT
-http://bgapp.live/play/tvhd-122.php?id=86&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", MTV
-http://bgapp.live/play/tvhd-122.php?id=87&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="MUSICA", MTV HIT
-http://bgapp.live/play/tvhd-122.php?id=88&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="MUSICA", HTV
-http://bgapp.live/play/tvhd-122.php?id=89&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="MUSICA", BANDMAX
-http://bgapp.live/play/tvhd-122.php?id=90&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Comedy Central
-http://bgapp.live/play/tvhd-122.php?id=91&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CONOCIMIENTO", NatGeo
-http://bgapp.live/play/tvhd-122.php?id=92&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="24/7", Mi Bella Genio 24/7
-http://bgapp.live/play/tvhd-122.php?id=93&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CONOCIMIENTO", Animal Planet
-http://bgapp.live/play/tvhd-122.php?id=94&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CONOCIMIENTO", DiscoveryChannel
-http://bgapp.live/play/tvhd-122.php?id=95&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CONOCIMIENTO", Discovery Turbo
-http://bgapp.live/play/tvhd-122.php?id=96&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CONOCIMIENTO", Discovery HYH
-http://bgapp.live/play/tvhd-122.php?id=97&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", IDInvestigation
-http://bgapp.live/play/tvhd-122.php?id=98&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", A&E
-http://bgapp.live/play/tvhd-122.php?id=99&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TLC
-http://bgapp.live/play/tvhd-122.php?id=100&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CONOCIMIENTO", Discovery World
-http://bgapp.live/play/tvhd-122.php?id=102&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", !E
-http://bgapp.live/play/tvhd-122.php?id=103&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", LifeTime
-http://bgapp.live/play/tvhd-122.php?id=104&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TBS
-http://bgapp.live/play/tvhd-122.php?id=105&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CONOCIMIENTO", El Gourmet
-http://bgapp.live/play/tvhd-122.php?id=106&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="KIDS", Disney Channel
-http://bgapp.live/play/tvhd-122.php?id=107&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="LOCALES", LasEstrellas
-http://bgapp.live/play/tvhd-122.php?id=108&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="KIDS", Disney Junior
-http://bgapp.live/play/tvhd-122.php?id=109&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", PARAMOUNT PLUS
-http://bgapp.live/play/tvhd-122.php?id=110&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="KIDS", Nick
-http://bgapp.live/play/tvhd-122.php?id=112&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="24/7", Chapulin Colorado 24/7
-http://bgapp.live/play/tvhd-122.php?id=113&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="KIDS", Cartoon Network
-http://bgapp.live/play/tvhd-122.php?id=114&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="KIDS", CartoonITO
-http://bgapp.live/play/tvhd-122.php?id=115&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="KIDS", Tooncast
-http://bgapp.live/play/tvhd-122.php?id=116&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="KIDS", Discovery Kids
-http://bgapp.live/play/tvhd-122.php?id=117&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="INFORMACIÓN", CGTN ESPANOL
-http://bgapp.live/play/tvhd-122.php?id=118&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="KIDS", Boing
-http://bgapp.live/play/tvhd-122.php?id=119&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="MUSICA", MTV CLASICC
-http://bgapp.live/play/tvhd-122.php?id=121&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="MUSICA", Telehit
-http://bgapp.live/play/tvhd-122.php?id=122&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="MUSICA", TopLatino
-http://bgapp.live/play/tvhd-122.php?id=123&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="XXX", BrazzerTV
-http://bgapp.live/play/tvhd-122.php?id=124&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", NBA TV
-http://bgapp.live/play/tvhd-122.php?id=125&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Clic
-http://bgapp.live/play/tvhd-122.php?id=127&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="24/7", Alf 24/7
-http://bgapp.live/play/tvhd-122.php?id=128&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="24/7", Digimon 24/7
-http://bgapp.live/play/tvhd-122.php?id=129&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", A3SERIES
-http://bgapp.live/play/tvhd-122.php?id=130&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="KIDS", BITME
-http://bgapp.live/play/tvhd-122.php?id=131&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="LOCALES", CANAL 11
-http://bgapp.live/play/tvhd-122.php?id=132&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", MLB TV
-http://bgapp.live/play/tvhd-122.php?id=134&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="XXX", BrazzerTV SD
-http://bgapp.live/play/tvhd-122.php?id=135&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Hola TV
-http://bgapp.live/play/tvhd-122.php?id=136&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", ESPN 4
-http://bgapp.live/play/tvhd-122.php?id=138&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CONOCIMIENTO", Discovery SCI
-http://bgapp.live/play/tvhd-122.php?id=139&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="XXX", SEXETREM
-http://bgapp.live/play/tvhd-122.php?id=144&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="XXX", PLAYBOY
-http://bgapp.live/play/tvhd-122.php?id=145&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="24/7", SOUTHPARK 24/7
-http://bgapp.live/play/tvhd-122.php?id=146&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", ESPN U
-http://bgapp.live/play/tvhd-122.php?id=148&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="24/7", CHAVO DEL 8 24/7
-http://bgapp.live/play/tvhd-122.php?id=150&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", NFL NETWORK
-http://bgapp.live/play/tvhd-122.php?id=151&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", TCM
-http://bgapp.live/play/tvhd-122.php?id=152&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Willax
-http://bgapp.live/play/tvhd-122.php?id=153&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", NBC
-http://bgapp.live/play/tvhd-122.php?id=164&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", ESPN 4
-http://bgapp.live/play/tvhd-122.php?id=167&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", PANAMERICANA
-http://bgapp.live/play/tvhd-122.php?id=167&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", UNIMAS
-http://bgapp.live/play/tvhd-122.php?id=179&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", RCN NOVELAS
-http://bgapp.live/play/tvhd-122.php?id=190&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="24/7", DragonBallSuper24/7
-http://bgapp.live/play/tvhd-122.php?id=191&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", RCN
-http://bgapp.live/play/tvhd-122.php?id=193&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", M DEPORTES
-http://bgapp.live/play/tvhd-122.php?id=194&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="24/7", DORAIMON 24/7
-http://bgapp.live/play/tvhd-122.php?id=195&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="24/7", Terror 24/7
-http://bgapp.live/play/tvhd-122.php?id=196&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="INFORMACIÓN", CanalN
-http://bgapp.live/play/tvhd-122.php?id=197&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Azteca Corazon
-http://bgapp.live/play/tvhd-122.php?id=198&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", SportTV
-http://bgapp.live/play/tvhd-122.php?id=199&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", TUDN HD
-http://bgapp.live/play/tvhd-122.php?id=200&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", TigoSportsBolivia
-http://bgapp.live/play/tvhd-122.php?id=201&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", Golden
-http://bgapp.live/play/tvhd-122.php?id=202&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", TUDN
-http://bgapp.live/play/tvhd-122.php?id=205&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="PREMIUM", HBO
-http://bgapp.live/play/tvhd-122.php?id=207&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="PREMIUM", HBO 2
-http://bgapp.live/play/tvhd-122.php?id=209&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", TNT
-http://bgapp.live/play/tvhd-122.php?id=214&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", TNT HD
-http://bgapp.live/play/tvhd-122.php?id=222&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CINE", CINECANAL
-http://bgapp.live/play/tvhd-122.php?id=223&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", FOX SPORT
-http://bgapp.live/play/tvhd-122.php?id=224&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CONOCIMIENTO", Discovery H&H
-http://bgapp.live/play/tvhd-122.php?id=229&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="CONOCIMIENTO", Discovery SCI
-http://bgapp.live/play/tvhd-122.php?id=230&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", GALAVISION
-http://bgapp.live/play/tvhd-122.php?id=238&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Fox Sport 2
-http://bgapp.live/play/tvhd-122.php?id=247&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Fox Sport 3
-http://bgapp.live/play/tvhd-122.php?id=248&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", ESPN 2
-http://bgapp.live/play/tvhd-122.php?id=250&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", ESPN 3 COMPAQ
-http://bgapp.live/play/tvhd-122.php?id=251&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", TNT SPORT 2
-http://bgapp.live/play/tvhd-122.php?id=254&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Fox Sport
-http://bgapp.live/play/tvhd-122.php?id=255&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Fox Sport 3
-http://bgapp.live/play/tvhd-122.php?id=256&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Direct TV Sport 2
-http://bgapp.live/play/tvhd-122.php?id=257&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", TyC Sport
-http://bgapp.live/play/tvhd-122.php?id=258&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Caracol
-http://bgapp.live/play/tvhd-122.php?id=259&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", WinSportsPlus
-http://bgapp.live/play/tvhd-122.php?id=260&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Sony
-http://bgapp.live/play/tvhd-122.php?id=266&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="KIDS", Cartoon Network
-http://bgapp.live/play/tvhd-122.php?id=269&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="KIDS", Disney
-http://bgapp.live/play/tvhd-122.php?id=270&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TeleMundo 52
-http://bgapp.live/play/tvhd-122.php?id=271&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", America TV
-http://bgapp.live/play/tvhd-122.php?id=274&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", EuroSport
-http://bgapp.live/play/tvhd-122.php?id=275&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", Toros
-http://bgapp.live/play/tvhd-122.php?id=289&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Nova
-http://bgapp.live/play/tvhd-122.php?id=298&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="INFORMACIÓN", 24 Horas
-http://bgapp.live/play/tvhd-122.php?id=301&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Ecuavisa Ecuador
-http://bgapp.live/play/tvhd-122.php?id=311&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="DEPORTES", M Dportes
-http://bgapp.live/play/tvhd-122.php?id=312&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", RTS Noticias
-http://bgapp.live/play/tvhd-122.php?id=313&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TeleAmazonas Ecuador
-http://bgapp.live/play/tvhd-122.php?id=314&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Canal 7 Ecuador
-http://bgapp.live/play/tvhd-122.php?id=315&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TC Ecuador
-http://bgapp.live/play/tvhd-122.php?id=316&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", OroMarTv Chile
-http://bgapp.live/play/tvhd-122.php?id=317&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="24/7", LosSimpson 24/7
-http://bgapp.live/play/tvhd-122.php?id=329&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="MUSICA", Nick Music
-http://bgapp.live/play/tvhd-122.php?id=331&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TL Novela Univision
-http://bgapp.live/play/tvhd-122.php?id=336&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Glitz
-http://bgapp.live/play/tvhd-122.php?id=339&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Gol Peru
-http://bgapp.live/play/tvhd-122.php?id=340&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Wanner TV
-http://bgapp.live/play/tvhd-122.php?id=341&token=blackghoosts&file=.m3u8|Origin=https://live.telelatinohd.com
-
-
 #EXTINF:-1 group-title="CENTROA", 11 - Repretel
 http://190.61.102.67:8000/play/a01u
 #EXTINF:-1 group-title="CENTROA", 13-Sinart
@@ -2180,382 +1982,264 @@ http://190.61.102.67:8000/play/a01v
 http://190.61.102.67:8000/play/a009
 
 
-
-#EXTINF:-1  group-title="Lista 20", A&E
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/859
-#EXTINF:-1  group-title="Lista 20", AMC
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/860
-#EXTINF:-1  group-title="Lista 20", Animal Planet
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/861
-#EXTINF:-1  group-title="Lista 20", AXN
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/862
-#EXTINF:-1  group-title="Lista 20", AZ CLICK
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/863
-#EXTINF:-1  group-title="Lista 20", AZTECA 13
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/864
-#EXTINF:-1  group-title="Lista 20", AZTECA 7
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/865
-#EXTINF:-1  group-title="Lista 20", AZTECA CINEMA
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/866
-#EXTINF:-1  group-title="Lista 20", AZTECA MUNDO
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/867
-#EXTINF:-1  group-title="Lista 20", AZTECA NOTICIAS
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/868
-#EXTINF:-1  group-title="Lista 20", BANDAMAX
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/869
-#EXTINF:-1  group-title="Lista 20", BOOMERANG
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/870
-#EXTINF:-1  group-title="Lista 20", CANAL 11
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/871
-#EXTINF:-1  group-title="Lista 20", CANAL 5
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/872
-#EXTINF:-1  group-title="Lista 20", Canal De Las Estrellas
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/873
-#EXTINF:-1  group-title="Lista 20", Canal De Las Estrellas HD
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/904
-#EXTINF:-1  group-title="Lista 20", CARACOL
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/874
-#EXTINF:-1  group-title="Lista 20", CARTOON NETWORK
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/875
-#EXTINF:-1  group-title="Lista 20", Cinecanal
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/877
-#EXTINF:-1  group-title="Lista 20", CINELATINO
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/878
-#EXTINF:-1  group-title="Lista 20", CINEMAX
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/879
-#EXTINF:-1  group-title="Lista 20", Claro Sports
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/880
-#EXTINF:-1  group-title="Lista 20", CNN en Espagnol
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/881
-#EXTINF:-1  group-title="Lista 20", Comedy Central
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/882
-#EXTINF:-1  group-title="Lista 20", De Pelicula
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/883
-#EXTINF:-1  group-title="Lista 20", DISCOVERY  HOME & HEALTH
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/885
-#EXTINF:-1  group-title="Lista 20", Discovery Channel
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/884
-#EXTINF:-1  group-title="Lista 20", Discovery Civilization
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/886
-#EXTINF:-1  group-title="Lista 20", Discovery ID
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/887
-#EXTINF:-1  group-title="Lista 20", Discovery Kids
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/888
-#EXTINF:-1  group-title="Lista 20", DISCOVERY SCIENCE
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/891
-#EXTINF:-1  group-title="Lista 20", Discovery Teather
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/892
-#EXTINF:-1  group-title="Lista 20", Discovery TLC(VERIFICAR)
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/889
-#EXTINF:-1  group-title="Lista 20", Discovery Turbo
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/893
-#EXTINF:-1  group-title="Lista 20", DISCOVERY WORLD
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/894
-#EXTINF:-1  group-title="Lista 20", Disney Channel
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/895
-#EXTINF:-1  group-title="Lista 20", Disney Junior
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/896
-#EXTINF:-1  group-title="Lista 20", Disney XD
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/897
-#EXTINF:-1  group-title="Lista 20", DISTRITO COMEDIA
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/898
-#EXTINF:-1  group-title="Lista 20", E!
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/899
-#EXTINF:-1  group-title="Lista 20", EL GOURMET
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/890
-#EXTINF:-1  group-title="Lista 20", ESPN
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/901
-#EXTINF:-1  group-title="Lista 20", ESPN (US)
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/900
-#EXTINF:-1  group-title="Lista 20", ESPN 3
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/902
-#EXTINF:-1  group-title="Lista 20", Film & Arts
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/903
-#EXTINF:-1  group-title="Lista 20", Fox
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/908
-#EXTINF:-1  group-title="Lista 20", FOX LIFE
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/909
-#EXTINF:-1  group-title="Lista 20", Fox premium Action
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/905
-#EXTINF:-1  group-title="Lista 20", Fox premium Cinema
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/906
-#EXTINF:-1  group-title="Lista 20", FOX PREMIUM CLASSICS
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/907
-#EXTINF:-1  group-title="Lista 20", Fox premium Movies
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/910
-#EXTINF:-1  group-title="Lista 20", FOX SPORT 3
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/911
-#EXTINF:-1  group-title="Lista 20", Fox Sports
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/912
-#EXTINF:-1  group-title="Lista 20", FX
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/913
-#EXTINF:-1  group-title="Lista 20", Gala Tv
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/914
-#EXTINF:-1  group-title="Lista 20", Glitz
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/915
-#EXTINF:-1  group-title="Lista 20", Golden
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/917
-#EXTINF:-1  group-title="Lista 20", Golden Edge
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/916
-#EXTINF:-1  group-title="Lista 20", Gourmet
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/918
-#EXTINF:-1  group-title="Lista 20", H2
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/919
-#EXTINF:-1  group-title="Lista 20", HBO POP
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/927
-#EXTINF:-1  group-title="Lista 20", HBO Signature
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/922
-#EXTINF:-1  group-title="Lista 20", HBO(verificar)
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/921
-#EXTINF:-1  group-title="Lista 20", HBO2
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/920
-#EXTINF:-1  group-title="Lista 20", History
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/923
-#EXTINF:-1  group-title="Lista 20", HOLA TV
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/924
-#EXTINF:-1  group-title="Lista 20", INVESTIGACION DISCOVERY
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/925
-#EXTINF:-1  group-title="Lista 20", LIFETIME
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/926
-#EXTINF:-1  group-title="Lista 20", Milenio TV
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/928
-#EXTINF:-1  group-title="Lista 20", MTV LATINO
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/929
-#EXTINF:-1  group-title="Lista 20", MTV LATINO HITS
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/930
-#EXTINF:-1  group-title="Lista 20", MTV LIVE
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/931
-#EXTINF:-1  group-title="Lista 20", Multimedios Monterrey
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/932
-#EXTINF:-1  group-title="Lista 20", MULTIMEDIOS Plus
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/933
-#EXTINF:-1  group-title="Lista 20", NatGeo Wild
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/934
-#EXTINF:-1  group-title="Lista 20", NATIONAL GEOGRAPHIC
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/935
-#EXTINF:-1  group-title="Lista 20", NICK Jr
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/936
-#EXTINF:-1  group-title="Lista 20", NICK TOONS
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/937
-#EXTINF:-1  group-title="Lista 20", NICKELODEON
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/938
-#EXTINF:-1  group-title="Lista 20", PX SPORTS
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/939
-#EXTINF:-1  group-title="Lista 20", SONY
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/940
-#EXTINF:-1  group-title="Lista 20", Space
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/941
-#EXTINF:-1  group-title="Lista 20", STUDIO UNIVERSAL
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/942
-#EXTINF:-1  group-title="Lista 20", SyFy
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/943
-#EXTINF:-1  group-title="Lista 20", TBS VERYFUNNY(VERIFICAR)
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/944
-#EXTINF:-1  group-title="Lista 20", TCM
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/945
-#EXTINF:-1  group-title="Lista 20", TDN EXTRA
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/946
-#EXTINF:-1  group-title="Lista 20", TELEHIT PLUS
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/947
-#EXTINF:-1  group-title="Lista 20", TELEMUNDO
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/948
-#EXTINF:-1  group-title="Lista 20", TELEVISA
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/949
-#EXTINF:-1  group-title="Lista 20", TLC
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/950
-#EXTINF:-1  group-title="Lista 20", TLnovelas(UNIVISION)
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/951
-#EXTINF:-1  group-title="Lista 20", TNT
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/952
-#EXTINF:-1  group-title="Lista 20", TNT Series
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/953
-#EXTINF:-1  group-title="Lista 20", TNT SPORT 2
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/876
-#EXTINF:-1  group-title="Lista 20", TOONCAST
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/954
-#EXTINF:-1  group-title="Lista 20", Tru Tv
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/955
-#EXTINF:-1  group-title="Lista 20", TVE
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/956
-#EXTINF:-1  group-title="Lista 20", TyC Sports
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/962
-#EXTINF:-1  group-title="Lista 20", Unicable
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/957
-#EXTINF:-1  group-title="Lista 20", Unimas
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/958
-#EXTINF:-1  group-title="Lista 20", Universal
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/959
-#EXTINF:-1  group-title="Lista 20", Univision
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/960
-#EXTINF:-1  group-title="Lista 20", win Sport
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/961
-
-#EXTINF:-1 group-title="KIDS", 002 Dos Kids HD
-http://170.79.235.29:8000/play/002
-#EXTINF:-1 group-title="KIDS", 005 Discovery Kids
-http://170.79.235.29:8000/play/005
-#EXTINF:-1 group-title="KIDS", 008 BabyFirst
-http://170.79.235.29:8000/play/008
-#EXTINF:-1 group-title="KIDS", 009 Cartoon Network HD
-http://170.79.235.29:8000/play/009
-#EXTINF:-1 group-title="KIDS", 006 Disney Junior
-http://170.79.235.29:8000/play/006
-#EXTINF:-1 group-title="KIDS", 010 Disney HD
-http://170.79.235.29:8000/play/010
-#EXTINF:-1 group-title="KIDS", 014 Nick HD
-http://170.79.235.29:8000/play/014
-#EXTINF:-1 group-title="KIDS", 015 Nick Jr
-http://170.79.235.29:8000/play/015
-#EXTINF:-1 group-title="KIDS", 016 NTV
-http://170.79.235.29:8000/play/016
-#EXTINF:-1 group-title="PREMIUM", 017 HBO
-http://170.79.235.29:8000/play/017
-#EXTINF:-1 group-title="PREMIUM", 018 HBO Family HD
-http://170.79.235.29:8000/play/018
-#EXTINF:-1 group-title="PREMIUM", 019 HBO Plus
-http://170.79.235.29:8000/play/019
-#EXTINF:-1 group-title="PREMIUM", 020 HBO Xtreme HD
-http://170.79.235.29:8000/play/020
-#EXTINF:-1 group-title="PREMIUM", 021 HBO 2
-http://170.79.235.29:8000/play/021
-#EXTINF:-1 group-title="CONOCIMIENTO", 024 Discovery Channel
-http://170.79.235.29:8000/play/024
-#EXTINF:-1 group-title="CONOCIMIENTO", 025 Animal Planet
-http://170.79.235.29:8000/play/025
-#EXTINF:-1 group-title="CONOCIMIENTO", 027 Nat Geo
-http://170.79.235.29:8000/play/027
-#EXTINF:-1 group-title="CONOCIMIENTO", 032 History Channel HD
-http://170.79.235.29:8000/play/032
-#EXTINF:-1 group-title="CONOCIMIENTO", 033 History 2 HD
-http://170.79.235.29:8000/play/033
-#EXTINF:-1 group-title="RELIGIÓN", 042 Enlace
-http://170.79.235.29:8000/play/042
-#EXTINF:-1 group-title="RELIGIÓN", 043 Red de Fe HD
-http://170.79.235.29:8000/play/043
-#EXTINF:-1 group-title="RELIGIÓN", 044 FTV
-http://170.79.235.29:8000/play/044
-#EXTINF:-1 group-title="RELIGIÓN", 045 Gracia TV
-http://170.79.235.29:8000/play/045
-#EXTINF:-1 group-title="INFORMACIÓN", 052 24 Horas
-http://170.79.235.29:8000/play/052
-#EXTINF:-1 group-title="INFORMACIÓN", 054 CNN Chile HD
-http://170.79.235.29:8000/play/054
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 062 La Red HD
-http://170.79.235.29:8000/play/062
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 064 TVN HD
-http://170.79.235.29:8000/play/064
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 065 Mega HD
-http://170.79.235.29:8000/play/065
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 066 CHV HD
-http://170.79.235.29:8000/play/066
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 067 Canal 13 HD
-http://170.79.235.29:8000/play/067
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 079 ID HD
-http://170.79.235.29:8000/play/079
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 081 Warner Channel HD
-http://170.79.235.29:8000/play/081
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 083 STAR CHANNEL
-http://170.79.235.29:8000/play/083
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 085 Sony HD
-http://170.79.235.29:8000/play/085
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 087 AXN HD
-http://170.79.235.29:8000/play/087
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 088 Universal
-http://170.79.235.29:8000/play/088
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 093 FX
-http://170.79.235.29:8000/play/093
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 098 Studio Universal
-http://170.79.235.29:8000/play/098
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 100 Lifetime
-http://170.79.235.29:8000/play/100
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 101 SyFy
-http://170.79.235.29:8000/play/101
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 102 A&E HD
-http://170.79.235.29:8000/play/102
-#EXTINF:-1 group-title="CINE", 107 Cinecanal
-http://170.79.235.29:8000/play/107
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 108 TNT Series HD
-http://170.79.235.29:8000/play/108
-#EXTINF:-1 group-title="CINE", 109 TNT HD
-http://170.79.235.29:8000/play/109
-#EXTINF:-1 group-title="CINE", 110 TCM
-http://170.79.235.29:8000/play/110
-#EXTINF:-1 group-title="CINE", 112 Cinemax HD
-http://170.79.235.29:8000/play/112
-#EXTINF:-1 group-title="CINE", 116 I-Sat
-http://170.79.235.29:8000/play/116
-#EXTINF:-1 group-title="CINE", 119 Space HD
-http://170.79.235.29:8000/play/119
-#EXTINF:-1 group-title="CINE", 120 MX Family HD
-http://170.79.235.29:8000/play/120
-#EXTINF:-1 group-title="CINE", 121 MX Classic HD
-http://170.79.235.29:8000/play/121
-#EXTINF:-1 group-title="CINE", 122 MX Prime HD
-http://170.79.235.29:8000/play/122
-#EXTINF:-1 group-title="CINE", 123 MX Old HD
-http://170.79.235.29:8000/play/123
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 124 Canal Dos HD
-http://170.79.235.29:8000/play/124
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 131 ViaX
-http://170.79.235.29:8000/play/131
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 132 MTV
-http://170.79.235.29:8000/play/132
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 133 Zona Latina
-http://170.79.235.29:8000/play/133
-#EXTINF:-1 group-title="MUSICA", 134 Karavana TV HD
-http://170.79.235.29:8000/play/134
-#EXTINF:-1 group-title="MUSICA", 135 Karavana Urbano HD
-http://170.79.235.29:8000/play/135
-#EXTINF:-1 group-title="MUSICA", 137 Old Music HD
-http://170.79.235.29:8000/play/137
-#EXTINF:-1 group-title="MUSICA", 138 Zoomback HD
-http://170.79.235.29:8000/play/138
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 149 Telemundo
-http://170.79.235.29:8000/play/149
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 151 Las Estrellas LA
-http://170.79.235.29:8000/play/151
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 153 TVE
-http://170.79.235.29:8000/play/153
-#EXTINF:-1 group-title="CONOCIMIENTO", 171 Discovery H&H HD
-http://170.79.235.29:8000/play/171
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 172 TLC
-http://170.79.235.29:8000/play/172
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 174 E Entertainment
-http://170.79.235.29:8000/play/174
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 177 El Gourmet HD
-http://170.79.235.29:8000/play/177
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 178 Mundo & Sabor HD
-http://170.79.235.29:8000/play/178
-#EXTINF:-1 group-title="CONOCIMIENTO", 179 On Tour Channel HD
-http://170.79.235.29:8000/play/179
-#EXTINF:-1 group-title="CONOCIMIENTO", 207 Discovery Turbo
-http://170.79.235.29:8000/play/207
-#EXTINF:-1 group-title="DEPORTES", 209 Fox Sports 1 HD
-http://170.79.235.29:8000/play/209
-#EXTINF:-1 group-title="DEPORTES", 210 Fox Sports 2
-http://170.79.235.29:8000/play/210
-#EXTINF:-1 group-title="DEPORTES", 211 Fox Sports 3 HD
-http://170.79.235.29:8000/play/211
-#EXTINF:-1 group-title="DEPORTES", 212 ESPN HD
-http://170.79.235.29:8000/play/212
-#EXTINF:-1 group-title="DEPORTES", 214 ESPN 2 HD
-http://170.79.235.29:8000/play/214
-#EXTINF:-1 group-title="DEPORTES", 216 ESPN 3 HD
-http://170.79.235.29:8000/play/216
-#EXTINF:-1 group-title="DEPORTES", 218 ESPN 4
-http://170.79.235.29:8000/play/218
-#EXTINF:-1 group-title="DEPORTES", 230 Canal del Caballo HD
-http://170.79.235.29:8000/play/230
-#EXTINF:-1 group-title="DEPORTES", 231 Fitmaxx HD
-http://170.79.235.29:8000/play/231
-#EXTINF:-1 group-title="DEPORTES", 232 Sport EXT HD
-http://170.79.235.29:8000/play/232
-#EXTINF:-1 group-title="DEPORTES", 233 TNT SPORTS HD
-http://170.79.235.29:8000/play/233
-#EXTINF:-1 group-title="DEPORTES", 234 TNT Sports 2
-http://170.79.235.29:8000/play/234
-#EXTINF:-1 group-title="DEPORTES", 235 TNT Sports 3
-http://170.79.235.29:8000/play/235
+#EXTINF:-1 group-title="VTR", 24 HORAS
+http://45.232.211.196:1080/play/a00n
+#EXTINF:-1 group-title="VTR", A&E HD
+http://45.232.211.196:1080/play/a03v
+#EXTINF:-1 group-title="VTR", AE Mundo
+http://45.232.211.196:1080/play/a02c
+#EXTINF:-1 group-title="VTR", AMC HD
+http://45.232.211.196:1080/play/a05h
+#EXTINF:-1 group-title="VTR", ATRES SERIES HD
+http://45.232.211.196:1080/play/a04n
+#EXTINF:-1 group-title="VTR", AXN
+http://45.232.211.196:1080/play/a00x
+#EXTINF:-1 group-title="VTR", AXN HD
+http://45.232.211.196:1080/play/a03y
+#EXTINF:-1 group-title="VTR", Animal Planet
+http://45.232.211.196:1080/play/a023
+#EXTINF:-1 group-title="VTR", Animal Planet HD
+http://45.232.211.196:1080/play/a05s
+#EXTINF:-1 group-title="VTR", BabyFirst
+http://45.232.211.196:1080/play/a01y
+#EXTINF:-1 group-title="VTR", CANAL 13
+http://45.232.211.196:1080/play/a00f
+#EXTINF:-1 group-title="VTR", CHV
+http://45.232.211.196:1080/play/a00e
+#EXTINF:-1 group-title="VTR", CHV HD
+http://45.232.211.196:1080/play/a04d
+#EXTINF:-1 group-title="VTR", CNN Chile
+http://45.232.211.196:1080/play/a01o
+#EXTINF:-1 group-title="VTR", CNN Chile HD
+http://45.232.211.196:1080/play/a03t
+#EXTINF:-1 group-title="VTR", CNN Espanol
+http://45.232.211.196:1080/play/a00a
+#EXTINF:-1 group-title="VTR", Canal Estrellas
+http://45.232.211.196:1080/play/a02g
+#EXTINF:-1 group-title="VTR", Canal Institucional HD
+http://45.232.211.196:1080/play/a04a
+#EXTINF:-1 group-title="VTR", Cartoon Network
+http://45.232.211.196:1080/play/a01r
+#EXTINF:-1 group-title="VTR", Cartoon Network HD
+http://45.232.211.196:1080/play/a05l
+#EXTINF:-1 group-title="VTR", Cinecanal
+http://45.232.211.196:1080/play/a01j
+#EXTINF:-1 group-title="VTR", Cinecanal HD
+http://45.232.211.196:1080/play/a05g
+#EXTINF:-1 group-title="VTR", Cinemax
+http://45.232.211.196:1080/play/a00v
+#EXTINF:-1 group-title="VTR", Cinemax HD
+http://45.232.211.196:1080/play/a04o
+#EXTINF:-1 group-title="VTR", Clover HD
+http://45.232.211.196:1080/play/a044
+#EXTINF:-1 group-title="VTR", Comedy Central HD
+http://45.232.211.196:1080/play/a04p
+#EXTINF:-1 group-title="VTR", Discovery Channel
+http://45.232.211.196:1080/play/a022
+#EXTINF:-1 group-title="VTR", Discovery H&H HD
+http://45.232.211.196:1080/play/a04w
+#EXTINF:-1 group-title="VTR", Discovery Kids
+http://45.232.211.196:1080/play/a009
+#EXTINF:-1 group-title="VTR", Discovery Kids HD
+http://45.232.211.196:1080/play/a04v
+#EXTINF:-1 group-title="VTR", Discovery Theater HD
+http://45.232.211.196:1080/play/a04x
+#EXTINF:-1 group-title="VTR", Discovery Turbo
+http://45.232.211.196:1080/play/a018
+#EXTINF:-1 group-title="VTR", Discovery World HD
+http://45.232.211.196:1080/play/a05f
+#EXTINF:-1 group-title="VTR", Disney Channel
+http://45.232.211.196:1080/play/a021
+#EXTINF:-1 group-title="VTR", Disney HD
+http://45.232.211.196:1080/play/a04f
+#EXTINF:-1 group-title="VTR", Disney Jr
+http://45.232.211.196:1080/play/a00m
+#EXTINF:-1 group-title="VTR", Disney Junior HD
+http://45.232.211.196:1080/play/a04k
+#EXTINF:-1 group-title="VTR", E Entertainment
+http://45.232.211.196:1080/play/a025
+#EXTINF:-1 group-title="VTR", ESPN
+http://45.232.211.196:1080/play/a028
+#EXTINF:-1 group-title="VTR", ESPN 2
+http://45.232.211.196:1080/play/a00p
+#EXTINF:-1 group-title="VTR", ESPN 2 HD
+http://45.232.211.196:1080/play/a04l
+#EXTINF:-1 group-title="VTR", ESPN 2 Latin
+http://45.232.211.196:1080/play/a027
+#EXTINF:-1 group-title="VTR", ESPN 2 Latin HD
+http://45.232.211.196:1080/play/a045
+#EXTINF:-1 group-title="VTR", ESPN 3
+http://45.232.211.196:1080/play/a01a
+#EXTINF:-1 group-title="VTR", ESPN 3 HD
+http://45.232.211.196:1080/play/a04i
+#EXTINF:-1 group-title="VTR", ESPN 4
+http://45.232.211.196:1080/play/a026
+#EXTINF:-1 group-title="VTR", ESPN 4 HD
+http://45.232.211.196:1080/play/a051
+#EXTINF:-1 group-title="VTR", ESPN EXTRA HD
+http://45.232.211.196:1080/play/a05i
+#EXTINF:-1 group-title="VTR", ESPN HD
+http://45.232.211.196:1080/play/a058
+#EXTINF:-1 group-title="VTR", El Gourmet HD
+http://45.232.211.196:1080/play/a04s
+#EXTINF:-1 group-title="VTR", Enlace
+http://45.232.211.196:1080/play/a01w
+#EXTINF:-1 group-title="VTR", Esne TV
+http://45.232.211.196:1080/play/a019
+#EXTINF:-1 group-title="VTR", FOX Sports 2 HD
+http://45.232.211.196:1080/play/a052
+#EXTINF:-1 group-title="VTR", FX
+http://45.232.211.196:1080/play/a00z
+#EXTINF:-1 group-title="VTR", FX HD
+http://45.232.211.196:1080/play/a057
+#EXTINF:-1 group-title="VTR", Fox Sports 1
+http://45.232.211.196:1080/play/a00h
+#EXTINF:-1 group-title="VTR", Fox Sports 2
+http://45.232.211.196:1080/play/a02h
+#EXTINF:-1 group-title="VTR", Fox Sports 3
+http://45.232.211.196:1080/play/a02i
+#EXTINF:-1 group-title="VTR", Fox Sports 3 HD
+http://45.232.211.196:1080/play/a04j
+#EXTINF:-1 group-title="VTR", GOL TV
+http://45.232.211.196:1080/play/a029
+#EXTINF:-1 group-title="VTR", HBO
+http://45.232.211.196:1080/play/a00u
+#EXTINF:-1 group-title="VTR", HBO 2
+http://45.232.211.196:1080/play/a00i
+#EXTINF:-1 group-title="VTR", HBO 2 HD
+http://45.232.211.196:1080/play/a05q
+#EXTINF:-1 group-title="VTR", HBO Family
+http://45.232.211.196:1080/play/a00l
+#EXTINF:-1 group-title="VTR", HBO HD
+http://45.232.211.196:1080/play/a05t
+#EXTINF:-1 group-title="VTR", HBO POP HD
+http://45.232.211.196:1080/play/a042
+#EXTINF:-1 group-title="VTR", HBO Plus
+http://45.232.211.196:1080/play/a00j
+#EXTINF:-1 group-title="VTR", HBO XTREME
+http://45.232.211.196:1080/play/a00k
+#EXTINF:-1 group-title="VTR", HOLA TV HD
+http://45.232.211.196:1080/play/a04g
+#EXTINF:-1 group-title="VTR", History Channel
+http://45.232.211.196:1080/play/a01i
+#EXTINF:-1 group-title="VTR", History Channel HD
+http://45.232.211.196:1080/play/a03u
+#EXTINF:-1 group-title="VTR", I-Sat
+http://45.232.211.196:1080/play/a01l
+#EXTINF:-1 group-title="VTR", ID HD
+http://45.232.211.196:1080/play/a04q
+#EXTINF:-1 group-title="VTR", Kanal D Drama HD
+http://45.232.211.196:1080/play/a05k
+#EXTINF:-1 group-title="VTR", La Red
+http://45.232.211.196:1080/play/a00b
+#EXTINF:-1 group-title="VTR", La Red HD
+http://45.232.211.196:1080/play/a048
+#EXTINF:-1 group-title="VTR", Lifetime
+http://45.232.211.196:1080/play/a01z
+#EXTINF:-1 group-title="VTR", MEGA HD
+http://45.232.211.196:1080/play/a05d
+#EXTINF:-1 group-title="VTR", MTV
+http://45.232.211.196:1080/play/a01m
+#EXTINF:-1 group-title="VTR", MTV 00s HD
+http://45.232.211.196:1080/play/a04m
+#EXTINF:-1 group-title="VTR", MTV LIVE HD
+http://45.232.211.196:1080/play/a050
+#EXTINF:-1 group-title="VTR", Mega
+http://45.232.211.196:1080/play/a00d
+#EXTINF:-1 group-title="VTR", NTV
+http://45.232.211.196:1080/play/a00t
+#EXTINF:-1 group-title="VTR", NTV HD
+http://45.232.211.196:1080/play/a05b
+#EXTINF:-1 group-title="VTR", Nat Geo
+http://45.232.211.196:1080/play/a01h
+#EXTINF:-1 group-title="VTR", Nat Geo HD
+http://45.232.211.196:1080/play/a05e
+#EXTINF:-1 group-title="VTR", Nick HD
+http://45.232.211.196:1080/play/a047
+#EXTINF:-1 group-title="VTR", Nick Jr
+http://45.232.211.196:1080/play/a017
+#EXTINF:-1 group-title="VTR", Nick Music HD
+http://45.232.211.196:1080/play/a054
+#EXTINF:-1 group-title="VTR", Nickelodeon
+http://45.232.211.196:1080/play/a01g
+#EXTINF:-1 group-title="VTR", Paramount HD
+http://45.232.211.196:1080/play/a05m
+#EXTINF:-1 group-title="VTR", Pasiones HD
+http://45.232.211.196:1080/play/a04e
+#EXTINF:-1 group-title="VTR", Playboy HD
+http://45.232.211.196:1080/play/a055
+#EXTINF:-1 group-title="VTR", RCN HD
+http://45.232.211.196:1080/play/a059
+#EXTINF:-1 group-title="VTR", STAR CHANNEL
+http://45.232.211.196:1080/play/a01p
+#EXTINF:-1 group-title="VTR", STAR CHANNEL 2 HD
+http://45.232.211.196:1080/play/a04y
+#EXTINF:-1 group-title="VTR", STAR CHANNEL HD
+http://45.232.211.196:1080/play/a046
+#EXTINF:-1 group-title="VTR", Sony
+http://45.232.211.196:1080/play/a00w
+#EXTINF:-1 group-title="VTR", Sony HD
+http://45.232.211.196:1080/play/a03w
+#EXTINF:-1 group-title="VTR", Space
+http://45.232.211.196:1080/play/a00y
+#EXTINF:-1 group-title="VTR", Space HD
+http://45.232.211.196:1080/play/a03z
+#EXTINF:-1 group-title="VTR", Studio Universal
+http://45.232.211.196:1080/play/a00o
+#EXTINF:-1 group-title="VTR", Studio Universal HD
+http://45.232.211.196:1080/play/a05n
+#EXTINF:-1 group-title="VTR", Sun Channel HD
+http://45.232.211.196:1080/play/a04u
+#EXTINF:-1 group-title="VTR", SyFy
+http://45.232.211.196:1080/play/a020
+#EXTINF:-1 group-title="VTR", TCM
+http://45.232.211.196:1080/play/a01q
+#EXTINF:-1 group-title="VTR", TLC
+http://45.232.211.196:1080/play/a02e
+#EXTINF:-1 group-title="VTR", TNT
+http://45.232.211.196:1080/play/a01s
+#EXTINF:-1 group-title="VTR", TNT HD
+http://45.232.211.196:1080/play/a04h
+#EXTINF:-1 group-title="VTR", TNT SPORTS 2
+http://45.232.211.196:1080/play/a00g
+#EXTINF:-1 group-title="VTR", TNT SPORTS 3
+http://45.232.211.196:1080/play/a02b
+#EXTINF:-1 group-title="VTR", TNT SPORTS HD
+http://45.232.211.196:1080/play/a040
+#EXTINF:-1 group-title="VTR", TNT Series HD
+http://45.232.211.196:1080/play/a056
+#EXTINF:-1 group-title="VTR", TRUTV HD
+http://45.232.211.196:1080/play/a04r
+#EXTINF:-1 group-title="VTR", TV+ HD
+http://45.232.211.196:1080/play/a05c
+#EXTINF:-1 group-title="VTR", TVE
+http://45.232.211.196:1080/play/a01x
+#EXTINF:-1 group-title="VTR", TVN
+http://45.232.211.196:1080/play/a00c
+#EXTINF:-1 group-title="VTR", TVN HD
+http://45.232.211.196:1080/play/a04c
+#EXTINF:-1 group-title="VTR", Telemundo
+http://45.232.211.196:1080/play/a02j
+#EXTINF:-1 group-title="VTR", TyC
+http://45.232.211.196:1080/play/a02a
+#EXTINF:-1 group-title="VTR", UCL HD
+http://45.232.211.196:1080/play/a053
+#EXTINF:-1 group-title="VTR", UNIVERSAL CHANNEL HD
+http://45.232.211.196:1080/play/a04z
+#EXTINF:-1 group-title="VTR", Universal
+http://45.232.211.196:1080/play/a01k
+#EXTINF:-1 group-title="VTR", ViaX
+http://45.232.211.196:1080/play/a02f
+#EXTINF:-1 group-title="VTR", Warner
+http://45.232.211.196:1080/play/a024
+#EXTINF:-1 group-title="VTR", Warner Channel HD
+http://45.232.211.196:1080/play/a03x
+#EXTINF:-1 group-title="VTR", Win Sports HD
+http://45.232.211.196:1080/play/a043
+#EXTINF:-1 group-title="VTR", Win Sports+ HD
+http://45.232.211.196:1080/play/a05r
+#EXTINF:-1 group-title="VTR", Zona Latina
+http://45.232.211.196:1080/play/a01n
 #EXTINF:-1 group-title="VTR", 24 Horas
 http://45.232.210.1:8062/play/a08l/index.m3u8
 #EXTINF:-1 group-title="VTR", AE Mundo
