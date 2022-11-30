@@ -22,11 +22,11 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 #EXTINF:-1 tvg-id="Universo(Spanish).us" group-title="RECOMENDADOS" ,Universo
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665.ts
 #EXTINF:-1 tvg-id="" group-title="RECOMENDADOS" , Directv Sports
-http://bgapp.live/play/tvhd-122.php?id=20&token=blackghoosts&file=.m3u8
+http://bgapp.live/play/tvhd-142.php?id=20&token=blackghosts&file=.m3u8
 #EXTINF:-1 tvg-id="" group-title="RECOMENDADOS" , Directv Sports 2
-http://bgapp.live/play/tvhd-122.php?id=21&token=blackghoosts&file=.m3u8
+http://bgapp.live/play/tvhd-142.php?id=21&token=blackghosts&file=.m3u8
 #EXTINF:-1 tvg-id="" group-title="RECOMENDADOS" , Directv Sports +
-http://bgapp.live/play/tvhd-122.php?id=22&token=blackghoosts&file=.m3u8
+http://bgapp.live/play/tvhd-142.php?id=22&token=blackghosts&file=.m3u8
 #EXTINF:-1 tvg-id="" group-title="RECOMENDADOS" ,Azteca Guate
 http://190.61.102.67:8000/play/a07i
 #EXTINF:-1 tvg-id="" group-title="RECOMENDADOS" ,Chilevisión (Chile)
@@ -54,9 +54,9 @@ https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=172&f=.
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="RECOMENDADOS",Fox Sports 3
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=178&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" group-title="RECOMENDADOS",Fox Sports Premium MX
-http://bgapp.live/play/futvall-122.php?id=foxsportsp&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=foxsportsp&token=blackghosts&f=.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group-title="RECOMENDADOS",Afizzionados
-http://bgapp.live/play/futvall-122.php?id=afizzionados&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=afizzionados&token=blackghosts&f=.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports (HD)
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2564&f=.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" group-title="RECOMENDADOS" ,Univisión
@@ -737,147 +737,147 @@ http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1  group-title="24/7",  40 Y 20
-http://bgapp.live/play/viix-122.php?c=340&pid=340&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=340&pid=340&token=blackghosts
 #EXTINF:-1  group-title="DEPORTES",  Adrenalina Sports Network
-http://bgapp.live/play/viix-122.php?c=393&pid=393&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=393&pid=393&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Alebrije TV
-http://bgapp.live/play/viix-122.php?c=319&pid=319&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=319&pid=319&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Amigas Y Rivales
-http://bgapp.live/play/viix-122.php?c=320&pid=320&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=320&pid=320&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Amores Verdaderos
-http://bgapp.live/play/viix-122.php?c=305&pid=305&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=305&pid=305&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Aqui Y Ahora
-http://bgapp.live/play/viix-122.php?c=306&pid=306&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=306&pid=306&token=blackghosts
 #EXTINF:-1  group-title="CINE",  Cine 1
-http://bgapp.live/play/viix-122.php?c=307&pid=307&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=307&pid=307&token=blackghosts
 #EXTINF:-1  group-title="CINE",  Cine 2
-http://bgapp.live/play/viix-122.php?c=308&pid=308&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=308&pid=308&token=blackghosts
 #EXTINF:-1  group-title="CINE",  Cine 3
-http://bgapp.live/play/viix-122.php?c=309&pid=309&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=309&pid=309&token=blackghosts
 #EXTINF:-1  group-title="CINE",  Cine Club - Prendetv
-http://bgapp.live/play/viix-122.php?c=192&pid=192&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=192&pid=192&token=blackghosts
 #EXTINF:-1  group-title="CINE",  Cine Del Ayer
-http://bgapp.live/play/viix-122.php?c=429&pid=429&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=429&pid=429&token=blackghosts
 #EXTINF:-1 group-title="CINE", Cine Sd
-http://bgapp.live/play/viix-122.php?c=450&pid=450&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=450&pid=450&token=blackghosts
 #EXTINF:-1 group-title="CINE", Cine Sd
-http://bgapp.live/play/viix-122.php?c=451&pid=451&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=451&pid=451&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Clase 406
-http://bgapp.live/play/viix-122.php?c=322&pid=322&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=322&pid=322&token=blackghosts
 #EXTINF:-1  group-title="INFORMACIÓN",  Cnn Español (USA)
-http://bgapp.live/play/viix-122.php?c=358&pid=358&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=358&pid=358&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Comedy Tv
-http://bgapp.live/play/viix-122.php?c=89&pid=89&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=89&pid=89&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Como Dice El Dicho
-http://bgapp.live/play/viix-122.php?c=341&pid=341&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=341&pid=341&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Corazón Salvaje
-http://bgapp.live/play/viix-122.php?c=325&pid=325&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=325&pid=325&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Crónicas
-http://bgapp.live/play/viix-122.php?c=315&pid=315&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=315&pid=315&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Cuidado Con El Angel
-http://bgapp.live/play/viix-122.php?c=316&pid=316&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=316&pid=316&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Del Mercado Al Plato
-http://bgapp.live/play/viix-122.php?c=317&pid=317&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=317&pid=317&token=blackghosts
 #EXTINF:-1 group-title="DEPORTES", Deportes
-http://bgapp.live/play/viix-122.php?c=452&pid=452&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=452&pid=452&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Durmiendo Con Mi Jefe
-http://bgapp.live/play/viix-122.php?c=312&pid=312&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=312&pid=312&token=blackghosts
 #EXTINF:-1  group-title="24/7",  El Privilegio De Mandar
-http://bgapp.live/play/viix-122.php?c=313&pid=313&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=313&pid=313&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Failarmy
-http://bgapp.live/play/viix-122.php?c=197&pid=197&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=197&pid=197&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Familia P. Luche
-http://bgapp.live/play/viix-122.php?c=311&pid=311&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=311&pid=311&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Fun Videos
-http://bgapp.live/play/viix-122.php?c=121&pid=121&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=121&pid=121&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Héroes Del Norte
-http://bgapp.live/play/viix-122.php?c=323&pid=323&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=323&pid=323&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Juana La Virgen
-http://bgapp.live/play/viix-122.php?c=327&pid=327&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=327&pid=327&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Kids
-http://bgapp.live/play/viix-122.php?c=355&pid=355&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=355&pid=355&token=blackghosts
 #EXTINF:-1  group-title="24/7",  La Promesa
-http://bgapp.live/play/viix-122.php?c=343&pid=343&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=343&pid=343&token=blackghosts
 #EXTINF:-1  group-title="24/7",  La Selecc10n
-http://bgapp.live/play/viix-122.php?c=345&pid=345&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=345&pid=345&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Lo Mejor De La Liga Mx - Prendetv
-http://bgapp.live/play/viix-122.php?c=193&pid=193&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=193&pid=193&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Lo Que Diga El Corazon
-http://bgapp.live/play/viix-122.php?c=346&pid=346&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=346&pid=346&token=blackghosts
 #EXTINF:-1  group-title="REGIONALES",  Canal 4 Tu Canal
-http://bgapp.live/play/viix-122.php?c=402&pid=402&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=402&pid=402&token=blackghosts
 #EXTINF:-1  group-title="REGIONALES",  Canal 4 Monterrey
-http://bgapp.live/play/viix-122.php?c=403&pid=403&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=403&pid=403&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Love Nature
-http://bgapp.live/play/viix-122.php?c=390&pid=390&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=390&pid=390&token=blackghosts
 #EXTINF:-1  group-title="24/7",  María Mercedes
-http://bgapp.live/play/viix-122.php?c=328&pid=328&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=328&pid=328&token=blackghosts
 #EXTINF:-1  group-title="INFORMACIÓN",  N+ Media
-http://bgapp.live/play/viix-122.php?c=301&pid=301&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=301&pid=301&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Mi Gorda Bella
-http://bgapp.live/play/viix-122.php?c=334&pid=334&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=334&pid=334&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Muchachitas
-http://bgapp.live/play/viix-122.php?c=331&pid=331&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=331&pid=331&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Muchachitas Como Tu
-http://bgapp.live/play/viix-122.php?c=332&pid=332&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=332&pid=332&token=blackghosts
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Novelas
-http://bgapp.live/play/viix-122.php?c=445&pid=445&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=445&pid=445&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Novelas De Oro - Prendetv
-http://bgapp.live/play/viix-122.php?c=196&pid=196&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=196&pid=196&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Novelas De Romance - Prendetv
-http://bgapp.live/play/viix-122.php?c=194&pid=194&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=194&pid=194&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Novelas En Familia - Prendetv
-http://bgapp.live/play/viix-122.php?c=195&pid=195&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=195&pid=195&token=blackghosts
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Novelas Hd
-http://bgapp.live/play/viix-122.php?c=448&pid=448&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=448&pid=448&token=blackghosts
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Novelas Sd
-http://bgapp.live/play/viix-122.php?c=447&pid=447&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=447&pid=447&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Papa A Toda Madre
-http://bgapp.live/play/viix-122.php?c=336&pid=336&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=336&pid=336&token=blackghosts
 #EXTINF:-1  group-title="24/7",  People Are Awesome
-http://bgapp.live/play/viix-122.php?c=39&pid=39&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=39&pid=39&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Que Bonito Amor
-http://bgapp.live/play/viix-122.php?c=329&pid=329&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=329&pid=329&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Rebelde
-http://bgapp.live/play/viix-122.php?c=335&pid=335&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=335&pid=335&token=blackghosts
 #EXTINF:-1  group-title="CINE",  Retro Peli
-http://bgapp.live/play/viix-122.php?c=304&pid=304&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=304&pid=304&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Sortilegio
-http://bgapp.live/play/viix-122.php?c=337&pid=337&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=337&pid=337&token=blackghosts
 #EXTINF:-1  group-title="MUSICA",  Telehit Musica
-http://bgapp.live/play/viix-122.php?c=418&pid=418&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=418&pid=418&token=blackghosts
 #EXTINF:-1  group-title="MUSICA",  Telehit Musica Plus
-http://bgapp.live/play/viix-122.php?c=419&pid=419&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=419&pid=419&token=blackghosts
 #EXTINF:-1  group-title="MUSICA",  Telehit
-http://bgapp.live/play/viix-122.php?c=417&pid=417&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=417&pid=417&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Teresa
-http://bgapp.live/play/viix-122.php?c=342&pid=342&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=342&pid=342&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Teresa
-http://bgapp.live/play/viix-122.php?c=324&pid=324&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=324&pid=324&token=blackghosts
 #EXTINF:-1  group-title="24/7",  The Weather Channel(Es)
-http://bgapp.live/play/viix-122.php?c=431&pid=431&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=431&pid=431&token=blackghosts
 #EXTINF:-1  group-title="24/7",  The Weather Channel(Es) Hd
-http://bgapp.live/play/viix-122.php?c=453&pid=453&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=453&pid=453&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Tres Veces Ana
-http://bgapp.live/play/viix-122.php?c=321&pid=321&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=321&pid=321&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Triunfo Del Amor
-http://bgapp.live/play/viix-122.php?c=338&pid=338&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=338&pid=338&token=blackghosts
 #EXTINF:-1  group-title="LOCALES",  Nu9ve
-http://bgapp.live/play/viix-122.php?c=352&pid=352&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=352&pid=352&token=blackghosts
 #EXTINF:-1 group-title="24/7", Unknown 101
-http://bgapp.live/play/viix-122.php?c=330&pid=330&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=330&pid=330&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Unknown 262
-http://bgapp.live/play/viix-122.php?c=446&pid=446&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=446&pid=446&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Vecinos
-http://bgapp.live/play/viix-122.php?c=314&pid=314&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=314&pid=314&token=blackghosts
 #EXTINF:-1  group-title="MUSICA",  Vevo
-http://bgapp.live/play/viix-122.php?c=389&pid=389&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=389&pid=389&token=blackghosts
 #EXTINF:-1  group-title="MUSICA",  Vevo
-http://bgapp.live/play/viix-122.php?c=388&pid=388&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=388&pid=388&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Videos Chistosos
-http://bgapp.live/play/viix-122.php?c=46&pid=46&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=46&pid=46&token=blackghosts
 #EXTINF:-1  group-title="24/7",  Videos Chistosos 2
-http://bgapp.live/play/viix-122.php?c=49&pid=49&token=blackghoosts
+http://bgapp.live/play/viix-142.php?c=49&pid=49&token=blackghosts
 
 
 #EXTINF:-1 tvg-id="A&E.mx" group-title="ENTRETENIMIENTO", A&E
@@ -1209,273 +1209,273 @@ http://190.61.102.67:31589/play/a08f/index.m3u8
 
 
 #EXTINF:-1 group-title="LOCALES", AZTECA UNO
-http://bgapp.live/play/futvall-122.php?id=aztecauno&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=aztecauno&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="LOCALES", CANAL 2
-http://bgapp.live/play/futvall-122.php?id=eldos&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=eldos&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="LOCALES", CANAL 5
-http://bgapp.live/play/futvall-122.php?id=elcinco&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=elcinco&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="LOCALES", AZTECA 7
-http://bgapp.live/play/futvall-122.php?id=azteca7&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=azteca7&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="LOCALES", AZTECA 7 HD
-http://bgapp.live/play/futvall-122.php?id=azteca7hd&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=azteca7hd&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="LOCALES", NUEVE
-http://bgapp.live/play/futvall-122.php?id=elnueve&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=elnueve&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="LOCALES", IMAGEN TV
-http://bgapp.live/play/futvall-122.php?id=imagentv&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=imagentv&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="CINE", SPACE
-http://bgapp.live/play/futvall-122.php?id=space&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=space&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", ADRENALINA
-http://bgapp.live/play/futvall-122.php?id=adrenalina&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=adrenalina&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", AFIZZIONADOS
-http://bgapp.live/play/futvall-122.php?id=afizzionados&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=afizzionados&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", AyM Sports
-http://bgapp.live/play/futvall-122.php?id=aymsports&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=aymsports&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", BASKET AMERICAS
-http://bgapp.live/play/futvall-122.php?id=basket&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=basket&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", BEIN SPORTS Ñ
-http://bgapp.live/play/futvall-122.php?id=beines&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=beines&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", BEIN US HD
-http://bgapp.live/play/futvall-122.php?id=beinhd&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=beinhd&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", DIRECTV SPORTS
-http://bgapp.live/play/futvall-122.php?id=directv&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=directv&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", DIRECTV 2
-http://bgapp.live/play/futvall-122.php?id=directv2&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=directv2&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", CLARO SPORTS
-http://bgapp.live/play/futvall-122.php?id=clarosports&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=clarosports&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN Deportes
-http://bgapp.live/play/futvall-122.php?id=espndep&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=espndep&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 1
-http://bgapp.live/play/futvall-122.php?id=espn1-mx&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=espn1-mx&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2
-http://bgapp.live/play/futvall-122.php?id=espn2-mx&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=espn2-mx&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3
-http://bgapp.live/play/futvall-122.php?id=espn3-mx&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=espn3-mx&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN EXTRA
-http://bgapp.live/play/futvall-122.php?id=espnextra-mx&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=espnextra-mx&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1
-http://bgapp.live/play/futvall-122.php?id=foxsports1-mx&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=foxsports1-mx&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2
-http://bgapp.live/play/futvall-122.php?id=foxsports2-mx&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=foxsports2-mx&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3
-http://bgapp.live/play/futvall-122.php?id=foxsports3-mx&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=foxsports3-mx&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS PREMIUM
-http://bgapp.live/play/futvall-122.php?id=foxsportsp&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=foxsportsp&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", GALAVISION
-http://bgapp.live/play/futvall-122.php?id=galavision&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=galavision&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", GOL PERU
-http://bgapp.live/play/futvall-122.php?id=golperu&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=golperu&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", GOLTV
-http://bgapp.live/play/futvall-122.php?id=goltv&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=goltv&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", GOLF CHANNEL
-http://bgapp.live/play/futvall-122.php?id=golf&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=golf&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", HAVOC
-http://bgapp.live/play/futvall-122.php?id=havoc&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=havoc&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", NFL NETWORK
-http://bgapp.live/play/futvall-122.php?id=nfl&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=nfl&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", LAS Deportes
-http://bgapp.live/play/futvall-122.php?id=las&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=las&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", LALIGA
-http://bgapp.live/play/futvall-122.php?id=laliga&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=laliga&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", M LALIGA
-http://bgapp.live/play/futvall-122.php?id=mlaliga&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=mlaliga&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", M LIGA DE CAMPEONES
-http://bgapp.live/play/futvall-122.php?id=mligadec&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=mligadec&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TELEMUNDO
-http://bgapp.live/play/futvall-122.php?id=telemundo&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=telemundo&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN
-http://bgapp.live/play/futvall-122.php?id=tudn-mx&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=tudn-mx&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN US
-http://bgapp.live/play/futvall-122.php?id=tudn-us&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=tudn-us&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", TVC Deportes
-http://bgapp.live/play/futvall-122.php?id=tvcdep-mx&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=tvcdep-mx&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", TyC SPORTS
-http://bgapp.live/play/futvall-122.php?id=tycsports&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=tycsports&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", UNIMAS
-http://bgapp.live/play/futvall-122.php?id=unimas&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=unimas&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", UNIVERSO
-http://bgapp.live/play/futvall-122.php?id=universo&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=universo&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", NBC SPORTS NET
-http://bgapp.live/play/futvall-122.php?id=nbcsn&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=nbcsn&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", WIN SPORTS
-http://bgapp.live/play/futvall-122.php?id=winsports&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=winsports&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", WIN SPORTS PLUS
-http://bgapp.live/play/futvall-122.php?id=winplus&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=winplus&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", FIGHT TIME
-http://bgapp.live/play/futvall-122.php?id=fight&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=fight&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", UFC
-http://bgapp.live/play/futvall-122.php?id=ufc&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=ufc&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", WWE
-http://bgapp.live/play/futvall-122.php?id=wwe&token=blackghoosts&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=wwe&token=blackghosts&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLC
-http://bgapp.live/play/futvall-122.php?id=tlc&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=tlc&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", MULTIPREMIER
-http://bgapp.live/play/futvall-122.php?id=mp&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=mp&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", GOLDEN
-http://bgapp.live/play/futvall-122.php?id=golden&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=golden&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", GOLDEN PLUS
-http://bgapp.live/play/futvall-122.php?id=goldenplus&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=goldenplus&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", GOLDEN EDGE
-http://bgapp.live/play/futvall-122.php?id=goldenedge&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=goldenedge&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="PREMIUM", GOLDEN PREMIER
-http://bgapp.live/play/futvall-122.php?id=goldenp&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=goldenp&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", STAR CH
-http://bgapp.live/play/futvall-122.php?id=starch&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=starch&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", WOW TV
-http://bgapp.live/play/futvall-122.php?id=wow&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=wow&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="LOCALES", A MAS
-http://bgapp.live/play/futvall-122.php?id=amas&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=amas&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="LOCALES", AZTECA UNO
-http://bgapp.live/play/futvall-122.php?id=aztecauno&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=aztecauno&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="LOCALES", EL DOS
-http://bgapp.live/play/futvall-122.php?id=eldos&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=eldos&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="LOCALES", CANAL 5
-http://bgapp.live/play/futvall-122.php?id=elcinco&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=elcinco&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="LOCALES", AZTECA 7
-http://bgapp.live/play/futvall-122.php?id=azteca7&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=azteca7&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="LOCALES", EL NUEVE
-http://bgapp.live/play/futvall-122.php?id=elnueve&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=elnueve&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="LOCALES", IMAGEN TV
-http://bgapp.live/play/futvall-122.php?id=imagentv&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=imagentv&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="REGIONALES", MULTIMEDIOS
-http://bgapp.live/play/futvall-122.php?id=multimedios&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=multimedios&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="LOCALES", ONCE TV
-http://bgapp.live/play/futvall-122.php?id=oncetv&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=oncetv&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="LOCALES", ONCE TV HD
-http://bgapp.live/play/futvall-122.php?id=oncetvhd&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=oncetvhd&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", DISTRITO COMEDIA
-http://bgapp.live/play/futvall-122.php?id=distrito&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=distrito&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", UNICABLE
-http://bgapp.live/play/futvall-122.php?id=unicable&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=unicable&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", MVSTV
-http://bgapp.live/play/futvall-122.php?id=mvstv&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=mvstv&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", ANTENA 3 Int
-http://bgapp.live/play/futvall-122.php?id=antena3int&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=antena3int&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", A3 SERIES
-http://bgapp.live/play/futvall-122.php?id=a3series&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=a3series&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", STAR TVE
-http://bgapp.live/play/futvall-122.php?id=startve&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=startve&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TVE
-http://bgapp.live/play/futvall-122.php?id=tve&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=tve&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", GALAVISION
-http://bgapp.live/play/futvall-122.php?id=galavision&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=galavision&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", GLITZ
-http://bgapp.live/play/futvall-122.php?id=glitz&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=glitz&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TELEMUNDO
-http://bgapp.live/play/futvall-122.php?id=telemundo&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=telemundo&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TELEMUNDO Internacional
-http://bgapp.live/play/futvall-122.php?id=telemundoint&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=telemundoint&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", UNIMAS
-http://bgapp.live/play/futvall-122.php?id=unimas&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=unimas&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", AZ CORAZON
-http://bgapp.live/play/futvall-122.php?id=azcorazon&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=azcorazon&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", AandE
-http://bgapp.live/play/futvall-122.php?id=ae&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=ae&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", AXN
-http://bgapp.live/play/futvall-122.php?id=axn&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=axn&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", COMEDY CENTRAL
-http://bgapp.live/play/futvall-122.php?id=comedy&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=comedy&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Entertaiment
-http://bgapp.live/play/futvall-122.php?id=e&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=e&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", FOX Channel
-http://bgapp.live/play/futvall-122.php?id=starch&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=starch&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", FX
-http://bgapp.live/play/futvall-122.php?id=fx&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=fx&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", INVESTIGATION Discovery
-http://bgapp.live/play/futvall-122.php?id=id&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=id&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", PASIONES
-http://bgapp.live/play/futvall-122.php?id=pasiones&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=pasiones&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", RCN Novelas
-http://bgapp.live/play/futvall-122.php?id=rcntln&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=rcntln&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", SONY Channel
-http://bgapp.live/play/futvall-122.php?id=sony&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=sony&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TLNovelas
-http://bgapp.live/play/futvall-122.php?id=tlnovelas&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=tlnovelas&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Tele Novelas
-http://bgapp.live/play/futvall-122.php?id=univtln&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=univtln&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TBS
-http://bgapp.live/play/futvall-122.php?id=tbs&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=tbs&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TNT Series
-http://bgapp.live/play/futvall-122.php?id=tntseries&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=tntseries&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TRU TV
-http://bgapp.live/play/futvall-122.php?id=trutv&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=trutv&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", UNIVERSAL TV
-http://bgapp.live/play/futvall-122.php?id=universal&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=universal&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", WARNER TV
-http://bgapp.live/play/futvall-122.php?id=warner&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=warner&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", AZ CINEMA
-http://bgapp.live/play/futvall-122.php?id=azcinema&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=azcinema&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", AMC
-http://bgapp.live/play/futvall-122.php?id=amc&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=amc&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", CINECANAL
-http://bgapp.live/play/futvall-122.php?id=cinecanal&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=cinecanal&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", CINEMAX
-http://bgapp.live/play/futvall-122.php?id=cinemax&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=cinemax&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", DE PELICULA
-http://bgapp.live/play/futvall-122.php?id=depelicula&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=depelicula&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", DE PELICULA PLUS
-http://bgapp.live/play/futvall-122.php?id=depeliculaplus&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=depeliculaplus&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", DHE
-http://bgapp.live/play/futvall-122.php?id=dhe&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=dhe&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", EUROPA
-http://bgapp.live/play/futvall-122.php?id=europa&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=europa&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", FILM &amp; ARTS
-http://bgapp.live/play/futvall-122.php?id=filmarts&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=filmarts&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", ISAT
-http://bgapp.live/play/futvall-122.php?id=isat&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=isat&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", MULTICINEMA
-http://bgapp.live/play/futvall-122.php?id=mc&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=mc&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", MULTIPREMIER
-http://bgapp.live/play/futvall-122.php?id=mp&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=mp&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", MORBIDO
-http://bgapp.live/play/futvall-122.php?id=morbido&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=morbido&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", PARAMOUNT Channel
-http://bgapp.live/play/futvall-122.php?id=paramount&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=paramount&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", SPACE
-http://bgapp.live/play/futvall-122.php?id=space&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=space&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", STUDIO Universal
-http://bgapp.live/play/futvall-122.php?id=studiouniversal&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=studiouniversal&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", SYFY
-http://bgapp.live/play/futvall-122.php?id=syfy&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=syfy&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TCM
-http://bgapp.live/play/futvall-122.php?id=tcm&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=tcm&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CINE", TNT
-http://bgapp.live/play/futvall-122.php?id=tnt&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=tnt&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", AZ MUNDO
-http://bgapp.live/play/futvall-122.php?id=azmundo&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=azmundo&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", ANIMAL Planet
-http://bgapp.live/play/futvall-122.php?id=animalp&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=animalp&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY Channel
-http://bgapp.live/play/futvall-122.php?id=discoverych&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=discoverych&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", Discovery SCIENCE
-http://bgapp.live/play/futvall-122.php?id=dciencia&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=dciencia&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", Discovery CIVILIZATION
-http://bgapp.live/play/futvall-122.php?id=dcivil&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=dcivil&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", Discovery THEATER
-http://bgapp.live/play/futvall-122.php?id=dtheater&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=dtheater&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", Discovery TURBO
-http://bgapp.live/play/futvall-122.php?id=dturbo&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=dturbo&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", Discovery WORLD
-http://bgapp.live/play/futvall-122.php?id=dworld&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=dworld&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", FOOD Network
-http://bgapp.live/play/futvall-122.php?id=food&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=food&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", EL GOURMET
-http://bgapp.live/play/futvall-122.php?id=gourmet&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=gourmet&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", LIFE TIME
-http://bgapp.live/play/futvall-122.php?id=lifetime&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=lifetime&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", HISTORY Channel
-http://bgapp.live/play/futvall-122.php?id=history&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=history&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", Histrory 2
-http://bgapp.live/play/futvall-122.php?id=h2&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=h2&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", Home &amp; Health
-http://bgapp.live/play/futvall-122.php?id=hh&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=hh&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", HOLA TV
-http://bgapp.live/play/futvall-122.php?id=holatv&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=holatv&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", MAS CHIC
-http://bgapp.live/play/futvall-122.php?id=maschic&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=maschic&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", NATGEO
-http://bgapp.live/play/futvall-122.php?id=natgeo&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=natgeo&token=blackghosts&dos=.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", TLC Discovery
-http://bgapp.live/play/futvall-122.php?id=tlc&token=blackghoosts&dos=.m3u8
+http://bgapp.live/play/futvall-142.php?id=tlc&token=blackghosts&dos=.m3u8
 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", 9-ATV
