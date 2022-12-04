@@ -50,7 +50,7 @@ https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=178&f=.
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" group-title="RECOMENDADOS",Fox Sports Premium MX
 http://bgapp.live/play/futvall-142.php?id=foxsportsp&token=bñackghos&f=.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group-title="RECOMENDADOS",Afizzionados
-http://bgapp.live/play/futvall-142.php?id=afizzionados&token=bñackghos&f=.m3u8
+http://bgapp.live/play/futvall-142.php?id=YWZpenppb25hZG9z&token=bñackghos&f=.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports (HD)
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2564&f=.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" group-title="RECOMENDADOS" ,Univisión
@@ -1197,274 +1197,276 @@ http://bgapp.live/play/viix-142.php?c=46&pid=46&token=bñackghos
 http://bgapp.live/play/viix-142.php?c=49&pid=49&token=bñackghos
 
 
-#EXTINF:-1 group-title="LOCALES", AZTECA UNO
-http://bgapp.live/play/futvall-142.php?id=aztecauno&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="LOCALES", CANAL 2
-http://bgapp.live/play/futvall-142.php?id=eldos&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="LOCALES", CANAL 5
-http://bgapp.live/play/futvall-142.php?id=elcinco&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="LOCALES", AZTECA 7
-http://bgapp.live/play/futvall-142.php?id=azteca7&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="LOCALES", AZTECA 7 HD
-http://bgapp.live/play/futvall-142.php?id=azteca7hd&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="LOCALES", NUEVE
-http://bgapp.live/play/futvall-142.php?id=elnueve&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="LOCALES", IMAGEN TV
-http://bgapp.live/play/futvall-142.php?id=imagentv&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="CINE", SPACE
-http://bgapp.live/play/futvall-142.php?id=space&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", ADRENALINA
-http://bgapp.live/play/futvall-142.php?id=adrenalina&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", AFIZZIONADOS
-http://bgapp.live/play/futvall-142.php?id=afizzionados&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", AyM Sports
-http://bgapp.live/play/futvall-142.php?id=aymsports&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", BASKET AMERICAS
-http://bgapp.live/play/futvall-142.php?id=basket&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS Ñ
-http://bgapp.live/play/futvall-142.php?id=beines&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", BEIN US HD
-http://bgapp.live/play/futvall-142.php?id=beinhd&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", DIRECTV SPORTS
-http://bgapp.live/play/futvall-142.php?id=directv&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", DIRECTV 2
-http://bgapp.live/play/futvall-142.php?id=directv2&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", CLARO SPORTS
-http://bgapp.live/play/futvall-142.php?id=clarosports&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN Deportes
-http://bgapp.live/play/futvall-142.php?id=espndep&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 1
-http://bgapp.live/play/futvall-142.php?id=espn1-mx&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 2
-http://bgapp.live/play/futvall-142.php?id=espn2-mx&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 3
-http://bgapp.live/play/futvall-142.php?id=espn3-mx&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN EXTRA
-http://bgapp.live/play/futvall-142.php?id=espnextra-mx&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1
-http://bgapp.live/play/futvall-142.php?id=foxsports1-mx&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2
-http://bgapp.live/play/futvall-142.php?id=foxsports2-mx&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3
-http://bgapp.live/play/futvall-142.php?id=foxsports3-mx&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS PREMIUM
-http://bgapp.live/play/futvall-142.php?id=foxsportsp&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", GALAVISION
-http://bgapp.live/play/futvall-142.php?id=galavision&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", GOL PERU
-http://bgapp.live/play/futvall-142.php?id=golperu&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", GOLTV
-http://bgapp.live/play/futvall-142.php?id=goltv&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", GOLF CHANNEL
-http://bgapp.live/play/futvall-142.php?id=golf&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", HAVOC
-http://bgapp.live/play/futvall-142.php?id=havoc&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", NFL NETWORK
-http://bgapp.live/play/futvall-142.php?id=nfl&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", LAS Deportes
-http://bgapp.live/play/futvall-142.php?id=las&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", LALIGA
-http://bgapp.live/play/futvall-142.php?id=laliga&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", M LALIGA
-http://bgapp.live/play/futvall-142.php?id=mlaliga&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", M LIGA DE CAMPEONES
-http://bgapp.live/play/futvall-142.php?id=mligadec&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TELEMUNDO
-http://bgapp.live/play/futvall-142.php?id=telemundo&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", TUDN
-http://bgapp.live/play/futvall-142.php?id=tudn-mx&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", TUDN US
-http://bgapp.live/play/futvall-142.php?id=tudn-us&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", TVC Deportes
-http://bgapp.live/play/futvall-142.php?id=tvcdep-mx&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", TyC SPORTS
-http://bgapp.live/play/futvall-142.php?id=tycsports&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", UNIMAS
-http://bgapp.live/play/futvall-142.php?id=unimas&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", UNIVERSO
-http://bgapp.live/play/futvall-142.php?id=universo&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", NBC SPORTS NET
-http://bgapp.live/play/futvall-142.php?id=nbcsn&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", WIN SPORTS
-http://bgapp.live/play/futvall-142.php?id=winsports&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", WIN SPORTS PLUS
-http://bgapp.live/play/futvall-142.php?id=winplus&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", FIGHT TIME
-http://bgapp.live/play/futvall-142.php?id=fight&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", UFC
-http://bgapp.live/play/futvall-142.php?id=ufc&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", WWE
-http://bgapp.live/play/futvall-142.php?id=wwe&token=bñackghos&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TLC
-http://bgapp.live/play/futvall-142.php?id=tlc&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", MULTIPREMIER
-http://bgapp.live/play/futvall-142.php?id=mp&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", GOLDEN
-http://bgapp.live/play/futvall-142.php?id=golden&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", GOLDEN PLUS
-http://bgapp.live/play/futvall-142.php?id=goldenplus&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", GOLDEN EDGE
-http://bgapp.live/play/futvall-142.php?id=goldenedge&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="PREMIUM", GOLDEN PREMIER
-http://bgapp.live/play/futvall-142.php?id=goldenp&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", STAR CH
-http://bgapp.live/play/futvall-142.php?id=starch&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", WOW TV
-http://bgapp.live/play/futvall-142.php?id=wow&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="LOCALES", A MAS
-http://bgapp.live/play/futvall-142.php?id=amas&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="LOCALES", AZTECA UNO
-http://bgapp.live/play/futvall-142.php?id=aztecauno&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="LOCALES", EL DOS
-http://bgapp.live/play/futvall-142.php?id=eldos&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="LOCALES", CANAL 5
-http://bgapp.live/play/futvall-142.php?id=elcinco&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="LOCALES", AZTECA 7
-http://bgapp.live/play/futvall-142.php?id=azteca7&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="LOCALES", EL NUEVE
-http://bgapp.live/play/futvall-142.php?id=elnueve&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="LOCALES", IMAGEN TV
-http://bgapp.live/play/futvall-142.php?id=imagentv&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="REGIONALES", MULTIMEDIOS
-http://bgapp.live/play/futvall-142.php?id=multimedios&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="LOCALES", ONCE TV
-http://bgapp.live/play/futvall-142.php?id=oncetv&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="LOCALES", ONCE TV HD
-http://bgapp.live/play/futvall-142.php?id=oncetvhd&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", DISTRITO COMEDIA
-http://bgapp.live/play/futvall-142.php?id=distrito&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", UNICABLE
-http://bgapp.live/play/futvall-142.php?id=unicable&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", MVSTV
-http://bgapp.live/play/futvall-142.php?id=mvstv&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", ANTENA 3 Int
-http://bgapp.live/play/futvall-142.php?id=antena3int&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", A3 SERIES
-http://bgapp.live/play/futvall-142.php?id=a3series&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", STAR TVE
-http://bgapp.live/play/futvall-142.php?id=startve&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TVE
-http://bgapp.live/play/futvall-142.php?id=tve&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", GALAVISION
-http://bgapp.live/play/futvall-142.php?id=galavision&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", GLITZ
-http://bgapp.live/play/futvall-142.php?id=glitz&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TELEMUNDO
-http://bgapp.live/play/futvall-142.php?id=telemundo&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TELEMUNDO Internacional
-http://bgapp.live/play/futvall-142.php?id=telemundoint&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", UNIMAS
-http://bgapp.live/play/futvall-142.php?id=unimas&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", AZ CORAZON
-http://bgapp.live/play/futvall-142.php?id=azcorazon&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", AandE
-http://bgapp.live/play/futvall-142.php?id=ae&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", AXN
-http://bgapp.live/play/futvall-142.php?id=axn&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", COMEDY CENTRAL
-http://bgapp.live/play/futvall-142.php?id=comedy&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Entertaiment
-http://bgapp.live/play/futvall-142.php?id=e&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", FOX Channel
-http://bgapp.live/play/futvall-142.php?id=starch&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", FX
-http://bgapp.live/play/futvall-142.php?id=fx&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", INVESTIGATION Discovery
-http://bgapp.live/play/futvall-142.php?id=id&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", PASIONES
-http://bgapp.live/play/futvall-142.php?id=pasiones&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", RCN Novelas
-http://bgapp.live/play/futvall-142.php?id=rcntln&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", SONY Channel
-http://bgapp.live/play/futvall-142.php?id=sony&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TLNovelas
-http://bgapp.live/play/futvall-142.php?id=tlnovelas&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Tele Novelas
-http://bgapp.live/play/futvall-142.php?id=univtln&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TBS
-http://bgapp.live/play/futvall-142.php?id=tbs&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TNT Series
-http://bgapp.live/play/futvall-142.php?id=tntseries&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TRU TV
-http://bgapp.live/play/futvall-142.php?id=trutv&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", UNIVERSAL TV
-http://bgapp.live/play/futvall-142.php?id=universal&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", WARNER TV
-http://bgapp.live/play/futvall-142.php?id=warner&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", AZ CINEMA
-http://bgapp.live/play/futvall-142.php?id=azcinema&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", AMC
-http://bgapp.live/play/futvall-142.php?id=amc&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", CINECANAL
-http://bgapp.live/play/futvall-142.php?id=cinecanal&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", CINEMAX
-http://bgapp.live/play/futvall-142.php?id=cinemax&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", DE PELICULA
-http://bgapp.live/play/futvall-142.php?id=depelicula&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", DE PELICULA PLUS
-http://bgapp.live/play/futvall-142.php?id=depeliculaplus&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", DHE
-http://bgapp.live/play/futvall-142.php?id=dhe&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", EUROPA
-http://bgapp.live/play/futvall-142.php?id=europa&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", FILM &amp; ARTS
-http://bgapp.live/play/futvall-142.php?id=filmarts&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", ISAT
-http://bgapp.live/play/futvall-142.php?id=isat&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", MULTICINEMA
-http://bgapp.live/play/futvall-142.php?id=mc&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", MULTIPREMIER
-http://bgapp.live/play/futvall-142.php?id=mp&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", MORBIDO
-http://bgapp.live/play/futvall-142.php?id=morbido&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", PARAMOUNT Channel
-http://bgapp.live/play/futvall-142.php?id=paramount&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", SPACE
-http://bgapp.live/play/futvall-142.php?id=space&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", STUDIO Universal
-http://bgapp.live/play/futvall-142.php?id=studiouniversal&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", SYFY
-http://bgapp.live/play/futvall-142.php?id=syfy&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TCM
-http://bgapp.live/play/futvall-142.php?id=tcm&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CINE", TNT
-http://bgapp.live/play/futvall-142.php?id=tnt&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", AZ MUNDO
-http://bgapp.live/play/futvall-142.php?id=azmundo&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", ANIMAL Planet
-http://bgapp.live/play/futvall-142.php?id=animalp&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY Channel
-http://bgapp.live/play/futvall-142.php?id=discoverych&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", Discovery SCIENCE
-http://bgapp.live/play/futvall-142.php?id=dciencia&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", Discovery CIVILIZATION
-http://bgapp.live/play/futvall-142.php?id=dcivil&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", Discovery THEATER
-http://bgapp.live/play/futvall-142.php?id=dtheater&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", Discovery TURBO
-http://bgapp.live/play/futvall-142.php?id=dturbo&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", Discovery WORLD
-http://bgapp.live/play/futvall-142.php?id=dworld&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", FOOD Network
-http://bgapp.live/play/futvall-142.php?id=food&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", EL GOURMET
-http://bgapp.live/play/futvall-142.php?id=gourmet&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", LIFE TIME
-http://bgapp.live/play/futvall-142.php?id=lifetime&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", HISTORY Channel
-http://bgapp.live/play/futvall-142.php?id=history&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", Histrory 2
-http://bgapp.live/play/futvall-142.php?id=h2&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", Home &amp; Health
-http://bgapp.live/play/futvall-142.php?id=hh&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", HOLA TV
-http://bgapp.live/play/futvall-142.php?id=holatv&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", MAS CHIC
-http://bgapp.live/play/futvall-142.php?id=maschic&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", NATGEO
-http://bgapp.live/play/futvall-142.php?id=natgeo&token=bñackghos&dos=.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO", TLC Discovery
-http://bgapp.live/play/futvall-142.php?id=tlc&token=bñackghos&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TELE MUNDO
+http://bgapp.live/play/futvall-142.php?id=dGxlbXVuZG8tbXg=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TELE MUNDO US
+http://bgapp.live/play/futvall-142.php?id=dGxlbXVuZG91cw==&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  GO DIRECTV
+http://bgapp.live/play/futvall-142.php?id=Z29kaXJlY3R2&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  LATINA
+http://bgapp.live/play/futvall-142.php?id=bGF0aW5h&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CARACOL TV
+http://bgapp.live/play/futvall-142.php?id=Y2FyYWNvbHR2&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  RCN TV
+http://bgapp.live/play/futvall-142.php?id=cmNudHY=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  DIRECTV 2
+http://bgapp.live/play/futvall-142.php?id=Z29kaXJlY3R2Mg==&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  EL SIETE MX
+http://bgapp.live/play/futvall-142.php?id=ZWwtc2lldGVteA==&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  EL SIETE MX HD
+http://bgapp.live/play/futvall-142.php?id=ZWxzaWV0ZWhk&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CINCO MX
+http://bgapp.live/play/futvall-142.php?id=Y2luY29teA==&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TUDN MX
+http://bgapp.live/play/futvall-142.php?id=dGRuLW14&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CANAL 2 MX
+http://bgapp.live/play/futvall-142.php?id=ZWxkb3M=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AZTECA UNO MX
+http://bgapp.live/play/futvall-142.php?id=YXp0ZWNhdW5v&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  IMAGEN TV
+http://bgapp.live/play/futvall-142.php?id=aW1hZ2VudHY=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  NUEVE
+http://bgapp.live/play/futvall-142.php?id=ZWxudWV2ZQ==&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TNT Sports
+http://bgapp.live/play/futvall-142.php?id=dG50&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CINEMAX
+http://bgapp.live/play/futvall-142.php?id=Y2luZW1heA==&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  SPACE
+http://bgapp.live/play/futvall-142.php?id=c3BhY2U=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ADRENALINA
+http://bgapp.live/play/futvall-142.php?id=YWRyZW5hbGluYQ==&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AFIZZIONADOS
+http://bgapp.live/play/futvall-142.php?id=YWZpenppb25hZG9z&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AyM Sports
+http://bgapp.live/play/futvall-142.php?id=YXltc3BvcnRz&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  BEIN SPORTS Ñ
+http://bgapp.live/play/futvall-142.php?id=YmVpbmVzaGQ=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CLARO SPORTS
+http://bgapp.live/play/futvall-142.php?id=Y2xhcm9zcG9ydHM=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ESPN Deportes
+http://bgapp.live/play/futvall-142.php?id=ZXNwbmRlcA==&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ESPN 1 MX
+http://bgapp.live/play/futvall-142.php?id=ZXNwbjEtbXg=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ESPN 2 MX
+http://bgapp.live/play/futvall-142.php?id=ZXNwbjItbXg=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ESPN 3 MX
+http://bgapp.live/play/futvall-142.php?id=ZXNwbjMtbXg=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ESPN EXTRA
+http://bgapp.live/play/futvall-142.php?id=ZXNwbmV4dHJhLW14&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FOX SPORTS 1 MX
+http://bgapp.live/play/futvall-142.php?id=Zm94c3BvcnRzMS1teA==&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FOX SPORTS 2 MX
+http://bgapp.live/play/futvall-142.php?id=Zm94c3BvcnRzMi1teA==&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FOX SPORTS 3 MX
+http://bgapp.live/play/futvall-142.php?id=Zm94c3BvcnRzMy1teA==&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  GALAVISION
+http://bgapp.live/play/futvall-142.php?id=Z2FsYXZpc2lvbg==&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  GOLTV
+http://bgapp.live/play/futvall-142.php?id=Z29sdHY=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  GOLF
+http://bgapp.live/play/futvall-142.php?id=Z29sZg==&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  MLB
+http://bgapp.live/play/futvall-142.php?id=bWxi&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  NFL NETWORK
+http://bgapp.live/play/futvall-142.php?id=bmZs&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  M DEPORTES
+http://bgapp.live/play/futvall-142.php?id=bWRlcG9ydGVz&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  M LALIGA
+http://bgapp.live/play/futvall-142.php?id=bXNsYWxpZ2E=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  SKY LALIGA
+http://bgapp.live/play/futvall-142.php?id=c2t5bGFsaWdh&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  SKY PREMIER LEAGUE
+http://bgapp.live/play/futvall-142.php?id=c2t5c3BvcnRzcGw=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  SKY F1
+http://bgapp.live/play/futvall-142.php?id=c2t5ZjE=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TENIS CH
+http://bgapp.live/play/futvall-142.php?id=dGVuaXM=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TVC Deportes
+http://bgapp.live/play/futvall-142.php?id=dHZjZGVwLW14&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TYC SPORTS ARG
+http://bgapp.live/play/futvall-142.php?id=dHljc3BvcnRz&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TDN US
+http://bgapp.live/play/futvall-142.php?id=dHVkbnVz&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  UNIVERSO
+http://bgapp.live/play/futvall-142.php?id=dW5pdmVyc28=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  NBC SPORTS NET
+http://bgapp.live/play/futvall-142.php?id=bmJjc24=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  UNIMAS
+http://bgapp.live/play/futvall-142.php?id=dW5pbWFz&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  UNIV US
+http://bgapp.live/play/futvall-142.php?id=dW5pdnVz&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  UNIV DEPORTES
+http://bgapp.live/play/futvall-142.php?id=dW5pdmRlcA==&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CBS NETWORK
+http://bgapp.live/play/futvall-142.php?id=Y2JzbmV0&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FIGHT TIME
+http://bgapp.live/play/futvall-142.php?id=ZmlnaHQ=&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  UFC
+http://bgapp.live/play/futvall-142.php?id=dWZj&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  VTV
+http://bgapp.live/play/futvall-142.php?id=dnR2&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  VTV PLUS
+http://bgapp.live/play/futvall-142.php?id=dnR2cGx1cw==&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  WIN SPORTS
+http://bgapp.live/play/futvall-142.php?id=d2luY29s&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  WIN SPORTS PLUS
+http://bgapp.live/play/futvall-142.php?id=d2lucGx1c2NvbA==&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  WWE
+http://bgapp.live/play/futvall-142.php?id=d3dl&token=bñackghos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AZTECA UNO MX
+http://bgapp.live/play/futvall-142.php?id=ZWwtdW5v&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  EL DOS MX
+http://bgapp.live/play/futvall-142.php?id=ZWxkb3M=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CANAL 5 MX
+http://bgapp.live/play/futvall-142.php?id=ZWxjaW5jbw==&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AZTECA 7
+http://bgapp.live/play/futvall-142.php?id=ZWxzaWV0ZQ==&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  EL NUEVE MX
+http://bgapp.live/play/futvall-142.php?id=ZWxudWV2ZQ==&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  IMAGEN TV
+http://bgapp.live/play/futvall-142.php?id=aW1hZ2VudHY=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  MULTIMEDIOS
+http://bgapp.live/play/futvall-142.php?id=bXVsdGltZWRpb3M=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ONCE TV
+http://bgapp.live/play/futvall-142.php?id=b25jZXR2&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ONCE TV HD
+http://bgapp.live/play/futvall-142.php?id=b25jZXR2aGQ=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  DISTRITO COMEDIA
+http://bgapp.live/play/futvall-142.php?id=ZGlzdHJpdG9jb21lZHk=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  UNICABLE MX
+http://bgapp.live/play/futvall-142.php?id=dW5pLWNhYmxl&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ANTENA 3 Int
+http://bgapp.live/play/futvall-142.php?id=YW50ZW5hM2ludA==&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  A3 SERIES
+http://bgapp.live/play/futvall-142.php?id=YTNzZXJpZXMtZXM=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TVE
+http://bgapp.live/play/futvall-142.php?id=dHZl&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  GALAVISION
+http://bgapp.live/play/futvall-142.php?id=Z2FsYQ==&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  GLITZ
+http://bgapp.live/play/futvall-142.php?id=Z2xpdHo=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TELEMUNDO
+http://bgapp.live/play/futvall-142.php?id=dGVsZW11bmRvLW14&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TELEMUNDO Internacional
+http://bgapp.live/play/futvall-142.php?id=dGVsZW11bmRvaW50&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  UNIMAS
+http://bgapp.live/play/futvall-142.php?id=dW5pbWFzdXM=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AZ CORAZON
+http://bgapp.live/play/futvall-142.php?id=YXpjb3Jhem9u&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  A&amp;E
+http://bgapp.live/play/futvall-142.php?id=YWU=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AXN
+http://bgapp.live/play/futvall-142.php?id=YXhubXg=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  COMEDY CENTRAL
+http://bgapp.live/play/futvall-142.php?id=Y29tZWR5&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Entertaiment
+http://bgapp.live/play/futvall-142.php?id=ZQ==&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FOX Channel
+http://bgapp.live/play/futvall-142.php?id=c3RhcmNo&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FX
+http://bgapp.live/play/futvall-142.php?id=Zng=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  INVESTIGATION Discovery
+http://bgapp.live/play/futvall-142.php?id=aWQ=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  PASIONES
+http://bgapp.live/play/futvall-142.php?id=cGFzaW9uZXM=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  RCN Novelas
+http://bgapp.live/play/futvall-142.php?id=cmNudGxu&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  SONY Channel
+http://bgapp.live/play/futvall-142.php?id=c29ueQ==&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TLNovelas
+http://bgapp.live/play/futvall-142.php?id=dGVsZW5vdmVsYXM=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TBS
+http://bgapp.live/play/futvall-142.php?id=dGJzaGQ=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TNT Series
+http://bgapp.live/play/futvall-142.php?id=dG50c2VyaWVzaGQ=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TRU TV
+http://bgapp.live/play/futvall-142.php?id=dHJ1dHY=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  UNIVERSAL TV
+http://bgapp.live/play/futvall-142.php?id=dW5pdmVyc2Fs&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  WARNER TV
+http://bgapp.live/play/futvall-142.php?id=d2FybmVy&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AZ CINEMA
+http://bgapp.live/play/futvall-142.php?id=YXpjaW5lbWE=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AMC
+http://bgapp.live/play/futvall-142.php?id=YW1j&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CINECANAL
+http://bgapp.live/play/futvall-142.php?id=Y2luZWNhbmFs&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CINEMAX
+http://bgapp.live/play/futvall-142.php?id=Y2luZW1heA==&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  DE PELICULA
+http://bgapp.live/play/futvall-142.php?id=ZGVwZWxpY3VsYQ==&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  DE PELICULA PLUS
+http://bgapp.live/play/futvall-142.php?id=ZGVwZWxpY3VsYXBsdXM=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  DHE
+http://bgapp.live/play/futvall-142.php?id=ZGhlaGQ=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  EUROPA
+http://bgapp.live/play/futvall-142.php?id=ZXVyb3Bh&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FILM &amp; ARTS
+http://bgapp.live/play/futvall-142.php?id=ZmlsbWFydHM=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ISAT
+http://bgapp.live/play/futvall-142.php?id=aXNhdGNo&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  MULTICINEMA
+http://bgapp.live/play/futvall-142.php?id=bWM=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  MULTIPREMIER
+http://bgapp.live/play/futvall-142.php?id=bXByZW1pZXI=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  MORBIDO
+http://bgapp.live/play/futvall-142.php?id=bW9yYnVpZG8=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  PARAMOUNT Channel
+http://bgapp.live/play/futvall-142.php?id=cGFyYW1vdW50Y2g=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  SPACE
+http://bgapp.live/play/futvall-142.php?id=c3BhY2U=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  STUDIO Universal
+http://bgapp.live/play/futvall-142.php?id=c3RkaW91bml2&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  SYFY
+http://bgapp.live/play/futvall-142.php?id=c3lmeQ==&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TCM
+http://bgapp.live/play/futvall-142.php?id=dGNt&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TNT
+http://bgapp.live/play/futvall-142.php?id=dG50aGQ=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AZ MUNDO
+http://bgapp.live/play/futvall-142.php?id=YXptdW5kbw==&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ANIMAL Planet
+http://bgapp.live/play/futvall-142.php?id=YW5pbWFscA==&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  DISCOVERY Channel
+http://bgapp.live/play/futvall-142.php?id=ZGlzY292ZXJ5Y2g=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Discovery SCIENCE
+http://bgapp.live/play/futvall-142.php?id=ZGNpZW5jaWE=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Discovery CIVILIZATION
+http://bgapp.live/play/futvall-142.php?id=ZGNpdmls&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Discovery THEATER
+http://bgapp.live/play/futvall-142.php?id=ZHRoZWF0ZXI=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Discovery TURBO
+http://bgapp.live/play/futvall-142.php?id=ZHR1cmJv&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Discovery WORLD
+http://bgapp.live/play/futvall-142.php?id=ZHdvcmxk&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FOOD Network
+http://bgapp.live/play/futvall-142.php?id=Zm9vZA==&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  EL GOURMET
+http://bgapp.live/play/futvall-142.php?id=Z291cm1ldA==&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  LIFE TIME
+http://bgapp.live/play/futvall-142.php?id=bGlmZXRpZW1wbw==&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  HISTORY Channel
+http://bgapp.live/play/futvall-142.php?id=aGlzdG9yeWhk&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Histrory 2
+http://bgapp.live/play/futvall-142.php?id=aDI=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Home &amp; Health
+http://bgapp.live/play/futvall-142.php?id=aGg=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  HOLA TV
+http://bgapp.live/play/futvall-142.php?id=aG9sYXR2&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  MAS CHIC
+http://bgapp.live/play/futvall-142.php?id=bWFzY2hpY2Fz&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  NATGEO
+http://bgapp.live/play/futvall-142.php?id=bmF0Z2Vv&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TLC Discovery
+http://bgapp.live/play/futvall-142.php?id=dGxj&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  LIBRE TV
+http://bgapp.live/play/futvall-142.php?id=bGlicmU=&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  BASICO TV
+http://bgapp.live/play/futvall-142.php?id=YmFzaWNv&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  KIDS TV
+http://bgapp.live/play/futvall-142.php?id=a2lkcw==&token=bñackghos&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  PREMIUM TV
+http://bgapp.live/play/futvall-142.php?id=cHJlbWl1bQ==&token=bñackghos&dos=kingof&f=.m3u8
 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", 9-ATV
