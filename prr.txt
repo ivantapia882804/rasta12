@@ -32,7 +32,8 @@ https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=527&f=.
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="RECOMENDADOS",Fox Sports 3
 https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=178&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" group-title="RECOMENDADOS",Fox Sports Premium MX
-
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://bgapp.live/play/oa-133.php?c=892.ts&blck
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group-title="RECOMENDADOS",Afizzionados
 http://bgapp.live/play/futvall-133.php?id=YWZpenppb25hZG9z&token=blllllackghooost&f=.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports (HD)
@@ -1893,375 +1894,560 @@ http://190.60.39.62:8000/play/a0bb
 
 
 #EXTINF:-1  group-title="CANALES VARIADOS", FOX SPORTS 3 FHD AR (E)
-http://bgapp.live/play/11-133.php?c=1&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", FOX SPORTS 2 FHD CO (A)
-http://bgapp.live/play/11-133.php?c=2&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=2&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", FOX SPORTS PREMIUM HD (T)
-http://bgapp.live/play/11-133.php?c=7&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=7&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", FOX SPORTS PREMIUM OP 2 (A)
-http://bgapp.live/play/11-133.php?c=8&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=8&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", GOL PERU (A)
-http://bgapp.live/play/11-133.php?c=12&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=12&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CDF FHD (P)
-http://bgapp.live/play/11-133.php?c=21&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=21&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CDF ESTADIO (E)
-http://bgapp.live/play/11-133.php?c=22&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=22&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", BEIN SPORTS \u00d1 (P)
-http://bgapp.live/play/11-133.php?c=27&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=27&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", ESPN 1 HD AR (FLW)
-http://bgapp.live/play/11-133.php?c=35&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=35&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", ESPN 1 HD MX 
-http://bgapp.live/play/11-133.php?c=43&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=43&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", AXN (Y)
-http://bgapp.live/play/11-133.php?c=85&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=85&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", DE PELICULA (P)
-http://bgapp.live/play/11-133.php?c=88&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=88&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", HBO 2  (T)
-http://bgapp.live/play/11-133.php?c=101&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=101&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", HBO FAMILY HD (E).
-http://bgapp.live/play/11-133.php?c=102&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=102&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", HBO SIGNATURE (Y)
-http://bgapp.live/play/11-133.php?c=103&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=103&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", TCM (P)
-http://bgapp.live/play/11-133.php?c=114&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=114&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", UNIVERSAL CHANNEL (E)
-http://bgapp.live/play/11-133.php?c=118&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=118&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", COLOMBIA | NTN24 (L)
-http://bgapp.live/play/11-133.php?c=1204&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1204&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", COLOMBIA | CARACOL (A)
-http://bgapp.live/play/11-133.php?c=1205&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1205&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", COLOMBIA | CARACOL ser (A)
-http://bgapp.live/play/11-133.php?c=1206&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1206&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", COLOMBIA | RCN (A)
-http://bgapp.live/play/11-133.php?c=1208&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1208&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", COLOMBIA | CABLE NOTICIAS (A)
-http://bgapp.live/play/11-133.php?c=1209&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1209&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", COLOMBIA | CANAL UNO (p)
-http://bgapp.live/play/11-133.php?c=1210&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1210&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CARACOL HD
-http://bgapp.live/play/11-133.php?c=1218&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1218&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", COLOMBIA | CANAL CAPITAL  (GR)
-http://bgapp.live/play/11-133.php?c=1219&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1219&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SE\u00d1AL COLOMBIA
-http://bgapp.live/play/11-133.php?c=1223&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1223&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CARACOL INTERNACIONAL (VUE)
-http://bgapp.live/play/11-133.php?c=1225&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1225&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", WINSPORTS + PLUS SD
-http://bgapp.live/play/11-133.php?c=1226&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1226&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", WIN SPORTS(A)
-http://bgapp.live/play/11-133.php?c=1227&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1227&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", WIN SPORTS OP 2
-http://bgapp.live/play/11-133.php?c=1228&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1228&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", WIN SPORTS PLUS HD
-http://bgapp.live/play/11-133.php?c=1229&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1229&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Win Sports
-http://bgapp.live/play/11-133.php?c=1231&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1231&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", TYC SPORTS (L)
-http://bgapp.live/play/11-133.php?c=1234&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1234&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", DIRECTV SPORTS (P)
-http://bgapp.live/play/11-133.php?c=1235&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1235&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", DIRECTV SPORTS 2 (P)
-http://bgapp.live/play/11-133.php?c=1236&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1236&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", DIRECTV SPORTS + (P)
-http://bgapp.live/play/11-133.php?c=1237&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1237&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", ESPN 1 HD CO (a)
-http://bgapp.live/play/11-133.php?c=1238&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1238&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", ESPN 2 HD CO (P)
-http://bgapp.live/play/11-133.php?c=1239&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1239&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", ESPN EXTRA 
-http://bgapp.live/play/11-133.php?c=1240&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1240&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", FOX SPORTS 1 HD CO (A)
-http://bgapp.live/play/11-133.php?c=1241&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1241&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", FOX SPORTS 2 HD CO (A)
-http://bgapp.live/play/11-133.php?c=1242&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1242&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SONY CHANNEL (L)
-http://bgapp.live/play/11-133.php?c=1249&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1249&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", HBO MUNDI
-http://bgapp.live/play/11-133.php?c=1262&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1262&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", TUDN
-http://bgapp.live/play/11-133.php?c=1276&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1276&blck
 #EXTINF:-1  group-title="CANALES VARIADOS",  FOX SPORTS 1 HD MEXICO ONLINE
-http://bgapp.live/play/11-133.php?c=1280&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1280&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", TyC Sports
-http://bgapp.live/play/11-133.php?c=1281&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1281&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Sur - Directv Sports + HD (Col)
-http://bgapp.live/play/11-133.php?c=1283&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1283&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Sur - Directv Sports HD (Col)
-http://bgapp.live/play/11-133.php?c=1284&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1284&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Sur - Directv Sports 2 HD
-http://bgapp.live/play/11-133.php?c=1285&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1285&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Directv Sports HD (Col)
-http://bgapp.live/play/11-133.php?c=1286&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1286&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Directv Sports + HD (Col)
-http://bgapp.live/play/11-133.php?c=1287&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1287&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV:HBO Signature SD
-http://bgapp.live/play/11-133.php?c=1413&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1413&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV:History SD
-http://bgapp.live/play/11-133.php?c=1421&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1421&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV:ESPN 2 SD
-http://bgapp.live/play/11-133.php?c=1425&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1425&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV:ESPN 1 SD
-http://bgapp.live/play/11-133.php?c=1428&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1428&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV:ESPN 3 SD
-http://bgapp.live/play/11-133.php?c=1429&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1429&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV:Tlenovelas SD
-http://bgapp.live/play/11-133.php?c=1430&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1430&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV:FOX SPORTS 1 HD
-http://bgapp.live/play/11-133.php?c=1431&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1431&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV:FOX SPORTS 2 HD
-http://bgapp.live/play/11-133.php?c=1432&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1432&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV:FOX SPORTS 3
-http://bgapp.live/play/11-133.php?c=1433&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1433&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: A&E
-http://bgapp.live/play/11-133.php?c=1436&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1436&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: SONY
-http://bgapp.live/play/11-133.php?c=1439&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1439&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: WARNER
-http://bgapp.live/play/11-133.php?c=1441&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1441&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: FX
-http://bgapp.live/play/11-133.php?c=1443&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1443&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: DISCOVERY CHANNEL
-http://bgapp.live/play/11-133.php?c=1447&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1447&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: DISCOVERY H&H
-http://bgapp.live/play/11-133.php?c=1450&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1450&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: DISCOVERY THEATER
-http://bgapp.live/play/11-133.php?c=1451&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1451&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: FOX
-http://bgapp.live/play/11-133.php?c=1454&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1454&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: FOX LIFE
-http://bgapp.live/play/11-133.php?c=1461&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1461&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: HBO
-http://bgapp.live/play/11-133.php?c=1462&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1462&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: HBO
-http://bgapp.live/play/11-133.php?c=1463&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1463&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: HBO 2
-http://bgapp.live/play/11-133.php?c=1464&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1464&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: HBO PLUS
-http://bgapp.live/play/11-133.php?c=1465&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1465&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: HBO FAMILY
-http://bgapp.live/play/11-133.php?c=1466&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1466&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: SHOWTIME
-http://bgapp.live/play/11-133.php?c=1467&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1467&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: D' PELICULA MULTIPLEX
-http://bgapp.live/play/11-133.php?c=1468&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1468&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: TNT
-http://bgapp.live/play/11-133.php?c=1471&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1471&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: TBS
-http://bgapp.live/play/11-133.php?c=1473&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1473&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: SPACE
-http://bgapp.live/play/11-133.php?c=1475&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1475&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: HBO XTREME
-http://bgapp.live/play/11-133.php?c=1479&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1479&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: TNT SERIES HD
-http://bgapp.live/play/11-133.php?c=1483&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1483&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: TELECAFE
-http://bgapp.live/play/11-133.php?c=1486&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1486&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV:CITY NOTICIAS
-http://bgapp.live/play/11-133.php?c=1488&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1488&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: PARAMOUNT HD
-http://bgapp.live/play/11-133.php?c=1494&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1494&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: MTV LIVE HD
-http://bgapp.live/play/11-133.php?c=1495&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1495&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: MTV HD
-http://bgapp.live/play/11-133.php?c=1496&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1496&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: MTV HITS
-http://bgapp.live/play/11-133.php?c=1497&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1497&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: HBO POP
-http://bgapp.live/play/11-133.php?c=1498&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1498&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: HOLA TV HD
-http://bgapp.live/play/11-133.php?c=1500&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1500&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: GOLDEN HD
-http://bgapp.live/play/11-133.php?c=1502&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1502&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: CNN INTERNACIONAL
-http://bgapp.live/play/11-133.php?c=1509&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1509&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: CNN ESPANOL
-http://bgapp.live/play/11-133.php?c=1510&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1510&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: CLARO Sports HD
-http://bgapp.live/play/11-133.php?c=1511&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1511&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: CARACOL HD
-http://bgapp.live/play/11-133.php?c=1513&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1513&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: AMC HD
-http://bgapp.live/play/11-133.php?c=1519&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1519&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SKY-SSTV: ESPN 3 mexico
-http://bgapp.live/play/11-133.php?c=1521&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1521&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SSTV-SKY:Azteca 1
-http://bgapp.live/play/11-133.php?c=1524&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1524&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SSTV-SKY: AZTECA CLICK
-http://bgapp.live/play/11-133.php?c=1525&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1525&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", SSTV-SKY:AZTECA CORAZON
-http://bgapp.live/play/11-133.php?c=1526&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1526&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", LIGA BETPLAY 1
-http://bgapp.live/play/11-133.php?c=1986&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1986&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", LIGA BETPLAY 2
-http://bgapp.live/play/11-133.php?c=1987&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1987&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Dazn 2
-http://bgapp.live/play/11-133.php?c=1997&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=1997&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", ESPN 4
-http://bgapp.live/play/11-133.php?c=2011&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=2011&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", DAZN 1
-http://bgapp.live/play/11-133.php?c=2012&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=2012&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", GOL TV ECUADOR
-http://bgapp.live/play/11-133.php?c=2014&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=2014&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", DANZ 3
-http://bgapp.live/play/11-133.php?c=2015&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=2015&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Formula 1 Dazn
-http://bgapp.live/play/11-133.php?c=2017&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=2017&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", vtv plus
-http://bgapp.live/play/11-133.php?c=2024&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=2024&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", space opc2 
-http://bgapp.live/play/11-133.php?c=2025&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=2025&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE | TV CHILE
-http://bgapp.live/play/11-133.php?c=3427&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3427&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE | MEGA HD
-http://bgapp.live/play/11-133.php?c=3429&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3429&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE | MEGA PLUS (Z)
-http://bgapp.live/play/11-133.php?c=3431&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3431&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", LA RED
-http://bgapp.live/play/11-133.php?c=3433&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3433&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", TVU CONCEPCION
-http://bgapp.live/play/11-133.php?c=3435&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3435&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", DEPORTES LAT - TNT SPORTS HD - CHILE
-http://bgapp.live/play/11-133.php?c=3437&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3437&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", DEPORTES - TNT SPORTS 3 - CHILE
-http://bgapp.live/play/11-133.php?c=3439&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3439&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Chile | Rec TV
-http://bgapp.live/play/11-133.php?c=3441&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3441&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE | TV+
-http://bgapp.live/play/11-133.php?c=3443&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3443&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE | TV CHILE
-http://bgapp.live/play/11-133.php?c=3445&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3445&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE | TVN
-http://bgapp.live/play/11-133.php?c=3447&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3447&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE | MEGA
-http://bgapp.live/play/11-133.php?c=3449&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3449&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE | MEGA
-http://bgapp.live/play/11-133.php?c=3451&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3451&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE | CHILEVISION
-http://bgapp.live/play/11-133.php?c=3453&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3453&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE* | CHILEVISION
-http://bgapp.live/play/11-133.php?c=3455&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3455&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE | CNN CHILE
-http://bgapp.live/play/11-133.php?c=3457&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3457&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE | 24 HORAS
-http://bgapp.live/play/11-133.php?c=3459&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3459&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE | 24 HORAS
-http://bgapp.live/play/11-133.php?c=3461&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3461&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Chile | Rec TV
-http://bgapp.live/play/11-133.php?c=3463&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3463&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE | 13C
-http://bgapp.live/play/11-133.php?c=3464&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3464&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", ETC TV
-http://bgapp.live/play/11-133.php?c=3465&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3465&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Radio Tiempo | CL
-http://bgapp.live/play/11-133.php?c=3466&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3466&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Radio Agricultura | CL
-http://bgapp.live/play/11-133.php?c=3467&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3467&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Cooperativa | CL
-http://bgapp.live/play/11-133.php?c=3468&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3468&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Puranoticia | CL
-http://bgapp.live/play/11-133.php?c=3469&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3469&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHV Noticias | CL
-http://bgapp.live/play/11-133.php?c=3470&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3470&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", UCV | CL
-http://bgapp.live/play/11-133.php?c=3471&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3471&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", UCV 2 | CL
-http://bgapp.live/play/11-133.php?c=3472&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3472&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", T13 Radio | CL
-http://bgapp.live/play/11-133.php?c=3473&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3473&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE | MEGA HD
-http://bgapp.live/play/11-133.php?c=3474&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3474&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE | MEGA PLUS (Z)
-http://bgapp.live/play/11-133.php?c=3475&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3475&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", LA RED
-http://bgapp.live/play/11-133.php?c=3476&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3476&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", TVU CONCEPCION
-http://bgapp.live/play/11-133.php?c=3477&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3477&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", DEPORTES LAT - TNT SPORTS HD - CHILE
-http://bgapp.live/play/11-133.php?c=3478&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3478&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", DEPORTES - TNT SPORTS 3 - CHILE
-http://bgapp.live/play/11-133.php?c=3479&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3479&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Chile | Rec TV
-http://bgapp.live/play/11-133.php?c=3480&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3480&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CHILE | TV+
-http://bgapp.live/play/11-133.php?c=3481&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3481&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Baby First
-http://bgapp.live/play/11-133.php?c=3520&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3520&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Baby Tv
-http://bgapp.live/play/11-133.php?c=3521&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3521&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Cartoon Network
-http://bgapp.live/play/11-133.php?c=3522&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3522&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Disney Channel
-http://bgapp.live/play/11-133.php?c=3523&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3523&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Disney Junior
-http://bgapp.live/play/11-133.php?c=3524&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3524&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Nick
-http://bgapp.live/play/11-133.php?c=3525&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3525&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Nick Junior
-http://bgapp.live/play/11-133.php?c=3526&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3526&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Tooncast
-http://bgapp.live/play/11-133.php?c=3527&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3527&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Baby TV
-http://bgapp.live/play/11-133.php?c=3528&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3528&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Baby Tv
-http://bgapp.live/play/11-133.php?c=3529&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3529&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Cartoon Network
-http://bgapp.live/play/11-133.php?c=3530&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3530&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Disney Channel
-http://bgapp.live/play/11-133.php?c=3531&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3531&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Disney Junior
-http://bgapp.live/play/11-133.php?c=3532&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3532&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Nick
-http://bgapp.live/play/11-133.php?c=3533&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3533&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Nick Junior
-http://bgapp.live/play/11-133.php?c=3534&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3534&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT| Discovery velocity
-http://bgapp.live/play/11-133.php?c=3535&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3535&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Discovery ID
-http://bgapp.live/play/11-133.php?c=3536&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3536&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT| ANIMAL PLANET FHD
-http://bgapp.live/play/11-133.php?c=3537&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3537&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT| DISCOVERY CIVILIZACION FHD
-http://bgapp.live/play/11-133.php?c=3538&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3538&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT| DISCOVERY FAMILIA FHD
-http://bgapp.live/play/11-133.php?c=3539&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3539&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT| HGTV HD***
-http://bgapp.live/play/11-133.php?c=3540&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3540&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT DISCOVERY TURBO FHD
-http://bgapp.live/play/11-133.php?c=3541&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3541&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT| HISTORY HD
-http://bgapp.live/play/11-133.php?c=3542&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3542&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT| Animal Planet
-http://bgapp.live/play/11-133.php?c=3543&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3543&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT| Discovery Civilization
-http://bgapp.live/play/11-133.php?c=3544&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3544&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT| Discovery Science
-http://bgapp.live/play/11-133.php?c=3545&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3545&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Discovery ID
-http://bgapp.live/play/11-133.php?c=3546&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3546&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT| ANIMAL PLANET FHD
-http://bgapp.live/play/11-133.php?c=3547&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3547&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT| DISCOVERY CIVILIZACION FHD
-http://bgapp.live/play/11-133.php?c=3548&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3548&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT| DISCOVERY FAMILIA FHD
-http://bgapp.live/play/11-133.php?c=3549&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3549&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT| HGTV HD***
-http://bgapp.live/play/11-133.php?c=3550&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3550&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT DISCOVERY TURBO FHD
-http://bgapp.live/play/11-133.php?c=3551&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3551&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT| HISTORY HD
-http://bgapp.live/play/11-133.php?c=3552&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3552&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", CULT| Animal Planet
-http://bgapp.live/play/11-133.php?c=3553&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=3553&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", NFL JUEGO 9
-http://bgapp.live/play/11-133.php?c=4110&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=4110&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", NFL JUEGO 11
-http://bgapp.live/play/11-133.php?c=4111&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=4111&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", caracol prueba
-http://bgapp.live/play/11-133.php?c=4827&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=4827&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", PERU LATINA
-http://bgapp.live/play/11-133.php?c=9082&blck|user-agent=teleking
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=9082&blck
 #EXTINF:-1  group-title="CANALES VARIADOS", Caracol 
-http://bgapp.live/play/11-133.php?c=10622
+#EXTVLCOPT:http-user-agent=teleking
+http://bgapp.live/play/11-133.php?c=10622&blck
 #EXTINF:-1 group-title="CANALES VARIADOS", A Plus--
 http://bgapp.live/play/oa-133.php?c=400.ts&blck|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 group-title="CANALES VARIADOS", A&E 
@@ -5765,1112 +5951,3 @@ http://bgapp.live/play/megaplay-133.php?c=291&tokeen=blllllackghooost&f=.m3u8|us
 http://bgapp.live/play/megaplay-133.php?c=292&tokeen=blllllackghooost&f=.m3u8|user-agent=megaplayer
 #EXTINF:-1 tvg-name="Bob Esponja 24/7" tvg-logo="https://cdn.revistagq.com/uploads/images/thumbs/es/gq/4/s/2018/19/bob_esponja_9564_800x576.png" group-title="24/7",Bob Esponja 24/7
 http://bgapp.live/play/megaplay-133.php?c=293&tokeen=blllllackghooost&f=.m3u8|user-agent=megaplayer
-
-
-#EXTINF:-1  group-title="tv ultimate", A+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/406&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", A&E
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/1&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Amc
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/183&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Axn
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/146&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Axn White (ES)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/714&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cinecanal
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/18&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cinemax
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/20&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", De Pelicula
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/21&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fx
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/42&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fxm
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/43&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Golden
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/57&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Golden Edge
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/58&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", A3 Series
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/444&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Adn 40
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/447&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", America Tv
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/780&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Antena 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/298&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Az Cinema
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/186&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Az Clic
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/165&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Az Corazon
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/166&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Azteca 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/4&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Azteca 7
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/5&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", MegaCine
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/517&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Movie Max
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/678&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Paramount
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/200&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Sony
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/145&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Space
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/83&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Star Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/45&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Studio Universal
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/84&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Syfy
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/151&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tbs
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/171&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tbs Very Funny Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/831&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tnt
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/179&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tnt (ES)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/716&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tnt Series
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/90&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Universal Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/137&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Warner Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/102&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Bolivision
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/783&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Canal 5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/14&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Canal 5 Honduras
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/773&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Las Estrellas
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/411&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Canal+ Accion
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/364&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Caracol
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/391&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Caracol Internacional
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/290&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cnn Español
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/136&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Comedy Central
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/135&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Dhe
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/844&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Distrito Comedia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/32&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Ecuavisa
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/319&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", El 13 Argentina
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/239&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", El Gourmet
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/157&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", El Nueve
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/772&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", El Trece
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/765&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", El Trece
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/767&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Estrella Tv
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/177&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Film & Arts Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/149&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Film & Arts Hd (EN)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/729&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Gala Tv
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/56&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Gala Tv Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/651&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Gamavisión
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/891&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Glitz
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/158&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", HCH
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/779&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Hola Tv
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/189&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", I.Sat
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/153&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Imagen Tv
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/341&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Latina Tv
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/782&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", LifeTime
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/152&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Mas Chic
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/180&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Mega
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/766&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Mega
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/784&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Mega (ES)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/352&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Movistar Comedia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/370&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Multimedios
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/155&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Multipremier
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/294&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Neox (ES)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/353&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Nova (ES)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/717&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Pasiones Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/755&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Peru:Latina
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/317&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Rcn
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/390&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Rtp
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/781&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Showtime
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/679&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tc Ecuador
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/885&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tcm
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/85&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tele
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/778&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Teleamazonas
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/320&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Telefe
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/771&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Telemundo
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/92&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Televicentro
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/776&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tlc
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/87&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tl Novelas
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/94&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Trece
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/774&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Trutv
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/96&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tve
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/195&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Unicable
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/98&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Univision
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/99&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Univision Tl Novelas
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/413&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Uno
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/775&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Wapa Pr
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/327&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Animal Planet
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/3&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Crime Investigation (ES)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/720&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Discovery Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/22&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Discovery Civilization
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/23&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Discovery h&h
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/24&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Discocery Science
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/26&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Discovery Turbo
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/28&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Discovery World
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/187&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Discovery Id
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/68&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", E!
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/33&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", History 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/61&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Historia (ES)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/718&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", History Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/67&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", National Geo
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/76&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", NatGeo Wild
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/77&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Hbo
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/62&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Hbo 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/300&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Hbo Family
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/63&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Hbo Plus
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/64&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Hbo Plus Oeste Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/728&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Hbo Xtreme
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/814&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Hbo Xtreme
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/841&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Hbo Pop
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/730&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Hbo Mundi
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/659&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Universal Cinema
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/902&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Universal Comedy
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/903&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Universal Crime
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/904&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Universal Premier
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/901&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Universal Reality
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/905&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Starz Encore Action
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/682&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Starz Encore Black
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/683&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Starz Encore Family
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/684&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Starz Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/685&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Baby Tv
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/7&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cartoonito
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/11&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cartoon Network
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/17&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Discovery Kids
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/25&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Disney Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/29&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Disney Junior
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/30&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Nick
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/78&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Nick Jr
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/79&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Nick Jr Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/829&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Nicktoons
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/80&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Teennick
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/184&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Bitme
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/93&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tooncast
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/95&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Afizzionados
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/878&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Aym Sports
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/148&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Bein Sports
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/753&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Bein Sports Ñ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/761&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Canal Del Futblol
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/892&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Canal+ Toros
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/369&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cdf Premium
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/318&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cdo Premium
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/401&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Claro Sports
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/328&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Directv Sports
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/259&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Directv Sports 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/667&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Directv Sports Peru
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/879&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Espn
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/34&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Espn 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/35&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Espn 2 Mx
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/531&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Espn Chile
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/842&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Espn Mx
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/530&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Espn Plus
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/37&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", F1 Tv
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/192&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fox Sports
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/52&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fox Sports 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/53&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fox Sports 2 Ar Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/770&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fox Sports 2 Mx
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/528&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fox Sports 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/54&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fox Sports Ar Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/769&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fox Sports Mx
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/527&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fox Sports Premium
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/512&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fox Sports Sur
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/402&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fox Sports 2 Sur
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/410&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fox Sports 3 Sur
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/511&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Gol Peru
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/686&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", GolTv
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/287&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Liga De Campeones
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/890&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Movistar Deportes
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/366&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Movistar Deportes 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/367&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Movistar Extra
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/372&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Nba
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/838&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tigo Sports Bolivia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/764&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tigo Sports Paraguay
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/843&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tnt Sports
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/509&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tudn
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/698&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tudn Usa
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/86&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tvc Deportes
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/837&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tyc Sports
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/274&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Ufc Network
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/97&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Univision Tdn
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/100&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Win Sports
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/292&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Win Sports +
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/881&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Wwe Network
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/276&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Vtv Uruguay
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/708&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Bandamax
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/833&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Htv
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/66&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Mtv
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/69&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Mtv Live
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/70&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Retro Music
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/692&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Ritmoson Latino
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/154&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Telehit
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/91&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Mtv 00s
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/101&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", A&E Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/474&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Amc Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/475&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Axn Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/476&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cinecanal Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/479&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cinemax Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/638&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", De Pelicula Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/481&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fx Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/495&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fxm Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/488&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Golden Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/496&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Az Corazon Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/834&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Azteca 1 Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/634&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Azteca 7 Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/635&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Paramount Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/647&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Sony Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/498&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Space Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/499&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Studio Universal Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/830&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Syfy Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/648&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tnt Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/500&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tnt Series Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/650&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Universal Channel Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/502&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Warner Channel Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/503&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Las Estrellas Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/636&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Comedy Central Hd (ES)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/719&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Comedy Central Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/480&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Imagen Tv Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/643&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Telemundo Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/660&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tl Novelas Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/832&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Trutv Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/501&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Unicable Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/653&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Animal Planet Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/633&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", National Geo Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/644&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Discovery Channel Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/639&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Discovery h&h Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/640&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Discovery Theater Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/27&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Discocery Turbo Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/727&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Discovery Id Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/825&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", E! Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/483&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", History Channel Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/642&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", NatGeo Wild Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/497&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Hbo 2 Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/732&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Hbo Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/654&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Hbo Plus Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/655&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cartoonito Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/824&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cartoon Network Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/637&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Discovery Kids Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/641&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Disney Junior Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/826&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Teennick Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/646&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Nick Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/645&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Bein Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/763&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Bein Sports Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/9&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Bein Sports Ñ Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/376&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cdf Premium Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/725&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Espn Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/486&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Espn 2 Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/484&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Espn 3 Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/485&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Espn Plus Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/487&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fox Sports Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/493&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fox Sports 2 Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/494&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fox Sports 3 Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/839&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Fox Sports Canales Hd Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/658&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", GolTv Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/514&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tudn Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/822&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tudn Usa Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/821&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Win Sports + Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/802&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Win Sports Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/754&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Bandamax Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/833&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Mtv 00s Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/632&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Telehit Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/649&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Mtv Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/828&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Alf
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/426&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Breaking Bad
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/846&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Brickleberry
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/789&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Candy Candy
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/808&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cantinflas
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/428&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", CatDog
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/785&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Chapulin Colorado
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/418&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Chespirito
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/417&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Coraje El Perro Cobarde
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/519&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Dinosaurios
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/670&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Doraemon
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/521&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Dragon Ball
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/425&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Dragon Ball Gt
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/520&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Dragon Ball Super
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/424&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Dragon Ball Z
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/329&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", El Chavo Animado
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/790&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", El Chavo del 8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/400&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", El Correcaminos
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/429&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", El Gallo Claudio
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/845&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Gumball
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/791&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", El Pajaro Loco
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/525&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", El Principe Del Rap
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/430&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", El Señor De Los Cielos
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/820&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Futurama
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/793&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Game Of Thrones
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/515&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Garfield
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/812&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Hey Arnold
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/522&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Jhony Bravo
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/786&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", La Familia Peluche
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/811&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", La Hora Pico
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/887&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", La Pantera Rosa
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/671&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", La Pequeña Lulu
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/792&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", La Rosa de Guadalupe
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/886&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", La Vaca y El Pollito
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/809&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Le Temes A La Oscuridad
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/888&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Lonney Tunes
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/524&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Los 3 Chiflados
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/423&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Los Años Maravillosos
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/810&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Los Padrinos Magicos
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/813&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Los Picapiedra
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/669&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Los Pingüinos De Madagascar
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/794&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Los Pitufos
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/795&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Los Reyes De La Colina
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/796&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Los Simpson
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/357&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Los Supersonicos
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/797&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Los Vengadores Unidos
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/818&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Malcolm
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/798&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Max Steel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/880&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Naruto
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/523&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", One Punch Man
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/661&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Padre De Familia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/416&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Patoaventuras
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/819&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Patrulla Canina
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/807&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Pepa Pig
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/787&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Pinky Y Cerebro
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/721&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Pocoyo
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/799&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Pokemon
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/420&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Ranma
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/419&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Sakura Card Captor
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/672&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Samurai X
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/663&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Scooby Doo
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/422&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Smallville
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/673&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", South Park
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/674&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Spiderman
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/889&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Super Campeones
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/432&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", The Big Bang Theory
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/676&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", The Walking Dead
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/800&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Tom Y Jerry
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/421&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", TrollHunters
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/662&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Two And a Half Men
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/675&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Yu-Gi Oh!
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/664&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Caballeros Del Zodiaco
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/427&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Bob Esponja
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/518&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Animaniacs
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/677&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Barbie
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/788&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Mr.Bean
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/431&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine 2020
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/699&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Accion
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/699&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Accion Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/706&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Accion Sagas
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/700&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Accion Sagas Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/707&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Comedia 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/695&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Comedia 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/696&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Fission Fantasia 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/709&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Fission Fantasia 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/710&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Fission Fantasia Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/712&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Fission Fabtasia Sagas
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/711&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Infantil
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/687&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Infantil Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/702&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Infantil Sagas
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/694&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Infantil Sagas Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/703&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Latino
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/295&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Marvel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/697&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Marvel Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/701&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Romance
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/689&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Romance Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/705&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Terror
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/693&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Terror Hd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/704&f=.m3u8
-#EXTINF:-1  group-title="tv ultimate", Cine Zombies
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://app.ultimate2019.com/stream/get/688&f=.m3u8
