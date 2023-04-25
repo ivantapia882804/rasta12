@@ -3,18 +3,16 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tptotal.jpg" group-title="RECOMENDADOS",Canal Total
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1973&f=.m3u8
-#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD)
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=113&f=.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas (HD)
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=102&f=.m3u8
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT",Azteca Uno (HD)
+http://208.88.246.11:3473/113azteca13/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT",Las Estrellas (HD)
+http://208.88.246.11:3473/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="RECOMENDADOS",Imagen Televisión (HD)
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="RECOMENDADOS",Canal 5 (HD)
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=105&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1449&f=.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="RECOMENDADOS" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT",Canal 5 (HD)
+http://208.88.246.11:3473/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="RECOMENDADOS",Azteca 7 (HD)
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=107&f=.m3u8
-#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="RECOMENDADOS",NU9VE
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=109&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN (HD)
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1975&f=.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="RECOMENDADOS",TNT
@@ -47,52 +45,24 @@ http://208.88.246.11:3473/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://nkh8wh7k8f6c7tz9h7dk.xyz/rk/GgcjcxzsfhfsqdthjjhjjhtghxcbxnmncssfffahhVA/Gfzcsseghhjgdqsfzhbnvcxsssfgdgteeyuyopxcv/1133.ts
 
 
-#EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=113&f=.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=102&f=.m3u8
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="LOCALES",Foro
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=104&f=.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="LOCALES",Canal 5
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=105&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="LOCALES",Azteca 7
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=107&f=.m3u8
-#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="LOCALES",NU9VE
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=109&f=.m3u8
-#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Canal Once
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=111&f=.m3u8
 #EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" group-title="INFORMACIÓN",Teleformula
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=161&f=.m3u8
 #EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="REGIONALES PÚBLICOS",Mexiquense Televisión
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=44&f=.m3u8
 #EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg" group-title="LOCALES",ADN 40
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=140&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2&f=.m3u8
 #EXTINF:-1 tvg-id="Corazon.mx" tvg-name="Corazón" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png" group-title="ENTRETENIMIENTO",Corazón
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=250&f=.m3u8
 #EXTINF:-1 tvg-id="Mundo.mx" tvg-name="Mundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mundo.png" group-title="ENTRETENIMIENTO",Mundo
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=276&f=.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="LOCALES",Imagen Televisión
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (SD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="LOCALES",Imagen Televisión (SD)
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1449&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=167&f=.m3u8
-#EXTINF:-1 tvg-id="XHAWTDT.mx" tvg-name="Canal 6 Monterrey (XHAW-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 Monterrey (XHAW-TDT)
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2305&f=.m3u8
 #EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="Ingenio TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" group-title="LOCALES",Ingenio TV
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=401&f=.m3u8
-#EXTINF:-1 tvg-id="XHCNLTDT.mx" tvg-name="Canal 8 Monterrey (XHCNL-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhcnl.png" group-title="REGIONALES",Canal 8 Monterrey (XHCNL-TDT)
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2307&f=.m3u8
-#EXTINF:-1 tvg-id="XHPTDT.mx" tvg-name="Canal 4 Puebla" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhp.jpg" group-title="REGIONALES",Canal 4 Puebla
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2312&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="A+" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhfn2.png" group-title="LOCALES",A+
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2278&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="A+ (XHFN-TDT2)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhfn2.png" group-title="REGIONALES",A+ (XHFN-TDT2)
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2316&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tptotal.jpg" group-title="LOCALES",Canal Total
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1973&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tplogo.png" group-title="LOCALES",Totalplay
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2361&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ftp.jpg" group-title="LOCALES",Familia Totalplay
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1977&f=.m3u8
 #EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tooncast.png" group-title="KIDS",Tooncast
@@ -271,8 +241,6 @@ https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2380&f=
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=3105&f=.m3u8
 #EXTINF:-1 tvg-id="CuriosityStream(English).mx" tvg-name="Curiosity Stream" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/curio.png" group-title="CONOCIMIENTO",Curiosity Stream
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2594&f=.m3u8
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.jpg" group-title="MUSICA",Teleritmo
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1943&f=.m3u8
 #EXTINF:-1 tvg-id="MTVLive(English).mx" tvg-name="MTV Live HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvl.png" group-title="MUSICA",MTV Live HD
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=701&f=.m3u8
 #EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="ENTRETENIMIENTO",MTV
@@ -591,128 +559,6 @@ http://208.88.246.11:3473/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z
 http://208.88.246.11:3473/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="XHJKTDT.mx" group-title="LOCALES", Azteca Uno 1.1 (-2h)
-https://v-sd.mybtv.net/live/760.m3u8
-#EXTINF:-1 tvg-id="XHJKTDT2.mx" group-title="LOCALES", ADN 40 1.2 (-2h)
-https://v-sd.mybtv.net/live/484.m3u8
-#EXTINF:-1 tvg-id="XHCTTITDT.mx" group-title="LOCALES", Imagen Televisión 3.1 (-2h)
-https://v-sd.mybtv.net/live/485.m3u8
-#EXTINF:-1 tvg-id="XHCTTITDT2.mx" group-title="LOCALES", Imagen Multicast 3.4 (-2h)
-https://v-sd.mybtv.net/live/539.m3u8
-#EXTINF:-1 tvg-id="XHTJBTDT2.mx" group-title="LOCALES", Once Niñas y Niños 11.2 (-2h)
-https://v-sd.mybtv.net/live/496.m3u8
-#EXTINF:-1 tvg-id="XETVTDT.mx" group-title="LOCALES", Canal 5 16.1 (-2h)
-https://v-sd.mybtv.net/live/486.m3u8
-#EXTINF:-1 tvg-id="XETVTDT2.mx" group-title="LOCALES", NU9VE 16.2 (-2h)
-https://v-sd.mybtv.net/live/515.m3u8
-#EXTINF:-1 tvg-id="XHTITTDT2.mx" group-title="LOCALES", A Mas 21.2 (-2h)
-https://v-sd.mybtv.net/live/503.m3u8
-#EXTINF:-1 tvg-id="XHDTVTDT.mx" group-title="LOCALES", Milenio Televisión 49.1
-https://v-sd.mybtv.net/live/521.m3u8
-#EXTINF:-1 tvg-id="XHUAATDT.mx" group-title="LOCALES", Las Estrellas 57.1 (-2h)
-https://v-sd.mybtv.net/live/530.m3u8
-#EXTINF:-1 tvg-id="XHUAATDT2.mx" group-title="LOCALES", Foro 57.2 (-2h)
-https://v-sd.mybtv.net/live/762.m3u8
-
-
-#EXTINF:-1 tvg-id="KSAZDT.us" group-title="USA LOCAL", FOX 10 AZ
-https://v-px.mybtv.net/live/14.m3u8
-#EXTINF:-1 tvg-id="" group-title="USA LOCAL", CBS 5 AZ
-https://v-px.mybtv.net/live/48.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" group-title="USA LOCAL", Estrella TV 62 LA
-https://v-la.mybtv.net/live/112.m3u8
-#EXTINF:-1 tvg-id="LATVNetworks(Spanish).us" group-title="USA LOCAL", LATV CA
-https://v-ca.mybtv.net/live/129.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" group-title="USA LOCAL", Estrella TV 50 CA
-https://v-ca.mybtv.net/live/137.m3u8
-#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="USA LOCAL", Telemundo 48 CA
-https://v-ca.mybtv.net/live/140.m3u8
-#EXTINF:-1 tvg-id="Unimas(Pacific)(Spanish).us" group-title="USA LOCAL", UniMás 46 LA
-https://v-la.mybtv.net/live/168.m3u8
-#EXTINF:-1 tvg-id="KMEXDT(Spanish).us" group-title="USA LOCAL", Univisión 34 LA
-https://v-la.mybtv.net/live/178.m3u8
-#EXTINF:-1 tvg-id="KWHYDT(Spanish).us" group-title="USA LOCAL", KWHY 22 LA
-https://v-la.mybtv.net/live/298.m3u8
-#EXTINF:-1 tvg-id="KTVKDT.us" group-title="USA LOCAL", CBS 3 IN
-https://v-pi.mybtv.net/live/318.m3u8
-#EXTINF:-1 tvg-id="WTXFDT.us" group-title="USA LOCAL", FOX 29 IN
-https://v-pi.mybtv.net/live/369.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" group-title="USA LOCAL", Estrella TV 9 SD
-https://v-sd.mybtv.net/live/490.m3u8
-#EXTINF:-1 tvg-id="KNSDDT.us" group-title="USA LOCAL", NBC 7 SD
-https://v-sd.mybtv.net/live/512.m3u8
-#EXTINF:-1 tvg-id="WNBCDT.us" group-title="USA LOCAL", NBC NY
-https://v-ny.mybtv.net/live/548.m3u8
-#EXTINF:-1 tvg-id="WFOXDT.us" group-title="USA LOCAL", FOX NY
-https://v-ny.mybtv.net/live/550.m3u8
-#EXTINF:-1 tvg-id="WABCDT.us" group-title="USA LOCAL", ABC NY
-https://v-ny.mybtv.net/live/554.m3u8
-#EXTINF:-1 tvg-id="WABCDT2.us" group-title="USA LOCAL", ABCISH
-https://v-ny.mybtv.net/live/555.m3u8
-#EXTINF:-1 tvg-id="" group-title="USA LOCAL", My Network TV
-https://v-ny.mybtv.net/live/559.m3u8
-#EXTINF:-1 tvg-id="WDCW.us" group-title="USA LOCAL", The CW NY
-https://v-ny.mybtv.net/live/562.m3u8
-#EXTINF:-1 tvg-id="ClassicRewind.us" group-title="USA LOCAL", Rewind TV
-https://v-ny.mybtv.net/live/565.m3u8
-#EXTINF:-1 tvg-id="WNETDT.us" group-title="USA LOCAL", PBS WNET 13 NY
-https://v-ny.mybtv.net/live/567.m3u8
-#EXTINF:-1 tvg-id="WNETDT2.us" group-title="USA LOCAL", PBS KIDS
-https://v-ny.mybtv.net/live/568.m3u8
-#EXTINF:-1 tvg-id="WLIWDT.us" group-title="USA LOCAL", PBS WLIW 21 GC
-https://v-ny.mybtv.net/live/575.m3u8
-#EXTINF:-1 tvg-id="WLIWDT2.us" group-title="USA LOCAL", PBS CREATE
-https://v-ny.mybtv.net/live/576.m3u8
-#EXTINF:-1 tvg-id="WLIWDT3.us" group-title="USA LOCAL", PBS WORLD
-https://v-ny.mybtv.net/live/577.m3u8
-#EXTINF:-1 tvg-id="WLIWDT4.us" group-title="USA LOCAL", ALL ARTS
-https://v-ny.mybtv.net/live/578.m3u8
-#EXTINF:-1 tvg-id="BounceTV.us" group-title="USA LOCAL", Bounce
-https://v-ny.mybtv.net/live/581.m3u8
-#EXTINF:-1 tvg-id="" group-title="USA LOCAL", NYC Life
-https://v-ny.mybtv.net/live/591.m3u8
-#EXTINF:-1 tvg-id="" group-title="USA LOCAL", NYC Gov
-https://v-ny.mybtv.net/live/592.m3u8
-#EXTINF:-1 tvg-id="MeTVNetwork.us" group-title="USA LOCAL", MeTV
-https://v-ny.mybtv.net/live/637.m3u8
-#EXTINF:-1 tvg-id="WXTVDT(Spanish).us" group-title="USA LOCAL", Univisión 41 NY
-https://v-ny.mybtv.net/live/643.m3u8
-#EXTINF:-1 tvg-id="WNJUDT(Spanish).us" group-title="USA LOCAL", Telemundo 47 NY
-https://v-ny.mybtv.net/live/659.m3u8
-#EXTINF:-1 tvg-id="KNSODT2(Spanish).us" group-title="USA LOCAL", TeleXitos FN
-https://v-fn.mybtv.net/live/873.m3u8
-#EXTINF:-1 tvg-id="NuestraVision(Spanish).us" group-title="USA LOCAL", Nuestra Visión FN
-https://v-fn.mybtv.net/live/891.m3u8
-#EXTINF:-1 tvg-id="Novelisima(Spanish).us" group-title="USA LOCAL", Novelísima FN
-https://v-fn.mybtv.net/live/946.m3u8
-#EXTINF:-1 tvg-id="" group-title="USA LOCAL", Bein Ñ Sports Xtra
-https://v-fn.mybtv.net/live/948.m3u8
-#EXTINF:-1 tvg-id="LATVNetworks(Spanish).us" group-title="USA LOCAL", LATV LV
-https://v-lv.mybtv.net/live/1026.m3u8
-#EXTINF:-1 tvg-id="" group-title="USA LOCAL", Nuestra Visión LV
-https://v-lv.mybtv.net/live/1036.m3u8
-#EXTINF:-1 tvg-id="KMPHDT.us" group-title="USA LOCAL", Fox 26 FN
-https://v-fn.mybtv.net/live/1092.m3u8
-#EXTINF:-1 tvg-id="Enlace.us" group-title="RELIGIÓN", Enlace
-https://v-la.mybtv.net/live/96.m3u8
-#EXTINF:-1 tvg-id="" group-title="RELIGIÓN", Majestad TV
-https://v-la.mybtv.net/live/105.m3u8
-#EXTINF:-1 tvg-id="" group-title="RELIGIÓN", Canal de La Fé
-https://v-la.mybtv.net/live/280.m3u8
-#EXTINF:-1 tvg-id="" group-title="RELIGIÓN", TVA
-https://v-la.mybtv.net/live/300.m3u8
-#EXTINF:-1 tvg-id="" group-title="RELIGIÓN", Espíritu Santo TV
-https://v-fn.mybtv.net/live/893.m3u8
-#EXTINF:-1 tvg-id="ALmavision(Spanish).us" group-title="RELIGIÓN", AlmaVisión LV
-https://v-lv.mybtv.net/live/1047.m3u8
-#EXTINF:-1 tvg-id="" group-title="RELIGIÓN", Renuevo LV
-https://v-lv.mybtv.net/live/1056.m3u8
-#EXTINF:-1 tvg-id="CanalESNE(Spanish).us" group-title="RELIGIÓN", El Sembrador Nueva Evangelización
-https://v-lv.mybtv.net/live/1057.m3u8
-#EXTINF:-1 tvg-id="CanalESNE(Spanish).us" group-title="RELIGIÓN", El Sembrador Nueva Evangelización
-https://v-la.mybtv.net/live/1102.m3u8
-#EXTINF:-1 tvg-id="" group-title="RELIGIÓN", Hora de Fé
-https://v-fn.mybtv.net/live/1188.m3u8
 #EXTINF:-1 tvg-id="ENLACETV.co" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace
 https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EnlaceJuvenil.mx" tvg-name="Enlace Juvenil" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace Juvenil
@@ -3644,3 +3490,651 @@ http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/1005
 http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/1006
 #EXTINF:-1 group-title="CANALES VARIADOS 2 (solo SS IPTV)" user-agent="R3dHard3.1XzY", ShowTime Family Zone
 http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/520
+
+
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,ESPN HD
+http://bgtv.site/408/tv30.php?c=MTUtNzA4MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,ESPN 2 HD
+http://bgtv.site/408/tv30.php?c=MTYtNzA4MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,ESPN 3 HD
+http://bgtv.site/408/tv30.php?c=MTctNzA4MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,ESPN DEPORTES HD
+http://bgtv.site/408/tv30.php?c=MTgtNzA4MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,ESPN PLUS HD
+http://bgtv.site/408/tv30.php?c=MTktNzA4MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FOX SPORTS HD
+http://bgtv.site/408/tv30.php?c=MjEtNzA4MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FOX SPORTS 2 HD
+http://bgtv.site/408/tv30.php?c=MjItNzA4MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FOX SPORTS 3 HD
+http://bgtv.site/408/tv30.php?c=MjMtNzA4MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TUDN USA HD.
+http://bgtv.site/408/tv30.php?c=MTEwLTcwODE=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TUDN MX HD
+http://bgtv.site/408/tv30.php?c=MzItNzA4MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS KANSAS CITY HD
+http://bgtv.site/408/tv30.php?c=MzcwLTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS INDIANA HD
+http://bgtv.site/408/tv30.php?c=MzY5LTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS GREAT LAKES HD
+http://bgtv.site/408/tv30.php?c=MzY4LTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS FLORIDA HD
+http://bgtv.site/408/tv30.php?c=MzY3LTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS DETROIT HD
+http://bgtv.site/408/tv30.php?c=MzY2LTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS ARIZONA HD
+http://bgtv.site/408/tv30.php?c=MzY1LTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS MIDWEST HD
+http://bgtv.site/408/tv30.php?c=MzcxLTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS NEW ORLEANDS HD
+http://bgtv.site/408/tv30.php?c=MzcyLTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,NFL RED ZONE
+http://bgtv.site/408/tv30.php?c=ODUtNzA4Mg==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS NORTH HD
+http://bgtv.site/408/tv30.php?c=Mzg0LTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS SOCALHD
+http://bgtv.site/408/tv30.php?c=MzgzLTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS WISCONSIN HD
+http://bgtv.site/408/tv30.php?c=MzgyLTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS WEST HD
+http://bgtv.site/408/tv30.php?c=MzgxLTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS SUN HD
+http://bgtv.site/408/tv30.php?c=MzgwLTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS SOUTHWEST HD
+http://bgtv.site/408/tv30.php?c=Mzc5LTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS SOUTHEAST HD
+http://bgtv.site/408/tv30.php?c=Mzc4LTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS SOUTH HD
+http://bgtv.site/408/tv30.php?c=Mzc3LTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS SAN DIEGO HD
+http://bgtv.site/408/tv30.php?c=Mzc2LTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS OKLAHOMA HD
+http://bgtv.site/408/tv30.php?c=Mzc1LTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS NORTH PLUS HD
+http://bgtv.site/408/tv30.php?c=MzczLTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BALLY SPORTS OHIO HD
+http://bgtv.site/408/tv30.php?c=Mzc0LTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CBS SPORTS NETWORK FHD
+http://bgtv.site/408/tv30.php?c=NDctNzA4Mg==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,ESPN HD
+http://bgtv.site/408/tv30.php?c=NTAtNzA4Mg==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,ESPN 2 FHD
+http://bgtv.site/408/tv30.php?c=NTEtNzA4Mg==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,ESPN U FHD
+http://bgtv.site/408/tv30.php?c=NTItNzA4Mg==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FS1 FHD
+http://bgtv.site/408/tv30.php?c=OTctNzA4Mg==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FS2 FHD
+http://bgtv.site/408/tv30.php?c=OTgtNzA4Mg==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FIGHT NETWORK FHD
+http://bgtv.site/408/tv30.php?c=NTMtNzA4Mg==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GOLF CHANNEL HD
+http://bgtv.site/408/tv30.php?c=OTktNzA4Mg==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,NHL NETWORK HD
+http://bgtv.site/408/tv30.php?c=MTEzLTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,NFL NETWORK FHD
+http://bgtv.site/408/tv30.php?c=MTEyLTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,NBA TV FHD
+http://bgtv.site/408/tv30.php?c=MTAzLTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TUDN USA HD
+http://bgtv.site/408/tv30.php?c=MTIwLTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TENNIS CHANNEL HD
+http://bgtv.site/408/tv30.php?c=MTE5LTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UFC FIGHT PASS HD
+http://bgtv.site/408/tv30.php?c=NDAzLTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,WWE NETWORK HD
+http://bgtv.site/408/tv30.php?c=MTI0LTcwODI=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,ADN 40 HD
+http://bgtv.site/408/tv30.php?c=MTI2LTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,AZTECA UNO HD
+http://bgtv.site/408/tv30.php?c=MTMwLTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,AZTECA 7 HD
+http://bgtv.site/408/tv30.php?c=MTI4LTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,AZTECA CORAZON HD
+http://bgtv.site/408/tv30.php?c=MTI5LTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,AZ CLIC HD
+http://bgtv.site/408/tv30.php?c=MTI3LTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CANAL 5 HD
+http://bgtv.site/408/tv30.php?c=MTMxLTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CNN ESP HD
+http://bgtv.site/408/tv30.php?c=MTMyLTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FORO TV HD
+http://bgtv.site/408/tv30.php?c=MTMzLTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,IMAGEN TV HD
+http://bgtv.site/408/tv30.php?c=MTM0LTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,LAS ESTRELLAS HD
+http://bgtv.site/408/tv30.php?c=MTM1LTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,LAS ESTRELLAS -2 HORAS HD
+http://bgtv.site/408/tv30.php?c=MTM2LTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,MILENIO TV HD
+http://bgtv.site/408/tv30.php?c=MTM4LTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,MULTIMEDIOS MTY HD
+http://bgtv.site/408/tv30.php?c=MTQwLTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,MULTIMEDIOS CDMX HD
+http://bgtv.site/408/tv30.php?c=MzI4LTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,MULTIMEDIOS 6.2 HD
+http://bgtv.site/408/tv30.php?c=MTM5LTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,MULTIMEDIOS PLUS HD
+http://bgtv.site/408/tv30.php?c=MTQxLTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,MAS CHIC HD
+http://bgtv.site/408/tv30.php?c=MTM3LTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,NU9VE HD
+http://bgtv.site/408/tv30.php?c=MTQyLTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TELEVISA MTY HD
+http://bgtv.site/408/tv30.php?c=MTQzLTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TV UNAM HD
+http://bgtv.site/408/tv30.php?c=MTQ0LTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TVP CULIACAN HD
+http://bgtv.site/408/tv30.php?c=MTQ1LTcwODM=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,ABC HOUSTON HD
+http://bgtv.site/408/tv30.php?c=MTQ2LTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,ABC LAS VEGAS HD
+http://bgtv.site/408/tv30.php?c=MTQ3LTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,ABC MIAMI HD
+http://bgtv.site/408/tv30.php?c=MTQ4LTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,ABC NEW YORK HD
+http://bgtv.site/408/tv30.php?c=MTQ5LTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BBC WORLD NEWS HD
+http://bgtv.site/408/tv30.php?c=MTUwLTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BLOOMBRERG HD
+http://bgtv.site/408/tv30.php?c=MTUxLTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CBS HOUSTON HD
+http://bgtv.site/408/tv30.php?c=MTUyLTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CBS LOS ANGELES HD
+http://bgtv.site/408/tv30.php?c=MTU0LTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CBS TEXAS HD
+http://bgtv.site/408/tv30.php?c=MTU3LTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CBS MIAMI HD
+http://bgtv.site/408/tv30.php?c=MTU1LTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CBS NEW YORK HD
+http://bgtv.site/408/tv30.php?c=MTU2LTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CBS LAS VEGAS HD
+http://bgtv.site/408/tv30.php?c=MTUzLTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CNBC HD
+http://bgtv.site/408/tv30.php?c=MTU5LTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CNN HD
+http://bgtv.site/408/tv30.php?c=MTYxLTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CHEDDAR HD
+http://bgtv.site/408/tv30.php?c=MTU4LTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FOX BOSTON HD
+http://bgtv.site/408/tv30.php?c=MTYyLTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FOX HOUSTON HD
+http://bgtv.site/408/tv30.php?c=MTYzLTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FOX LOS ANGELES HD
+http://bgtv.site/408/tv30.php?c=MTY0LTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FOX MIAMI HD
+http://bgtv.site/408/tv30.php?c=MTY1LTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FOX NEW YORK HD
+http://bgtv.site/408/tv30.php?c=MTY2LTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FOX NEWS HD
+http://bgtv.site/408/tv30.php?c=MTY3LTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,NBC HD
+http://bgtv.site/408/tv30.php?c=MTcxLTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,NBC 6 MIAMI HD
+http://bgtv.site/408/tv30.php?c=MTY4LTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,NBC LAS VEGAS HD
+http://bgtv.site/408/tv30.php?c=MTY5LTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,NBC NEW YORK HD
+http://bgtv.site/408/tv30.php?c=MTcwLTcwODQ=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,AYE HD
+http://bgtv.site/408/tv30.php?c=MTc0LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,AXN HD
+http://bgtv.site/408/tv30.php?c=MTczLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,AMC HD
+http://bgtv.site/408/tv30.php?c=MTcyLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,AZTECA MUNDO HD
+http://bgtv.site/408/tv30.php?c=MzQwLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BITME HD
+http://bgtv.site/408/tv30.php?c=MzM4LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BANDAMAX HD
+http://bgtv.site/408/tv30.php?c=MzM5LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,COMEDY CENTRAL HD
+http://bgtv.site/408/tv30.php?c=MTc1LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DISCOVERY CHANNEL HD
+http://bgtv.site/408/tv30.php?c=MzM2LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DISCOVERY TLC HD
+http://bgtv.site/408/tv30.php?c=MzM0LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DISCOVERY ID HD
+http://bgtv.site/408/tv30.php?c=MzI5LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DISCOVERY THEATER HD
+http://bgtv.site/408/tv30.php?c=MzM1LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DISCOVERY TURBO HD
+http://bgtv.site/408/tv30.php?c=MTc4LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DISCOVERY WORLD HD
+http://bgtv.site/408/tv30.php?c=MzMzLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DISCOVERY H AND H HD
+http://bgtv.site/408/tv30.php?c=MTc3LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DISCOVERY FAMILIA HD
+http://bgtv.site/408/tv30.php?c=MTc2LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DW HD
+http://bgtv.site/408/tv30.php?c=MTgwLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DISTRITO COMEDIA HD
+http://bgtv.site/408/tv30.php?c=MTc5LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DE PELICULA PLUS HD
+http://bgtv.site/408/tv30.php?c=MzM3LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,EL GOURMET HD
+http://bgtv.site/408/tv30.php?c=MzMyLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,EUROPA EUROPA HD
+http://bgtv.site/408/tv30.php?c=MTgzLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,ESTRELLA TV HD
+http://bgtv.site/408/tv30.php?c=MTgyLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,E! HD
+http://bgtv.site/408/tv30.php?c=MTgxLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FX HD
+http://bgtv.site/408/tv30.php?c=MTg1LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FOOD NETWORK HD
+http://bgtv.site/408/tv30.php?c=MTg0LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION
+http://bgtv.site/408/tv30.php?c=NDE0LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION ALBUQUERQUE
+http://bgtv.site/408/tv30.php?c=NDMxLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION ATLANTA
+http://bgtv.site/408/tv30.php?c=NDM0LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION AUSTIN
+http://bgtv.site/408/tv30.php?c=NDMzLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION CLEVELAND
+http://bgtv.site/408/tv30.php?c=NDMyLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION DALLAS
+http://bgtv.site/408/tv30.php?c=NDMwLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION EAST
+http://bgtv.site/408/tv30.php?c=NDI5LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION FRESNO
+http://bgtv.site/408/tv30.php?c=NDI4LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION HOUSTON
+http://bgtv.site/408/tv30.php?c=NDI3LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION L.A.
+http://bgtv.site/408/tv30.php?c=NDI2LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION LAS VEGAS
+http://bgtv.site/408/tv30.php?c=NDI1LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION MIAMI
+http://bgtv.site/408/tv30.php?c=NDI0LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION NY
+http://bgtv.site/408/tv30.php?c=NDIzLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION PHILADELPHIA
+http://bgtv.site/408/tv30.php?c=NDIyLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION PHOENIX
+http://bgtv.site/408/tv30.php?c=NDIxLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION RALEIGH
+http://bgtv.site/408/tv30.php?c=NDIwLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION SACRAMENTO
+http://bgtv.site/408/tv30.php?c=NDE5LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION SAN ANTONIO
+http://bgtv.site/408/tv30.php?c=NDE1LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION SALT LAKE
+http://bgtv.site/408/tv30.php?c=NDE4LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION SAN FRANCISCO
+http://bgtv.site/408/tv30.php?c=NDE3LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GALAVISION WEST
+http://bgtv.site/408/tv30.php?c=NDE2LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HISTORY HD
+http://bgtv.site/408/tv30.php?c=MzMwLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HISTORY 2 HD
+http://bgtv.site/408/tv30.php?c=MzMxLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HOLA TV HD
+http://bgtv.site/408/tv30.php?c=MTg3LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HGTV HD
+http://bgtv.site/408/tv30.php?c=MTg2LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,LIFETIME HD
+http://bgtv.site/408/tv30.php?c=MTg4LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,NAT GEO HD
+http://bgtv.site/408/tv30.php?c=MzI3LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,NAT GEO WILD HD
+http://bgtv.site/408/tv30.php?c=MzI2LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STAR CHANNEL HD
+http://bgtv.site/408/tv30.php?c=MTkwLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STAR SERIES HD
+http://bgtv.site/408/tv30.php?c=MTkyLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STAR LIFE HD
+http://bgtv.site/408/tv30.php?c=MTkxLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,SONY HD
+http://bgtv.site/408/tv30.php?c=MTg5LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TELEHIT PLUS HD
+http://bgtv.site/408/tv30.php?c=MzI1LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TRUTV HD
+http://bgtv.site/408/tv30.php?c=MTk0LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TNT SERIES HD
+http://bgtv.site/408/tv30.php?c=MTkzLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVERSAL CHANNEL HD
+http://bgtv.site/408/tv30.php?c=MzI0LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNICABLE HD
+http://bgtv.site/408/tv30.php?c=MTk1LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS ALBUQUERQUE
+http://bgtv.site/408/tv30.php?c=NDQ5LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS AUSTIN
+http://bgtv.site/408/tv30.php?c=NDM4LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS CLEVELAND
+http://bgtv.site/408/tv30.php?c=NDQyLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS EAST
+http://bgtv.site/408/tv30.php?c=NDM5LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS FRESNO
+http://bgtv.site/408/tv30.php?c=NDQ3LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS HOUSTON
+http://bgtv.site/408/tv30.php?c=NDM3LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS LAS VEGAS
+http://bgtv.site/408/tv30.php?c=NDQwLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS L.A.
+http://bgtv.site/408/tv30.php?c=NDUxLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS MIAMI
+http://bgtv.site/408/tv30.php?c=NDUwLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS NY
+http://bgtv.site/408/tv30.php?c=NDM2LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS PHOENIX
+http://bgtv.site/408/tv30.php?c=NDQ0LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS PHOENIX
+http://bgtv.site/408/tv30.php?c=NDQ1LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS RALEIGH
+http://bgtv.site/408/tv30.php?c=NDQ2LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS SACRAMENTO
+http://bgtv.site/408/tv30.php?c=NDQzLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS SALT LAKE
+http://bgtv.site/408/tv30.php?c=NDQxLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS SAN ANTONIO
+http://bgtv.site/408/tv30.php?c=NDQ4LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIMAS WEST
+http://bgtv.site/408/tv30.php?c=NDM1LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVISION ALBUQUERQUE
+http://bgtv.site/408/tv30.php?c=NDYxLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVISION CHICAGO
+http://bgtv.site/408/tv30.php?c=NDYwLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVISION DALLAS
+http://bgtv.site/408/tv30.php?c=NDUyLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVISION EAST
+http://bgtv.site/408/tv30.php?c=NDU5LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVISION HOUSTON
+http://bgtv.site/408/tv30.php?c=NDU4LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVISION MCALLEN
+http://bgtv.site/408/tv30.php?c=NDUzLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVISION MIAMI
+http://bgtv.site/408/tv30.php?c=NDU2LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVISION NY
+http://bgtv.site/408/tv30.php?c=NDU3LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVISION PHOENIX
+http://bgtv.site/408/tv30.php?c=NDU1LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVISION SAN ANTONIO
+http://bgtv.site/408/tv30.php?c=NDYyLTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVISION TEXAS
+http://bgtv.site/408/tv30.php?c=NDU0LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,WARNER TV HD
+http://bgtv.site/408/tv30.php?c=MTk2LTcwODU=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,AYE HD
+http://bgtv.site/408/tv30.php?c=MjAwLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,AXS TV FHD
+http://bgtv.site/408/tv30.php?c=MTk5LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,AMC HD
+http://bgtv.site/408/tv30.php?c=MTk3LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,AHC HD
+http://bgtv.site/408/tv30.php?c=MTk4LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BRAVO HD
+http://bgtv.site/408/tv30.php?c=MjA0LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BET SOUL HD
+http://bgtv.site/408/tv30.php?c=MjAzLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BET HD
+http://bgtv.site/408/tv30.php?c=MjAyLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BET HER HD
+http://bgtv.site/408/tv30.php?c=MjAxLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,COMEDY CENTRAL HD
+http://bgtv.site/408/tv30.php?c=MjA1LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,COOKING CHANNEL HD
+http://bgtv.site/408/tv30.php?c=MjA2LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DISCOVERY FAMILY HD
+http://bgtv.site/408/tv30.php?c=MjA4LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DISCOVERY SCIENCE HD
+http://bgtv.site/408/tv30.php?c=MjEwLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DISCOVERY LIFE HD
+http://bgtv.site/408/tv30.php?c=MjA5LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DIY NETWORK HD
+http://bgtv.site/408/tv30.php?c=MjExLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,E! HD
+http://bgtv.site/408/tv30.php?c=MjEyLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,EPIX EAST HD
+http://bgtv.site/408/tv30.php?c=MjEzLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FX HD
+http://bgtv.site/408/tv30.php?c=MjE1LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FXX HD
+http://bgtv.site/408/tv30.php?c=MjE2LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FOOD NETWORK HD
+http://bgtv.site/408/tv30.php?c=MjE0LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HLN HD
+http://bgtv.site/408/tv30.php?c=MjE4LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HGTV HD
+http://bgtv.site/408/tv30.php?c=MjE3LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,LIFETIME HD
+http://bgtv.site/408/tv30.php?c=MjE5LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,MTV HD
+http://bgtv.site/408/tv30.php?c=MjIwLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,MTV LIVE HD
+http://bgtv.site/408/tv30.php?c=MjIxLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,MTV U HD
+http://bgtv.site/408/tv30.php?c=MjIyLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,NBC UNIVERSO FHD
+http://bgtv.site/408/tv30.php?c=MjIzLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,OUTSIDE HD
+http://bgtv.site/408/tv30.php?c=MjI0LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,SYFY HD
+http://bgtv.site/408/tv30.php?c=MjI1LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TELEMUNDO LOS ANGELES HD
+http://bgtv.site/408/tv30.php?c=MjMwLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TELEMUNDO CHICAGO HD
+http://bgtv.site/408/tv30.php?c=MjI5LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TELEMUNDO BOSTON HD
+http://bgtv.site/408/tv30.php?c=MjI4LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TELEMUNDO DALLAS HD
+http://bgtv.site/408/tv30.php?c=MjI3LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TELEMUNDO MIAMI HD
+http://bgtv.site/408/tv30.php?c=MjMxLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TELEMUNDO VEGAS HD
+http://bgtv.site/408/tv30.php?c=MjM1LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TELEMUNDO SAN FRANSCISCO HD
+http://bgtv.site/408/tv30.php?c=MjMzLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TRAVEL CHANNEL HD
+http://bgtv.site/408/tv30.php?c=MjM5LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TBS HD
+http://bgtv.site/408/tv30.php?c=MjI2LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TNT HD
+http://bgtv.site/408/tv30.php?c=MjM4LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TLC HD
+http://bgtv.site/408/tv30.php?c=MjM3LTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TRUTV HD
+http://bgtv.site/408/tv30.php?c=MjQwLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,USA NETWORK HD
+http://bgtv.site/408/tv30.php?c=MjQxLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,VICELAND HD
+http://bgtv.site/408/tv30.php?c=MjQyLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,WE TV HD
+http://bgtv.site/408/tv30.php?c=MjQzLTcwODY=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,EL SENOR DE LOS CIELOS
+http://bgtv.site/408/tv30.php?c=NjE3LTkwMjM3OA==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,EL SENOR DE LOS CIELOS OP2
+http://bgtv.site/408/tv30.php?c=NTUwLTkwMjM3OA==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CARTOON NETWORK HD
+http://bgtv.site/408/tv30.php?c=NDA4LTkwMjM3Mw==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DISCOVERY KIDS HD
+http://bgtv.site/408/tv30.php?c=NDA0LTkwMjM3Mw==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,NICK HD
+http://bgtv.site/408/tv30.php?c=NDA2LTkwMjM3Mw==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,NICK 2 HD
+http://bgtv.site/408/tv30.php?c=NDA3LTkwMjM3Mw==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,PAKA PAKA HD
+http://bgtv.site/408/tv30.php?c=NDA1LTkwMjM3Mw==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVERSAL KIDS HD
+http://bgtv.site/408/tv30.php?c=NDA5LTkwMjM3NA==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,PBS KIDS HD
+http://bgtv.site/408/tv30.php?c=NDEwLTkwMjM3NA==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DISNEY JR HD
+http://bgtv.site/408/tv30.php?c=NDExLTkwMjM3NA==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,NICK JR HD
+http://bgtv.site/408/tv30.php?c=NDEyLTkwMjM3NA==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,NICK HD
+http://bgtv.site/408/tv30.php?c=NDEzLTkwMjM3NA==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,AZ CINEMA HD
+http://bgtv.site/408/tv30.php?c=MjQ0LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BCINE HD
+http://bgtv.site/408/tv30.php?c=MjQ1LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CINE SONY HD
+http://bgtv.site/408/tv30.php?c=MjQ2LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CINEMAX HD
+http://bgtv.site/408/tv30.php?c=MjQ4LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CINE CANAL HD
+http://bgtv.site/408/tv30.php?c=MjQ3LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,DE PELICULA HD
+http://bgtv.site/408/tv30.php?c=MjQ5LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FXM HD
+http://bgtv.site/408/tv30.php?c=MjUwLTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GOLDEN HD
+http://bgtv.site/408/tv30.php?c=MjUyLTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,GOLDEN PREMIER HD
+http://bgtv.site/408/tv30.php?c=MjUxLTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HBO HD
+http://bgtv.site/408/tv30.php?c=MjUzLTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HBO 2 HD
+http://bgtv.site/408/tv30.php?c=MjU0LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HBO PLUS HD
+http://bgtv.site/408/tv30.php?c=MjU3LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HBO SIGNATURE HD
+http://bgtv.site/408/tv30.php?c=MjU5LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HBO FAMILY HD
+http://bgtv.site/408/tv30.php?c=MjU1LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HBO MUNDI HD
+http://bgtv.site/408/tv30.php?c=MjU2LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HBO XTREME HD
+http://bgtv.site/408/tv30.php?c=MjYwLTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HBO POP HD
+http://bgtv.site/408/tv30.php?c=MjU4LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,PANICO HD
+http://bgtv.site/408/tv30.php?c=MjYxLTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,PARAMOUNT HD
+http://bgtv.site/408/tv30.php?c=MjYyLTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,SPACE HD
+http://bgtv.site/408/tv30.php?c=MjYzLTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STAR ACTION HD
+http://bgtv.site/408/tv30.php?c=MjY0LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STAR CINEMA HD
+http://bgtv.site/408/tv30.php?c=MjY1LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STAR CLASSICS HD
+http://bgtv.site/408/tv30.php?c=MjY2LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STAR COMEDY HD
+http://bgtv.site/408/tv30.php?c=MjY3LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STAR FUN HD
+http://bgtv.site/408/tv30.php?c=MjY4LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STAR HITS HD
+http://bgtv.site/408/tv30.php?c=MjY5LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STUDIO UNIVERSAL HD
+http://bgtv.site/408/tv30.php?c=MjcwLTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,SYFY HD
+http://bgtv.site/408/tv30.php?c=MjcxLTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TBS HD
+http://bgtv.site/408/tv30.php?c=MjcyLTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TNT HD
+http://bgtv.site/408/tv30.php?c=MjczLTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVERSAL CINEMA
+http://bgtv.site/408/tv30.php?c=NDcwLTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVERSAL CRIME ESTE
+http://bgtv.site/408/tv30.php?c=NDY3LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVERSAL CRIME OESTE
+http://bgtv.site/408/tv30.php?c=NDcxLTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVERSAL COMEDY
+http://bgtv.site/408/tv30.php?c=NDY2LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVERSAL PREMIER OESTE
+http://bgtv.site/408/tv30.php?c=NDcyLTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVERSAL REALITY
+http://bgtv.site/408/tv30.php?c=NDY5LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,UNIVERSAL PREMIERE
+http://bgtv.site/408/tv30.php?c=NDY4LTcwODc=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,5STARMAX HD
+http://bgtv.site/408/tv30.php?c=Mjc0LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,ACTIONMAX HD
+http://bgtv.site/408/tv30.php?c=Mjc1LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CTM HD
+http://bgtv.site/408/tv30.php?c=Mjc3LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,CINEMAX HD
+http://bgtv.site/408/tv30.php?c=Mjc2LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,FXM HD
+http://bgtv.site/408/tv30.php?c=Mjc4LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HBO HD
+http://bgtv.site/408/tv30.php?c=MjgyLTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HBO 2 HD
+http://bgtv.site/408/tv30.php?c=MjgzLTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HBO SIGNATURE HD
+http://bgtv.site/408/tv30.php?c=Mjg3LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HBO FAMILY HD
+http://bgtv.site/408/tv30.php?c=Mjg2LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HBO COMEDY HD
+http://bgtv.site/408/tv30.php?c=Mjg0LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HBO ZONE HD
+http://bgtv.site/408/tv30.php?c=Mjg5LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HBO EAST HD
+http://bgtv.site/408/tv30.php?c=Mjg1LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HBO WEST HD
+http://bgtv.site/408/tv30.php?c=Mjg4LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HALLMARK HD
+http://bgtv.site/408/tv30.php?c=Mjc5LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HALLMARK MYM HD
+http://bgtv.site/408/tv30.php?c=MjgwLTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,HALLMARK DRAMA HD
+http://bgtv.site/408/tv30.php?c=MjgxLTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,ION HD
+http://bgtv.site/408/tv30.php?c=MjkwLTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,MOVIEMAX HD
+http://bgtv.site/408/tv30.php?c=MjkyLTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,MOREMAX HD
+http://bgtv.site/408/tv30.php?c=MjkxLTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,OUTERMAX HD
+http://bgtv.site/408/tv30.php?c=MjkzLTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,PARAMOUNT HD
+http://bgtv.site/408/tv30.php?c=Mjk0LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,REVOLT HD
+http://bgtv.site/408/tv30.php?c=Mjk1LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,SONY MOVIES HD
+http://bgtv.site/408/tv30.php?c=MzAxLTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,SHOWTIME WEST HD
+http://bgtv.site/408/tv30.php?c=MzAwLTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,SHOWTIME HD
+http://bgtv.site/408/tv30.php?c=Mjk5LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,SHOWTIME NEXT HD
+http://bgtv.site/408/tv30.php?c=Mjk4LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,SHOWTIME EXTREME HD
+http://bgtv.site/408/tv30.php?c=Mjk3LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,SHOWTIME 2 HD
+http://bgtv.site/408/tv30.php?c=Mjk2LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,SUNDANCE HD
+http://bgtv.site/408/tv30.php?c=MzExLTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STARZ COMEDY HD
+http://bgtv.site/408/tv30.php?c=MzA0LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STARZ CINEMA HD
+http://bgtv.site/408/tv30.php?c=MzAzLTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STARZ K&F HD
+http://bgtv.site/408/tv30.php?c=MzEwLTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STARZ BLACK HD
+http://bgtv.site/408/tv30.php?c=MzAyLTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STARZ ENCORE WESTERNS HD
+http://bgtv.site/408/tv30.php?c=MzA5LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STARZ ENCORE SUSPENSE HD
+http://bgtv.site/408/tv30.php?c=MzA4LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STARZ ENCORE HD
+http://bgtv.site/408/tv30.php?c=MzA3LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STARZ ENCORE ACTION HD
+http://bgtv.site/408/tv30.php?c=MzA2LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,STARZ EDGE HD
+http://bgtv.site/408/tv30.php?c=MzA1LTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,TCM HD
+http://bgtv.site/408/tv30.php?c=MzEyLTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,THRILLERMAX HD
+http://bgtv.site/408/tv30.php?c=MzEzLTcwODg=&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BLUE HUSTLER
+http://bgtv.site/408/tv30.php?c=MzE0LTk5MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,BRAZZERS EUROPE
+http://bgtv.site/408/tv30.php?c=MzE1LTk5MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,JASMINE
+http://bgtv.site/408/tv30.php?c=MzE2LTk5MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,PENTHOUSE
+http://bgtv.site/408/tv30.php?c=MzE3LTk5MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,PLAY BOY
+http://bgtv.site/408/tv30.php?c=MzE4LTk5MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,RED LIGHT
+http://bgtv.site/408/tv30.php?c=MzE5LTk5MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,SEXTRIME
+http://bgtv.site/408/tv30.php?c=MzIwLTk5MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,VENUS
+http://bgtv.site/408/tv30.php?c=MzIxLTk5MQ==&token=kasjhfaasasblack&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS 3 (intermitente)" ,VIVID RED
+http://bgtv.site/408/tv30.php?c=MzIyLTk5MQ==&token=kasjhfaasasblack&f=.m3u8
