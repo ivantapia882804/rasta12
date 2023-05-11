@@ -2008,7 +2008,7 @@ https://live4-ott.izzigo.tv/out/u/dash/SONGIE-TV-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f9140038718913.576c159a2de69.png" group-title=" group-title="CINE",SPACE HD
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f9140038718913.576c159a2de69.png" group-title="CINE",SPACE HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
