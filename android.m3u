@@ -6711,7 +6711,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="234" tvg-logo="https://logo.iptveditor.com/telehit.png"  group-title="CANALES VARIADOS 28 solo OTT",TELEHIT
-https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
