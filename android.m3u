@@ -1513,6 +1513,15 @@ https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live1-ott.izzigo.tv/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
+#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="SONY MOVIES" tvg-logo="https://megatelevisiontv.live/img/sony_movies.png" group-title="CINE",SONY MOVIES
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
 #EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="CINE",TCM
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
