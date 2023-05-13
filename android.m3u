@@ -463,8 +463,6 @@ http://208.88.246.11:4481/222ISAT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 http://208.88.246.11:4481/transco10/9509UNVSO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/estrella.png"  group-title="ENTRETENIMIENTO", Estrella TV
 http://208.88.246.11:4481/eventox3/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png"  group-title="ENTRETENIMIENTO", Telemundo
-http://208.88.246.11:4481/encoder75/evento9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" tvg-name="Telemundo Pacific" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png"  group-title="ENTRETENIMIENTO", Telemundo Pacific
 http://208.88.246.11:4481/andrew/telehit/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png"  group-title="ENTRETENIMIENTO", Univisión
@@ -591,9 +589,9 @@ http://208.88.246.11:4481/UFCNET/transco2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9W
 http://208.88.246.11:4481/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png"  group-title="DEPORTES", Bein Ñ
 http://208.88.246.11:4481/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="NBCSN.us" tvg-name="NBCSN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcsp.png"  group-title="DEPORTES", NBCSN
+#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png"  group-title="DEPORTES", Fox Sports 3
 http://208.88.246.11:4481/9466NBCSP/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1  tvg-id="" tvg-name="Torolé (ES)" tvg-logo=""  group-title="DEPORTES", Torolé (ES)
+#EXTINF:-1  tvg-id="MundoToro.es" tvg-name="Mundo Toro (ES)" tvg-logo=""  group-title="DEPORTES", Mundo Toro (ES)
 http://208.88.246.11:4481/eventox4/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="MeganoticiasMX.mx" tvg-name="Meganoticias MX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" group-title="INFORMACIÓN",Meganoticias MX
 http://208.88.246.11:4481/220TVC/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -3460,9 +3458,6 @@ http://208.88.246.11:4481/9613FOXS2/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png"  group-title="USA CABLE", CBS Sports Network
 http://208.88.246.11:4481/transco9/9495CBSSN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1 tvg-id="NBCSN.us" tvg-name="NBCSN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcsp.png"  group-title="USA CABLE", NBCSN
-http://208.88.246.11:4481/9466NBCSP/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-
 #EXTINF:-1 tvg-id="TheSportsmanChannel.us" tvg-name="Sportsman Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png"  group-title="USA CABLE", Sportsman Channel
 http://208.88.246.11:4481/9483SPMAN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
@@ -3646,7 +3641,7 @@ http://208.88.246.11:4481/eventox8/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9Wx
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/estrella.png"  group-title="USA CABLE", Estrella TV
 http://208.88.246.11:4481/eventox3/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png"  group-title="USA CABLE", Telemundo
+#EXTINF:-1 tvg-id="HBO Latino (Spanish).us" tvg-name="HBO Latino" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png"  group-title="USA CABLE", HBO Latino
 http://208.88.246.11:4481/encoder75/evento9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" tvg-name="Telemundo Pac" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png"  group-title="USA CABLE", Telemundo Pac
