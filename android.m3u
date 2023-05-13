@@ -12733,7 +12733,7 @@ http://84.17.61.203:8086/udp/238.2.25.90:1234
 
 
 #EXTINF:-1 tvg-logo="https://telaviva-com-br.cdn.ampproject.org/i/s/telaviva.com.br/wp-content/uploads/2016/02/Novo-logo-AXN-768x432.png" group-title="PREMIUM", AXN
-http://208.88.246.11:3473/andromeda/AXN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://208.88.246.11:4481/andromeda/AXN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-logo="https://radioyskl.com/wp-content/uploads/2019/04/Radio-Cadena-YSKL-232x300.png" group-title="EL SALVADOR", YSKL RADIO
 http://media.dominiocreativo.com:8000/
