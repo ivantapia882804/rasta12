@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml,http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://epg.programadorx.cl/mdiaz/gratis.xml,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD)
@@ -1060,7 +1060,7 @@ https://live3-ott.izzigo.tv/out/u/dash/E-Entertainment-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=askldhfakljshdfkla
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC SD" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Discovery_TLC.png" group-title="ENTRETENIMIENTO",TLC SD
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC HD" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Discovery_TLC.png" group-title="ENTRETENIMIENTO",TLC HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1465,7 +1465,7 @@ https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=askldhfakljshdfkla
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live2-ott.izzigo.tv/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
-#EXTINF:-1 tvg-id="Dreamworks.br" tvg-name="DREAMWORKS +" tvg-logo="https://www.izzigo.tv/images/repository/12121904-LOGO-m.png" group-title="KIDS",DREAMWORKS +
+#EXTINF:-1 tvg-id="Dreamworks.br" tvg-name="DREAMWORKS" tvg-logo="https://www.izzigo.tv/images/repository/12121904-LOGO-m.png" group-title="KIDS",DREAMWORKS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1870,7 +1870,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=askldhfakljshdfkla
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO+ HD" tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="PREMIUM",HBO+ HD
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS HD" tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="PREMIUM",HBO PLUS HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1906,7 +1906,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=askldhfakljshdfkla
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
-#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://logo.iptveditor.com/goldenpremier.png" group-title="PREMIUM",GOLDEN PREMIER HD
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="GOLDEN PREMIER" tvg-logo="https://logo.iptveditor.com/goldenpremier.png" group-title="PREMIUM",GOLDEN PREMIER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1915,7 +1915,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=askldhfakljshdfkla
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
-#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="GOLDEN PREMIER 2HS HD" tvg-logo="https://logo.iptveditor.com/goldenpremier2.png" group-title="PREMIUM",GOLDEN PREMIER 2HS HD
+#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="GOLDEN PREMIER 2" tvg-logo="https://logo.iptveditor.com/goldenpremier2.png" group-title="PREMIUM",GOLDEN PREMIER 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1924,7 +1924,7 @@ https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=askldhfakljshdfkla
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER--2HR-HD/default.mpd
-#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://www.izzigo.tv/images/repository/11753184-LOGO-m.png" group-title="PREMIUM",UNIVERSAL PREMIER
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://www.izzigo.tv/images/repository/11753184-LOGO-m.png" group-title="PREMIUM",UNIVERSAL PREMIERE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
