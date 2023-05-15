@@ -4543,13 +4543,13 @@ http://23.237.108.226:80/hls/DISCOVERYTHEATERMX.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png",_DISCOVERY WORLD 
 http://181.78.24.187:8006/play/a087/index.m3u8
 
-#EXTINF:-1  group-title="MEXICO", ESPN MX
+#EXTINF:-1  group-title="DEPORTES", ESPN MX
 http://45.182.21.251:33334/play/a08g/index.m3u8
 
-#EXTINF:-1  group-title="MEXICO", ESPN 2 MX
+#EXTINF:-1  group-title="DEPORTES", ESPN 2 MX
 http://45.228.234.77:4430/play/espndoshd
 
-#EXTINF:-1  group-title="MEXICO", ESPN 3 MX
+#EXTINF:-1  group-title="DEPORTES", ESPN 3 MX
 http://45.228.234.77:4430/play/espntreshd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/300px-Canal_Golden_logo.svg.png" group-title="CINE",GOLDEN
