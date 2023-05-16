@@ -2529,182 +2529,38 @@ https://live4-ott.izzigo.tv/out/u/dash/MUSIC-VIEJOTAS-BUENISIMAS/default.mpd
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-VIVA-MEXICO/default.mpd
 
 
-#EXTINF:-1  group-title="DistroRegio" , Top Cine Latam
+#EXTINF:-1  group-title="24/7" , Top Cine Latam
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=top-cine-latam&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Saber mas
+#EXTINF:-1  group-title="24/7" , Saber mas
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=saber-mas&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Tu Cine Latam
+#EXTINF:-1  group-title="24/7" , Tu Cine Latam
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=tu-cine-latam&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Flash
+#EXTINF:-1  group-title="24/7" , Flash
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=flash-1&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , El conflicto TV
+#EXTINF:-1  group-title="24/7" , El conflicto TV
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=el-conflicto-tv&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Chiquilines
+#EXTINF:-1  group-title="24/7" , Chiquilines
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=chiquilines&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Juntos
+#EXTINF:-1  group-title="24/7" , Juntos
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=juntos&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Cine Sureno
+#EXTINF:-1  group-title="24/7" , Cine Sureno
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=cine-sureno&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Cine Real
+#EXTINF:-1  group-title="24/7" , Cine Real
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=cine-real-latam&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Casa Comedy
+#EXTINF:-1  group-title="24/7" , Casa Comedy
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=casa-comedy&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Spanglish
+#EXTINF:-1  group-title="24/7" , Spanglish
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=spanglish&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Euronews N
+#EXTINF:-1  group-title="24/7" , Euronews N
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=euronews-spa&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Horrorfy
+#EXTINF:-1  group-title="24/7" , Horrorfy
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=horrorfy&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , WappTV
+#EXTINF:-1  group-title="24/7" , WappTV
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=wapptv&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , MMC
+#EXTINF:-1  group-title="24/7" , MMC
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=mmc&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Glewed TV 
+#EXTINF:-1  group-title="24/7" , Glewed TV 
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=glewedtv-spanish&f=.m3u8
-
-
-#EXTINF:-1  group-title="24/7",  40 Y 20
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=340&pid=340&token=SrRegio&f=.m3u8
-#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" group-title="DEPORTES",  Adrenalina Sports Network
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=393&pid=393&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Alebrije TV
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=319&pid=319&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Amigas Y Rivales
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=320&pid=320&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Amores Verdaderos
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=305&pid=305&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Aqui Y Ahora
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=306&pid=306&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="CINE",  Cine 1
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=307&pid=307&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="CINE",  Cine 2
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=308&pid=308&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="CINE",  Cine 3
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=309&pid=309&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="CINE",  Cine Club - Prendetv
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=192&pid=192&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="CINE",  Cine Del Ayer
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=429&pid=429&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="CINE", Cine Sd
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=450&pid=450&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="CINE", Cine Sd
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=451&pid=451&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Clase 406
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=322&pid=322&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="INFORMACIÓN",  Cnn Español (USA)
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=358&pid=358&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Comedy Tv
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=89&pid=89&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Como Dice El Dicho
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=341&pid=341&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Corazón Salvaje
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=325&pid=325&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Crónicas
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=315&pid=315&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Cuidado Con El Angel
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=316&pid=316&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Del Mercado Al Plato
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=317&pid=317&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", Deportes
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=452&pid=452&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Durmiendo Con Mi Jefe
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=312&pid=312&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  El Privilegio De Mandar
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=313&pid=313&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Failarmy
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=197&pid=197&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Familia P. Luche
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=311&pid=311&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Fun Videos
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=121&pid=121&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Héroes Del Norte
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=323&pid=323&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Juana La Virgen
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=327&pid=327&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Kids
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=355&pid=355&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  La Promesa
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=343&pid=343&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  La Selecc10n
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=345&pid=345&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Lo Mejor De La Liga Mx - Prendetv
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=193&pid=193&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Lo Que Diga El Corazon
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=346&pid=346&token=SrRegio&f=.m3u8
-#EXTINF:-1 tvg-id="XHGTVCanal4Guadalajara.mx" group-title="LOCALES REGIONALES",  Canal 4 Tu Canal
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=402&pid=402&token=SrRegio&f=.m3u8
-#EXTINF:-1 tvg-id="XEFBTDT.mx" group-title="LOCALES REGIONALES",  Canal 4 Monterrey
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=403&pid=403&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Love Nature
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=390&pid=390&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  María Mercedes
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=328&pid=328&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="INFORMACIÓN",  N+ Media
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=301&pid=301&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Mi Gorda Bella
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=334&pid=334&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Muchachitas
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=331&pid=331&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Muchachitas Como Tu
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=332&pid=332&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Novelas
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=445&pid=445&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Novelas De Oro - Prendetv
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=196&pid=196&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Novelas De Romance - Prendetv
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=194&pid=194&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Novelas En Familia - Prendetv
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=195&pid=195&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Novelas Hd
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=448&pid=448&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Novelas Sd
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=447&pid=447&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Papa A Toda Madre
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=336&pid=336&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  People Are Awesome
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=39&pid=39&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Que Bonito Amor
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=329&pid=329&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Rebelde
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=335&pid=335&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="CINE",  Retro Peli
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=304&pid=304&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Sortilegio
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=337&pid=337&token=SrRegio&f=.m3u8
-#EXTINF:-1 tvg-id="TelehitMusica.mx" group-title="MUSICA",  Telehit Musica
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=418&pid=418&token=SrRegio&f=.m3u8
-#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" group-title="MUSICA",  Telehit Musica Plus
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=419&pid=419&token=SrRegio&f=.m3u8
-#EXTINF:-1 tvg-id="Telehit.mx" group-title="MUSICA",  Telehit
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=417&pid=417&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Teresa
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=342&pid=342&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Teresa
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=324&pid=324&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  The Weather Channel(Es)
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=431&pid=431&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  The Weather Channel(Es) Hd
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=453&pid=453&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Tres Veces Ana
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=321&pid=321&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Triunfo Del Amor
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=338&pid=338&token=SrRegio&f=.m3u8
-#EXTINF:-1 tvg-id="Nu9ve.mx" group-title="LOCALES",  Nu9ve
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=352&pid=352&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="24/7", Unknown 101
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=330&pid=330&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Unknown 262
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=446&pid=446&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Vecinos
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=314&pid=314&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="MUSICA",  Vevo
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=389&pid=389&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="MUSICA",  Vevo
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=388&pid=388&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Videos Chistosos
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=46&pid=46&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="24/7",  Videos Chistosos 2
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=49&pid=49&token=SrRegio&f=.m3u8
 
 
 #EXTINF:-1 tvg-id="AandE.co" group-title="ENTRETENIMIENTO", A&E
