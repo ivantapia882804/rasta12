@@ -664,7 +664,7 @@ https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live3-ott.izzigo.tv/out/u/dash/IMAGEN-TV-HD/default.mpd
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="DUPXHTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="LOCALES",FORO
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="FOROTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="LOCALES",FORO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -772,7 +772,7 @@ https://live4-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
-#EXTINF:-1 tvg-shift=+2 tvg-id="XHDFAztecaUno.mx" tvg-name="AZUNOHD"  tvg-logo="https://logo.iptveditor.com/azteca1.png" group-title="LOCALES",AZTECA 1 2HS
+#EXTINF:-1 tvg-shift=+2 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno"  tvg-logo="https://logo.iptveditor.com/azteca1.png" group-title="LOCALES",AZTECA 1 2HS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -790,7 +790,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
-#EXTINF:-1 tvg-id="QuieroTv.mx" tvg-name="QUIERO" tvg-logo="https://logo.iptveditor.com/ochotv.png" group-title="LOCALES REGIONALES",QUIERO TV HD
+#EXTINF:-1 tvg-id="QuieroTv.mx" tvg-logo="https://logo.iptveditor.com/ochotv.png" group-title="LOCALES REGIONALES",QUIERO TV HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -799,15 +799,6 @@ https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd
-#EXTINF:-1 tvg-id="CVShopping.mx" tvg-name="CVSHOP" tvg-logo="https://d10d02tod5sfve.cloudfront.net/poster-photo/cvdirecto-1611124711984" group-title="LOCALES",CV SHOPPING
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-https://live5-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="MILENIO" tvg-logo="https://logo.iptveditor.com/milenio.png" group-title="INFORMACIÓN",MILENIO HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -817,7 +808,7 @@ https://live5-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
-#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="TFORM" tvg-logo="https://logo.iptveditor.com/teleformula.png" group-title="INFORMACIÓN",TELEFORMULA SD
+#EXTINF:-1 tvg-id="Teleformula.mx" tvg-logo="https://logo.iptveditor.com/teleformula.png" group-title="INFORMACIÓN",TELEFORMULA SD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -898,7 +889,7 @@ https://live2-ott.izzigo.tv/out/u/dash/FOX-NEWS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live4-ott.izzigo.tv/out/u/dash/AL-JAZEERA-HD/default.mpd
-#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT HD" tvg-logo="https://logo.iptveditor.com/rt.png" group-title="INTERNACIONAL",RT HD
+#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT IN SPANISH" tvg-logo="https://logo.iptveditor.com/rt.png" group-title="INTERNACIONAL",RT HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1177,7 +1168,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
-#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="VH1" tvg-logo="https://logo.iptveditor.com/vh1.png" group-title="MUSICA",MTV 00S
+#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="https://logo.iptveditor.com/vh1.png" group-title="MUSICA",MTV 00S
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1267,7 +1258,7 @@ https://live5-ott.izzigo.tv/out/u/dash/SYFY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live2-ott.izzigo.tv/out/u/dash/TRU-TV-HD/default.mpd
-#EXTINF:-1 tvg-id="ClubMTV(English).mx" tvg-name="CLUB MTV" tvg-logo="https://logo.iptveditor.com/mtvdance.png" group-title="MUSICA",CLUB MTV
+#EXTINF:-1 tvg-id="ClubMTV(English).mx" tvg-logo="https://logo.iptveditor.com/mtvdance.png" group-title="MUSICA",CLUB MTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1321,7 +1312,7 @@ https://live4-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live5-ott.izzigo.tv/out/u/dash/ANTENA3-HD/default.mpd
-#EXTINF:-1 tvg-id="NHKTVWorldPremium(English).mx" tvg-name="NHK HD" tvg-logo="https://logo.iptveditor.com/nhk.png" group-title="INTERNACIONAL",NHK HD
+#EXTINF:-1 tvg-id="NHKTVWorldPremium(English).mx" tvg-logo="https://logo.iptveditor.com/nhk.png" group-title="INTERNACIONAL",NHK HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1348,7 +1339,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live5-ott.izzigo.tv/out/u/dash/RAI-HD/default.mpd
-#EXTINF:-1 tvg-id="TelefeInternacional.mx" tvg-name="TELEFEI" tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="INTERNACIONAL",TELEFE HD
+#EXTINF:-1 tvg-id="TelefeInternacional.mx" tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="INTERNACIONAL",TELEFE HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1357,7 +1348,7 @@ https://live5-ott.izzigo.tv/out/u/dash/RAI-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live1-ott.izzigo.tv/out/u/dash/TELEFE-HD/default.mpd
-#EXTINF:-1 tvg-id="TV5.mx" tvg-name="TV5I" tvg-logo="https://logo.iptveditor.com/tv5.png" group-title="INTERNACIONAL",TV5
+#EXTINF:-1 tvg-id="TV5.mx" tvg-logo="https://logo.iptveditor.com/tv5.png" group-title="INTERNACIONAL",TV5
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1420,7 +1411,7 @@ https://live4-ott.izzigo.tv/out/u/dash/NICK-JR-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
-#EXTINF:-1 tvg-id="XEIPNTDT2.mx" tvg-name="Once Niñas y Niños" tvg-logo="https://logo.iptveditor.com/canalonceninos.png" group-title="LOCALES",ONCE NINAS Y NINOS
+#EXTINF:-1 tvg-id="XEIPNTDT2.mx" tvg-logo="https://logo.iptveditor.com/canalonceninos.png" group-title="LOCALES",ONCE NINAS Y NINOS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1474,7 +1465,7 @@ https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live2-ott.izzigo.tv/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
-#EXTINF:-1 tvg-id="Dreamworks.br" tvg-name="DREAMWORKS" tvg-logo="https://www.izzigo.tv/images/repository/12121904-LOGO-m.png" group-title="KIDS",DREAMWORKS
+#EXTINF:-1 tvg-id="Dreamworks.br" tvg-logo="https://www.izzigo.tv/images/repository/12121904-LOGO-m.png" group-title="KIDS",DREAMWORKS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1537,7 +1528,7 @@ https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
-#EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="https://logo.iptveditor.com/history2.png" group-title="CONOCIMIENTO",HISTORY 2 HD
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2 Latinoamerica" tvg-logo="https://logo.iptveditor.com/history2.png" group-title="CONOCIMIENTO",HISTORY 2 HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1636,7 +1627,7 @@ https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="AFFIZSD" tvg-logo="https://mecambioya.com/wp-content/uploads/2021/03/afizzionados-3.png" group-title="DEPORTES",AFFIZIONADOS HD
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="AFIZZSD" tvg-logo="https://mecambioya.com/wp-content/uploads/2021/03/afizzionados-3.png" group-title="DEPORTES",AFFIZIONADOS HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1645,7 +1636,7 @@ https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
-#EXTINF:-1 tvg-id="RealMadridTV.mx" tvg-name="REMAD" tvg-logo="https://logo.iptveditor.com/realmadridtvenglish.png" group-title="DEPORTES",REAL MADRID HD
+#EXTINF:-1 tvg-id="RealMadridTV.mx" tvg-name="RMAD" tvg-logo="https://logo.iptveditor.com/realmadridtvenglish.png" group-title="DEPORTES",REAL MADRID HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1726,7 +1717,7 @@ https://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd
-#EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="The Golf Channel Latinoamerica" tvg-logo="https://logo.iptveditor.com/golfchannel.png" group-title="DEPORTES",GOLF CHANNEL HD
+#EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="GOLFLAH" tvg-logo="https://logo.iptveditor.com/golfchannel.png" group-title="DEPORTES",GOLF CHANNEL HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1762,7 +1753,7 @@ https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT America Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="CINE",TNT HD
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT AmericaLatina HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="CINE",TNT HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1789,7 +1780,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live1-ott.izzigo.tv/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
-#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies HD" tvg-logo="https://megatelevisiontv.live/img/sony_movies.png" group-title="CINE",SONY MOVIES
+#EXTINF:-1 tvg-id="SonyMovies.br" tvg-logo="https://megatelevisiontv.live/img/sony_movies.png" group-title="CINE",SONY MOVIES
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1969,7 +1960,7 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=unodostresblackghost
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
-#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="UNIVERSAL REALITY" tvg-logo="https://www.izzigo.tv/images/repository/11753188-LOGO-m.png" group-title="PREMIUM",UNIVERSAL REALITY
+#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-logo="https://www.izzigo.tv/images/repository/11753188-LOGO-m.png" group-title="PREMIUM",UNIVERSAL REALITY
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
