@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
-
+#EXTM3U
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD)
 http://190.61.102.67:31589/play/a04p/index.m3u8
@@ -63,8 +62,6 @@ http://208.88.246.11:4481/107azteca7/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5
 http://208.88.246.11:4481/111OnceTvMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png"  group-title="LOCALES" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", Canal Catorce
 http://208.88.246.11:4481/130unavoz/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="Ingenio TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg"  group-title="LOCALES" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", Ingenio TV
-http://208.88.246.11:4481/131ingenioTV/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unam.png"  group-title="LOCALES" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", TV UNAM
 http://208.88.246.11:4481/120tvunam/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="XEIMTTVMetropolitan(Canal22).mx" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg"  group-title="LOCALES" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", Canal 22
@@ -467,10 +464,6 @@ https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m
 https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.3
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="QuieroTv.mx" tvg-name="Quiero TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ochotv.png" group-title="LOCALES REGIONALES",Quiero TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8452uw
-#EXTINF:-1 tvg-id="HeraldoTV.mx" tvg-name="Heraldo Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hc8.png" group-title="LOCALES",Heraldo Televisión
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x88epch
 #EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 MTY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES REGIONALES",Canal 6 MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 LAG" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES REGIONALES",Canal 6 LAG
@@ -499,10 +492,6 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalisco TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c7.png" group-title="LOCALES REGIONALES",Jalisco TV
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal44(XHUDGTDT).mx" tvg-name="UDGTV 44" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/udg44.png" group-title="LOCALES REGIONALES",UDGTV 44
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3m1xfy
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UDGTV 44 Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/44N.jpg" group-title="LOCALES REGIONALES",UDGTV 44 Noticias
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6km0ku
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 28 NL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/28nl.png" group-title="LOCALES REGIONALES",Canal 28 NL
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET TV 16.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/set.png" group-title="LOCALES REGIONALES",SET TV 16.1
@@ -1627,1237 +1616,1237 @@ http://208.88.246.11:4481/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://208.88.246.11:4481/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TNT
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TNT
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Luna TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Luna TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/2.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Super TV 55
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Super TV 55
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/3.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Cine Canal
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Cine Canal
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/4.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Star Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Star Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/5.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Pasiones Pan
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Pasiones Pan
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/10.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Pasiones USA
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Pasiones USA
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/11.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Wapa America
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Wapa America
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/12.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Telemundo Puerto Rico
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Telemundo Puerto Rico
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/13.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Caracol Internacional
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Caracol Internacional
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/14.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Canal 5
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Canal 5
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/30.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Telemundo 47
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Telemundo 47
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/32.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Univision 41
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Univision 41
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/33.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Tele
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Tele
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/36.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Univision Puerto Rico
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Univision Puerto Rico
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/39.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Univision 23 Miami
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Univision 23 Miami
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/40.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Telemundo Washington
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Telemundo Washington
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/41.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Telemundo Atlanta
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Telemundo Atlanta
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/42.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Telemundo Rodhe Island
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Telemundo Rodhe Island
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/44.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Unimas NY
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Unimas NY
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/45.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TeleIslas
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TeleIslas
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/46.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TVAgro
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TVAgro
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/47.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Tu Musica
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Tu Musica
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/54.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Cinemax
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Cinemax
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/55.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Discovery Familia
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Discovery Familia
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/56.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Spectrum Noticias NY
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Spectrum Noticias NY
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/57.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HBO POP
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HBO POP
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/61.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Tarima
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Tarima
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/73.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Tin Marin
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Tin Marin
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/75.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Discovery Turbo
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Discovery Turbo
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/76.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Estrellas TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Estrellas TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/77.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CO : Caracol
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CO : Caracol
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/78.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TeleAmaz0n4501p Internacional USA
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TeleSyS1stemAp0 Internacional USA
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/79.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Color Vision
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Color Vision
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/80.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TeleCentro
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TeleCentro
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/81.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Telemundo Boston
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Telemundo Boston
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/82.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Telemundo Philadelphia
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Telemundo Philadelphia
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/83.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Telemundo 51
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Telemundo 51
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/84.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Galavision
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Galavision
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/85.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Univision Novelas
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Univision Novelas
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/86.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", RCN
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", RCN
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/87.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Las Estrellas
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Las Estrellas
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/88.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HBO XTREME
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HBO XTREME
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/91.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Discovery Channel MX
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Discovery Channel MX
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/92.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CERTV 4
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CERTV 4
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/151.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TeleUnion
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TeleUnion
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/152.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Canal 25
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Canal 25
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/154.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", RNN Cadena de Noticias
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", RNN Cadena de Noticias
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/155.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Recuerdos TV \u00ae
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Recuerdos TV \u00ae
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/156.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Z 101 FM TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Z 101 FM TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/157.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Teleuniverso 29
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Teleuniverso 29
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/158.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Super Canal 33
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Super Canal 33
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/159.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Acento TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Acento TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/160.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Studio Universal
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Studio Universal
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/163.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Discovery World
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Discovery World
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/164.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Discovery Science
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Discovery Science
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/165.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Discovery Theather
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Discovery Theather
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/166.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HBO
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HBO
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/167.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HBO 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HBO 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/168.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HBO Family
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HBO Family
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/169.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HBO PLUS
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HBO PLUS
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/170.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HBO Signature
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HBO Signature
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/171.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NatGeo Wild
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NatGeo Wild
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/172.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", H2 History 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", H2 History 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/173.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Animal Planet
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Animal Planet
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/174.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Universal Channels TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Universal Channels TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/175.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Warner Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Warner Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/176.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", AXN MX
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", AXN MX
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/177.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", AXN
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", AXN
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/178.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Canal Sony
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Canal Sony
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/179.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Paramount Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Paramount Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/180.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", SyFy Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", SyFy Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/181.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Space
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Space
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/182.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TCM
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TCM
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/183.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Comedy Central
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Comedy Central
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/184.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TruTV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TruTV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/185.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", AMC
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", AMC
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/186.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", A&E
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", A&E
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/187.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", E! Entreteiment
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", E! Entreteiment
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/188.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", El Gourmet
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", El Gourmet
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/189.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Golden Plus
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Golden Plus
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/190.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", LifeTime
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", LifeTime
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/370.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TLC
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TLC
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/371.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MTV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MTV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/372.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MTV 80\u00b4S
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MTV 80\u00b4S
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/373.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MTV Hits
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MTV Hits
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/374.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MTV LIVE
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MTV LIVE
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/375.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HITN
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HITN
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/376.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HispanTV WEB
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HispanTV WEB
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/377.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", France 24 (W)
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", France 24 (W)
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/378.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", DW LatinoAmerica (W)
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", DW LatinoAmerica (W)
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/379.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Centro America TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Centro America TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/380.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Cartoon Newtwork
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Cartoon Newtwork
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/381.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Nickelodeon
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Nickelodeon
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/382.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Nicktoon
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/383.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Nick Music
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Nick Music
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/384.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Nick Jr.
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Nick Jr.
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/385.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Boomerang
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Boomerang
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/386.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Tooncast
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Tooncast
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/387.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Discovery Kids
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Discovery Kids
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/388.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NatGeo Kids
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NatGeo Kids
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/389.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Baby First
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Baby First
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/390.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Baby TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Baby TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/391.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Digital 15
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Digital 15
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/392.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Telesistema 11
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Telesistema 11
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/393.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Teleantillas
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Teleantillas
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/394.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Antena Latina
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Antena Latina
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/395.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CDN CADENA DE NOTICIAS
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CDN CADENA DE NOTICIAS
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/396.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Univision Latinoamerica
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Univision Latinoamerica
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/397.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Disney Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Disney Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/398.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Disney Junior
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Disney Junior
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/399.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Disney XD
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Disney XD
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/400.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz Cinema
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz Cinema
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/478.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz Encore Action
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz Encore Action
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/479.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/480.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz Encore Family
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz Encore Family
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/481.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz Encore Classic
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz Encore Classic
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/482.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MEGA TV Miami
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MEGA TV Miami
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/483.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz Edge
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz Edge
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/484.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz Black
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz Black
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/485.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz Encore Suspense
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz Encore Suspense
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/486.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz Encore Western
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz Encore Western
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/487.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", America TeVe
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", America TeVe
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/488.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Wapa TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Wapa TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/489.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MEga TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MEga TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/490.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", La Voz de Maria
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", La Voz de Maria
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/491.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", REL : EWTN LATINO (W)
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", REL : EWTN LATINO (W)
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/492.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NTN 24 News
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NTN 24 News
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/494.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CO : TeleAntioquia
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CO : TeleAntioquia
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/495.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Canal Capital
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Canal Capital
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/496.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", RCN Novelas
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", RCN Novelas
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/497.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TeleCaribe
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TeleCaribe
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/498.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Telemedellin
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Telemedellin
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/499.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Cable Noticias
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Cable Noticias
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/509.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TeleCafe
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TeleCafe
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/501.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Se\u00f1al Colombia
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Se\u00f1al Colombia
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/502.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Ecuavisa
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Ecuavisa
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/524.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Ecuador TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Ecuador TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/525.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TC Television
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TC Television
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/526.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TeleAmazonas
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TeleAmazonas
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/527.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TVC Televicentro
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TVC Televicentro
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/528.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Canal Uno
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Canal Uno
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/529.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", RTS
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", RTS
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/530.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", GamaVision
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", GamaVision
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/531.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", De Peliculas
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", De Peliculas
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/532.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TL Novelas
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TL Novelas
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/533.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Azteca 7
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Azteca 7
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/534.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", AZ Corazon
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", AZ Corazon
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/535.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", AZ Mundo
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", AZ Mundo
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/536.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Azteca Uno
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Azteca Uno
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/537.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", AZ Clic!
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", AZ Clic!
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/538.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Az Cinema
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Az Cinema
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/539.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MEX | Distrito Comedia
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MEX | Distrito Comedia
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/540.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Forotv
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Forotv
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/541.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Telehits
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Telehits
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/542.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Canal Nu9ve
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Canal Nu9ve
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/543.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TVN
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TVN
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/544.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", RPC 4
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", RPC 4
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/545.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Telemetro 13
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Telemetro 13
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/546.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TvMAX 9
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TvMAX 9
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/547.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", PAN | NEX TV 21
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", PAN | NEX TV 21
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/548.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", SerTV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", SerTV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/549.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ECO TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ECO TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/550.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", America TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", America TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/561.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Panamerica
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Panamerica
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/562.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Frecuencia Latina
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Frecuencia Latina
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/563.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Peru Magico
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Peru Magico
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/564.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", IPE TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", IPE TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/565.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", PE | TV PERU
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", PE | TV PERU
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/566.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", BHTV Peru
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", BHTV Peru
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/567.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ATV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ATV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/568.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Canal N
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Canal N
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/569.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Teleradio America
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Teleradio America
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/571.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Hilando Fino
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Hilando Fino
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/572.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TeleSur
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TeleSur
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/573.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", EVtv
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", EVtv
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/574.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TV Venezuela
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TV Venezuela
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/575.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Venevision
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Venevision
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/576.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Venevision Plus ( Ve Plus )
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Venevision Plus ( Ve Plus )
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/577.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TeleTuya
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TeleTuya
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/578.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ViVe TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ViVe TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/579.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TeleVen
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TeleVen
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/580.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Veneplus +
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Veneplus +
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/581.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CO : Canal Uno
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CO : Canal Uno
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/582.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HON : HCH
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HON : HCH
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/584.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", SV : Tele El Salvador
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", SV : Tele El Salvador
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/585.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", SV | Canal 4
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", SV | Canal 4
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/586.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", SV : Canal 6
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", SV : Canal 6
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/587.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", SV : Canal 10
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", SV : Canal 10
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/588.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", SV : Canal 12
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", SV : Canal 12
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/589.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", SV : Canal 19
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", SV : Canal 19
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/590.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", SV : Canal 21
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", SV : Canal 21
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/591.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", SV : WoW TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", SV : WoW TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/592.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", SV : Teledos
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", SV : Teledos
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/593.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", SV : VTV Canal 35
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", SV : VTV Canal 35
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/594.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", SV : TCS+
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", SV : TCS+
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/595.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TNT Series
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TNT Series
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/596.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Natgeo Mundo
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Natgeo Mundo
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/597.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Natgeo Channels
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Natgeo Channels
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/598.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Discovery Investigation MX
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Discovery Investigation MX
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/601.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Discovery Investigation E
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Discovery Investigation E
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/602.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Discovery H&H E
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Discovery H&H E
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/603.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", History Channel E
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", History Channel E
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/604.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBC Universo
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBC Universo
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/606.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HON : Canal 5
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HON : Canal 5
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/607.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Discovery Channel E
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Discovery Channel E
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/608.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", BOL | RTP (P)
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", BOL | RTP (P)
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/614.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", VEN | Meridiano TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", VEN | Meridiano TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/615.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", DO | Catorce 14 TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", DO | Catorce 14 TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/616.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Telenord 8 (W)
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Telenord 8 (W)
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/617.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", DO | Telenord 12 (W) \u2122
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", DO | Telenord 12 (W) \u2122
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/618.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", BOL : Bolivia TV (P)
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", BOL : Bolivia TV (P)
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/619.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", VeVo Latino
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", VeVo Latino
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/620.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CNN Espa\u00f1ol
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CNN Espa\u00f1ol
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/622.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CBN
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CBN
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/635.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Television Dominicana
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Television Dominicana
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/637.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Tv Quisqueya
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Tv Quisqueya
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/638.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", REL : Esne TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", REL : Esne TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/639.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Kanal D Drama
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Kanal D Drama
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/642.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", 24\/7 : Cine PopCorn Cantinflas
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", 24\/7 : Cine PopCorn Cantinflas
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/643.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", RT NOTICIAS
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", RT NOTICIAS
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/644.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", GUA : Canal 3
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", GUA : Canal 3
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/646.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", GUA : Televisiete
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", GUA : Televisiete
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/647.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", GUA : Guatevision
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", GUA : Guatevision
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/648.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", GUA : Canal Antigua
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", GUA : Canal Antigua
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/649.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", GUA : TreceVision
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", GUA : TreceVision
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/650.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CL : Chilevision
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CL : Chilevision
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/654.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HON : TeleCadena 7\/4
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HON : TeleCadena 7\/4
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/655.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HON : Canal 11
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HON : Canal 11
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/656.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HON : Azteca
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HON : Azteca
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/657.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HON : Telesistema
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HON : Telesistema
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/658.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HON : Canal 6
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HON : Canal 6
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/659.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", GUA : TN23
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", GUA : TN23
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/660.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", GUA : Canal 11
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", GUA : Canal 11
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/661.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", COS : Teletica 7
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", COS : Teletica 7
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/662.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", COS : Tele Sistema
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", COS : Tele Sistema
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/663.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", COS : San Jose TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", COS : San Jose TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/664.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CUB : CubaVision
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CUB : CubaVision
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/665.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CUB : Tele Rebelde
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CUB : Tele Rebelde
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/666.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CUB : CubaMax
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CUB : CubaMax
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/667.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CUB : CubaPlay
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CUB : CubaPlay
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/668.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CL : TVN
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CL : TVN
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/669.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CL : Chile 13C
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CL : Chile 13C
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/670.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CL : Mega
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CL : Mega
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/671.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TeleFe
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TeleFe
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/673.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Canal Trece
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Canal Trece
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/674.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", BOL : Bolivision
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", BOL : Bolivision
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/675.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", BOL : Unitel La Paz
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", BOL : Unitel La Paz
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/676.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", BOL : ATB
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", BOL : ATB
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/677.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", BOL : MEga TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", BOL : MEga TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/678.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", COS : Repretel Canal 6
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", COS : Repretel Canal 6
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/679.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", COS : FUTV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", COS : FUTV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/680.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TV Publica
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TV Publica
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/686.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Chinola TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Chinola TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/690.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA DOCUMENTAL
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA DOCUMENTAL
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/694.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Kanal Drama Peru
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Kanal Drama Peru
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/697.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Wipr
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Wipr
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/698.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HGTV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HGTV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/699.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", FoodNetwork
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", FoodNetwork
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/700.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Film&Art
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Film&Art
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/701.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Kanal Drama Internacional
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Kanal Drama Internacional
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/702.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ATV + MAS
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ATV + MAS
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/703.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Sony Movies
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Sony Movies
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/704.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", FX
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", FX
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/705.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Tele Nostalgia
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Tele Nostalgia
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/706.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Dreamworks
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Dreamworks
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/707.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Williax
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Williax
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/708.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NI : Nicaragua Canal 13
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NI : Nicaragua Canal 13
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/709.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NI : Canal 10 Nicaragua
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NI : Canal 10 Nicaragua
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/710.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NI : Canal 4
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NI : Canal 4
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/711.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NI : TN8 Nicaragua
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NI : TN8 Nicaragua
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/712.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NI : Canal 14 Vos TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NI : Canal 14 Vos TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/713.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Novelas Latinas
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Novelas Latinas
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/714.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Fox Sports 1
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Fox Sports 1
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/715.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Fox Sports 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Fox Sports 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/716.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Fox Sports 3
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Fox Sports 3
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/717.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ESPN
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ESPN
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/718.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ESPN 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ESPN 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/719.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ESPN 3
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ESPN 3
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/720.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ESPN EXTRA
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ESPN EXTRA
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/721.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CGTN ESPA\u00d1OL
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CGTN ESPA\u00d1OL
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/722.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Clover Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Clover Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/723.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", LAT > EUROPA europa
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", LAT > EUROPA europa
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/724.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Global
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Global
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/725.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MasChi
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MasChi
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/726.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Colimdo Deportes
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Colimdo Deportes
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/728.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Esperanza TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Esperanza TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/730.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Hope Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Hope Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/731.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Multimedios MX
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Multimedios MX
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/732.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Coral 39
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Coral 39
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/747.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Cine Nostalgia
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Cine Nostalgia
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/748.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Serie del Caribe 1
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Serie del Caribe 1
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/753.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Decadas
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Decadas
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/754.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", VE : Globovision
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", VE : Globovision
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/755.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CDN Deportes
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CDN Deportes
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/756.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Serie del Caribe 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Serie del Caribe 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/758.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ESPN
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ESPN
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/762.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ESPN 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ESPN 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/763.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ESPN 3
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ESPN 3
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/764.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Quatar 2022 Channel 1
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Quatar 2022 Channel 1
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/769.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Quatar 2022 Channel 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Quatar 2022 Channel 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/770.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Quatar 2022 Channel 3
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Quatar 2022 Channel 3
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/771.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ESPN E
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ESPN E
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/780.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Beisbol Dominicano 3
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Beisbol Dominicano 3
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/785.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Wapa 2 Deportes
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Wapa 2 Deportes
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/787.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", REL : TeleVida
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", REL : TeleVida
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/788.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Win Sports Plus +
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Win Sports Plus +
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/789.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Win Sports
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Win Sports
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/790.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Directv Sports 1
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Directv Sports 1
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/791.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Directv Sports 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Directv Sports 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/792.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Directv Sports Plus
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Directv Sports Plus
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/793.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Claro Sports 1
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Claro Sports 1
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/794.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Claro Sports 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Claro Sports 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/795.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ESPN 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ESPN 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/796.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ESPN 3
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ESPN 3
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/797.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ESPN DEPORTES
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ESPN DEPORTES
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/798.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", FOX SPORTS 1 MX
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", FOX SPORTS 1 MX
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/799.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Fox Sports 2 MX
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Fox Sports 2 MX
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/800.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Fox Sports 3 MX
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Fox Sports 3 MX
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/801.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Fox Sports Premium
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Fox Sports Premium
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/802.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", GOL TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", GOL TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/803.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ECDF
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ECDF
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/804.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Direct TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Direct TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/805.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CABLE ONDA SPORTS
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CABLE ONDA SPORTS
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/811.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TyC Sports
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TyC Sports
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/812.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TNT Sports
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TNT Sports
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/813.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", BOL : Tigo Sports 1
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", BOL : Tigo Sports 1
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/814.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", BOL : Tigo Sports 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", BOL : Tigo Sports 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/815.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", GOL PERU
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", GOL PERU
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/816.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Movistar Deportes
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Movistar Deportes
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/817.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Movistar Plus
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Movistar Plus
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/818.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", COS : Tigo Sports C.R.
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", COS : Tigo Sports C.R.
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/819.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CL : TNT SPORTS Premium
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CL : TNT SPORTS Premium
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/820.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", GUA : Tigo Sports
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", GUA : Tigo Sports
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/821.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bein Sports N
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bein Sports N
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/831.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Gol TV Latino
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Gol TV Latino
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/832.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports Indiana
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports Indiana
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/883.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", JBSC Sports Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", JBSC Sports Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/910.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA : TICKET WEB 3
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA : TICKET WEB 3
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/948.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", AR : Paka Paka
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", AR : Paka Paka
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/962.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", GUA : Canal Jesus TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", GUA : Canal Jesus TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/967.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", COS : Multimedios
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", COS : Multimedios
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/972.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ACS Network Retro
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ACS Network Retro
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/989.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Telemundo los Angeles
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Telemundo los Angeles
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/993.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Telemundo Dallas
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Telemundo Dallas
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/994.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HON : Tigo Sports
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HON : Tigo Sports
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/999.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HON : Une TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HON : Une TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1002.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HON : TeleProgreso
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HON : TeleProgreso
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1003.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Amaz0n4501pvision
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", SyS1stemAp0vision
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1007.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Ready TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Ready TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1008.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Milenio Noticias
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Milenio Noticias
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1009 #EXTM3U.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TBS
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TBS
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/6.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Food Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Food Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/7.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HBO
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HBO
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/8.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HBO ZONE
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HBO ZONE
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/9.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Fox 5 NY
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Fox 5 NY
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/34.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CNN
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CNN
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/35.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CBS 2 NY
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CBS 2 NY
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/48.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ABC 7
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ABC 7
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/49.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TLC
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TLC
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/50.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HGTV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HGTV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/51.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBC 4 NY
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBC 4 NY
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/52.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ABC Miami
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ABC Miami
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/53.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CBS 12 WPRI Providence
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CBS 12 WPRI Providence
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/58.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", News 12 New Jersey
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", News 12 New Jersey
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/59.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ABC NEWS
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ABC NEWS
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/60.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CBS NEWS NY
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CBS NEWS NY
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/66.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CBN
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CBN
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/71.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Ion Television
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Ion Television
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/74.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", US | NBC 10 Rodhe Island (WJAR)
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", US | NBC 10 Rodhe Island (WJAR)
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/89.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", USA Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", USA Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/90.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Spectrum News NY1
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Spectrum News NY1
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/93.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", VIP | BLOCKBUSTER 0
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", VIP | BLOCKBUSTER 0
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/94.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", VIP | BLOCKBUSTER 1
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", VIP | BLOCKBUSTER 1
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/95.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Pay-Per-View ( PPV ) Event 3
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Pay-Per-View ( PPV ) Event 3
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/96.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Pay-Per-View ( PPV ) Event 4
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Pay-Per-View ( PPV ) Event 4
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/97.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Pay-Per-View ( PPV ) Event 5
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Pay-Per-View ( PPV ) Event 5
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/98.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", News 12 Bronx
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", News 12 Bronx
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/100.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ShowTime East
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ShowTime East
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/101.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Nasa TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Nasa TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/162.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CA : Discovery Velocity
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CA : Discovery Velocity
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/401.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", US | MY 9 WWOR NY
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", US | MY 9 WWOR NY
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/402.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", One American News Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", One American News Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/403.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CNBC
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CNBC
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/404.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MSNBC
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MSNBC
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/405.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", WRAL-5 TV NBC
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", WRAL-5 TV NBC
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/406.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", 69 WFMZ Philadelphia
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", 69 WFMZ Philadelphia
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/407.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", US | WFTV Orlando
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", US | WFTV Orlando
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/408.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", WETV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", WETV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/409.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Fox News
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Fox News
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/410.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Diy Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Diy Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/411.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Sundance
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Sundance
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/412.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", News 12 Long Island
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", News 12 Long Island
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/413.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Cartoon Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Cartoon Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/414.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Universal Kids
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Universal Kids
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/415.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Nickelodeon
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Nickelodeon
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/416.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Nick Jr
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Nick Jr
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/417.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Teen Nick
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Teen Nick
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/418.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Nicktoon
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/419.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Boomerang
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Boomerang
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/420.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", PBS Kids
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", PBS Kids
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/421.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Disney Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Disney Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/422.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Disney Jr.
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Disney Jr.
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/423.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Disney XD
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Disney XD
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/424.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Baby TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Baby TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/425.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Baby First
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Baby First
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/426.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Oprah Winfrey Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Oprah Winfrey Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/427.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TCM
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TCM
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/428.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", AMC
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", AMC
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/429.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", The CW
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", The CW
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/430.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", E! Entertaiment
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", E! Entertaiment
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/431.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", US | SyFy Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", US | SyFy Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/432.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Oxygen Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Oxygen Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/433.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", LifeTime
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", LifeTime
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/434.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Tru TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Tru TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/435.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Comedy Central
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Comedy Central
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/436.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", BET
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", BET
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/437.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", FX
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", FX
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/438.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", FXM
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", FXM
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/439.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Cooking Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Cooking Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/441.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MTV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MTV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/442.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MTV Classic
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MTV Classic
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/443.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MTV 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MTV 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/444.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", VH1
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", VH1
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/445.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", A&E
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", A&E
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/446.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Travel Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Travel Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/447.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", FreeForm
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", FreeForm
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/448.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Game Show Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Game Show Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/449.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Fox Business Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Fox Business Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/450.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TV LAND
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TV LAND
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/451.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Discovery Channels
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Discovery Channels
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/452.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Discovery Investigation
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Discovery Investigation
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/453.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Discovery Family
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Discovery Family
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/454.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Discovery Science
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Discovery Science
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/455.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Discovery Turbo UK
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Discovery Turbo UK
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/456.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Animal Planet
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Animal Planet
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/457.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", History Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", History Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/458.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NatGeo
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NatGeo
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/459.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NatGeo Wild
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NatGeo Wild
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/460.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HallMark
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HallMark
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/461.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Hallmark Movies & Mist.
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Hallmark Movies & Mist.
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/462.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HallMark Drama
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HallMark Drama
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/463.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HBO 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HBO 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/465.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HBO Family
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HBO Family
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/466.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", HBO Comedy
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", HBO Comedy
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/467.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/468.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz Action
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz Action
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/469.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz Edge
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz Edge
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/470.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz Encore Family
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz Encore Family
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/471.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz Encore Suspense
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz Encore Suspense
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/472.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz Encore Westerns
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz Encore Westerns
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/473.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz In Black
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz In Black
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/474.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz Encore Classic
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz Encore Classic
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/475.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz Comedy
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz Comedy
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/476.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Starz Cinema
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Starz Cinema
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/477.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", EWTN ENGLISH
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", EWTN ENGLISH
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/493.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ShowTime West
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ShowTime West
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/517.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ShowTime Women
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ShowTime Women
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/518.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ShowTime Extreme
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ShowTime Extreme
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/521.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ShowTime ShowCase
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ShowTime ShowCase
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/522.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ShowTime Beyond
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ShowTime Beyond
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/523.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Lifetime Movie
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Lifetime Movie
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/605.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", BRAVO
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", BRAVO
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/609.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Weather Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Weather Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/610.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", WPIX 11 NY
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", WPIX 11 NY
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/611.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Russia Today
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Russia Today
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/612.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", RT Documentary
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", RT Documentary
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/613.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", VeVo PoP England
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", VeVo PoP England
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/621.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", VeVo HiP HoP
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", VeVo HiP HoP
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/623.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CL : La Red
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CL : La Red
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/672.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA Documentary
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA Documentary
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/691.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", 7 Boston (WHDH)
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", 7 Boston (WHDH)
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/692.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", FXX
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", FXX
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/440.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MTV LIVE
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MTV LIVE
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/693.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", BBC America
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", BBC America
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/696.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ShowTime Next
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ShowTime Next
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/519.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/727.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Smithsonian
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Smithsonian
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/729.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NFL Game Ticket 1
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NFL Game Ticket 1
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/733.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NFL Game Ticket 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NFL Game Ticket 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/734.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NFL Game Ticket 3
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NFL Game Ticket 3
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/735.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NFL Game Ticket 4
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NFL Game Ticket 4
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/736.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NFL Game Ticket 5
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NFL Game Ticket 5
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/737.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NFL Game Ticket 6
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NFL Game Ticket 6
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/738.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NFL Game Ticket 7
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NFL Game Ticket 7
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/739.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NFL Game Ticket 8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NFL Game Ticket 8
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/740.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NFL Game Ticket 9
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NFL Game Ticket 9
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/741.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NFL Game Ticket 10
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NFL Game Ticket 10
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/742.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NFL Game Ticket 11
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NFL Game Ticket 11
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/743.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NFL Game Ticket 12
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NFL Game Ticket 12
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/744.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : Mundial 2022 CH-1
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : Mundial 2022 CH-1
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/745.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : Mundial 2022 CH-2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : Mundial 2022 CH-2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/746.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NFL - REDZONE
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NFL - REDZONE
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/749.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Khou 11 Houston
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Khou 11 Houston
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/765.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", US | News 12 Hudson Valley
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", US | News 12 Hudson Valley
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/766.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Paramound Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Paramound Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/767.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Univision Boston
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Univision Boston
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/768.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Quatar 2022 Channel 4
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Quatar 2022 Channel 4
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/772.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TEST : TeleAmaz0n4501p 5 Trascoder
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TEST : TeleSyS1stemAp0 5 Trascoder
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/774.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ESPN
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ESPN
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/775.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TNT ( NBA )
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TNT ( NBA )
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/776.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", YES
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", YES
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/777.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MSG
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MSG
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/778.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", FS1
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", FS1
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/786.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bein Sports USA
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bein Sports USA
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/830.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", US | ESPN 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", US | ESPN 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/851.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ESPN U
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ESPN U
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/852.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ESPN NEWS
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ESPN NEWS
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/853.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", FS2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", FS2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/854.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBC Sports Boston
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBC Sports Boston
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/855.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBC Sports California
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBC Sports California
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/856.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBC Sports Philadelphia
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBC Sports Philadelphia
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/857.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBC Sports Washington
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBC Sports Washington
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/858.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBC Sports Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBC Sports Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/859.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBC Sports Bay Area
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBC Sports Bay Area
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/860.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBC Sports Chicago
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBC Sports Chicago
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/861.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBC Sports Chicago Plus
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBC Sports Chicago Plus
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/862.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports Ohio
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports Ohio
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/866.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports Sun
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports Sun
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/867.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports Florida
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports Florida
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/868.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports Florida Plus
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports Florida Plus
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/869.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports Midwest
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports Midwest
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/870.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports Midwest Plus
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports Midwest Plus
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/872.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports West
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports West
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/873.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports West Plus
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports West Plus
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/874.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports North
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports North
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/875.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports Detroit
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports Detroit
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/876.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports Detroit Plus
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports Detroit Plus
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/877.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports South
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports South
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/878.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports Southeast
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports Southeast
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/879.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports San Diego
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports San Diego
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/880.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports San Diego Plus
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports San Diego Plus
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/881.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports Arizona
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports Arizona
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/882.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports Socal
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports Socal
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/884.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports Cincinnati
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports Cincinnati
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/885.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/886.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB Strike Zone
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB Strike Zone
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/887.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NESN
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NESN
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/888.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", SNY METS
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", SNY METS
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/889.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NFL Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NFL Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/890.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", BTN Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", BTN Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/891.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", CBS Sports Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", CBS Sports Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/892.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Tennis Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Tennis Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/893.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Golf Channel NBC
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Golf Channel NBC
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/894.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MSG + Plus
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MSG + Plus
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/895.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", UFC Fight Pass
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", UFC Fight Pass
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/896.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Fight Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Fight Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/897.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Box Nation
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Box Nation
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/898.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", WWE Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", WWE Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/899.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Olympic Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Olympic Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/900.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TVG Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TVG Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/901.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", TVG 2 Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TVG 2 Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/902.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", USA : WFN World Fishing Network
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", USA : WFN World Fishing Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/903.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", OutDoor Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", OutDoor Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/904.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MotoTrend
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MotoTrend
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/905.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MAV TV
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MAV TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/906.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Spectrum SportsNet Lakers
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Spectrum SportsNet Lakers
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/907.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Spectrum Sportsnet LA
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Spectrum Sportsnet LA
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/908.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", AT&T SportsNet Southwest
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", AT&T SportsNet Southwest
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/909.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : New York Yankees
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : New York Yankees
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/911.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : Astros Houston
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : Astros Houston
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/912.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : Boston Red Sox
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : Boston Red Sox
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/913.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : New York Mets
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : New York Mets
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/914.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : Angeles Dodgers
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : Angeles Dodgers
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/915.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : Arizona Diamondback
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : Arizona Diamondback
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/916.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : San Diego Padres
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : San Diego Padres
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/917.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : Toronto Blue Jays
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : Toronto Blue Jays
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/918.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : Tampa Rays
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : Tampa Rays
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/919.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : Cincinatti Reds
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : Cincinatti Reds
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/920.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : Miami Marlin
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : Miami Marlin
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/921.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : Atlanta Braves
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : Atlanta Braves
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/922.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : St. Louis Cardinals
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : St. Louis Cardinals
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/923.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : Los Angeles Angels
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : Los Angeles Angels
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/924.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : Minnesota Twins
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : Minnesota Twins
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/925.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : Detroit Tigers
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : Detroit Tigers
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/926.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : Oakland Athletics
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : Oakland Athletics
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/927.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : San Francisco Giant
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : San Francisco Giant
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/928.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", MLB : Chicago White Sox
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", MLB : Chicago White Sox
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/929.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", UFC MMA EVENTS
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", UFC MMA EVENTS
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/930.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Boxing PPV ( Event Only )
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Boxing PPV ( Event Only )
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/931.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA - Toronto Raptors
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA - Toronto Raptors
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/932.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA - Los Angeles Lakers
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA - Los Angeles Lakers
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/933.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA - New York Knicks
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA - New York Knicks
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/934.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA - Minnesota Timberwolves
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA - Minnesota Timberwolves
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/935.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA - Chicago Bulls
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA - Chicago Bulls
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/936.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA - Cleveland Cavaliers
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA - Cleveland Cavaliers
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/937.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA - Boston Celtics
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA - Boston Celtics
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/938.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA - Philadelphia 76ers
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA - Philadelphia 76ers
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/939.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA - Golden State Warriors
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA - Golden State Warriors
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/940.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA - Miami Heat
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA - Miami Heat
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/941.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA - Orlando Magic
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA - Orlando Magic
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/942.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA - Atlanta Hawks
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA - Atlanta Hawks
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/943.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA - Los Angeles Clippers
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA - Los Angeles Clippers
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/944.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA - Detroit Pistons
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA - Detroit Pistons
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/945.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA - Sacramento Kings
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA - Sacramento Kings
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/946.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA - Brooklyn Nets
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA - Brooklyn Nets
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/947.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA : TICKET WEB 4
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA : TICKET WEB 4
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/949.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA : TICKET WEB 5
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA : TICKET WEB 5
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/950.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Camara Time Square 1
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Camara Time Square 1
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/969.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Camara Time Square 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Camara Time Square 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/970.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", NBA : Charlotte Hornets
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", NBA : Charlotte Hornets
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/971.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Daystar
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Daystar
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/987.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Pay-Per-View ( PPV ) Event 2
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Pay-Per-View ( PPV ) Event 2
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/988.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Univision Houston
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Univision Houston
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/990.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Univision Los Angeles
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Univision Los Angeles
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/991.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Univision Dallas
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Univision Dallas
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/992.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Telemundo Houston
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Telemundo Houston
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/995.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports Oklahoma
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports Oklahoma
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/996.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Bally Sports Wisconsin
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Bally Sports Wisconsin
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/997.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Univision Philadelphia
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Univision Philadelphia
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/998.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", PPV 5 Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", PPV 5 Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1000.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Cinemax
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Cinemax
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1001.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Pay-Per-View ( PPV ) Event 1
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Pay-Per-View ( PPV ) Event 1
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1004.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Pay-Per-View ( PPV ) Event 6
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Pay-Per-View ( PPV ) Event 6
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1005.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", Pay-Per-View ( PPV ) Event 7
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Pay-Per-View ( PPV ) Event 7
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1006.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="Amaz0n4501p", ShowTime Family Zone
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", ShowTime Family Zone
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/520.m3u8
 
 
