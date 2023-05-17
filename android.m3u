@@ -57,13 +57,11 @@ http://208.88.246.11:4481/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://208.88.246.11:4481/MultimediosPlus/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión (XHTDMX-TDT2)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/milen.png"  group-title="INFORMACIÓN", Milenio Televisión (XHTDMX-TDT2)
 http://23.237.29.98:4481/710MilenioTV/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV (XHTDMX-TDT4)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png"  group-title="ENTRETENIMIENTO", MVS TV (XHTDMX-TDT4)
-http://208.88.246.11:4481/152mx52/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg"  group-title="LOCALES", Azteca 7
 http://208.88.246.11:4481/107azteca7/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png"  group-title="LOCALES", Canal Once
 http://208.88.246.11:4481/111OnceTvMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="XEIPNTDT2TVCanal11.mx" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onin.png"  group-title="LOCALES", Once Niñas y Niños
+#EXTINF:-1 tvg-id="XEIPNTDT2.mx" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onin.png"  group-title="LOCALES", Once Niñas y Niños
 http://208.88.246.11:4481/133once2/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png"  group-title="LOCALES", Canal Catorce
 http://208.88.246.11:4481/130unavoz/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -91,7 +89,7 @@ http://208.88.246.11:4481/andromeda/PASIONES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://208.88.246.11:4481/andromeda/WARNER/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png"  group-title="ENTRETENIMIENTO", Warner
 http://208.88.246.11:4481/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/eent.png"  group-title="ENTRETENIMIENTO", E!
+#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E! Latinoamerica" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/eent.png"  group-title="ENTRETENIMIENTO", E!
 http://208.88.246.11:4481/212E!Latino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png"  group-title="ENTRETENIMIENTO", FX | HD
 http://208.88.246.11:4481/andromeda/FX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -101,9 +99,9 @@ http://208.88.246.11:4481/207FXLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5
 http://208.88.246.11:4481/andromeda/UNIVERSAL/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", Universal
 http://208.88.246.11:4481/203Universal/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png"  group-title="ENTRETENIMIENTO", TNT Series
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series LatinoAmerica" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png"  group-title="ENTRETENIMIENTO", TNT Series
 http://208.88.246.11:4481/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png"  group-title="ENTRETENIMIENTO", SYFY
+#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY Latinoamerica" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png"  group-title="ENTRETENIMIENTO", SYFY
 http://208.88.246.11:4481/204SyFyLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png"  group-title="ENTRETENIMIENTO", TBS
 http://208.88.246.11:4481/223TBS/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -161,7 +159,7 @@ http://208.88.246.11:4481/live/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0
 http://208.88.246.11:4481/250mtvla/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="MTVHits.es" tvg-name="MTV Hits" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvh.png"  group-title="MUSICA", MTV Hits
 http://208.88.246.11:4481/mtvhitsts/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/comedyc.png"  group-title="ENTRETENIMIENTO", Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central Latinoamerica" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/comedyc.png"  group-title="ENTRETENIMIENTO", Comedy Central
 http://208.88.246.11:4481/225CMEDY/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png"  group-title="MUSICA",MTV 00s
 http://23.237.29.98:4481/254VH1/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -189,9 +187,9 @@ http://208.88.246.11:4481/andromeda/DISNEY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9
 http://208.88.246.11:4481/302Disneychannel/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/djr.png"  group-title="KIDS", Disney Junior
 http://208.88.246.11:4481/303DisneyJunior/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png"  group-title="KIDS", Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network Latinoamerica" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png"  group-title="KIDS", Cartoon Network
 http://208.88.246.11:4481/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/baby.png"  group-title="KIDS", Baby TV
+#EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="Baby TV Latino" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/baby.png"  group-title="KIDS", Baby TV
 http://208.88.246.11:4481/315BabyTVLatinAmerica/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/njr.png"  group-title="KIDS", Nick Jr.
 http://208.88.246.11:4481/306NickJrLatinAmerica/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -215,7 +213,7 @@ http://208.88.246.11:4481/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://208.88.246.11:4481/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png"  group-title="CONOCIMIENTO", History | HD
 http://208.88.246.11:4481/andromeda/GOLDENPRE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png"  group-title="CONOCIMIENTO", History
+#EXTINF:-1 tvg-id="History.mx" tvg-name="HCLM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png"  group-title="CONOCIMIENTO", History
 http://208.88.246.11:4481/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/h2.png"  group-title="CONOCIMIENTO", History 2
 http://208.88.246.11:4481/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -265,7 +263,7 @@ http://208.88.246.11:4481/702CNN/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9
 http://208.88.246.11:4481/354Elfinanciero/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png"  group-title="CINE", TNT | HD
 http://208.88.246.11:4481/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png"  group-title="CINE", TNT
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT America Latina" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png"  group-title="CINE", TNT
 http://208.88.246.11:4481/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG"  group-title="CINE", Space | HD
 http://208.88.246.11:4481/andromeda/SPACE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -287,7 +285,7 @@ http://208.88.246.11:4481/andromeda/CINELATINO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%
 http://208.88.246.11:4481/664Cinecanal/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/param.png"  group-title="CINE", Paramount Network
 http://208.88.246.11:4481/615PARAM/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png"  group-title="PREMIUM", HBO
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBOLW" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png"  group-title="PREMIUM", HBO
 http://208.88.246.11:4481/eventox6/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO (Alt.)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png"  group-title="PREMIUM", HBO (Alt.)
 http://208.88.246.11:4481/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -523,7 +521,7 @@ http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SM 16.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/smr.png" group-title="LOCALES REGIONALES",SM 16.1
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Mas 26.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="LOCALES REGIONALES",TV Mas 26.1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTVV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="LOCALES REGIONALES",TV Mas 26.1
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sizart TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sizart.png" group-title="LOCALES REGIONALES",Sizart TV
 https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
@@ -2563,9 +2561,9 @@ https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=mmc&f
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=glewedtv-spanish&f=.m3u8
 
 
-#EXTINF:-1 tvg-id="AandE.co" group-title="ENTRETENIMIENTO", A&E
+#EXTINF:-1 tvg-id="AandE.co" tvg-name="A&E A" group-title="ENTRETENIMIENTO", A&E A
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/417.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="AandE.co" group-title="ENTRETENIMIENTO", A&E HD
+#EXTINF:-1 tvg-id="AandE.co" tvg-name="A&E A" group-title="ENTRETENIMIENTO", A&E HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/423.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="Amas.mx" group-title="LOCALES", A Más
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/400.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2573,17 +2571,17 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/400.ts|Us
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/403.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="Adn40.mx" group-title="LOCALES", ADN 40
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/440.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="AMC.co" group-title="CINE", AMC
+#EXTINF:-1 tvg-id="AMC.co" tvg-name="AMC A" group-title="CINE", AMC A
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/426.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="AMC.co" group-title="CINE", AMC HD
+#EXTINF:-1 tvg-id="AMC.co" tvg-name="AMC A" group-title="CINE", AMC HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/432.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="AmericaTV.ar" group-title="INTERNACIONAL", America TV |AR|
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/1169.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="" group-title="INTERNACIONAL", America TV |PE|
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/404.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="AnimalPlanet.co" group-title="CONOCIMIENTO", Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.co" tvg-name="Animal Planet C" group-title="CONOCIMIENTO", Animal Planet C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/441.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="AnimalPlanet.co" group-title="CONOCIMIENTO", Animal Planet HD
+#EXTINF:-1 tvg-id="AnimalPlanet.co" tvg-name="Animal Planet C" group-title="CONOCIMIENTO", Animal Planet HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/444.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="Antena3.es" group-title="INTERNACIONAL", Antena 3  |ES°
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/401.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2591,9 +2589,9 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/401.ts|Us
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/1178.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="" group-title="INTERNACIONAL", ATV |PE|
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/407.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="AXN.co" group-title="ENTRETENIMIENTO", AXN
+#EXTINF:-1 tvg-id="AXN.co" tvg-name="AXN C" group-title="ENTRETENIMIENTO", AXN C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/435.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="AXN.co" group-title="ENTRETENIMIENTO", AXN HD
+#EXTINF:-1 tvg-id="AXN.co" tvg-name="AXN C" group-title="ENTRETENIMIENTO", AXN HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/438.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="Cinema.mx" group-title="CINE", Cinema
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/414.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2631,25 +2629,25 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/473.ts|Us
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/476.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="CaracolTVCanal1.co" group-title="INTERNACIONAL", Caracol SD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/481.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="CartoonNetwork.co" group-title="KIDS", Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-name="Cartoon Network C" group-title="KIDS", Cartoon Network C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/467.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="CartoonNetwork.co" group-title="KIDS", Cartoon Network HD
+#EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-name="Cartoon Network C" group-title="KIDS", Cartoon Network HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/470.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="CartoonNetwork.co" group-title="KIDS", Cartoon Network HD
+#EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-name="Cartoon Network C" group-title="KIDS", Cartoon Network HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/472.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="" group-title="INTERNACIONAL", CHILEVISION |CHILE|
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/1155.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="Cinecanal.co" group-title="CINE", Cinecanal ESTE
+#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="Cinecanal ESTE" group-title="CINE", Cinecanal ESTE
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/482.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="Cinecanal.co" group-title="CINE", Cinecanal ESTE HD
+#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="Cinecanal ESTE" group-title="CINE", Cinecanal ESTE HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/485.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="CinemaDinamita.co" group-title="CINE", Cinema Dinamita
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/493.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="CineLatino.mx" group-title="CINE", CineLatino
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/492.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="Cinemax.co" group-title="CINE", Cinemax ESTE
+#EXTINF:-1 tvg-id="Cinemax.co" tvg-name="Cinemax ESTE" group-title="CINE", Cinemax ESTE
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/486.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="Cinemax.mx" group-title="CINE", Cinemax OESTE HD
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax OESTE HD" group-title="CINE", Cinemax OESTE HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/491.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="CityTVBogota.co" group-title="INTERNACIONAL", City TV |CO|
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/494.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2659,7 +2657,7 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/1144.ts|U
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/496.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="COLORVISION.do" group-title="INTERNACIONAL", Canal 9 Color Vision |RD|
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/507.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="ComedyCentral.co" group-title="ENTRETENIMIENTO", Comedy Central HD
+#EXTINF:-1 tvg-id="ComedyCentral.co" tvg-name="Comedy Central HD C" group-title="ENTRETENIMIENTO", Comedy Central HD C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/506.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="CronicaTV.ar" group-title="INTERNACIONAL", Cronica |AR|
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/508.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2671,27 +2669,27 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/509.ts|Us
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/513.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="DIGITAL15.do" group-title="INTERNACIONAL", DIGITAL 15 |RD|
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/1179.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="DiscoveryChannel.co" group-title="CONOCIMIENTO", Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.co" tvg-name="Discovery C" group-title="CONOCIMIENTO", Discovery C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/514.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="DiscoveryChannel.co" group-title="CONOCIMIENTO", Discovery Channel HD
+#EXTINF:-1 tvg-id="DiscoveryChannel.co" tvg-name="Discovery C"  group-title="CONOCIMIENTO", Discovery Channel HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/518.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="HGTV.co" group-title="CONOCIMIENTO", HGTV
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/519.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.co" group-title="CONOCIMIENTO", Discovery H&H
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.co" tvg-name="Discovery H&H C" group-title="CONOCIMIENTO", Discovery H&H C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/520.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.co" group-title="CONOCIMIENTO", Discovery H&H HD
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.co" tvg-name="Discovery H&H C" group-title="CONOCIMIENTO", Discovery H&H HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/524.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="DiscoveryKids.co" group-title="KIDS", Discovery Kids
+#EXTINF:-1 tvg-id="DiscoveryKids.co" tvg-name="Discovery Kids C" group-title="KIDS", Discovery Kids C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/525.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="DiscoveryKids.co" group-title="KIDS", Discovery Kids HD
+#EXTINF:-1 tvg-id="DiscoveryKids.co" tvg-name="Discovery Kids C" group-title="KIDS", Discovery Kids HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/531.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="DiscoveryScience.co" group-title="CONOCIMIENTO", Discovery Science
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/532.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="DiscoveryTheater.do" group-title="CONOCIMIENTO", Discovery Theater
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/535.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="TLC.co" group-title="ENTRETENIMIENTO", Discovery TLC
+#EXTINF:-1 tvg-id="TLC.co" tvg-name="Discovery TLC C" group-title="ENTRETENIMIENTO", Discovery TLC C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/544.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="TLC.co" group-title="ENTRETENIMIENTO", Discovery TLC HD
+#EXTINF:-1 tvg-id="TLC.co" tvg-name="Discovery TLC C" group-title="ENTRETENIMIENTO", Discovery TLC HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/548.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.co" group-title="CONOCIMIENTO", Discovery Turbo
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/549.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2701,13 +2699,13 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/550.ts|Us
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/552.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="DisneyChannel.co" group-title="KIDS", Disney Chanel HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/561.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="DisneyChannel.co" group-title="KIDS", Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.co" tvg-name="Disney Channel C" group-title="KIDS", Disney Channel C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/558.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="DisneyChannel.co" group-title="KIDS", Disney Channel HD
+#EXTINF:-1 tvg-id="DisneyChannel.co" tvg-name="Disney Channel C" group-title="KIDS", Disney Channel HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/559.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="DisneyJunior.co" group-title="KIDS", Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.co" tvg-name="Disney Junior C" group-title="KIDS", Disney Junior C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/563.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="DisneyJunior.co" group-title="KIDS", Disney Junior HD
+#EXTINF:-1 tvg-id="DisneyJunior.co" tvg-name="Disney Junior C" group-title="KIDS", Disney Junior HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/564.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" group-title="ENTRETENIMIENTO", Distrito Comedia HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/572.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2723,7 +2721,7 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/580.ts|Us
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/579.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="Enlace.co" group-title="RELIGIÓN", ENLACE (Religion)
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/1186.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="EEntertainmenttv.co" group-title="ENTRETENIMIENTO", E! Entertainment
+#EXTINF:-1 tvg-id="EEntertainmenttv.co" tvg-name="E! Entertainment C" group-title="ENTRETENIMIENTO", E! Entertainment C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/582.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" group-title="ENTRETENIMIENTO", Estrella TV |US|
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/1125.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2735,11 +2733,11 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/583.ts|Us
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/586.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="" group-title="MUSICA", FoxMix (Musica)
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/1142.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="FX.co" group-title="ENTRETENIMIENTO", FX
+#EXTINF:-1 tvg-id="FX.co" tvg-name="FX C" group-title="ENTRETENIMIENTO", FX C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/601.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="FX.co" group-title="ENTRETENIMIENTO", FX HD
+#EXTINF:-1 tvg-id="FX.co" tvg-name="FX C" group-title="ENTRETENIMIENTO", FX HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/602.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="FX.co" group-title="ENTRETENIMIENTO", FX HD
+#EXTINF:-1 tvg-id="FX.co" tvg-name="FX C" group-title="ENTRETENIMIENTO", FX HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/604.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).co" group-title="ENTRETENIMIENTO", Galavision
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/608.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2747,7 +2745,7 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/608.ts|Us
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/609.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="Glitz.co" group-title="ENTRETENIMIENTO", Glitz
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/610.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="Golden.co" group-title="CINE", Golden
+#EXTINF:-1 tvg-id="Golden.co" tvg-name="Golden CAmerica" group-title="CINE", Golden CAmerica
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/611.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="GoldenEdge.mx" group-title="CINE", Golden Edge
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/613.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2773,9 +2771,9 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/658.ts|Us
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/637.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="HBOPlus.mx" group-title="PREMIUM", HBO Plus HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/640.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="HBOPop.co" group-title="PREMIUM", HBO POP
+#EXTINF:-1 tvg-id="HBOPop.co" tvg-name="HBO POP E" group-title="PREMIUM", HBO POP E
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/652.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="HBOPop.co" group-title="PREMIUM", HBO POP HD
+#EXTINF:-1 tvg-id="HBOPop.co" tvg-name="HBO POP E" group-title="PREMIUM", HBO POP E
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/655.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="HBOSignature.mx" group-title="PREMIUM", HBO Signature
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/642.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2787,13 +2785,13 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/647.ts|Us
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/650.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="HGTV.co" group-title="CONOCIMIENTO", HGTV
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/659.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="History2.co" group-title="CONOCIMIENTO", HISTORY 2
+#EXTINF:-1 tvg-id="History2.co" tvg-name="HISTORY 2 C" group-title="CONOCIMIENTO", HISTORY 2 C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/666.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="History.co" group-title="CONOCIMIENTO", History Channel
+#EXTINF:-1 tvg-id="History.co" tvg-name="HISTORY C" group-title="CONOCIMIENTO", HISTORY C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/660.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="History.co" group-title="CONOCIMIENTO", History Channel HD
+#EXTINF:-1 tvg-id="History.co" tvg-name="HISTORY C" group-title="CONOCIMIENTO", History Channel HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/662.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="History.co" group-title="CONOCIMIENTO", History Channel HD
+#EXTINF:-1 tvg-id="History.co" tvg-name="HISTORY C" group-title="CONOCIMIENTO", History Channel HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/665.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="HolaTV.co" group-title="ENTRETENIMIENTO", Hola TV
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/669.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2803,9 +2801,9 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/671.ts|Us
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/668.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="ImagenTV.mx" group-title="LOCALES", Imagen TV
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/672.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="ID.co" group-title="ENTRETENIMIENTO", Investigation Discovery
+#EXTINF:-1 tvg-id="ID.co" tvg-name="Investigation Discovery C" group-title="ENTRETENIMIENTO", Investigation Discovery C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/673.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="ID.co" group-title="ENTRETENIMIENTO", Investigation Discovery HD
+#EXTINF:-1 tvg-id="ID.co" tvg-name="Investigation Discovery C" group-title="ENTRETENIMIENTO", Investigation Discovery HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/679.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="" group-title="INTERNACIONAL", LA RED |CHILE|
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/1153.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2833,9 +2831,9 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/702.ts|Us
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/703.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="XHAWTDT.mx" group-title="LOCALES REGIONALES", Canal 6 MTY
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/707.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="NationalGeographic.co" group-title="CONOCIMIENTO", Nat Geo
+#EXTINF:-1 tvg-id="NationalGeographic.co" tvg-name="Nat Geo C" group-title="CONOCIMIENTO", Nat Geo C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/708.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="NationalGeographic.co" group-title="CONOCIMIENTO", Nat Geo HD
+#EXTINF:-1 tvg-id="NationalGeographic.co" tvg-name="Nat Geo C" group-title="CONOCIMIENTO", Nat Geo HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/712.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="NatGeoMundo(Spanish).us" group-title="CONOCIMIENTO", NatGeo Mundo
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/1131.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2869,7 +2867,7 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/1110.ts|U
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/735.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="ParamountNetwork.co" group-title="CINE", Paramount HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/739.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="PasionesTV.co" group-title="ENTRETENIMIENTO", Pasiones
+#EXTINF:-1 tvg-id="PasionesTV.co" tvg-name="Pasiones LA" group-title="ENTRETENIMIENTO", Pasiones LA
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/746.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="PasionesTV.co" group-title="ENTRETENIMIENTO", Pasiones HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/748.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2883,19 +2881,19 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/1146.ts|U
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/744.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="SenalColombia.co" group-title="INTERNACIONAL", Señal Colombia |CO|
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/749.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="SonyChannel.co" group-title="ENTRETENIMIENTO", Sony
+#EXTINF:-1 tvg-id="SonyChannel.co" tvg-name="Sony E" group-title="ENTRETENIMIENTO", Sony E
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/750.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="SonyChannel.co" group-title="ENTRETENIMIENTO", Sony HD
+#EXTINF:-1 tvg-id="SonyChannel.co" tvg-name="Sony E" group-title="ENTRETENIMIENTO", Sony HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/754.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="Space.co" group-title="CINE", Space
+#EXTINF:-1 tvg-id="Space.co" tvg-name="Space C" group-title="CINE", Space C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/756.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="Space.co" group-title="CINE", Space HD
+#EXTINF:-1 tvg-id="Space.co" tvg-name="Space C" group-title="CINE", Space HD
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/759.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="StarChannel.co" group-title="ENTRETENIMIENTO", Star Channel
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/588.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="StarChannel.ar" group-title="ENTRETENIMIENTO", Star Channel HD
+#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="Star Channel HD Ar" group-title="ENTRETENIMIENTO", Star Channel HD Ar
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/591.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="StarChannel.co" group-title="ENTRETENIMIENTO", Star Channel HD
+#EXTINF:-1 tvg-id="StarChannel.co" tvg-name="Star Channel HD C" group-title="ENTRETENIMIENTO", Star Channel HD C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/595.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="TBS.ar" group-title="ENTRETENIMIENTO", TBS
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/765.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2941,7 +2939,7 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/1126.ts|U
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/399.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="" group-title="MUSICA", Top Latino (Musica)
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/1139.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="" group-title="LOCALES REGIONALES", Tv MAS
+#EXTINF:-1 tvg-id="" tvg-name="RTVV" group-title="LOCALES REGIONALES", Tv MAS
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/815.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="" group-title="INTERNACIONAL", TV Peru
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/814.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
@@ -2949,7 +2947,7 @@ http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/814.ts|Us
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/817.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="UniMas(Spanish).us" group-title="ENTRETENIMIENTO", Unimas
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/819.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-#EXTINF:-1 tvg-id="UniversalTV.co" group-title="ENTRETENIMIENTO", Universal TV HD
+#EXTINF:-1 tvg-id="UniversalTV.co" tvg-name="Universal TV HD C" group-title="ENTRETENIMIENTO", Universal TV HD C
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/822.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
 #EXTINF:-1 tvg-id="Universo(Spanish).us" group-title="ENTRETENIMIENTO", Universo |US|
 http://nffthex0kzt.xyz/rk/pagatulista202369/Paga20TUlistaCOchino202369/850.ts|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
