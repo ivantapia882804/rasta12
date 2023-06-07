@@ -453,7 +453,7 @@ https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="" group-title="LOCALES",TV Migrante
 https://s6.mexside.net:1936/migrantetv/migrantetv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unam.png" group-title="LOCALES",TV UNAM
-https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8
+https://60ed5b6d0df78.streamlock.net:1936/tvunam/tvunam/playlist.m3u8
 #EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="LOCALES",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="MX Nuestro Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="LOCALES",MX Nuestro Cine
@@ -525,7 +525,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="INTERNACIONAL",DW (Español)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INTERNACIONAL", France 24
-https://60ed5b6d0df78.streamlock.net:1936/video/video/playlist.m3u8
+https://60ed5b6d0df78.streamlock.net:1936/france24/france24/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-logo="" group-title="ENTRETENIMIENTO", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCALES", AZTECA UNO (SIN CORTES)
