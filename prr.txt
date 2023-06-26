@@ -55,7 +55,7 @@ http://208.88.246.11:4481/203Universal/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5
 http://208.88.246.11:4481/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", SYFY
 http://208.88.246.11:4481/204SyFyLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", TBS
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TNT Novelas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tntn.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", TNT Novelas
 http://208.88.246.11:4481/223TBS/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ID.mx" tvg-name="ID | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", ID | HD
 http://208.88.246.11:4481/andromeda/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
@@ -305,7 +305,7 @@ http://190.61.102.67:31589/play/a01i/index.m3u8
 http://190.61.102.67:31589/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="EEntertainmentTV.mx" group-title="ENTRETENIMIENTO", 248 E!
 http://190.61.102.67:31589/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="TBS.co" group-title="ENTRETENIMIENTO", 250 TBS
+#EXTINF:-1 tvg-id="TBS.co" group-title="ENTRETENIMIENTO", 250 TNTNV
 http://190.61.102.67:31589/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.mx" group-title="ENTRETENIMIENTO", 21 - 252 ComedyC
 http://190.61.102.67:31589/play/a04a/index.m3u8
@@ -927,7 +927,7 @@ http://nffthex0kzt.xyz/rk/HgdghfxxgdsghxfbbgfhgdsghvpolggbnvcxzdGA/Mbcczchdsawdg
 http://nffthex0kzt.xyz/rk/HgdghfxxgdsghxfbbgfhgdsghvpolggbnvcxzdGA/Mbcczchdsawdggvvtdghcxbjurswdvhfdgvcjhgrf/591.ts
 #EXTINF:-1 tvg-id="StarChannel.co" group-title="ENTRETENIMIENTO" User-Agent="NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2", Star Channel HD
 http://nffthex0kzt.xyz/rk/HgdghfxxgdsghxfbbgfhgdsghvpolggbnvcxzdGA/Mbcczchdsawdggvvtdghcxbjurswdvhfdgvcjhgrf/595.ts
-#EXTINF:-1 tvg-id="TBS.ar" group-title="ENTRETENIMIENTO" User-Agent="NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2", TBS
+#EXTINF:-1 tvg-id="TBS.ar" group-title="ENTRETENIMIENTO" User-Agent="NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2", TNT Novelas
 http://nffthex0kzt.xyz/rk/HgdghfxxgdsghxfbbgfhgdsghvpolggbnvcxzdGA/Mbcczchdsawdggvvtdghcxbjurswdvhfdgvcjhgrf/765.ts
 #EXTINF:-1 tvg-id="" group-title="INTERNACIONAL" User-Agent="NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2", TC |EC|
 http://nffthex0kzt.xyz/rk/HgdghfxxgdsghxfbbgfhgdsghvpolggbnvcxzdGA/Mbcczchdsawdggvvtdghcxbjurswdvhfdgvcjhgrf/769.ts
@@ -2254,8 +2254,8 @@ http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1007.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Ready TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1008.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Milenio Noticias
-http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1009 #EXTM3U.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TBS
+http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1009.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", TNT Novelas
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/6.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS" user-agent="SyS1stemAp0", Food Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/7.m3u8
@@ -2889,7 +2889,7 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/16585
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/16591
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",T-UDN MX
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/16592
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TBS
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)", TNT Novelas
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/16594
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TeleHit
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/81016
@@ -4291,7 +4291,7 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38557
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38458
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",I-SyFy HD
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37974
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TBS Latino
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TNT Novelas
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38496
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",I-Telemetro 13 Encoder (PA)
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38570
@@ -4537,9 +4537,9 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/19677
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/3064
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",T-UDN USA Network
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/50395
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TBS SD =
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TNT Novelas
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/3120
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TBS Very Fun
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)", TNT Novelas
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/56587
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TELEFORMULA
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1865
@@ -5107,7 +5107,7 @@ https://vivo.lamtv.tv:8081/a/0100/playlist.m3u8
 https://vivo.lamtv.tv:8081/a/0149/playlist.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS 2" user-agent="Xskdnjoksdna34nm", TCM
 https://vivo.lamtv.tv:8081/a/0099/playlist.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS 2" user-agent="Xskdnjoksdna34nm", TBS
+#EXTINF:-1 group-title="CANALES VARIADOS 2" user-agent="Xskdnjoksdna34nm", TNT Novelas
 https://vivo.lamtv.tv:8081/a/0098/playlist.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS 2" user-agent="Xskdnjoksdna34nm", SYFY
 https://vivo.lamtv.tv:8081/a/0097/playlist.m3u8

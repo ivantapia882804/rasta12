@@ -54,8 +54,10 @@ http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 http://nffthex0kzt.xyz/rk/HgdghfxxgdsghxfbbgfhgdsghvpolggbnvcxzdGA/Mbcczchdsawdggvvtdghcxbjurswdvhfdgvcjhgrf/863.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports (HD)
 http://190.61.102.67:31589/play/a053/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RECOMENDADOS", CANAL 4 TCS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="RECOMENDADOS", CANAL 4 TCS
 http://181.189.243.198:8000/play/a06f/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="RECOMENDADOS",TCS+
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png"  group-title="RECOMENDADOS", Univisión
 http://208.88.246.11:4481/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png"  group-title="RECOMENDADOS", UniMas
@@ -120,7 +122,7 @@ http://208.88.246.11:4481/203Universal/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5
 http://208.88.246.11:4481/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY LA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png"  group-title="ENTRETENIMIENTO", SYFY LA
 http://208.88.246.11:4481/204SyFyLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png"  group-title="ENTRETENIMIENTO", TBS
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TNT Novelas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tntn.png"  group-title="ENTRETENIMIENTO", TNT Novelas
 http://208.88.246.11:4481/223TBS/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="ID.mx" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png"  group-title="ENTRETENIMIENTO", ID | HD
 http://208.88.246.11:4481/andromeda/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -370,7 +372,7 @@ http://190.61.102.67:31589/play/a01i/index.m3u8
 http://190.61.102.67:31589/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="EEntertainmentTV.mx" group-title="ENTRETENIMIENTO", 248 E!
 http://190.61.102.67:31589/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="TBS.co" group-title="ENTRETENIMIENTO", 250 TBS
+#EXTINF:-1 tvg-id="TBS.co" group-title="ENTRETENIMIENTO", 250 TNTNV
 http://190.61.102.67:31589/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.mx" group-title="ENTRETENIMIENTO", 21 - 252 ComedyC
 http://190.61.102.67:31589/play/a04a/index.m3u8
@@ -1209,7 +1211,7 @@ https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=SDFASDFASD
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd
-#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS America Latina" tvg-logo="https://logo.iptveditor.com/tbs.png" group-title="ENTRETENIMIENTO",TBS SD
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TNT Novelas" tvg-logo="" group-title="ENTRETENIMIENTO", TNT NOVELAS SD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2875,7 +2877,7 @@ http://nffthex0kzt.xyz/rk/HgdghfxxgdsghxfbbgfhgdsghvpolggbnvcxzdGA/Mbcczchdsawdg
 http://nffthex0kzt.xyz/rk/HgdghfxxgdsghxfbbgfhgdsghvpolggbnvcxzdGA/Mbcczchdsawdggvvtdghcxbjurswdvhfdgvcjhgrf/591.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 tvg-id="StarChannel.co" tvg-name="Star Channel HD C" group-title="ENTRETENIMIENTO", Star Channel HD C
 http://nffthex0kzt.xyz/rk/HgdghfxxgdsghxfbbgfhgdsghvpolggbnvcxzdGA/Mbcczchdsawdggvvtdghcxbjurswdvhfdgvcjhgrf/595.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 tvg-id="TBS.ar" group-title="ENTRETENIMIENTO", TBS
+#EXTINF:-1 tvg-id="TBS.ar" group-title="ENTRETENIMIENTO", TNT Novelas
 http://nffthex0kzt.xyz/rk/HgdghfxxgdsghxfbbgfhgdsghvpolggbnvcxzdGA/Mbcczchdsawdggvvtdghcxbjurswdvhfdgvcjhgrf/765.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 tvg-id="" group-title="INTERNACIONAL", TC |EC|
 http://nffthex0kzt.xyz/rk/HgdghfxxgdsghxfbbgfhgdsghvpolggbnvcxzdGA/Mbcczchdsawdggvvtdghcxbjurswdvhfdgvcjhgrf/769.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
@@ -4106,8 +4108,8 @@ http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1007.m3u8|user-agent=SyS1st
 #EXTINF:-1 group-title="CANALES VARIADOS", Ready TV
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1008.m3u8|user-agent=SyS1stemAp0
 #EXTINF:-1 group-title="CANALES VARIADOS", Milenio Noticias
-http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1009 #EXTM3U.m3u8|user-agent=SyS1stemAp0
-#EXTINF:-1 group-title="CANALES VARIADOS", TBS
+http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1009.m3u8|user-agent=SyS1stemAp0
+#EXTINF:-1 group-title="CANALES VARIADOS", TNT Novelas
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/6.m3u8|user-agent=SyS1stemAp0
 #EXTINF:-1 group-title="CANALES VARIADOS", Food Network
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/7.m3u8|user-agent=SyS1stemAp0
@@ -4741,7 +4743,7 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/16585
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/16591
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",T-UDN MX
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/16592
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TBS
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TNT Novelas
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/16594
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TeleHit
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/81016
@@ -6143,7 +6145,7 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38557
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38458
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",I-SyFy HD
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37974
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TBS Latino
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TNT Novelas
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38496
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",I-Telemetro 13 Encoder (PA)
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38570
@@ -6389,9 +6391,9 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/19677
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/3064
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",T-UDN USA Network
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/50395
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TBS SD =
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TNT Novelas
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/3120
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TBS Very Fun
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TNT Novelas
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/56587
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TELEFORMULA
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1865
@@ -6959,7 +6961,7 @@ https://vivo.lamtv.tv:8081/a/0100/playlist.m3u8|user-agent=Xskdnjoksdna34nm
 https://vivo.lamtv.tv:8081/a/0149/playlist.m3u8|user-agent=Xskdnjoksdna34nm
 #EXTINF:-1 group-title="CANALES VARIADOS 2", TCM
 https://vivo.lamtv.tv:8081/a/0099/playlist.m3u8|user-agent=Xskdnjoksdna34nm
-#EXTINF:-1 group-title="CANALES VARIADOS 2", TBS
+#EXTINF:-1 group-title="CANALES VARIADOS 2", TNT Novelas
 https://vivo.lamtv.tv:8081/a/0098/playlist.m3u8|user-agent=Xskdnjoksdna34nm
 #EXTINF:-1 group-title="CANALES VARIADOS 2", SYFY
 https://vivo.lamtv.tv:8081/a/0097/playlist.m3u8|user-agent=Xskdnjoksdna34nm
@@ -7939,9 +7941,9 @@ https://v3.playerlatino.live/stream/m3u8/151|user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/758|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="ENTRETENIMIENTO", SyFy
 https://v3.playerlatino.live/stream/m3u8/648|user-agent=Lavf/57.71.001
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="ENTRETENIMIENTO", TBS Very Funny
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", TNT Novelas
 https://v3.playerlatino.live/stream/m3u8/171|user-agent=Lavf/57.71.001
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="ENTRETENIMIENTO", TBS Very Funny
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", TNT Novelas
 https://v3.playerlatino.live/stream/m3u8/831|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="ENTRETENIMIENTO", TC Ecuador
 https://v3.playerlatino.live/stream/m3u8/885|user-agent=Lavf/57.71.001
@@ -8189,7 +8191,7 @@ https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/110.m3u8|user-agent=tupl
 https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/111.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-name="TCM" tvg-logo="" group-title="CINE",TCM
 https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/112.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="TBS" tvg-logo="" group-title="ENTRETENIMIENTO",TBS
+#EXTINF:-1 tvg-name="TNT Novelas" tvg-logo="" group-title="ENTRETENIMIENTO",TNT Novelas
 https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/113.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-name="Studio Universal" tvg-logo="" group-title="CINE",Studio Universal
 https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/115.m3u8|user-agent=tuplayer
@@ -9354,7 +9356,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1159/manifest.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,TBS 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,TNT Novelas 
 https://anbalancer.express.com.ar/live/c1eds/TBS/SA_DASH_cipix/TBS.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
