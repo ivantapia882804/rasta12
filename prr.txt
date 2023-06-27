@@ -55,8 +55,6 @@ http://208.88.246.11:4481/203Universal/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5
 http://208.88.246.11:4481/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", SYFY
 http://208.88.246.11:4481/204SyFyLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TNT Novelas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tntn.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", TNT Novelas
-http://208.88.246.11:4481/223TBS/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ID.mx" tvg-name="ID | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", ID | HD
 http://208.88.246.11:4481/andromeda/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ID.mx" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", ID
@@ -305,8 +303,6 @@ http://190.61.102.67:31589/play/a01i/index.m3u8
 http://190.61.102.67:31589/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="EEntertainmentTV.mx" group-title="ENTRETENIMIENTO", 248 E!
 http://190.61.102.67:31589/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="TBS.co" group-title="ENTRETENIMIENTO", 250 TNTNV
-http://190.61.102.67:31589/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.mx" group-title="ENTRETENIMIENTO", 21 - 252 ComedyC
 http://190.61.102.67:31589/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="EXATV.mx" group-title="MUSICA", 264 EXETV
