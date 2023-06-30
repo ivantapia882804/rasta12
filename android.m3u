@@ -55,7 +55,7 @@ http://208.88.246.11:4481/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png"  group-title="RECOMENDADOS", Claro Sports
 http://208.88.246.11:4481/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="RECOMENDADOS", CANAL 4 TCS
-http://181.189.243.198:8000/play/a06f/index.m3u8
+http://dev.movilesypc.com/hls/canal4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="RECOMENDADOS",TCS+
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png"  group-title="RECOMENDADOS", Univisión
@@ -64,7 +64,7 @@ http://208.88.246.11:4481/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://208.88.246.11:4481/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png"  group-title="RECOMENDADOS", TUDN USA
 http://208.88.246.11:4481/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1  tvg-id="FoxDeportes(Spanish).us" tvg-name="FOX DEPORTES" group-title="RECOMENDADOS", FOX DEPORTES
+#EXTINF:-1  tvg-id="FoxDeportesHD(Spanish).us" tvg-name="FOX DEPORTES" group-title="RECOMENDADOS", FOX DEPORTES
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/40910.m3u8
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo 51 Miami" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png"  group-title="RECOMENDADOS", Telemundo 51 Miami
 http://23.237.108.226/hls/TELEMUNDO.m3u8|User-Agent=Roku/DVP(10.10.10)
@@ -6671,6 +6671,784 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38558.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/111080.m3u8
 
 
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", A&E   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/119339.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", A&E
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26749.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", A&E HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26925.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", A3 INT
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26906.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", A3 Series ES
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26971.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", AMC  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26931.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", AMC   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/116476.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", AMC
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26744.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", AXN HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26922.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", AXN  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/119331.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", AXN 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26761.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", CineCanal HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26903.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", CineCanal   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1927.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Cinecanal
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26753.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Cinemax HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1444.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Cinemax  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/116478.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Cinemax  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26743.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Comedy Central HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26929.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Comedy Central
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1446.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", De Pelicula HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1448.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", De Película
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26754.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", De Pelicula Plus HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1449.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", De Pelicula Plus
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1450.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Distrito Comedia HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26923.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Distrito Comedia
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1451.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", E! HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26913.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", E!
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26760.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", El Gourmet HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26928.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Europa Europa HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26755.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Film & Arts
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26745.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Food Network HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26909.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Food Network
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26748.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", FX HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26924.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", FX
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26746.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", FX MEX  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/119334.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", CINE -HBO Xtreme  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1458.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Panico MEX (TV) 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/119335.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Golden  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1473.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Golden
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1472.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Golden Edge  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1478.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Golden Plus HD [Dual Audio]
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1476.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Golden Plus
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1477.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Golden Premiere HD [Dual Audio]
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1474.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Golden Premiere 2  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/69893.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1040.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1041.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO 2   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1031.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO 2  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1913.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO 2  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1032.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO 2 HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/52876.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO Family   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1034.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO Family  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1035.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO Mundi  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/52878.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO Mundi  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/53238.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO Plus HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1434.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO Plus
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/5340.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO POP HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1479.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO Signature  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/52879.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO Signature
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/53240.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO Xtreme HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1481.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO Xtreme HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1482.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HBO HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/141189.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", De Pelicula Clasico  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/69583.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Cine Latino HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1926.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", I.Sat
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26752.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Lifetime HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26914.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Paramount Channel HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1486.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Paramount Channel  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1485.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Showtime East Dual HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/53245.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Showtime West Dual HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/53243.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Sony Channel HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26910.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Sony Movies  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/154351.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Sony Novelas  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/154352.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Sony Comedias  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/154353.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Sony Channel  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1487.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Sony Channel
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26747.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Space  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/74409.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Space   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/74410.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Space MX (TV)HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26904.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Space HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26759.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Sony Cine HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1929.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TNT HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26926.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TNT  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1503.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TNT
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26763.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TNT Series HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26907.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TNT Series  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1504.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TNT Series   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1043.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TNT Series  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1044.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TNT Series COL   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/119337.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", STAR Channel HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26901.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", STAR Channel HD [Dual Audio]
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1454.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", STAR Channel
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26758.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", STARZ Encore Suspenso HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26918.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", STARZ Edge HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26751.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Star TVE HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26911.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Starz HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1930.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Starz Family HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/29664.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Universal Channel HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26908.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Universal Channel
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1493.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Universal Cinema  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/144835.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Universal Crime HD [Dual Audio]
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1466.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Universal Reality  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/65437.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Universal Comedy  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153306.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Universal Crime  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/144836.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Universal Reality   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/144837.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Universal Reality HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1460.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Universal Premier HD [Dual Audio]
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26738.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Universal Premier  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26737.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Universal Premier (TV) 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/144838.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Studio Universal HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1495.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Studio Universal
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26742.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Studio Universal S HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26905.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TBS HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1499.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TBS
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26750.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TBS Very Funny  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1501.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TCM
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26756.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Warner Channel HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1515.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Warner Channel MEX  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/119338.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Warner Channel
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1516.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Wobi TV HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26900.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", VIX Retro  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/154359.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", UFC Fight PASS   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/5699.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", UFC    
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/8918.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", ESPN 1 ARG  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/215071.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", ESPN 1 ARG   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/215072.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn 1 ARG  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/69718.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn 1 COL   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/965.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn 1 MEX  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1900.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn 1 MEX HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26817.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn 1 MEX  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1533.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn 2 ARG HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/967.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn 2 ARG  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/136228.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn 2 ARG   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/969.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn 2 MEX HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1534.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn 2 MEX (TV)HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/155387.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn 3 ARG (TV)HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/63209.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn 3 ARG HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1542.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn 3 MEX HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1536.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn 4 HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1525.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn 4   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/976.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn 4  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/977.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn Deportes HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1544.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn Extra ARG HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1543.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn Extra ARG   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/974.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn Extra ARG  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/69719.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn Extra MEX
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1539.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn Extra MEX HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26810.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn Premium ARG HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/154049.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Espn Premium ARG   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/154050.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", ESPN Premium ARG  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1528.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Directv Sports 1 ARG  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/217294.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Directv Sports 1 ARG   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/215074.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Directv Sports 1  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/4668.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Directv Sports 2 HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/959.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Directv Sports 2   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/121703.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Directv Sports +  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/4674.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Directv Sports +   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/963.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Directv Sports +  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/20143.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Directv Sports +   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/154276.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Directv Sports Fight   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/154277.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", WWE  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153466.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", WWE Op 2  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153467.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", beIN Sports Ñ HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/141449.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", beIN Sports Ñ  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/2872.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", beIN Sports Ñ (TV)HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/59788.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", beIN Sports Ñ   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/156256.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", beIN Sports Xtra Ñ   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/144405.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", beIN Sports U HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/141448.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", beIN Sport U  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/2876.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Gol TV ES  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153304.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Gol TV Internacional   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/154242.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Zona Futbol TUDN   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/167891.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TNT Sports ARG  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/215077.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TNT Sports ARG   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/215078.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TigoSports PY  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/215075.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TigoSports PY   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/215076.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Sky Sports 16  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/60372.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Sky Sports 21  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/60373.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Sky sports MEX  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153586.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Sports 1 ARG  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/141445.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Sports 1 ARG (TV) 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/141446.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Sports 1 MEX HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26814.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Sports 1 MEX HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1521.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Sports 2 ARG HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1526.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Sports 2 ARG   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/979.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Sports 2 ARG  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/980.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Sports 2 MEX HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26815.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Sports 2 MEX HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1518.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Sports 3 ARG HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1527.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Sports 3 ARG   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/982.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Sports 3 ARG  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/63210.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Sports 3 MEX
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1523.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Sports 3 MEX HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26812.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Deportes (TV) 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1524.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Deportes (TV) 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/69983.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fox Sports Premium MEX HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1529.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", FOX Sports Premium MEX (TV)HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/155440.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", DAZN La Liga HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/155689.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", DAZN La Liga 2  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/155690.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TUDN (MEX) HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/66005.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TUDN (MEX)(X)
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153613.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TUDN (MEX)(TV)HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/117291.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TUDN | Zona 1  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/154356.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Fight BOX  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/60375.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Golf Latin America 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26767.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", MEX Golf Latin HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26813.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", NBA U  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/2873.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Tennis Channel   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/23132.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TVC Deportes HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1547.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TyC Sports INT   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/2076.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TyC Sports INT(M) 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/27530.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Animal Planet HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1398.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Animal Planet   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1071.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Animal Planet  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1072.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Channel HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26891.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Channel   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1068.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Channel  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1069.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Familia (TV) 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/119734.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Familia HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/65504.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Home & Health HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1402.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Home & Health   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1080.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Home & Health  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1081.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Science  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1418.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Science
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/58100.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Theater HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26895.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Theater
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1420.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery TLC HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26890.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery TLC
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1422.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Turbo HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1404.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Turbo   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1083.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Turbo  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1084.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery World HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26896.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery World  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1424.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery World
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1423.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", H2 HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1408.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", H2   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1062.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", H2  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1063.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HGTV (TV)HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1416.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", HGTV  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1417.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", History Channel HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1406.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", History Channel   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1074.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", History Channel  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1075.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Investigation Discovery (1080i)
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/63679.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Investigation Discovery HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26898.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Investigation Discovery
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1427.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Investigation Discovery  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/69600.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Nat Geo Mundo (TV) 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/34599.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", NatGeo HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1409.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", NatGeo   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1065.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", NatGeo Wild Ñ   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1077.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Smithsonian Channel Latino  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1066.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Smithsonian Channel  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153308.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Love Nature HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1385.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Baby First  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26886.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Baby First
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26883.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Baby tv  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1887.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Cartoonito  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1886.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Cartoonito HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1370.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Cartoon Network HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26884.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Cartoon Network  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1372.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Cartoon Network
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26879.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Kids  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26887.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Kids HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1375.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Discovery Kids
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26881.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Disney Channel HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1377.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Disney Jr HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1379.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Disney Jr HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1380.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Disney JR
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26878.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Princesa Sofia  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1382.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Nick HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1387.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", URU - Gol TV URU (TV) 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/120872.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Nick  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1388.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Nick 2 HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1390.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Nick 2
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26876.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Nick Jr HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1392.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Nick Jr  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1393.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Nick JR
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26882.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Nickelodeon HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26885.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Nicktoons  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1394.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Nicktoons 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1395.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Tooncast  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1396.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Tooncast
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1397.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Universal Kids  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/27335.m3u8
+
+
+
+
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Afizzionados  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153303.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Afizzionados   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/115776.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Lo Mejor De La Liga MX  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/154354.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Lo Mejor De La Liga MX HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/154355.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Claro Sports HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/22141.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Aym Sports
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26700.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", A+   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/59685.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", ADN 40 HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26681.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", ADN 40(M)HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1358.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Antena 3 HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26951.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Antena 3  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26715.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Az Cinema HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26963.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Az Clic HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26955.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Az Clic
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26691.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Az Mundo HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26982.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", AZ Mundo  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153550.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Az Mundo
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26703.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Azteca 1 HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1329.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Azteca 1  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1881.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Azteca 7 HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1330.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Azteca 7
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26680.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Azteca 7  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1882.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Azteca Clic HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1335.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Azteca Corazon HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1332.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", AZ Corazon HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153539.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Az Corazón
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26687.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Az Cinema
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26734.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Las Estrellas  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26945.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Las Estrellas  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153528.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Las Estrellas 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26677.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Las Estrellas -2h  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1885.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Estrellas News  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153533.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Bloomberg HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26957.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Canal 26 HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1339.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Canal 26(M)HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1340.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Canal 5 HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26973.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Canal 5
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26678.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Canal 5  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1883.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Canal Once(M)HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1343.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Cinema Dinamita (TV) 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/59686.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Comedy Central
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26719.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", DW
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26732.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", El Financiero HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26961.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", El Financiero Bloomberg
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26699.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Formula Noticias(M) 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1361.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Foro TV HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26979.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", France 24 HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26977.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", France 24
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26731.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Garage TV
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26692.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Glitz 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26953.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Glitz
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26724.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Hola TV HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26958.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Hola TV
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26686.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Imagen TV   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/58099.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Ingenio TV
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26730.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Mexiquense   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26718.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Mexiquense HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1351.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Milenio TV (TV) 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26981.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Milenio TV HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1352.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Multimedios CDMX   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26954.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Multimedios Plus HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26967.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Multimedios Monterrey   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26717.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Multimedios Guadalajara  HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1354.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Más Chic
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26688.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Nu9ve HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26964.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Nu9ve
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/31434.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Once TV HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26968.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Px Sports
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26694.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", RMS(M) 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1360.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Sundance  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26976.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Sundance HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26722.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Telefórmula HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26956.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Telefórmula
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26684.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Telemundo  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1362.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Televisa MTY (TV)HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26984.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Televisa Puebla HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26962.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Televisa Puebla
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26709.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Televisa Puebla HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1346.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Amas Tv   
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153529.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TLN Novelas HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26727.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Tlnovelas HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153536.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Tru TV HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26960.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Tru TV
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26690.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TV 4 Guanajuato HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26980.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TVC HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26965.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TVC
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26735.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TVC Deportes HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26966.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TVC Deportes  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153537.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", TVE
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26721.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Unicable(M)HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1365.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Unicable(M)HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1366.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Wobi TV
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26723.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Canal Once  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153531.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", De Peliculas  
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153532.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Foro TV (TV) 
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153534.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Unicable HD
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153541.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Canal 10 Cancun (LOCAL)
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153542.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Canal 6 Nacional (LOCAL)
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153543.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Multimedio Guadalajara (LOCAL)
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153546.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Multimedio Monterrey (LOCAL)
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153547.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", RTQ (LOCAL)
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153548.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", Telesistema (LOCAL)
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153549.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia 2)", AMX Noticias (LOCAL)
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/153584.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="ENTRETENIMIENTO", A&E
 https://v3.playerlatino.live/stream/m3u8/1|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="ENTRETENIMIENTO", A&E Sur
@@ -7611,408 +8389,6 @@ https://v3.playerlatino.live/stream/m3u8/754|user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/276|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="24/7", Yu-Gi-Oh! 24/7
 https://v3.playerlatino.live/stream/m3u8/664|user-agent=Lavf/57.71.001
-
-
-#EXTINF:-1 tvg-name="Bitme" tvg-logo="" group-title="KIDS",Bitme
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/354.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Locomotion" tvg-logo="" group-title="KIDS",Locomotion
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/355.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Tooncast" tvg-logo="" group-title="KIDS",Tooncast
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/107.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="" group-title="KIDS",Cartoon Network
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/18.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="" group-title="KIDS",Discovery Kids
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/38.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Disney" tvg-logo="" group-title="KIDS",Disney
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/43.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Disney JR" tvg-logo="" group-title="KIDS",Disney JR
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/44.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="" group-title="KIDS",Nickelodeon
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/121.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="" group-title="KIDS",Nick Jr
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/122.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Nick 2" tvg-logo="" group-title="KIDS",Nick 2
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/123.m3u8|user-agent=tuplayer
-
-
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="" group-title="CONOCIMIENTO",Animal Planet
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/3.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="" group-title="CONOCIMIENTO",Discovery Channel
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/36.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Discovery Home and Health" tvg-logo="" group-title="CONOCIMIENTO",Discovery Home and Health
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/37.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="" group-title="CONOCIMIENTO",Discovery Science
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/39.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="" group-title="CONOCIMIENTO",Discovery Turbo
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/41.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Discovery World" tvg-logo="" group-title="CONOCIMIENTO",Discovery World
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/42.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="" group-title="CONOCIMIENTO",Discovery Theater
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/40.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="" group-title="ENTRETENIMIENTO",Lifetime
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/51.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="" group-title="ENTRETENIMIENTO",Investigation Discovery
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/52.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="H2" tvg-logo="" group-title="CONOCIMIENTO",H2
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/55.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="History Channel" tvg-logo="" group-title="CONOCIMIENTO",History Channel
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/56.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Nat Geo Mex" tvg-logo="" group-title="CONOCIMIENTO",Nat Geo Mex
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/125.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="National Geographic Channel" tvg-logo="" group-title="CONOCIMIENTO",National Geographic Channel
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/128.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Discovery Civilization" tvg-logo="" group-title="CONOCIMIENTO",Discovery Civilization
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/325.m3u8|user-agent=tuplayer
-
-
-#EXTINF:-1 tvg-name="Paramount Channel" tvg-logo="" group-title="CINE",Paramount Channel
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/120.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Multipremier" tvg-logo="" group-title="CINE",Multipremier
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/129.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="AMC" tvg-logo="" group-title="CINE",AMC
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/6.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="A&E" tvg-logo="" group-title="ENTRETENIMIENTO",A&E
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/1.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="AXN" tvg-logo="" group-title="ENTRETENIMIENTO",AXN
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/2.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Cine Canal" tvg-logo="" group-title="CINE",Cine Canal
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/19.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Cine Latino" tvg-logo="" group-title="CINE",Cine Latino
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/20.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Cinema Dinamita" tvg-logo="" group-title="CINE",Cinema Dinamita
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/21.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Cinema Plus" tvg-logo="" group-title="CINE",Cinema Plus
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/22.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="City TV" tvg-logo="" group-title="INTERNACIONAL",City TV
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/23.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Claro Cinema" tvg-logo="" group-title="CINE",Claro Cinema
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/24.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="De Pelicula Plus" tvg-logo="" group-title="CINE",De Pelicula Plus
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/34.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Golden" tvg-logo="" group-title="CINE",Golden
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/67.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Fox" tvg-logo="" group-title="ENTRETENIMIENTO",Star Channel
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/91.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="FX" tvg-logo="" group-title="ENTRETENIMIENTO",FX
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/92.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Euro Channel" tvg-logo="" group-title="CINE",Euro Channel
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/93.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Warner Channel" tvg-logo="" group-title="ENTRETENIMIENTO",Warner Channel
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/99.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Universal Channel" tvg-logo="" group-title="ENTRETENIMIENTO",Universal Channel
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/103.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="TNT Series" tvg-logo="" group-title="ENTRETENIMIENTO",TNT Series
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/109.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="TNT" tvg-logo="" group-title="CINE",TNT
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/110.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="TLC" tvg-logo="" group-title="ENTRETENIMIENTO",TLC
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/111.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="TCM" tvg-logo="" group-title="CINE",TCM
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/112.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="TNT Novelas" tvg-logo="" group-title="ENTRETENIMIENTO",TNT Novelas
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/113.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Studio Universal" tvg-logo="" group-title="CINE",Studio Universal
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/115.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Space" tvg-logo="" group-title="CINE",Space
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/116.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Sony" tvg-logo="" group-title="ENTRETENIMIENTO",Sony
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/117.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="ISAT" tvg-logo="" group-title="CINE",ISAT
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/369.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Film&Arts" tvg-logo="" group-title="CINE",Film&Arts
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/370.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Syfy" tvg-logo="" group-title="ENTRETENIMIENTO",Syfy
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/371.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="De Pelicula" tvg-logo="" group-title="CINE",De Pelicula
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/324.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="HBO plus" tvg-logo="" group-title="PREMIUM",HBO plus
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/59.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="HBO Subtitulado" tvg-logo="" group-title="PREMIUM",HBO Subtitulado
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/60.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="" group-title="PREMIUM",HBO Signature
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/61.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="" group-title="PREMIUM",HBO Family
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/62.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="HBO 2" tvg-logo="" group-title="PREMIUM",HBO 2
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/63.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="HBO" tvg-logo="" group-title="PREMIUM",HBO
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/64.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Universal Cinema" tvg-logo="" group-title="PREMIUM",Universal Cinema
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/84.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="HBO Pop" tvg-logo="" group-title="PREMIUM",HBO Pop
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/131.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="" group-title="PREMIUM",HBO Xtreme
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/132.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="" group-title="PREMIUM",HBO Mundi
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/133.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Golden Plus" tvg-logo="" group-title="CINE",Golden Plus
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/327.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Golden Premier" tvg-logo="" group-title="PREMIUM",Golden Premier
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/66.m3u8|user-agent=tuplayer
-
-
-#EXTINF:-1 tvg-name="Telemundo" tvg-logo="" group-title="ENTRETENIMIENTO",Telemundo
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/108.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="RCN Telenovelas" tvg-logo="" group-title="ENTRETENIMIENTO",RCN Telenovelas
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/118.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Pasiones" tvg-logo="" group-title="ENTRETENIMIENTO",Pasiones
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/119.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Univision" tvg-logo="" group-title="ENTRETENIMIENTO",Univision
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/102.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Unicable" tvg-logo="" group-title="ENTRETENIMIENTO",Unicable
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/104.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Tru TV" tvg-logo="" group-title="ENTRETENIMIENTO",Tru TV
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/105.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Tve" tvg-logo="" group-title="ENTRETENIMIENTO",Tve
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/106.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Az Corazon" tvg-logo="" group-title="ENTRETENIMIENTO",Az Corazon
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/4.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Az Mundo" tvg-logo="" group-title="ENTRETENIMIENTO",Az Mundo
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/5.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="France 24" tvg-logo="" group-title="INTERNACIONAL",France 24
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/71.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Glitz" tvg-logo="" group-title="ENTRETENIMIENTO",Glitz
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/68.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="HTV" tvg-logo="" group-title="MUSICA",HTV
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/57.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="HLN" tvg-logo="" group-title="INTERNACIONAL",HLN
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/58.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="I.Sat" tvg-logo="" group-title="CINE",I.Sat
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/53.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Hola TV" tvg-logo="" group-title="ENTRETENIMIENTO",Hola TV
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/54.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="E !" tvg-logo="" group-title="ENTRETENIMIENTO",E !
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/46.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="El Gourmet" tvg-logo="" group-title="CONOCIMIENTO",El Gourmet
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/47.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Mas Chic" tvg-logo="" group-title="ENTRETENIMIENTO",Mas Chic
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/48.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="" group-title="ENTRETENIMIENTO",Comedy Central
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/29.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="DHE" tvg-logo="" group-title="CINE",DHE
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/31.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="DW" tvg-logo="" group-title="INTERNACIONAL",DW
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/32.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Concert Channel" tvg-logo="" group-title="MUSICA",Concert Channel
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/30.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="DW America" tvg-logo="" group-title="INTERNACIONAL",DW America
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/33.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Antena 3 Internacional" tvg-logo="" group-title="INTERNACIONAL",Antena 3 Internacional
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/7.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="BBC World" tvg-logo="" group-title="INTERNACIONAL",BBC World
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/8.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Baby TV" tvg-logo="" group-title="KIDS",Baby TV
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/9.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="" group-title="INFORMACIÓN",Bloomberg
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/10.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="CNN Espanol" tvg-logo="" group-title="INFORMACIÓN",CNN Espanol
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/11.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="CNN Internacional" tvg-logo="" group-title="INTERNACIONAL",CNN Internacional
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/12.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Cable Noticias" tvg-logo="" group-title="INTERNACIONAL",Cable Noticias
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/13.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Canal Claro" tvg-logo="" group-title="ENTRETENIMIENTO",Canal Claro
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/14.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Caracol" tvg-logo="" group-title="INTERNACIONAL",Caracol
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/16.m3u8|user-agent=tuplayer
-
-
-#EXTINF:-1 tvg-name="Fox Sports 3 Sur" tvg-logo="" group-title="DEPORTES",Fox Sports 3 Sur
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/72.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Fox Sports 2 MX" tvg-logo="" group-title="DEPORTES",Fox Sports 2 MX
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/74.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Fox Sports 2 Sur" tvg-logo="" group-title="DEPORTES",Fox Sports 2 Sur
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/75.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Fox Sports 1 Sur" tvg-logo="" group-title="DEPORTES",Fox Sports 1 Sur
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/76.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Fox Sports 1 MX" tvg-logo="" group-title="DEPORTES",Fox Sports 1 MX
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/77.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Claro Sports" tvg-logo="" group-title="DEPORTES",Claro Sports
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/27.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Claro Sports Latinoamerica" tvg-logo="" group-title="DEPORTES",Claro Sports Latinoamerica
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/28.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Golf Channel" tvg-logo="" group-title="DEPORTES",Golf Channel
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/65.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Espn Plus Sur" tvg-logo="" group-title="DEPORTES",Espn Plus Sur
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/94.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Espn 3 Sur" tvg-logo="" group-title="DEPORTES",Espn 3 Sur
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/95.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Espn 2 Sur" tvg-logo="" group-title="DEPORTES",Espn 2 Sur
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/96.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Espn 1 Sur" tvg-logo="" group-title="DEPORTES",Espn 1 Sur
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/97.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Win Sports" tvg-logo="" group-title="DEPORTES",Win Sports
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/98.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Gol TV Internacional" tvg-logo="" group-title="DEPORTES",Gol TV Internacional
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/338.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Tigo Sports 1" tvg-logo="" group-title="DEPORTES",Tigo Sports 1
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/339.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Tigo Sports 2" tvg-logo="" group-title="DEPORTES",Tigo Sports 2
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/340.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Tigo Sports 3" tvg-logo="" group-title="DEPORTES",Tigo Sports 3
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/341.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Estrella tv" tvg-logo="" group-title="DEPORTES",Estrella tv
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/342.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Bein sports ñ T" tvg-logo="" group-title="DEPORTES",Bein sports ñ T
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/343.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Euro Sports 1" tvg-logo="" group-title="DEPORTES",Euro Sports 1
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/344.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Euro Sports 2" tvg-logo="" group-title="DEPORTES",Euro Sports 2
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/345.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Fightbox" tvg-logo="" group-title="DEPORTES",Fightbox
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/346.m3u8|user-agent=tuplayer.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Fight Time" tvg-logo="" group-title="DEPORTES",Fight Time
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/347.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="MLB Network" tvg-logo="" group-title="DEPORTES",MLB Network
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/349.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Motorsports TV" tvg-logo="" group-title="DEPORTES",Motorsports TV
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/350.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="RedBull" tvg-logo="" group-title="DEPORTES",RedBull
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/351.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Real Madrid tv" tvg-logo="" group-title="DEPORTES",Real Madrid tv
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/352.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="UFC TV" tvg-logo="" group-title="DEPORTES",UFC TV
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/353.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="movistar liga de Campeones" tvg-logo="" group-title="DEPORTES",movistar liga de Campeones
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/357.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Win Sports+" tvg-logo="" group-title="DEPORTES",Win Sports+
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/374.m3u8|user-agent=tuplayer
-
-
-#EXTINF:-1 tvg-name="MTV Hits" tvg-logo="" group-title="MUSICA",MTV Hits
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/49.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="MTV" tvg-logo="" group-title="MUSICA",MTV
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/50.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Claro Music 1" tvg-logo="" group-title="MUSICA",Claro Music 1
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/25.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Claro Music 2" tvg-logo="" group-title="MUSICA",Claro Music 2
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/26.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Vh1 Classic" tvg-logo="" group-title="MUSICA",Vh1 Classic
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/100.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Vh1" tvg-logo="" group-title="MUSICA",Vh1
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/101.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Mtv Live" tvg-logo="" group-title="MUSICA",Mtv Live
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/130.m3u8|user-agent=tuplayer
-
-
-#EXTINF:-1 tvg-name="Lazy Town" tvg-logo="" group-title="24/7",Lazy Town
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/235.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Barnie y sus amigos" tvg-logo="" group-title="24/7",Barnie y sus amigos
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/236.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Dora la exploradora" tvg-logo="" group-title="24/7",Dora la exploradora
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/237.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="PJ Masks" tvg-logo="" group-title="24/7",PJ Masks
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/238.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="caillou" tvg-logo="" group-title="24/7",caillou
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/239.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Jorge el Curioso" tvg-logo="" group-title="24/7",Jorge el Curioso
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/240.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="peppa pig" tvg-logo="" group-title="24/7",peppa pig
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/241.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="happy tree friends" tvg-logo="" group-title="24/7",happy tree friends
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/242.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Los picapiedras" tvg-logo="" group-title="24/7",Los picapiedras
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/243.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Le temes a la oscuridad" tvg-logo="" group-title="24/7",Le temes a la oscuridad
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/244.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Pantera Rosa 80s" tvg-logo="" group-title="24/7",Pantera Rosa 80s
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/245.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Correcaminos" tvg-logo="" group-title="24/7",Correcaminos
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/246.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Power Rangers" tvg-logo="" group-title="24/7",Power Rangers
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/247.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Cuentos Hermanos Grimm" tvg-logo="" group-title="24/7",Cuentos Hermanos Grimm
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/248.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Robotech" tvg-logo="" group-title="24/7",Robotech
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/249.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Estrenos 2018" tvg-logo="" group-title="24/7",Estrenos 2018
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/250.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="El Chapulin Colorado" tvg-logo="" group-title="24/7",El Chapulin Colorado
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/251.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Death Note" tvg-logo="" group-title="24/7",Death Note
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/252.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="CSI Miami" tvg-logo="" group-title="24/7",CSI Miami
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/253.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Alf" tvg-logo="" group-title="24/7",Alf
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/254.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="X-men 90s" tvg-logo="" group-title="24/7",X-men 90s
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/255.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Vete a la Versh" tvg-logo="" group-title="24/7",Vete a la Versh
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/256.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="The Walking Dead" tvg-logo="" group-title="24/7",The Walking Dead
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/257.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Super campeones" tvg-logo="" group-title="24/7",Super campeones
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/258.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="strangerthings" tvg-logo="" group-title="24/7",strangerthings
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/259.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Spiderman 80s" tvg-logo="" group-title="24/7",Spiderman 80s
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/260.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Sounth Park" tvg-logo="" group-title="24/7",Sounth Park
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/261.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Smallville" tvg-logo="" group-title="24/7",Smallville
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/262.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Shera" tvg-logo="" group-title="24/7",Shera
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/263.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Señor de los cielos" tvg-logo="" group-title="24/7",Señor de los cielos
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/264.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Sailormoon" tvg-logo="" group-title="24/7",Sailormoon
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/265.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Pokemon" tvg-logo="" group-title="24/7",Pokemon
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/266.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Pinky y Cerebro" tvg-logo="" group-title="24/7",Pinky y Cerebro
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/267.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="CINE Terror" tvg-logo="" group-title="24/7",Peliculas Terror
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/268.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Pablo Escobar" tvg-logo="" group-title="24/7",Pablo Escobar
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/269.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Naruto" tvg-logo="" group-title="24/7",Naruto
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/270.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Mazinger Z" tvg-logo="" group-title="24/7",Mazinger Z
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/271.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Malcolm el de enmedio" tvg-logo="" group-title="24/7",Malcolm el de enmedio
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/272.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Luis Miguel" tvg-logo="" group-title="24/7",Luis Miguel
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/273.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Lucha Libre AAA" tvg-logo="" group-title="24/7",Lucha Libre AAA
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/274.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Los Thundercats" tvg-logo="" group-title="24/7",Los Thundercats
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/275.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Los Simpsons" tvg-logo="" group-title="24/7",Los Simpsons
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/276.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="La Rosa de Guadalupe" tvg-logo="" group-title="24/7",La Rosa de Guadalupe
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/277.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Heman" tvg-logo="" group-title="24/7",Heman
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/278.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Game Of Throne" tvg-logo="" group-title="24/7",Game Of Throne
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/279.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Futurama" tvg-logo="" group-title="24/7",Futurama
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/280.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Dragon Ball Z" tvg-logo="" group-title="24/7",Dragon Ball Z
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/281.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Dragon Ball Super" tvg-logo="" group-title="24/7",Dragon Ball Super
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/282.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Dragon Ball GT" tvg-logo="" group-title="24/7",Dragon Ball GT
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/283.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Dragon ball" tvg-logo="" group-title="24/7",Dragon ball
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/284.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Dinosaurios" tvg-logo="" group-title="24/7",Dinosaurios
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/285.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Coraje el perro cobarde" tvg-logo="" group-title="24/7",Coraje el perro cobarde
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/286.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Años Maravillosos" tvg-logo="" group-title="24/7",Años Maravillosos
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/287.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="La casa de papel" tvg-logo="" group-title="24/7",La casa de papel
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/288.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="El chema" tvg-logo="" group-title="24/7",El chema
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/289.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="El chavo" tvg-logo="" group-title="24/7",El chavo
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/290.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="caballerosdel zodiaco" tvg-logo="" group-title="24/7",caballerosdel zodiaco
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/291.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Breaking bad" tvg-logo="https://i.blogs.es/16e585/breaking-bad/450_1000.jpg" group-title="24/7",Breaking bad
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/292.m3u8|user-agent=tuplayer
-#EXTINF:-1 tvg-name="Bob Esponja 24/7" tvg-logo="https://cdn.revistagq.com/uploads/images/thumbs/es/gq/4/s/2018/19/bob_esponja_9564_800x576.png" group-title="24/7",Bob Esponja 24/7
-https://main.cinedecalidad.xyz/live/tuplayer/bKRgy6kmHW/293.m3u8|user-agent=tuplayer
 
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,Directv sports (62)
@@ -12771,9 +13147,6 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/300px-TeleSUR-Logo.svg.png" group-title="INTERNACIONAL", TELESUR 
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvcnetwork.net/wp-content/uploads/2021/10/TVC-08.png" group-title="INTERNACIONAL", CANAL 4 TCS
-http://181.189.243.198:8000/play/a06f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/300px-Canal_5_HN_logo_2019.png" group-title="INTERNACIONAL", CANAL 5 HN
 http://45.182.21.251:33334/play/a07m/index.m3u8
