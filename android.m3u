@@ -12,13 +12,41 @@ http://166.0.208.26:4481/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg"  group-title="RECOMENDADOS", Azteca 7
 http://166.0.208.26:4481/107azteca7/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png"  group-title="RECOMENDADOS", TUDN MX
-http://208.88.246.11:4481/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=ljkjljkjjjk
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png"  group-title="RECOMENDADOS", ESPN | HD
-http://208.88.246.11:4481/evento/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=ljkjljkjjjk
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png"  group-title="RECOMENDADOS", ESPN 2 | HD
-http://208.88.246.11:4481/evento2/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=ljkjljkjjjk
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png"  group-title="RECOMENDADOS", ESPN 3
-http://208.88.246.11:4481/507ESPN3/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=ljkjljkjjjk
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX Sports (Cono Norte México)" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="RECOMENDADOS",FOX SPORTS HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -57,8 +85,24 @@ https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" group-title="RECOMENDADOS",Fox Sports Premium MX op2
 http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op3" tvg-logo=""  group-title="RECOMENDADOS", Fox Sports Premium MX op3
-http://208.88.246.11:4481/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png"  group-title="RECOMENDADOS", TNT | HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=ljkjljkjjjk
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png"  group-title="RECOMENDADOS", Cinemax
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=ljkjljkjjjk
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://live5-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png"  group-title="RECOMENDADOS", Afizzionados
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -71,15 +115,15 @@ https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png"  group-title="RECOMENDADOS", Claro Sports
 http://208.88.246.11:4481/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png"  group-title="RECOMENDADOS", Univisión
-http://208.88.246.11:4481/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/40.m3u8|user-agent=S11elW/2.57
 #EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png"  group-title="RECOMENDADOS", UniMas
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/45.m3u8|user-agent=S11elW/2.57
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png"  group-title="RECOMENDADOS", TUDN USA
-http://208.88.246.11:4481/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://nffthex0kzt.xyz/rk/AffwegxzxvbnngdfgsdggffgeawhhffgfdTC/Vcxsdgdaddgghhgfsalkpofdsqdazxcccvs/916.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1  tvg-id="FoxDeportes(Spanish).us" tvg-name="FOX DEPORTES" group-title="RECOMENDADOS", FOX DEPORTES
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/40910.m3u8
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo 51 Miami" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png"  group-title="RECOMENDADOS", Telemundo 51 Miami
-http://23.237.108.226/hls/TELEMUNDO.m3u8|User-Agent=Roku/DVP(10.10.10)
+http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/84.m3u8|user-agent=S11elW/2.57
 
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png"  group-title="LOCALES", Azteca Uno
