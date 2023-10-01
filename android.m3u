@@ -178,7 +178,7 @@ http://208.88.246.11:4481/andromeda/UNIVERSAL/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5
 http://208.88.246.11:4481/203Universal/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series LatinoAmerica" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png"  group-title="ENTRETENIMIENTO", TNT Series
 http://208.88.246.11:4481/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY LA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png"  group-title="ENTRETENIMIENTO", SYFY LA
+#EXTINF:-1 tvg-id="USA.mx" tvg-name="USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png"  group-title="ENTRETENIMIENTO",USA
 http://208.88.246.11:4481/204SyFyLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="ID.mx" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png"  group-title="ENTRETENIMIENTO", ID | HD
 http://208.88.246.11:4481/andromeda/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -1140,7 +1140,7 @@ https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=234523
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/TBS-SD/default.mpd
-#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY LA" tvg-logo="https://logo.iptveditor.com/syfy.png" group-title="ENTRETENIMIENTO",SYFY LA
+#EXTINF:-1 tvg-id="USA.mx" tvg-name="USA" tvg-logo="https://logo.iptveditor.com/syfy.png" group-title="ENTRETENIMIENTO",USA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -3478,7 +3478,7 @@ http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/178.m3u8|user-agent=R@kuP15
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/179.m3u8|user-agent=R@kuP15.6x
 #EXTINF:-1 group-title="CANALES VARIADOS", Paramount Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/180.m3u8|user-agent=R@kuP15.6x
-#EXTINF:-1 group-title="CANALES VARIADOS", SyFy Channel
+#EXTINF:-1 group-title="CANALES VARIADOS", USA
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/181.m3u8|user-agent=R@kuP15.6x
 #EXTINF:-1 group-title="CANALES VARIADOS", Space
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/182.m3u8|user-agent=R@kuP15.6x
@@ -6072,7 +6072,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38678.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38557.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",SPACE SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38458.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",I-SyFy HD
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",I-USA HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37974.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TNT Novelas
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38496.m3u8
@@ -6310,11 +6310,11 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/23060.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3148.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",Sundance Tv
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1479.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",SYFY HD
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",USA HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30377.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",Syfy HD
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",USA HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3109.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",SYFY SD
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",USA SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/19677.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",T-UDN MX HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3064.m3u8
@@ -7604,7 +7604,7 @@ https://anbalancer.express.com.ar/live/c1eds/TBS/SA_DASH_cipix/TBS.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,SYFY 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,USA
 https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -10186,7 +10186,7 @@ https://live1-ott.izzigo.tv/out/u/dash/SPACE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3af71d7c21a381fb6f41a1564293b06:b21e3b466e6d399618bdae6cd9dd5242 
 https://1193-vos.dtvott.com/DASH/manifest.mpd
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/syfy.png",Syfy
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/syfy.png",USA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -10195,7 +10195,7 @@ https://1193-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f90aafd0ab85c6d92e93114e278917b:9b1e41e8a55a182f69000bdc9304e3cc 
 https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/syfy.png",Syfy
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/syfy.png",USA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true

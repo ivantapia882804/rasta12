@@ -53,7 +53,7 @@ http://208.88.246.11:4481/andromeda/UNIVERSAL/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5
 http://208.88.246.11:4481/203Universal/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", TNT Series
 http://208.88.246.11:4481/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", SYFY
+#EXTINF:-1 tvg-id="USA.mx" tvg-name="USA" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", USA
 http://208.88.246.11:4481/204SyFyLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ID.mx" tvg-name="ID | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", ID | HD
 http://208.88.246.11:4481/andromeda/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
@@ -1557,7 +1557,7 @@ http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/178.m3u8
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/179.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS" user-agent="R@kuP15.6x", Paramount Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/180.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="R@kuP15.6x", SyFy Channel
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="R@kuP15.6x", USA
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/181.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS" user-agent="R@kuP15.6x", Space
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/182.m3u8
@@ -4151,7 +4151,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38678.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38557.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",SPACE SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38458.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",I-SyFy HD
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",I-USA HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37974.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TNT Novelas
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38496.m3u8
@@ -4389,11 +4389,11 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/23060.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3148.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",Sundance Tv
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1479.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",SYFY HD
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",USA HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30377.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",Syfy HD
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",USA HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3109.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",SYFY SD
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",USA SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/19677.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",T-UDN MX HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3064.m3u8
