@@ -2,15 +2,15 @@
 
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png"  group-title="RECOMENDADOS", Azteca Uno
-http://166.0.208.26:4481/113azteca13/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png"  group-title="RECOMENDADOS", Las Estrellas
-http://166.0.208.26:4481/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png"  group-title="RECOMENDADOS", Imagen Television
 http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png"  group-title="RECOMENDADOS", Canal 5
 http://166.0.208.26:4481/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg"  group-title="RECOMENDADOS", Azteca 7
-http://166.0.208.26:4481/107azteca7/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png"  group-title="RECOMENDADOS", TUDN MX
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -74,7 +74,7 @@ https://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=234523
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/default.mpd
-#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op1" tvg-logo=""  group-title="RECOMENDADOS", Fox Sports Premium MX op1
+#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op1" group-title="RECOMENDADOS", Fox Sports Premium MX op1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -113,7 +113,7 @@ https://live5-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png"  group-title="RECOMENDADOS", Claro Sports
-http://208.88.246.11:4481/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png"  group-title="RECOMENDADOS", Univisión
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/40.m3u8|user-agent=R@kuP15.6x
 #EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png"  group-title="RECOMENDADOS", UniMas
@@ -296,6 +296,8 @@ http://208.88.246.11:4481/evento5/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9Wx
 http://208.88.246.11:4481/transco9/9535DISCOVERYESP/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo=""  group-title="DEPORTES", Fox Sports Premium MX
 http://208.88.246.11:4481/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" group-title="DEPORTES",Fox Sports Premium MX op2
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="FoxSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png"  group-title="DEPORTES", Fox Sports
 http://208.88.246.11:4481/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 MX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png"  group-title="DEPORTES", Fox Sports 2 | HD
@@ -390,6 +392,8 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVSTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="LOCALES",MVSTV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+ CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhimt2.png" group-title="LOCALES",A+ CDMX
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Once
@@ -410,6 +414,10 @@ https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m
 https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.3
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES",Imagen Multicast/CV
+https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
+#EXTINF:-1 group-title="LOCALES",Imagen Radio (90.5)
+https://ythls.onrender.com/channel/UCB0BUmdBOrH9mYU2ebs1eWA.m3u8
 #EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 MTY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES REGIONALES",Canal 6 MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 LAG" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES REGIONALES",Canal 6 LAG
@@ -443,7 +451,7 @@ https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET TV 16.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/set.png" group-title="LOCALES REGIONALES",SET TV 16.1
 https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4 Gto." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="LOCALES REGIONALES",TV4 Gto.
-https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
+https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.2 Gto." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="LOCALES REGIONALES",TV4.2 Gto.
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.3 Gto." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="LOCALES REGIONALES",TV4.3 Gto.
@@ -2436,40 +2444,6 @@ https://live4-ott.izzigo.tv/out/u/dash/MUSIC-VIEJOTAS-BUENISIMAS/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=234523
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-VIVA-MEXICO/default.mpd
-
-
-#EXTINF:-1  group-title="24/7" , Top Cine Latam
-https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=top-cine-latam&f=.m3u8
-#EXTINF:-1  group-title="24/7" , Saber mas
-https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=saber-mas&f=.m3u8
-#EXTINF:-1  group-title="24/7" , Tu Cine Latam
-https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=tu-cine-latam&f=.m3u8
-#EXTINF:-1  group-title="24/7" , Flash
-https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=flash-1&f=.m3u8
-#EXTINF:-1  group-title="24/7" , El conflicto TV
-https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=el-conflicto-tv&f=.m3u8
-#EXTINF:-1  group-title="24/7" , Chiquilines
-https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=chiquilines&f=.m3u8
-#EXTINF:-1  group-title="24/7" , Juntos
-https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=juntos&f=.m3u8
-#EXTINF:-1  group-title="24/7" , Cine Sureno
-https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=cine-sureno&f=.m3u8
-#EXTINF:-1  group-title="24/7" , Cine Real
-https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=cine-real-latam&f=.m3u8
-#EXTINF:-1  group-title="24/7" , Casa Comedy
-https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=casa-comedy&f=.m3u8
-#EXTINF:-1  group-title="24/7" , Spanglish
-https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=spanglish&f=.m3u8
-#EXTINF:-1  group-title="24/7" , Euronews N
-https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=euronews-spa&f=.m3u8
-#EXTINF:-1  group-title="24/7" , Horrorfy
-https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=horrorfy&f=.m3u8
-#EXTINF:-1  group-title="24/7" , WappTV
-https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=wapptv&f=.m3u8
-#EXTINF:-1  group-title="24/7" , MMC
-https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=mmc&f=.m3u8
-#EXTINF:-1  group-title="24/7" , Glewed TV 
-https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=glewedtv-spanish&f=.m3u8
 
 
 #EXTINF:-1 tvg-id="AandE.co" tvg-name="A&E A" group-title="ENTRETENIMIENTO", A&E A
@@ -6734,6 +6708,940 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37857.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38558.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",Telepacifico
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/111080.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png"   group-title="CANALES VARIADOS 2", A&E HD
+https://v3.playerlatino.live/stream/m3u8/474|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png"   group-title="CANALES VARIADOS 2", A+
+https://v3.playerlatino.live/stream/m3u8/406|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3cine.png"   group-title="CANALES VARIADOS 2", A3Cine
+https://v3.playerlatino.live/stream/m3u8/945|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png"   group-title="CANALES VARIADOS 2", A3Series
+https://v3.playerlatino.live/stream/m3u8/444|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png"   group-title="CANALES VARIADOS 2", ADN 40
+https://v3.playerlatino.live/stream/m3u8/447|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png"   group-title="CANALES VARIADOS 2", Afizzionados
+https://v3.playerlatino.live/stream/m3u8/939|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png"   group-title="CANALES VARIADOS 2", Afizzionados HD
+https://v3.playerlatino.live/stream/m3u8/878|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aljazeera.png"   group-title="CANALES VARIADOS 2", Al Jazeera
+https://v3.playerlatino.live/stream/m3u8/668|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png"   group-title="CANALES VARIADOS 2", Alf 24-7
+https://v3.playerlatino.live/stream/m3u8/426|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png"   group-title="CANALES VARIADOS 2", AMC
+https://v3.playerlatino.live/stream/m3u8/183|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png"   group-title="CANALES VARIADOS 2", AMC (ES)
+https://v3.playerlatino.live/stream/m3u8/981|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png"   group-title="CANALES VARIADOS 2", AMC HD
+https://v3.playerlatino.live/stream/m3u8/475|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png"   group-title="CANALES VARIADOS 2", America TV
+https://v3.playerlatino.live/stream/m3u8/780|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png"   group-title="CANALES VARIADOS 2", Animal Planet
+https://v3.playerlatino.live/stream/m3u8/3|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png"   group-title="CANALES VARIADOS 2", Animal Planet HD
+https://v3.playerlatino.live/stream/m3u8/633|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png"   group-title="CANALES VARIADOS 2", Animaniacs 24-7
+https://v3.playerlatino.live/stream/m3u8/677|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png"   group-title="CANALES VARIADOS 2", Antena 3
+https://v3.playerlatino.live/stream/m3u8/298|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"   group-title="CANALES VARIADOS 2", AXN
+https://v3.playerlatino.live/stream/m3u8/146|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"   group-title="CANALES VARIADOS 2", AXN HD
+https://v3.playerlatino.live/stream/m3u8/476|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"   group-title="CANALES VARIADOS 2", AXN HD (ES)
+https://v3.playerlatino.live/stream/m3u8/713|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"   group-title="CANALES VARIADOS 2", AXN WHITE HD (ES)
+https://v3.playerlatino.live/stream/m3u8/714|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png"   group-title="CANALES VARIADOS 2", AyM Sports
+https://v3.playerlatino.live/stream/m3u8/148|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png"   group-title="CANALES VARIADOS 2", Az Cinema
+https://v3.playerlatino.live/stream/m3u8/186|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png"   group-title="CANALES VARIADOS 2", Az Clic
+https://v3.playerlatino.live/stream/m3u8/165|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png"   group-title="CANALES VARIADOS 2", AZ Corazon
+https://v3.playerlatino.live/stream/m3u8/166|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png"   group-title="CANALES VARIADOS 2", Az Coraz\u00f3n HD
+https://v3.playerlatino.live/stream/m3u8/834|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png"   group-title="CANALES VARIADOS 2", Azteca 7
+https://v3.playerlatino.live/stream/m3u8/5|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png"   group-title="CANALES VARIADOS 2", Azteca 7 HD
+https://v3.playerlatino.live/stream/m3u8/635|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png"   group-title="CANALES VARIADOS 2", Azteca Uno
+https://v3.playerlatino.live/stream/m3u8/4|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png"   group-title="CANALES VARIADOS 2", Azteca Uno HD
+https://v3.playerlatino.live/stream/m3u8/634|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png"   group-title="CANALES VARIADOS 2", Baby TV
+https://v3.playerlatino.live/stream/m3u8/7|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png"   group-title="CANALES VARIADOS 2", Bandamax
+https://v3.playerlatino.live/stream/m3u8/8|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png"   group-title="CANALES VARIADOS 2", Bandamax HD
+https://v3.playerlatino.live/stream/m3u8/833|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/basketamericas.jpg"   group-title="CANALES VARIADOS 2", Basket Americas
+https://v3.playerlatino.live/stream/m3u8/965|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bbc.png"   group-title="CANALES VARIADOS 2", BBC HD
+https://v3.playerlatino.live/stream/m3u8/931|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png"   group-title="CANALES VARIADOS 2", BeinSports
+https://v3.playerlatino.live/stream/m3u8/753|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png"   group-title="CANALES VARIADOS 2", BeinSports HD
+https://v3.playerlatino.live/stream/m3u8/9|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png"   group-title="CANALES VARIADOS 2", BeinSports \u00d1
+https://v3.playerlatino.live/stream/m3u8/761|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png"   group-title="CANALES VARIADOS 2", BeinSports \u00d1 HD
+https://v3.playerlatino.live/stream/m3u8/376|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bitme.png"   group-title="CANALES VARIADOS 2", BitMe
+https://v3.playerlatino.live/stream/m3u8/946|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png"   group-title="CANALES VARIADOS 2", Bob Esponja 24-7
+https://v3.playerlatino.live/stream/m3u8/518|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png"   group-title="CANALES VARIADOS 2", Bolivision
+https://v3.playerlatino.live/stream/m3u8/783|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png"   group-title="CANALES VARIADOS 2", Breaking Bad 24-7
+https://v3.playerlatino.live/stream/m3u8/846|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png"   group-title="CANALES VARIADOS 2", Caballeros del Zodiaco 24-7
+https://v3.playerlatino.live/stream/m3u8/427|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png"   group-title="CANALES VARIADOS 2", Canal 5
+https://v3.playerlatino.live/stream/m3u8/14|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png"   group-title="CANALES VARIADOS 2", Canal 5 HD
+https://v3.playerlatino.live/stream/m3u8/941|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="https://puu.sh/q8r7W/5c19627d41.png"   group-title="CANALES VARIADOS 2", Canal 5 Honduras
+https://v3.playerlatino.live/stream/m3u8/773|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelamusica.png"   group-title="CANALES VARIADOS 2", Canal de la Musica
+https://v3.playerlatino.live/stream/m3u8/962|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png"   group-title="CANALES VARIADOS 2", Canal de las Estrellas
+https://v3.playerlatino.live/stream/m3u8/411|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png"   group-title="CANALES VARIADOS 2", Canal de las Estrellas HD
+https://v3.playerlatino.live/stream/m3u8/636|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png"   group-title="CANALES VARIADOS 2", Canal+ Toros
+https://v3.playerlatino.live/stream/m3u8/369|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo=""   group-title="CANALES VARIADOS 2", Candy Candy 24-7
+https://v3.playerlatino.live/stream/m3u8/808|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png"   group-title="CANALES VARIADOS 2", Cantinflas 24-7
+https://v3.playerlatino.live/stream/m3u8/428|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png"   group-title="CANALES VARIADOS 2", Caracol
+https://v3.playerlatino.live/stream/m3u8/391|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png"   group-title="CANALES VARIADOS 2", Caracol Internacional
+https://v3.playerlatino.live/stream/m3u8/290|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png"   group-title="CANALES VARIADOS 2", Cartoon Network
+https://v3.playerlatino.live/stream/m3u8/17|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png"   group-title="CANALES VARIADOS 2", Cartoon Network HD
+https://v3.playerlatino.live/stream/m3u8/637|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png"   group-title="CANALES VARIADOS 2", Cartoonito
+https://v3.playerlatino.live/stream/m3u8/11|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png"   group-title="CANALES VARIADOS 2", Cartoonito HD
+https://v3.playerlatino.live/stream/m3u8/824|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/casocerrado.png"   group-title="CANALES VARIADOS 2", Caso Cerrado 24-7
+https://v3.playerlatino.live/stream/m3u8/907|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cbeebies.png"   group-title="CANALES VARIADOS 2", CBeebies
+https://v3.playerlatino.live/stream/m3u8/13|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cbs.png"   group-title="CANALES VARIADOS 2", CBS HD
+https://v3.playerlatino.live/stream/m3u8/932|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdf.png"   group-title="CANALES VARIADOS 2", CDF Premium
+https://v3.playerlatino.live/stream/m3u8/318|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdfpremium.png"   group-title="CANALES VARIADOS 2", CDF Premium HD
+https://v3.playerlatino.live/stream/m3u8/725|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdnsportsmax.png"   group-title="CANALES VARIADOS 2", CDN Sportsmax
+https://v3.playerlatino.live/stream/m3u8/206|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png"   group-title="CANALES VARIADOS 2", CDO Premium
+https://v3.playerlatino.live/stream/m3u8/401|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/celebritydeathmatch.png"   group-title="CANALES VARIADOS 2", Celebrity Deathmatch (EN) 24-7
+https://v3.playerlatino.live/stream/m3u8/985|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png"   group-title="CANALES VARIADOS 2", Chapulin Colorado 24-7
+https://v3.playerlatino.live/stream/m3u8/418|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg"   group-title="CANALES VARIADOS 2", Chespirito 24-7
+https://v3.playerlatino.live/stream/m3u8/417|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png"   group-title="CANALES VARIADOS 2", CHV Chilevision
+https://v3.playerlatino.live/stream/m3u8/198|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Accion 
+https://v3.playerlatino.live/stream/m3u8/990|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Accion HD
+https://v3.playerlatino.live/stream/m3u8/1022|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Accion Sagas
+https://v3.playerlatino.live/stream/m3u8/700|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Accion Sagas HD
+https://v3.playerlatino.live/stream/m3u8/707|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Comedia
+https://v3.playerlatino.live/stream/m3u8/695|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Comedia 2
+https://v3.playerlatino.live/stream/m3u8/696|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Comedia 2 HD
+https://v3.playerlatino.live/stream/m3u8/915|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Ficcion-Fantasia
+https://v3.playerlatino.live/stream/m3u8/709|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Ficcion-Fantasia 2
+https://v3.playerlatino.live/stream/m3u8/710|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Ficcion-Fantasia HD
+https://v3.playerlatino.live/stream/m3u8/712|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Infantil HD
+https://v3.playerlatino.live/stream/m3u8/702|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Infantil Sagas
+https://v3.playerlatino.live/stream/m3u8/694|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Infantil Sagas HD
+https://v3.playerlatino.live/stream/m3u8/703|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png"   group-title="CANALES VARIADOS 2", Cine Latino
+https://v3.playerlatino.live/stream/m3u8/295|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Marvel
+https://v3.playerlatino.live/stream/m3u8/697|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Marvel HD
+https://v3.playerlatino.live/stream/m3u8/701|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Romance
+https://v3.playerlatino.live/stream/m3u8/689|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Romance 2 HD
+https://v3.playerlatino.live/stream/m3u8/1023|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Romance HD
+https://v3.playerlatino.live/stream/m3u8/705|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Terror
+https://v3.playerlatino.live/stream/m3u8/693|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Terror 2 HD
+https://v3.playerlatino.live/stream/m3u8/913|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Terror HD
+https://v3.playerlatino.live/stream/m3u8/704|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Zombis
+https://v3.playerlatino.live/stream/m3u8/688|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Cine Zombis HD
+https://v3.playerlatino.live/stream/m3u8/917|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png"   group-title="CANALES VARIADOS 2", Cinecanal
+https://v3.playerlatino.live/stream/m3u8/18|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png"   group-title="CANALES VARIADOS 2", Cinecanal HD
+https://v3.playerlatino.live/stream/m3u8/479|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png"   group-title="CANALES VARIADOS 2", Cinemax
+https://v3.playerlatino.live/stream/m3u8/20|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png"   group-title="CANALES VARIADOS 2", Cinemax HD
+https://v3.playerlatino.live/stream/m3u8/638|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png"   group-title="CANALES VARIADOS 2", Claro Sports
+https://v3.playerlatino.live/stream/m3u8/328|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png"   group-title="CANALES VARIADOS 2", CNN en Espa\u00f1ol
+https://v3.playerlatino.live/stream/m3u8/136|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png"   group-title="CANALES VARIADOS 2", Comedy Central
+https://v3.playerlatino.live/stream/m3u8/135|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png"   group-title="CANALES VARIADOS 2", Comedy Central (ES)
+https://v3.playerlatino.live/stream/m3u8/719|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png"   group-title="CANALES VARIADOS 2", Comedy Central HD
+https://v3.playerlatino.live/stream/m3u8/480|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Conciertos HD
+https://v3.playerlatino.live/stream/m3u8/1012|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png"   group-title="CANALES VARIADOS 2", Coraje el Perro Cobarde 24-7
+https://v3.playerlatino.live/stream/m3u8/519|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/crimeinvestigation.png"   group-title="CANALES VARIADOS 2", Crime Investigation (ES)
+https://v3.playerlatino.live/stream/m3u8/720|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/csi_miami.png"   group-title="CANALES VARIADOS 2", CSI: Miami 24-7
+https://v3.playerlatino.live/stream/m3u8/908|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/daria.png"   group-title="CANALES VARIADOS 2", Daria 24-7
+https://v3.playerlatino.live/stream/m3u8/983|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png"   group-title="CANALES VARIADOS 2", De Pel\u00edcula
+https://v3.playerlatino.live/stream/m3u8/21|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png"   group-title="CANALES VARIADOS 2", De Pelicula HD
+https://v3.playerlatino.live/stream/m3u8/481|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png"   group-title="CANALES VARIADOS 2", DHE
+https://v3.playerlatino.live/stream/m3u8/844|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png"   group-title="CANALES VARIADOS 2", Dinosaurios 24-7
+https://v3.playerlatino.live/stream/m3u8/670|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvplus.png"   group-title="CANALES VARIADOS 2", DirecTV Plus
+https://v3.playerlatino.live/stream/m3u8/935|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png"   group-title="CANALES VARIADOS 2", Discovery Channel
+https://v3.playerlatino.live/stream/m3u8/22|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png"   group-title="CANALES VARIADOS 2", Discovery Channel HD
+https://v3.playerlatino.live/stream/m3u8/639|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png"   group-title="CANALES VARIADOS 2", Discovery Civilization
+https://v3.playerlatino.live/stream/m3u8/23|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png"   group-title="CANALES VARIADOS 2", Discovery H&H
+https://v3.playerlatino.live/stream/m3u8/24|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png"   group-title="CANALES VARIADOS 2", Discovery H&H HD
+https://v3.playerlatino.live/stream/m3u8/640|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png"   group-title="CANALES VARIADOS 2", Discovery Kids
+https://v3.playerlatino.live/stream/m3u8/25|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png"   group-title="CANALES VARIADOS 2", Discovery Kids HD
+https://v3.playerlatino.live/stream/m3u8/641|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png"   group-title="CANALES VARIADOS 2", Discovery SCI
+https://v3.playerlatino.live/stream/m3u8/26|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png"   group-title="CANALES VARIADOS 2", Discovery Theater HD
+https://v3.playerlatino.live/stream/m3u8/27|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png"   group-title="CANALES VARIADOS 2", Discovery Turbo
+https://v3.playerlatino.live/stream/m3u8/28|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png"   group-title="CANALES VARIADOS 2", Discovery Turbo HD
+https://v3.playerlatino.live/stream/m3u8/727|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png"   group-title="CANALES VARIADOS 2", Discovery World
+https://v3.playerlatino.live/stream/m3u8/187|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png"   group-title="CANALES VARIADOS 2", Disney Channel
+https://v3.playerlatino.live/stream/m3u8/29|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png"   group-title="CANALES VARIADOS 2", Disney Junior
+https://v3.playerlatino.live/stream/m3u8/30|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png"   group-title="CANALES VARIADOS 2", Disney Junior HD
+https://v3.playerlatino.live/stream/m3u8/826|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png"   group-title="CANALES VARIADOS 2", Distrito Comedia
+https://v3.playerlatino.live/stream/m3u8/32|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dmax.png"   group-title="CANALES VARIADOS 2", DMax HD
+https://v3.playerlatino.live/stream/m3u8/923|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png"   group-title="CANALES VARIADOS 2", Doraemon 24-7
+https://v3.playerlatino.live/stream/m3u8/521|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png"   group-title="CANALES VARIADOS 2", Dragon Ball (ES) 24-7
+https://v3.playerlatino.live/stream/m3u8/984|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png"   group-title="CANALES VARIADOS 2", Dragon Ball 24-7
+https://v3.playerlatino.live/stream/m3u8/425|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png"   group-title="CANALES VARIADOS 2", Dragon Ball GT 24-7
+https://v3.playerlatino.live/stream/m3u8/520|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png"   group-title="CANALES VARIADOS 2", Dragon Ball Super 24-7
+https://v3.playerlatino.live/stream/m3u8/424|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png"   group-title="CANALES VARIADOS 2", Dragon Ball Z 24-7
+https://v3.playerlatino.live/stream/m3u8/329|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballzkai.png"   group-title="CANALES VARIADOS 2", Dragon Ball Z Kai 24-7
+https://v3.playerlatino.live/stream/m3u8/993|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png"   group-title="CANALES VARIADOS 2", DSports
+https://v3.playerlatino.live/stream/m3u8/259|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png"   group-title="CANALES VARIADOS 2", DSports 2
+https://v3.playerlatino.live/stream/m3u8/667|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png"   group-title="CANALES VARIADOS 2", DSports 2 HD
+https://v3.playerlatino.live/stream/m3u8/975|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png"   group-title="CANALES VARIADOS 2", DSports 2 Sur HD
+https://v3.playerlatino.live/stream/m3u8/978|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png"   group-title="CANALES VARIADOS 2", DSports HD
+https://v3.playerlatino.live/stream/m3u8/974|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png"   group-title="CANALES VARIADOS 2", E!
+https://v3.playerlatino.live/stream/m3u8/33|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png"   group-title="CANALES VARIADOS 2", E! HD
+https://v3.playerlatino.live/stream/m3u8/483|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png"   group-title="CANALES VARIADOS 2", El 13 Argentina
+https://v3.playerlatino.live/stream/m3u8/239|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png"   group-title="CANALES VARIADOS 2", El Canal Del Futbol
+https://v3.playerlatino.live/stream/m3u8/892|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png"   group-title="CANALES VARIADOS 2", El Chavo Animado 24-7
+https://v3.playerlatino.live/stream/m3u8/790|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png"   group-title="CANALES VARIADOS 2", El Chavo del 8 24-7
+https://v3.playerlatino.live/stream/m3u8/400|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcondepatula.png"   group-title="CANALES VARIADOS 2", El Conde Patula 24-7
+https://v3.playerlatino.live/stream/m3u8/949|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png"   group-title="CANALES VARIADOS 2", El Coyote y el Correcaminos 24-7
+https://v3.playerlatino.live/stream/m3u8/429|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png"   group-title="CANALES VARIADOS 2", El Gallo Claudio 24-7
+https://v3.playerlatino.live/stream/m3u8/845|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png"   group-title="CANALES VARIADOS 2", El Gourmet
+https://v3.playerlatino.live/stream/m3u8/157|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png"   group-title="CANALES VARIADOS 2", El Increible Mundo de Gumball 24-7
+https://v3.playerlatino.live/stream/m3u8/791|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png"   group-title="CANALES VARIADOS 2", El Nueve
+https://v3.playerlatino.live/stream/m3u8/772|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png"   group-title="CANALES VARIADOS 2", El Pajaro Loco 24-7
+https://v3.playerlatino.live/stream/m3u8/525|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png"   group-title="CANALES VARIADOS 2", El Principel del Rap 24-7
+https://v3.playerlatino.live/stream/m3u8/430|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png"   group-title="CANALES VARIADOS 2", El Se\u00f1or de los Cielos 24-7
+https://v3.playerlatino.live/stream/m3u8/820|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png"   group-title="CANALES VARIADOS 2", El Trece
+https://v3.playerlatino.live/stream/m3u8/765|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"   group-title="CANALES VARIADOS 2", El Trece
+https://v3.playerlatino.live/stream/m3u8/767|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png"   group-title="CANALES VARIADOS 2", ESPN
+https://v3.playerlatino.live/stream/m3u8/34|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png"   group-title="CANALES VARIADOS 2", ESPN 2
+https://v3.playerlatino.live/stream/m3u8/35|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png"   group-title="CANALES VARIADOS 2", ESPN 2 HD
+https://v3.playerlatino.live/stream/m3u8/484|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png"   group-title="CANALES VARIADOS 2", ESPN 2 MX
+https://v3.playerlatino.live/stream/m3u8/531|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png"   group-title="CANALES VARIADOS 2", ESPN 3 HD
+https://v3.playerlatino.live/stream/m3u8/485|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png"   group-title="CANALES VARIADOS 2", ESPN 4
+https://v3.playerlatino.live/stream/m3u8/951|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png"   group-title="CANALES VARIADOS 2", ESPN HD
+https://v3.playerlatino.live/stream/m3u8/486|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png"   group-title="CANALES VARIADOS 2", ESPN MX
+https://v3.playerlatino.live/stream/m3u8/530|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png"   group-title="CANALES VARIADOS 2", ESPN Plus
+https://v3.playerlatino.live/stream/m3u8/37|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png"   group-title="CANALES VARIADOS 2", ESPN Plus HD
+https://v3.playerlatino.live/stream/m3u8/487|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png"   group-title="CANALES VARIADOS 2", ESPN Premium
+https://v3.playerlatino.live/stream/m3u8/972|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png"   group-title="CANALES VARIADOS 2", ESPN Premium HD
+https://v3.playerlatino.live/stream/m3u8/952|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png"   group-title="CANALES VARIADOS 2", Estrella TV
+https://v3.playerlatino.live/stream/m3u8/177|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/europa.png"   group-title="CANALES VARIADOS 2", Europa Europa
+https://v3.playerlatino.live/stream/m3u8/957|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png"   group-title="CANALES VARIADOS 2", Film & Arts HD
+https://v3.playerlatino.live/stream/m3u8/149|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png"   group-title="CANALES VARIADOS 2", Film & Arts HD (EN)
+https://v3.playerlatino.live/stream/m3u8/729|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foodnetwork.png"   group-title="CANALES VARIADOS 2", Food Network
+https://v3.playerlatino.live/stream/m3u8/961|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png"   group-title="CANALES VARIADOS 2", Formula 1 TV (F1)
+https://v3.playerlatino.live/stream/m3u8/192|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png"   group-title="CANALES VARIADOS 2", Fox (ES) HD
+https://v3.playerlatino.live/stream/m3u8/926|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxnews.png"   group-title="CANALES VARIADOS 2", Fox News
+https://v3.playerlatino.live/stream/m3u8/960|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"   group-title="CANALES VARIADOS 2", Fox Sports
+https://v3.playerlatino.live/stream/m3u8/52|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"   group-title="CANALES VARIADOS 2", Fox Sports 2
+https://v3.playerlatino.live/stream/m3u8/53|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"   group-title="CANALES VARIADOS 2", Fox Sports 2 Argentina HD
+https://v3.playerlatino.live/stream/m3u8/770|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"   group-title="CANALES VARIADOS 2", Fox Sports 2 HD
+https://v3.playerlatino.live/stream/m3u8/494|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"   group-title="CANALES VARIADOS 2", Fox Sports 2 MX
+https://v3.playerlatino.live/stream/m3u8/528|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png"   group-title="CANALES VARIADOS 2", Fox Sports 3 HD
+https://v3.playerlatino.live/stream/m3u8/839|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png"   group-title="CANALES VARIADOS 2", Fox Sports 3 MX
+https://v3.playerlatino.live/stream/m3u8/54|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"   group-title="CANALES VARIADOS 2", Fox Sports Argentina HD
+https://v3.playerlatino.live/stream/m3u8/769|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"   group-title="CANALES VARIADOS 2", Fox Sports HD
+https://v3.playerlatino.live/stream/m3u8/493|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"   group-title="CANALES VARIADOS 2", Fox Sports MX
+https://v3.playerlatino.live/stream/m3u8/527|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png"   group-title="CANALES VARIADOS 2", Fox Sports Premium
+https://v3.playerlatino.live/stream/m3u8/512|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png"   group-title="CANALES VARIADOS 2", Fox Sports Premium HD
+https://v3.playerlatino.live/stream/m3u8/658|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"   group-title="CANALES VARIADOS 2", Fox Sports Sur
+https://v3.playerlatino.live/stream/m3u8/402|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"   group-title="CANALES VARIADOS 2", Fox Sports Sur 2
+https://v3.playerlatino.live/stream/m3u8/410|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png"   group-title="CANALES VARIADOS 2", Fox Sports Sur 3
+https://v3.playerlatino.live/stream/m3u8/511|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fs1.png"   group-title="CANALES VARIADOS 2", FS1 USA HD
+https://v3.playerlatino.live/stream/m3u8/936|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fs2.png"   group-title="CANALES VARIADOS 2", FS2 USA HD
+https://v3.playerlatino.live/stream/m3u8/937|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo=""   group-title="CANALES VARIADOS 2", Futurama 24-7
+https://v3.playerlatino.live/stream/m3u8/793|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png"   group-title="CANALES VARIADOS 2", FX
+https://v3.playerlatino.live/stream/m3u8/42|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png"   group-title="CANALES VARIADOS 2", FX HD
+https://v3.playerlatino.live/stream/m3u8/495|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png"   group-title="CANALES VARIADOS 2", Nu9ve
+https://v3.playerlatino.live/stream/m3u8/56|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png"   group-title="CANALES VARIADOS 2", Nu9ve HD
+https://v3.playerlatino.live/stream/m3u8/651|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png"   group-title="CANALES VARIADOS 2", Gamavision
+https://v3.playerlatino.live/stream/m3u8/891|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png"   group-title="CANALES VARIADOS 2", Game of Thrones 24-7
+https://v3.playerlatino.live/stream/m3u8/515|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/garagetv.png"   group-title="CANALES VARIADOS 2", Garage TV HD
+https://v3.playerlatino.live/stream/m3u8/156|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo=""   group-title="CANALES VARIADOS 2", Garfield 24-7
+https://v3.playerlatino.live/stream/m3u8/812|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png"   group-title="CANALES VARIADOS 2", Glitz
+https://v3.playerlatino.live/stream/m3u8/158|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png"   group-title="CANALES VARIADOS 2", Gol Peru
+https://v3.playerlatino.live/stream/m3u8/686|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png"   group-title="CANALES VARIADOS 2", Gol TV HD
+https://v3.playerlatino.live/stream/m3u8/514|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png"   group-title="CANALES VARIADOS 2", Golden
+https://v3.playerlatino.live/stream/m3u8/57|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png"   group-title="CANALES VARIADOS 2", Golden Edge
+https://v3.playerlatino.live/stream/m3u8/58|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png"   group-title="CANALES VARIADOS 2", Golden HD
+https://v3.playerlatino.live/stream/m3u8/496|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golfchannel.png"   group-title="CANALES VARIADOS 2", Golf Channel HD
+https://v3.playerlatino.live/stream/m3u8/964|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png"   group-title="CANALES VARIADOS 2", H2
+https://v3.playerlatino.live/stream/m3u8/61|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/happytreefriends.png"   group-title="CANALES VARIADOS 2", Happy Tree Friends 24-7
+https://v3.playerlatino.live/stream/m3u8/992|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png"   group-title="CANALES VARIADOS 2", HBO
+https://v3.playerlatino.live/stream/m3u8/62|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png"   group-title="CANALES VARIADOS 2", HBO (EN)
+https://v3.playerlatino.live/stream/m3u8/723|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png"   group-title="CANALES VARIADOS 2", HBO 2
+https://v3.playerlatino.live/stream/m3u8/300|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png"   group-title="CANALES VARIADOS 2", HBO 2 (EN)
+https://v3.playerlatino.live/stream/m3u8/724|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png"   group-title="CANALES VARIADOS 2", HBO 2 HD
+https://v3.playerlatino.live/stream/m3u8/732|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png"   group-title="CANALES VARIADOS 2", HBO 2 HD (EN)
+https://v3.playerlatino.live/stream/m3u8/733|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png"   group-title="CANALES VARIADOS 2", HBO Family
+https://v3.playerlatino.live/stream/m3u8/63|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png"   group-title="CANALES VARIADOS 2", HBO Family HD
+https://v3.playerlatino.live/stream/m3u8/968|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png"   group-title="CANALES VARIADOS 2", HBO HD
+https://v3.playerlatino.live/stream/m3u8/654|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbomundi.png"   group-title="CANALES VARIADOS 2", HBO Mundi HD
+https://v3.playerlatino.live/stream/m3u8/841|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png"   group-title="CANALES VARIADOS 2", HBO Plus
+https://v3.playerlatino.live/stream/m3u8/64|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png"   group-title="CANALES VARIADOS 2", HBO Plus (EN)
+https://v3.playerlatino.live/stream/m3u8/722|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png"   group-title="CANALES VARIADOS 2", HBO Plus HD
+https://v3.playerlatino.live/stream/m3u8/655|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png"   group-title="CANALES VARIADOS 2", HBO Plus Oeste HD
+https://v3.playerlatino.live/stream/m3u8/728|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png"   group-title="CANALES VARIADOS 2", HBO Pop
+https://v3.playerlatino.live/stream/m3u8/977|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png"   group-title="CANALES VARIADOS 2", HBO Xtreme
+https://v3.playerlatino.live/stream/m3u8/814|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png"   group-title="CANALES VARIADOS 2", HBO Xtreme HD
+https://v3.playerlatino.live/stream/m3u8/971|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hchhonduras.png"   group-title="CANALES VARIADOS 2", HCH
+https://v3.playerlatino.live/stream/m3u8/779|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heman.png"   group-title="CANALES VARIADOS 2", He-Man 24-7
+https://v3.playerlatino.live/stream/m3u8/996|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png"   group-title="CANALES VARIADOS 2", Hey Arnold 24-7
+https://v3.playerlatino.live/stream/m3u8/522|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png"   group-title="CANALES VARIADOS 2", Historia (ES)
+https://v3.playerlatino.live/stream/m3u8/718|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png"   group-title="CANALES VARIADOS 2", History Channel
+https://v3.playerlatino.live/stream/m3u8/67|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png"   group-title="CANALES VARIADOS 2", History Channel HD
+https://v3.playerlatino.live/stream/m3u8/642|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png"   group-title="CANALES VARIADOS 2", Hola TV
+https://v3.playerlatino.live/stream/m3u8/189|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png"   group-title="CANALES VARIADOS 2", HTV
+https://v3.playerlatino.live/stream/m3u8/66|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png"   group-title="CANALES VARIADOS 2", I.Sat
+https://v3.playerlatino.live/stream/m3u8/153|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png"   group-title="CANALES VARIADOS 2", Imagen Television
+https://v3.playerlatino.live/stream/m3u8/341|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png"   group-title="CANALES VARIADOS 2", Imagen Televisi\u00f3n HD
+https://v3.playerlatino.live/stream/m3u8/643|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png"   group-title="CANALES VARIADOS 2", ID
+https://v3.playerlatino.live/stream/m3u8/68|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png"   group-title="CANALES VARIADOS 2", ID HD
+https://v3.playerlatino.live/stream/m3u8/825|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ironman.png"   group-title="CANALES VARIADOS 2", Ironman 24-7
+https://v3.playerlatino.live/stream/m3u8/948|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png"   group-title="CANALES VARIADOS 2", Johnny Bravo 24-7
+https://v3.playerlatino.live/stream/m3u8/786|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/jorgeelcurioso.png"   group-title="CANALES VARIADOS 2", Jorge el Curioso 24-7
+https://v3.playerlatino.live/stream/m3u8/909|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/la1.png"   group-title="CANALES VARIADOS 2", La 1 HD
+https://v3.playerlatino.live/stream/m3u8/927|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/la2hd.png"   group-title="CANALES VARIADOS 2", La 2 HD
+https://v3.playerlatino.live/stream/m3u8/967|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lafamiliamonster.png"   group-title="CANALES VARIADOS 2", La Familia Monster 24-7
+https://v3.playerlatino.live/stream/m3u8/910|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo=""   group-title="CANALES VARIADOS 2", La Familia PeLuche 24-7
+https://v3.playerlatino.live/stream/m3u8/811|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png"   group-title="CANALES VARIADOS 2", La Hora Pico 24-7
+https://v3.playerlatino.live/stream/m3u8/887|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png"   group-title="CANALES VARIADOS 2", La Pantera Rosa 24-7
+https://v3.playerlatino.live/stream/m3u8/671|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png"   group-title="CANALES VARIADOS 2", La Peque\u00f1a Lulu 24-7
+https://v3.playerlatino.live/stream/m3u8/792|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png"   group-title="CANALES VARIADOS 2", La Rosa de Guadalupe 24-7
+https://v3.playerlatino.live/stream/m3u8/886|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasexta.png"   group-title="CANALES VARIADOS 2", La Sexta HD
+https://v3.playerlatino.live/stream/m3u8/928|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png"   group-title="CANALES VARIADOS 2", La Vaca y ElPollito 24-7
+https://v3.playerlatino.live/stream/m3u8/809|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png"   group-title="CANALES VARIADOS 2", Latina
+https://v3.playerlatino.live/stream/m3u8/782|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png"   group-title="CANALES VARIADOS 2", Le Temes a la Oscuridad 24-7
+https://v3.playerlatino.live/stream/m3u8/888|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png"   group-title="CANALES VARIADOS 2", Lifetime
+https://v3.playerlatino.live/stream/m3u8/152|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png"   group-title="CANALES VARIADOS 2", Liga de Campeones
+https://v3.playerlatino.live/stream/m3u8/890|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png"   group-title="CANALES VARIADOS 2", Liga de Campeones 2
+https://v3.playerlatino.live/stream/m3u8/893|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png"   group-title="CANALES VARIADOS 2", Looney Tunes 24-7
+https://v3.playerlatino.live/stream/m3u8/524|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png"   group-title="CANALES VARIADOS 2", Los 3 Chiflados 24-7
+https://v3.playerlatino.live/stream/m3u8/423|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png"   group-title="CANALES VARIADOS 2", Los A\u00f1os Maravillosos 24-7
+https://v3.playerlatino.live/stream/m3u8/810|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png"   group-title="CANALES VARIADOS 2", Los Padrinos Magicos 24-7
+https://v3.playerlatino.live/stream/m3u8/813|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png"   group-title="CANALES VARIADOS 2", Los Picapiedra 24-7
+https://v3.playerlatino.live/stream/m3u8/669|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png"   group-title="CANALES VARIADOS 2", Los Pinguinos de Madagascar 24-7
+https://v3.playerlatino.live/stream/m3u8/794|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png"   group-title="CANALES VARIADOS 2", Los Pitufos 24-7
+https://v3.playerlatino.live/stream/m3u8/795|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png"   group-title="CANALES VARIADOS 2", Los Reyes de la Colina 24-7
+https://v3.playerlatino.live/stream/m3u8/796|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"   group-title="CANALES VARIADOS 2", Los Simpson (Temporadas 1-5) 24-7 
+https://v3.playerlatino.live/stream/m3u8/894|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"   group-title="CANALES VARIADOS 2", Los Simpson (Temporadas 12-17) 24-7 
+https://v3.playerlatino.live/stream/m3u8/896|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"   group-title="CANALES VARIADOS 2", Los Simpson (Temporadas 18-21) 24-7 
+https://v3.playerlatino.live/stream/m3u8/897|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"   group-title="CANALES VARIADOS 2", Los Simpson (Temporadas 22-26) 24-7 
+https://v3.playerlatino.live/stream/m3u8/898|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"   group-title="CANALES VARIADOS 2", Los Simpson (Temporadas 27-30) 24-7 
+https://v3.playerlatino.live/stream/m3u8/899|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"   group-title="CANALES VARIADOS 2", Los Simpson (Temporadas 6-11) 24-7 
+https://v3.playerlatino.live/stream/m3u8/895|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"   group-title="CANALES VARIADOS 2", Los Simpson 24-7
+https://v3.playerlatino.live/stream/m3u8/357|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png"   group-title="CANALES VARIADOS 2", Los Supersonicos 24-7
+https://v3.playerlatino.live/stream/m3u8/797|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png"   group-title="CANALES VARIADOS 2", Los Vengadores Unidos 24-7
+https://v3.playerlatino.live/stream/m3u8/818|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png"   group-title="CANALES VARIADOS 2", Malcolm 24-7
+https://v3.playerlatino.live/stream/m3u8/911|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png"   group-title="CANALES VARIADOS 2", Malcolm HD 24-7
+https://v3.playerlatino.live/stream/m3u8/798|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png"   group-title="CANALES VARIADOS 2", M\u00e1s chic
+https://v3.playerlatino.live/stream/m3u8/180|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"   group-title="CANALES VARIADOS 2", HBO Xtreme HD
+https://v3.playerlatino.live/stream/m3u8/730|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png"   group-title="CANALES VARIADOS 2", Max Steel 24-7
+https://v3.playerlatino.live/stream/m3u8/880|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"   group-title="CANALES VARIADOS 2", HBO Pop HD
+https://v3.playerlatino.live/stream/m3u8/659|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png"   group-title="CANALES VARIADOS 2", Mega
+https://v3.playerlatino.live/stream/m3u8/766|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png"   group-title="CANALES VARIADOS 2", Mega
+https://v3.playerlatino.live/stream/m3u8/784|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png"   group-title="CANALES VARIADOS 2", Mega ES HD
+https://v3.playerlatino.live/stream/m3u8/929|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"   group-title="CANALES VARIADOS 2", MegaCine HD
+https://v3.playerlatino.live/stream/m3u8/517|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mlb.png"   group-title="CANALES VARIADOS 2", MLB Network
+https://v3.playerlatino.live/stream/m3u8/293|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/morbidotv.png"   group-title="CANALES VARIADOS 2", Morbido TV
+https://v3.playerlatino.live/stream/m3u8/966|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png"   group-title="CANALES VARIADOS 2", Movie Max
+https://v3.playerlatino.live/stream/m3u8/678|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png"   group-title="CANALES VARIADOS 2", Movistar Accion HD
+https://v3.playerlatino.live/stream/m3u8/364|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png"   group-title="CANALES VARIADOS 2", Movistar Cine \u00d1
+https://v3.playerlatino.live/stream/m3u8/371|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png"   group-title="CANALES VARIADOS 2", Movistar Comedia
+https://v3.playerlatino.live/stream/m3u8/370|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes2.png"   group-title="CANALES VARIADOS 2", Movistar Deportes 2 HD
+https://v3.playerlatino.live/stream/m3u8/367|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png"   group-title="CANALES VARIADOS 2", Movistar Deportes HD
+https://v3.playerlatino.live/stream/m3u8/925|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png"   group-title="CANALES VARIADOS 2", Movistar Deportes Sur
+https://v3.playerlatino.live/stream/m3u8/366|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_estrenos.png"   group-title="CANALES VARIADOS 2", Movistar Estrenos HD
+https://v3.playerlatino.live/stream/m3u8/976|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_laliga.png"   group-title="CANALES VARIADOS 2", Movistar LaLiga HD
+https://v3.playerlatino.live/stream/m3u8/916|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_series.png"   group-title="CANALES VARIADOS 2", Movistar Series HD
+https://v3.playerlatino.live/stream/m3u8/924|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png"   group-title="CANALES VARIADOS 2", Mr. Bean 24-7
+https://v3.playerlatino.live/stream/m3u8/431|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"   group-title="CANALES VARIADOS 2", MTV
+https://v3.playerlatino.live/stream/m3u8/69|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"   group-title="CANALES VARIADOS 2", MTV (ES)
+https://v3.playerlatino.live/stream/m3u8/803|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"   group-title="CANALES VARIADOS 2", MTV 00s
+https://v3.playerlatino.live/stream/m3u8/953|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"   group-title="CANALES VARIADOS 2", MTV 80s
+https://v3.playerlatino.live/stream/m3u8/955|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"   group-title="CANALES VARIADOS 2", MTV HD
+https://v3.playerlatino.live/stream/m3u8/828|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png"   group-title="CANALES VARIADOS 2", MTV Live
+https://v3.playerlatino.live/stream/m3u8/70|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"   group-title="CANALES VARIADOS 2", MTV Sur
+https://v3.playerlatino.live/stream/m3u8/823|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"   group-title="CANALES VARIADOS 2", MTV WW
+https://v3.playerlatino.live/stream/m3u8/954|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/muchmusic.png"   group-title="CANALES VARIADOS 2", Much Music
+https://v3.playerlatino.live/stream/m3u8/950|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/muchalucha.png"   group-title="CANALES VARIADOS 2", Mucha Lucha 24-7
+https://v3.playerlatino.live/stream/m3u8/994|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/muchalucha.png"   group-title="CANALES VARIADOS 2", Mucha Lucha HD 24-7
+https://v3.playerlatino.live/stream/m3u8/995|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png"   group-title="CANALES VARIADOS 2", Multimedios
+https://v3.playerlatino.live/stream/m3u8/155|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png"   group-title="CANALES VARIADOS 2", Multimedios (Monterrey)
+https://v3.playerlatino.live/stream/m3u8/979|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png"   group-title="CANALES VARIADOS 2", Multimedios (Monterrey) HD
+https://v3.playerlatino.live/stream/m3u8/980|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png"   group-title="CANALES VARIADOS 2", Multimedios HD
+https://v3.playerlatino.live/stream/m3u8/943|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png"   group-title="CANALES VARIADOS 2", Multimedios Plus
+https://v3.playerlatino.live/stream/m3u8/325|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png"   group-title="CANALES VARIADOS 2", MultiPremier
+https://v3.playerlatino.live/stream/m3u8/294|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"   group-title="CANALES VARIADOS 2", Music Now
+https://v3.playerlatino.live/stream/m3u8/690|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png"   group-title="CANALES VARIADOS 2", Music Top
+https://v3.playerlatino.live/stream/m3u8/691|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png"   group-title="CANALES VARIADOS 2", Naruto 24-7
+https://v3.playerlatino.live/stream/m3u8/523|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png"   group-title="CANALES VARIADOS 2", Nat Geo
+https://v3.playerlatino.live/stream/m3u8/76|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png"   group-title="CANALES VARIADOS 2", Nat Geo HD
+https://v3.playerlatino.live/stream/m3u8/644|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png"   group-title="CANALES VARIADOS 2", NBA
+https://v3.playerlatino.live/stream/m3u8/838|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nbcgolf.png"   group-title="CANALES VARIADOS 2", NBC Golf
+https://v3.playerlatino.live/stream/m3u8/947|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nbc.png"   group-title="CANALES VARIADOS 2", NBC HD
+https://v3.playerlatino.live/stream/m3u8/933|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/neox.png"   group-title="CANALES VARIADOS 2", Neox (ES)
+https://v3.playerlatino.live/stream/m3u8/353|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nfl.png"   group-title="CANALES VARIADOS 2", NFL Network
+https://v3.playerlatino.live/stream/m3u8/204|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png"   group-title="CANALES VARIADOS 2", Nick
+https://v3.playerlatino.live/stream/m3u8/78|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick2.png"   group-title="CANALES VARIADOS 2", Teen Nick HD
+https://v3.playerlatino.live/stream/m3u8/646|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png"   group-title="CANALES VARIADOS 2", Nick HD
+https://v3.playerlatino.live/stream/m3u8/645|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png"   group-title="CANALES VARIADOS 2", Nick JR
+https://v3.playerlatino.live/stream/m3u8/79|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png"   group-title="CANALES VARIADOS 2", Nick JR HD
+https://v3.playerlatino.live/stream/m3u8/829|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png"   group-title="CANALES VARIADOS 2", Nick Music
+https://v3.playerlatino.live/stream/m3u8/80|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png"   group-title="CANALES VARIADOS 2", Nickelodeon
+https://v3.playerlatino.live/stream/m3u8/184|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nova.png"   group-title="CANALES VARIADOS 2", Nova (ES)
+https://v3.playerlatino.live/stream/m3u8/717|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png"   group-title="CANALES VARIADOS 2", One Punch Man 24-7
+https://v3.playerlatino.live/stream/m3u8/661|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pac12.png"   group-title="CANALES VARIADOS 2", PAC12 HD
+https://v3.playerlatino.live/stream/m3u8/934|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png"   group-title="CANALES VARIADOS 2", Padre de Familia 24-7
+https://v3.playerlatino.live/stream/m3u8/416|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pakapaka.png"   group-title="CANALES VARIADOS 2", PakaPaka
+https://v3.playerlatino.live/stream/m3u8/959|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png"   group-title="CANALES VARIADOS 2", Paramount
+https://v3.playerlatino.live/stream/m3u8/200|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png"   group-title="CANALES VARIADOS 2", Paramount HD
+https://v3.playerlatino.live/stream/m3u8/647|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png"   group-title="CANALES VARIADOS 2", Paramount HD (ES)
+https://v3.playerlatino.live/stream/m3u8/970|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png"   group-title="CANALES VARIADOS 2", Pasiones HD
+https://v3.playerlatino.live/stream/m3u8/755|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png"   group-title="CANALES VARIADOS 2", Patoaventuras 24-7
+https://v3.playerlatino.live/stream/m3u8/819|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png"   group-title="CANALES VARIADOS 2", Patrulla Canina 24-7
+https://v3.playerlatino.live/stream/m3u8/807|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png"   group-title="CANALES VARIADOS 2", Peppa Pig 24-7
+https://v3.playerlatino.live/stream/m3u8/787|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png"   group-title="CANALES VARIADOS 2", PERU: Latina
+https://v3.playerlatino.live/stream/m3u8/317|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png"   group-title="CANALES VARIADOS 2", Pinky y Cerebro 24-7
+https://v3.playerlatino.live/stream/m3u8/721|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png"   group-title="CANALES VARIADOS 2", Pocoyo 24-7
+https://v3.playerlatino.live/stream/m3u8/799|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png"   group-title="CANALES VARIADOS 2", Pokemon 24-7
+https://v3.playerlatino.live/stream/m3u8/420|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/quieromusica.png"   group-title="CANALES VARIADOS 2", Quiero Musica
+https://v3.playerlatino.live/stream/m3u8/958|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png"   group-title="CANALES VARIADOS 2", Ranma 1-2 24-7
+https://v3.playerlatino.live/stream/m3u8/419|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png"   group-title="CANALES VARIADOS 2", RCN
+https://v3.playerlatino.live/stream/m3u8/390|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/retromusic.png"   group-title="CANALES VARIADOS 2", Retro Music
+https://v3.playerlatino.live/stream/m3u8/692|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ritmoson.png"   group-title="CANALES VARIADOS 2", Telehit Musica
+https://v3.playerlatino.live/stream/m3u8/154|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rtp.png"   group-title="CANALES VARIADOS 2", RTP
+https://v3.playerlatino.live/stream/m3u8/781|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png"   group-title="CANALES VARIADOS 2", Sakura Card Captor 24-7
+https://v3.playerlatino.live/stream/m3u8/672|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/samuraix.png"   group-title="CANALES VARIADOS 2", Samurai X 24-7
+https://v3.playerlatino.live/stream/m3u8/663|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/scoobydoo.png"   group-title="CANALES VARIADOS 2", Scooby Doo 24-7
+https://v3.playerlatino.live/stream/m3u8/422|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"   group-title="CANALES VARIADOS 2", Series Comedia 24-7
+https://v3.playerlatino.live/stream/m3u8/918|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/showtime.png"   group-title="CANALES VARIADOS 2", Showtime
+https://v3.playerlatino.live/stream/m3u8/679|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/skysports.png"   group-title="CANALES VARIADOS 2", SKY Sports MX HD
+https://v3.playerlatino.live/stream/m3u8/989|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/skysports.png"   group-title="CANALES VARIADOS 2", SKY Sports Premier HD
+https://v3.playerlatino.live/stream/m3u8/900|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png"   group-title="CANALES VARIADOS 2", Smallville 24-7
+https://v3.playerlatino.live/stream/m3u8/673|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png"   group-title="CANALES VARIADOS 2", Sony
+https://v3.playerlatino.live/stream/m3u8/145|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png"   group-title="CANALES VARIADOS 2", Sony HD
+https://v3.playerlatino.live/stream/m3u8/498|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png"   group-title="CANALES VARIADOS 2", South Park 24-7
+https://v3.playerlatino.live/stream/m3u8/674|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png"   group-title="CANALES VARIADOS 2", Space
+https://v3.playerlatino.live/stream/m3u8/83|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png"   group-title="CANALES VARIADOS 2", Space HD
+https://v3.playerlatino.live/stream/m3u8/499|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png"   group-title="CANALES VARIADOS 2", Spiderman 24-7
+https://v3.playerlatino.live/stream/m3u8/889|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png"   group-title="CANALES VARIADOS 2", Star Channel
+https://v3.playerlatino.live/stream/m3u8/45|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png"   group-title="CANALES VARIADOS 2", Star Channel HD
+https://v3.playerlatino.live/stream/m3u8/489|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/startve.png"   group-title="CANALES VARIADOS 2", StarTVE
+https://v3.playerlatino.live/stream/m3u8/944|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_cinema.png"   group-title="CANALES VARIADOS 2", Starz Cinema
+https://v3.playerlatino.live/stream/m3u8/680|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_comedy.png"   group-title="CANALES VARIADOS 2", Starz Comedy
+https://v3.playerlatino.live/stream/m3u8/681|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreaction.png"   group-title="CANALES VARIADOS 2", Starz Encore Action
+https://v3.playerlatino.live/stream/m3u8/682|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreblack.png"   group-title="CANALES VARIADOS 2", Starz Encore Black
+https://v3.playerlatino.live/stream/m3u8/683|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png"   group-title="CANALES VARIADOS 2", Starz Encore Family
+https://v3.playerlatino.live/stream/m3u8/684|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_hd.png"   group-title="CANALES VARIADOS 2", Starz HD
+https://v3.playerlatino.live/stream/m3u8/685|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png"   group-title="CANALES VARIADOS 2", Studio Universal
+https://v3.playerlatino.live/stream/m3u8/84|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png"   group-title="CANALES VARIADOS 2", Studio Universal HD
+https://v3.playerlatino.live/stream/m3u8/830|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png"   group-title="CANALES VARIADOS 2", Super Campeones 24-7
+https://v3.playerlatino.live/stream/m3u8/432|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png"   group-title="CANALES VARIADOS 2", USA
+https://v3.playerlatino.live/stream/m3u8/151|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png"   group-title="CANALES VARIADOS 2", SyFy (ES) HD
+https://v3.playerlatino.live/stream/m3u8/969|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png"   group-title="CANALES VARIADOS 2", USA HD
+https://v3.playerlatino.live/stream/m3u8/648|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png"   group-title="CANALES VARIADOS 2", TNT Novelas
+https://v3.playerlatino.live/stream/m3u8/171|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png"   group-title="CANALES VARIADOS 2", TNT Novelas HD
+https://v3.playerlatino.live/stream/m3u8/831|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png"   group-title="CANALES VARIADOS 2", TC Ecuador
+https://v3.playerlatino.live/stream/m3u8/885|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png"   group-title="CANALES VARIADOS 2", TCM
+https://v3.playerlatino.live/stream/m3u8/85|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png"   group-title="CANALES VARIADOS 2", TeenNick
+https://v3.playerlatino.live/stream/m3u8/882|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"   group-title="CANALES VARIADOS 2", Tele
+https://v3.playerlatino.live/stream/m3u8/778|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png"   group-title="CANALES VARIADOS 2", TeleAmazonas
+https://v3.playerlatino.live/stream/m3u8/320|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telecinco.png"   group-title="CANALES VARIADOS 2", Telecinco HD
+https://v3.playerlatino.live/stream/m3u8/922|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teledeporte.png"   group-title="CANALES VARIADOS 2", Teledeporte HD (ES)
+https://v3.playerlatino.live/stream/m3u8/330|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png"   group-title="CANALES VARIADOS 2", Telefe
+https://v3.playerlatino.live/stream/m3u8/771|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png"   group-title="CANALES VARIADOS 2", Telehit
+https://v3.playerlatino.live/stream/m3u8/91|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png"   group-title="CANALES VARIADOS 2", Telehit HD
+https://v3.playerlatino.live/stream/m3u8/649|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemax.png"   group-title="CANALES VARIADOS 2", Telemax
+https://v3.playerlatino.live/stream/m3u8/963|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png"   group-title="CANALES VARIADOS 2", Telemundo
+https://v3.playerlatino.live/stream/m3u8/92|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png"   group-title="CANALES VARIADOS 2", Telemundo HD
+https://v3.playerlatino.live/stream/m3u8/660|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png"   group-title="CANALES VARIADOS 2", The Big Bang Theory 24-7
+https://v3.playerlatino.live/stream/m3u8/676|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo=""   group-title="CANALES VARIADOS 2", The Walking Dead 24-7
+https://v3.playerlatino.live/stream/m3u8/800|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png"   group-title="CANALES VARIADOS 2", TigoSports Bolivia
+https://v3.playerlatino.live/stream/m3u8/764|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png"   group-title="CANALES VARIADOS 2", TigoSports Paraguay
+https://v3.playerlatino.live/stream/m3u8/843|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tiin.png"   group-title="CANALES VARIADOS 2", BitMe
+https://v3.playerlatino.live/stream/m3u8/93|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png"   group-title="CANALES VARIADOS 2", TLC
+https://v3.playerlatino.live/stream/m3u8/87|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png"   group-title="CANALES VARIADOS 2", Tlnovelas
+https://v3.playerlatino.live/stream/m3u8/94|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png"   group-title="CANALES VARIADOS 2", Tlnovelas HD
+https://v3.playerlatino.live/stream/m3u8/832|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleritmo.png"   group-title="CANALES VARIADOS 2", TLR (Teleritmo)
+https://v3.playerlatino.live/stream/m3u8/299|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleritmo.png"   group-title="CANALES VARIADOS 2", TLR HD
+https://v3.playerlatino.live/stream/m3u8/942|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png"   group-title="CANALES VARIADOS 2", TNT
+https://v3.playerlatino.live/stream/m3u8/179|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png"   group-title="CANALES VARIADOS 2", TNT HD
+https://v3.playerlatino.live/stream/m3u8/500|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png"   group-title="CANALES VARIADOS 2", TNT HD (ES)
+https://v3.playerlatino.live/stream/m3u8/982|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png"   group-title="CANALES VARIADOS 2", TNT Series
+https://v3.playerlatino.live/stream/m3u8/90|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png"   group-title="CANALES VARIADOS 2", TNT Series HD
+https://v3.playerlatino.live/stream/m3u8/650|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png"   group-title="CANALES VARIADOS 2", TNT Sports
+https://v3.playerlatino.live/stream/m3u8/509|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png"   group-title="CANALES VARIADOS 2", TNT Sports Chile
+https://v3.playerlatino.live/stream/m3u8/906|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png"   group-title="CANALES VARIADOS 2", Tom y Jerry 24-7
+https://v3.playerlatino.live/stream/m3u8/421|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png"   group-title="CANALES VARIADOS 2", Tooncast
+https://v3.playerlatino.live/stream/m3u8/95|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trece_colombia.png"   group-title="CANALES VARIADOS 2", Trece
+https://v3.playerlatino.live/stream/m3u8/774|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png"   group-title="CANALES VARIADOS 2", TrollHunters 24-7
+https://v3.playerlatino.live/stream/m3u8/662|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png"   group-title="CANALES VARIADOS 2", TruTV
+https://v3.playerlatino.live/stream/m3u8/96|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png"   group-title="CANALES VARIADOS 2", TruTv HD
+https://v3.playerlatino.live/stream/m3u8/501|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tumusicahd.png"   group-title="CANALES VARIADOS 2", Tu Musica HD
+https://v3.playerlatino.live/stream/m3u8/516|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"   group-title="CANALES VARIADOS 2", TUDN 
+https://v3.playerlatino.live/stream/m3u8/698|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"   group-title="CANALES VARIADOS 2", TUDN (Pocos Datos)
+https://v3.playerlatino.live/stream/m3u8/822|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"   group-title="CANALES VARIADOS 2", TUDN HD
+https://v3.playerlatino.live/stream/m3u8/801|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"   group-title="CANALES VARIADOS 2", TUDN op. 2
+https://v3.playerlatino.live/stream/m3u8/997|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"   group-title="CANALES VARIADOS 2", TUDN USA HD
+https://v3.playerlatino.live/stream/m3u8/86|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tvcdeportes.png"   group-title="CANALES VARIADOS 2", TVC Deportes
+https://v3.playerlatino.live/stream/m3u8/837|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png"   group-title="CANALES VARIADOS 2", TVC Ecuador
+https://v3.playerlatino.live/stream/m3u8/776|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tve.png"   group-title="CANALES VARIADOS 2", TVE
+https://v3.playerlatino.live/stream/m3u8/195|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tve.png"   group-title="CANALES VARIADOS 2", TVE HD
+https://v3.playerlatino.live/stream/m3u8/930|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png"   group-title="CANALES VARIADOS 2", Two And a Half Men 24-7
+https://v3.playerlatino.live/stream/m3u8/675|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png"   group-title="CANALES VARIADOS 2", Tyc Sports
+https://v3.playerlatino.live/stream/m3u8/274|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png"   group-title="CANALES VARIADOS 2", UFC Network
+https://v3.playerlatino.live/stream/m3u8/97|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png"   group-title="CANALES VARIADOS 2", Unicable
+https://v3.playerlatino.live/stream/m3u8/98|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png"   group-title="CANALES VARIADOS 2", Unicable HD
+https://v3.playerlatino.live/stream/m3u8/653|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png"   group-title="CANALES VARIADOS 2", Universal Channel
+https://v3.playerlatino.live/stream/m3u8/137|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_cinema.png"   group-title="CANALES VARIADOS 2", Universal Cinema HD
+https://v3.playerlatino.live/stream/m3u8/902|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_comedy.png"   group-title="CANALES VARIADOS 2", Universal Comedy HD
+https://v3.playerlatino.live/stream/m3u8/903|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_crime.png"   group-title="CANALES VARIADOS 2", Universal Crime HD
+https://v3.playerlatino.live/stream/m3u8/904|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png"   group-title="CANALES VARIADOS 2", Universal HD
+https://v3.playerlatino.live/stream/m3u8/502|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png"   group-title="CANALES VARIADOS 2", Universal Premiere HD
+https://v3.playerlatino.live/stream/m3u8/901|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png"   group-title="CANALES VARIADOS 2", Universal Reality HD
+https://v3.playerlatino.live/stream/m3u8/905|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png"   group-title="CANALES VARIADOS 2", Univision
+https://v3.playerlatino.live/stream/m3u8/99|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univisiondeportes.png"   group-title="CANALES VARIADOS 2", TUDN US
+https://v3.playerlatino.live/stream/m3u8/373|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"   group-title="CANALES VARIADOS 2", TUDN
+https://v3.playerlatino.live/stream/m3u8/100|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"   group-title="CANALES VARIADOS 2", Univision Tlnovelas
+https://v3.playerlatino.live/stream/m3u8/413|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"   group-title="CANALES VARIADOS 2", Uno
+https://v3.playerlatino.live/stream/m3u8/775|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vamos.png"   group-title="CANALES VARIADOS 2", Vamos HD
+https://v3.playerlatino.live/stream/m3u8/940|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png"   group-title="CANALES VARIADOS 2", MTV 00S
+https://v3.playerlatino.live/stream/m3u8/101|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png"   group-title="CANALES VARIADOS 2", MTV 00S
+https://v3.playerlatino.live/stream/m3u8/632|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/videorola.png"   group-title="CANALES VARIADOS 2", Video Rola
+https://v3.playerlatino.live/stream/m3u8/359|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv.png"   group-title="CANALES VARIADOS 2", VTV Uruaguay
+https://v3.playerlatino.live/stream/m3u8/708|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png"   group-title="CANALES VARIADOS 2", Wapa PR
+https://v3.playerlatino.live/stream/m3u8/327|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png"   group-title="CANALES VARIADOS 2", Warner Channel
+https://v3.playerlatino.live/stream/m3u8/102|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png"   group-title="CANALES VARIADOS 2", Warner Channel HD
+https://v3.playerlatino.live/stream/m3u8/503|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png"   group-title="CANALES VARIADOS 2", Win Sports
+https://v3.playerlatino.live/stream/m3u8/292|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png"   group-title="CANALES VARIADOS 2", Win Sports + HD
+https://v3.playerlatino.live/stream/m3u8/802|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png"   group-title="CANALES VARIADOS 2", Win Sports HD
+https://v3.playerlatino.live/stream/m3u8/754|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png"   group-title="CANALES VARIADOS 2", WWE Network
+https://v3.playerlatino.live/stream/m3u8/276|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png"   group-title="CANALES VARIADOS 2", Yu-Gi-Oh! 24-7
+https://v3.playerlatino.live/stream/m3u8/664|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"   group-title="CANALES VARIADOS 2", Zona TUDN 
+https://v3.playerlatino.live/stream/m3u8/956|user-agent=Lavf/57.71.001
 
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,Directv sports (62)
