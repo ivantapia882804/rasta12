@@ -410,7 +410,7 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+ CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhimt2.png" group-title="LOCALES",A+ CDMX
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Once
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once MX" tvg-logo="https://logo.iptveditor.com/canalonce.png" group-title="LOCALES",Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="LOCALES",Canal Catorce
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
@@ -618,7 +618,7 @@ https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=hfghjgfjhf
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
-#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="Nu9ve" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="LOCALES",Nu9ve
+#EXTINF:-1 tvg-id="XEQTDT.mx" tvg-name="Nu9ve" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="LOCALES",Nu9ve
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -627,7 +627,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=hfghjgfjhf
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
-#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once MX" tvg-logo="https://logo.iptveditor.com/canalonce.png" group-title="LOCALES",Canal Once
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once MX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png"  group-title="LOCALES", Canal Once MX
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -717,7 +717,7 @@ https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=hfghjgfjhf
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd
-#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="MPLUS" tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/multimedios_1905.png" group-title="LOCALES",Canal 6+
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="MMPLUS" tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/multimedios_1905.png" group-title="LOCALES",Canal 6+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
