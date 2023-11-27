@@ -663,15 +663,6 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_TV-UNAM-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=hfghjgfjhf
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-22-SD/default.mpd
-#EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="LOCALES REGIONALES",Mexiquense Televisión
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=hfghjgfjhf
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-http://live5-ott.izzigo.tv/out/u/dash/RDF_MEX_Mexiquense-HD/default.mpd
 #EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN40" tvg-logo="https://logo.iptveditor.com/adn40.png" group-title="LOCALES",ADN40
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -681,15 +672,6 @@ http://live5-ott.izzigo.tv/out/u/dash/RDF_MEX_Mexiquense-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=hfghjgfjhf
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/ADN-40-SD/default.mpd
-#EXTINF:-1 tvg-id="XEFBTDT.mx" tvg-name="Canal 4 Monterrey" tvg-logo="https://cdn6.aptoide.com/imgs/5/7/7/577b8cdbf80eb95a04cd00b6cfdf67d5_icon.png" group-title="LOCALES REGIONALES",Canal 4 Monterrey
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=hfghjgfjhf
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-Canal-4-Televisa-Mty-HD/default.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A+ Noreste" tvg-logo="https://logo.iptveditor.com/a+.png" group-title="LOCALES REGIONALES",A+ Noreste
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
