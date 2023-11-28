@@ -739,6 +739,7 @@ http://208.88.246.11:5473/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 
 #EXTINF:-1 group-title="LOCALES" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", A Mas HD (p)
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/19653.m3u8
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="LOCALES REGIONALES" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT",  TVMas 26.1 SD (i)
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/37800.m3u8
 #EXTINF:-1 group-title="LOCALES REGIONALES" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", A Mas Noreste SD (p)
