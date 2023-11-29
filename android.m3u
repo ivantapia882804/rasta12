@@ -136,375 +136,371 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/2101.m3u8|user-agent=BrzLRzQ
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30378.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1  tvg-id="FoxDeportes(Spanish).us" tvg-name="FOX DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="RECOMENDADOS", FOX DEPORTES
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/40910.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo 51 Miami" tvg-logo="telemnet.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="RECOMENDADOS", Telemundo 51 Miami
+#EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo 51 Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="RECOMENDADOS", Telemundo 51 Miami
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/1899.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="azteca1.png"  group-title="LOCALES", Azteca Uno
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="LOCALES", Azteca Uno
 http://166.0.208.26:5473/113azteca13/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="xew.png"  group-title="LOCALES", Las Estrellas
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.74835190079.png.f56373a3b38ea18c2c66ef37615a45b4.png"  group-title="LOCALES", Las Estrellas
 http://166.0.208.26:5473/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="xhctmx.png"  group-title="LOCALES", Imagen Television
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png"  group-title="LOCALES", Imagen Television
 http://166.0.208.26:5473/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="xhtv.png"  group-title="LOCALES", Foro
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Foro_TV_%28Canal_4_MX_2022%29.svg/1200px-Foro_TV_%28Canal_4_MX_2022%29.svg.png"  group-title="LOCALES", Foro
 http://208.88.246.11:5473/push/forotv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="xhgc.png"  group-title="LOCALES", Canal 5
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  group-title="LOCALES", Canal 5
 http://166.0.208.26:5473/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX (XHTDMX-TDT)" tvg-logo="xhaw.png"  group-title="LOCALES", Canal 6 CDMX (XHTDMX-TDT)
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX (XHTDMX-TDT)" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png"  group-title="LOCALES", Canal 6 CDMX (XHTDMX-TDT)
 http://166.0.208.26:5473/MultimediosPlus/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión (XHTDMX-TDT2)" tvg-logo="milen.png"  group-title="INFORMACIÓN", Milenio Televisión (XHTDMX-TDT2)
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión (XHTDMX-TDT2)" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_603-400x360.png"  group-title="INFORMACIÓN", Milenio Televisión (XHTDMX-TDT2)
 http://208.88.246.11:5473/710MilenioTV/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="azteca7.jpg"  group-title="LOCALES", Azteca 7
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="LOCALES", Azteca 7
 http://166.0.208.26:5473/107azteca7/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once MX" tvg-logo="xeipn.png"  group-title="LOCALES", Canal Once MX
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once MX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png"  group-title="LOCALES", Canal Once MX
 http://208.88.246.11:5473/111OnceTvMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="opma.png"  group-title="LOCALES", Canal Catorce
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png"  group-title="LOCALES", Canal Catorce
 http://208.88.246.11:5473/130unavoz/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="unam.png"  group-title="LOCALES", TV UNAM
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://unamenlinea.unam.mx/recursos/img/84753/tv-unam--bajo-demanda2.png"  group-title="LOCALES", TV UNAM
 http://208.88.246.11:5473/120tvunam/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="XEIMTTVMetropolitan(Canal22).mx" tvg-logo="can22.jpg"  group-title="LOCALES", Canal 22
+#EXTINF:-1 tvg-id="XEIMTTVMetropolitan(Canal22).mx" tvg-logo="https://manualdeimagen.canal22.org.mx/img/bn.png"  group-title="LOCALES", Canal 22
 http://208.88.246.11:5473/122canal22/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="MX Nuestro Cine" tvg-logo="can222.png"  group-title="LOCALES", MX Nuestro Cine
+#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="MX Nuestro Cine" tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png"  group-title="LOCALES", MX Nuestro Cine
 http://208.88.246.11:5473/304Canal222/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso" tvg-logo="xhhcu.png"  group-title="LOCALES", Canal Del Congreso
+#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Medias/Generales/jha5m2nc.png"  group-title="LOCALES", Canal Del Congreso
 http://208.88.246.11:5473/145congreso/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="star.png"  group-title="ENTRETENIMIENTO", Star Channel | HD
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png"  group-title="ENTRETENIMIENTO", Star Channel | HD
 http://208.88.246.11:5473/andromeda/FOX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="star.png"  group-title="ENTRETENIMIENTO", Star Channel
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png"  group-title="ENTRETENIMIENTO", Star Channel
 http://208.88.246.11:5473/202CanalFOXMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony Channel" tvg-logo="sony.png"  group-title="ENTRETENIMIENTO", Sony Channel
+#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1095174-8c.png"  group-title="ENTRETENIMIENTO", Sony Channel
 http://208.88.246.11:5473/211sony/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="PasionesTV(Spanish).us" tvg-name="Pasiones" tvg-logo="pasin.png"  group-title="ENTRETENIMIENTO", Pasiones
+#EXTINF:-1 tvg-id="PasionesTV(Spanish).us" tvg-name="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1024px-Pasiones_Tv_logo.svg.png"  group-title="ENTRETENIMIENTO", Pasiones
 http://208.88.246.11:5473/andromeda/PASIONES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner | HD" tvg-logo="warner.png"  group-title="ENTRETENIMIENTO", Warner | HD
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner | HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531197-8c.png"  group-title="ENTRETENIMIENTO", Warner | HD
 http://208.88.246.11:5473/andromeda/WARNER/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="warner.png"  group-title="ENTRETENIMIENTO", Warner
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531197-8c.png"  group-title="ENTRETENIMIENTO", Warner
 http://208.88.246.11:5473/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E! LA" tvg-logo="eent.png"  group-title="ENTRETENIMIENTO", E! LA
+#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E! LA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416571-8c.png"  group-title="ENTRETENIMIENTO", E! LA
 http://208.88.246.11:5473/212E!Latino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="fx.png"  group-title="ENTRETENIMIENTO", FX | HD
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_207-400x360.png"  group-title="ENTRETENIMIENTO", FX | HD
 http://208.88.246.11:5473/andromeda/FX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="fx.png"  group-title="ENTRETENIMIENTO", FX
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_207-400x360.png"  group-title="ENTRETENIMIENTO", FX
 http://208.88.246.11:5473/207FXLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal | HD" tvg-logo="universal.png"  group-title="ENTRETENIMIENTO", Universal | HD
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal | HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png"  group-title="ENTRETENIMIENTO", Universal | HD
 http://208.88.246.11:5473/andromeda/UNIVERSAL/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="universal.png"  group-title="ENTRETENIMIENTO", Universal
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png"  group-title="ENTRETENIMIENTO", Universal
 http://208.88.246.11:5473/203Universal/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series LatinoAmerica" tvg-logo="tnts.png"  group-title="ENTRETENIMIENTO", TNT Series
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series LatinoAmerica" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_222-400x360.png"  group-title="ENTRETENIMIENTO", TNT Series
 http://208.88.246.11:5473/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="USA.mx" tvg-name="USA" tvg-logo="syfy.png"  group-title="ENTRETENIMIENTO",USA
+#EXTINF:-1 tvg-id="USA.mx" tvg-name="USA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1102352-8c.png"  group-title="ENTRETENIMIENTO",USA
 http://208.88.246.11:5473/204SyFyLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID" tvg-logo="peoplearts.png"  group-title="ENTRETENIMIENTO", ID | HD
+#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518573-8c.png"  group-title="ENTRETENIMIENTO", ID | HD
 http://208.88.246.11:5473/andromeda/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID" tvg-logo="peoplearts.png"  group-title="ENTRETENIMIENTO", ID
+#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518573-8c.png"  group-title="ENTRETENIMIENTO", ID
 http://208.88.246.11:5473/216I.D/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="ae.png"  group-title="ENTRETENIMIENTO", A&E | HD
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_215-400x360.png"  group-title="ENTRETENIMIENTO", A&E | HD
 http://208.88.246.11:5473/andromeda/AE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="ae.png"  group-title="ENTRETENIMIENTO", A&E
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_215-400x360.png"  group-title="ENTRETENIMIENTO", A&E
 http://208.88.246.11:5473/214AELatino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime" tvg-logo="bio.png"  group-title="ENTRETENIMIENTO", Lifetime
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522142-8c.png"  group-title="ENTRETENIMIENTO", Lifetime
 http://208.88.246.11:5473/414LIFET/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="axn.png"  group-title="ENTRETENIMIENTO", AXN | HD
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_213-400x360.png"  group-title="ENTRETENIMIENTO", AXN | HD
 http://208.88.246.11:5473/andromeda/AXN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="axn.png"  group-title="ENTRETENIMIENTO", AXN
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_213-400x360.png"  group-title="ENTRETENIMIENTO", AXN
 http://208.88.246.11:5473/213AXNLatinoAmerica/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="adultswim.mx" tvg-name="adult swim" tvg-logo=""  group-title="KIDS", adult swim
+#EXTINF:-1 tvg-id="adultswim.mx" tvg-name="adult swim" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1106736-8c.png"  group-title="KIDS", adult swim
 http://208.88.246.11:5473/222ISAT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="nbcuni.png"  group-title="ENTRETENIMIENTO", Universo
+#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="ENTRETENIMIENTO", Universo
 http://208.88.246.11:5473/transco10/9509UNVSO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="estrella.png"  group-title="ENTRETENIMIENTO", Estrella TV
+#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"  group-title="ENTRETENIMIENTO", Estrella TV
 http://208.88.246.11:5473/eventox3/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" tvg-name="Telemundo Pacific" tvg-logo="telemnet.png"  group-title="ENTRETENIMIENTO", Telemundo Pacific
+#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" tvg-name="Telemundo Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"  group-title="ENTRETENIMIENTO", Telemundo Pacific
 http://208.88.246.11:5473/andrew/telehit/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="uninet.png"  group-title="ENTRETENIMIENTO", Univisión
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png"  group-title="ENTRETENIMIENTO", Univisión
 http://208.88.246.11:5473/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="UnivisionNetwork(Pacific)(Spanish).us" tvg-logo="uninet.png"  group-title="ENTRETENIMIENTO", Univisión 34 Los Angeles
+#EXTINF:-1 tvg-id="UnivisionNetwork(Pacific)(Spanish).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png"  group-title="ENTRETENIMIENTO", Univisión 34 Los Angeles
 http://208.88.246.11:5473/eventox2/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="umas.png"  group-title="ENTRETENIMIENTO", UniMas
+#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/2669px-Logo_UniM%C3%A1s_2021.svg.png"  group-title="ENTRETENIMIENTO", UniMas
 http://208.88.246.11:5473/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="gala.png"  group-title="ENTRETENIMIENTO", Galavisión
+#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/800px-Galavision_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", Galavisión
 http://208.88.246.11:5473/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WKAQDT.pr" tvg-name="Telemundo Puerto Rico" tvg-logo="wkaq.png"  group-title="ENTRETENIMIENTO", Telemundo Puerto Rico
+#EXTINF:-1 tvg-id="WKAQDT.pr" tvg-name="Telemundo Puerto Rico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png"  group-title="ENTRETENIMIENTO", Telemundo Puerto Rico
 http://208.88.246.11:5473/0000/CH=%C2%A0PR-WKAQ/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WAPADT.pr" tvg-name="WAPA" tvg-id="WAPADT.pr" tvg-name="WAPA" tvg-logo="wapa.png"  group-title="ENTRETENIMIENTO", WAPA
+#EXTINF:-1 tvg-id="WAPADT.pr" tvg-name="WAPA" tvg-id="WAPADT.pr" tvg-name="WAPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/2560px-WAPA-TV_logo.svg.png"  group-title="ENTRETENIMIENTO", WAPA
 http://208.88.246.11:5473/0000/CH=%C2%A0PR-%C2%A0WAPA/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WAPADT2(English).pr" tvg-name="WAPA Deportes"tvg-logo="wapa2.png"  group-title="ENTRETENIMIENTO", WAPA Deportes
+#EXTINF:-1 tvg-id="WAPADT2(English).pr" tvg-name="WAPA Deportes" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png"  group-title="ENTRETENIMIENTO", WAPA Deportes
 http://208.88.246.11:5473/0000/CH=%C2%A0PR-%C2%A0WAPA2/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WIPRDT.pr" tvg-name="WIPR" tvg-logo="wipr.png"  group-title="ENTRETENIMIENTO", WIPR
+#EXTINF:-1 tvg-id="WIPRDT.pr" tvg-name="WIPR" tvg-logo="https://docs.pr.gov/files/prgov/Gobierno/Agencias/Logos/WIPR.png"  group-title="ENTRETENIMIENTO", WIPR
 http://208.88.246.11:5473/wipr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WLIIDT.pr" tvg-name="Tele11" tvg-logo="t11.jpg"  group-title="ENTRETENIMIENTO", Tele11
+#EXTINF:-1 tvg-id="WLIIDT.pr" tvg-name="Tele11" tvg-logo="https://ajaee.org/wp-content/uploads/2021/05/t11-350x214-1.png"  group-title="ENTRETENIMIENTO", Tele11
 http://208.88.246.11:5473/0000/CH=%C2%A0PR-WLII/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MegaTV.pr" tvg-name="MegaTV PR" tvg-logo="megapr.jfif"  group-title="ENTRETENIMIENTO", MegaTV PR
+#EXTINF:-1 tvg-id="MegaTV.pr" tvg-name="MegaTV PR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png"  group-title="ENTRETENIMIENTO", MegaTV PR
 http://208.88.246.11:5473/megatvpr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-name="Punto 2" tvg-logo="p2.jpg"  group-title="ENTRETENIMIENTO", Punto 2
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-name="Punto 2" tvg-logo="https://media.telemundopr.com/2022/11/Cita-9.jpg"  group-title="ENTRETENIMIENTO", Punto 2
 http://208.88.246.11:5473/live/punto2pr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="A3 Series" tvg-logo="a3s.png"  group-title="ENTRETENIMIENTO", A3 Series
+#EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="A3 Series" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425423-8c.png"  group-title="ENTRETENIMIENTO", A3 Series
 http://208.88.246.11:5473/230Atres/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1  tvg-id="HOLATV.mx" tvg-name="¡Hola! TV" tvg-logo="hola.jpg"  group-title="ENTRETENIMIENTO", ¡Hola! TV
+#EXTINF:-1  tvg-id="HOLATV.mx" tvg-name="¡Hola! TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425211-8c.png"  group-title="ENTRETENIMIENTO", ¡Hola! TV
 http://208.88.246.11:5473/218Hola/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="mtv.png"  group-title="ENTRETENIMIENTO", MTV | HD
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png" group-title="ENTRETENIMIENTO", MTV | HD
 http://208.88.246.11:5473/live/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="mtv.png"  group-title="ENTRETENIMIENTO", MTV
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png"  group-title="ENTRETENIMIENTO", MTV
 http://208.88.246.11:5473/250mtvla/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MTVHits.es" tvg-name="MTV Hits International" tvg-logo="mtvh.png"  group-title="MUSICA", MTV Hits
+#EXTINF:-1 tvg-id="MTVHits.es" tvg-name="MTV Hits International" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518653-8c.png"  group-title="MUSICA", MTV Hits
 http://208.88.246.11:5473/mtvhitsts/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central Latinoamerica" tvg-logo="comedyc.png"  group-title="ENTRETENIMIENTO", Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505134-8c.png"  group-title="ENTRETENIMIENTO", Comedy Central
 http://208.88.246.11:5473/225CMEDY/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="vh1e.png"  group-title="MUSICA",MTV 00s
+#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/896490-8c.png"  group-title="MUSICA",MTV 00s
 http://23.237.29.98:5473/254VH1/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="EXATV.mx" tvg-name="Exa TV" tvg-logo="exa.png"  group-title="MUSICA", Exa TV
+#EXTINF:-1 tvg-id="EXATV.mx" tvg-name="Exa TV" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/272.png"  group-title="MUSICA", Exa TV
 http://208.88.246.11:5473/252NU/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="LaMejorTV.mx" tvg-name="La Mejor TV" tvg-logo="mejor977.png"  group-title="MUSICA", La Mejor TV
+#EXTINF:-1 tvg-id="LaMejorTV.mx" tvg-name="La Mejor TV" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/266.png"  group-title="MUSICA", La Mejor TV
 http://23.237.29.98:5473/255exatv/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HTV.mx" tvg-name="HTV" tvg-logo="htv.png"  group-title="MUSICA", HTV
+#EXTINF:-1 tvg-id="HTV.mx" tvg-name="HTV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425471-8c.png"  group-title="MUSICA", HTV
 http://208.88.246.11:5473/260htv/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Música Plus" tvg-logo="thp.png"  group-title="MUSICA", Telehit Música Plus
+#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Música Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518700-8c.png"  group-title="MUSICA", Telehit Música Plus
 http://208.88.246.11:5473/live/DTURBO/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="bmax.png"  group-title="MUSICA", Bandamax
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522531-8c.png"  group-title="MUSICA", Bandamax
 http://208.88.246.11:5473/encoder70/goltv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="VideoRola.mx" tvg-name="VideoRola" tvg-logo="vrola.png"  group-title="MUSICA", VideoRola
+#EXTINF:-1 tvg-id="VideoRola.mx" tvg-name="VideoRola" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/videorolla.png"  group-title="MUSICA", VideoRola
 http://208.88.246.11:5473/258VROLA/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="tlr.png"  group-title="MUSICA", Teleritmo
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png"  group-title="MUSICA", Teleritmo
 http://208.88.246.11:5473/276teleritmo/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="dk.png"  group-title="KIDS", Discovery Kids
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png"  group-title="KIDS", Discovery Kids
 http://208.88.246.11:5473/310discoverykids/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick" tvg-logo="nick.png"  group-title="KIDS", Nick
+#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1096959-8c.png"  group-title="KIDS", Nick
 http://208.88.246.11:5473/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="dc.png"  group-title="KIDS", Disney Channel | HD
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425229-8c.png"  group-title="KIDS", Disney Channel | HD
 http://208.88.246.11:5473/andromeda/DISNEY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="dc.png"  group-title="KIDS", Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425229-8c.png"  group-title="KIDS", Disney Channel
 http://208.88.246.11:5473/302Disneychannel/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior" tvg-logo="djr.png"  group-title="KIDS", Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416593-8c.png"  group-title="KIDS", Disney Junior
 http://208.88.246.11:5473/303DisneyJunior/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network LAMX" tvg-logo="cn.png"  group-title="KIDS", Cartoon Network LAMX
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network LAMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416605-8c.png"  group-title="KIDS", Cartoon Network LAMX
 http://208.88.246.11:5473/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="Baby TV LA" tvg-logo="baby.png"  group-title="KIDS", Baby TV LA
+#EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="Baby TV LA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425225-8c.png"  group-title="KIDS", Baby TV LA
 http://208.88.246.11:5473/315BabyTVLatinAmerica/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr." tvg-logo="njr.png"  group-title="KIDS", Nick Jr.
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr." tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416595-8c.png"  group-title="KIDS", Nick Jr.
 http://208.88.246.11:5473/306NickJrLatinAmerica/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery" tvg-logo="disc.png"  group-title="CONOCIMIENTO", Discovery
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png"  group-title="CONOCIMIENTO", Discovery
 http://208.88.246.11:5473/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet LA" tvg-logo="animal.png"  group-title="CONOCIMIENTO", Animal Planet LA
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet LA" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/08/C_259_082223-400x360.png"  group-title="CONOCIMIENTO", Animal Planet LA
 http://208.88.246.11:5473/408animalplanet/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC Latinoamerica" tvg-logo="tlc.jpg"  group-title="CONOCIMIENTO", TLC
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1004415-8c.png"  group-title="CONOCIMIENTO", TLC
 http://208.88.246.11:5473/217TLC/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health | HD" tvg-logo="hyh.png"  group-title="CONOCIMIENTO", Discovery Home & Health | HD
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health | HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/992395-8c.png"  group-title="CONOCIMIENTO", Discovery Home & Health | HD
 http://208.88.246.11:5473/andromeda/DISCOVERYHH/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater HD" tvg-logo="dthd.png"  group-title="CONOCIMIENTO", Discovery Theater HD
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425241-8c.png"  group-title="CONOCIMIENTO", Discovery Theater HD
 http://208.88.246.11:5473/andromeda/DISCOVERYTH/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="world.png"  group-title="CONOCIMIENTO", Discovery World HD
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425247-8c.png"  group-title="CONOCIMIENTO", Discovery World HD
 http://208.88.246.11:5473/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="turbo.png"  group-title="CONOCIMIENTO", Discovery Turbo
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425251-8c.png"  group-title="CONOCIMIENTO", Discovery Turbo
 http://208.88.246.11:5473/345turbo/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="ngc.png"  group-title="CONOCIMIENTO", National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_254-400x360.png"  group-title="CONOCIMIENTO", National Geographic
 http://208.88.246.11:5473/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="History.mx" tvg-name="HCLM" tvg-logo="history.png"  group-title="CONOCIMIENTO", History | HD
+#EXTINF:-1 tvg-id="History.mx" tvg-name="HCLM" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964936-8c.png"  group-title="CONOCIMIENTO", History | HD
 http://208.88.246.11:5473/andromeda/GOLDENPRE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="History.mx" tvg-name="HCLM" tvg-logo="history.png"  group-title="CONOCIMIENTO", History LAMX
+#EXTINF:-1 tvg-id="History.mx" tvg-name="HCLM" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964936-8c.png"  group-title="CONOCIMIENTO", History LAMX
 http://208.88.246.11:5473/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2 Latinoamerica" tvg-logo="h2.png"  group-title="CONOCIMIENTO", History 2
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2 Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964952-8c.png"  group-title="CONOCIMIENTO", History 2
 http://208.88.246.11:5473/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="ElGourmet" tvg-logo="gourmet.png"  group-title="CONOCIMIENTO", El Gourmet
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="ElGourmet" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1073911-8c.png"  group-title="CONOCIMIENTO", El Gourmet
 http://208.88.246.11:5473/evento5/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español" tvg-logo="disc.png"  group-title="CONOCIMIENTO", Discovery En Español
+#EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png"  group-title="CONOCIMIENTO", Discovery En Español
 http://208.88.246.11:5473/transco9/9535DISCOVERYESP/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo=""  group-title="DEPORTES", Fox Sports Premium MX
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png"  group-title="DEPORTES", Fox Sports Premium MX
 http://208.88.246.11:5473/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" group-title="DEPORTES",Fox Sports Premium MX op2
+#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="DEPORTES",Fox Sports Premium MX op2
 http://166.0.208.24:5473/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FoxSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="fox1.png"  group-title="DEPORTES", Fox Sports
+#EXTINF:-1 tvg-id="FoxSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="https://logo.iptveditor.com/foxsports.png"  group-title="DEPORTES", Fox Sports
 http://208.88.246.11:5473/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 MX" tvg-logo="fox2.png"  group-title="DEPORTES", Fox Sports 2 | HD
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 MX" tvg-logo="https://logo.iptveditor.com/foxsport2.png"  group-title="DEPORTES", Fox Sports 2 | HD
 http://208.88.246.11:5473/andromeda/FOXSP2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="espn.png"  group-title="DEPORTES", ESPN | HD
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554661-8c.png"  group-title="DEPORTES", ESPN | HD
 http://208.88.246.11:5473/evento/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="espn.png"  group-title="DEPORTES", ESPN
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554661-8c.png"  group-title="DEPORTES", ESPN
 http://208.88.246.11:5473/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="espn2.png"  group-title="DEPORTES", ESPN 2 | HD
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554663-8c.png"  group-title="DEPORTES", ESPN 2 | HD
 http://208.88.246.11:5473/evento2/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="espn2.png"  group-title="DEPORTES", ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554663-8c.png"  group-title="DEPORTES", ESPN 2
 http://208.88.246.11:5473/505ESPN/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="espn3.png"  group-title="DEPORTES", ESPN 3
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425374-8c.png"  group-title="DEPORTES", ESPN 3
 http://208.88.246.11:5473/507ESPN3/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="espnextra.png"  group-title="DEPORTES", ESPN Extra
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1046022-8c.png"  group-title="DEPORTES", ESPN Extra
 http://208.88.246.11:5473/andromeda/ESPN+/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="espnsp.png"  group-title="DEPORTES", ESPN Deportes
+#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png"  group-title="DEPORTES", ESPN Deportes
 http://208.88.246.11:5473/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="tdn.png"  group-title="DEPORTES", TUDN MX
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416657-8c.png"  group-title="DEPORTES", TUDN MX
 http://208.88.246.11:5473/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="tdn.png"  group-title="DEPORTES", TUDN USA
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416657-8c.png"  group-title="DEPORTES", TUDN USA
 http://208.88.246.11:5473/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="claro.png"  group-title="DEPORTES", Claro Sports
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png"  group-title="DEPORTES", Claro Sports
 http://208.88.246.11:5473/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="Adrenalina Sports Network" tvg-logo="asn.png"  group-title="DEPORTES", Adrenalina Sports Network
+#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="Adrenalina Sports Network" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531196-8c.png"  group-title="DEPORTES", Adrenalina Sports Network
 http://208.88.246.11:5473/UFCNET/transco2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ HD" tvg-logo="beinn.png"  group-title="DEPORTES", Bein Ñ | HD
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ HD" group-title="DEPORTES", Bein Ñ | HD
 http://208.88.246.11:5473/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ" tvg-logo="beinn.png"  group-title="DEPORTES", Bein Ñ
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ" group-title="DEPORTES", Bein Ñ
 http://208.88.246.11:5473/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3 MX" tvg-logo="fox3.png"  group-title="DEPORTES", Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3 MX" tvg-logo="https://logo.iptveditor.com/foxsports3.png"  group-title="DEPORTES", Fox Sports 3
 http://208.88.246.11:5473/9466NBCSP/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1  tvg-id="MundoToro.es" tvg-name="Mundo Toro (ES)" tvg-logo=""  group-title="DEPORTES", Mundo Toro (ES)
+#EXTINF:-1  tvg-id="MundoToro.es" tvg-name="Mundo Toro (ES)" group-title="DEPORTES", Mundo Toro (ES)
 http://208.88.246.11:5473/eventox4/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MeganoticiasMX.mx" tvg-name="Meganoticias MX" tvg-logo="tvc.png" group-title="INFORMACIÓN",Meganoticias MX
+#EXTINF:-1 tvg-id="MeganoticiasMX.mx" tvg-name="Meganoticias MX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/914921-8c.png" group-title="INFORMACIÓN",Meganoticias MX
 http://208.88.246.11:5473/220TVC/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="CNN En Español" tvg-logo="cnne.png"  group-title="INFORMACIÓN", CNN En Español
+#EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="CNN En Español" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531193-8c.png"  group-title="INFORMACIÓN", CNN En Español
 http://208.88.246.11:5473/702CNN/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="teleformula.png"  group-title="INFORMACIÓN", Teleformula
+#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/354.png"  group-title="INFORMACIÓN", Teleformula
 http://208.88.246.11:5473/354Elfinanciero/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="tnt.png"  group-title="CINE", TNT | HD
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"  group-title="CINE", TNT | HD
 http://208.88.246.11:5473/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="tnt.png"  group-title="CINE", TNT LAMX
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"  group-title="CINE", TNT LAMX
 http://208.88.246.11:5473/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="space.PNG"  group-title="CINE", Space | HD
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f9140038718913.576c159a2de69.png"  group-title="CINE", Space | HD
 http://208.88.246.11:5473/andromeda/SPACE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="space.PNG"  group-title="CINE", Space
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f9140038718913.576c159a2de69.png"  group-title="CINE", Space
 http://208.88.246.11:5473/221SpaceMexico/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="cmax.png"  group-title="CINE", Cinemax
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416645-8c.png"  group-title="CINE", Cinemax
 http://208.88.246.11:5473/603Cinemax/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MC.mx" tvg-name="MC" tvg-logo="mcinema.png"  group-title="CINE", MC
+#EXTINF:-1 tvg-id="MC.mx" tvg-name="MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png"  group-title="CINE", MC
 http://208.88.246.11:5473/607MC/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier" tvg-logo="mpremier.png"  group-title="CINE", Multipremier
+#EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png"  group-title="CINE", Multipremier
 http://208.88.246.11:5473/606MultiPremiere/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies LA" tvg-logo=""  group-title="CINE", Sony Movies LA
+#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies LA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/995744-8c.png"  group-title="CINE", Sony Movies LA
 http://208.88.246.11:5473/andromeda/SONY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Película Plus" tvg-logo="cortelatinohd.png"  group-title="CINE", De Película Plus
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Película Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604212-8c.png"  group-title="CINE", De Película Plus
 http://208.88.246.11:5473/live/DTHEATER/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino" tvg-logo="latinopl.png"  group-title="CINE", Cine Latino
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/2560px-Cine_Latino_logo.svg.png"  group-title="CINE", Cine Latino
 http://208.88.246.11:5473/608CineLatino/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CineLatinoUS(Spanish).us" tvg-name="Cine Latino USA" tvg-logo="latinopl.png"  group-title="CINE", Cine Latino US
+#EXTINF:-1 tvg-id="CineLatinoUS(Spanish).us" tvg-name="Cine Latino USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/2560px-Cine_Latino_logo.svg.png"  group-title="CINE", Cine Latino US
 http://208.88.246.11:5473/andromeda/CINELATINO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="cc.png"  group-title="CINE", Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_411-400x360.png"  group-title="CINE", Cinecanal
 http://208.88.246.11:5473/664Cinecanal/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network LA" tvg-logo="param.png"  group-title="CINE", Paramount Network LA
+#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network LA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416631-8c.png"  group-title="CINE", Paramount Network LA
 http://208.88.246.11:5473/615PARAM/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBOLW" tvg-logo="ole.png"  group-title="PREMIUM", HBO
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBOLW" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png"  group-title="PREMIUM", HBO
 http://208.88.246.11:5473/eventox6/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBOLW" tvg-logo="ole.png"  group-title="PREMIUM", HBO (Alt.)
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBOLW" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png"  group-title="PREMIUM", HBO (Alt.)
 http://208.88.246.11:5473/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="ole2.png"  group-title="PREMIUM", HBO 2
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png"  group-title="PREMIUM", HBO 2
 http://208.88.246.11:5473/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1  tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="hplus.png"  group-title="PREMIUM", HBO Plus
+#EXTINF:-1  tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png"  group-title="PREMIUM", HBO Plus
 http://208.88.246.11:5473/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="hfam.png"  group-title="PREMIUM", HBO Family
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/603295-8c.png"  group-title="PREMIUM", HBO Family
 http://208.88.246.11:5473/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="mprime.png"  group-title="PREMIUM", HBO Xtreme
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png"  group-title="PREMIUM", HBO Xtreme
 http://208.88.246.11:5473/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
-#EXTINF:-1 tvg-id="ENLACETV.co" tvg-name="Enlace" tvg-logo="tbn.jfif" group-title="RELIGIÓN",Enlace
-https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
-#EXTINF:-1 tvg-id="EnlaceJuvenil.mx" tvg-name="Enlace Juvenil" tvg-logo="tbn.jfif" group-title="RELIGIÓN",Enlace Juvenil
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/93855/12?f=.m3u8
-#EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="El Sembrador Nueva Evangelización" tvg-logo="esne.png" group-title="RELIGIÓN",El Sembrador Nueva Evangelización
+#EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="El Sembrador Nueva Evangelización" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425271-8c.png" group-title="RELIGIÓN",El Sembrador Nueva Evangelización
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1661186586~acl=%2f*~data=hdntl~hmac=e878cc95f10a199a85e244e48d4ff1ee3ad7cf0b4fc97a0e48f2764db37322ea/chunklist.m3u8
-#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="María Visión" tvg-logo="maria.png" group-title="RELIGIÓN",María Visión
+#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="María Visión" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416625-8c.png" group-title="RELIGIÓN",María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="ewtn.png" group-title="RELIGIÓN",EWTN
+#EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416623-8c.png" group-title="RELIGIÓN",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX" tvg-logo="xhaw.png" group-title="LOCALES",Canal 6 CDMX
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES",Canal 6 CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVSTV" tvg-logo="xhtdmx4.png" group-title="LOCALES",MVSTV
+#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="LOCALES",MVSTV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+ CDMX" tvg-logo="xhimt2.png" group-title="LOCALES",A+ CDMX
+#EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+ CDMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="LOCALES",A+ CDMX
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once MX" tvg-logo="https://logo.iptveditor.com/canalonce.png" group-title="LOCALES",Canal Once
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once MX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png" group-title="LOCALES",Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="opma.png" group-title="LOCALES",Canal Catorce
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="LOCALES",Canal Catorce
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="" group-title="LOCALES",TV Migrante
+#EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="https://mxplus.tv/images/roku/tv-migrante.jpg" group-title="LOCALES",TV Migrante
 https://cdn.mycloudstream.io/hls/live/broadcast/jgstrcbg/index.m3u8
-#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="unam.png" group-title="LOCALES",TV UNAM
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://unamenlinea.unam.mx/recursos/img/84753/tv-unam--bajo-demanda2.png" group-title="LOCALES",TV UNAM
 https://s5.mexside.net:1936/tvunam/tvunam/playlist.m3u8
-#EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22" tvg-logo="can22.jpg" group-title="LOCALES",Canal 22
+#EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22" tvg-logo="https://manualdeimagen.canal22.org.mx/img/bn.png" group-title="LOCALES",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="MX Nuestro Cine" tvg-logo="can222.png" group-title="LOCALES",MX Nuestro Cine
+#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="MX Nuestro Cine" tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png" group-title="LOCALES",MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso 45.1" tvg-logo="xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.1
+#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso 45.1" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Medias/Generales/jha5m2nc.png" group-title="LOCALES",Canal Del Congreso 45.1
 https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.2" tvg-logo="xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.2" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Medias/Generales/jha5m2nc.png" group-title="LOCALES",Canal Del Congreso 45.2
 https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.3" tvg-logo="xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.3" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Medias/Generales/jha5m2nc.png" group-title="LOCALES",Canal Del Congreso 45.3
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 MTY" tvg-logo="xhaw.png" group-title="LOCALES REGIONALES",Canal 6 MTY
+#EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 MTY" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES REGIONALES",Canal 6 MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 LAG" tvg-logo="xhaw.png" group-title="LOCALES REGIONALES",Canal 6 LAG
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 LAG" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES REGIONALES",Canal 6 LAG
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GDL" tvg-logo="xhaw.png" group-title="LOCALES REGIONALES",Canal 6 GDL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GDL" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES REGIONALES",Canal 6 GDL
 http://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 PUE" tvg-logo="xhaw.png" group-title="LOCALES REGIONALES",Canal 6 PUE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 PUE" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES REGIONALES",Canal 6 PUE
 http://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GTO" tvg-logo="xhaw.png" group-title="LOCALES REGIONALES",Canal 6 GTO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GTO" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES REGIONALES",Canal 6 GTO
 http://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-#EXTINF:-1 tvg-id="XHOAHTDT.mx" tvg-name="Canal 6 SAL" tvg-logo="xhaw.png" group-title="LOCALES REGIONALES",Canal 6 SAL
+#EXTINF:-1 tvg-id="XHOAHTDT.mx" tvg-name="Canal 6 SAL" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES REGIONALES",Canal 6 SAL
 http://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDJ" tvg-logo="xhaw.png" group-title="LOCALES REGIONALES",Canal 6 CDJ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDJ" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES REGIONALES",Canal 6 CDJ
 http://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 8 SJCR" tvg-logo="c8cr.png" group-title="INTERNACIONAL",Canal 8 SJCR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 8 SJCR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="INTERNACIONAL",Canal 8 SJCR
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="tlr.jpg" group-title="MUSICA",Teleritmo
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png" group-title="MUSICA",Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión" tvg-logo="milen.png"  group-title="INFORMACIÓN", Milenio Televisión
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_603-400x360.png"  group-title="INFORMACIÓN", Milenio Televisión
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 CDMX" tvg-logo="capital.png" group-title="LOCALES REGIONALES",Capital 21
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 CDMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/506425-8c.png" group-title="LOCALES REGIONALES",Capital 21
 https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
-#EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="xhgem.jpg" group-title="LOCALES REGIONALES",Mexiquense Televisión
+#EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Mexiquense-TV-en-vivo-Online-1.png" group-title="LOCALES REGIONALES",Mexiquense Televisión
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="amx.jpg" group-title="LOCALES REGIONALES",AMX Noticias
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://yt3.googleusercontent.com/gJzhEWQduAebS-WcB-5vE4ZpUWdTK2JIA_zJsigI5EQZMXQcbrVesBk5LrfLb4deU7u7knsxeQ=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES REGIONALES",AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalisco TV" tvg-logo="c7.png" group-title="LOCALES REGIONALES",Jalisco TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalisco TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Jalisco-TV_logotype.png" group-title="LOCALES REGIONALES",Jalisco TV
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 28 NL" tvg-logo="28nl.png" group-title="LOCALES REGIONALES",Canal 28 NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 28 NL" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Canal-28-Nuevo-Leon-en-VIVO-Online-.png" group-title="LOCALES REGIONALES",Canal 28 NL
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SICOM Televisión 16.1" tvg-logo="set.png" group-title="LOCALES REGIONALES",SICOM Televisión 16.1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SICOM Televisión 16.1" tvg-logo="https://sicompuebla.mx/wp-content/uploads/2023/08/TELE-16.1-140x140.jpg" group-title="LOCALES REGIONALES",SICOM Televisión 16.1
 https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SICOM Televisión 16.2" tvg-logo="set.png" group-title="LOCALES REGIONALES",SICOM Televisión 16.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SICOM Televisión 16.2" tvg-logo="https://sicompuebla.mx/wp-content/uploads/2023/08/TELE-16.2-140x140.jpg" group-title="LOCALES REGIONALES",SICOM Televisión 16.2
 https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4 Gto." tvg-logo="tv4.png" group-title="LOCALES REGIONALES",TV4 Gto.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4 Gto." tvg-logo="https://tvcuatro.tv/images/logo-menu.png" group-title="LOCALES REGIONALES",TV4 Gto.
 https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.2 Gto." tvg-logo="tv4.png" group-title="LOCALES REGIONALES",TV4.2 Gto.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.2 Gto." tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.2-Guanajuato-en-vivo-Online.png" group-title="LOCALES REGIONALES",TV4.2 Gto.
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.3 Gto." tvg-logo="tv4.png" group-title="LOCALES REGIONALES",TV4.3 Gto.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.3 Gto." tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.3-Guanajuato-en-vivo-Online.png" group-title="LOCALES REGIONALES",TV4.3 Gto.
 https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Morelos TV 15.1" tvg-logo="imryt.png" group-title="LOCALES REGIONALES",Morelos TV 15.1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Morelos TV 15.1" tvg-logo="https://morelostv.org/wp-content/uploads/2023/05/morelostv-logo.jpg" group-title="LOCALES REGIONALES",Morelos TV 15.1
 https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diez Chiapas" tvg-logo="diez.png" group-title="LOCALES REGIONALES",Diez Chiapas
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diez Chiapas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Logotipo_oficial_del_Canal_10_Chiapas_perteneciente_al_Sistema_Chiapaneco_de_Radio%2C_Televisi%C3%B3n_y_Cinematograf%C3%ADa.png" group-title="LOCALES REGIONALES",Diez Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMRTV 16.1" tvg-logo="smr.png" group-title="LOCALES REGIONALES",SMRTV 16.1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMRTV 16.1" tvg-logo="https://sistemamichoacano.tv/wp-content/uploads/2022/04/cropped-logo-smrtv-web-1.jpg" group-title="LOCALES REGIONALES",SMRTV 16.1
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Mas 26.1" tvg-logo="tvmasver.jpg" group-title="LOCALES REGIONALES",TV Mas 26.1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Mas 26.1" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Mas-Veracruz-en-vivo-Online.png" group-title="LOCALES REGIONALES",TV Mas 26.1
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sizart TV" tvg-logo="sizart.png" group-title="LOCALES REGIONALES",Sizart TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sizart TV" tvg-logo="https://www.sizart.org.mx/images/WhatsApp_Image_2022-02-04_at_72759_PM.jpeg" group-title="LOCALES REGIONALES",Sizart TV
 https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTQ" tvg-logo="rtq.png" group-title="LOCALES REGIONALES",RTQ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTQ" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/LOGO-TV.png" group-title="LOCALES REGIONALES",RTQ
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 10 Chetumal/Heraldo Televisión Canal 8" tvg-logo="c10.jpg" group-title="LOCALES",Canal 10 Chetumal/Heraldo Televisión Canal 8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 10 Cancún/Heraldo Televisión Canal 8" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="LOCALES",Canal 10 Cancún/Heraldo Televisión Canal 8
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia TV" tvg-logo="judic.png" group-title="INFORMACIÓN",Justicia TV
+#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531194-8c.png" group-title="INFORMACIÓN",Justicia TV
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="rt.png" group-title="INTERNACIONAL",RT (Español)
+#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425396-8c.png" group-title="INTERNACIONAL",RT (Español)
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="TeleSur.co" tvg-name="Telesur" tvg-logo="sur.png" group-title="INTERNACIONAL",Telesur
+#EXTINF:-1 tvg-id="TeleSur.co" tvg-name="Telesur" group-title="INTERNACIONAL",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Español)" tvg-logo="dw.png" group-title="INTERNACIONAL",DW (Español)
+#EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Español)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png" group-title="INTERNACIONAL",DW (Español)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INTERNACIONAL", France 24
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425437-8c.png" group-title="INTERNACIONAL", France 24
 https://s5.mexside.net:1936/france24/france24/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-logo="" group-title="ENTRETENIMIENTO", ESTRELLA TV
+#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCALES", AZTECA UNO (SIN CORTES)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png" group-title="LOCALES", AZTECA UNO (SIN CORTES)
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCALES", AZTECA 7 (SIN CORTES)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png" group-title="LOCALES", AZTECA 7 (SIN CORTES)
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCALES", A MÁS (SIN CORTES)
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="LOCALES", A MÁS (SIN CORTES)
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCALES", ADN40 (SIN CORTES)
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1038568-8c.png" group-title="LOCALES", ADN40 (SIN CORTES)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCALES REGIONALES", VA+ 26.1
+#EXTINF:-1 tvg-logo="https://ryta.com.mx/wp-content/uploads/2023/05/valogo4.png" group-title="LOCALES REGIONALES", VA+ 26.1
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 tvg-id="Videorola.mx" tvg-logo="" group-title="MUSICA", VIDEOROLA
+#EXTINF:-1 tvg-id="Videorola.mx" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/videorolla.png" group-title="MUSICA", VIDEOROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 
 
@@ -516,12 +512,8 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?Playlist
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 3
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?caster
-#EXTINF:-1 group-title="MUSICA" tvg-name="Ruidos TV" tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png", Ruidos TV
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-name="Ruidos TV" tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png", Ruidos TV
 https://panel.tvstream.cl:1936/8022/8022/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV
-https://www.urbanrevolution.es:8443/live/TV/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-name="Zapping Music" tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0/2020-10-26.png", Zapping Music
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-name="Portal FoxMix" tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png", Portal FoxMix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-name="Retro Music Television" tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png", Retro Music Television
@@ -533,11 +525,13 @@ https://nodo04-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-name="m2o TV" tvg-logo="https://lh3.googleusercontent.com/-8k2_MMN4_Bc/X0Khp3P6tWI/AAAAAAAA46E/RE_IEG7uAo4WhxuJy71et8N5L1BRugBLgCK8BGAsYHg/s0/2020-08-23.png", m2o TV
 https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-name="Maxima FM" tvg-logo="https://lh3.googleusercontent.com/-RF13xAQ97o0/XxzMzRqfnBI/AAAAAAAA3Zc/xet9CCbU7H8WEPRQGCXEPpiBxM5RUK6EwCK8BGAsYHg/s0/2020-07-25.png", Maxima FM
-https://server1.oklanet.cl:1936/MaximaFmChile/MaximaFmChile/playlist.m3u8
+https://server1.oklanet.cl:1936/maximafmchile/ngrp:maximafmchile_all/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png", Music Top
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-name="Latina TV" tvg-logo="", Latina TV
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-name="RCKTV" tvg-logo="https://lh3.googleusercontent.com/-k220wrO7Pks/X2tCElFr0xI/AAAAAAAA50E/JjO-VenWP_cETYy8Se1-2pxO3-vMYU5nACK8BGAsYHg/s0/2020-09-23.png", RCKTV
-https://stmv2.zcasthn.com.br/rocktv/rocktv/playlist.m3u8
+https://inliveserver.com:1936/11530/11530/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-name="The Retro Channel" tvg-logo="https://lh3.googleusercontent.com/-t2WD0yOsfvg/XzxnxYhCPPI/AAAAAAAA4oY/qwvkZXM7rAUzOACe0-fSRAQ7_8n6xb5wgCK8BGAsYHg/s0/2020-08-18.png", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-name="TuTv Quillota" tvg-logo="https://lh3.googleusercontent.com/-WD49JzHZ9cM/Xrsv-mIjUjI/AAAAAAAA0rs/g_Pgm6hQvNIbp8aHuvQ3H7kEkiu3-M4zQCK8BGAsYHg/s0/2020-05-12.png", TuTv Quillota
@@ -554,19 +548,11 @@ https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
 https://canal.mediaserver.com.co/live/telemusica.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-name="TOP Latino TV" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", TOP Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg", Karibeña TV
-https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-name="Best Cable Music" tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg", Best Cable Music
-https://mi.godo.net.pe/best-Music-00112000050/index.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-name="Hatun TV" tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg", Hatun TV
-https://mi.godo.net.pe/Best00Hatum-0032101002/index.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-name="Mas Cumbia" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png", Mas Cumbia
-https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-name="Turbo Mix TV" tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png", Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
 
-#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno" tvg-logo="azteca1.png" group-title="LOCALES", Azteca Uno
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png" group-title="LOCALES", Azteca Uno
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -575,7 +561,7 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="xew.png" group-title="LOCALES",Las Estrellas
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.74835190079.png.f56373a3b38ea18c2c66ef37615a45b4.png" group-title="LOCALES",Las Estrellas
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -584,7 +570,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://i.ibb.co/wRgw9Ty/Logo-Imagen-Televisi-n-2016.png" group-title="LOCALES", Imagen TV
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="LOCALES", Imagen TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -593,7 +579,7 @@ https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/IMAGEN-TV-HD/default.mpd
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="xhtv.png" group-title="LOCALES",Foro
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Foro_TV_%28Canal_4_MX_2022%29.svg/1200px-Foro_TV_%28Canal_4_MX_2022%29.svg.png" group-title="LOCALES",Foro
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -602,7 +588,7 @@ https://live3-ott.izzigo.tv/out/u/dash/IMAGEN-TV-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="xhgc.png" group-title="LOCALES",Canal 5
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="LOCALES",Canal 5
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -611,7 +597,7 @@ https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="azteca7.jpg" group-title="LOCALES",Azteca 7
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png" group-title="LOCALES",Azteca 7
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -620,7 +606,7 @@ https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
-#EXTINF:-1 tvg-id="XEQTDT.mx" tvg-name="Nu9ve" tvg-logo="xeq.png" group-title="LOCALES",Nu9ve
+#EXTINF:-1 tvg-id="XEQTDT.mx" tvg-name="Nu9ve" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="LOCALES",Nu9ve
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -629,7 +615,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
-#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once MX" tvg-logo="xeipn.png"  group-title="LOCALES", Canal Once MX
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once MX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png"  group-title="LOCALES", Canal Once MX
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -638,7 +624,7 @@ https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd
-#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal 14" tvg-logo="https://logo.iptveditor.com/canalcatorce.png" group-title="LOCALES",Canal 14
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal 14" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="LOCALES",Canal 14
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2567,7 +2553,7 @@ http://208.88.246.11:5473/9420TNT/transco9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9
 http://208.88.246.11:5473/9499TBS/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish) USA" tvg-logo="gala.png"  group-title="USA", Galavisión USA
 http://208.88.246.11:5473/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo USA" tvg-logo="nbcuni.png"  group-title="USA", Universo USA
+#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="USA", Universo USA
 http://208.88.246.11:5473/transco10/9509UNVSO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="PasionesTV(Spanish).us" tvg-name="Pasiones USA" tvg-logo="pasin.png"  group-title="USA", Pasiones USA
 http://208.88.246.11:5473/andromeda/PASIONES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
