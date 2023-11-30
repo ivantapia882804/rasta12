@@ -372,7 +372,7 @@ http://208.88.246.11:5473/andromeda/SONY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9Wx
 http://208.88.246.11:5473/live/DTHEATER/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/2560px-Cine_Latino_logo.svg.png"  group-title="CINE", Cine Latino
 http://208.88.246.11:5473/608CineLatino/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CineLatinoUS(Spanish).us" tvg-name="Cine Latino USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/2560px-Cine_Latino_logo.svg.png"  group-title="CINE", Cine Latino US
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión (XHTDMX-TDT2)" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_603-400x360.png"  group-title="INFORMACIÓN", Milenio Televisión (XHTDMX-TDT2)
 http://208.88.246.11:5473/andromeda/CINELATINO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_411-400x360.png"  group-title="CINE", Cinecanal
 http://208.88.246.11:5473/664Cinecanal/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -633,7 +633,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-Canal-Catorce-HD/default.mpd
-#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://logo.iptveditor.com/teveunam.png" group-title="LOCALES",TV UNAM
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://unamenlinea.unam.mx/recursos/img/84753/tv-unam--bajo-demanda2.png"  group-title="LOCALES", TV UNAM
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -642,7 +642,7 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-Canal-Catorce-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_TV-UNAM-SD/default.mpd
-#EXTINF:-1 tvg-id="XEIMTTVMetropolitan(Canal22).mx" tvg-logo="can22.jpg"  group-title="LOCALES", Canal 22
+#EXTINF:-1 tvg-id="XEIMTTVMetropolitan(Canal22).mx" tvg-logo="https://manualdeimagen.canal22.org.mx/img/bn.png"  group-title="LOCALES", Canal 22
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -651,7 +651,7 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_TV-UNAM-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-22-SD/default.mpd
-#EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN40" tvg-logo="https://logo.iptveditor.com/adn40.png" group-title="LOCALES",ADN40
+#EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN40" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1038568-8c.png" group-title="LOCALES",ADN40
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -660,7 +660,7 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-22-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/ADN-40-SD/default.mpd
-#EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A Mas" tvg-logo="https://logo.iptveditor.com/a+.png" group-title="LOCALES",A Mas
+#EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A Mas" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="LOCALES",A Mas
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -669,7 +669,7 @@ https://live3-ott.izzigo.tv/out/u/dash/ADN-40-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/A-PLUS-SD/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A+ Noreste" tvg-logo="https://logo.iptveditor.com/a+.png" group-title="LOCALES REGIONALES",A+ Noreste
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A+ Noreste" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="LOCALES REGIONALES",A+ Noreste
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -678,7 +678,7 @@ https://live3-ott.izzigo.tv/out/u/dash/A-PLUS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd
-#EXTINF:-1 tvg-shift=+2 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://logo.iptveditor.com/lasestrellas.png" group-title="LOCALES",Las Estrellas -2h
+#EXTINF:-1 tvg-shift=+2 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.74835190079.png.f56373a3b38ea18c2c66ef37615a45b4.png" group-title="LOCALES",Las Estrellas -2h
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -687,7 +687,7 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
-#EXTINF:-1 tvg-shift=+1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://logo.iptveditor.com/lasestrellas.png" group-title="LOCALES",Las Estrellas -1h
+#EXTINF:-1 tvg-shift=+1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.74835190079.png.f56373a3b38ea18c2c66ef37615a45b4.png" group-title="LOCALES",Las Estrellas -1h
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -705,7 +705,7 @@ https://live4-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
-#EXTINF:-1 tvg-shift=+2 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)"  tvg-logo="https://logo.iptveditor.com/azteca1.png" group-title="LOCALES", Azteca Uno -2h
+#EXTINF:-1 tvg-shift=+2 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1110836-8c.png" group-title="LOCALES", Azteca Uno -2h
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -714,7 +714,7 @@ https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd
-#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="MMPLUS" tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/multimedios_1905.png" group-title="LOCALES",Canal 6+
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="MMPLUS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/820363-8c.png" group-title="LOCALES",Canal 6+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -723,7 +723,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
-#EXTINF:-1 tvg-id="QuieroTv.mx" tvg-name="Quiero TV NAL" tvg-logo="https://logo.iptveditor.com/ochotv.png" group-title="LOCALES REGIONALES", Quiero TV NAL
+#EXTINF:-1 tvg-id="QuieroTv.mx" tvg-name="Quiero TV NAL" tvg-logo="https://quierotv.mx/wp-content/uploads/2023/10/Logo-WEB-e1626917051634.png" group-title="LOCALES REGIONALES", Quiero TV NAL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -741,7 +741,7 @@ https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd
-#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="MILENIO" tvg-logo="https://logo.iptveditor.com/milenio.png" group-title="INFORMACIÓN",MILENIO HD
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_603-400x360.png"  group-title="INFORMACIÓN", Milenio Televisión
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -750,7 +750,7 @@ https://live5-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
-#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="https://logo.iptveditor.com/teleformula.png" group-title="INFORMACIÓN",TELEFORMULA SD
+#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/354.png"  group-title="INFORMACIÓN", Teleformula
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -759,7 +759,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
-#EXTINF:-1 tvg-id="Bloomberg.mx" tvg-name="El Financiero Bloomberg" tvg-logo="https://logo.iptveditor.com/elfinanciero.png" group-title="INFORMACIÓN",El Financiero Bloombert
+#EXTINF:-1 tvg-id="Bloomberg.mx" tvg-name="El Financiero Bloomberg" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_604-400x360.png" group-title="INFORMACIÓN",El Financiero Bloomberg
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -768,7 +768,7 @@ https://live4-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd
-#EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="CNN EN ESPAÑOL" tvg-logo="https://logo.iptveditor.com/cnnenespa%C3%B1ol.png" group-title="INFORMACIÓN",CNN EN ESPAÑOL
+#EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="CNN En Español" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531193-8c.png"  group-title="INFORMACIÓN", CNN En Español
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -858,7 +858,7 @@ https://live4-ott.izzigo.tv/out/u/dash/24-HRS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd
-#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="JUSTICIA TV" tvg-logo="https://logo.iptveditor.com/tvjustica.png" group-title="INFORMACIÓN",JUSTICIA TV
+#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="JUSTICIA TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531194-8c.png" group-title="INFORMACIÓN",JUSTICIA TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -894,7 +894,7 @@ https://live5-ott.izzigo.tv/out/u/dash/TLNOVELAS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://logo.iptveditor.com/fox.png" group-title="ENTRETENIMIENTO",STAR CHANNEL
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png" group-title="ENTRETENIMIENTO",STAR CHANNEL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -903,7 +903,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel" tvg-logo="https://logo.iptveditor.com/warner.png" group-title="ENTRETENIMIENTO",WARNER HD
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531197-8c.png" group-title="ENTRETENIMIENTO",WARNER HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -912,7 +912,7 @@ https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
-#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal TV" tvg-logo="https://logo.iptveditor.com/universal.png" group-title="ENTRETENIMIENTO",UNIVERSAL TV HD
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png" group-title="ENTRETENIMIENTO",UNIVERSAL TV HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -921,7 +921,7 @@ https://live5-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
-#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Canal Sony" tvg-logo="https://logo.iptveditor.com/sony.png" group-title="ENTRETENIMIENTO",SONY HD
+#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Canal Sony" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1095174-8c.png" group-title="ENTRETENIMIENTO",SONY HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -930,7 +930,7 @@ https://live4-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central Latinoamerica" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505134-8c.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -939,7 +939,7 @@ https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX Latino" tvg-logo="https://logo.iptveditor.com/fx.png" group-title="ENTRETENIMIENTO",FX HD
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX Latino" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_207-400x360.png" group-title="ENTRETENIMIENTO",FX HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -948,7 +948,7 @@ https://live2-ott.izzigo.tv/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/FX-HD/default.mpd
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="ENTRETENIMIENTO",AXN HD
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_213-400x360.png" group-title="ENTRETENIMIENTO",AXN HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -966,7 +966,7 @@ https://live3-ott.izzigo.tv/out/u/dash/AXN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/SPACE-HD/default.mpd
-#EXTINF:-1 tvg-id="ID.mx" tvg-name="Discovery ID Latino" tvg-logo="https://logo.iptveditor.com/discoveryid.png" group-title="ENTRETENIMIENTO",DISCOVERY ID HD
+#EXTINF:-1 tvg-id="ID.mx" tvg-name="Discovery ID Latino" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518573-8c.png" group-title="ENTRETENIMIENTO",DISCOVERY ID HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -984,7 +984,7 @@ https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-ID-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/E-Entertainment-HD/default.mpd
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health Latinoamerica" tvg-logo="https://logo.iptveditor.com/discoveryhomeandhealth.png" group-title="CONOCIMIENTO",DISCOVERY HOME AND HEALTH HD
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/992395-8c.png" group-title="CONOCIMIENTO",DISCOVERY HOME AND HEALTH HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -993,7 +993,7 @@ https://live3-ott.izzigo.tv/out/u/dash/E-Entertainment-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC Latinoamerica" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Discovery_TLC.png" group-title="ENTRETENIMIENTO",TLC
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1004415-8c.png" group-title="ENTRETENIMIENTO",TLC
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1002,7 +1002,7 @@ https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/TLC-HD/default.mpd
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E Latinoamerica" tvg-logo="https://cdn.dribbble.com/users/1474214/screenshots/4259943/ae-logo.png" group-title="ENTRETENIMIENTO",AANDE HD
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E Latinoamerica" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_215-400x360.png" group-title="ENTRETENIMIENTO",AANDE HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1020,7 +1020,7 @@ https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/MASCHIC-HD/default.mpd
-#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="Elgourmet" tvg-logo="https://logo.iptveditor.com/gourmet.png" group-title="CONOCIMIENTO",GOURMET HD
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="Elgourmet" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1073911-8c.png" group-title="CONOCIMIENTO",GOURMET HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1065,7 +1065,7 @@ https://live3-ott.izzigo.tv/out/u/dash/ISAT-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd
-#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="THIT" tvg-logo="https://logo.iptveditor.com/telehit.png" group-title="MUSICA",TELEHIT
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="THIT" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522528-8c.png" group-title="MUSICA",TELEHIT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1074,7 +1074,7 @@ https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV Latinoamerica" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="ENTRETENIMIENTO",MTV HD
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png" group-title="ENTRETENIMIENTO",MTV HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1092,7 +1092,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MTV-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd
-#EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-name="Telehit Musica" tvg-logo="https://logo.iptveditor.com/telehiturbano.png" group-title="MUSICA",TELEHIT MUSICA
+#EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-name="Telehit Musica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518698-8c.png" group-title="MUSICA",TELEHIT MUSICA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1101,7 +1101,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
-#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="https://logo.iptveditor.com/vh1.png" group-title="MUSICA",MTV 00S
+#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/896490-8c.png" group-title="MUSICA",MTV 00S
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1110,7 +1110,7 @@ https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
-#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18101_dark_360w_270h.png" group-title="MUSICA",BANDAMAX
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522531-8c.png" group-title="MUSICA",BANDAMAX
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1119,7 +1119,7 @@ https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNTSMX" tvg-logo="https://logo.iptveditor.com/tntseries.png" group-title="ENTRETENIMIENTO",TNT SERIES HD
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNTSMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO",TNT SERIES HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1146,7 +1146,7 @@ https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/GLITZ-SD/default.mpd
-#EXTINF:-1 tvg-id="HGTV.mx" tvg-name="HGTV LatinoAmerica" tvg-logo="https://logo.iptveditor.com/discoveryhomeandhealthhz.png" group-title="CONOCIMIENTO",DISCOVERY HOME AND GARDEN
+#EXTINF:-1 tvg-id="HGTV.mx" tvg-name="HGTV LatinoAmerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486323-8c.png" group-title="CONOCIMIENTO",DISCOVERY HOME AND GARDEN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1164,7 +1164,7 @@ https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd
-#EXTINF:-1 tvg-id="TNTNovelas.mx" tvg-name="TNT NOVELAS SD" tvg-logo="" group-title="ENTRETENIMIENTO", TNT NOVELAS SD
+#EXTINF:-1 tvg-id="TNTNovelas.mx" tvg-name="TNT NOVELAS SD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1080162-8c.png" group-title="ENTRETENIMIENTO", TNT NOVELAS SD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1173,7 +1173,7 @@ https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/TNT-NOVELAS-HD/default.mpd
-#EXTINF:-1 tvg-id="USA.mx" tvg-name="USA" tvg-logo="https://logo.iptveditor.com/syfy.png" group-title="ENTRETENIMIENTO",USA
+#EXTINF:-1 tvg-id="USA.mx" tvg-name="USA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1102352-8c.png" group-title="ENTRETENIMIENTO",USA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1182,7 +1182,7 @@ https://live1-ott.izzigo.tv/out/u/dash/TNT-NOVELAS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/SYFY-HD/default.mpd
-#EXTINF:-1 tvg-id="adultswim.mx" tvg-name="adult swim" tvg-logo="https://logo.iptveditor.com/trutv.png" group-title="KIDS",adult swim
+#EXTINF:-1 tvg-id="adultswim.mx" tvg-name="adult swim" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1106736-8c.png" group-title="KIDS",adult swim
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1191,7 +1191,7 @@ https://live5-ott.izzigo.tv/out/u/dash/SYFY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/ADULT-SWIM-HD/default.mpd
-#EXTINF:-1 tvg-id="ClubMTV(English).mx" tvg-name="CLUB MTV" tvg-logo="https://logo.iptveditor.com/mtvdance.png" group-title="MUSICA",CLUB MTV
+#EXTINF:-1 tvg-id="ClubMTV(English).mx" tvg-name="CLUB MTV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518655-8c.png" group-title="MUSICA",CLUB MTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1200,7 +1200,7 @@ https://live5-ott.izzigo.tv/out/u/dash/ADULT-SWIM-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
-#EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="MTV 80's" tvg-logo="https://logo.iptveditor.com/vh1classic.png" group-title="MUSICA",MTV 80S
+#EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="MTV 80's" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/527066-8c.png" group-title="MUSICA",MTV 80S
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1209,7 +1209,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
-#EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="Nickmusic" tvg-logo="https://logo.iptveditor.com/nicktoons.png" group-title="MUSICA",NICKMUSIC
+#EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="Nickmusic" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/515940-8c.png" group-title="MUSICA",NICKMUSIC
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1218,7 +1218,7 @@ https://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
-#EXTINF:-1 tvg-id="MuchMusic.mx" tvg-name="262 MUCHA" tvg-logo="https://logo.iptveditor.com/ca048muchmusic.png" group-title="MUSICA",MUCH MUSIC
+#EXTINF:-1 tvg-id="MuchMusic.mx" tvg-name="262 MUCHA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425469-8c.png" group-title="MUSICA",MUCH MUSIC
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1263,7 +1263,7 @@ https://live2-ott.izzigo.tv/out/u/dash/NHK-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd
-#EXTINF:-1 tvg-id="RaiItalia(Italian).mx" tvg-name="ESRAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/2092px-Rai_1_HD_-_Logo_2016.svg.png" group-title="INTERNACIONAL",RAI HD
+#EXTINF:-1 tvg-id="RaiItalia(Italian).mx" tvg-name="ESRAI" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425429-8c.png" group-title="INTERNACIONAL",RAI HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1281,7 +1281,7 @@ https://live5-ott.izzigo.tv/out/u/dash/RAI-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/TELEFE-HD/default.mpd
-#EXTINF:-1 tvg-id="TV5.mx" tvg-name="TV5" tvg-logo="https://logo.iptveditor.com/tv5.png" group-title="INTERNACIONAL",TV5
+#EXTINF:-1 tvg-id="TV5.mx" tvg-name="TV5" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425425-8c.png" group-title="INTERNACIONAL",TV5
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1299,7 +1299,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/TV-GALICIA-SD/default.mpd
-#EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW Espanol" tvg-logo="https://logo.iptveditor.com/dwespa%C3%B1ol.png" group-title="INTERNACIONAL",DW ESPAÑOL
+#EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW Espanol" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png" group-title="INTERNACIONAL",DW ESPAÑOL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1308,7 +1308,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TV-GALICIA-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd
-#EXTINF:-1 tvg-id="DWDeutschplus(German-English).mx" tvg-name="DWPLUS" tvg-logo="https://logo.iptveditor.com/america.png" group-title="INTERNACIONAL",DW Deutsch+
+#EXTINF:-1 tvg-id="DWDeutschplus(German-English).mx" tvg-name="DWPLUS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425416-8c.png" group-title="INTERNACIONAL",DW Deutsch+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1335,7 +1335,7 @@ https://live4-ott.izzigo.tv/out/u/dash/BABY-TV-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/NICK-JR-HD/default.mpd
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://logo.iptveditor.com/discoverykids.png" group-title="KIDS",DISCOVERY KIDS HD
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png" group-title="KIDS",DISCOVERY KIDS HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1344,7 +1344,7 @@ https://live4-ott.izzigo.tv/out/u/dash/NICK-JR-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
-#EXTINF:-1 tvg-id="XEIPNTDT2.mx" tvg-name="280 OnceKids" tvg-logo="https://logo.iptveditor.com/canalonceninos.png" group-title="LOCALES",ONCE NINAS Y NINOS
+#EXTINF:-1 tvg-id="XEIPNTDT2.mx" tvg-name="280 OnceKids" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518647-8c.png" group-title="LOCALES",ONCE NINAS Y NINOS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1362,7 +1362,7 @@ https://live3-ott.izzigo.tv/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/CARTOON-NETWORK-HD/default.mpd
-#EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="Cartoonito" tvg-logo="https://logo.iptveditor.com/boomerang.png" group-title="KIDS",CARTOONITO
+#EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="Cartoonito" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/942888-8c.png" group-title="KIDS",CARTOONITO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1371,7 +1371,7 @@ https://live4-ott.izzigo.tv/out/u/dash/CARTOON-NETWORK-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
-#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick LatinoAmerica HD" tvg-logo="https://logo.iptveditor.com/nick.png" group-title="KIDS",NICK HD
+#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick LatinoAmerica HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1096959-8c.png" group-title="KIDS",NICK HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1398,7 +1398,7 @@ https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
-#EXTINF:-1 tvg-id="Dreamworks.br" tvg-name="Dreamworks" tvg-logo="https://www.izzigo.tv/images/repository/12121904-LOGO-m.png" group-title="KIDS",DREAMWORKS
+#EXTINF:-1 tvg-id="Dreamworks.mx" tvg-name="Dreamworks" tvg-logo="https://www.izzigo.tv/images/repository/12121904-LOGO-m.png" group-title="KIDS",DREAMWORKS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1425,7 +1425,7 @@ https://live5-ott.izzigo.tv/out/u/dash/DISNEY-JR-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel Latino" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="CONOCIMIENTO",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel Latino" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png" group-title="CONOCIMIENTO",DISCOVERY CHANNEL HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1434,7 +1434,7 @@ https://live5-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet LA" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="CONOCIMIENTO",ANIMAL PLANET LA
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet LA" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/08/C_259_082223-400x360.png" group-title="CONOCIMIENTO",ANIMAL PLANET LA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1443,7 +1443,7 @@ https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
-#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic Latinoamerica" tvg-logo="https://logo.iptveditor.com/natgeo.png" group-title="CONOCIMIENTO",NAT GEO HD
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic Latinoamerica" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_254-400x360.png" group-title="CONOCIMIENTO",NAT GEO HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1452,7 +1452,7 @@ https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
-#EXTINF:-1 tvg-id="CuriosityChannel.mx" tvg-name="CURIOSITY" tvg-logo="" group-title="CONOCIMIENTO",CURIOSITY
+#EXTINF:-1 tvg-id="CuriosityChannel.mx" tvg-name="CURIOSITY CHANNEL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425259-8c.png" group-title="CONOCIMIENTO",CURIOSITY CHANNEL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1470,7 +1470,7 @@ https://live2-ott.izzigo.tv/out/u/dash/CURIOSITY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
-#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2 Latinoamerica" tvg-logo="https://logo.iptveditor.com/history2.png" group-title="CONOCIMIENTO",HISTORY 2 HD
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2 Latinoamerica" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_256-400x360.png" group-title="CONOCIMIENTO",HISTORY 2 HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1479,7 +1479,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
-#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="Discovery Science Latinoamerica" tvg-logo="https://logo.iptveditor.com/discoveryscience.png" group-title="CONOCIMIENTO",DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="Discovery Science Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425261-8c.png" group-title="CONOCIMIENTO",DISCOVERY SCIENCE HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1488,7 +1488,7 @@ https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
-#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo Latinoamerica" tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="CONOCIMIENTO",DISCOVERY TURBO HD
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425251-8c.png" group-title="CONOCIMIENTO",DISCOVERY TURBO HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1515,7 +1515,7 @@ https://live4-ott.izzigo.tv/out/u/dash/FILM-AND-ARTS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/ENLACE-SD/default.mpd
-#EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="ESNE" tvg-logo="https://logo.iptveditor.com/nesn.png" group-title="RELIGIÓN",ESNE
+#EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="ESNE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425271-8c.png" group-title="RELIGIÓN",ESNE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1524,7 +1524,7 @@ https://live5-ott.izzigo.tv/out/u/dash/ENLACE-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/ESNE-SD/default.mpd
-#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="MARIA" tvg-logo="https://logo.iptveditor.com/mariavision.png" group-title="RELIGIÓN",MARIAVISION HD
+#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="MARIA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416625-8c.png" group-title="RELIGIÓN",MARIAVISION HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1533,7 +1533,7 @@ https://live5-ott.izzigo.tv/out/u/dash/ESNE-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/MARIAVISION-HD/default.mpd
-#EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTNL" tvg-logo="https://logo.iptveditor.com/ewtn.png" group-title="RELIGIÓN",EWTN
+#EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTNL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416623-8c.png" group-title="RELIGIÓN",EWTN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1551,7 +1551,7 @@ https://live1-ott.izzigo.tv/out/u/dash/EWTN-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/INGENIO-SD/default.mpd
-#EXTINF:-1 tvg-id="MXNuestroCine.mx" tvg-name="MX Nuestro Cine" tvg-logo="http://manualdeimagen.canal22.org.mx/img/bn.png" group-title="LOCALES",MX NUESTRO CINE
+#EXTINF:-1 tvg-id="MXNuestroCine.mx" tvg-name="MX Nuestro Cine" tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png" group-title="LOCALES",MX NUESTRO CINE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1569,7 +1569,7 @@ https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="AFIZZSD" tvg-logo="https://mecambioya.com/wp-content/uploads/2021/03/afizzionados-3.png" group-title="DEPORTES",AFFIZIONADOS HD
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="AFIZZSD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtg3i_eKDWjLGuBRXWdH2DfgB8jvWgUUHn67UncxnDIUi4Px4mpGVsC9rpsxfZaEA4X3XLu7U6zQXpwfn2T5RT7FVu9_dhkPOizFssOnLIASVXyCO-pv3oD1SzHVYcLH9RRqrpov79GM2QmO-ssVz35d9DLi96jGAl5bovMhQnc-RGQ4ZZKdjYvFn/s1200/afizzionados-logo.jpg" group-title="DEPORTES",AFFIZIONADOS HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1605,7 +1605,7 @@ https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd
-#EXTINF:-1 tvg-id="PXSports.mx" tvg-name="PXSports" tvg-logo="" group-title="DEPORTES",PXSports
+#EXTINF:-1 tvg-id="PXSports.mx" tvg-name="PXSports" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425380-8c.png" group-title="DEPORTES",PXSports
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1659,7 +1659,7 @@ https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd
-#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="Adrenalina Sports Network" tvg-logo="https://logo.iptveditor.com/adrenalina.png" group-title="DEPORTES",ADRENALINA HD
+#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="Adrenalina Sports Network" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531196-8c.png" group-title="DEPORTES",ADRENALINA HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1677,7 +1677,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/GOLF-CHANNEL-HD/default.mpd
-#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DEPEL" tvg-logo="https://logo.iptveditor.com/pelicula.png" group-title="CINE",DE PELICULA
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DEPEL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604399-8c.png" group-title="CINE",DE PELICULA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1686,7 +1686,7 @@ https://live1-ott.izzigo.tv/out/u/dash/GOLF-CHANNEL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://logo.iptveditor.com/golden.png" group-title="CINE",GOLDEN
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543974-8c.png" group-title="CINE",GOLDEN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1695,7 +1695,7 @@ https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
-#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEDG" tvg-logo="https://logo.iptveditor.com/goldenedge.png" group-title="CINE",GOLDEN EDGE
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEDG" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543978-8c.png" group-title="CINE",GOLDEN EDGE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1713,7 +1713,7 @@ https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC Latinoamerica" tvg-logo="https://img1.wikia.nocookie.net/__cb20110408022156/logopedia/images/8/84/AMC_HD.png" group-title="CINE",AMC HD
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505128-8c.png" group-title="CINE",AMC HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1722,7 +1722,7 @@ https://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2021/09/descarga-7-e1632252338500.png" group-title="CINE",STUDIO
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425350-8c.png" group-title="CINE",STUDIO UNIVERSAL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1731,7 +1731,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
-#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="SONY MOVIES LA" tvg-logo="https://megatelevisiontv.live/img/sony_movies.png" group-title="CINE",SONY MOVIES LA
+#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="SONY MOVIES LA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/995744-8c.png" group-title="CINE",SONY MOVIES LA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1749,7 +1749,7 @@ https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/TCM-SD/default.mpd
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="CINE",CINEMAX HD
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416645-8c.png" group-title="CINE",CINEMAX HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1776,7 +1776,7 @@ https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/PARAMOUNT-HD/default.mpd
-#EXTINF:-1 tvg-id="EuropaEuropa.mx" tvg-name="Europa Europa" tvg-logo="https://logo.iptveditor.com/europa7.png" group-title="CINE",EUROPA HD
+#EXTINF:-1 tvg-id="EuropaEuropa.mx" tvg-name="Europa Europa" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425364-8c.png" group-title="CINE",EUROPA HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1785,7 +1785,7 @@ https://live2-ott.izzigo.tv/out/u/dash/PARAMOUNT-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/EUROPA-HD/default.mpd
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family Latinoamerica" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="PREMIUM",HBO FAMILY HD
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/603295-8c.png" group-title="PREMIUM",HBO FAMILY HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1794,7 +1794,7 @@ https://live1-ott.izzigo.tv/out/u/dash/EUROPA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
-#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO Signature East Latino HD" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="PREMIUM",HBO SIGNATURE HD
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO Signature East Latino HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417662-8c.png" group-title="PREMIUM",HBO SIGNATURE HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1803,7 +1803,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBOLW" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="PREMIUM",HBO HD
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBOLW" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="PREMIUM",HBO HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1812,7 +1812,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2 West" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="PREMIUM",HBO 2 HD
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2 West" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png" group-title="PREMIUM",HBO 2 HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1821,7 +1821,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus Latino" tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="PREMIUM",HBO PLUS HD
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus Latino" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png" group-title="PREMIUM",HBO PLUS HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1830,7 +1830,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
-#EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO Mundi HD" tvg-logo="https://logo.iptveditor.com/hbomundi.png" group-title="PREMIUM",HBO MUNDI HD
+#EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO Mundi HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png" group-title="PREMIUM",HBO MUNDI HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1839,7 +1839,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
-#EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="POPMX" tvg-logo="https://logo.iptveditor.com/hbopop.png" group-title="PREMIUM",HBO POP HD
+#EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="POPMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425955-8c.png" group-title="PREMIUM",HBO POP HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1848,7 +1848,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
-#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme East" tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="PREMIUM",HBO XTREME HD
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme East" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png" group-title="PREMIUM",HBO XTREME HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1875,7 +1875,7 @@ https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER--2HR-HD/default.mpd
-#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://www.izzigo.tv/images/repository/11753184-LOGO-m.png" group-title="PREMIUM",UNIVERSAL PREMIERE
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943062-8c.png" group-title="PREMIUM",UNIVERSAL PREMIERE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1884,7 +1884,7 @@ https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER--2HR-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
-#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.izzigo.tv/images/repository/11753180-LOGO-m.png" group-title="PREMIUM",UNIVERSAL CINEMA
+#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943073-8c.png" group-title="PREMIUM",UNIVERSAL CINEMA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1893,7 +1893,7 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
-#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://www.izzigo.tv/images/repository/11753186-LOGO-m.png" group-title="PREMIUM",UNIVERSAL COMEDY
+#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943089-8c.png" group-title="PREMIUM",UNIVERSAL COMEDY
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1902,7 +1902,7 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
-#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="UNIVERSAL CRIME" tvg-logo="https://www.izzigo.tv/images/repository/11753187-LOGO-m.png" group-title="PREMIUM",UNIVERSAL CRIME
+#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="UNIVERSAL CRIME" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943091-8c.png" group-title="PREMIUM",UNIVERSAL CRIME
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1911,7 +1911,7 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
-#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="UNIVERSAL REALITY" tvg-logo="https://www.izzigo.tv/images/repository/11753188-LOGO-m.png" group-title="PREMIUM",UNIVERSAL REALITY
+#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="UNIVERSAL REALITY" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943093-8c.png" group-title="PREMIUM",UNIVERSAL REALITY
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1920,7 +1920,7 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
-#EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="A3S Atreseries" tvg-logo="https://logo.iptveditor.com/a3satreseries1.png" group-title="ENTRETENIMIENTO",A3 SERIES HD
+#EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="A3S Atreseries" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425423-8c.png" group-title="ENTRETENIMIENTO",A3 SERIES HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1929,7 +1929,7 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd
-#EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="Star TVE HD" tvg-logo="https://logo.iptveditor.com/star.png" group-title="ENTRETENIMIENTO",STAR HD
+#EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="Star TVE HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425427-8c.png" group-title="ENTRETENIMIENTO",STAR HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1938,7 +1938,7 @@ https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://logo.iptveditor.com/discoveryworld.png" group-title="CONOCIMIENTO",DISCOVERY WORLD HD
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425247-8c.png" group-title="CONOCIMIENTO",DISCOVERY WORLD HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1947,7 +1947,7 @@ https://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-WORLD-HD/default.mpd
-#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="THITPL" tvg-logo="https://logo.iptveditor.com/telehit.png" group-title="MUSICA",TELEHIT MUSICA PLUS
+#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="THITPL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518700-8c.png" group-title="MUSICA",TELEHIT MUSICA PLUS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1956,7 +1956,7 @@ https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-WORLD-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd
-#EXTINF:-1 tvg-id="MTVLive(English).mx" tvg-name="MTV LIVE" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="MUSICA",MTV LIVE HD
+#EXTINF:-1 tvg-id="MTVLive(English).mx" tvg-name="MTV LIVE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425451-8c.png" group-title="MUSICA",MTV LIVE HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1965,7 +1965,7 @@ https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
-#EXTINF:-1 tvg-id="TeenNick.mx" tvg-name="TEEN NICK latinoamerica hd" tvg-logo="https://logo.iptveditor.com/nick2.png" group-title="KIDS",TEENNICK
+#EXTINF:-1 tvg-id="TeenNick.mx" tvg-name="TEEN NICK latinoamerica hd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518587-8c.png" group-title="KIDS",TEENNICK
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1983,7 +1983,7 @@ https://live4-ott.izzigo.tv/out/u/dash/NICK-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/CLAN-HD/default.mpd
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://logo.iptveditor.com/discoverytheater.png" group-title="CONOCIMIENTO",DISCOVERY THEATER HD
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425241-8c.png" group-title="CONOCIMIENTO",DISCOVERY THEATER HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1992,7 +1992,7 @@ https://live2-ott.izzigo.tv/out/u/dash/CLAN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/default.mpd
-#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN EXTRA" tvg-logo="https://logo.iptveditor.com/espn+.png" group-title="DEPORTES",ESPN EXTRA HD
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN EXTRA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1046022-8c.png" group-title="DEPORTES",ESPN EXTRA HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2001,7 +2001,7 @@ https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
-#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX" tvg-logo=""  group-title="DEPORTES", Fox Sports Premium MX
+#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png"  group-title="DEPORTES", Fox Sports Premium MX
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2010,7 +2010,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
-#EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3 CINE" tvg-logo="https://www.tumundo.cl/multimedia/2020/04/sundance-channel-cambio-a-a3cine-2.png" group-title="CINE",A3 CINE HD
+#EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3 CINE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486317-8c.png" group-title="CINE",A3 CINE HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2019,7 +2019,7 @@ https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/A3-CINE-HD/default.mpd
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DEPELPL" tvg-logo="https://logo.iptveditor.com/pelicula.png" group-title="CINE",DE PELICULA HD
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DEPELPL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604212-8c.png" group-title="CINE",DE PELICULA HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2028,7 +2028,7 @@ https://live3-ott.izzigo.tv/out/u/dash/A3-CINE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
-#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="GOLDEN PLUSA" tvg-logo="https://logo.iptveditor.com/golden.png" group-title="CINE",GOLDEN PLUS
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="GOLDEN PLUSA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543972-8c.png" group-title="CINE",GOLDEN PLUS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2037,7 +2037,7 @@ https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC AÑOS 70" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC AÑOS 70
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC AÑOS 70" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485193-8c.png" group-title="MUSICA CONTINUA",MUSIC AÑOS 70
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2046,7 +2046,7 @@ https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-70/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC AÑOS 80" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC AÑOS 80
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC AÑOS 80" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485253-8c.png" group-title="MUSICA CONTINUA",MUSIC AÑOS 80
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2055,7 +2055,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-70/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-80/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC AÑOS 90" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC AÑOS 90
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC AÑOS 90" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485165-8c.png" group-title="MUSICA CONTINUA",MUSIC AÑOS 90
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2064,7 +2064,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-80/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-90/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC BIG BAND" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC BIG BAND
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC BIG BAND" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505115-8c.png" group-title="MUSICA CONTINUA",MUSIC BIG BAND
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2073,7 +2073,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-90/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-BIG-BAND/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC BLUES" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC BLUES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC BLUES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496888-8c.png" group-title="MUSICA CONTINUA",MUSIC BLUES
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2082,7 +2082,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-BIG-BAND/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/MUSIC-BLUES/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC BRASILEIRA" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC BRASILEIRA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC BRASILEIRA" tvg-logo="https://music.stingray.com/themes/custom/music/logo.svg" group-title="MUSICA CONTINUA",MUSIC BRASILEIRA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2091,7 +2091,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MUSIC-BLUES/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-POPULAR-BRASILEIRA/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC CANCIONES DE AMOR" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC CANCIONES DE AMOR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC SILK" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485264-8c.png" group-title="MUSICA CONTINUA",MUSIC SILK
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2100,7 +2100,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-POPULAR-BRASILEIRA/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-CANCIONES-AMOR/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC CLASSIC DANCE" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC CLASSIC DANCE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC CLASSIC DANCE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496886-8c.png" group-title="MUSICA CONTINUA",MUSIC CLASSIC DANCE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2109,7 +2109,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-CANCIONES-AMOR/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-DANCE/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC CLASSIC INDIE" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC CLASSIC INDIE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC CLASSIC INDIE" tvg-logo="https://music.stingray.com/themes/custom/music/logo.svg" group-title="MUSICA CONTINUA",MUSIC CLASSIC INDIE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2118,7 +2118,7 @@ https://live5-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-DANCE/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-INDIE/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC CLASSIC MAESTROS" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC CLASSIC MAESTROS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC ESPECIALES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485135-8c.png" group-title="MUSICA CONTINUA",MUSIC ESPECIALES
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2127,7 +2127,7 @@ https://live5-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-INDIE/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/MUSIC-MAESTROS-CLASICO/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC CLASSIC SOUL" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC CLASSIC SOUL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC CLASSIC SOUL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485129-8c.png" group-title="MUSICA CONTINUA",MUSIC CLASSIC SOUL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2136,7 +2136,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MUSIC-MAESTROS-CLASICO/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-SOUL/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC CLUB BAILE" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC CLUB BAILE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC CLUB BAILE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505110-8c.png" group-title="MUSICA CONTINUA",MUSIC CLUB BAILE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2145,7 +2145,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-SOUL/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-CLUB-BAILE/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC COCKTAIL" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC COCKTAIL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC COCKTAIL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485145-8c.png" group-title="MUSICA CONTINUA",MUSIC COCKTAIL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2154,7 +2154,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-CLUB-BAILE/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-COCKTAIL-LOUNGE/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC DANCEHALL" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC DANCEHALL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC FELICES FIESTAS" tvg-logo="https://music.stingray.com/themes/custom/music/logo.svg" group-title="MUSICA CONTINUA",MUSIC FELICES FIESTAS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2163,7 +2163,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-COCKTAIL-LOUNGE/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/MUSIC-SESIONES-DANCEHALL/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC EL SALON CHILL" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC EL SALON CHILL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC EL SALON CHILL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485151-8c.png" group-title="MUSICA CONTINUA",MUSIC EL SALON CHILL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2172,7 +2172,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MUSIC-SESIONES-DANCEHALL/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-EL-SALON-CHILL/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC ESTANDAR" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC ESTANDAR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC ESTANDARES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505118-8c.png" group-title="MUSICA CONTINUA",MUSIC ESTANDARES
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2181,7 +2181,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-EL-SALON-CHILL/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/MUSIC-ESTANDARES/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC EURO HITS" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC EURO HITS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC EURO HITS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505088-8c.png" group-title="MUSICA CONTINUA",MUSIC EURO HITS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2190,7 +2190,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MUSIC-ESTANDARES/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/MUSIC-EURO-HITS/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC EXITOS AMERICA" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC EXITOS AMERICA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC EXITOS RECIENTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496870-8c.png" group-title="MUSICA CONTINUA",MUSIC EXITOS RECIENTES
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2199,7 +2199,7 @@ https://live5-ott.izzigo.tv/out/u/dash/MUSIC-EURO-HITS/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-AMERICAS/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC EXITOS BRASIL" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC EXITOS BRASIL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC EXITOS BRASIL" tvg-logo="https://music.stingray.com/themes/custom/music/logo.svg" group-title="MUSICA CONTINUA",MUSIC EXITOS BRASIL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2208,7 +2208,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-AMERICAS/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-BRASIL/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC EXITOS RECIENTES" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC EXITOS RECIENTES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC EXITOS DE LAS AMERICAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496884-8c.png" group-title="MUSICA CONTINUA",MUSIC EXITOS DE LAS AMERICAS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2217,7 +2217,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-BRASIL/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-RECIENTES/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC EXITSO ITALIA" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC EXITSO ITALIA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC EXITOS ITALIA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505126-8c.png" group-title="MUSICA CONTINUA",MUSIC EXITOS ITALIA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2226,7 +2226,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-RECIENTES/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-ITALIA/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC FIESTA" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC FIESTA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC FIESTA" tvg-logo="https://music.stingray.com/themes/custom/music/logo.svg" group-title="MUSICA CONTINUA",MUSIC FIESTA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2235,7 +2235,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-ITALIA/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-FIESTA-CONTINUA/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC HARD ROCK" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC HARD ROCK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC HARD ROCK" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485167-8c.png" group-title="MUSICA CONTINUA",MUSIC HARD ROCK
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2244,7 +2244,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-FIESTA-CONTINUA/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-HARD-ROCK/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC HIMNOS ROCK" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC HIMNOS ROCK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC HIMNOS DEL ROCK" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496866-8c.png" group-title="MUSICA CONTINUA",MUSIC HIMNOS DEL ROCK
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2253,7 +2253,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-HARD-ROCK/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-HIMNOS-ROCK/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC JAMMIN REGGAE" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC JAMMIN REGGAE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC JAMMIN REGGAE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496868-8c.png" group-title="MUSICA CONTINUA",MUSIC JAMMIN REGGAE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2262,7 +2262,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-HIMNOS-ROCK/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-JAMMIN-REGGAE/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC JAZZ LATINO" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC JAZZ LATINO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC JAZZ LATINO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485133-8c.png" group-title="MUSICA CONTINUA",MUSIC JAZZ LATINO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2271,7 +2271,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-JAMMIN-REGGAE/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-JAZZ-LATINO/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC LATINO LOUNGUE" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC LATINO LOUNGUE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC LATIN LOUNGUE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505104-8c.png" group-title="MUSICA CONTINUA",MUSIC LATIN LOUNGUE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2280,7 +2280,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-JAZZ-LATINO/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/MUSIC-LATIN-LOUNGE/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC LATINO TROPICAL" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC LATINO TROPICAL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC LATINO TROPICAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485266-8c.png" group-title="MUSICA CONTINUA",MUSIC LATINO TROPICAL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2289,7 +2289,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MUSIC-LATIN-LOUNGE/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-LATINO-TROPICAL/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC LIGERA" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC LIGERA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC LIGERA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505095-8c.png" group-title="MUSICA CONTINUA",MUSIC LIGERA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2298,7 +2298,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-LATINO-TROPICAL/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/MUSIC-LIGERA/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC MAESTROS JAZZ" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC MAESTROS JAZZ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC MAESTROS JAZZ" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485153-8c.png" group-title="MUSICA CONTINUA",MUSIC MAESTROS JAZZ
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2307,7 +2307,7 @@ https://live5-ott.izzigo.tv/out/u/dash/MUSIC-LIGERA/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-JMAESTROS-JAZZ/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC MARIACHI" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC MARIACHI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC MARIACHI" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505113-8c.png" group-title="MUSICA CONTINUA",MUSIC MARIACHI
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2316,7 +2316,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-JMAESTROS-JAZZ/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-MARIACHI-PARA-SIEMPRE/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC MUNDO" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC MUNDO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC MUNDO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505122-8c.png" group-title="MUSICA CONTINUA",MUSIC MUNDO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2325,7 +2325,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-MARIACHI-PARA-SIEMPRE/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/MUSIC-DEL-MUNDO/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC NEW AGE" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC NEW AGE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC NEW AGE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485143-8c.png" group-title="MUSICA CONTINUA",MUSIC NEW AGE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2334,7 +2334,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MUSIC-DEL-MUNDO/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-NEW-AGE/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC OPERA+" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC OPERA+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC OPERA+" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/515640-8c.png" group-title="MUSICA CONTINUA",MUSIC OPERA+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2343,7 +2343,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-NEW-AGE/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-OPERA-PLUS/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC POP ADULTO" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC POP ADULTO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC POP ADULTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496892-8c.png" group-title="MUSICA CONTINUA",MUSIC POP ADULTO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2352,7 +2352,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-OPERA-PLUS/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/MUSIC-POP-ADULTO/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC POP LATINO" tvg-logo="https://logo.iptveditor.com/4musicp.png" group-title="MUSICA CONTINUA",MUSIC POP LATINO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC EXITOS DEL MOMENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505081-8c.png" group-title="MUSICA CONTINUA",MUSIC EXITOS DEL MOMENTO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2361,7 +2361,7 @@ https://live5-ott.izzigo.tv/out/u/dash/MUSIC-POP-ADULTO/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/MUSIC-POP-LATINO-ACTUAL/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC POPCORN" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC POPCORN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC POPCORN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485131-8c.png" group-title="MUSICA CONTINUA",MUSIC POPCORN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2370,7 +2370,7 @@ https://live5-ott.izzigo.tv/out/u/dash/MUSIC-POP-LATINO-ACTUAL/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-POPCORN/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC POPULAR CLASSIC" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC POPULAR CLASSIC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC POPULAR CLASSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496890-8c.png" group-title="MUSICA CONTINUA",MUSIC POPULAR CLASSIC
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2379,7 +2379,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-POPCORN/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/POPULAR-CLASSICAL/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC REGGAETON" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC REGGAETON
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC REGGAETON" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505057-8c.png" group-title="MUSICA CONTINUA",MUSIC REGGAETON
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2388,7 +2388,7 @@ https://live5-ott.izzigo.tv/out/u/dash/POPULAR-CLASSICAL/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/MUSIC-REGGAETON/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC ROCK ALTERNATIVO" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC ROCK ALTERNATIVO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC ROCK ALTERNATIVO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png" group-title="MUSICA CONTINUA",MUSIC ROCK ALTERNATIVO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2397,7 +2397,7 @@ https://live5-ott.izzigo.tv/out/u/dash/MUSIC-REGGAETON/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ROCK-ALTERNATIVO/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC ROCK BRASIL" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC ROCK BRASIL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC ROCK BRASIL" tvg-logo="https://music.stingray.com/themes/custom/music/logo.svg" group-title="MUSICA CONTINUA",MUSIC ROCK BRASIL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2406,7 +2406,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ROCK-ALTERNATIVO/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-ROCK-BRASIL/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC ROCK ESPAÑOL" tvg-logo="https://logo.iptveditor.com/mcmusicrock.png" group-title="MUSICA CONTINUA",MUSIC ROCK ESPAÑOL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC ROCK ESPAÑOL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505106-8c.png" group-title="MUSICA CONTINUA",MUSIC ROCK ESPAÑOL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2415,7 +2415,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-ROCK-BRASIL/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-R0CK-ESPANOL/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC ROMANCE LATINO" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC ROMANCE LATINO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC ROMANCE LATINO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505102-8c.png" group-title="MUSICA CONTINUA",MUSIC ROMANCE LATINO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2424,7 +2424,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-R0CK-ESPANOL/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/MUSIC-ROMANCE-LATINO/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC ROMPEPISTAS" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC ROMPEPISTAS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC ROMPEPISTAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485127-8c.png" group-title="MUSICA CONTINUA",MUSIC ROMPEPISTAS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2433,7 +2433,7 @@ https://live5-ott.izzigo.tv/out/u/dash/MUSIC-ROMANCE-LATINO/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-ROMPEPISTAS/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC SALSA MERENGUE" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC SALSA MERENGUE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC SALSA MERENGUE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505079-8c.png" group-title="MUSICA CONTINUA",MUSIC SALSA MERENGUE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2442,7 +2442,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-ROMPEPISTAS/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/MUSIC-SALSA-MERENGUE/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC SAMBA" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC SAMBA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC SAMBA" tvg-logo="https://music.stingray.com/themes/custom/music/logo.svg" group-title="MUSICA CONTINUA",MUSIC SAMBA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2451,7 +2451,7 @@ https://live5-ott.izzigo.tv/out/u/dash/MUSIC-SALSA-MERENGUE/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-SAMBA-PAGODE/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC SOLO PARA NIÑOS" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC SOLO PARA NIÑOS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC SOLO PARA PEQUES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485268-8c.png" group-title="MUSICA CONTINUA",MUSIC SOLO PARA PEQUES
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2460,7 +2460,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-SAMBA-PAGODE/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-SOLO-PEQUES/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC TANGO" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC TANGO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC TANGO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505120-8c.png" group-title="MUSICA CONTINUA",MUSIC TANGO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2469,7 +2469,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-SOLO-PEQUES/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/MUSIC-TANGO/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC VIEJOTAS BUENAS" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC VIEJOTAS BUENAS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC VIEJITAS BUENAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496872-8c.png" group-title="MUSICA CONTINUA",MUSIC VIEJITAS BUENAS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -2478,7 +2478,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MUSIC-TANGO/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=zsdfs
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/MUSIC-VIEJOTAS-BUENISIMAS/default.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC VIVA MEXICO" tvg-logo="https://logo.iptveditor.com/romances.png" group-title="MUSICA CONTINUA",MUSIC VIVA MEXICO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC VIVA MEXICO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505108-8c.png" group-title="MUSICA CONTINUA",MUSIC VIVA MEXICO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
