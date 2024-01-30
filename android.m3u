@@ -4,15 +4,15 @@
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="01-RECOMENDADOS", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.74835190079.png.f56373a3b38ea18c2c66ef37615a45b4.png"  group-title="01-RECOMENDADOS", Las Estrellas
-https://vivo.lamtv.tv:8081/a/0179/playlist.m3u8|user-agent=EEEEE
+http://208.88.246.11:5473/102estrellas/transco1/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png"  group-title="01-RECOMENDADOS", Imagen Television
 http://208.88.246.11:5473/103Imagen/transco13/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  group-title="01-RECOMENDADOS", Canal 5
-https://vivo.lamtv.tv:8081/a/0150/playlist.m3u8|user-agent=EEEEE
+http://208.88.246.11:5473/105canal5/transco1/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="01-RECOMENDADOS", Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="01-RECOMENDADOS", TUDN MX
-https://vivo.lamtv.tv:8081/a/0139/playlist.m3u8|user-agent=EEEEE
+http://208.88.246.11:5473/encoder84/evento17/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"  group-title="01-RECOMENDADOS", ESPN | HD
 http://208.88.246.11:5473/evento/bodega/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png"  group-title="01-RECOMENDADOS", ESPN 2 | HD
@@ -20,11 +20,11 @@ http://208.88.246.11:5473/evento2/bodega/chunk_Auth=ix08x/playlist.m3u8|user-age
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png"  group-title="01-RECOMENDADOS", ESPN 3
 http://208.88.246.11:5473/507ESPN3/transco14/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX Sports (Cono Norte México)" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="01-RECOMENDADOS",FOX SPORTS HD
-https://vivo.lamtv.tv:8081/a/0175/playlist.m3u8|user-agent=EEEEE
+http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsport2.png" group-title="01-RECOMENDADOS",FOX SPORTS 2 HD
 http://208.88.246.11:5473/andromeda/FOXSP2/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="01-RECOMENDADOS",FOX SPORTS 3 HD
-https://vivo.lamtv.tv:8081/a/0062/playlist.m3u8|user-agent=EEEEE
+http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="01-RECOMENDADOS", Fox Sports Premium MX op1
 http://208.88.246.11:5473/andrew/depelicula2/chunk_Auth=ix08x/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"  group-title="01-RECOMENDADOS", TNT | HD
@@ -38,9 +38,9 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u
 #EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="Unimas Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/2669px-Logo_UniM%C3%A1s_2021.svg.png"  group-title="01-RECOMENDADOS", Unimas Miami
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="01-RECOMENDADOS", TUDN USA
-https://vivo.lamtv.tv:8081/a/0148/playlist.m3u8|user-agent=EEEEE
+http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
 #EXTINF:-1  tvg-id="FoxDeportes(Spanish).us" tvg-name="FOX DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="01-RECOMENDADOS", FOX DEPORTES
-https://vivo.lamtv.tv:8081/a/0138/playlist.m3u8|user-agent=EEEEE
+http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="01-RECOMENDADOS", Telemundo Miami
 https://vivo.lamtv.tv:8081/a/0279/playlist.m3u8|user-agent=EEEEE
 #EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="01-RECOMENDADOS", Universo
