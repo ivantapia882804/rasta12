@@ -1,6 +1,91 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="01-RECOMENDADOS", Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.74835190079.png.f56373a3b38ea18c2c66ef37615a45b4.png"  group-title="01-RECOMENDADOS", Las Estrellas
+http://208.88.246.11:5473/102estrellas/transco1/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png"  group-title="01-RECOMENDADOS", Imagen Television
+http://208.88.246.11:5473/103Imagen/transco13/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  group-title="01-RECOMENDADOS", Canal 5
+http://208.88.246.11:5473/105canal5/transco1/chunk_Auth=ix08x/playlist.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="01-RECOMENDADOS", Azteca 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="01-RECOMENDADOS", TUDN MX
+http://208.88.246.11:5473/encoder84/evento17/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"  group-title="01-RECOMENDADOS", ESPN | HD
+http://208.88.246.11:5473/evento/bodega/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png"  group-title="01-RECOMENDADOS", ESPN 2 | HD
+http://208.88.246.11:5473/evento2/bodega/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png"  group-title="01-RECOMENDADOS", ESPN 3
+http://208.88.246.11:5473/507ESPN3/transco14/chunk_Auth=ix08x/playlist.m3u8
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX Sports (Cono Norte México)" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="01-RECOMENDADOS",FOX SPORTS HD
+http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsport2.png" group-title="01-RECOMENDADOS",FOX SPORTS 2 HD
+http://208.88.246.11:5473/andromeda/FOXSP2/chunk_Auth=ix08x/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="01-RECOMENDADOS",FOX SPORTS 3 HD
+http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="01-RECOMENDADOS", Fox Sports Premium MX op1
+http://208.88.246.11:5473/andrew/depelicula2/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"  group-title="01-RECOMENDADOS", TNT | HD
+http://208.88.246.11:5473/andromeda/TNT/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtg3i_eKDWjLGuBRXWdH2DfgB8jvWgUUHn67UncxnDIUi4Px4mpGVsC9rpsxfZaEA4X3XLu7U6zQXpwfn2T5RT7FVu9_dhkPOizFssOnLIASVXyCO-pv3oD1SzHVYcLH9RRqrpov79GM2QmO-ssVz35d9DLi96jGAl5bovMhQnc-RGQ4ZZKdjYvFn/s1200/afizzionados-logo.jpg"  group-title="01-RECOMENDADOS", Afizzionados
+http://208.88.246.11:5473/encoder18/unicable/chunk_Auth=ix08x/playlist.m3u8
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://olimpicos.clarosports.com/assets/themes/olimpicos/images/olimpicos-logo.png"  group-title="01-RECOMENDADOS", Claro Sports
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png"  group-title="01-RECOMENDADOS", Univision Miami
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
+#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="Unimas Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/2669px-Logo_UniM%C3%A1s_2021.svg.png"  group-title="01-RECOMENDADOS", Unimas Miami
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.m3u8
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="01-RECOMENDADOS", TUDN USA
+http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
+#EXTINF:-1  tvg-id="FoxDeportes(Spanish).us" tvg-name="FOX DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="01-RECOMENDADOS", FOX DEPORTES
+http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="01-RECOMENDADOS", Telemundo Miami
+http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/1899.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png"  group-title="01-RECOMENDADOS", ESPN Deportes
+http://208.88.246.11:5473/encoder82/evento16/chunk_Auth=ix08x/playlist.m3u8
+
+
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -4981,161 +5066,161 @@ http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/62891.m3u8
 http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/2552.m3u8
 
 
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",- 252 ComedyC
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",- 252 ComedyC
 http://181.78.105.146:2000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",- 290 CartoonNetwork
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",- 290 CartoonNetwork
 http://181.78.105.146:2000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", 25-292 Discovery kids
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", 25-292 Discovery kids
 http://181.78.105.146:2000/play/a015/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", 27-286 NICKELODEON
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", 27-286 NICKELODEON
 http://181.78.105.146:2000/play/a014/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", 29-236 DH&H
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", 29-236 DH&H
 http://181.78.105.146:2000/play/a03g/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", 30-214 TNTSE
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", 30-214 TNTSE
 http://181.78.105.146:2000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", 31-370 TNT
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", 31-370 TNT
 http://181.78.105.146:2000/play/a018/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",SONY
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",SONY
 http://181.78.105.146:2000/play/a002/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Uno
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Uno
 http://181.78.105.146:2000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",CANAL DE LAS ESTRELLAS
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",CANAL DE LAS ESTRELLAS
 http://181.78.105.146:2000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Imagen
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Imagen
 http://181.78.105.146:2000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Cinco
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Cinco
 http://181.78.105.146:2000/play/a038/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Multimedios
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Multimedios
 http://181.78.105.146:2000/play/a039/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Siete
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Siete
 http://181.78.105.146:2000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",ONCE
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",ONCE
 http://181.78.105.146:2000/play/a03a/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Canal 14
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Canal 14
 http://181.78.105.146:2000/play/a044/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",UNAM
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",UNAM
 http://181.78.105.146:2000/play/a045/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Canal22
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Canal22
 http://181.78.105.146:2000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Congreso
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Congreso
 http://181.78.105.146:2000/play/a046/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",MVSTV
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",MVSTV
 http://181.78.105.146:2000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Universal
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Universal
 http://181.78.105.146:2000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",WB
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",WB
 http://181.78.105.146:2000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",AXN
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",AXN
 http://181.78.105.146:2000/play/a05y/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",FX
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",FX
 http://181.78.105.146:2000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Space MX
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Space MX
 http://181.78.105.146:2000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",A&E
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",A&E
 http://181.78.105.146:2000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Investigation Discovery La
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Investigation Discovery La
 http://181.78.105.146:2000/play/a04y/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",TLC
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",TLC
 http://181.78.105.146:2000/play/a03h/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Lifetime
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Lifetime
 http://181.78.105.146:2000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",HOLA
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",HOLA
 http://181.78.105.146:2000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",E!
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",E!
 http://181.78.105.146:2000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",VideRola
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",VideRola
 http://181.78.105.146:2000/play/a04c/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",TELER
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",TELER
 http://181.78.105.146:2000/play/a03u/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",OnceKids
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",OnceKids
 http://181.78.105.146:2000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",DisneyJR
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",DisneyJR
 http://181.78.105.146:2000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",AprendeTV2
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",AprendeTV2
 http://181.78.105.146:2000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",IngenioTV
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",IngenioTV
 http://181.78.105.146:2000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Discovery
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Discovery
 http://181.78.105.146:2000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",NatGeo
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",NatGeo
 http://181.78.105.146:2000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",History
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",History
 http://181.78.105.146:2000/play/a017/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",History2
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",History2
 http://181.78.105.146:2000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Arts
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Arts
 http://181.78.105.146:2000/play/a04j/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Claro Sport
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",ESPN 2
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",ESPN 2
 http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",ESPN
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",ESPN
 http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",ESPN3
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",ESPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",CNNE
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",CNNE
 http://181.78.105.146:2000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Milenio
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Milenio
 http://181.78.105.146:2000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",TVC
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",TVC
 http://181.78.105.146:2000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Judicial
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Judicial
 http://181.78.105.146:2000/play/a04n/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",MC
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",MC
 http://181.78.105.146:2000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",CineCanal O
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",CineCanal O
 http://181.78.105.146:2000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Films
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Films
 http://181.78.105.146:2000/play/a08i/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",StudioUniversal
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",StudioUniversal
 http://181.78.105.146:2000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS",Paramount
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS",Paramount
 http://181.78.105.146:2000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", AGROTENDENCIA
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", AGROTENDENCIA
 http://181.78.105.146:2000/play/a08b/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", Azteca 7
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", Azteca 7
 http://181.78.105.146:2000/play/a08z/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", BANDAMAX
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", BANDAMAX
 http://181.78.105.146:2000/play/a08h/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", CTV CANAL
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", CTV CANAL
 http://181.78.105.146:2000/play/a08s/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", Canal 27 GT
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", Canal 27 GT
 http://181.78.105.146:2000/play/a08x/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", Caracol TV
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", Caracol TV
 http://181.78.105.146:2000/play/a092/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", DE PELICULA
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", DE PELICULA
 http://181.78.105.146:2000/play/a090/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", Distrito Comedia
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", Distrito Comedia
 http://181.78.105.146:2000/play/a08t/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", Fox Deportes
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", Fox Deportes
 http://181.78.105.146:2000/play/a093/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", GOLDEN EDGE
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", GOLDEN EDGE
 http://181.78.105.146:2000/play/a08k/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", Gol TV
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", Gol TV
 http://181.78.105.146:2000/play/a094/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", SKY
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", SKY
 http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", STARZ 1
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", STARZ 1
 http://181.78.105.146:2000/play/a097/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", TELENOVELAS
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", TELENOVELAS
 http://181.78.105.146:2000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", TN23
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", TN23
 http://181.78.105.146:2000/play/a08g/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", TUDN
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", Tele Hit
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", Tele Hit
 http://181.78.105.146:2000/play/a091/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", Telemundo Miami
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", Telemundo Miami
 http://181.78.105.146:2000/play/a096/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", TyC Sports
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", TyC Sports
 http://181.78.105.146:2000/play/a095/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", UNICABLE
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", UNICABLE
 http://181.78.105.146:2000/play/a08f/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", canal 13 Guate
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", canal 13 Guate
 http://181.78.105.146:2000/play/a08p/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", rf
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", rf
 http://181.78.105.146:2000/play/a098/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="CANALES VARIADOS", t13
+#EXTINF:-1 tvg-shift="0"  group-title="CANALES VARIADOS", t13
 http://181.78.105.146:2000/play/a08c/index.m3u8
 
 #EXTINF:-1 group-title="CANALES VARIADOS",13 C
@@ -7277,6 +7362,665 @@ http://138.59.177.34:8000/play/a050/index.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS", ZooMoo
 http://138.59.177.34:8000/play/a00q/index.m3u8
 
+#EXTINF:-1 group-title="CANALES VARIADOS",TNT Sports 2
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/1.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",CDF HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/2.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",CNN Chile
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/3.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",24 horas
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",La red
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/5.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",tvn
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/6.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Mega
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/7.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",CHV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/8.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Canal 13
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/9.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Cartoonito
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/10.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",NICK JR
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/11.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",DISCOVERY KIDS
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/12.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",DISCOVERY TURBO
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/13.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Disney Channel
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/14.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Disney Jr
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/15.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Cartoon Network
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/18.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/19.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 2
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/20.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 2 CO
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/21.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 3
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/22.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Fox Sports 3
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/23.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Win
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/24.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",FX
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/25.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TNT
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/26.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Cinecanal
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/27.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Cinemax
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/28.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Star Channel
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/31.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Warner
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/32.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Universal
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/33.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Sony
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/34.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Space
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/35.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TCM
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/36.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",I-sat
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/37.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",AXN
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/38.m3u8.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Nat Geo
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/39.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Home and Health
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/40.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Discovery ID
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/41.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Discovery Channel
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/42.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Animal Planet
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/43.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",History Channel
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/44.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TLC
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/45.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",CNN espanol
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/46.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Canal de Las estrellas
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/47.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",E Entertainment
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/48.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TVE
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/49.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",MTV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/50.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ViaX
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/51.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Zona Latina
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/52.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Canal Caracol
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/53.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Canal RCN
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/54.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Canal Del Congreso CO
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/55.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Canal Capital
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/56.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",City TV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/57.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Senal Colombiana
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/59.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TNT Novelas
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/60.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Telepacifico
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/61.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Teleislas
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/62.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Teleantioquia
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/63.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Telecafe
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/64.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Golf Channel
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/66.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",teletrak
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/67.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",13 C
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/148.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Rec TV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/149.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TV+
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/150.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TNT Sports 3
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/151.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Fox Sports 1
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/152.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Fox Sports 2
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/153.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",CDO basico
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/154.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",CDO premium
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/155.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ANTV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/156.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ATV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/157.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Baby TV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/158.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",CMD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/159.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Canal N
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/160.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Discovery Science
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/161.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",EWTV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/162.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ECDF El canal del futbol HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/164.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Gol Peru
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/170.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Golden
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/171.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HBO
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/173.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HBO Mundi
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/174.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HBO Signature
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/175.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HBO 2
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/176.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HTV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/177.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",History 2
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/178.m3u8.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HOLA TV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/179.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Las Estrellas
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/180.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Lifetime
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/181.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Meridiano
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/182.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Panamericana
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/184.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Paramount
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/185.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Peru Magico
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/186.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",RPP
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/187.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Studio Universal
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/188.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",USA
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/189.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Tnt Series
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/191.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TV EPACO
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/192.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TV Peru
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/193.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Telenovelas
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/194.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Tooncast
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/195.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TYC Sports
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/196.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",VALE TV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/197.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",VenevisionPlus
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/198.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Venezolana de TV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/199.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Vive
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/200.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",WOBI
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/201.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ETC TV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/202.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",movistar deportes
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/203.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN op2
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/204.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",America Television
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/205.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Latina
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/206.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Fox sports
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/207.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",A&E HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/208.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",AMC HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/209.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",AXN HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/210.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Animal Planet HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/211.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",CHV HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/212.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",CNN Chile HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/213.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Canal 13 HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/214.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Canal 24 Horas HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/215.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Cartoon Network HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/216.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Cinecanal HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/217.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Cinemax HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/218.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Comedy Central HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/219.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",DHE HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/220.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Discovery H&H HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/221.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Discovery HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/222.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Discovery Kids HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/223.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Discovery Theater HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/224.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Discovery World HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/225.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Disney HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/226.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 2 HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/227.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 3 HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/228.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN EXTRA HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/229.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/230.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",El Gourmet HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/231.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",FOX Sports 2 HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/232.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",FX HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/233.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Food Network HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/235.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Fox Sports 1 HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/236.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Fox Sports 3 HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/237.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Golden HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/238.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HBO HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/239.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",History 2 HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/240.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",History Channel HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/241.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Discovery ID HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/242.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",La Red HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/243.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",MEGA HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/244.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Nat Geo HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/245.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Paramount HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/248.m3u8.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Pasiones HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/249.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",STAR CHANNEL HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/251.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Sony HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/257.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Space HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/258.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Studio Universal HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/259.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Sun Channel HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/260.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TNT HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/261.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TNT SPORTS HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/262.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TNT Series HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/263.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", adult swim
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/264.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TVN HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/265.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",UNIVERSAL CHANNEL HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/266.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Warner Channel HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/267.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",A&E Mundo
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/268.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HBO Family
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/269.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HBO plus
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/270.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HBO Xtream
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/271.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Nickelodeon
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/272.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TV+ HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/273.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",NTV HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/274.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",DragonBall Z - Saga Freezer
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/304.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",24/7 INVENCIBLE
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/313.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",24/7 JUJUTSU KAISEN
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/338.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",24/7 El Juego Del Calamar
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/348.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",24/7 LOKI
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/366.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",The Classic Project 
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/399.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",24/7 Batman del futuro
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/774.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",24/7 Cadillacs and dinosaurs
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/775.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",24/7 Flash Gordon
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/801.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",24/7 Inspector Ardilla
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/828.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",24/7 Pinky y Cerebro
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/894.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Telemundo
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/3924.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",DTV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/3925.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Win Sports +
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/3926.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",CONGRESO
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/3927.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ET Canal El Tiempo
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/3928.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",JUSTICIA TV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/3929.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",MOVISTAR PLUS
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/3930.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Venevision
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/3931.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Canal Institucional
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/3932.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TV PERU 7.3
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/3933.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",De Pelicula
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/3934.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HGTV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/3935.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Gol TV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/3936.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HBO POP
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/3937.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HBO Family hd
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4181.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HBO 2 HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4182.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HBO XTREME HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4183.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",MTV HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4184.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",MTV LIVE HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4185.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",E! HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4186.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",CLOVER HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4187.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Kanal D Drama HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4188.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Love Nature HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4189.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",EVENTOS
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4195.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",NICK HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4226.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",EnerGeek
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4244.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",EnerGeek Fanpop
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4245.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",EnerGeek Wowly
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4246.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",A3series HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4247.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Universal Cinema SD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4248.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Universal Comedy SD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4249.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Universal Premiere SD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4250.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Via X Esports
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4251.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ATRES SERIES
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4252.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Antena 3
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4253.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",BBC World
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4254.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",CNN Internacional
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4255.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",CNT SPORTS SD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4256.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",CableNoticias
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4257.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Canal Uno
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4258.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Canal I
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4260.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Clover
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4261.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Conciencia
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4262.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",DW (Deutsch +)
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4263.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Distrito Comedia
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4264.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN op3
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4265.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 4
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4266.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Ecuador TV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4267.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Ecuavisa
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4268.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",El Gourmet
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4269.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",El Trece
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4270.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Epoca
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4271.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Eurochannel
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4272.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",FANB
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4273.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Fox News
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4274.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",France 24
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4275.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",GLOBAL
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4276.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Gamavision
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4277.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Glitz
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4278.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HBO SD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4280.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HBO Xtreme
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4281.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Kanal D Drama
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4282.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Lolly Kids
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4284.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Love Nature
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4285.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Mas Chic
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4286.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",NTN 24 Horas
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4287.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Nuestra Tele
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4288.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Oromar TV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4289.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",PLUSTV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4290.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",RAI
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4291.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",RTS
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4292.m3u8.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",RTU
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4293.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Sun Channel
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4294.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TLT
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4295.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TV Diputados
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4296.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TV Familia
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4297.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TV Senado
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4298.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TVES
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4299.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Teen Nick
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4300.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Teleamazonas
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4301.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Telecanal
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4302.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Telefe
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4303.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Telesur
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4304.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Televicentro
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4305.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", adult swim
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4306.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",UCL
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4307.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Win Sports+
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4309.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ATRES SERIES HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4310.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",America TV HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4311.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Canal Institucional HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4312.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Caracol HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4313.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 4 HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4314.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Gol Peru HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4315.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Gol TV HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4316.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",HBO POP HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4317.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Hola TV HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4318.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Las Estrellas HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4319.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Latina HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4320.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",MTV 00s
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4321.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Movistar Deportes HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4322.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",NICK MUSIC
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4323.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",RCN HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4325.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Senal Colombiana HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4326.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Stingray Concerts HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4327.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TNT Novelas
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4328.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Telehit HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4329.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Win Sports+ HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4330.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",AMC
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4331.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",America TV PY
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4332.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Baby First
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4333.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",C9N
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4334.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Canal Claro
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4335.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Canal TRO
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4336.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Claro Cinema
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4337.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Claro Sports
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4338.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Comedy Central
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4339.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Cristovision
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4340.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN CO
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4341.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Enlace
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4342.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Esne TV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4343.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Europa Europa
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4344.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Film&Arts
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4345.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Gama TV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4346.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Globo Internacional
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4347.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",La Tele
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4351.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Movistar TV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4352.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",NPY
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4353.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Paravision
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4354.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",RCN Novelas
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4357.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",SNT
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4358.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",SUR TV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4359.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Sin Limites
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4361.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TC Television
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4362.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TV Camara
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4363.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",telecaribe
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4364.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",telefuturo
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4365.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",televen
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4366.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Unicanal
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4367.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Willax
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4368.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",NTV
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4370.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",AZ Cinema HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4375.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Canal 1 HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4376.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Lolly Kids HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4377.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Star TVE HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4378.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",TNT Novelas HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4379.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Win Sports HD
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4380.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Dreamworks
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4460.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",Bym Sports
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4461.m3u8
+
 #EXTINF:-1 group-title="CANALES VARIADOS", ESPN 1 MX
 http://167.114.156.136:25461/INFINITV/ZX89NM22/35
 #EXTINF:-1 group-title="CANALES VARIADOS", ESPN 2 MX
@@ -7447,439 +8191,3 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/226
 http://167.114.156.136:25461/INFINITV/ZX89NM22/229
 #EXTINF:-1 group-title="CANALES VARIADOS", Dicovery Turbo
 http://167.114.156.136:25461/INFINITV/ZX89NM22/230
-
-
-#EXTINF:-1 group-title="CANALES VARIADOS", 11 - Repretel
-http://138.59.177.34:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", 13-Sinart
-http://138.59.177.34:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", 4 Repretel
-http://138.59.177.34:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", 42 - Extra TV 42
-http://138.59.177.34:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", 6 - Repretel
-http://138.59.177.34:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", A&E
-http://138.59.177.34:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", A&E HD
-http://138.59.177.34:8000/play/a032/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", AMC
-http://138.59.177.34:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", AMC HD
-http://138.59.177.34:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", AXN
-http://138.59.177.34:8000/play/a02k/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", AXN HD
-http://138.59.177.34:8000/play/a06w/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", AZ click HD
-http://138.59.177.34:8000/play/a039/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Animal Planet
-http://138.59.177.34:8000/play/a055/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Animal Planet HD
-http://138.59.177.34:8000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Antena 3
-http://138.59.177.34:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Antena 7- RD
-http://138.59.177.34:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Atres Series
-http://138.59.177.34:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Azcorazon
-http://138.59.177.34:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Azmundo
-http://138.59.177.34:8000/play/a04y/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Azteca Uno
-http://138.59.177.34:8000/play/a07o/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Baby First
-http://138.59.177.34:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Baby TV
-http://138.59.177.34:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", CANAL 13 - NI
-http://138.59.177.34:8000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", CARTOON NT HD
-http://138.59.177.34:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", CDN2- RD
-http://138.59.177.34:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", CDN37 - RD
-http://138.59.177.34:8000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", CERTV
-http://138.59.177.34:8000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", CINECANAL HD
-http://138.59.177.34:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", CNN Internacional
-http://138.59.177.34:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", CNNE
-http://138.59.177.34:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 10 - ESA
-http://138.59.177.34:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 10 HD
-http://138.59.177.34:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 11 - GUA
-http://138.59.177.34:8000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 11 - HON
-http://138.59.177.34:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 13 - PAN
-http://138.59.177.34:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 13-GUA
-http://138.59.177.34:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 14 - NIC
-http://138.59.177.34:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 19  ESA
-http://138.59.177.34:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 2 - ESA
-http://138.59.177.34:8000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 2 - NIC
-http://138.59.177.34:8000/play/a04r/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 2 - PAN
-http://138.59.177.34:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 3 - GUA
-http://138.59.177.34:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 3 Telesistemas HND
-http://138.59.177.34:8000/play/a068/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 4 - NIC
-http://138.59.177.34:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 4 - PAN
-http://138.59.177.34:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 4 HD ESA
-http://138.59.177.34:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 5 - HON
-http://138.59.177.34:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 6 - ESA
-http://138.59.177.34:8000/play/a03g/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 6 - NI
-http://138.59.177.34:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal 7 - GUA
-http://138.59.177.34:8000/play/a04l/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal Antigua - GUA
-http://138.59.177.34:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal Azteca - GUA
-http://138.59.177.34:8000/play/a04k/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal Claro
-http://138.59.177.34:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal Claro HD
-http://138.59.177.34:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal VTV HND
-http://138.59.177.34:8000/play/a069/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Canal de las Estrellas HD
-http://138.59.177.34:8000/play/a07k/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Cartoon Network
-http://138.59.177.34:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Cartoonito
-http://138.59.177.34:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Cine Latino
-http://138.59.177.34:8000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", CineCanal
-http://138.59.177.34:8000/play/a06s/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", CineMax
-http://138.59.177.34:8000/play/a06q/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Claro Cinema
-http://138.59.177.34:8000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Claro Musica
-http://138.59.177.34:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Claro Sports 1 HD
-http://138.59.177.34:8000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Claro Sports 1 SD
-http://138.59.177.34:8000/play/a06h/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Claro Sports 2 HD
-http://138.59.177.34:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Claro Sports 2 SD
-http://138.59.177.34:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Color Vision 9 - RD
-http://138.59.177.34:8000/play/a04u/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Comedy Central HD
-http://138.59.177.34:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Concert Channel
-http://138.59.177.34:8000/play/a06l/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", DHE
-http://138.59.177.34:8000/play/a01g/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", DHE HD
-http://138.59.177.34:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", DISC THEATHER HD
-http://138.59.177.34:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Digital 15 - RD
-http://138.59.177.34:8000/play/a03l/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Channel
-http://138.59.177.34:8000/play/a054/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Channel HD
-http://138.59.177.34:8000/play/a077/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Home & Health
-http://138.59.177.34:8000/play/a06f/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Discovery ID HD
-http://138.59.177.34:8000/play/a07b/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Kids
-http://138.59.177.34:8000/play/a06a/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Kids HD
-http://138.59.177.34:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Science
-http://138.59.177.34:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Turbo
-http://138.59.177.34:8000/play/a06e/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Discovery World HD
-http://138.59.177.34:8000/play/a078/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Disney
-http://138.59.177.34:8000/play/a06c/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Disney JR
-http://138.59.177.34:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", E!
-http://138.59.177.34:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", E! Entertairment HD
-http://138.59.177.34:8000/play/a030/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", ESPN
-http://138.59.177.34:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", ESPN  +
-http://138.59.177.34:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 2
-http://138.59.177.34:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 2 HD
-http://138.59.177.34:8000/play/a072/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 3
-http://138.59.177.34:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 3 HD
-http://138.59.177.34:8000/play/a071/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 4
-http://138.59.177.34:8000/play/a06j/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 4  HD
-http://138.59.177.34:8000/play/a06v/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", ESPN HD
-http://138.59.177.34:8000/play/a070/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", EURO Channel
-http://138.59.177.34:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", EWTN
-http://138.59.177.34:8000/play/a02r/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", El Gourmet
-http://138.59.177.34:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Europa HD
-http://138.59.177.34:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Exa TV
-http://138.59.177.34:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS 2 HD
-http://138.59.177.34:8000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS 3 HD
-http://138.59.177.34:8000/play/a073/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", FOX Sports 2
-http://138.59.177.34:8000/play/a047/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", FUTV CR
-http://138.59.177.34:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", FUTV HD CR
-http://138.59.177.34:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", FX
-http://138.59.177.34:8000/play/a03z/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", FX HD
-http://138.59.177.34:8000/play/a035/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Film & Arts
-http://138.59.177.34:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Film & arts HD
-http://138.59.177.34:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Fox Sport 3
-http://138.59.177.34:8000/play/a02h/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Golden
-http://138.59.177.34:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Golden Premiere 2 HD
-http://138.59.177.34:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Golden Premiere HD
-http://138.59.177.34:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Golf Channel
-http://138.59.177.34:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Golf Channel HD
-http://138.59.177.34:8000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Guatevision - GUA
-http://138.59.177.34:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", H2
-http://138.59.177.34:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", HBO Family HD
-http://138.59.177.34:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", HBO HD
-http://138.59.177.34:8000/play/a01m/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", HBO Plus HD
-http://138.59.177.34:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", HBO XTREME
-http://138.59.177.34:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", HBO2 HD
-http://138.59.177.34:8000/play/a01n/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", HCH- HON
-http://138.59.177.34:8000/play/a022/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", HOLA! TV HD
-http://138.59.177.34:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", HTV
-http://138.59.177.34:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", History Channel
-http://138.59.177.34:8000/play/a056/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", History HD
-http://138.59.177.34:8000/play/a02s/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Hola!TV
-http://138.59.177.34:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Home & Health HD
-http://138.59.177.34:8000/play/a05n/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Home Garden Latino
-http://138.59.177.34:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", ID
-http://138.59.177.34:8000/play/a06g/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", LIFE TIME
-http://138.59.177.34:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", La voz de Maria
-http://138.59.177.34:8000/play/a06i/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Latin America Sport
-http://138.59.177.34:8000/play/a049/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", MASTV - PAN
-http://138.59.177.34:8000/play/a03t/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", MTV
-http://138.59.177.34:8000/play/a06k/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", MTV 00s
-http://138.59.177.34:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", MTV 00s HD
-http://138.59.177.34:8000/play/a05r/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", MTV 80s
-http://138.59.177.34:8000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", MTV HD
-http://138.59.177.34:8000/play/a02u/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", MTV Hits
-http://138.59.177.34:8000/play/a02i/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", MTV SIM HD
-http://138.59.177.34:8000/play/a05q/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Mas Chic
-http://138.59.177.34:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Multicinema
-http://138.59.177.34:8000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Multimedios
-http://138.59.177.34:8000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Multipremier
-http://138.59.177.34:8000/play/a06o/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", NEXT - PAN
-http://138.59.177.34:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Nat Geo HD
-http://138.59.177.34:8000/play/a074/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", National Geographic
-http://138.59.177.34:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Nicarao TV
-http://138.59.177.34:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Nick Jr
-http://138.59.177.34:8000/play/a024/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Nick SIM HD
-http://138.59.177.34:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Nickelodeon
-http://138.59.177.34:8000/play/a06b/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", PXTV
-http://138.59.177.34:8000/play/a048/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Paramount
-http://138.59.177.34:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Paramount HD
-http://138.59.177.34:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Pasiones HD
-http://138.59.177.34:8000/play/a079/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Playboy
-http://138.59.177.34:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", RCN - GUA
-http://138.59.177.34:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", RCN Novelas
-http://138.59.177.34:8000/play/a040/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", RHEMA TV
-http://138.59.177.34:8000/play/a06u/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", SEMILLITAS
-http://138.59.177.34:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", SERTV - PAN
-http://138.59.177.34:8000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", SONY
-http://138.59.177.34:8000/play/a04z/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", SONY HD
-http://138.59.177.34:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", SPACE
-http://138.59.177.34:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", SPACE HD
-http://138.59.177.34:8000/play/a06x/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", STAR CHANNEL
-http://138.59.177.34:8000/play/a06d/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", STAR CHANNEL HD
-http://138.59.177.34:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Sembrador
-http://138.59.177.34:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", SexTream
-http://138.59.177.34:8000/play/a07g/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Sony Movies HD
-http://138.59.177.34:8000/play/a037/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Star TVE HD
-http://138.59.177.34:8000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Studio Universal
-http://138.59.177.34:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Studio Universal HD
-http://138.59.177.34:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Sun Channel
-http://138.59.177.34:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", SyFy
-http://138.59.177.34:8000/play/a053/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", TBN Enlace
-http://138.59.177.34:8000/play/a02q/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", TBS
-http://138.59.177.34:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", TCM
-http://138.59.177.34:8000/play/a04e/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", TD+2 HD CR
-http://138.59.177.34:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", TD+HD CR
-http://138.59.177.34:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", TLC
-http://138.59.177.34:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", TNT
-http://138.59.177.34:8000/play/a02l/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", TNT HD
-http://138.59.177.34:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", TNT Series
-http://138.59.177.34:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", TNT Series HD
-http://138.59.177.34:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", TV  Max - PAN
-http://138.59.177.34:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", TVChile
-http://138.59.177.34:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", TVE
-http://138.59.177.34:8000/play/a06t/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Teen Nick HD
-http://138.59.177.34:8000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Tele Antillas - RD
-http://138.59.177.34:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", TeleMicro - RD
-http://138.59.177.34:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Telecadena - HON
-http://138.59.177.34:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Telecentro - RD
-http://138.59.177.34:8000/play/a03q/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Telemundo
-http://138.59.177.34:8000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Telemundo HD
-http://138.59.177.34:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Telesistema RD
-http://138.59.177.34:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Teleuniverso - RD
-http://138.59.177.34:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Televida RD
-http://138.59.177.34:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Tigo Sports HD
-http://138.59.177.34:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Tooncast
-http://138.59.177.34:8000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Tru TV
-http://138.59.177.34:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL CINEMA ESTE HD
-http://138.59.177.34:8000/play/a07c/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL COMEDY HD
-http://138.59.177.34:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL CRIME HD
-http://138.59.177.34:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL PREMIERE HD
-http://138.59.177.34:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL PREMIERE O HD
-http://138.59.177.34:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL REALITY HD
-http://138.59.177.34:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Universal
-http://138.59.177.34:8000/play/a06m/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Univision HD
-http://138.59.177.34:8000/play/a07a/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", VENUS
-http://138.59.177.34:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", VTV Canal 35 ESA
-http://138.59.177.34:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", WARNER HD
-http://138.59.177.34:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", Warner
-http://138.59.177.34:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", ZooMoo
-http://138.59.177.34:8000/play/a00q/index.m3u8
