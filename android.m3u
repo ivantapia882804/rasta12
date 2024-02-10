@@ -45,6 +45,8 @@ http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
 http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/1899.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png"  group-title="01-RECOMENDADOS", ESPN Deportes
 http://208.88.246.11:5473/encoder82/evento16/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-name="Zona TUDN (VP)"  group-title="01-RECOMENDADOS", Zona TUDN (VP)
+https://bgtv.site/loves.php?id=vixpremium
 
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="02-LOCALES", Azteca Uno
