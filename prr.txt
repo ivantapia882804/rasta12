@@ -26,7 +26,7 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="01-RECOMENDADOS", TUDN MX
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/201.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"  group-title="01-RECOMENDADOS", ESPN | HD
-http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
+http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png"  group-title="01-RECOMENDADOS", ESPN 2 | HD
 http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 ##EXTVLCOPT:network-caching=1000
@@ -45,10 +45,13 @@ http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="01-RECOMENDADOS", Fox Sports Premium MX op1
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/197.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"  group-title="01-RECOMENDADOS", TNT | HD
-http://livex.pop-app.live/s4n/poplive/ch337/playlist.m3u8
+http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/16599.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtg3i_eKDWjLGuBRXWdH2DfgB8jvWgUUHn67UncxnDIUi4Px4mpGVsC9rpsxfZaEA4X3XLu7U6zQXpwfn2T5RT7FVu9_dhkPOizFssOnLIASVXyCO-pv3oD1SzHVYcLH9RRqrpov79GM2QmO-ssVz35d9DLi96jGAl5bovMhQnc-RGQ4ZZKdjYvFn/s1200/afizzionados-logo.jpg"  group-title="01-RECOMENDADOS", Afizzionados
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/548.m3u8
+http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://olimpicos.clarosports.com/assets/themes/olimpicos/images/olimpicos-logo.png"  group-title="01-RECOMENDADOS", Claro Sports
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png"  group-title="01-RECOMENDADOS", Univision Miami
