@@ -42,9 +42,9 @@ http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="01-RECOMENDADOS", Fox Sports Premium MX op1
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/197.m3u8
+http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/53549.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
