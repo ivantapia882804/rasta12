@@ -554,7 +554,7 @@ http://208.88.246.11:5473/507ESPN3/transco14/chunk_Auth=ix08x/playlist.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1046022-8c.png"  group-title="08-DEPORTES", ESPN Extra
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN 4" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1046022-8c.png"  group-title="08-DEPORTES", ESPN 4
 http://208.88.246.11:5473/andromeda/ESPN+/chunk_Auth=ix08x/playlist.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -2457,17 +2457,17 @@ http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/15453.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="08-DEPORTES", ESPN EXTRA HD
+#EXTINF:-1 group-title="08-DEPORTES", ESPN 4 HD
 http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/30333.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="08-DEPORTES", ESPN EXTRA LQ
+#EXTINF:-1 group-title="08-DEPORTES", ESPN 4 LQ
 http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/16547.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="08-DEPORTES", ESPN EXTRA MX (i)
+#EXTINF:-1 group-title="08-DEPORTES", ESPN 4 MX (i)
 http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/37820.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -3197,12 +3197,12 @@ http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/37958.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="08-DEPORTES", FOX Sports 2 (CL) (i)
+#EXTINF:-1 group-title="08-DEPORTES", ESPN 7 (CL) (i)
 http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/37834.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="08-DEPORTES", FOX Sports 2 HD CL (i)
+#EXTINF:-1 group-title="08-DEPORTES", ESPN 7 HD CL (i)
 http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/38572.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -3212,7 +3212,7 @@ http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/38567.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="08-DEPORTES", I-FOX Sports 1 HD (CL) Encoder
+#EXTINF:-1 group-title="08-DEPORTES", I-ESPN Premium HD (CL) Encoder
 http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/38544.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -6256,11 +6256,11 @@ http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4246.m3u8
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4342.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS",Epoca
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4271.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",ESPN
-http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/19.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS",ESPN 2
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/19.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/20.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 2 CO
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN CO
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/21.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS",ESPN 2 HD
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/227.m3u8
@@ -6268,11 +6268,11 @@ http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/227.m3u8
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/22.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS",ESPN 3 HD
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/228.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 4
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 5
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4266.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 4 HD
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 5 HD
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4314.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",ESPN EXTRA HD
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 4 HD
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/229.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS",ESPN HD
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/230.m3u8
@@ -6288,19 +6288,19 @@ http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4273.m3u8
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/235.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS",Fox News
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4274.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Fox sports
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 4
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/207.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Fox Sports 1
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN Premium
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/152.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Fox Sports 1 HD
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN Premium HD
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/236.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Fox Sports 2
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 7
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/153.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",FOX Sports 2 HD
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 7 HD
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/232.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Fox Sports 3
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 6
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/23.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS",Fox Sports 3 HD
+#EXTINF:-1 group-title="CANALES VARIADOS",ESPN 6 HD
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/237.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS",France 24
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4275.m3u8
