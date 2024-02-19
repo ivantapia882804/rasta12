@@ -6,7 +6,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.74835190079.png.f56373a3b38ea18c2c66ef37615a45b4.png"  group-title="01-RECOMENDADOS", Las Estrellas
-https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png"  group-title="01-RECOMENDADOS", Imagen Television
