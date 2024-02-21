@@ -77,8 +77,10 @@ https://vivo.lamtv.tv:8081/a/0279/playlist.m3u8
 https://vivo.lamtv.tv:8081/a/0163/playlist.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-name="ViX Eventos"  group-title="01-RECOMENDADOS", ViX Eventos
-https://bgtv.site/loves.php?id=vixpremium
+#EXTINF:-1 tvg-name="ViX Deportes 1"  group-title="01-RECOMENDADOS", ViX Deportes 1
+https://linear-380.frequency.stream/dist/studio/380/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="ViX Deportes 2"  group-title="01-RECOMENDADOS", ViX Deportes 2
+https://linear-381.frequency.stream/dist/studio/381/hls/master/playlist.m3u8
 
 
 ##EXTVLCOPT:network-caching=1000
@@ -718,8 +720,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 group-title="02-LOCALES",Canal 6 CDMX FHD
 https://stream.ads.ottera.tv/cl/240221cnakjjg3t0mmaduva570/1920x1080_4215200_4_f.m3u8?
-#EXTINF:-1 group-title="03-INFORMACIÓN",Milenio Televisión FHD
-https://stream.ads.ottera.tv/cl/240221cnaklqbie8fiimabtiag/1920x1080_4215200_4_f.m3u8?
 #EXTINF:-1 group-title="02-LOCALES",C4 En Alerta
 https://stream.ads.ottera.tv/cl/240221cnakl5e3fi0h1nej4abg/1280x720_3071200_0_f.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="02-LOCALES",Canal 6 CDMX
