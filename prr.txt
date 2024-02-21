@@ -716,6 +716,12 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 
+#EXTINF:-1 group-title="02-LOCALES",Canal 6 CDMX FHD
+https://stream.ads.ottera.tv/cl/240221cnakjjg3t0mmaduva570/1920x1080_4215200_4_f.m3u8?
+#EXTINF:-1 group-title="03-INFORMACIÓN",Milenio Televisión FHD
+https://stream.ads.ottera.tv/cl/240221cnaklqbie8fiimabtiag/1920x1080_4215200_4_f.m3u8?
+#EXTINF:-1 group-title="02-LOCALES",C4 En Alerta
+https://stream.ads.ottera.tv/cl/240221cnakl5e3fi0h1nej4abg/1280x720_3071200_0_f.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="02-LOCALES",Canal 6 CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="02-LOCALES",MVSTV
@@ -5060,18 +5066,6 @@ http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/62891.m3u8
 #EXTINF:-1 group-title="14-USA", SYFY | US p)
 http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/2552.m3u8
 
-#EXTINF:-1 group-title="02-LOCALES",Canal 6 CDMX HD
-https://stream.ads.ottera.tv/cl/240221cnakjj6r8v2a9tieo6u0/1280x720_3071200_0_f.m3u8?
-#EXTINF:-1 group-title="02-LOCALES",Canal 6 CDMX FHD
-https://stream.ads.ottera.tv/cl/240221cnakjjg3t0mmaduva570/1920x1080_4215200_4_f.m3u8?
-#EXTINF:-1 group-title="03-INFORMACIÓN",Milenio Televisión HD
-https://stream.ads.ottera.tv/cl/240221cnakjj6r8v2a9tieo6u0/1280x720_3071200_0_f.m3u8?
-#EXTINF:-1 group-title="03-INFORMACIÓN",Milenio Televisión FHD
-https://stream.ads.ottera.tv/cl/240221cnaklqbie8fiimabtiag/1920x1080_4215200_4_f.m3u8?
-#EXTINF:-1 group-title="15-24/7",C4 HD
-https://stream.ads.ottera.tv/cl/240221cnakl5e3fi0h1nej4abg/1280x720_3071200_0_f.m3u8?
-#EXTINF:-1 group-title="15-24/7",C4 FHD
-https://stream.ads.ottera.tv/cl/240221cnakjjg3t0mmaduva570/1920x1080_4215200_4_f.m3u8?
 
 #EXTINF:-1 group-title="02-LOCALES" tvg-logo="",Foro
 https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
