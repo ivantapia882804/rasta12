@@ -2175,6 +2175,18 @@ http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/62891.m3u8|user-ag
 #EXTINF:-1 group-title="14-USA", SYFY | US p)
 http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/2552.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
+#EXTINF:-1 group-title="02-LOCALES",Canal 6 CDMX HD
+https://stream.ads.ottera.tv/cl/240221cnakjj6r8v2a9tieo6u0/1280x720_3071200_0_f.m3u8?
+#EXTINF:-1 group-title="02-LOCALES",Canal 6 CDMX FHD
+https://stream.ads.ottera.tv/cl/240221cnakjjg3t0mmaduva570/1920x1080_4215200_4_f.m3u8?
+#EXTINF:-1 group-title="03-INFORMACIÓN",Milenio Televisión HD
+https://stream.ads.ottera.tv/cl/240221cnakjj6r8v2a9tieo6u0/1280x720_3071200_0_f.m3u8?
+#EXTINF:-1 group-title="03-INFORMACIÓN",Milenio Televisión FHD
+https://stream.ads.ottera.tv/cl/240221cnaklqbie8fiimabtiag/1920x1080_4215200_4_f.m3u8?
+#EXTINF:-1 group-title="15-24/7",C4 HD
+https://stream.ads.ottera.tv/cl/240221cnakl5e3fi0h1nej4abg/1280x720_3071200_0_f.m3u8?
+#EXTINF:-1 group-title="15-24/7",C4 FHD
+https://stream.ads.ottera.tv/cl/240221cnakjjg3t0mmaduva570/1920x1080_4215200_4_f.m3u8?
 
 #EXTINF:-1 group-title="02-LOCALES" tvg-logo="",Foro
 https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
