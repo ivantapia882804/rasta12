@@ -77,8 +77,8 @@ https://vivo.lamtv.tv:8081/a/0279/playlist.m3u8
 https://vivo.lamtv.tv:8081/a/0163/playlist.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-name="ViX Deportes 34"  group-title="01-RECOMENDADOS", ViX Deportes 34
-https://linear-384.frequency.stream/dist/studio/384/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="ViX Deportes 35"  group-title="01-RECOMENDADOS", ViX Deportes 35
+https://linear-385.frequency.stream/dist/studio/385/hls/master/playlist.m3u8
 
 
 ##EXTVLCOPT:network-caching=1000
