@@ -72,9 +72,9 @@ http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
 https://vivo.lamtv.tv:8081/a/0279/playlist.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=CCCCC
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png"  group-title="01-RECOMENDADOS", ESPN Deportes
-https://vivo.lamtv.tv:8081/a/0163/playlist.m3u8
+http://45.90.105.74:25461/bud-378835/f362c6a219/37824
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-name="ViX Deportes"  group-title="01-RECOMENDADOS", ViX Deportes
