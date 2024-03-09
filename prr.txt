@@ -5755,11 +5755,6 @@ http://45.90.105.74:25461/bud-378835/f362c6a219/80646
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/NICK.png" group-title="KIDS",i |NICK
-http://45.90.105.74:25461/bud-378835/f362c6a219/80645
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",NOVA /ES
 http://45.90.105.74:25461/bud-378835/f362c6a219/80644
 ##EXTVLCOPT:network-caching=1000
