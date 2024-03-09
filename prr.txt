@@ -13,7 +13,7 @@ http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  group-title="01-RECOMENDADOS", Canal 5
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
-#EXTVLCOPT:network-caching=1000
+##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="01-RECOMENDADOS", Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
@@ -31,7 +31,7 @@ http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="01-RECOMENDADOS",FOX SPORTS 3 HD
 http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
-#EXTVLCOPT:network-caching=5000
+##EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="01-RECOMENDADOS", Fox Sports Premium MX op1
@@ -42,12 +42,12 @@ http://181.78.105.146:2000/play/a018/index.m3u8
 http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://olimpicos.clarosports.com/assets/themes/olimpicos/images/olimpicos-logo.png"  group-title="01-RECOMENDADOS", Claro Sports
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-#EXTVLCOPT:network-caching=5000
+##EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png"  group-title="01-RECOMENDADOS", Univision Miami
 http://45.90.105.74:25461/bud-378835/f362c6a219/12209
-#EXTVLCOPT:network-caching=5000
+##EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="Unimas Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/2669px-Logo_UniM%C3%A1s_2021.svg.png"  group-title="01-RECOMENDADOS", Unimas Miami
@@ -56,17 +56,17 @@ http://45.90.105.74:25461/bud-378835/f362c6a219/2101
 http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
 #EXTINF:-1  tvg-id="FoxDeportes(Spanish).us" tvg-name="FOX DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="01-RECOMENDADOS", FOX DEPORTES
 http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
-#EXTVLCOPT:network-caching=5000
+##EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="01-RECOMENDADOS", Telemundo Miami
 http://45.90.105.74:25461/bud-378835/f362c6a219/79635
-#EXTVLCOPT:network-caching=5000
+##EXTVLCOPT:network-caching=5000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png"  group-title="01-RECOMENDADOS", ESPN Deportes
 http://45.90.105.74:25461/bud-378835/f362c6a219/37824
-#EXTVLCOPT:network-caching=1000
+##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-name="ViX Deportes"  group-title="01-RECOMENDADOS", ViX Deportes
 https://linear-384.frequency.stream/dist/studio/384/hls/master/playlist.m3u8
