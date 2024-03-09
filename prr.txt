@@ -15,19 +15,16 @@ http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  group-title="01-RECOMENDADOS", Canal 5
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="01-RECOMENDADOS", Azteca 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="01-RECOMENDADOS", Azteca 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="01-RECOMENDADOS", TUDN MX
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/201.m3u8
+https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"  group-title="01-RECOMENDADOS", ESPN | HD
 http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png"  group-title="01-RECOMENDADOS", ESPN 2 | HD
 http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png"  group-title="01-RECOMENDADOS", ESPN 3
 http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX Sports (Cono Norte México)" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="01-RECOMENDADOS",FOX SPORTS HD
@@ -36,39 +33,40 @@ http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="01-RECOMENDADOS",FOX SPORTS 3 HD
 http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
-##EXTVLCOPT:network-caching=2000
+##EXTVLCOPT:network-caching=100
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="01-RECOMENDADOS", Fox Sports Premium MX op1
 https://pe.shortgod.com/aascawq/tv7.php?id=600
-##EXTVLCOPT:network-caching=1000
+##EXTVLCOPT:network-caching=100
 #EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="01-RECOMENDADOS", Fox Sports Premium MX op2
+https://nffthex0kzt.xyz/rk/UhfyjgdyedghbgfbcxvbnyffusavbbxnfdES/Mbvxxdrsgtbjgbtetytwscvsdxcbgfgrfhhvc/895.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"  group-title="01-RECOMENDADOS", TNT | HD
 http://181.78.105.146:2000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtg3i_eKDWjLGuBRXWdH2DfgB8jvWgUUHn67UncxnDIUi4Px4mpGVsC9rpsxfZaEA4X3XLu7U6zQXpwfn2T5RT7FVu9_dhkPOizFssOnLIASVXyCO-pv3oD1SzHVYcLH9RRqrpov79GM2QmO-ssVz35d9DLi96jGAl5bovMhQnc-RGQ4ZZKdjYvFn/s1200/afizzionados-logo.jpg"  group-title="01-RECOMENDADOS", Afizzionados
 http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://olimpicos.clarosports.com/assets/themes/olimpicos/images/olimpicos-logo.png"  group-title="01-RECOMENDADOS", Claro Sports
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-##EXTVLCOPT:network-caching=1000
+##EXTVLCOPT:network-caching=100
 #EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=CCCCC
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png"  group-title="01-RECOMENDADOS", Univision Miami
-https://vivo.lamtv.tv:8081/a/0295/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
+http://45.90.105.74:25461/bud-378835/f362c6a219/12209
+##EXTVLCOPT:network-caching=100
 #EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="Unimas Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/2669px-Logo_UniM%C3%A1s_2021.svg.png"  group-title="01-RECOMENDADOS", Unimas Miami
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/126.m3u8
+http://45.90.105.74:25461/bud-378835/f362c6a219/2101
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="01-RECOMENDADOS", TUDN USA
 http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  tvg-id="FoxDeportes(Spanish).us" tvg-name="FOX DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="01-RECOMENDADOS", FOX DEPORTES
 http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
+##EXTVLCOPT:network-caching=100
 #EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=CCCCC
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="01-RECOMENDADOS", Telemundo Miami
-https://vivo.lamtv.tv:8081/a/0279/playlist.m3u8
+http://45.90.105.74:25461/bud-378835/f362c6a219/79635
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -715,6 +713,8 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="02-LOCALES",Canal 6 CDMX FHD
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65b14f4752aa31b8f64da062.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UsBb-Hvsh7H-nyrW2iLX
 #EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="02-LOCALES",Canal 6 CDMX

@@ -15,6 +15,8 @@ http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  group-title="01-RECOMENDADOS", Canal 5
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="01-RECOMENDADOS", Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 ##EXTVLCOPT:network-caching=1000
@@ -342,6 +344,8 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="02-LOCALES",Canal 6 CDMX FHD
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65b14f4752aa31b8f64da062.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UsBb-Hvsh7H-nyrW2iLX
 #EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="02-LOCALES",Canal 6 CDMX
