@@ -31,8 +31,11 @@ http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="01-RECOMENDADOS",FOX SPORTS 3 HD
 http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="01-RECOMENDADOS", Fox Sports Premium MX op1
-https://pe.shortgod.com/aascawq/tv6.php?id=364
+http://45.90.105.74:25461/bud-378835/f362c6a219/53549
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"  group-title="01-RECOMENDADOS", TNT | HD
 http://181.78.105.146:2000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtg3i_eKDWjLGuBRXWdH2DfgB8jvWgUUHn67UncxnDIUi4Px4mpGVsC9rpsxfZaEA4X3XLu7U6zQXpwfn2T5RT7FVu9_dhkPOizFssOnLIASVXyCO-pv3oD1SzHVYcLH9RRqrpov79GM2QmO-ssVz35d9DLi96jGAl5bovMhQnc-RGQ4ZZKdjYvFn/s1200/afizzionados-logo.jpg"  group-title="01-RECOMENDADOS", Afizzionados
