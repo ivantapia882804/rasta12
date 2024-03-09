@@ -815,54 +815,42 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png" group-title="06-MUSICA", Rewind TV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="06-MUSICA", Retro Plus TV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="06-MUSICA", Retro Plus TV
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="06-MUSICA", Retro Plus TV Señal 2
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="06-MUSICA", Retro Plus TV Señal 2
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="04-ENTRETENIMIENTO", Retro Plus TV Señal 3
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="04-ENTRETENIMIENTO", Retro Plus TV Señal 3
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?caster
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png" group-title="04-ENTRETENIMIENTO", Ruidos TV
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/671e88dc2d4bc0b001691b0692016976cf4e9d6de3e9d9652edc131f4fcf14a4.png" group-title="04-ENTRETENIMIENTO", Ruidos TV
 https://panel.tvstream.cl:1936/8022/8022/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png" group-title="06-MUSICA", Portal FoxMix
+#EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/radioenvivo/images/recta-pfm-tv.png" group-title="06-MUSICA", Portal FoxMix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png" group-title="06-MUSICA", Retro Music Television
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png" group-title="06-MUSICA", Retro Music Television
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png" group-title="06-MUSICA", Conecta TV
-https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-7rDHdedeWvo/Xmr-CC8Pa2I/AAAAAAAAwyI/X8CvdyCJtdQZutdQi2clULPfWJH0c8S3QCK8BGAsYHg/s0/2020-03-12.png" group-title="06-MUSICA", Ibiza Global TV
-https://nodo04-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8k2_MMN4_Bc/X0Khp3P6tWI/AAAAAAAA46E/RE_IEG7uAo4WhxuJy71et8N5L1BRugBLgCK8BGAsYHg/s0/2020-08-23.png" group-title="06-MUSICA", m2o TV
-https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RF13xAQ97o0/XxzMzRqfnBI/AAAAAAAA3Zc/xet9CCbU7H8WEPRQGCXEPpiBxM5RUK6EwCK8BGAsYHg/s0/2020-07-25.png" group-title="06-MUSICA", Maxima FM
-https://server1.oklanet.cl:1936/maximafmchile/ngrp:maximafmchile_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png" group-title="06-MUSICA", Music Top
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f12080cb1fe8a90df78e425df3f7a6d3.webp" group-title="06-MUSICA", m2o TV
+https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://maximachile.cl/wp-content/uploads/2023/09/2021.gif" group-title="06-MUSICA", Maxima FM
+https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximafmchile_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" group-title="06-MUSICA", Music Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-#EXTINF:-1 tvg-logo="" group-title="06-MUSICA", Latina TV
+#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2023/06/latina-tv.jpg" group-title="06-MUSICA", Latina TV
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-k220wrO7Pks/X2tCElFr0xI/AAAAAAAA50E/JjO-VenWP_cETYy8Se1-2pxO3-vMYU5nACK8BGAsYHg/s0/2020-09-23.png" group-title="06-MUSICA", RCKTV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/92304f302ee6793a5539dd19d3261ed2.webp" group-title="06-MUSICA", RCKTV
 https://inliveserver.com:1936/11530/11530/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-t2WD0yOsfvg/XzxnxYhCPPI/AAAAAAAA4oY/qwvkZXM7rAUzOACe0-fSRAQ7_8n6xb5wgCK8BGAsYHg/s0/2020-08-18.png" group-title="06-MUSICA", The Retro Channel
+#EXTINF:-1 tvg-logo="https://theretrochannel.tv/img/retroplayer.jpg" group-title="06-MUSICA", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WD49JzHZ9cM/Xrsv-mIjUjI/AAAAAAAA0rs/g_Pgm6hQvNIbp8aHuvQ3H7kEkiu3-M4zQCK8BGAsYHg/s0/2020-05-12.png" group-title="06-MUSICA", TuTv Quillota
-https://vdochile.com:3300/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png" group-title="06-MUSICA", TV vconline.cl
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/82feb5_a2f12f6a37674d0992e2ee48d08b0fd4~mv2_d_1280_1235_s_2.jpg/v1/fill/w_1280,h_1235,al_c/82feb5_a2f12f6a37674d0992e2ee48d08b0fd4~mv2_d_1280_1235_s_2.jpg" group-title="06-MUSICA", TV vconline.cl
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-wwOQH4WvSZI/X5jEE-BBCmI/AAAAAAAA6y4/RgkfOZHscEIH9ceLQR6UPtuXQQUw0FXCACK8BGAsYHg/s0/2020-10-27.png" group-title="06-MUSICA", RadioTV.pro
+#EXTINF:-1 tvg-logo="https://radiotv.pro/templates/rt_antares/custom/images/radiotv-1000px.jpg" group-title="06-MUSICA", RadioTV.pro
 https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png" group-title="03-INFORMACIÓN", RDN
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/u2akc0XY5MU-1FJ5K0yGMOoGZiRGiYp8CQIrrc3B_HwMhHscM7lg6eF9ptlSXgJUhGP22TMR=s900-c-k-c0x00ffffff-no-rj" group-title="03-INFORMACIÓN", RDN
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png" group-title="06-MUSICA", Video Tour Channel
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6Oh8gjWt6z8/X3pWO0u5KcI/AAAAAAAAHy0/s9Kss3RRtnIylSWcoiC3UwuevHBModlogCK4BGAYYCw/s1600/video%2Btour%2Bchannel.jpg" group-title="06-MUSICA", Video Tour Channel
 https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png" group-title="06-MUSICA", Telemusica
-https://canal.mediaserver.com.co/live/telemusica.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png" group-title="06-MUSICA", TOP Latino TV
+#EXTINF:-1 tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="06-MUSICA", TOP Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png" group-title="06-MUSICA", Turbo Mix TV
+#EXTINF:-1 tvg-logo="" group-title="06-MUSICA", Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 group-title="06-MUSICA", Tarima
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TARIMAHD)/index.m3u8
 
 
 ##EXTVLCOPT:network-caching=1000
@@ -5039,6 +5027,1384 @@ http://45.90.105.74:25461/bud-378835/f362c6a219/62891
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="14-USA", SYFY | US p)
 http://45.90.105.74:25461/bud-378835/f362c6a219/2552
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CH | CNN CHILE
+http://45.90.105.74:25461/bud-378835/f362c6a219/18610
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CH | ETC TV
+http://45.90.105.74:25461/bud-378835/f362c6a219/18612
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CH | TVN HD
+http://45.90.105.74:25461/bud-378835/f362c6a219/18611
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CANAL 13 HD
+http://45.90.105.74:25461/bud-378835/f362c6a219/1573
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CL | Chilevision
+http://45.90.105.74:25461/bud-378835/f362c6a219/44541
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",Chilevision CHV HD
+http://45.90.105.74:25461/bud-378835/f362c6a219/83667
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-Chilevision HD Encoder (CL)
+http://45.90.105.74:25461/bud-378835/f362c6a219/38536
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",24 Horas HD Encoder (CL) (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/38537
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CNN Chile HD | (CL) (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/38542
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",TV+ | CL (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/38560
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",La Red HD Encoder | CL (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/38539
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CANAL 13 SD | CL (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/92866
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CANAL 13 C | CL (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/92867
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",TVN SD | CL (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/92868
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",COL | TELEANTIOQUIA
+http://45.90.105.74:25461/bud-378835/f362c6a219/18618
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",Caracol Internacional
+http://45.90.105.74:25461/bud-378835/f362c6a219/1778
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",RCN Internacional
+http://45.90.105.74:25461/bud-378835/f362c6a219/1766
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",Telecafe
+http://45.90.105.74:25461/bud-378835/f362c6a219/1772
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CARACOL
+http://45.90.105.74:25461/bud-378835/f362c6a219/15125
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",COL | Canal Uno
+http://45.90.105.74:25461/bud-378835/f362c6a219/18617
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="03-INFORMACIÓN",COL | NTN24
+http://45.90.105.74:25461/bud-378835/f362c6a219/18615
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",COL | City Tv
+http://45.90.105.74:25461/bud-378835/f362c6a219/18614
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="08-DEPORTES",COL | WIN SPORTS
+http://45.90.105.74:25461/bud-378835/f362c6a219/18613
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",i | City TV SD
+http://45.90.105.74:25461/bud-378835/f362c6a219/76743
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",RCN NOVELAS (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/18619
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-RCN 2 HD (CO) Encoder
+http://45.90.105.74:25461/bud-378835/f362c6a219/38553
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",RCN Nuestra Tele
+http://45.90.105.74:25461/bud-378835/f362c6a219/1769
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-RCN HD (CO) Encoder
+http://45.90.105.74:25461/bud-378835/f362c6a219/38554
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-RCN Nuestra Tele HD (CO) Encoder
+http://45.90.105.74:25461/bud-378835/f362c6a219/38555
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",Tele Medellin HD | CO (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/38548
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",Caracol SD | COL (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/38550
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",SeÃ±al Colombia HD (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/38558
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",Telepacifico (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/111080
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-HD (CO) (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/38562
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",FUTV (COSTA RICA) (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/39313
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",FUTV
+http://45.90.105.74:25461/bud-378835/f362c6a219/11943
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",TD+
+http://45.90.105.74:25461/bud-378835/f362c6a219/36787
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CR|ExtremaTv
+http://45.90.105.74:25461/bud-378835/f362c6a219/3106
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CR|Telesistema
+http://45.90.105.74:25461/bud-378835/f362c6a219/3135
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CR|Telered
+http://45.90.105.74:25461/bud-378835/f362c6a219/3136
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CR|Canal 14 Tv Sur
+http://45.90.105.74:25461/bud-378835/f362c6a219/3164
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CR | CANAL 2 REPRETEL
+http://45.90.105.74:25461/bud-378835/f362c6a219/37558
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",Teletica 7 HD (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/39357
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | Urbano TV
+http://45.90.105.74:25461/bud-378835/f362c6a219/39349
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | Telsur
+http://45.90.105.74:25461/bud-378835/f362c6a219/39348
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | TeleRed
+http://45.90.105.74:25461/bud-378835/f362c6a219/39347
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | Tele Uno
+http://45.90.105.74:25461/bud-378835/f362c6a219/39346
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | Cable Sur Canal 5
+http://45.90.105.74:25461/bud-378835/f362c6a219/39340
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | +television
+http://45.90.105.74:25461/bud-378835/f362c6a219/39339
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | Canal 8
+http://45.90.105.74:25461/bud-378835/f362c6a219/39337
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | TELESISTEMA
+http://45.90.105.74:25461/bud-378835/f362c6a219/39335
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | TELERED
+http://45.90.105.74:25461/bud-378835/f362c6a219/39334
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | SARAPIQUI
+http://45.90.105.74:25461/bud-378835/f362c6a219/39333
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | CANAL 14 TV SUR
+http://45.90.105.74:25461/bud-378835/f362c6a219/39331
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | TD + 2 HD
+http://45.90.105.74:25461/bud-378835/f362c6a219/39327
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | TD +
+http://45.90.105.74:25461/bud-378835/f362c6a219/39326
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | CANAL 11 REPRETEL
+http://45.90.105.74:25461/bud-378835/f362c6a219/39325
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | Teletica 7 Encoder
+http://45.90.105.74:25461/bud-378835/f362c6a219/39324
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | CANAL 6 REPRETEL
+http://45.90.105.74:25461/bud-378835/f362c6a219/39323
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | CANAL 4 REPRETEL
+http://45.90.105.74:25461/bud-378835/f362c6a219/39322
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CR | Canal 2 REPRETEL
+http://45.90.105.74:25461/bud-378835/f362c6a219/39321
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-Tigo Sports (CR)
+http://45.90.105.74:25461/bud-378835/f362c6a219/39320
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-Repretel 11 HD (CR)
+http://45.90.105.74:25461/bud-378835/f362c6a219/39319
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-CANAL 7 Teletica (CR)
+http://45.90.105.74:25461/bud-378835/f362c6a219/39318
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-Repretel 6 HD (CR)
+http://45.90.105.74:25461/bud-378835/f362c6a219/39317
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-FUTV HD (CR)
+http://45.90.105.74:25461/bud-378835/f362c6a219/39316
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",Teletica 7 HD (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/40830
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CR | TELETICA
+http://45.90.105.74:25461/bud-378835/f362c6a219/18621
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CANAL 11 REPRETEL (CR)(p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/87987
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",#0
+http://45.90.105.74:25461/bud-378835/f362c6a219/80617
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ESPA%C3%91A/FDF.png" group-title="16-CASTELLANO",FDF (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/14585
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",24 H
+http://45.90.105.74:25461/bud-378835/f362c6a219/80610
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",Antena 3 (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80686
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ESPA%C3%91A/ANTENA%203.png" group-title="16-CASTELLANO",ANTENA 3 | ES (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/2210
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",AXN
+http://45.90.105.74:25461/bud-378835/f362c6a219/80611
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",BE MAD
+http://45.90.105.74:25461/bud-378835/f362c6a219/80612
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/BEIN%20SPORTS.png" group-title="08-DEPORTES",BEIN SPORTS Ã‘ (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/11940
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",Blaze HD
+http://45.90.105.74:25461/bud-378835/f362c6a219/80841
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",CALLE 13
+http://45.90.105.74:25461/bud-378835/f362c6a219/80621
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1685408916129.png" group-title="16-CASTELLANO",Caza y Pesca (ES) (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80694
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",CMM
+http://45.90.105.74:25461/bud-378835/f362c6a219/80613
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",COSMO
+http://45.90.105.74:25461/bud-378835/f362c6a219/80614
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",CRIME & INVESTIGACION
+http://45.90.105.74:25461/bud-378835/f362c6a219/80618
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",CRIMEN E INVESTIGACION (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80678
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1662095112520.png" group-title="16-CASTELLANO",DAZN F1 LQ
+http://45.90.105.74:25461/bud-378835/f362c6a219/80619
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1660595756497.png" group-title="16-CASTELLANO",DAZN La Liga
+http://45.90.105.74:25461/bud-378835/f362c6a219/46970
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",DIVINITY
+http://45.90.105.74:25461/bud-378835/f362c6a219/80615
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",ENERGY
+http://45.90.105.74:25461/bud-378835/f362c6a219/80616
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gol-tv-logo-png-2.png" group-title="16-CASTELLANO",ES GOL T
+http://45.90.105.74:25461/bud-378835/f362c6a219/6596
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ESPA%C3%91A/A3%20SERIES.png" group-title="16-CASTELLANO",ES | A3 Series
+http://45.90.105.74:25461/bud-378835/f362c6a219/2218
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1616739957315.png" group-title="16-CASTELLANO",ES | AXN White
+http://45.90.105.74:25461/bud-378835/f362c6a219/2233
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ESPA%C3%91A/CALLE%2013.png" group-title="16-CASTELLANO",ES | Calle 13
+http://45.90.105.74:25461/bud-378835/f362c6a219/2231
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ESPA%C3%91A/CUATRO%20PNG.png" group-title="16-CASTELLANO",Cuatro | ES (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/2211
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ESPA%C3%91A/LA%202.png" group-title="16-CASTELLANO",ES | La 2 hd
+http://45.90.105.74:25461/bud-378835/f362c6a219/2209
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ESPA%C3%91A/LA%20SEXTA.png" group-title="16-CASTELLANO",ES | La Sexta
+http://45.90.105.74:25461/bud-378835/f362c6a219/2213
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1617802866403.png" group-title="16-CASTELLANO",ES | Mega
+http://45.90.105.74:25461/bud-378835/f362c6a219/2217
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ESPA%C3%91A/MOVISTAR%20DRAMA.png" group-title="16-CASTELLANO",Movistar Drama /ES/ (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/2224
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ESPA%C3%91A/NEOX.png" group-title="16-CASTELLANO",ES | Neox
+http://45.90.105.74:25461/bud-378835/f362c6a219/2216
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",FOX
+http://45.90.105.74:25461/bud-378835/f362c6a219/80622
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",HOLLYWOOD
+http://45.90.105.74:25461/bud-378835/f362c6a219/80623
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i | AragonTv
+http://45.90.105.74:25461/bud-378835/f362c6a219/84060
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1616739957315.png" group-title="16-CASTELLANO",i | AXN With FHD
+http://45.90.105.74:25461/bud-378835/f362c6a219/80634
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1661562463189.png" group-title="16-CASTELLANO",La 1 (ES)(i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/67623
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ESPA%C3%91A/REAL%20MADRID%20TV.png" group-title="16-CASTELLANO",i | Real Madrid Tv
+http://45.90.105.74:25461/bud-378835/f362c6a219/57946
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TOROS%20TV.png" group-title="08-DEPORTES",Toros TV (i) op2
+http://45.90.105.74:25461/bud-378835/f362c6a219/64523
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TOROS%20TV.png" group-title="08-DEPORTES",Toros TV (i) op3
+http://45.90.105.74:25461/bud-378835/f362c6a219/64525
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |#0 Vamos HD
+http://45.90.105.74:25461/bud-378835/f362c6a219/46969
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |A&E
+http://45.90.105.74:25461/bud-378835/f362c6a219/80689
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |AMC
+http://45.90.105.74:25461/bud-378835/f362c6a219/80688
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |ANDALUCIA TV
+http://45.90.105.74:25461/bud-378835/f362c6a219/80687
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |AXN
+http://45.90.105.74:25461/bud-378835/f362c6a219/80685
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_white_us.png" group-title="16-CASTELLANO",i |AXN WHITE
+http://45.90.105.74:25461/bud-378835/f362c6a219/80684
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |BARCA TV
+http://45.90.105.74:25461/bud-378835/f362c6a219/80683
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |CALLE 13
+http://45.90.105.74:25461/bud-378835/f362c6a219/80682
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |CLAN HD
+http://45.90.105.74:25461/bud-378835/f362c6a219/80696
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |COMEDY CENTRAL
+http://45.90.105.74:25461/bud-378835/f362c6a219/80680
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |COSMO
+http://45.90.105.74:25461/bud-378835/f362c6a219/80679
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |CUATRO
+http://45.90.105.74:25461/bud-378835/f362c6a219/80677
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |DISCOVERY CHANNEL
+http://45.90.105.74:25461/bud-378835/f362c6a219/80676
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |DISNEY CHANNEL
+http://45.90.105.74:25461/bud-378835/f362c6a219/80675
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |DISNEY JUNIOR
+http://45.90.105.74:25461/bud-378835/f362c6a219/80674
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |DISNEY XD
+http://45.90.105.74:25461/bud-378835/f362c6a219/80673
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |DIVINITY
+http://45.90.105.74:25461/bud-378835/f362c6a219/80672
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |ENERGY
+http://45.90.105.74:25461/bud-378835/f362c6a219/80671
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |FDF
+http://45.90.105.74:25461/bud-378835/f362c6a219/80670
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",/ OFFLINE / FOX (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80669
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |FOX LIFE
+http://45.90.105.74:25461/bud-378835/f362c6a219/80668
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |GOL
+http://45.90.105.74:25461/bud-378835/f362c6a219/80667
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |HOLLYWOOD
+http://45.90.105.74:25461/bud-378835/f362c6a219/80665
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |LA 2
+http://45.90.105.74:25461/bud-378835/f362c6a219/80663
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |La Sexta
+http://45.90.105.74:25461/bud-378835/f362c6a219/80662
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |LaLigaTV BAR
+http://45.90.105.74:25461/bud-378835/f362c6a219/80661
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",/ OFFLINE / M+ Clasicos HD (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80709
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |Mega
+http://45.90.105.74:25461/bud-378835/f362c6a219/80660
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |MOVISTAR ACCION
+http://45.90.105.74:25461/bud-378835/f362c6a219/80658
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",/ OFFLINE / MOVISTAR COMEDIA (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80657
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",/ OFFLINE / MOVISTAR DCINE (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80656
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",/ OFFLINE / MOVISTAR DEPORTES (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80659
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |MOVISTAR DEPORTES +
+http://45.90.105.74:25461/bud-378835/f362c6a219/80695
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",/ OFFLINE / MOVISTAR ESTRENOS (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80655
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |MOVISTAR MOTO GP
+http://45.90.105.74:25461/bud-378835/f362c6a219/80653
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",/ OFFLINE / MOVISTAR SERIES (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80651
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",/ OFFLINE / MOVISTAR SERIES XTRA (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80650
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |NATIONAL GEOGRAPHIC WILD
+http://45.90.105.74:25461/bud-378835/f362c6a219/80648
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |NEOX
+http://45.90.105.74:25461/bud-378835/f362c6a219/80646
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/NICK.png" group-title="KIDS",i |NICK
+http://45.90.105.74:25461/bud-378835/f362c6a219/80645
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",NOVA /ES
+http://45.90.105.74:25461/bud-378835/f362c6a219/80644
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1616023151423.png" group-title="16-CASTELLANO",i |ODISEA HD
+http://45.90.105.74:25461/bud-378835/f362c6a219/80643
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1631898918369.png" group-title="16-CASTELLANO",i |PANDA
+http://45.90.105.74:25461/bud-378835/f362c6a219/80642
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1635227873227.png" group-title="16-CASTELLANO",PARAMOUNT /ES (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80641
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1606274109470.png" group-title="16-CASTELLANO",i |SYFY
+http://45.90.105.74:25461/bud-378835/f362c6a219/80640
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1614070168517.png" group-title="16-CASTELLANO",i |TCM
+http://45.90.105.74:25461/bud-378835/f362c6a219/80639
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1647533159513.png" group-title="16-CASTELLANO",i |TELEDEPORTE
+http://45.90.105.74:25461/bud-378835/f362c6a219/80637
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1616527940195.png" group-title="16-CASTELLANO",i |TeNeTe
+http://45.90.105.74:25461/bud-378835/f362c6a219/80636
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TOROS%20TV.png" group-title="16-CASTELLANO",Toros TV (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/41309
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",i |VIAJAR
+http://45.90.105.74:25461/bud-378835/f362c6a219/80692
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MOVISTAR%20%20LA%20LIGA%20DE%20CAMPEONES.png" group-title="08-DEPORTES",M. Liga de Campeones (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/79634
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MOVISTAR%20%20LA%20LIGA%20DE%20CAMPEONES.png" group-title="08-DEPORTES",M. Liga de Campeones FHD (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/38569
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ESPA%C3%91A/LA%201.png" group-title="16-CASTELLANO",LA 1
+http://45.90.105.74:25461/bud-378835/f362c6a219/12249
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1661562463189.png" group-title="16-CASTELLANO",LA1 (ES)(p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80625
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",LA2
+http://45.90.105.74:25461/bud-378835/f362c6a219/80626
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MOVISTAR%20%20LA%20LIGA%20DE%20CAMPEONES.png" group-title="08-DEPORTES",Liga De Campeones (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/1615
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",Logos TV
+http://45.90.105.74:25461/bud-378835/f362c6a219/80627
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MOVISTAR%20DEPORTES.png" group-title="08-DEPORTES",M+ Deportes
+http://45.90.105.74:25461/bud-378835/f362c6a219/11915
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="08-DEPORTES",M+ Deportes 2
+http://45.90.105.74:25461/bud-378835/f362c6a219/69956
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="08-DEPORTES",M+ Deportes 3
+http://45.90.105.74:25461/bud-378835/f362c6a219/69957
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="08-DEPORTES",M+ Deportes 4
+http://45.90.105.74:25461/bud-378835/f362c6a219/69958
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="08-DEPORTES",M+ Deportes 5
+http://45.90.105.74:25461/bud-378835/f362c6a219/69959
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="08-DEPORTES",M+ LaLiga 2
+http://45.90.105.74:25461/bud-378835/f362c6a219/69962
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="08-DEPORTES",M+ LaLiga 3
+http://45.90.105.74:25461/bud-378835/f362c6a219/69963
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MOVISTAR%20%20LA%20LIGA%20DE%20CAMPEONES.png" group-title="08-DEPORTES",M+ Liga de Campeones 4
+http://45.90.105.74:25461/bud-378835/f362c6a219/69972
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="08-DEPORTES",M+ Liga de Campeones 6
+http://45.90.105.74:25461/bud-378835/f362c6a219/69974
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1655178023359.png" group-title="16-CASTELLANO",M+ SERIES
+http://45.90.105.74:25461/bud-378835/f362c6a219/69966
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1655178023359.png" group-title="16-CASTELLANO",M+ Series 2
+http://45.90.105.74:25461/bud-378835/f362c6a219/69967
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",M+ Series 2 HD
+http://45.90.105.74:25461/bud-378835/f362c6a219/80693
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",MOVISTAR ACCION
+http://45.90.105.74:25461/bud-378835/f362c6a219/80628
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",MOVISTAR COMEDIA
+http://45.90.105.74:25461/bud-378835/f362c6a219/80629
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MOVISTAR%20DEPORTES.png" group-title="16-CASTELLANO",MOVISTAR DEPORTES HD
+http://45.90.105.74:25461/bud-378835/f362c6a219/1616
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",MOVISTAR ESTRENOS
+http://45.90.105.74:25461/bud-378835/f362c6a219/80630
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ESPA%C3%91A/MOVISTAR%20GOLF.png" group-title="16-CASTELLANO",Movistar Golf (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/15143
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://logos.xbots.com.mx/laliga.png" group-title="16-CASTELLANO",Movistar La Liga 1 (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/1618
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="16-CASTELLANO",Movistar LaLiga (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80697
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1616023299276.png" group-title="08-DEPORTES",Movistar Vamos (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/11885
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",Nat geo Wild ESPAÃ‘A HD (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/91982
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",NATIONAL GEOGRAPHIC | ES (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80647
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",NOVA
+http://45.90.105.74:25461/bud-378835/f362c6a219/80631
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ESPA%C3%91A/ODISEA.png" group-title="16-CASTELLANO",Odisea
+http://45.90.105.74:25461/bud-378835/f362c6a219/15142
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/PARAMOUNT.png" group-title="16-CASTELLANO",PARAMOUNT
+http://45.90.105.74:25461/bud-378835/f362c6a219/80624
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ESPA%C3%91A/REAL%20MADRID%20TV.png" group-title="16-CASTELLANO",REAL MADRID TV
+http://45.90.105.74:25461/bud-378835/f362c6a219/1873
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ESPA%C3%91A/TELECINCO.png" group-title="16-CASTELLANO",Telecinco /ES (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/14911
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ESPA%C3%91A/TELECINCO.png" group-title="16-CASTELLANO",Telecinco (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/53126
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1648604142506.png" group-title="16-CASTELLANO",TELECINCO (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80638
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1647533159513.png" group-title="16-CASTELLANO",TELEDEPORTE
+http://45.90.105.74:25461/bud-378835/f362c6a219/53949
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",TELEMADRID
+http://45.90.105.74:25461/bud-378835/f362c6a219/80632
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1615091714490.png" group-title="16-CASTELLANO",Teve
+http://45.90.105.74:25461/bud-378835/f362c6a219/11381
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",NatGeo Wild ES (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/92940
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1680567230473.png" group-title="16-CASTELLANO",MundoToroTv (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/111131
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",TorolÃ© (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/111175
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1673210280284.png" group-title="08-DEPORTES",Movistar La Liga 1 p
+http://45.90.105.74:25461/bud-378835/f362c6a219/88737
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="16-CASTELLANO",Mundotoro (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/113951
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1628281622342.png" group-title="08-DEPORTES",DAZN 4 SD (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/114359
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1628281622342.png" group-title="08-DEPORTES",DAZN 3 SD (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/114361
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1635229959466.png" group-title="16-CASTELLANO",NatGeo (ES)(p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/115248
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",America TeVe
+http://45.90.105.74:25461/bud-378835/f362c6a219/9805
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",Mega TV
+http://45.90.105.74:25461/bud-378835/f362c6a219/2163
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",Punto 2
+http://45.90.105.74:25461/bud-378835/f362c6a219/2164
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",Punto 2 TV FHD Op#2 (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/38865
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",Punto 2 PR (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/80458
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",Teleislas Puerto Rico
+http://45.90.105.74:25461/bud-378835/f362c6a219/44208
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",Tele11
+http://45.90.105.74:25461/bud-378835/f362c6a219/2168
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",Tele11 FHD Kiwisat
+http://45.90.105.74:25461/bud-378835/f362c6a219/38868
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",Tele11 HD (C) Op#3
+http://45.90.105.74:25461/bud-378835/f362c6a219/38850
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",Wapa PR (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/2169
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",Wapa PR (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/38851
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",WAPA 2 (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/2166
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",Wapa America (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/89639
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",Wapa Deportes (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/38852
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",WKAQ PR FHD (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/38859
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",WIPR
+http://45.90.105.74:25461/bud-378835/f362c6a219/2165
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",WIPR (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/88447
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",Tiva TV (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/91112
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="04-ENTRETENIMIENTO",CDM TV | PR (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/91113
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CUBAMAX
+http://45.90.105.74:25461/bud-378835/f362c6a219/50232
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",Cubavision
+http://45.90.105.74:25461/bud-378835/f362c6a219/50235
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CUBAVISION INTERNATIONAL
+http://45.90.105.74:25461/bud-378835/f362c6a219/50228
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CVI
+http://45.90.105.74:25461/bud-378835/f362c6a219/50234
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",MULTIVISION
+http://45.90.105.74:25461/bud-378835/f362c6a219/50233
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",Tele Rebelde
+http://45.90.105.74:25461/bud-378835/f362c6a219/50227
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",TELEMARTI
+http://45.90.105.74:25461/bud-378835/f362c6a219/50231
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1616616556309.png" group-title="13-INTERNACIONAL",Cubavision Internacional
+http://45.90.105.74:25461/bud-378835/f362c6a219/15144
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/A24.png" group-title="13-INTERNACIONAL",A24
+http://45.90.105.74:25461/bud-378835/f362c6a219/1799
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/AMERICATV.png" group-title="13-INTERNACIONAL",AMERICA TV
+http://45.90.105.74:25461/bud-378835/f362c6a219/1794
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/C5N.png" group-title="13-INTERNACIONAL",C5N
+http://45.90.105.74:25461/bud-378835/f362c6a219/1800
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/CANAL%2026.png" group-title="13-INTERNACIONAL",Canal-26-HD
+http://45.90.105.74:25461/bud-378835/f362c6a219/1801
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/CINE%20AR.png" group-title="13-INTERNACIONAL",Cine AR
+http://45.90.105.74:25461/bud-378835/f362c6a219/1804
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/CRONCIA.png" group-title="13-INTERNACIONAL",Cronica-HD
+http://45.90.105.74:25461/bud-378835/f362c6a219/1805
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/EL%20TRECE.png" group-title="13-INTERNACIONAL",El Trece Internacional
+http://45.90.105.74:25461/bud-378835/f362c6a219/1815
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/ESPN.png" group-title="08-DEPORTES",ESPN  1 SUR SD
+http://45.90.105.74:25461/bud-378835/f362c6a219/1661
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/FOX%20SPORTS%202%20SUR.png" group-title="08-DEPORTES",FOX SPORTS 2 (AR)
+http://45.90.105.74:25461/bud-378835/f362c6a219/1639
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/FOX%20SPORTS%203%20SUR.png" group-title="08-DEPORTES",FOX SPORTS 3 (AR)
+http://45.90.105.74:25461/bud-378835/f362c6a219/1642
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/TELEFE.png" group-title="13-INTERNACIONAL",Telefe (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/1793
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/TELEFE.png" group-title="13-INTERNACIONAL",Telefe (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/81230
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/TELEFE.png" group-title="13-INTERNACIONAL",Telefe Internacional (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/81231
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/TN%20.png" group-title="13-INTERNACIONAL",TN
+http://45.90.105.74:25461/bud-378835/f362c6a219/1811
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1617801726478.png" group-title="08-DEPORTES",AR | TNT Sports SD
+http://45.90.105.74:25461/bud-378835/f362c6a219/1653
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS.png" group-title="08-DEPORTES",DTV Sports Argentina (SD)
+http://45.90.105.74:25461/bud-378835/f362c6a219/14861
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-HD (AR)
+http://45.90.105.74:25461/bud-378835/f362c6a219/37828
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="08-DEPORTES",I-FOX Sports 2 SD (AR)
+http://45.90.105.74:25461/bud-378835/f362c6a219/37829
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",I-HD (AR).
+http://45.90.105.74:25461/bud-378835/f362c6a219/37830
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="08-DEPORTES",FOX Sports 3 HD(AR) (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/37831
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="08-DEPORTES",I-FOX Sports Premiun HD
+http://45.90.105.74:25461/bud-378835/f362c6a219/37832
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS%20%2B.png" group-title="08-DEPORTES",AR | DTV Sports Plus
+http://45.90.105.74:25461/bud-378835/f362c6a219/50275
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS%20%2B.png" group-title="08-DEPORTES",AR | DTV Sports 2
+http://45.90.105.74:25461/bud-378835/f362c6a219/50276
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="08-DEPORTES",i | FOX Sports 1  HD (AR)
+http://45.90.105.74:25461/bud-378835/f362c6a219/82423
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/TV%20PUBLICA.png" group-title="13-INTERNACIONAL",TV PUBLICA (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/1878
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",TV Publica HD (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/38573
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/PARAGUAY/RPC.png" group-title="13-INTERNACIONAL",RPC
+http://45.90.105.74:25461/bud-378835/f362c6a219/11315
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1640316021535.png" group-title="13-INTERNACIONAL",NEX TV
+http://45.90.105.74:25461/bud-378835/f362c6a219/34917
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1640318498534.png" group-title="13-INTERNACIONAL",OYE TV
+http://45.90.105.74:25461/bud-378835/f362c6a219/34918
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1640316047357.png" group-title="13-INTERNACIONAL",TV Max 9
+http://45.90.105.74:25461/bud-378835/f362c6a219/34919
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1651257669174.png" group-title="13-INTERNACIONAL",TVN
+http://45.90.105.74:25461/bud-378835/f362c6a219/34920
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1640315976175.png" group-title="13-INTERNACIONAL",+23 | Panama (p)
+http://45.90.105.74:25461/bud-378835/f362c6a219/34921
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1618282140378.png" group-title="13-INTERNACIONAL",CABLE ONDA SPORTS
+http://45.90.105.74:25461/bud-378835/f362c6a219/34922
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1618282242432.png" group-title="13-INTERNACIONAL",SER TV
+http://45.90.105.74:25461/bud-378835/f362c6a219/34923
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1618282155401.png" group-title="13-INTERNACIONAL",TELEMETRO
+http://45.90.105.74:25461/bud-378835/f362c6a219/34924
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1640316009247.png" group-title="13-INTERNACIONAL",Hossanan vision
+http://45.90.105.74:25461/bud-378835/f362c6a219/34925
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1618282140378.png" group-title="13-INTERNACIONAL",COS FC
+http://45.90.105.74:25461/bud-378835/f362c6a219/34926
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1651257669174.png" group-title="13-INTERNACIONAL",i |TVN
+http://45.90.105.74:25461/bud-378835/f362c6a219/59605
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/EL%20SALVADOR/Canal%2021.png" group-title="13-INTERNACIONAL",EL SALVADOR | Canal 21
+http://45.90.105.74:25461/bud-378835/f362c6a219/2174
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1615407122195.png" group-title="13-INTERNACIONAL",Canal 4
+http://45.90.105.74:25461/bud-378835/f362c6a219/12206
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CANAL 12
+http://45.90.105.74:25461/bud-378835/f362c6a219/34930
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",CANAL 2
+http://45.90.105.74:25461/bud-378835/f362c6a219/34931
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1615407122195.png" group-title="13-INTERNACIONAL",i |Canal 4 (SV)
+http://45.90.105.74:25461/bud-378835/f362c6a219/52859
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1615407122195.png" group-title="13-INTERNACIONAL",i |Canal 4 HD TCS (SV)
+http://45.90.105.74:25461/bud-378835/f362c6a219/52860
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="" group-title="13-INTERNACIONAL",Tigo Sports HD + (Salvador) (i)
+http://45.90.105.74:25461/bud-378835/f362c6a219/37850
 
 
 #EXTINF:-1 group-title="02-LOCALES" tvg-logo="",Foro
