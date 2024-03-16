@@ -19,26 +19,20 @@ https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="RECOMENDADOS", Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="RECOMENDADOS", TUDN MX
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/201.m3u8
+https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"  group-title="RECOMENDADOS", ESPN | HD
 http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png"  group-title="RECOMENDADOS", ESPN 2 | HD
-http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://pe.shortgod.com/aascawq/tv11.php?id=40
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png"  group-title="RECOMENDADOS", ESPN 3
-http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
+http://pe.shortgod.com/aascawq/tv11.php?id=39
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX Sports (Cono Norte México)" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="RECOMENDADOS",FOX SPORTS HD
-http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
+http://pe.shortgod.com/aascawq/tv11.php?id=30
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsport2.png" group-title="RECOMENDADOS",FOX SPORTS 2 HD
-http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
+http://pe.shortgod.com/aascawq/tv11.php?id=29
 #EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="RECOMENDADOS",FOX SPORTS 3 HD
-http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
+http://pe.shortgod.com/aascawq/tv11.php?id=28
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -49,7 +43,7 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/197.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"  group-title="RECOMENDADOS", TNT | HD
 http://181.78.105.146:2000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtg3i_eKDWjLGuBRXWdH2DfgB8jvWgUUHn67UncxnDIUi4Px4mpGVsC9rpsxfZaEA4X3XLu7U6zQXpwfn2T5RT7FVu9_dhkPOizFssOnLIASVXyCO-pv3oD1SzHVYcLH9RRqrpov79GM2QmO-ssVz35d9DLi96jGAl5bovMhQnc-RGQ4ZZKdjYvFn/s1200/afizzionados-logo.jpg"  group-title="RECOMENDADOS", Afizzionados
-http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://olimpicos.clarosports.com/assets/themes/olimpicos/images/olimpicos-logo.png"  group-title="RECOMENDADOS", Claro Sports
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 ##EXTVLCOPT:network-caching=1000
@@ -63,11 +57,12 @@ https://vivo.lamtv.tv:8081/a/0295/playlist.m3u8
 #EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="Unimas Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/2669px-Logo_UniM%C3%A1s_2021.svg.png"  group-title="RECOMENDADOS", Unimas Miami
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/126.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="RECOMENDADOS", TUDN USA
-http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
+http://pe.shortgod.com/aascawq/tv11.php?id=4
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=CCCCC
 #EXTINF:-1  tvg-id="FoxDeportes(Spanish).us" tvg-name="FOX DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="RECOMENDADOS", FOX DEPORTES
-http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
+https://vivo.lamtv.tv:8081/a/0138/playlist.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=CCCCC
@@ -1075,6 +1070,161 @@ http://138.59.177.34:8000/play/a05d/index.m3u8
 http://138.59.177.34:8000/play/a050/index.m3u8
 #EXTINF:-1 group-title="KIDS", ZooMoo
 http://138.59.177.34:8000/play/a00q/index.m3u8
+
+#EXTINF:-1  group-title="PREMIUM", UNIVERSAL CRIME
+http://pe.shortgod.com/aascawq/tv11.php?id=32
+#EXTINF:-1  group-title="PREMIUM", UNIVERSAL CINEMA
+http://pe.shortgod.com/aascawq/tv11.php?id=36
+#EXTINF:-1  group-title="PREMIUM", UNIVERSAL PREMIER
+http://pe.shortgod.com/aascawq/tv11.php?id=31
+#EXTINF:-1  group-title="PREMIUM", UNIVERSAL REALITY
+http://pe.shortgod.com/aascawq/tv11.php?id=35
+#EXTINF:-1  group-title="PREMIUM", UNIVERSAL CHANNEL
+http://pe.shortgod.com/aascawq/tv11.php?id=38
+#EXTINF:-1  group-title="PREMIUM", HBO PLUS
+http://pe.shortgod.com/aascawq/tv11.php?id=21
+#EXTINF:-1  group-title="PREMIUM", HBO
+http://pe.shortgod.com/aascawq/tv11.php?id=24
+#EXTINF:-1  group-title="PREMIUM", HBO FAMILY
+http://pe.shortgod.com/aascawq/tv11.php?id=22
+#EXTINF:-1  group-title="PREMIUM", HBO SIGNATURE
+http://pe.shortgod.com/aascawq/tv11.php?id=20
+#EXTINF:-1  group-title="PREMIUM", HBO XTREME
+http://pe.shortgod.com/aascawq/tv11.php?id=16
+#EXTINF:-1  group-title="ENTRETENIMIENTO", AXN
+http://pe.shortgod.com/aascawq/tv11.php?id=55
+#EXTINF:-1  group-title="ENTRETENIMIENTO", SPACE
+http://pe.shortgod.com/aascawq/tv11.php?id=10
+#EXTINF:-1  group-title="CINE", TNT
+http://pe.shortgod.com/aascawq/tv11.php?id=6
+#EXTINF:-1  group-title="ENTRETENIMIENTO", TNT SERIES
+http://pe.shortgod.com/aascawq/tv11.php?id=5
+#EXTINF:-1  group-title="CINE", AMC
+http://pe.shortgod.com/aascawq/tv11.php?id=57
+#EXTINF:-1  group-title="CINE", CINECANAL
+http://pe.shortgod.com/aascawq/tv11.php?id=50
+#EXTINF:-1  group-title="CINE", CINEMAX
+http://pe.shortgod.com/aascawq/tv11.php?id=49
+#EXTINF:-1  group-title="CONOCIMIENTO", DISCOVERY CHANNEL
+http://pe.shortgod.com/aascawq/tv11.php?id=47
+#EXTINF:-1  group-title="CONOCIMIENTO", DISCOVERY TURBO
+http://pe.shortgod.com/aascawq/tv11.php?id=80
+#EXTINF:-1  group-title="CONOCIMIENTO", HISTORY CHANNEL
+http://pe.shortgod.com/aascawq/tv11.php?id=19
+#EXTINF:-1  group-title="CONOCIMIENTO", NATGEO
+http://pe.shortgod.com/aascawq/tv11.php?id=15
+#EXTINF:-1  group-title="ENTRETENIMIENTO", DISCOVERY ID
+http://pe.shortgod.com/aascawq/tv11.php?id=18
+#EXTINF:-1  group-title="ENTRETENIMIENTO", DISCOVERY H&H
+http://pe.shortgod.com/aascawq/tv11.php?id=46
+#EXTINF:-1  group-title="CINE", GOLDEN PLUS
+http://pe.shortgod.com/aascawq/tv11.php?id=26
+#EXTINF:-1  group-title="PREMIUM", GOLDEN PREMIER
+http://pe.shortgod.com/aascawq/tv11.php?id=25
+#EXTINF:-1  group-title="CINE", PARAMOUNT CHANNEL
+http://pe.shortgod.com/aascawq/tv11.php?id=12
+#EXTINF:-1  group-title="ENTRETENIMIENTO", USA
+http://pe.shortgod.com/aascawq/tv11.php?id=9
+#EXTINF:-1  group-title="ENTRETENIMIENTO", FX
+http://pe.shortgod.com/aascawq/tv11.php?id=27
+#EXTINF:-1  group-title="ENTRETENIMIENTO", UNIVISION USA
+http://pe.shortgod.com/aascawq/tv11.php?id=3
+#EXTINF:-1  group-title="ENTRETENIMIENTO", SONY
+http://pe.shortgod.com/aascawq/tv11.php?id=11
+#EXTINF:-1  group-title="CONOCIMIENTO", ANIMAL PLANET
+http://pe.shortgod.com/aascawq/tv11.php?id=56
+#EXTINF:-1  group-title="ENTRETENIMIENTO", A&E
+http://pe.shortgod.com/aascawq/tv11.php?id=58
+#EXTINF:-1  group-title="ENTRETENIMIENTO", WARNER
+http://pe.shortgod.com/aascawq/tv11.php?id=2
+#EXTINF:-1  group-title="ENTRETENIMIENTO", TELEMUNDO 20 TJ/SD
+http://pe.shortgod.com/aascawq/tv11.php?id=7
+#EXTINF:-1  group-title="ENTRETENIMIENTO", LIFE TIME
+http://pe.shortgod.com/aascawq/tv11.php?id=33
+#EXTINF:-1  group-title="ENTRETENIMIENTO", STAR CHANNEL
+http://pe.shortgod.com/aascawq/tv11.php?id=37
+#EXTINF:-1  group-title="ENTRETENIMIENTO", UNIVERSO
+http://pe.shortgod.com/aascawq/tv11.php?id=68
+#EXTINF:-1  group-title="ENTRETENIMIENTO", TLNOVELAS
+http://pe.shortgod.com/aascawq/tv11.php?id=69
+#EXTINF:-1  group-title="CINE", STUDIO UNIVERSAL
+http://pe.shortgod.com/aascawq/tv11.php?id=70
+#EXTINF:-1  group-title="INTERNACIONAL", RCN
+http://pe.shortgod.com/aascawq/tv11.php?id=71
+#EXTINF:-1  group-title="CINE", TCM
+http://pe.shortgod.com/aascawq/tv11.php?id=73
+#EXTINF:-1  group-title="CINE", CLARO CINEMA
+http://pe.shortgod.com/aascawq/tv11.php?id=83
+#EXTINF:-1  group-title="CINE", CINE LATINO
+http://pe.shortgod.com/aascawq/tv11.php?id=84
+#EXTINF:-1  group-title="CINE", CINEMA DINAMITA MX
+http://pe.shortgod.com/aascawq/tv11.php?id=85
+#EXTINF:-1  group-title="INTERNACIONAL", CARACOL
+http://pe.shortgod.com/aascawq/tv11.php?id=86
+#EXTINF:-1  group-title="ENTRETENIMIENTO", AZTECA INTERNACIONAL
+http://pe.shortgod.com/aascawq/tv11.php?id=87
+#EXTINF:-1  group-title="KIDS", DISNEY CHANNEL
+http://pe.shortgod.com/aascawq/tv11.php?id=44
+#EXTINF:-1  group-title="KIDS", DISCOVERY KIDS
+http://pe.shortgod.com/aascawq/tv11.php?id=45
+#EXTINF:-1  group-title="KIDS", CARTOON NETWORK
+http://pe.shortgod.com/aascawq/tv11.php?id=51
+#EXTINF:-1  group-title="KIDS", TOONCAST
+http://pe.shortgod.com/aascawq/tv11.php?id=14
+#EXTINF:-1  group-title="KIDS", NICK  JR
+http://pe.shortgod.com/aascawq/tv11.php?id=13
+#EXTINF:-1  group-title="KIDS", DISNEY JR
+http://pe.shortgod.com/aascawq/tv11.php?id=43
+#EXTINF:-1  group-title="LOCALES", AZTECA UNO
+http://pe.shortgod.com/aascawq/tv11.php?id=1
+#EXTINF:-1  group-title="LOCALES", AZTECA 7
+http://pe.shortgod.com/aascawq/tv11.php?id=54
+#EXTINF:-1  group-title="LOCALES", CANAL 5
+http://pe.shortgod.com/aascawq/tv11.php?id=52
+#EXTINF:-1  group-title="CINE", DE PELICULA
+http://pe.shortgod.com/aascawq/tv11.php?id=48
+#EXTINF:-1  group-title="LOCALES", LAS ESTRELLAS
+http://pe.shortgod.com/aascawq/tv11.php?id=17
+#EXTINF:-1  group-title="DEPORTES", ESPN 1 MX
+http://pe.shortgod.com/aascawq/tv11.php?id=41
+#EXTINF:-1  group-title="DEPORTES", ESPN 2 MX
+http://pe.shortgod.com/aascawq/tv11.php?id=40
+#EXTINF:-1  group-title="DEPORTES", ESPN 3 MX
+http://pe.shortgod.com/aascawq/tv11.php?id=39
+#EXTINF:-1  group-title="DEPORTES", FOX SPORTS 1 MX
+http://pe.shortgod.com/aascawq/tv11.php?id=30
+#EXTINF:-1  group-title="DEPORTES", FOX SPORTS 2 MX
+http://pe.shortgod.com/aascawq/tv11.php?id=29
+#EXTINF:-1  group-title="DEPORTES", FOX SPORTS 3 MX
+http://pe.shortgod.com/aascawq/tv11.php?id=28
+#EXTINF:-1  group-title="DEPORTES", TUDN USA
+http://pe.shortgod.com/aascawq/tv11.php?id=8
+#EXTINF:-1  group-title="DEPORTES", TUDN US
+http://pe.shortgod.com/aascawq/tv11.php?id=4
+#EXTINF:-1  group-title="DEPORTES", AFIZZIONADOS
+http://pe.shortgod.com/aascawq/tv11.php?id=72
+#EXTINF:-1  group-title="DEPORTES", WWE NETWORK
+http://pe.shortgod.com/aascawq/tv11.php?id=65
+#EXTINF:-1  group-title="DEPORTES", WIN SPORTS +
+http://pe.shortgod.com/aascawq/tv11.php?id=66
+#EXTINF:-1  group-title="DEPORTES", WIN SPORTS
+http://pe.shortgod.com/aascawq/tv11.php?id=67
+#EXTINF:-1  group-title="DEPORTES", NBA TV
+http://pe.shortgod.com/aascawq/tv11.php?id=74
+#EXTINF:-1  group-title="DEPORTES", GOLTV
+http://pe.shortgod.com/aascawq/tv11.php?id=76
+#EXTINF:-1  group-title="DEPORTES", LA LIGA
+http://pe.shortgod.com/aascawq/tv11.php?id=75
+#EXTINF:-1  group-title="DEPORTES", FORMULA 1
+http://pe.shortgod.com/aascawq/tv11.php?id=81
+#EXTINF:-1  group-title="DEPORTES", ESPN SUR
+http://pe.shortgod.com/aascawq/tv11.php?id=77
+#EXTINF:-1  group-title="DEPORTES", ESPN 2 SUR
+http://pe.shortgod.com/aascawq/tv11.php?id=79
+#EXTINF:-1  group-title="DEPORTES", ESPN 3 SUR
+http://pe.shortgod.com/aascawq/tv11.php?id=78
+#EXTINF:-1  group-title="DEPORTES", CLARO SPORTS
+http://pe.shortgod.com/aascawq/tv11.php?id=82
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="LOCALES", Azteca Uno
 http://208.88.246.11:5473/113azteca13/transco1/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -3706,159 +3856,6 @@ http://45.90.105.74:25461/bud-378835/f362c6a219/52860|user-agent=BrzLRzQgfTrvXYG
 #EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL",Tigo Sports HD + (Salvador) (i)
 http://45.90.105.74:25461/bud-378835/f362c6a219/37850|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-
-#EXTINF:-1  group-title="CANALES VARIADOS", UNIVERSAL CRIME
-http://pe.shortgod.com/aascawq/tv11.php?id=32
-#EXTINF:-1  group-title="CANALES VARIADOS", UNIVERSAL CINEMA
-http://pe.shortgod.com/aascawq/tv11.php?id=36
-#EXTINF:-1  group-title="CANALES VARIADOS", UNIVERSAL PREMIER
-http://pe.shortgod.com/aascawq/tv11.php?id=31
-#EXTINF:-1  group-title="CANALES VARIADOS", UNIVERSAL REALITY
-http://pe.shortgod.com/aascawq/tv11.php?id=35
-#EXTINF:-1  group-title="CANALES VARIADOS", UNIVERSAL CHANNEL
-http://pe.shortgod.com/aascawq/tv11.php?id=38
-#EXTINF:-1  group-title="CANALES VARIADOS", HBO PLUS
-http://pe.shortgod.com/aascawq/tv11.php?id=21
-#EXTINF:-1  group-title="CANALES VARIADOS", HBO
-http://pe.shortgod.com/aascawq/tv11.php?id=24
-#EXTINF:-1  group-title="CANALES VARIADOS", HBO FAMILY
-http://pe.shortgod.com/aascawq/tv11.php?id=22
-#EXTINF:-1  group-title="CANALES VARIADOS", HBO SIGNATURE
-http://pe.shortgod.com/aascawq/tv11.php?id=20
-#EXTINF:-1  group-title="CANALES VARIADOS", HBO XTREME
-http://pe.shortgod.com/aascawq/tv11.php?id=16
-#EXTINF:-1  group-title="CANALES VARIADOS", AXN
-http://pe.shortgod.com/aascawq/tv11.php?id=55
-#EXTINF:-1  group-title="CANALES VARIADOS", SPACE
-http://pe.shortgod.com/aascawq/tv11.php?id=10
-#EXTINF:-1  group-title="CANALES VARIADOS", TNT
-http://pe.shortgod.com/aascawq/tv11.php?id=6
-#EXTINF:-1  group-title="CANALES VARIADOS", TNT SERIES
-http://pe.shortgod.com/aascawq/tv11.php?id=5
-#EXTINF:-1  group-title="CANALES VARIADOS", AMC
-http://pe.shortgod.com/aascawq/tv11.php?id=57
-#EXTINF:-1  group-title="CANALES VARIADOS", CINECANAL
-http://pe.shortgod.com/aascawq/tv11.php?id=50
-#EXTINF:-1  group-title="CANALES VARIADOS", CINEMAX
-http://pe.shortgod.com/aascawq/tv11.php?id=49
-#EXTINF:-1  group-title="CANALES VARIADOS", DISCOVERY CHANNEL
-http://pe.shortgod.com/aascawq/tv11.php?id=47
-#EXTINF:-1  group-title="CANALES VARIADOS", DISCOVERY TURBO
-http://pe.shortgod.com/aascawq/tv11.php?id=80
-#EXTINF:-1  group-title="CANALES VARIADOS", HISTORY CHANNEL
-http://pe.shortgod.com/aascawq/tv11.php?id=19
-#EXTINF:-1  group-title="CANALES VARIADOS", NATGEO
-http://pe.shortgod.com/aascawq/tv11.php?id=15
-#EXTINF:-1  group-title="CANALES VARIADOS", DISCOVERY ID
-http://pe.shortgod.com/aascawq/tv11.php?id=18
-#EXTINF:-1  group-title="CANALES VARIADOS", DISCOVERY H&H
-http://pe.shortgod.com/aascawq/tv11.php?id=46
-#EXTINF:-1  group-title="CANALES VARIADOS", GOLDEN PLUS
-http://pe.shortgod.com/aascawq/tv11.php?id=26
-#EXTINF:-1  group-title="CANALES VARIADOS", GOLDEN PREMIER
-http://pe.shortgod.com/aascawq/tv11.php?id=25
-#EXTINF:-1  group-title="CANALES VARIADOS", PARAMOUNT CHANNEL
-http://pe.shortgod.com/aascawq/tv11.php?id=12
-#EXTINF:-1  group-title="CANALES VARIADOS", SYFY
-http://pe.shortgod.com/aascawq/tv11.php?id=9
-#EXTINF:-1  group-title="CANALES VARIADOS", FX
-http://pe.shortgod.com/aascawq/tv11.php?id=27
-#EXTINF:-1  group-title="CANALES VARIADOS", UNIVISION
-http://pe.shortgod.com/aascawq/tv11.php?id=3
-#EXTINF:-1  group-title="CANALES VARIADOS", SONY
-http://pe.shortgod.com/aascawq/tv11.php?id=11
-#EXTINF:-1  group-title="CANALES VARIADOS", ANIMAL PLANET
-http://pe.shortgod.com/aascawq/tv11.php?id=56
-#EXTINF:-1  group-title="CANALES VARIADOS", A&E
-http://pe.shortgod.com/aascawq/tv11.php?id=58
-#EXTINF:-1  group-title="CANALES VARIADOS", WARNER
-http://pe.shortgod.com/aascawq/tv11.php?id=2
-#EXTINF:-1  group-title="CANALES VARIADOS", TELEMUNDO
-http://pe.shortgod.com/aascawq/tv11.php?id=7
-#EXTINF:-1  group-title="CANALES VARIADOS", LIFE TIME
-http://pe.shortgod.com/aascawq/tv11.php?id=33
-#EXTINF:-1  group-title="CANALES VARIADOS", STAR CHANNEL
-http://pe.shortgod.com/aascawq/tv11.php?id=37
-#EXTINF:-1  group-title="CANALES VARIADOS", UNIVERSO
-http://pe.shortgod.com/aascawq/tv11.php?id=68
-#EXTINF:-1  group-title="CANALES VARIADOS", TLNOVELAS
-http://pe.shortgod.com/aascawq/tv11.php?id=69
-#EXTINF:-1  group-title="CANALES VARIADOS", STUDIO UNIVERSAL
-http://pe.shortgod.com/aascawq/tv11.php?id=70
-#EXTINF:-1  group-title="CANALES VARIADOS", RCN
-http://pe.shortgod.com/aascawq/tv11.php?id=71
-#EXTINF:-1  group-title="CANALES VARIADOS", TCM
-http://pe.shortgod.com/aascawq/tv11.php?id=73
-#EXTINF:-1  group-title="CANALES VARIADOS", CLARO CINEMA
-http://pe.shortgod.com/aascawq/tv11.php?id=83
-#EXTINF:-1  group-title="CANALES VARIADOS", CINE LATINO
-http://pe.shortgod.com/aascawq/tv11.php?id=84
-#EXTINF:-1  group-title="CANALES VARIADOS", CINE DINAMITA
-http://pe.shortgod.com/aascawq/tv11.php?id=85
-#EXTINF:-1  group-title="CANALES VARIADOS", CARACOL
-http://pe.shortgod.com/aascawq/tv11.php?id=86
-#EXTINF:-1  group-title="CANALES VARIADOS", AZ MUNDO
-http://pe.shortgod.com/aascawq/tv11.php?id=87
-#EXTINF:-1  group-title="CANALES VARIADOS", DISNEY CHANNEL
-http://pe.shortgod.com/aascawq/tv11.php?id=44
-#EXTINF:-1  group-title="CANALES VARIADOS", DISCOVERY KIDS
-http://pe.shortgod.com/aascawq/tv11.php?id=45
-#EXTINF:-1  group-title="CANALES VARIADOS", CARTOON NETWORK
-http://pe.shortgod.com/aascawq/tv11.php?id=51
-#EXTINF:-1  group-title="CANALES VARIADOS", TOONCAST
-http://pe.shortgod.com/aascawq/tv11.php?id=14
-#EXTINF:-1  group-title="CANALES VARIADOS", NICK  JR
-http://pe.shortgod.com/aascawq/tv11.php?id=13
-#EXTINF:-1  group-title="CANALES VARIADOS", DISNEY JR
-http://pe.shortgod.com/aascawq/tv11.php?id=43
-#EXTINF:-1  group-title="CANALES VARIADOS", AZTECA UNO
-http://pe.shortgod.com/aascawq/tv11.php?id=1
-#EXTINF:-1  group-title="CANALES VARIADOS", AZTECA 7
-http://pe.shortgod.com/aascawq/tv11.php?id=54
-#EXTINF:-1  group-title="CANALES VARIADOS", CANAL 5
-http://pe.shortgod.com/aascawq/tv11.php?id=52
-#EXTINF:-1  group-title="CANALES VARIADOS", DE PELICULA
-http://pe.shortgod.com/aascawq/tv11.php?id=48
-#EXTINF:-1  group-title="CANALES VARIADOS", LAS ESTRELLAS
-http://pe.shortgod.com/aascawq/tv11.php?id=17
-#EXTINF:-1  group-title="CANALES VARIADOS", ESPN 1 MX
-http://pe.shortgod.com/aascawq/tv11.php?id=41
-#EXTINF:-1  group-title="CANALES VARIADOS", ESPN 2 MX
-http://pe.shortgod.com/aascawq/tv11.php?id=40
-#EXTINF:-1  group-title="CANALES VARIADOS", ESPN 3 MX
-http://pe.shortgod.com/aascawq/tv11.php?id=39
-#EXTINF:-1  group-title="CANALES VARIADOS", FOX SPORTS 1 MX
-http://pe.shortgod.com/aascawq/tv11.php?id=30
-#EXTINF:-1  group-title="CANALES VARIADOS", FOX SPORTS 3 MX
-http://pe.shortgod.com/aascawq/tv11.php?id=28
-#EXTINF:-1  group-title="CANALES VARIADOS", TDN
-http://pe.shortgod.com/aascawq/tv11.php?id=8
-#EXTINF:-1  group-title="CANALES VARIADOS", UDN
-http://pe.shortgod.com/aascawq/tv11.php?id=4
-#EXTINF:-1  group-title="CANALES VARIADOS", AFIZZIONADOS
-http://pe.shortgod.com/aascawq/tv11.php?id=72
-#EXTINF:-1  group-title="CANALES VARIADOS", WWE NETWORK
-http://pe.shortgod.com/aascawq/tv11.php?id=65
-#EXTINF:-1  group-title="CANALES VARIADOS", WIN SPORTS +
-http://pe.shortgod.com/aascawq/tv11.php?id=66
-#EXTINF:-1  group-title="CANALES VARIADOS", WIN SPORTS
-http://pe.shortgod.com/aascawq/tv11.php?id=67
-#EXTINF:-1  group-title="CANALES VARIADOS", NBA TV
-http://pe.shortgod.com/aascawq/tv11.php?id=74
-#EXTINF:-1  group-title="CANALES VARIADOS", GOLTV
-http://pe.shortgod.com/aascawq/tv11.php?id=76
-#EXTINF:-1  group-title="CANALES VARIADOS", LA LIGA
-http://pe.shortgod.com/aascawq/tv11.php?id=75
-#EXTINF:-1  group-title="CANALES VARIADOS", FORMULA 1
-http://pe.shortgod.com/aascawq/tv11.php?id=81
-#EXTINF:-1  group-title="CANALES VARIADOS", ESPN SUR
-http://pe.shortgod.com/aascawq/tv11.php?id=77
-#EXTINF:-1  group-title="CANALES VARIADOS", ESPN 2 SUR
-http://pe.shortgod.com/aascawq/tv11.php?id=79
-#EXTINF:-1  group-title="CANALES VARIADOS", ESPN 3 SUR
-http://pe.shortgod.com/aascawq/tv11.php?id=78
-#EXTINF:-1  group-title="CANALES VARIADOS", CLARO SPORTS
-http://pe.shortgod.com/aascawq/tv11.php?id=82
 
 #EXTINF:-1 group-title="CANALES VARIADOS", ADRENALINA HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/28.m3u8|user-agent=Mozilla/5.0
