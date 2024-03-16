@@ -1225,632 +1225,6 @@ http://pe.shortgod.com/volvimos2024/tv11.php?id=78
 #EXTINF:-1  group-title="DEPORTES", CLARO SPORTS
 http://pe.shortgod.com/volvimos2024/tv11.php?id=82
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="LOCALES", Azteca Uno
-http://208.88.246.11:5473/113azteca13/transco1/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.74835190079.png.f56373a3b38ea18c2c66ef37615a45b4.png"  group-title="LOCALES", Las Estrellas
-http://208.88.246.11:5473/102estrellas/transco1/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png"  group-title="LOCALES", Imagen Television
-http://208.88.246.11:5473/103Imagen/transco13/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Foro_TV_%28Canal_4_MX_2022%29.svg/1200px-Foro_TV_%28Canal_4_MX_2022%29.svg.png"  group-title="LOCALES", Foro
-http://208.88.246.11:5473/push/forotv/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  group-title="LOCALES", Canal 5
-http://208.88.246.11:5473/105canal5/transco1/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX (XHTDMX-TDT)" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png"  group-title="LOCALES", Canal 6 CDMX (XHTDMX-TDT)
-http://208.88.246.11:5473/MultimediosPlus/transco15/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión (XHTDMX-TDT2)" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_603-400x360.png"  group-title="INFORMACIÓN", Milenio Televisión (XHTDMX-TDT2)
-http://208.88.246.11:5473/710MilenioTV/transco13/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="LOCALES", Azteca 7
-http://208.88.246.11:5473/107azteca7/transco1/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once MX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png"  group-title="LOCALES", Canal Once MX
-http://208.88.246.11:5473/111OnceTvMexico/transco1/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png"  group-title="LOCALES", Canal Catorce
-http://208.88.246.11:5473/130unavoz/transco1/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://unamenlinea.unam.mx/recursos/img/84753/tv-unam--bajo-demanda2.png"  group-title="LOCALES", TV UNAM
-http://208.88.246.11:5473/120tvunam/transco1/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="XEIMTTVMetropolitan(Canal22).mx" tvg-logo="https://manualdeimagen.canal22.org.mx/img/bn.png"  group-title="LOCALES", Canal 22
-http://208.88.246.11:5473/122canal22/transco1/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="MX Nuestro Cine" tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png"  group-title="LOCALES", MX Nuestro Cine
-http://208.88.246.11:5473/304Canal222/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Medias/Generales/jha5m2nc.png"  group-title="LOCALES", Canal Del Congreso
-http://208.88.246.11:5473/145congreso/transco14/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png"  group-title="ENTRETENIMIENTO", Star Channel | HD
-http://208.88.246.11:5473/andromeda/FOX/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png"  group-title="ENTRETENIMIENTO", Star Channel
-http://208.88.246.11:5473/202CanalFOXMexico/transco1/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1095174-8c.png"  group-title="ENTRETENIMIENTO", Sony Channel
-http://208.88.246.11:5473/211sony/transco14/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="PasionesTV(Spanish).us" tvg-name="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1024px-Pasiones_Tv_logo.svg.png"  group-title="ENTRETENIMIENTO", Pasiones
-http://208.88.246.11:5473/andromeda/PASIONES/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner | HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531197-8c.png"  group-title="ENTRETENIMIENTO", Warner | HD
-http://208.88.246.11:5473/andromeda/WARNER/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531197-8c.png"  group-title="ENTRETENIMIENTO", Warner
-http://208.88.246.11:5473/210WarnerChannel/transco14/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E! LA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416571-8c.png"  group-title="ENTRETENIMIENTO", E! LA
-http://208.88.246.11:5473/212E!Latino/transco14/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_207-400x360.png"  group-title="ENTRETENIMIENTO", FX | HD
-http://208.88.246.11:5473/andromeda/FX/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_207-400x360.png"  group-title="ENTRETENIMIENTO", FX
-http://208.88.246.11:5473/207FXLatin/transco1/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal | HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png"  group-title="ENTRETENIMIENTO", Universal | HD
-http://208.88.246.11:5473/andromeda/UNIVERSAL/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png"  group-title="ENTRETENIMIENTO", Universal
-http://208.88.246.11:5473/203Universal/transco1/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series LatinoAmerica" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_222-400x360.png"  group-title="ENTRETENIMIENTO", TNT Series
-http://208.88.246.11:5473/205TNTSE/transco1/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="USA.mx" tvg-name="USA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1102352-8c.png"  group-title="ENTRETENIMIENTO",USA
-http://208.88.246.11:5473/204SyFyLatin/transco1/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518573-8c.png"  group-title="ENTRETENIMIENTO", ID | HD
-http://208.88.246.11:5473/andromeda/ID/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518573-8c.png"  group-title="ENTRETENIMIENTO", ID
-http://208.88.246.11:5473/216I.D/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_215-400x360.png"  group-title="ENTRETENIMIENTO", A&E | HD
-http://208.88.246.11:5473/andromeda/AE/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_215-400x360.png"  group-title="ENTRETENIMIENTO", A&E
-http://208.88.246.11:5473/214AELatino/transco14/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522142-8c.png"  group-title="ENTRETENIMIENTO", Lifetime
-http://208.88.246.11:5473/414LIFET/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_213-400x360.png"  group-title="ENTRETENIMIENTO", AXN | HD
-http://208.88.246.11:5473/andromeda/AXN/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_213-400x360.png"  group-title="ENTRETENIMIENTO", AXN
-http://208.88.246.11:5473/213AXNLatinoAmerica/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="adultswim.mx" tvg-name="adult swim" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1106736-8c.png"  group-title="ENTRETENIMIENTO", adult swim
-http://208.88.246.11:5473/222ISAT/transco14/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="ENTRETENIMIENTO", Universo
-http://208.88.246.11:5473/transco10/9509UNVSO/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"  group-title="ENTRETENIMIENTO", Estrella TV
-http://208.88.246.11:5473/eventox3/lista/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" tvg-name="Telemundo Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"  group-title="ENTRETENIMIENTO", Telemundo Pacific
-http://208.88.246.11:5473/andrew/telehit/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png"  group-title="ENTRETENIMIENTO", Univisión
-http://208.88.246.11:5473/9604UNVSN/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="UnivisionNetwork(Pacific)(Spanish).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png"  group-title="ENTRETENIMIENTO", Univisión 34 Los Angeles
-http://208.88.246.11:5473/eventox2/lista/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/2669px-Logo_UniM%C3%A1s_2021.svg.png"  group-title="ENTRETENIMIENTO", UniMas
-http://208.88.246.11:5473/9603UNIMW/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/800px-Galavision_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", Galavisión
-http://208.88.246.11:5473/9602GLVSN/transco16/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WKAQDT.pr" tvg-name="Telemundo Puerto Rico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png"  group-title="ENTRETENIMIENTO", Telemundo Puerto Rico
-http://208.88.246.11:5473/0000/CH=%C2%A0PR-WKAQ/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WAPADT.pr" tvg-name="WAPA" tvg-id="WAPADT.pr" tvg-name="WAPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/2560px-WAPA-TV_logo.svg.png"  group-title="ENTRETENIMIENTO", WAPA
-http://208.88.246.11:5473/0000/CH=%C2%A0PR-%C2%A0WAPA/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WAPADT2(English).pr" tvg-name="WAPA Deportes" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png"  group-title="ENTRETENIMIENTO", WAPA Deportes
-http://208.88.246.11:5473/0000/CH=%C2%A0PR-%C2%A0WAPA2/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WIPRDT.pr" tvg-name="WIPR" tvg-logo="https://docs.pr.gov/files/prgov/Gobierno/Agencias/Logos/WIPR.png"  group-title="ENTRETENIMIENTO", WIPR
-http://208.88.246.11:5473/wipr/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WLIIDT.pr" tvg-name="Tele11" tvg-logo="https://ajaee.org/wp-content/uploads/2021/05/t11-350x214-1.png"  group-title="ENTRETENIMIENTO", Tele11
-http://208.88.246.11:5473/0000/CH=%C2%A0PR-WLII/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MegaTV.pr" tvg-name="MegaTV PR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png"  group-title="ENTRETENIMIENTO", MegaTV PR
-http://208.88.246.11:5473/megatvpr/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-name="Punto 2" tvg-logo="https://media.telemundopr.com/2022/11/Cita-9.jpg"  group-title="ENTRETENIMIENTO", Punto 2
-http://208.88.246.11:5473/live/punto2pr/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="A3 Series" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425423-8c.png"  group-title="ENTRETENIMIENTO", A3 Series
-http://208.88.246.11:5473/230Atres/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1  tvg-id="HOLATV.mx" tvg-name="¡Hola! TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425211-8c.png"  group-title="ENTRETENIMIENTO", ¡Hola! TV
-http://208.88.246.11:5473/218Hola/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png" group-title="ENTRETENIMIENTO", MTV | HD
-http://208.88.246.11:5473/live/ID/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png"  group-title="ENTRETENIMIENTO", MTV
-http://208.88.246.11:5473/250mtvla/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MTVHits.es" tvg-name="MTV Hits International" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518653-8c.png"  group-title="MUSICA", MTV Hits
-http://208.88.246.11:5473/mtvhitsts/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505134-8c.png"  group-title="ENTRETENIMIENTO", Comedy Central
-http://208.88.246.11:5473/225CMEDY/transco14/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/896490-8c.png"  group-title="MUSICA",MTV 00s
-http://23.237.29.98:5473/254VH1/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="EXATV.mx" tvg-name="Exa TV" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/272.png"  group-title="MUSICA", Exa TV
-http://208.88.246.11:5473/252NU/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="LaMejorTV.mx" tvg-name="La Mejor TV" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/266.png"  group-title="MUSICA", La Mejor TV
-http://23.237.29.98:5473/255exatv/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HTV.mx" tvg-name="HTV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425471-8c.png"  group-title="MUSICA", HTV
-http://208.88.246.11:5473/260htv/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Música Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518700-8c.png"  group-title="MUSICA", Telehit Música Plus
-http://208.88.246.11:5473/live/DTURBO/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522531-8c.png"  group-title="MUSICA", Bandamax
-http://208.88.246.11:5473/encoder70/goltv/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="VideoRola.mx" tvg-name="VideoRola" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/videorolla.png"  group-title="MUSICA", VideoRola
-http://208.88.246.11:5473/258VROLA/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png"  group-title="MUSICA", Teleritmo
-http://208.88.246.11:5473/276teleritmo/transco13/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png"  group-title="KIDS", Discovery Kids
-http://208.88.246.11:5473/310discoverykids/transco14/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1096959-8c.png"  group-title="KIDS", Nick
-http://208.88.246.11:5473/305nickelodeon/transco14/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425229-8c.png"  group-title="KIDS", Disney Channel | HD
-http://208.88.246.11:5473/andromeda/DISNEY/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425229-8c.png"  group-title="KIDS", Disney Channel
-http://208.88.246.11:5473/302Disneychannel/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416593-8c.png"  group-title="KIDS", Disney Junior
-http://208.88.246.11:5473/303DisneyJunior/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network LAMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416605-8c.png"  group-title="KIDS", Cartoon Network LAMX
-http://208.88.246.11:5473/307CartoonNetwork/transco14/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="Baby TV LA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425225-8c.png"  group-title="KIDS", Baby TV LA
-http://208.88.246.11:5473/315BabyTVLatinAmerica/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr." tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416595-8c.png"  group-title="KIDS", Nick Jr.
-http://208.88.246.11:5473/306NickJrLatinAmerica/transco14/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png"  group-title="CONOCIMIENTO", Discovery
-http://208.88.246.11:5473/402discoverychannel/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet LA" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/08/C_259_082223-400x360.png"  group-title="CONOCIMIENTO", Animal Planet LA
-http://208.88.246.11:5473/408animalplanet/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1004415-8c.png"  group-title="ENTRETENIMIENTO", TLC
-http://208.88.246.11:5473/217TLC/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health | HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/992395-8c.png"  group-title="ENTRETENIMIENTO", Discovery Home & Health | HD
-http://208.88.246.11:5473/andromeda/DISCOVERYHH/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425241-8c.png"  group-title="CONOCIMIENTO", Discovery Theater HD
-http://208.88.246.11:5473/andromeda/DISCOVERYTH/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425247-8c.png"  group-title="CONOCIMIENTO", Discovery World HD
-http://208.88.246.11:5473/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425251-8c.png"  group-title="CONOCIMIENTO", Discovery Turbo
-http://208.88.246.11:5473/345turbo/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_254-400x360.png"  group-title="CONOCIMIENTO", National Geographic
-http://208.88.246.11:5473/405Natgeo/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="History.mx" tvg-name="HCLM" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964936-8c.png"  group-title="CONOCIMIENTO", History | HD
-http://208.88.246.11:5473/andromeda/GOLDENPRE/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="History.mx" tvg-name="HCLM" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964936-8c.png"  group-title="CONOCIMIENTO", History LAMX
-http://208.88.246.11:5473/409history/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2 Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964952-8c.png"  group-title="CONOCIMIENTO", History 2
-http://208.88.246.11:5473/413H2/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="ElGourmet" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1073911-8c.png"  group-title="ENTRETENIMIENTO", El Gourmet
-http://208.88.246.11:5473/evento5/bodega/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png"  group-title="CONOCIMIENTO", Discovery En Español
-http://208.88.246.11:5473/transco9/9535DISCOVERYESP/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png"  group-title="DEPORTES", Fox Sports Premium MX
-http://208.88.246.11:5473/evento3/bodega/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="DEPORTES",Fox Sports Premium MX op2
-http://208.88.246.11:5473/andrew/depelicula2/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtg3i_eKDWjLGuBRXWdH2DfgB8jvWgUUHn67UncxnDIUi4Px4mpGVsC9rpsxfZaEA4X3XLu7U6zQXpwfn2T5RT7FVu9_dhkPOizFssOnLIASVXyCO-pv3oD1SzHVYcLH9RRqrpov79GM2QmO-ssVz35d9DLi96jGAl5bovMhQnc-RGQ4ZZKdjYvFn/s1200/afizzionados-logo.jpg"  group-title="DEPORTES", Afizzionados
-http://208.88.246.11:5473/encoder18/unicable/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 MX" tvg-logo="https://logo.iptveditor.com/foxsport2.png"  group-title="DEPORTES", Fox Sports 2 | HD
-http://208.88.246.11:5473/andromeda/FOXSP2/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554661-8c.png"  group-title="DEPORTES", ESPN | HD
-http://208.88.246.11:5473/evento/bodega/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554661-8c.png"  group-title="DEPORTES", ESPN
-http://208.88.246.11:5473/506ESPN2/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554663-8c.png"  group-title="DEPORTES", ESPN 2 | HD
-http://208.88.246.11:5473/evento2/bodega/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554663-8c.png"  group-title="DEPORTES", ESPN 2
-http://208.88.246.11:5473/505ESPN/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425374-8c.png"  group-title="DEPORTES", ESPN 3
-http://208.88.246.11:5473/507ESPN3/transco14/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN 4" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1046022-8c.png"  group-title="DEPORTES", ESPN 4
-http://208.88.246.11:5473/andromeda/ESPN+/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png"  group-title="DEPORTES", ESPN Deportes
-http://208.88.246.11:5473/encoder82/evento16/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416657-8c.png"  group-title="DEPORTES", TUDN MX
-http://208.88.246.11:5473/encoder84/evento17/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416657-8c.png"  group-title="DEPORTES", TUDN USA
-http://208.88.246.11:5473/9556UTDN/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png"  group-title="DEPORTES", Claro Sports
-http://208.88.246.11:5473/504clarosport/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="Adrenalina Sports Network" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531196-8c.png"  group-title="DEPORTES", Adrenalina Sports Network
-http://208.88.246.11:5473/UFCNET/transco2/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ HD" group-title="DEPORTES", Bein Ñ | HD
-http://208.88.246.11:5473/andromeda/BEINES/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ" group-title="DEPORTES", Bein Ñ
-http://208.88.246.11:5473/9592BEINE/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3 MX" tvg-logo="https://logo.iptveditor.com/foxsports3.png"  group-title="DEPORTES", Fox Sports 3
-http://208.88.246.11:5473/9466NBCSP/transco15/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1  tvg-id="MundoToro.es" tvg-name="Mundo Toro (ES)" group-title="DEPORTES", Mundo Toro (ES)
-http://208.88.246.11:5473/eventox4/lista/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MeganoticiasMX.mx" tvg-name="Meganoticias MX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/914921-8c.png" group-title="INFORMACIÓN",Meganoticias MX
-http://208.88.246.11:5473/220TVC/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="CNN En Español" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531193-8c.png"  group-title="INFORMACIÓN", CNN En Español
-http://208.88.246.11:5473/702CNN/transco13/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/354.png"  group-title="INFORMACIÓN", Teleformula
-http://208.88.246.11:5473/354Elfinanciero/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"  group-title="CINE", TNT | HD
-http://208.88.246.11:5473/andromeda/TNT/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"  group-title="CINE", TNT LAMX
-http://208.88.246.11:5473/602TNT/transco14/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f9140038718913.576c159a2de69.png"  group-title="ENTRETENIMIENTO", Space | HD
-http://208.88.246.11:5473/andromeda/SPACE/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f9140038718913.576c159a2de69.png"  group-title="ENTRETENIMIENTO", Space
-http://208.88.246.11:5473/221SpaceMexico/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416645-8c.png"  group-title="CINE", Cinemax
-http://208.88.246.11:5473/603Cinemax/transco14/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MC.mx" tvg-name="MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png"  group-title="CINE", MC
-http://208.88.246.11:5473/607MC/transco13/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png"  group-title="CINE", Multipremier
-http://208.88.246.11:5473/606MultiPremiere/transco13/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies LA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/995744-8c.png"  group-title="CINE", Sony Movies LA
-http://208.88.246.11:5473/andromeda/SONY/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Película Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604212-8c.png"  group-title="CINE", De Película Plus
-http://208.88.246.11:5473/live/DTHEATER/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/2560px-Cine_Latino_logo.svg.png"  group-title="CINE", Cine Latino
-http://208.88.246.11:5473/608CineLatino/transco13/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CineLatino(Spanish).us" tvg-name="Cine Latino US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/2560px-Cine_Latino_logo.svg.png"  group-title="CINE", Cine Latino US
-http://208.88.246.11:5473/andromeda/CINELATINO/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_411-400x360.png"  group-title="CINE", Cinecanal
-http://208.88.246.11:5473/664Cinecanal/transco13/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network LA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416631-8c.png"  group-title="CINE", Paramount Network LA
-http://208.88.246.11:5473/615PARAM/transco13/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBOLW" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png"  group-title="PREMIUM", HBO
-http://208.88.246.11:5473/eventox6/lista/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBOLW" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png"  group-title="PREMIUM", HBO (Alt.)
-http://208.88.246.11:5473/650HBO/transco13/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png"  group-title="PREMIUM", HBO 2
-http://208.88.246.11:5473/651HBO2/transco13/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1  tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png"  group-title="PREMIUM", HBO Plus
-http://208.88.246.11:5473/654HBOPlus/transco13/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/603295-8c.png"  group-title="PREMIUM", HBO Family
-http://208.88.246.11:5473/652HBOFamily/transco13/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png"  group-title="PREMIUM", HBO Xtreme
-http://208.88.246.11:5473/658MaxPrime/transco13/chunk_Auth=ix08x/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="El Sembrador Nueva Evangelización" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425271-8c.png" group-title="RELIGIÓN",El Sembrador Nueva Evangelización
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1661186586~acl=%2f*~data=hdntl~hmac=e878cc95f10a199a85e244e48d4ff1ee3ad7cf0b4fc97a0e48f2764db37322ea/chunklist.m3u8
@@ -1860,6 +1234,10 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="24/7",C4 En Alerta
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65b1568052aa31b8f64da064.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UsBb-Hvsh7H-nyrW2iLX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",Canal 6 CDMX FHD
@@ -1890,7 +1268,7 @@ https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 MTY" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES REGIONALES",Canal 6 MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 LAG" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES REGIONALES",Canal 6 LAG
+#EXTINF:-1 tvg-id="XHOAHTDT.mx" tvg-name="Canal 6 LAG" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES REGIONALES",Canal 6 LAG
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GDL" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES REGIONALES",Canal 6 GDL
 http://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
@@ -1898,7 +1276,7 @@ http://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 http://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GTO" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES REGIONALES",Canal 6 GTO
 http://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-#EXTINF:-1 tvg-id="XHOAHTDT.mx" tvg-name="Canal 6 SAL" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES REGIONALES",Canal 6 SAL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 SAL" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES REGIONALES",Canal 6 SAL
 http://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDJ" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES REGIONALES",Canal 6 CDJ
 http://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
@@ -1908,6 +1286,8 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_603-400x360.png"  group-title="INFORMACIÓN", Milenio Televisión
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Español" tvg-logo=""  group-title="INTERNACIONAL", CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 CDMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/506425-8c.png" group-title="LOCALES REGIONALES",Capital 21
 https://cdn.mycloudstream.io/hls/live/broadcast/tkyvj1qv/index.m3u8
 #EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Mexiquense-TV-en-vivo-Online-1.png" group-title="LOCALES REGIONALES",Mexiquense Televisión
@@ -2004,541 +1384,6 @@ https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-
-
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="RealExtreme.us" tvg-name="RealExtreme" tvg-logo="realx.png"  group-title="XXX",RealExtreme
-http://208.88.246.11:5473/491REALX/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="BraZZersTVPlus.us" tvg-name="Brazzers TV" tvg-logo="braz.png"  group-title="XXX",Brazzers TV
-http://208.88.246.11:5473/493BRAZZ/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TenXX5.us" tvg-name="TEN" tvg-logo="ten.png"  group-title="XXX",TEN
-http://208.88.246.11:5473/494TEN/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="RealityKingsTV.us" tvg-name="RK" tvg-logo="rk.png"  group-title="XXX",RK
-http://208.88.246.11:5473/495RKTV/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Hustler.us" tvg-name="Hustler TV" tvg-logo="hus.png"  group-title="XXX",Hustler TV
-http://208.88.246.11:5473/496HUSLR/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="XtsyNewFrontier(English).mx" tvg-name="XTSY" tvg-logo="xtsy.png"  group-title="XXX",XTSY
-http://208.88.246.11:5473/498XTSY/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Playboy.mx" tvg-name="Playboy TV" tvg-logo="plby.png"  group-title="XXX",playboy
-http://208.88.246.11:5473/484Playboy/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Venus.mx" tvg-name="Venus" tvg-logo="vens.png"  group-title="XXX",venus
-http://208.88.246.11:5473/488Venus/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="SeXtreme.mx" tvg-name="Sextreme" tvg-logo="sextr.jpg"  group-title="XXX",sextreme
-http://208.88.246.11:5473/490Sextreme/transco8/chunk_Auth=ix08x/playlist.m3u8
-
-
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network USA" tvg-logo="usaflag.png"  group-title="USA", USA Network US
-http://208.88.246.11:5473/9431USA/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central USA" tvg-logo="comedyc.png"  group-title="USA", Comedy Central US
-http://208.88.246.11:5473/9485CMDY/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime USA" tvg-logo="bio.png"  group-title="USA", Lifetime USA
-http://208.88.246.11:5473/9470LIFE/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="LMN USA" tvg-logo="usaflag.png"  group-title="USA", LMN USA
-http://208.88.246.11:5473/transco9/9471LMN/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network USA" tvg-logo="food.png"  group-title="USA", Food Network USA
-http://208.88.246.11:5473/9462FOOD/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo=""  group-title="USA", Bravo USA
-http://208.88.246.11:5473/99492BRAVO/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV USA" tvg-logo="civil.png"  group-title="USA", HGTV USA
-http://208.88.246.11:5473/transcob9/9461HGTV/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel USA" tvg-logo="usaflag.png"  group-title="USA", Cooking Channel USA
-http://208.88.246.11:5473/9447COOK/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E! USA" tvg-logo="eent.png"  group-title="USA", E! USA
-http://208.88.246.11:5473/9474E/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E USA" tvg-logo="ae.png"  group-title="USA", A&E USA
-http://208.88.246.11:5473/9419AE/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FYI.us" tvg-name="FYI USA" tvg-logo="usaflag.png"  group-title="USA", FY USA
-http://208.88.246.11:5473/9443FYI/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="History.us" tvg-name="History USA" tvg-logo="history.png"  group-title="USA", History USA
-http://208.88.246.11:5473/9491HIST/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice USA" tvg-logo="usaflag.png"  group-title="USA", Vice USA
-http://208.88.246.11:5473/9525VICE/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY USA" tvg-logo="syfy.png"  group-title="USA", SYFY USA
-http://208.88.246.11:5473/9432SYFY/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="BET.us" tvg-name="BET Networks USA" tvg-logo="usaflag.png"  group-title="USA", BET Networks USA
-http://208.88.246.11:5473/9510BET/transco16/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX USA" tvg-logo="usaflag.png"  group-title="USA", FXX USA
-http://208.88.246.11:5473/9520FXX/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="WEtv.us" tvg-name="WE TV"tvg-logo="usaflag.png"  group-title="USA", WE TV USA
-http://208.88.246.11:5473/transco9/9578WE/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC USA" tvg-logo="amc.png"  group-title="USA", AMC USA
-http://208.88.246.11:5473/transco9/9417AMC/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FX.us" tvg-name="FX USA" tvg-logo="fx.png"  group-title="USA", FX USA
-http://208.88.246.11:5473/9475FX/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT USA" tvg-logo="tnt.png"  group-title="USA", TNT USA
-http://208.88.246.11:5473/9420TNT/transco9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS USA" tvg-logo="tbs.png"  group-title="USA", TBS USA
-http://208.88.246.11:5473/9499TBS/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish) USA" tvg-logo="gala.png"  group-title="USA", Galavisión USA
-http://208.88.246.11:5473/9602GLVSN/transco16/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="USA", Universo USA
-http://208.88.246.11:5473/transco10/9509UNVSO/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="PasionesTV(Spanish).us" tvg-name="Pasiones USA" tvg-logo="pasin.png"  group-title="USA", Pasiones USA
-http://208.88.246.11:5473/andromeda/PASIONES/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN USA" tvg-logo="espn.png"  group-title="USA", ESPN USA
-http://208.88.246.11:5473/9424ESPN/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U USA" tvg-logo="usaflag.png"  group-title="USA", ESPN U USA
-http://208.88.246.11:5473/9531ESPNU/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 USA" tvg-logo="espn2.png"  group-title="USA", ESPN 2 USA
-http://208.88.246.11:5473/9425ESPN2/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="Motor Trend USA" tvg-logo="usaflag.png"  group-title="USA", Motor Trend USA
-http://208.88.246.11:5473/transco10/4697VLCTY/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1 USA" tvg-logo="usaflag.png"  group-title="USA", FS1 USA
-http://208.88.246.11:5473/9468FOXS1/transco10/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FS2 USA" tvg-logo="usaflag.png"  group-title="USA", FS2 USA
-http://208.88.246.11:5473/9613FOXS2/transco15/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network USA" tvg-logo="usaflag.png"  group-title="USA", CBS Sports Network USA
-http://208.88.246.11:5473/transco9/9495CBSSN/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TheSportsmanChannel.us" tvg-name="Sportsman Channel USA" tvg-logo="usaflag.png"  group-title="USA", Sportsman Channel USA
-http://208.88.246.11:5473/9483SPMAN/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel USA" tvg-logo="usaflag.png"  group-title="USA", Outdoor Channel USA
-http://208.88.246.11:5473/9619OTDCH/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TheCowboyChannel.us" tvg-name="The Cowboy Channel USA" tvg-logo="usaflag.png"  group-title="USA", The Cowboy Channel USA
-http://208.88.246.11:5473/transco9/9684COWBOY/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-id="TennisChannel.us" tvg-name="Tennis Channel USA" tvg-logo="usaflag.png"  group-title="USA", Tennis Channel USA
-http://208.88.246.11:5473/eventox7/lista/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TheGolfChannel.us" tvg-name="Golf Channel USA" tvg-logo="golf.png"  group-title="USA", Golf Channel USA
-http://208.88.246.11:5473/9473GOLF/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="GOLTV(Spanish).us" tvg-name="GolTV USA" tvg-logo="gol.png"  group-title="USA", GolTV USA
-http://208.88.246.11:5473/encoder76/evento10/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish) USA" tvg-logo="beinn.png"  group-title="USA", Bein Ñ USA
-http://208.88.246.11:5473/9592BEINE/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish) USA" tvg-logo="beinn.png"  group-title="USA", Bein Ñ USA
-http://208.88.246.11:5473/andromeda/BEINES/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1  tvg-id="beINSports.us" tvg-name="Bein Sports USA" tvg-logo="usaflag.png"  group-title="USA", Bein Sports USA
-http://208.88.246.11:5473/andromeda/BEINENG/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network USA" tvg-logo="usaflag.png"  group-title="USA", MLB Network USA
-http://208.88.246.11:5473/eventox5/lista/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV USA" tvg-logo="usaflag.png"  group-title="USA", NBA TV USA
-http://208.88.246.11:5473/eventox1/lista/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="NFLNETWORK.us" tvg-name="NFL Network USA" tvg-logo="usaflag.png"  group-title="USA", NFL Network USA
-http://208.88.246.11:5473/eventox4/lista/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA USA" tvg-logo="tdn.png"  group-title="USA", TUDN USA USA
-http://208.88.246.11:5473/9556UTDN/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes USA" tvg-logo="espnsp.png"  group-title="USA", ESPN Deportes USA
-http://208.88.246.11:5473/encoder82/evento16/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV USA" tvg-logo="mtv.png"  group-title="USA", MTV USA
-http://208.88.246.11:5473/9484MTV/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo="mtv.png"  group-title="USA", MTV USA
-http://208.88.246.11:5473/mtvhitsts/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo="mtv.png"  group-title="USA", MTV USA
-http://208.88.246.11:5473/250mtvla/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo="vh1e.png"  group-title="USA", VH1 USA
-http://208.88.246.11:5473/9507VH1/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 USA" tvg-logo="vh1e.png"  group-title="USA", VH1 USA
-http://208.88.246.11:5473/254VH1/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lg_videorola-300x199.png/200px-Lg_videorola-300x199.png"  group-title="USA", Videorola USA
-http://208.88.246.11:5473/258VROLA/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT USA" tvg-logo="usaflag.png"  group-title="USA", CMT USA
-http://208.88.246.11:5473/9493CMT/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXSTV USA" tvg-logo="usaflag.png"  group-title="USA", AXSTV USA
-http://208.88.246.11:5473/9422AXS/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nick USA" tvg-logo="nick.png"  group-title="USA", Nick USA
-http://208.88.246.11:5473/transco9/9416NICK/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel USA" tvg-logo="dc.png"  group-title="USA", Disney Channel USA
-http://208.88.246.11:5473/9557DISE/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network USA" tvg-logo="cn.png"  group-title="USA", Cartoon Network USA
-http://208.88.246.11:5473/9463TOON/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family USA" tvg-logo="usaflag.png"  group-title="USA", Discovery Family USA
-http://208.88.246.11:5473/transco9/9494DISCF/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform USA" tvg-logo="usaflag.png"  group-title="USA", Freeform USA
-http://208.88.246.11:5473/9558FRFM/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery USA" tvg-logo="disc.png"  group-title="USA", Discovery USA
-http://208.88.246.11:5473/9487DISC/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TheLearningChannel.us" tvg-name="TLC USA" tvg-logo="tlc.jpg"  group-title="USA", TLC USA
-http://208.88.246.11:5473/9488TLC/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet USA" tvg-logo="animal.png"  group-title="USA", Animal Planet USA
-http://208.88.246.11:5473/transco9/9489APL/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic USA" tvg-logo="ngc.png"  group-title="USA", National Geographic USA
-http://208.88.246.11:5473/transco9/9429NTGEO/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="NatGeo Wild USA" tvg-logo="ngw.png"  group-title="USA", NatGeo Wild USA
-http://208.88.246.11:5473/9445NATG/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID USA" tvg-logo="peoplearts.png"  group-title="USA", ID USA
-http://208.88.246.11:5473/9526ID/transco16/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Science.us" tvg-name="Science USA" tvg-logo="usaflag.png"  group-title="USA", Science USA
-http://208.88.246.11:5473/9490SCI/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TheTravelChannel.us" tvg-name="Trvl USA" tvg-logo="usaflag.png"  group-title="USA", Trvl USA
-http://208.88.246.11:5473/9437TRV/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America USA" tvg-logo="usaflag.png"  group-title="USA", Destination America USA
-http://208.88.246.11:5473/9457AMERI/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español USA" tvg-logo="disc.png"  group-title="USA", Discovery En Español USA
-http://208.88.246.11:5473/transco9/9535DISCOVERYESP/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN USA" tvg-logo="cnn.png"  group-title="USA", CNN USA
-http://208.88.246.11:5473/transco9/9436CNN/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News"tvg-logo="foxn.png"  group-title="USA", Fox News USA
-http://208.88.246.11:5473/9477FXNWS/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="Fox Business USA" tvg-logo="usaflag.png"  group-title="USA", Fox Business USA
-http://208.88.246.11:5473/9476FOXB/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC USA" tvg-logo="usaflag.png"  group-title="USA", CNBC USA
-http://208.88.246.11:5473/9439CNBC/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel USA" tvg-logo="usaflag.png"  group-title="USA", The Weather Channel USA
-http://208.88.246.11:5473/9438WEATH/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network USA" tvg-logo="usaflag.png"  group-title="USA", Paramount Network USA
-http://208.88.246.11:5473/9506SPIKE/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="truTV.us" tvg-name="TruTV USA" tvg-logo="trutv.png"  group-title="USA", TruTV USA
-http://208.88.246.11:5473/transco9/9430TRU/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO USA" tvg-logo="ole.png"  group-title="USA", HBO USA
-http://208.88.246.11:5473/encoder78/evento12/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="5StarMAX.us" tvg-name="5 Star Max"  tvg-logo="usaflag.png"  group-title="USA", 5 Star Max USA
-http://208.88.246.11:5473/encoder77/evento11/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime (E) USA" tvg-logo="usaflag.png"  group-title="USA", Showtime (E) USA
-http://208.88.246.11:5473/9460SHO-E/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime (W)"tvg-logo="usaflag.png"  group-title="USA", Showtime (W) USA
-http://208.88.246.11:5473/9512SHO-W/transco16/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="TheMovieChannel.us" tvg-name="The Movie Channel USA" tvg-logo="usaflag.png"  group-title="USA", The Movie Channel USA
-http://208.88.246.11:5473/9481TMC-E/transco8/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz USA" tvg-logo="usaflag.png"  group-title="USA", Starz USA
-http://208.88.246.11:5473/9498STRZW/transco15/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy USA" tvg-logo="usaflag.png"  group-title="USA", Starz Comedy USA
-http://208.88.246.11:5473/9486STZC/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="Starz Family USA" tvg-logo="usaflag.png"  group-title="USA", Starz Family USA
-http://208.88.246.11:5473/9497StarzF/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM USA" tvg-logo="fxm.png"  group-title="USA", FXM USA
-http://208.88.246.11:5473/9440MAXW/transcob9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark USA" tvg-logo="usaflag.png"  group-title="USA", Hallmark USA
-http://208.88.246.11:5473/transco9/9482HLMRK/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="CineLatinoUS(Spanish).us" tvg-name="Cine Latino USA" tvg-logo="latinopl.png"  group-title="USA", Cine Latino USA
-http://208.88.246.11:5473/andromeda/CINELATINO/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="KVIADT.us" tvg-name="ABC USA" tvg-logo="usaflag.png"  group-title="USA", ABC USA
-http://208.88.246.11:5473/encoder81/evento15/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo="usaflag.png"  group-title="USA", CBS USA
-http://208.88.246.11:5473/encoder80/evento14/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo="usaflag.png"  group-title="USA", NBC USA
-http://208.88.246.11:5473/encoder79/evento13/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="KMEXDT(Spanish).us" tvg-name="Univisión Pac USA" tvg-logo="uninet.png"  group-title="USA", Univisión Pac USA
-http://208.88.246.11:5473/eventox2/lista/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo="usaflag.png"  group-title="USA", NBC (Alt.) USA
-http://208.88.246.11:5473/eventox8/lista/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV USA" tvg-logo="estrella.png"  group-title="USA", Estrella TV USA
-http://208.88.246.11:5473/eventox3/lista/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="HBO Latino (Spanish).us" tvg-name="HBO Latino USA" tvg-logo="ole.png"  group-title="USA", HBO Latino USA
-http://208.88.246.11:5473/encoder75/evento9/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" tvg-name="Telemundo Pac USA" tvg-logo="telemnet.png"  group-title="USA", Telemundo Pac USA
-http://208.88.246.11:5473/andrew/telehit/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1  tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo USA" tvg-logo="telemnet.png"  group-title="USA", Telemundo USA
-http://208.88.246.11:5473/encoder69/telemundo/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión USA" tvg-logo="uninet.png"  group-title="USA", Univisión USA
-http://208.88.246.11:5473/9604UNVSN/transco7/chunk_Auth=ix08x/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="UniMas(Spanish).us" tvg-name="UniMas USA" tvg-logo="umas.png"  group-title="USA", UniMas USA
-http://208.88.246.11:5473/9603UNIMW/transco7/chunk_Auth=ix08x/playlist.m3u8
-
 
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -7553,6 +6398,1167 @@ http://45.90.105.74:25461/bud-378835/f362c6a219/52860
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL",Tigo Sports HD + (Salvador) (i)
 http://45.90.105.74:25461/bud-378835/f362c6a219/37850
+
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="LOCALES", Azteca Uno
+http://208.88.246.11:5473/113azteca13/transco1/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.74835190079.png.f56373a3b38ea18c2c66ef37615a45b4.png"  group-title="LOCALES", Las Estrellas
+http://208.88.246.11:5473/102estrellas/transco1/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png"  group-title="LOCALES", Imagen Television
+http://208.88.246.11:5473/103Imagen/transco13/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Foro_TV_%28Canal_4_MX_2022%29.svg/1200px-Foro_TV_%28Canal_4_MX_2022%29.svg.png"  group-title="LOCALES", Foro
+http://208.88.246.11:5473/push/forotv/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  group-title="LOCALES", Canal 5
+http://208.88.246.11:5473/105canal5/transco1/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX (XHTDMX-TDT)" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png"  group-title="LOCALES", Canal 6 CDMX (XHTDMX-TDT)
+http://208.88.246.11:5473/MultimediosPlus/transco15/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión (XHTDMX-TDT2)" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_603-400x360.png"  group-title="INFORMACIÓN", Milenio Televisión (XHTDMX-TDT2)
+http://208.88.246.11:5473/710MilenioTV/transco13/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="LOCALES", Azteca 7
+http://208.88.246.11:5473/107azteca7/transco1/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once MX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png"  group-title="LOCALES", Canal Once MX
+http://208.88.246.11:5473/111OnceTvMexico/transco1/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png"  group-title="LOCALES", Canal Catorce
+http://208.88.246.11:5473/130unavoz/transco1/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://unamenlinea.unam.mx/recursos/img/84753/tv-unam--bajo-demanda2.png"  group-title="LOCALES", TV UNAM
+http://208.88.246.11:5473/120tvunam/transco1/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="XEIMTTVMetropolitan(Canal22).mx" tvg-logo="https://manualdeimagen.canal22.org.mx/img/bn.png"  group-title="LOCALES", Canal 22
+http://208.88.246.11:5473/122canal22/transco1/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="MX Nuestro Cine" tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png"  group-title="LOCALES", MX Nuestro Cine
+http://208.88.246.11:5473/304Canal222/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Medias/Generales/jha5m2nc.png"  group-title="LOCALES", Canal Del Congreso
+http://208.88.246.11:5473/145congreso/transco14/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png"  group-title="ENTRETENIMIENTO", Star Channel | HD
+http://208.88.246.11:5473/andromeda/FOX/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png"  group-title="ENTRETENIMIENTO", Star Channel
+http://208.88.246.11:5473/202CanalFOXMexico/transco1/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1095174-8c.png"  group-title="ENTRETENIMIENTO", Sony Channel
+http://208.88.246.11:5473/211sony/transco14/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="PasionesTV(Spanish).us" tvg-name="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1024px-Pasiones_Tv_logo.svg.png"  group-title="ENTRETENIMIENTO", Pasiones
+http://208.88.246.11:5473/andromeda/PASIONES/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner | HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531197-8c.png"  group-title="ENTRETENIMIENTO", Warner | HD
+http://208.88.246.11:5473/andromeda/WARNER/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531197-8c.png"  group-title="ENTRETENIMIENTO", Warner
+http://208.88.246.11:5473/210WarnerChannel/transco14/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E! LA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416571-8c.png"  group-title="ENTRETENIMIENTO", E! LA
+http://208.88.246.11:5473/212E!Latino/transco14/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_207-400x360.png"  group-title="ENTRETENIMIENTO", FX | HD
+http://208.88.246.11:5473/andromeda/FX/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_207-400x360.png"  group-title="ENTRETENIMIENTO", FX
+http://208.88.246.11:5473/207FXLatin/transco1/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal | HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png"  group-title="ENTRETENIMIENTO", Universal | HD
+http://208.88.246.11:5473/andromeda/UNIVERSAL/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png"  group-title="ENTRETENIMIENTO", Universal
+http://208.88.246.11:5473/203Universal/transco1/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series LatinoAmerica" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_222-400x360.png"  group-title="ENTRETENIMIENTO", TNT Series
+http://208.88.246.11:5473/205TNTSE/transco1/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="USA.mx" tvg-name="USA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1102352-8c.png"  group-title="ENTRETENIMIENTO",USA
+http://208.88.246.11:5473/204SyFyLatin/transco1/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518573-8c.png"  group-title="ENTRETENIMIENTO", ID | HD
+http://208.88.246.11:5473/andromeda/ID/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518573-8c.png"  group-title="ENTRETENIMIENTO", ID
+http://208.88.246.11:5473/216I.D/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_215-400x360.png"  group-title="ENTRETENIMIENTO", A&E | HD
+http://208.88.246.11:5473/andromeda/AE/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_215-400x360.png"  group-title="ENTRETENIMIENTO", A&E
+http://208.88.246.11:5473/214AELatino/transco14/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522142-8c.png"  group-title="ENTRETENIMIENTO", Lifetime
+http://208.88.246.11:5473/414LIFET/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_213-400x360.png"  group-title="ENTRETENIMIENTO", AXN | HD
+http://208.88.246.11:5473/andromeda/AXN/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_213-400x360.png"  group-title="ENTRETENIMIENTO", AXN
+http://208.88.246.11:5473/213AXNLatinoAmerica/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="adultswim.mx" tvg-name="adult swim" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1106736-8c.png"  group-title="ENTRETENIMIENTO", adult swim
+http://208.88.246.11:5473/222ISAT/transco14/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="ENTRETENIMIENTO", Universo
+http://208.88.246.11:5473/transco10/9509UNVSO/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"  group-title="ENTRETENIMIENTO", Estrella TV
+http://208.88.246.11:5473/eventox3/lista/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" tvg-name="Telemundo Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"  group-title="ENTRETENIMIENTO", Telemundo Pacific
+http://208.88.246.11:5473/andrew/telehit/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png"  group-title="ENTRETENIMIENTO", Univisión
+http://208.88.246.11:5473/9604UNVSN/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="UnivisionNetwork(Pacific)(Spanish).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png"  group-title="ENTRETENIMIENTO", Univisión 34 Los Angeles
+http://208.88.246.11:5473/eventox2/lista/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="UniMas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/2669px-Logo_UniM%C3%A1s_2021.svg.png"  group-title="ENTRETENIMIENTO", UniMas
+http://208.88.246.11:5473/9603UNIMW/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/800px-Galavision_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", Galavisión
+http://208.88.246.11:5473/9602GLVSN/transco16/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="WKAQDT.pr" tvg-name="Telemundo Puerto Rico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png"  group-title="ENTRETENIMIENTO", Telemundo Puerto Rico
+http://208.88.246.11:5473/0000/CH=%C2%A0PR-WKAQ/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="WAPADT.pr" tvg-name="WAPA" tvg-id="WAPADT.pr" tvg-name="WAPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/2560px-WAPA-TV_logo.svg.png"  group-title="ENTRETENIMIENTO", WAPA
+http://208.88.246.11:5473/0000/CH=%C2%A0PR-%C2%A0WAPA/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="WAPADT2(English).pr" tvg-name="WAPA Deportes" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png"  group-title="ENTRETENIMIENTO", WAPA Deportes
+http://208.88.246.11:5473/0000/CH=%C2%A0PR-%C2%A0WAPA2/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="WIPRDT.pr" tvg-name="WIPR" tvg-logo="https://docs.pr.gov/files/prgov/Gobierno/Agencias/Logos/WIPR.png"  group-title="ENTRETENIMIENTO", WIPR
+http://208.88.246.11:5473/wipr/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="WLIIDT.pr" tvg-name="Tele11" tvg-logo="https://ajaee.org/wp-content/uploads/2021/05/t11-350x214-1.png"  group-title="ENTRETENIMIENTO", Tele11
+http://208.88.246.11:5473/0000/CH=%C2%A0PR-WLII/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="MegaTV.pr" tvg-name="MegaTV PR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png"  group-title="ENTRETENIMIENTO", MegaTV PR
+http://208.88.246.11:5473/megatvpr/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-name="Punto 2" tvg-logo="https://media.telemundopr.com/2022/11/Cita-9.jpg"  group-title="ENTRETENIMIENTO", Punto 2
+http://208.88.246.11:5473/live/punto2pr/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="A3 Series" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425423-8c.png"  group-title="ENTRETENIMIENTO", A3 Series
+http://208.88.246.11:5473/230Atres/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1  tvg-id="HOLATV.mx" tvg-name="¡Hola! TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425211-8c.png"  group-title="ENTRETENIMIENTO", ¡Hola! TV
+http://208.88.246.11:5473/218Hola/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png" group-title="ENTRETENIMIENTO", MTV | HD
+http://208.88.246.11:5473/live/ID/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png"  group-title="ENTRETENIMIENTO", MTV
+http://208.88.246.11:5473/250mtvla/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="MTVHits.es" tvg-name="MTV Hits International" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518653-8c.png"  group-title="MUSICA", MTV Hits
+http://208.88.246.11:5473/mtvhitsts/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505134-8c.png"  group-title="ENTRETENIMIENTO", Comedy Central
+http://208.88.246.11:5473/225CMEDY/transco14/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/896490-8c.png"  group-title="MUSICA",MTV 00s
+http://23.237.29.98:5473/254VH1/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="EXATV.mx" tvg-name="Exa TV" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/272.png"  group-title="MUSICA", Exa TV
+http://208.88.246.11:5473/252NU/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="LaMejorTV.mx" tvg-name="La Mejor TV" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/266.png"  group-title="MUSICA", La Mejor TV
+http://23.237.29.98:5473/255exatv/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="HTV.mx" tvg-name="HTV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425471-8c.png"  group-title="MUSICA", HTV
+http://208.88.246.11:5473/260htv/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Música Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518700-8c.png"  group-title="MUSICA", Telehit Música Plus
+http://208.88.246.11:5473/live/DTURBO/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522531-8c.png"  group-title="MUSICA", Bandamax
+http://208.88.246.11:5473/encoder70/goltv/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="VideoRola.mx" tvg-name="VideoRola" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/videorolla.png"  group-title="MUSICA", VideoRola
+http://208.88.246.11:5473/258VROLA/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png"  group-title="MUSICA", Teleritmo
+http://208.88.246.11:5473/276teleritmo/transco13/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png"  group-title="KIDS", Discovery Kids
+http://208.88.246.11:5473/310discoverykids/transco14/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1096959-8c.png"  group-title="KIDS", Nick
+http://208.88.246.11:5473/305nickelodeon/transco14/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425229-8c.png"  group-title="KIDS", Disney Channel | HD
+http://208.88.246.11:5473/andromeda/DISNEY/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425229-8c.png"  group-title="KIDS", Disney Channel
+http://208.88.246.11:5473/302Disneychannel/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416593-8c.png"  group-title="KIDS", Disney Junior
+http://208.88.246.11:5473/303DisneyJunior/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network LAMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416605-8c.png"  group-title="KIDS", Cartoon Network LAMX
+http://208.88.246.11:5473/307CartoonNetwork/transco14/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="Baby TV LA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425225-8c.png"  group-title="KIDS", Baby TV LA
+http://208.88.246.11:5473/315BabyTVLatinAmerica/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr." tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416595-8c.png"  group-title="KIDS", Nick Jr.
+http://208.88.246.11:5473/306NickJrLatinAmerica/transco14/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png"  group-title="CONOCIMIENTO", Discovery
+http://208.88.246.11:5473/402discoverychannel/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet LA" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/08/C_259_082223-400x360.png"  group-title="CONOCIMIENTO", Animal Planet LA
+http://208.88.246.11:5473/408animalplanet/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1004415-8c.png"  group-title="ENTRETENIMIENTO", TLC
+http://208.88.246.11:5473/217TLC/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health | HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/992395-8c.png"  group-title="ENTRETENIMIENTO", Discovery Home & Health | HD
+http://208.88.246.11:5473/andromeda/DISCOVERYHH/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425241-8c.png"  group-title="CONOCIMIENTO", Discovery Theater HD
+http://208.88.246.11:5473/andromeda/DISCOVERYTH/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425247-8c.png"  group-title="CONOCIMIENTO", Discovery World HD
+http://208.88.246.11:5473/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425251-8c.png"  group-title="CONOCIMIENTO", Discovery Turbo
+http://208.88.246.11:5473/345turbo/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_254-400x360.png"  group-title="CONOCIMIENTO", National Geographic
+http://208.88.246.11:5473/405Natgeo/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="History.mx" tvg-name="HCLM" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964936-8c.png"  group-title="CONOCIMIENTO", History | HD
+http://208.88.246.11:5473/andromeda/GOLDENPRE/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="History.mx" tvg-name="HCLM" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964936-8c.png"  group-title="CONOCIMIENTO", History LAMX
+http://208.88.246.11:5473/409history/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2 Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964952-8c.png"  group-title="CONOCIMIENTO", History 2
+http://208.88.246.11:5473/413H2/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="ElGourmet" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1073911-8c.png"  group-title="ENTRETENIMIENTO", El Gourmet
+http://208.88.246.11:5473/evento5/bodega/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png"  group-title="CONOCIMIENTO", Discovery En Español
+http://208.88.246.11:5473/transco9/9535DISCOVERYESP/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png"  group-title="DEPORTES", Fox Sports Premium MX
+http://208.88.246.11:5473/evento3/bodega/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="DEPORTES",Fox Sports Premium MX op2
+http://208.88.246.11:5473/andrew/depelicula2/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtg3i_eKDWjLGuBRXWdH2DfgB8jvWgUUHn67UncxnDIUi4Px4mpGVsC9rpsxfZaEA4X3XLu7U6zQXpwfn2T5RT7FVu9_dhkPOizFssOnLIASVXyCO-pv3oD1SzHVYcLH9RRqrpov79GM2QmO-ssVz35d9DLi96jGAl5bovMhQnc-RGQ4ZZKdjYvFn/s1200/afizzionados-logo.jpg"  group-title="DEPORTES", Afizzionados
+http://208.88.246.11:5473/encoder18/unicable/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 MX" tvg-logo="https://logo.iptveditor.com/foxsport2.png"  group-title="DEPORTES", Fox Sports 2 | HD
+http://208.88.246.11:5473/andromeda/FOXSP2/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554661-8c.png"  group-title="DEPORTES", ESPN | HD
+http://208.88.246.11:5473/evento/bodega/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554661-8c.png"  group-title="DEPORTES", ESPN
+http://208.88.246.11:5473/506ESPN2/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554663-8c.png"  group-title="DEPORTES", ESPN 2 | HD
+http://208.88.246.11:5473/evento2/bodega/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554663-8c.png"  group-title="DEPORTES", ESPN 2
+http://208.88.246.11:5473/505ESPN/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425374-8c.png"  group-title="DEPORTES", ESPN 3
+http://208.88.246.11:5473/507ESPN3/transco14/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN 4" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1046022-8c.png"  group-title="DEPORTES", ESPN 4
+http://208.88.246.11:5473/andromeda/ESPN+/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png"  group-title="DEPORTES", ESPN Deportes
+http://208.88.246.11:5473/encoder82/evento16/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416657-8c.png"  group-title="DEPORTES", TUDN MX
+http://208.88.246.11:5473/encoder84/evento17/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416657-8c.png"  group-title="DEPORTES", TUDN USA
+http://208.88.246.11:5473/9556UTDN/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png"  group-title="DEPORTES", Claro Sports
+http://208.88.246.11:5473/504clarosport/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="Adrenalina Sports Network" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531196-8c.png"  group-title="DEPORTES", Adrenalina Sports Network
+http://208.88.246.11:5473/UFCNET/transco2/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ HD" group-title="DEPORTES", Bein Ñ | HD
+http://208.88.246.11:5473/andromeda/BEINES/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ" group-title="DEPORTES", Bein Ñ
+http://208.88.246.11:5473/9592BEINE/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3 MX" tvg-logo="https://logo.iptveditor.com/foxsports3.png"  group-title="DEPORTES", Fox Sports 3
+http://208.88.246.11:5473/9466NBCSP/transco15/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1  tvg-id="MundoToro.es" tvg-name="Mundo Toro (ES)" group-title="DEPORTES", Mundo Toro (ES)
+http://208.88.246.11:5473/eventox4/lista/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="MeganoticiasMX.mx" tvg-name="Meganoticias MX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/914921-8c.png" group-title="INFORMACIÓN",Meganoticias MX
+http://208.88.246.11:5473/220TVC/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="CNN En Español" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531193-8c.png"  group-title="INFORMACIÓN", CNN En Español
+http://208.88.246.11:5473/702CNN/transco13/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/354.png"  group-title="INFORMACIÓN", Teleformula
+http://208.88.246.11:5473/354Elfinanciero/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"  group-title="CINE", TNT | HD
+http://208.88.246.11:5473/andromeda/TNT/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"  group-title="CINE", TNT LAMX
+http://208.88.246.11:5473/602TNT/transco14/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f9140038718913.576c159a2de69.png"  group-title="ENTRETENIMIENTO", Space | HD
+http://208.88.246.11:5473/andromeda/SPACE/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f9140038718913.576c159a2de69.png"  group-title="ENTRETENIMIENTO", Space
+http://208.88.246.11:5473/221SpaceMexico/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416645-8c.png"  group-title="CINE", Cinemax
+http://208.88.246.11:5473/603Cinemax/transco14/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="MC.mx" tvg-name="MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png"  group-title="CINE", MC
+http://208.88.246.11:5473/607MC/transco13/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png"  group-title="CINE", Multipremier
+http://208.88.246.11:5473/606MultiPremiere/transco13/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies LA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/995744-8c.png"  group-title="CINE", Sony Movies LA
+http://208.88.246.11:5473/andromeda/SONY/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Película Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604212-8c.png"  group-title="CINE", De Película Plus
+http://208.88.246.11:5473/live/DTHEATER/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/2560px-Cine_Latino_logo.svg.png"  group-title="CINE", Cine Latino
+http://208.88.246.11:5473/608CineLatino/transco13/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="CineLatino(Spanish).us" tvg-name="Cine Latino US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/2560px-Cine_Latino_logo.svg.png"  group-title="CINE", Cine Latino US
+http://208.88.246.11:5473/andromeda/CINELATINO/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_411-400x360.png"  group-title="CINE", Cinecanal
+http://208.88.246.11:5473/664Cinecanal/transco13/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network LA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416631-8c.png"  group-title="CINE", Paramount Network LA
+http://208.88.246.11:5473/615PARAM/transco13/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBOLW" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png"  group-title="PREMIUM", HBO
+http://208.88.246.11:5473/eventox6/lista/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBOLW" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png"  group-title="PREMIUM", HBO (Alt.)
+http://208.88.246.11:5473/650HBO/transco13/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png"  group-title="PREMIUM", HBO 2
+http://208.88.246.11:5473/651HBO2/transco13/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1  tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png"  group-title="PREMIUM", HBO Plus
+http://208.88.246.11:5473/654HBOPlus/transco13/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/603295-8c.png"  group-title="PREMIUM", HBO Family
+http://208.88.246.11:5473/652HBOFamily/transco13/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png"  group-title="PREMIUM", HBO Xtreme
+http://208.88.246.11:5473/658MaxPrime/transco13/chunk_Auth=ix08x/playlist.m3u8
+
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="RealExtreme.us" tvg-name="RealExtreme" tvg-logo="realx.png"  group-title="XXX",RealExtreme
+http://208.88.246.11:5473/491REALX/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="BraZZersTVPlus.us" tvg-name="Brazzers TV" tvg-logo="braz.png"  group-title="XXX",Brazzers TV
+http://208.88.246.11:5473/493BRAZZ/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TenXX5.us" tvg-name="TEN" tvg-logo="ten.png"  group-title="XXX",TEN
+http://208.88.246.11:5473/494TEN/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="RealityKingsTV.us" tvg-name="RK" tvg-logo="rk.png"  group-title="XXX",RK
+http://208.88.246.11:5473/495RKTV/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Hustler.us" tvg-name="Hustler TV" tvg-logo="hus.png"  group-title="XXX",Hustler TV
+http://208.88.246.11:5473/496HUSLR/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="XtsyNewFrontier(English).mx" tvg-name="XTSY" tvg-logo="xtsy.png"  group-title="XXX",XTSY
+http://208.88.246.11:5473/498XTSY/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Playboy.mx" tvg-name="Playboy TV" tvg-logo="plby.png"  group-title="XXX",playboy
+http://208.88.246.11:5473/484Playboy/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Venus.mx" tvg-name="Venus" tvg-logo="vens.png"  group-title="XXX",venus
+http://208.88.246.11:5473/488Venus/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="SeXtreme.mx" tvg-name="Sextreme" tvg-logo="sextr.jpg"  group-title="XXX",sextreme
+http://208.88.246.11:5473/490Sextreme/transco8/chunk_Auth=ix08x/playlist.m3u8
+
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network USA" tvg-logo="usaflag.png"  group-title="USA", USA Network US
+http://208.88.246.11:5473/9431USA/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central USA" tvg-logo="comedyc.png"  group-title="USA", Comedy Central US
+http://208.88.246.11:5473/9485CMDY/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime USA" tvg-logo="bio.png"  group-title="USA", Lifetime USA
+http://208.88.246.11:5473/9470LIFE/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="LMN USA" tvg-logo="usaflag.png"  group-title="USA", LMN USA
+http://208.88.246.11:5473/transco9/9471LMN/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network USA" tvg-logo="food.png"  group-title="USA", Food Network USA
+http://208.88.246.11:5473/9462FOOD/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo=""  group-title="USA", Bravo USA
+http://208.88.246.11:5473/99492BRAVO/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV USA" tvg-logo="civil.png"  group-title="USA", HGTV USA
+http://208.88.246.11:5473/transcob9/9461HGTV/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel USA" tvg-logo="usaflag.png"  group-title="USA", Cooking Channel USA
+http://208.88.246.11:5473/9447COOK/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E! USA" tvg-logo="eent.png"  group-title="USA", E! USA
+http://208.88.246.11:5473/9474E/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E USA" tvg-logo="ae.png"  group-title="USA", A&E USA
+http://208.88.246.11:5473/9419AE/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FYI.us" tvg-name="FYI USA" tvg-logo="usaflag.png"  group-title="USA", FY USA
+http://208.88.246.11:5473/9443FYI/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="History.us" tvg-name="History USA" tvg-logo="history.png"  group-title="USA", History USA
+http://208.88.246.11:5473/9491HIST/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice USA" tvg-logo="usaflag.png"  group-title="USA", Vice USA
+http://208.88.246.11:5473/9525VICE/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY USA" tvg-logo="syfy.png"  group-title="USA", SYFY USA
+http://208.88.246.11:5473/9432SYFY/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET Networks USA" tvg-logo="usaflag.png"  group-title="USA", BET Networks USA
+http://208.88.246.11:5473/9510BET/transco16/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX USA" tvg-logo="usaflag.png"  group-title="USA", FXX USA
+http://208.88.246.11:5473/9520FXX/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="WEtv.us" tvg-name="WE TV"tvg-logo="usaflag.png"  group-title="USA", WE TV USA
+http://208.88.246.11:5473/transco9/9578WE/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC USA" tvg-logo="amc.png"  group-title="USA", AMC USA
+http://208.88.246.11:5473/transco9/9417AMC/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX USA" tvg-logo="fx.png"  group-title="USA", FX USA
+http://208.88.246.11:5473/9475FX/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT USA" tvg-logo="tnt.png"  group-title="USA", TNT USA
+http://208.88.246.11:5473/9420TNT/transco9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS USA" tvg-logo="tbs.png"  group-title="USA", TBS USA
+http://208.88.246.11:5473/9499TBS/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish) USA" tvg-logo="gala.png"  group-title="USA", Galavisión USA
+http://208.88.246.11:5473/9602GLVSN/transco16/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="USA", Universo USA
+http://208.88.246.11:5473/transco10/9509UNVSO/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="PasionesTV(Spanish).us" tvg-name="Pasiones USA" tvg-logo="pasin.png"  group-title="USA", Pasiones USA
+http://208.88.246.11:5473/andromeda/PASIONES/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN USA" tvg-logo="espn.png"  group-title="USA", ESPN USA
+http://208.88.246.11:5473/9424ESPN/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U USA" tvg-logo="usaflag.png"  group-title="USA", ESPN U USA
+http://208.88.246.11:5473/9531ESPNU/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 USA" tvg-logo="espn2.png"  group-title="USA", ESPN 2 USA
+http://208.88.246.11:5473/9425ESPN2/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="Motor Trend USA" tvg-logo="usaflag.png"  group-title="USA", Motor Trend USA
+http://208.88.246.11:5473/transco10/4697VLCTY/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1 USA" tvg-logo="usaflag.png"  group-title="USA", FS1 USA
+http://208.88.246.11:5473/9468FOXS1/transco10/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FS2 USA" tvg-logo="usaflag.png"  group-title="USA", FS2 USA
+http://208.88.246.11:5473/9613FOXS2/transco15/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network USA" tvg-logo="usaflag.png"  group-title="USA", CBS Sports Network USA
+http://208.88.246.11:5473/transco9/9495CBSSN/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TheSportsmanChannel.us" tvg-name="Sportsman Channel USA" tvg-logo="usaflag.png"  group-title="USA", Sportsman Channel USA
+http://208.88.246.11:5473/9483SPMAN/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel USA" tvg-logo="usaflag.png"  group-title="USA", Outdoor Channel USA
+http://208.88.246.11:5473/9619OTDCH/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TheCowboyChannel.us" tvg-name="The Cowboy Channel USA" tvg-logo="usaflag.png"  group-title="USA", The Cowboy Channel USA
+http://208.88.246.11:5473/transco9/9684COWBOY/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-id="TennisChannel.us" tvg-name="Tennis Channel USA" tvg-logo="usaflag.png"  group-title="USA", Tennis Channel USA
+http://208.88.246.11:5473/eventox7/lista/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TheGolfChannel.us" tvg-name="Golf Channel USA" tvg-logo="golf.png"  group-title="USA", Golf Channel USA
+http://208.88.246.11:5473/9473GOLF/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="GOLTV(Spanish).us" tvg-name="GolTV USA" tvg-logo="gol.png"  group-title="USA", GolTV USA
+http://208.88.246.11:5473/encoder76/evento10/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish) USA" tvg-logo="beinn.png"  group-title="USA", Bein Ñ USA
+http://208.88.246.11:5473/9592BEINE/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish) USA" tvg-logo="beinn.png"  group-title="USA", Bein Ñ USA
+http://208.88.246.11:5473/andromeda/BEINES/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1  tvg-id="beINSports.us" tvg-name="Bein Sports USA" tvg-logo="usaflag.png"  group-title="USA", Bein Sports USA
+http://208.88.246.11:5473/andromeda/BEINENG/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network USA" tvg-logo="usaflag.png"  group-title="USA", MLB Network USA
+http://208.88.246.11:5473/eventox5/lista/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV USA" tvg-logo="usaflag.png"  group-title="USA", NBA TV USA
+http://208.88.246.11:5473/eventox1/lista/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="NFLNETWORK.us" tvg-name="NFL Network USA" tvg-logo="usaflag.png"  group-title="USA", NFL Network USA
+http://208.88.246.11:5473/eventox4/lista/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA USA" tvg-logo="tdn.png"  group-title="USA", TUDN USA USA
+http://208.88.246.11:5473/9556UTDN/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes USA" tvg-logo="espnsp.png"  group-title="USA", ESPN Deportes USA
+http://208.88.246.11:5473/encoder82/evento16/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV USA" tvg-logo="mtv.png"  group-title="USA", MTV USA
+http://208.88.246.11:5473/9484MTV/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="mtv.png"  group-title="USA", MTV USA
+http://208.88.246.11:5473/mtvhitsts/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="mtv.png"  group-title="USA", MTV USA
+http://208.88.246.11:5473/250mtvla/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="vh1e.png"  group-title="USA", VH1 USA
+http://208.88.246.11:5473/9507VH1/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 USA" tvg-logo="vh1e.png"  group-title="USA", VH1 USA
+http://208.88.246.11:5473/254VH1/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lg_videorola-300x199.png/200px-Lg_videorola-300x199.png"  group-title="USA", Videorola USA
+http://208.88.246.11:5473/258VROLA/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT USA" tvg-logo="usaflag.png"  group-title="USA", CMT USA
+http://208.88.246.11:5473/9493CMT/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXSTV USA" tvg-logo="usaflag.png"  group-title="USA", AXSTV USA
+http://208.88.246.11:5473/9422AXS/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nick USA" tvg-logo="nick.png"  group-title="USA", Nick USA
+http://208.88.246.11:5473/transco9/9416NICK/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel USA" tvg-logo="dc.png"  group-title="USA", Disney Channel USA
+http://208.88.246.11:5473/9557DISE/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network USA" tvg-logo="cn.png"  group-title="USA", Cartoon Network USA
+http://208.88.246.11:5473/9463TOON/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family USA" tvg-logo="usaflag.png"  group-title="USA", Discovery Family USA
+http://208.88.246.11:5473/transco9/9494DISCF/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform USA" tvg-logo="usaflag.png"  group-title="USA", Freeform USA
+http://208.88.246.11:5473/9558FRFM/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery USA" tvg-logo="disc.png"  group-title="USA", Discovery USA
+http://208.88.246.11:5473/9487DISC/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TheLearningChannel.us" tvg-name="TLC USA" tvg-logo="tlc.jpg"  group-title="USA", TLC USA
+http://208.88.246.11:5473/9488TLC/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet USA" tvg-logo="animal.png"  group-title="USA", Animal Planet USA
+http://208.88.246.11:5473/transco9/9489APL/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic USA" tvg-logo="ngc.png"  group-title="USA", National Geographic USA
+http://208.88.246.11:5473/transco9/9429NTGEO/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="NatGeo Wild USA" tvg-logo="ngw.png"  group-title="USA", NatGeo Wild USA
+http://208.88.246.11:5473/9445NATG/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID USA" tvg-logo="peoplearts.png"  group-title="USA", ID USA
+http://208.88.246.11:5473/9526ID/transco16/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Science.us" tvg-name="Science USA" tvg-logo="usaflag.png"  group-title="USA", Science USA
+http://208.88.246.11:5473/9490SCI/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TheTravelChannel.us" tvg-name="Trvl USA" tvg-logo="usaflag.png"  group-title="USA", Trvl USA
+http://208.88.246.11:5473/9437TRV/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America USA" tvg-logo="usaflag.png"  group-title="USA", Destination America USA
+http://208.88.246.11:5473/9457AMERI/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español USA" tvg-logo="disc.png"  group-title="USA", Discovery En Español USA
+http://208.88.246.11:5473/transco9/9535DISCOVERYESP/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN USA" tvg-logo="cnn.png"  group-title="USA", CNN USA
+http://208.88.246.11:5473/transco9/9436CNN/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News"tvg-logo="foxn.png"  group-title="USA", Fox News USA
+http://208.88.246.11:5473/9477FXNWS/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="Fox Business USA" tvg-logo="usaflag.png"  group-title="USA", Fox Business USA
+http://208.88.246.11:5473/9476FOXB/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC USA" tvg-logo="usaflag.png"  group-title="USA", CNBC USA
+http://208.88.246.11:5473/9439CNBC/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel USA" tvg-logo="usaflag.png"  group-title="USA", The Weather Channel USA
+http://208.88.246.11:5473/9438WEATH/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network USA" tvg-logo="usaflag.png"  group-title="USA", Paramount Network USA
+http://208.88.246.11:5473/9506SPIKE/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="TruTV USA" tvg-logo="trutv.png"  group-title="USA", TruTV USA
+http://208.88.246.11:5473/transco9/9430TRU/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO USA" tvg-logo="ole.png"  group-title="USA", HBO USA
+http://208.88.246.11:5473/encoder78/evento12/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="5StarMAX.us" tvg-name="5 Star Max"  tvg-logo="usaflag.png"  group-title="USA", 5 Star Max USA
+http://208.88.246.11:5473/encoder77/evento11/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime (E) USA" tvg-logo="usaflag.png"  group-title="USA", Showtime (E) USA
+http://208.88.246.11:5473/9460SHO-E/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime (W)"tvg-logo="usaflag.png"  group-title="USA", Showtime (W) USA
+http://208.88.246.11:5473/9512SHO-W/transco16/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TheMovieChannel.us" tvg-name="The Movie Channel USA" tvg-logo="usaflag.png"  group-title="USA", The Movie Channel USA
+http://208.88.246.11:5473/9481TMC-E/transco8/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz USA" tvg-logo="usaflag.png"  group-title="USA", Starz USA
+http://208.88.246.11:5473/9498STRZW/transco15/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy USA" tvg-logo="usaflag.png"  group-title="USA", Starz Comedy USA
+http://208.88.246.11:5473/9486STZC/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="Starz Family USA" tvg-logo="usaflag.png"  group-title="USA", Starz Family USA
+http://208.88.246.11:5473/9497StarzF/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM USA" tvg-logo="fxm.png"  group-title="USA", FXM USA
+http://208.88.246.11:5473/9440MAXW/transcob9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark USA" tvg-logo="usaflag.png"  group-title="USA", Hallmark USA
+http://208.88.246.11:5473/transco9/9482HLMRK/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="CineLatinoUS(Spanish).us" tvg-name="Cine Latino USA" tvg-logo="latinopl.png"  group-title="USA", Cine Latino USA
+http://208.88.246.11:5473/andromeda/CINELATINO/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="KVIADT.us" tvg-name="ABC USA" tvg-logo="usaflag.png"  group-title="USA", ABC USA
+http://208.88.246.11:5473/encoder81/evento15/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="usaflag.png"  group-title="USA", CBS USA
+http://208.88.246.11:5473/encoder80/evento14/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="usaflag.png"  group-title="USA", NBC USA
+http://208.88.246.11:5473/encoder79/evento13/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="KMEXDT(Spanish).us" tvg-name="Univisión Pac USA" tvg-logo="uninet.png"  group-title="USA", Univisión Pac USA
+http://208.88.246.11:5473/eventox2/lista/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="usaflag.png"  group-title="USA", NBC (Alt.) USA
+http://208.88.246.11:5473/eventox8/lista/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV USA" tvg-logo="estrella.png"  group-title="USA", Estrella TV USA
+http://208.88.246.11:5473/eventox3/lista/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="HBO Latino (Spanish).us" tvg-name="HBO Latino USA" tvg-logo="ole.png"  group-title="USA", HBO Latino USA
+http://208.88.246.11:5473/encoder75/evento9/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" tvg-name="Telemundo Pac USA" tvg-logo="telemnet.png"  group-title="USA", Telemundo Pac USA
+http://208.88.246.11:5473/andrew/telehit/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1  tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo USA" tvg-logo="telemnet.png"  group-title="USA", Telemundo USA
+http://208.88.246.11:5473/encoder69/telemundo/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univisión USA" tvg-logo="uninet.png"  group-title="USA", Univisión USA
+http://208.88.246.11:5473/9604UNVSN/transco7/chunk_Auth=ix08x/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="UniMas(Spanish).us" tvg-name="UniMas USA" tvg-logo="umas.png"  group-title="USA", UniMas USA
+http://208.88.246.11:5473/9603UNIMW/transco7/chunk_Auth=ix08x/playlist.m3u8
 
 
 ##EXTVLCOPT:network-caching=1000
