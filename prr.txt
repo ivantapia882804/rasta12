@@ -814,8 +814,6 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/21
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/22
 #EXTINF:-1 group-title="KIDS",DISNEY JR
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/23
-#EXTINF:-1 group-title="KIDS",Disney XD
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/24
 #EXTINF:-1 group-title="DEPORTES",ESPN 2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/25
 #EXTINF:-1 group-title="DEPORTES",ESPN 3
@@ -2759,7 +2757,7 @@ http://138.59.177.34:8000/play/a01b/index.m3u8
 http://138.59.177.34:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="KIDS", Tooncast
 http://138.59.177.34:8000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="KIDS", adult swim
+#EXTINF:-1 group-title="ENTRETENIMIENTO", adult swim
 http://138.59.177.34:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="PREMIUM", UNIVERSAL CINEMA ESTE HD
 http://138.59.177.34:8000/play/a07c/index.m3u8
