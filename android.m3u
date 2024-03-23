@@ -68,7 +68,7 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/126.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=CCCCC
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="RECOMENDADOS", TUDN USA
-https://vivo.lamtv.tv:8081/a/0148/playlist.m3u8
+https://vivo.lamtv.tv:8081/a/0139/playlist.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=CCCCC
