@@ -6,7 +6,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.74835190079.png.f56373a3b38ea18c2c66ef37615a45b4.png"  group-title="RECOMENDADOS", Las Estrellas
-https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png"  group-title="RECOMENDADOS", Imagen Television
@@ -48,8 +48,6 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/197.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"  group-title="RECOMENDADOS", TNT | HD
 http://181.78.105.146:2000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtg3i_eKDWjLGuBRXWdH2DfgB8jvWgUUHn67UncxnDIUi4Px4mpGVsC9rpsxfZaEA4X3XLu7U6zQXpwfn2T5RT7FVu9_dhkPOizFssOnLIASVXyCO-pv3oD1SzHVYcLH9RRqrpov79GM2QmO-ssVz35d9DLi96jGAl5bovMhQnc-RGQ4ZZKdjYvFn/s1200/afizzionados-logo.jpg"  group-title="RECOMENDADOS", Afizzionados
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://olimpicos.clarosports.com/assets/themes/olimpicos/images/olimpicos-logo.png"  group-title="RECOMENDADOS", Claro Sports
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 ##EXTVLCOPT:network-caching=1000
@@ -279,8 +277,6 @@ https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="",TUDN
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="",Afizzionados
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="",Zona TUDN (México)
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="",Zona TUDN (Estados Unidos)
@@ -1568,8 +1564,6 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/580
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/581
 #EXTINF:-1 group-title="USA",USA | FXX
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/582
-#EXTINF:-1 group-title="DEPORTES",MEX | AFIZZIONADOS
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/583
 #EXTINF:-1 group-title="24/7",PPV | 030
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/585
 #EXTINF:-1 group-title="24/7",PPV | 031
@@ -2871,10 +2865,6 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/16504|user-agent=BrzLRzQgfTrvXY
 http://45.90.105.74:25461/bud-1882009/1e621f3272/2146|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="DEPORTES", Adrenalina Sports HD (p)
 http://45.90.105.74:25461/bud-1882009/1e621f3272/3158|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="DEPORTES", Afizzionados (i)
-http://45.90.105.74:25461/bud-1882009/1e621f3272/53495|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="DEPORTES", Afizzionados op2 (i)
-http://45.90.105.74:25461/bud-1882009/1e621f3272/53496|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Alacocina tv (p)
 http://45.90.105.74:25461/bud-1882009/1e621f3272/40378|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="24/7", Amazon Kids FHD (i)
@@ -5028,7 +5018,7 @@ http://208.88.246.11:5473/transco9/9535DISCOVERYESP/chunk_Auth=ix08x/playlist.m3
 http://208.88.246.11:5473/evento3/bodega/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="DEPORTES",Fox Sports Premium MX op2
 http://208.88.246.11:5473/andrew/depelicula2/chunk_Auth=ix08x/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtg3i_eKDWjLGuBRXWdH2DfgB8jvWgUUHn67UncxnDIUi4Px4mpGVsC9rpsxfZaEA4X3XLu7U6zQXpwfn2T5RT7FVu9_dhkPOizFssOnLIASVXyCO-pv3oD1SzHVYcLH9RRqrpov79GM2QmO-ssVz35d9DLi96jGAl5bovMhQnc-RGQ4ZZKdjYvFn/s1200/afizzionados-logo.jpg"  group-title="DEPORTES", Afizzionados
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="DEPORTES", undefined
 http://208.88.246.11:5473/encoder18/unicable/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 MX" tvg-logo="https://logo.iptveditor.com/foxsport2.png"  group-title="DEPORTES", Fox Sports 2 | HD
 http://208.88.246.11:5473/andromeda/FOXSP2/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -5332,8 +5322,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 group-title="CANALES VARIADOS", ADRENALINA HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/28.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", AFIZZIONADOS HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/7.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", BEIN SPORTS XTRA :TV
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/74.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", BEIN SPORTS Ñ
@@ -5997,8 +5985,6 @@ https://vivo.lamtv.tv:8081/a/0112/playlist.m3u8|user-agent=CCCCC
 https://vivo.lamtv.tv:8081/a/0113/playlist.m3u8|user-agent=CCCCC
 #EXTINF:-1  group-title="CANALES VARIADOS",  ADRENALINA SPORTS NETWORK
 https://vivo.lamtv.tv:8081/a/0025/playlist.m3u8|user-agent=CCCCC
-#EXTINF:-1  group-title="CANALES VARIADOS",  AFIZZIONADOS
-https://vivo.lamtv.tv:8081/a/0026/playlist.m3u8|user-agent=CCCCC
 #EXTINF:-1  group-title="CANALES VARIADOS",  BEINSPORTS ñ
 https://vivo.lamtv.tv:8081/a/0314/playlist.m3u8|user-agent=CCCCC
 #EXTINF:-1  group-title="CANALES VARIADOS",  BEINSPORTS USA
@@ -7897,12 +7883,6 @@ http://pe.shortgod.com/volve24/tv9.php?id=2186
 http://pe.shortgod.com/volve24/tv9.php?id=9666
 #EXTINF:-1 group-title="CANALES VARIADOS",MX | AdultSwim LQ
 http://pe.shortgod.com/volve24/tv9.php?id=89692
-#EXTINF:-1 group-title="CANALES VARIADOS",MX | AFIZZIONADOS
-http://pe.shortgod.com/volve24/tv9.php?id=286
-#EXTINF:-1 group-title="CANALES VARIADOS",MX | AFIZZIONADOS  HD
-http://pe.shortgod.com/volve24/tv9.php?id=103847
-#EXTINF:-1 group-title="CANALES VARIADOS",MX | AFIZZIONADOS LQ
-http://pe.shortgod.com/volve24/tv9.php?id=89777
 #EXTINF:-1 group-title="CANALES VARIADOS",MX | AMC
 http://pe.shortgod.com/volve24/tv9.php?id=2
 #EXTINF:-1 group-title="CANALES VARIADOS",MX | AMC  LQ
