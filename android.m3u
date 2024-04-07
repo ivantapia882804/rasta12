@@ -628,6 +628,82 @@ https://linear-634.frequency.stream/mt/studio/634/hls/master/playlist.m3u8
 https://linear-635.frequency.stream/mt/studio/635/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="",636
 https://linear-636.frequency.stream/mt/studio/636/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7", Run Time Latino
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+#EXTINF:-1 group-title="24/7", Run Time Films
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 group-title="24/7", Run Time Espanyol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+#EXTINF:-1 group-title="24/7", Run Time Cine y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+#EXTINF:-1 group-title="24/7", Run Time English
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2648
+#EXTINF:-1 group-title="24/7", Run Time France
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
+#EXTINF:-1 group-title="24/7", Run Time Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 group-title="24/7", Run Time Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+#EXTINF:-1 group-title="24/7", Run Time Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+#EXTINF:-1 group-title="24/7", Run Time Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532
+#EXTINF:-1 group-title="24/7", Run Time Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
+#EXTINF:-1 group-title="24/7", Run Time Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
+#EXTINF:-1 group-title="24/7", Run Time Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+#EXTINF:-1 group-title="24/7", Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+#EXTINF:-1 group-title="24/7", Canela Network
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+#EXTINF:-1 group-title="24/7", Canela Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
+#EXTINF:-1 group-title="24/7", Canela Novelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1 group-title="24/7", Canela Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 group-title="24/7", Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+#EXTINF:-1 group-title="24/7", Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 group-title="24/7", Canela Music
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+#EXTINF:-1 group-title="24/7", Canela Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:-1 group-title="DEPORTES", ITV DEPORTES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+#EXTINF:-1 group-title="DEPORTES", AYM Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:-1 group-title="24/7", Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 group-title="24/7", Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+#EXTINF:-1 group-title="24/7", Kanal D Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Corazón Fast
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Clic Fast
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+#EXTINF:-1 group-title="CINE", Cinema Fast
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+#EXTINF:-1 group-title="24/7", Acción Mexicana
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:-1 group-title="24/7", CombaTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
+#EXTINF:-1 group-title="24/7", WPT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504
+#EXTINF:-1 group-title="24/7", C4 En Alerta
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
+#EXTINF:-1 group-title="LOCALES", Canal 6 CDMX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405
+#EXTINF:-1 group-title="INFORMACIÓN", Milenio Televisión
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
+#EXTINF:-1 group-title="LOCALES", Azteca Uno (-1h)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+#EXTINF:-1 group-title="LOCALES", Imagen TV+ (-1h)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 group-title="MUSICA" tvg-logo="",Vevo Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="MUSICA" tvg-logo="",Vevo Latino
@@ -678,14 +754,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",C4 En Alerta
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65b1568052aa31b8f64da064.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UsBb-Hvsh7H-nyrW2iLX
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="LOCALES",Canal 6 CDMX FHD
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65b14f4752aa31b8f64da062.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UsBb-Hvsh7H-nyrW2iLX
 #EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="LOCALES",Canal 6 CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="LOCALES",MVSTV
