@@ -51,8 +51,9 @@ http://181.78.105.146:2000/play/a018/index.m3u8
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png"  group-title="RECOMENDADOS", Univision
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/127.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
