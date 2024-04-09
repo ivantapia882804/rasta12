@@ -62,7 +62,7 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/126.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="RECOMENDADOS", TUDN USA
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/337
+http://pe.shortgod.com/volve24/tv6.php?id=200
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=CCCCC
