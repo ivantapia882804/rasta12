@@ -5343,7 +5343,7 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/159847
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1, group-title="INTERNACIONAL",Alacocina tv (p)
+#EXTINF:-1 group-title="INTERNACIONAL",Alacocina tv (p)
 http://45.90.105.74:25461/bud-1882009/1e621f3272/40378
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -6173,7 +6173,7 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/3483
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="",Comedy Central FHD (MX)(R)
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Comedy Central FHD (MX)(R)
 http://45.90.105.74:25461/bud-1882009/1e621f3272/159155
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -6753,7 +6753,7 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/1601
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="",El Gourmet FHD (MX)(R)
+#EXTINF:-1 group-title="ENTRETENIMIENTO",El Gourmet FHD (MX)(R)
 http://45.90.105.74:25461/bud-1882009/1e621f3272/159174
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -7988,7 +7988,7 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/159087
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="",Multipremier HD (p)
+#EXTINF:-1 group-title="CINE",Multipremier HD (p)
 http://45.90.105.74:25461/bud-1882009/1e621f3272/132794
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -9678,7 +9678,7 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/36357
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title=""ENTRETENIMIENTO,Unicable FHD (MX)(R)
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Unicable FHD (MX)(R)
 http://45.90.105.74:25461/bud-1882009/1e621f3272/159208
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
