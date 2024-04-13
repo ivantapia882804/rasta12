@@ -52,7 +52,7 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png"  group-title="RECOMENDADOS", Univision
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/496
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/102
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="Unimas USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/2669px-Logo_UniM%C3%A1s_2021.svg.png"  group-title="RECOMENDADOS", Unimas USA
@@ -457,9 +457,9 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
 
-#EXTINF:-1 group-title="LOCALES", A mas
+#EXTINF:-1 group-title="LOCALES REGIONALES", A mas Noreste
 http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/10669
-#EXTINF:-1 group-title="LOCALES", A mas + HD
+#EXTINF:-1 group-title="LOCALES REGIONALES", A mas + Jalisco HD
 http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/9574
 #EXTINF:-1 group-title="ENTRETENIMIENTO", A&E
 http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/1
@@ -3532,7 +3532,129 @@ https://linear-509.frequency.stream/dist/studio/509/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="",Baywatch (Guardianes de la Bahía)
 https://linear-521.frequency.stream/dist/studio/521/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="",COPS en Español
-https://linear-523.frequency.stream/dist/studio/523/hls/master/play
+https://linear-523.frequency.stream/dist/studio/523/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Novelas de Asia
+https://linear-531.frequency.stream/dist/studio/531/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",El Color de la Pasión
+https://linear-532.frequency.stream/dist/studio/532/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",ViX Galanes (MX)
+https://linear-557.frequency.stream/dist/studio/557/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",ViX Grandes Parejas
+https://linear-558.frequency.stream/dist/studio/558/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",ViX Jajaja
+https://linear-560.frequency.stream/dist/studio/560/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",ViX Novelas de Oro
+https://linear-561.frequency.stream/dist/studio/561/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",ViX Novelas de Romance
+https://linear-565.frequency.stream/dist/studio/565/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",ViX Novelas en Familia
+https://linear-566.frequency.stream/dist/studio/566/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Pongalo NovelaClub
+https://linear-568.frequency.stream/dist/studio/568/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",ViX Villanos de Novela
+https://linear-571.frequency.stream/dist/studio/571/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",100 Mexicanos Dijieron
+https://linear-573.frequency.stream/dist/studio/573/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Amor Real
+https://linear-574.frequency.stream/dist/studio/574/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",La Fea Más Bella
+https://linear-575.frequency.stream/dist/studio/575/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",La Que No Podía Amar
+https://linear-576.frequency.stream/dist/studio/576/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Lo Que la Vida Me Robó
+https://linear-577.frequency.stream/dist/studio/577/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Miamivelas
+https://linear-578.frequency.stream/dist/studio/578/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Una Familia Con Suerte
+https://linear-580.frequency.stream/dist/studio/580/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",MrBeast
+https://linear-647.frequency.stream/dist/studio/647/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Canal ViX (Estados Unidos)
+https://linear-604.frequency.stream/dist/studio/604/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Canal ViX (México)
+https://linear-605.frequency.stream/dist/studio/605/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Revry Latinx
+https://linear-142.frequency.stream/dist/studio/142/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",The Pet Collective
+https://linear-174.frequency.stream/dist/studio/174/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",People Are Awesome
+https://linear-175.frequency.stream/dist/studio/175/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",WeatherSpy
+https://linear-176.frequency.stream/dist/studio/176/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",People Are Awesome International
+https://linear-197.frequency.stream/dist/studio/197/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",WeatherSpy International
+https://linear-199.frequency.stream/dist/studio/199/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Cocina TV
+https://linear-317.frequency.stream/dist/studio/317/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Sala de Emergencias
+https://linear-536.frequency.stream/dist/studio/536/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Tu Clío
+https://linear-659.frequency.stream/dist/studio/659/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Bob Ross Channel en Español
+https://linear-660.frequency.stream/dist/studio/660/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Nature Time
+https://linear-530.frequency.stream/dist/studio/530/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Loupe Art
+https://linear-144.frequency.stream/dist/studio/144/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7"" tvg-logo="",Aquí y Ahora
+https://linear-306.frequency.stream/dist/studio/306/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Crónicas
+https://linear-315.frequency.stream/dist/studio/315/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",RCTV
+https://linear-334.frequency.stream/dist/studio/334/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Puro Amor
+https://linear-484.frequency.stream/dist/studio/484/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Siempre Teens
+https://linear-487.frequency.stream/dist/studio/487/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Vidas Históricas
+https://linear-526.frequency.stream/dist/studio/526/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Desde Venezuela
+https://linear-527.frequency.stream/dist/studio/527/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Amor y Palomitas
+https://linear-533.frequency.stream/dist/studio/533/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Red Bull Batalla
+https://linear-534.frequency.stream/dist/studio/534/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Talk Show
+https://linear-537.frequency.stream/dist/studio/537/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",¿Qué Pasa, USA?
+https://linear-579.frequency.stream/dist/studio/579/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Red Bull TV (English)
+https://linear-644.frequency.stream/dist/studio/644/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",Red Bull TV (German)
+https://linear-582.frequency.stream/dist/studio/582/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",619
+https://linear-619.frequency.stream/dist/studio/619/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",620
+https://linear-620.frequency.stream/dist/studio/620/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",621
+https://linear-621.frequency.stream/dist/studio/621/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",622
+https://linear-622.frequency.stream/dist/studio/622/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",623
+https://linear-623.frequency.stream/dist/studio/623/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",624
+https://linear-624.frequency.stream/dist/studio/624/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",625
+https://linear-625.frequency.stream/dist/studio/625/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",626
+https://linear-626.frequency.stream/dist/studio/626/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",627
+https://linear-627.frequency.stream/dist/studio/627/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",628
+https://linear-628.frequency.stream/dist/studio/628/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",629
+https://linear-629.frequency.stream/dist/studio/629/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",630
+https://linear-630.frequency.stream/dist/studio/630/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",631
+https://linear-631.frequency.stream/dist/studio/631/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",632
+https://linear-632.frequency.stream/dist/studio/632/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",633
+https://linear-633.frequency.stream/dist/studio/633/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="",634
+https://linear-634.frequency.stream/dist/studio/634/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 group-title="CONOCIMIENTO",ANIMAL PLANET
@@ -8224,12 +8346,12 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/159088
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="LOCALES",MULTIMEDIOS BAJIO SD
+#EXTINF:-1 group-title="LOCALES REGIONALES",MULTIMEDIOS BAJIO SD
 http://45.90.105.74:25461/bud-1882009/1e621f3272/33405
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="LOCALES",MULTIMEDIOS CD. JUAREZ SD
+#EXTINF:-1 group-title="LOCALES REGIONALES",MULTIMEDIOS CD. JUAREZ SD
 http://45.90.105.74:25461/bud-1882009/1e621f3272/33406
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -8264,7 +8386,7 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/2105
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="LOCALES",Multimedios Laguna (i)
+#EXTINF:-1 group-title="LOCALES REGIONALES",Multimedios Laguna (i)
 http://45.90.105.74:25461/bud-1882009/1e621f3272/10086
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
