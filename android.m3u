@@ -6,7 +6,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.74835190079.png.f56373a3b38ea18c2c66ef37615a45b4.png"  group-title="RECOMENDADOS", Las Estrellas
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/41
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png"  group-title="RECOMENDADOS", Imagen Television
@@ -21,6 +21,8 @@ http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/43
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="RECOMENDADOS", TUDN MX
 http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/8420
+#EXTINF:-1  group-title="RECOMENDADOS",Eventos
+https://bgtv.xyz/loves.php?id=vixpremium
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"  group-title="RECOMENDADOS", ESPN HD
 http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png"  group-title="RECOMENDADOS", ESPN 2 HD
@@ -6348,7 +6350,7 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/159089|user-agent=BrzLRzQgfTrvX
 #EXTINF:-1 group-title="LOCALES REGIONALES",Multimedios Monterrey HD (p)
 http://45.90.105.74:25461/bud-1882009/1e621f3272/1866|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="LOCALES",Multimedios Plus (MX)(R)
-http://45.90.105.74:25461/bud-1882009/1e621f3272/159087|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT.m3u8
+http://45.90.105.74:25461/bud-1882009/1e621f3272/159087|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="CINE",Multipremier HD (p)
 http://45.90.105.74:25461/bud-1882009/1e621f3272/132794|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="LOCALES",MVS (MX)(R)
