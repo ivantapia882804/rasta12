@@ -11355,32 +11355,6 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/13.m3u8|user-agent=Mozilla/5
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/109.m3u8|user-agent=Mozilla/5.0
 
 
-#EXTINF:-1 group-title="INTERNACIONAL",tvchile
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
-https://edge1-ccast-sl.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd
-
-#EXTINF:-1 group-title="XXX" ,playboy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
-https://edge1-ccast-sl.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd
-
-#EXTINF:-1 group-title="XXX" ,sextreme
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
-https://edge1-ccast-sl.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd
-
-#EXTINF:-1 group-title="XXX" ,venus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
-https://edge1-ccast-sl.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
-
-#EXTINF:-1 group-title="XXX" ,venus2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
-https://edge-live31-sl.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
-
-
 #EXTINF:-1  group-title="ENTRETENIMIENTO",  A3 SERIES
 https://vivo.lamtv.tv:8081/a/0028/playlist.m3u8|user-agent=CCCCC
 #EXTINF:-1  group-title="ENTRETENIMIENTO",  A&E
