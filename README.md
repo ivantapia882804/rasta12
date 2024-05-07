@@ -5,11 +5,12 @@
 
 <h2>Actualizaciones:</h2>
 <ul>
-5 Mayo 2024
+5 Mayo 2024<br>
 Agregación de servicio.
-
-7 Mayo 2024
-Eliminación de Mi (Transco) y Lam (servicio obsoleto), recuperación de señales musicales.
+<br><br>
+7 Mayo 2024<br>
+Eliminación de Mi (Transco) y Lam (servicio obsoleto).<br>
+Recuperación de señales musicales.
 </ul>
 </body>
 </html>
