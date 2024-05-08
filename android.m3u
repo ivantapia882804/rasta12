@@ -100,6 +100,10 @@ https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="RECOMENDADOS", Telemundo Miami
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159383
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="Universo(Spanish).us" tvg-name="" group-title="RECOMENDADOS", Universo
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png"  group-title="RECOMENDADOS", ESPN Deportes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
@@ -4054,1152 +4058,1152 @@ http://177.53.153.20:8001/play/a0db/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="LOCALES",Azteca 7
-http://bgtv.xyz/play/play-500.php?tlat=1&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=1&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="LOCALES",Canal 5
-http://bgtv.xyz/play/play-500.php?tlat=2&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=2&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",TUDN
-http://bgtv.xyz/play/play-500.php?tlat=3&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=3&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Latina
-http://bgtv.xyz/play/play-500.php?tlat=4&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=4&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",America TV
-http://bgtv.xyz/play/play-500.php?tlat=5&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=5&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Gol Perú
-http://bgtv.xyz/play/play-500.php?tlat=6&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=6&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Gol TV
-http://bgtv.xyz/play/play-500.php?tlat=7&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=7&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",TNT SPORTS
-http://bgtv.xyz/play/play-500.php?tlat=9&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=9&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Espn Premium
-http://bgtv.xyz/play/play-500.php?tlat=10&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=10&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",TYC SPORTS
-http://bgtv.xyz/play/play-500.php?tlat=11&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=11&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS ARG
-http://bgtv.xyz/play/play-500.php?tlat=12&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=12&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 2 ARG
-http://bgtv.xyz/play/play-500.php?tlat=13&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=13&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 3 ARG
-http://bgtv.xyz/play/play-500.php?tlat=14&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=14&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Espn Deportes
-http://bgtv.xyz/play/play-500.php?tlat=15&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=15&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Espn 4
-http://bgtv.xyz/play/play-500.php?tlat=16&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=16&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Espn Sur
-http://bgtv.xyz/play/play-500.php?tlat=17&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=17&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Espn 2 Sur
-http://bgtv.xyz/play/play-500.php?tlat=18&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=18&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Espn 3 Sur
-http://bgtv.xyz/play/play-500.php?tlat=19&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=19&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Directv Sports
-http://bgtv.xyz/play/play-500.php?tlat=20&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=20&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Directv Sports 2
-http://bgtv.xyz/play/play-500.php?tlat=21&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=21&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Directv Sports Plus
-http://bgtv.xyz/play/play-500.php?tlat=22&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=22&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Bein La Liga
-http://bgtv.xyz/play/play-500.php?tlat=23&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=23&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Fox Sports Mexico
-http://bgtv.xyz/play/play-500.php?tlat=24&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=24&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 2 Mexico
-http://bgtv.xyz/play/play-500.php?tlat=25&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=25&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 3 Mexico
-http://bgtv.xyz/play/play-500.php?tlat=26&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=26&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Espn Mexico
-http://bgtv.xyz/play/play-500.php?tlat=27&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=27&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Espn 2 Mexico
-http://bgtv.xyz/play/play-500.php?tlat=28&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=28&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Espn 3 Mexico
-http://bgtv.xyz/play/play-500.php?tlat=29&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=29&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="PREMIUM",HBO
-http://bgtv.xyz/play/play-500.php?tlat=31&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=31&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="PREMIUM",HBO 2
-http://bgtv.xyz/play/play-500.php?tlat=32&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=32&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Liga 1
-http://bgtv.xyz/play/play-500.php?tlat=33&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=33&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Liga 1 FHD
-http://bgtv.xyz/play/play-500.php?tlat=34&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=34&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Directv Sports Fight
-http://bgtv.xyz/play/play-500.php?tlat=36&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=36&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",Peliculas de Accion
-http://bgtv.xyz/play/play-500.php?tlat=38&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=38&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",SPACE
-http://bgtv.xyz/play/play-500.php?tlat=39&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=39&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",MX: Warner Bros TV
-http://bgtv.xyz/play/play-500.php?tlat=40&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=40&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",TNT
-http://bgtv.xyz/play/play-500.php?tlat=41&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=41&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Star Channel
-http://bgtv.xyz/play/play-500.php?tlat=42&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=42&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",Cinemax
-http://bgtv.xyz/play/play-500.php?tlat=43&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=43&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",Cinecanal
-http://bgtv.xyz/play/play-500.php?tlat=44&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=44&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Telefe
-http://bgtv.xyz/play/play-500.php?tlat=45&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=45&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",El Trece
-http://bgtv.xyz/play/play-500.php?tlat=46&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=46&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Distrito Comedia
-http://bgtv.xyz/play/play-500.php?tlat=47&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=47&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="USA",Telemundo Miami
-http://bgtv.xyz/play/play-500.php?tlat=48&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=48&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CONOCIMIENTO",History
-http://bgtv.xyz/play/play-500.php?tlat=49&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=49&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CONOCIMIENTO",History 2
-http://bgtv.xyz/play/play-500.php?tlat=50&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=50&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Pasiones
-http://bgtv.xyz/play/play-500.php?tlat=51&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=51&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="LOCALES",Azteca Uno (-1)
-http://bgtv.xyz/play/play-500.php?tlat=52&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=52&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Azteca Internacional
-http://bgtv.xyz/play/play-500.php?tlat=53&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=53&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",Cinema
-http://bgtv.xyz/play/play-500.php?tlat=54&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=54&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Galavision
-http://bgtv.xyz/play/play-500.php?tlat=55&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=55&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Tlnovelas
-http://bgtv.xyz/play/play-500.php?tlat=56&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=56&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="LOCALES",Las Estrellas (no peliculas)
-http://bgtv.xyz/play/play-500.php?tlat=57&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=57&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",USA
-http://bgtv.xyz/play/play-500.php?tlat=58&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=58&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Caracol
-http://bgtv.xyz/play/play-500.php?tlat=59&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=59&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",ATV
-http://bgtv.xyz/play/play-500.php?tlat=61&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=61&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="USA",Univision Miami
-http://bgtv.xyz/play/play-500.php?tlat=62&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=62&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Unicable
-http://bgtv.xyz/play/play-500.php?tlat=63&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=63&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Unimas
-http://bgtv.xyz/play/play-500.php?tlat=64&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=64&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="LOCALES",Imagen TV
-http://bgtv.xyz/play/play-500.php?tlat=65&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=65&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INFORMACIÓN",CNN ESPAÑOL
-http://bgtv.xyz/play/play-500.php?tlat=66&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=66&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INFORMACIÓN",RT
-http://bgtv.xyz/play/play-500.php?tlat=67&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=67&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Canal Sony FHD
-http://bgtv.xyz/play/play-500.php?tlat=68&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=68&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",FX
-http://bgtv.xyz/play/play-500.php?tlat=70&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=70&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",Don Gato y su pandilla 24/7
-http://bgtv.xyz/play/play-500.php?tlat=71&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=71&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Fox Deportes
-http://bgtv.xyz/play/play-500.php?tlat=72&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=72&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",Golden Plus
-http://bgtv.xyz/play/play-500.php?tlat=73&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=73&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",Golden Edge
-http://bgtv.xyz/play/play-500.php?tlat=74&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=74&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="PREMIUM",Golden Premier
-http://bgtv.xyz/play/play-500.php?tlat=75&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=75&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TNT SERIES
-http://bgtv.xyz/play/play-500.php?tlat=76&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=76&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Canal Sony
-http://bgtv.xyz/play/play-500.php?tlat=77&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=77&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
-http://bgtv.xyz/play/play-500.php?tlat=78&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=78&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Universal Channel
-http://bgtv.xyz/play/play-500.php?tlat=79&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=79&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",Studio Universal
-http://bgtv.xyz/play/play-500.php?tlat=80&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=80&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",Multipremier
-http://bgtv.xyz/play/play-500.php?tlat=81&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=81&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",AMC
-http://bgtv.xyz/play/play-500.php?tlat=82&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=82&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",Paramount Channel
-http://bgtv.xyz/play/play-500.php?tlat=83&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=83&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",Cine Latino
-http://bgtv.xyz/play/play-500.php?tlat=84&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=84&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",Dpelicula Plus
-http://bgtv.xyz/play/play-500.php?tlat=85&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=85&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",MTV
-http://bgtv.xyz/play/play-500.php?tlat=87&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=87&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="MUSICA",MTV Hits
-http://bgtv.xyz/play/play-500.php?tlat=88&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=88&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="MUSICA",HTV
-http://bgtv.xyz/play/play-500.php?tlat=89&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=89&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="MUSICA",Bandamax
-http://bgtv.xyz/play/play-500.php?tlat=90&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=90&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Comedy Central
-http://bgtv.xyz/play/play-500.php?tlat=91&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=91&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CONOCIMIENTO",Nat Geo
-http://bgtv.xyz/play/play-500.php?tlat=92&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=92&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",Mi bella Genio 24/7
-http://bgtv.xyz/play/play-500.php?tlat=93&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=93&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CONOCIMIENTO",Animal Planet
-http://bgtv.xyz/play/play-500.php?tlat=94&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=94&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CONOCIMIENTO",Discovery Channel
-http://bgtv.xyz/play/play-500.php?tlat=95&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=95&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CONOCIMIENTO",Discovery Turbo
-http://bgtv.xyz/play/play-500.php?tlat=96&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=96&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Discovery HYH
-http://bgtv.xyz/play/play-500.php?tlat=97&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=97&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",ID Investigation
-http://bgtv.xyz/play/play-500.php?tlat=98&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=98&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
-http://bgtv.xyz/play/play-500.php?tlat=99&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=99&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Discovery TLC
-http://bgtv.xyz/play/play-500.php?tlat=100&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=100&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CONOCIMIENTO",Discovery Theater
-http://bgtv.xyz/play/play-500.php?tlat=101&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=101&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CONOCIMIENTO",Discovery World
-http://bgtv.xyz/play/play-500.php?tlat=102&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=102&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",E!
-http://bgtv.xyz/play/play-500.php?tlat=103&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=103&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Lifetime
-http://bgtv.xyz/play/play-500.php?tlat=104&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=104&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",El Gourmet
-http://bgtv.xyz/play/play-500.php?tlat=106&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=106&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",DHE
-http://bgtv.xyz/play/play-500.php?tlat=107&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=107&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",La Familia Peluche 24/7
-http://bgtv.xyz/play/play-500.php?tlat=108&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=108&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="KIDS",Disney Junior
-http://bgtv.xyz/play/play-500.php?tlat=109&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=109&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="KIDS",Nick
-http://bgtv.xyz/play/play-500.php?tlat=110&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=110&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="LOCALES",Azteca Uno (-1)
-http://bgtv.xyz/play/play-500.php?tlat=111&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=111&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="KIDS",Nick Jr
-http://bgtv.xyz/play/play-500.php?tlat=112&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=112&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",El Chapulin Colorado 24/7
-http://bgtv.xyz/play/play-500.php?tlat=113&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=113&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="KIDS",Cartoon Network
-http://bgtv.xyz/play/play-500.php?tlat=114&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=114&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="KIDS",Cartoonito
-http://bgtv.xyz/play/play-500.php?tlat=115&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=115&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="KIDS",Tooncast
-http://bgtv.xyz/play/play-500.php?tlat=116&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=116&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="KIDS",Discovery Kids
-http://bgtv.xyz/play/play-500.php?tlat=117&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=117&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Telemundo Puerto Rico
-http://bgtv.xyz/play/play-500.php?tlat=118&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=118&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CASTELLANO",Boing
-http://bgtv.xyz/play/play-500.php?tlat=119&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=119&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="LOCALES",NU9VE
-http://bgtv.xyz/play/play-500.php?tlat=120&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=120&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="MUSICA",MTV 00s
-http://bgtv.xyz/play/play-500.php?tlat=121&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=121&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Corazon
-http://bgtv.xyz/play/play-500.php?tlat=122&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=122&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="MUSICA",Top Latino
-http://bgtv.xyz/play/play-500.php?tlat=123&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=123&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Usa: NBA
-http://bgtv.xyz/play/play-500.php?tlat=125&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=125&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Clic
-http://bgtv.xyz/play/play-500.php?tlat=127&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=127&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",Alf 24/7
-http://bgtv.xyz/play/play-500.php?tlat=128&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=128&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",Digimon 24/7
-http://bgtv.xyz/play/play-500.php?tlat=129&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=129&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",A3Series
-http://bgtv.xyz/play/play-500.php?tlat=130&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=130&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="KIDS",Bit Me
-http://bgtv.xyz/play/play-500.php?tlat=131&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=131&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="LOCALES",Once TV
-http://bgtv.xyz/play/play-500.php?tlat=132&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=132&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Usa: MLB
-http://bgtv.xyz/play/play-500.php?tlat=134&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=134&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Universo
-http://bgtv.xyz/play/play-500.php?tlat=136&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=136&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Espn 5 CL FHD
-http://bgtv.xyz/play/play-500.php?tlat=137&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=137&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CONOCIMIENTO",Discovery Science
-http://bgtv.xyz/play/play-500.php?tlat=139&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=139&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Gol TV FHD
-http://bgtv.xyz/play/play-500.php?tlat=142&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=142&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INFORMACIÓN",CNN ESPAÑOL FHD
-http://bgtv.xyz/play/play-500.php?tlat=143&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=143&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",South Park 24/7
-http://bgtv.xyz/play/play-500.php?tlat=146&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=146&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Espn 2 CL FHD
-http://bgtv.xyz/play/play-500.php?tlat=148&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=148&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="KIDS",NICK FHD
-http://bgtv.xyz/play/play-500.php?tlat=149&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=149&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",Chavo 24/7
-http://bgtv.xyz/play/play-500.php?tlat=150&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=150&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",NFL Network
-http://bgtv.xyz/play/play-500.php?tlat=151&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=151&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",TCM
-http://bgtv.xyz/play/play-500.php?tlat=152&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=152&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Willax TV
-http://bgtv.xyz/play/play-500.php?tlat=153&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=153&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="MUSICA",REVOLT MUSIC
-http://bgtv.xyz/play/play-500.php?tlat=154&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=154&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",AMC FHD
-http://bgtv.xyz/play/play-500.php?tlat=155&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=155&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",TNT SPORTS FHD
-http://bgtv.xyz/play/play-500.php?tlat=156&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=156&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Fox Sports Premium FHD
-http://bgtv.xyz/play/play-500.php?tlat=157&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=157&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Espn Sur FHD
-http://bgtv.xyz/play/play-500.php?tlat=158&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=158&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Espn 4 CL FHD
-http://bgtv.xyz/play/play-500.php?tlat=159&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=159&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES FHD
-http://bgtv.xyz/play/play-500.php?tlat=161&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=161&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",Golden FHD
-http://bgtv.xyz/play/play-500.php?tlat=162&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=162&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",Cinecanal FHD
-http://bgtv.xyz/play/play-500.php?tlat=163&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=163&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Fox News
-http://bgtv.xyz/play/play-500.php?tlat=164&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=164&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",ESPN Premium FHD
-http://bgtv.xyz/play/play-500.php?tlat=165&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=165&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",Futurama 24/7
-http://bgtv.xyz/play/play-500.php?tlat=166&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=166&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Espn 5
-http://bgtv.xyz/play/play-500.php?tlat=167&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=167&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",NFL FHD
-http://bgtv.xyz/play/play-500.php?tlat=171&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=171&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",TNT FHD
-http://bgtv.xyz/play/play-500.php?tlat=172&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=172&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Espn 3 FHD
-http://bgtv.xyz/play/play-500.php?tlat=174&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=174&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",USA FHD
-http://bgtv.xyz/play/play-500.php?tlat=176&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=176&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Fox Sports AR FHD
-http://bgtv.xyz/play/play-500.php?tlat=177&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=177&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Tigo Sports Bolivia
-http://bgtv.xyz/play/play-500.php?tlat=178&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=178&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="USA",Unimas Miami
-http://bgtv.xyz/play/play-500.php?tlat=179&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=179&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="USA",Usa: Fox San Francisco
-http://bgtv.xyz/play/play-500.php?tlat=180&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=180&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Next TV Paraguay
-http://bgtv.xyz/play/play-500.php?tlat=181&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=181&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 3 Mexico FHD
-http://bgtv.xyz/play/play-500.php?tlat=182&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=182&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CASTELLANO",BOING FHD
-http://bgtv.xyz/play/play-500.php?tlat=183&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=183&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Canal 26
-http://bgtv.xyz/play/play-500.php?tlat=184&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=184&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Canal 26 FHD
-http://bgtv.xyz/play/play-500.php?tlat=186&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=186&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",RCN Novelas
-http://bgtv.xyz/play/play-500.php?tlat=190&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=190&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",Dragon Ball Super 24/7
-http://bgtv.xyz/play/play-500.php?tlat=191&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=191&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 2 AR FHD
-http://bgtv.xyz/play/play-500.php?tlat=192&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=192&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",RCN
-http://bgtv.xyz/play/play-500.php?tlat=193&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=193&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Movistar Deportes
-http://bgtv.xyz/play/play-500.php?tlat=194&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=194&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Universal TV FHD
-http://bgtv.xyz/play/play-500.php?tlat=195&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=195&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",Terror 24/7
-http://bgtv.xyz/play/play-500.php?tlat=196&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=196&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Canal N
-http://bgtv.xyz/play/play-500.php?tlat=197&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=197&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Corazon
-http://bgtv.xyz/play/play-500.php?tlat=198&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=198&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",DAZN F1
-http://bgtv.xyz/play/play-500.php?tlat=199&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=199&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",Golden
-http://bgtv.xyz/play/play-500.php?tlat=202&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=202&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Arg: America TV
-http://bgtv.xyz/play/play-500.php?tlat=274&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=274&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",EC: RTS
-http://bgtv.xyz/play/play-500.php?tlat=313&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=313&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",EC: Tele Amazonas
-http://bgtv.xyz/play/play-500.php?tlat=314&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=314&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",WWE Network
-http://bgtv.xyz/play/play-500.php?tlat=315&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=315&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",EC: TC
-http://bgtv.xyz/play/play-500.php?tlat=316&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=316&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",EC: RTU
-http://bgtv.xyz/play/play-500.php?tlat=318&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=318&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",Extrema TV
-http://bgtv.xyz/play/play-500.php?tlat=319&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=319&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",Los Simpson 24/7
-http://bgtv.xyz/play/play-500.php?tlat=329&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=329&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="MUSICA",Nick Music
-http://bgtv.xyz/play/play-500.php?tlat=331&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=331&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Warner
-http://bgtv.xyz/play/play-500.php?tlat=341&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=341&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",RCN MAS
-http://bgtv.xyz/play/play-500.php?tlat=351&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=351&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",BEIN SPORTS EXTRA FHD
-http://bgtv.xyz/play/play-500.php?tlat=352&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=352&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="KIDS",Disney Channel
-http://bgtv.xyz/play/play-500.php?tlat=353&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=353&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",Ben 10 24/7
-http://bgtv.xyz/play/play-500.php?tlat=354&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=354&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",Chespirito 24/7
-http://bgtv.xyz/play/play-500.php?tlat=355&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=355&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",Dinosaurios 24/7
-http://bgtv.xyz/play/play-500.php?tlat=356&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=356&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",Coyote Y Corre Caminos 24/7
-http://bgtv.xyz/play/play-500.php?tlat=357&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=357&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",El Principe del rap 24/7
-http://bgtv.xyz/play/play-500.php?tlat=358&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=358&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CASTELLANO",ES: Barca TV
-http://bgtv.xyz/play/play-500.php?tlat=360&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=360&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="PREMIUM",Universal Reality FHD
-http://bgtv.xyz/play/play-500.php?tlat=363&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=363&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Fox Sports Premium
-http://bgtv.xyz/play/play-500.php?tlat=364&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=364&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Liga 1 Max
-http://bgtv.xyz/play/play-500.php?tlat=367&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=367&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",Dpelicula
-http://bgtv.xyz/play/play-500.php?tlat=370&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=370&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="PREMIUM",Universal Premier
-http://bgtv.xyz/play/play-500.php?tlat=371&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=371&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="PREMIUM",Universal Cinema
-http://bgtv.xyz/play/play-500.php?tlat=372&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=372&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS FHD
-http://bgtv.xyz/play/play-500.php?tlat=256&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=256&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY FAMILIA
-http://bgtv.xyz/play/play-500.php?tlat=262&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=262&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",TNT SPORTS
-http://bgtv.xyz/play/play-500.php?tlat=35&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=35&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Pe: Exitosa FHD
-http://bgtv.xyz/play/play-500.php?tlat=147&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=147&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",DAZN LA LIGA
-http://bgtv.xyz/play/play-500.php?tlat=361&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=361&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Canal 9
-http://bgtv.xyz/play/play-500.php?tlat=276&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=276&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Todo Noticias
-http://bgtv.xyz/play/play-500.php?tlat=278&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=278&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Television publica
-http://bgtv.xyz/play/play-500.php?tlat=320&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=320&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Telemax
-http://bgtv.xyz/play/play-500.php?tlat=160&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=160&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="USA",NBC News
-http://bgtv.xyz/play/play-500.php?tlat=288&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=288&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Mas Chic
-http://bgtv.xyz/play/play-500.php?tlat=374&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=374&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CASTELLANO",DMAX
-http://bgtv.xyz/play/play-500.php?tlat=303&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=303&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INFORMACIÓN",RT Español
-http://bgtv.xyz/play/play-500.php?tlat=302&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=302&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",DW Español
-http://bgtv.xyz/play/play-500.php?tlat=170&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=170&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",ESPN 5
-http://bgtv.xyz/play/play-500.php?tlat=377&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=377&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",Ecuavisa
-http://bgtv.xyz/play/play-500.php?tlat=378&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=378&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",ATV MAS
-http://bgtv.xyz/play/play-500.php?tlat=380&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=380&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="INTERNACIONAL",TV PERU
-http://bgtv.xyz/play/play-500.php?tlat=381&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=381&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="LOCALES",ADN 40
-http://bgtv.xyz/play/play-500.php?tlat=382&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=382&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="KIDS",Baby TV
-http://bgtv.xyz/play/play-500.php?tlat=386&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=386&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="MUSICA",Music Top
-http://bgtv.xyz/play/play-500.php?tlat=387&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=387&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="MUSICA",Retro Music TV
-http://bgtv.xyz/play/play-500.php?tlat=388&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=388&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",HGTV
-http://bgtv.xyz/play/play-500.php?tlat=390&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=390&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="CINE",Film & Arts
-http://bgtv.xyz/play/play-500.php?tlat=219&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=219&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Food Network
-http://bgtv.xyz/play/play-500.php?tlat=187&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=187&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="USA",Miami TV
-http://bgtv.xyz/play/play-500.php?tlat=391&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=391&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="24/7",Alerta Aeropuerto 24/7
-http://bgtv.xyz/play/play-500.php?tlat=347&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=347&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Claro Sports FHD
-http://bgtv.xyz/play/play-500.php?tlat=294&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=294&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",DAZN 1
-http://bgtv.xyz/play/play-500.php?tlat=275&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=275&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Win sports Plus
-http://bgtv.xyz/play/play-500.php?tlat=344&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=344&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Telemundo Puerto Rico FHD
-http://bgtv.xyz/play/play-500.php?tlat=188&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=188&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Telemundo Internacional
-http://bgtv.xyz/play/play-500.php?tlat=345&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=345&token=asdasdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
 #EXTINF:-1 group-title="DEPORTES",Tigo sports
-http://bgtv.xyz/play/play-500.php?tlat=346&token=asdasdasdasdasdasdasdasd
+http://bgtv.xyz/play/play-500.php?tlat=346&token=asdasdasdfasdf
 
 
 #EXTINF:-1 group-title="24/7", 24/7 Accion 2022 (e)(1080)
@@ -5993,7 +5997,7 @@ http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1911.m3u8
 #EXTINF:-1 group-title="PREMIUM", HBO Signature (X)(720)
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1909.m3u8
 #EXTINF:-1 group-title="PREMIUM", HBO Signature (M)(720)
-https://bgtv.xyz/play/PREMIUM-500.php?token=asdasdasdasdasdasdasdasd&20=52879.m3u8
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/52879.m3u8
 #EXTINF:-1 group-title="PREMIUM", HBO Signature Dual Audio (L)(720)
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/53240.m3u8
 #EXTINF:-1 group-title="PREMIUM", HBO Xtreme (M)(1080)
