@@ -7531,9 +7531,9 @@ http://177.53.153.20:8001/play/a02b/index.m3u8
 http://177.53.153.20:8001/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01x.png" group-title="DEPORTES", TNT SPORTS PREMIUM HD
 http://177.53.153.20:8001/play/a01x/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02y.png" group-title="", TNT Series HD
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02y.png" group-title="ENTRETENIMIENTO", TNT Series HD
 http://177.53.153.20:8001/play/a02y/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0c2.png" group-title="", Adult Swim HD
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0c2.png" group-title="ENTRETENIMIENTO", Adult Swim HD
 http://177.53.153.20:8001/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0ij.png" group-title="INTERNACIONAL", TV PERU TRANSCODING
 http://177.53.153.20:8001/play/a0ij/index.m3u8
