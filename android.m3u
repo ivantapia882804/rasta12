@@ -236,7 +236,7 @@ http://181.78.105.146:2000/play/a08m/index.m3u8
 http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="INFORMACIÓN", TN23
 http://181.78.105.146:2000/play/a08g/index.m3u8
-#EXTINF:-1 tvg-shift="0"  group-title="LOCALES", Azteca Uno
+#EXTINF:-1 tvg-shift="0" tvg-name="TUDNM" group-title="DEPORTES", TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO", UNICABLE
 http://181.78.105.146:2000/play/a08f/index.m3u8
@@ -4059,923 +4059,923 @@ http://177.53.153.20:8001/play/a0db/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",Azteca 7
-http://bgtv.xyz/play/play-557.php?tlat=1&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=1&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",Canal 5
-http://bgtv.xyz/play/play-557.php?tlat=2&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=2&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",TUDN
-http://bgtv.xyz/play/play-557.php?tlat=3&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=3&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Latina
-http://bgtv.xyz/play/play-557.php?tlat=4&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=4&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",America TV
-http://bgtv.xyz/play/play-557.php?tlat=5&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=5&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Gol Perú
-http://bgtv.xyz/play/play-557.php?tlat=6&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=6&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Gol TV
-http://bgtv.xyz/play/play-557.php?tlat=7&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=7&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",TNT SPORTS
-http://bgtv.xyz/play/play-557.php?tlat=9&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=9&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn Premium
-http://bgtv.xyz/play/play-557.php?tlat=10&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=10&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",TYC SPORTS
-http://bgtv.xyz/play/play-557.php?tlat=11&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=11&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS ARG
-http://bgtv.xyz/play/play-557.php?tlat=12&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=12&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 2 ARG
-http://bgtv.xyz/play/play-557.php?tlat=13&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=13&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 3 ARG
-http://bgtv.xyz/play/play-557.php?tlat=14&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=14&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn Deportes
-http://bgtv.xyz/play/play-557.php?tlat=15&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=15&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 4
-http://bgtv.xyz/play/play-557.php?tlat=16&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=16&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn Sur
-http://bgtv.xyz/play/play-557.php?tlat=17&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=17&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 2 Sur
-http://bgtv.xyz/play/play-557.php?tlat=18&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=18&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 3 Sur
-http://bgtv.xyz/play/play-557.php?tlat=19&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=19&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Directv Sports
-http://bgtv.xyz/play/play-557.php?tlat=20&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=20&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Directv Sports 2
-http://bgtv.xyz/play/play-557.php?tlat=21&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=21&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Directv Sports Plus
-http://bgtv.xyz/play/play-557.php?tlat=22&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=22&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Bein La Liga
-http://bgtv.xyz/play/play-557.php?tlat=23&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=23&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports Mexico
-http://bgtv.xyz/play/play-557.php?tlat=24&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=24&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 2 Mexico
-http://bgtv.xyz/play/play-557.php?tlat=25&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=25&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 3 Mexico
-http://bgtv.xyz/play/play-557.php?tlat=26&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=26&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn Mexico
-http://bgtv.xyz/play/play-557.php?tlat=27&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=27&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 2 Mexico
-http://bgtv.xyz/play/play-557.php?tlat=28&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=28&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 3 Mexico
-http://bgtv.xyz/play/play-557.php?tlat=29&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=29&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="PREMIUM",HBO
-http://bgtv.xyz/play/play-557.php?tlat=31&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=31&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="PREMIUM",HBO 2
-http://bgtv.xyz/play/play-557.php?tlat=32&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=32&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Liga 1
-http://bgtv.xyz/play/play-557.php?tlat=33&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=33&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Liga 1 FHD
-http://bgtv.xyz/play/play-557.php?tlat=34&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=34&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Directv Sports Fight
-http://bgtv.xyz/play/play-557.php?tlat=36&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=36&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Peliculas de Accion
-http://bgtv.xyz/play/play-557.php?tlat=38&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=38&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",SPACE
-http://bgtv.xyz/play/play-557.php?tlat=39&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=39&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",MX: Warner Bros TV
-http://bgtv.xyz/play/play-557.php?tlat=40&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=40&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",TNT
-http://bgtv.xyz/play/play-557.php?tlat=41&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=41&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Star Channel
-http://bgtv.xyz/play/play-557.php?tlat=42&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=42&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Cinemax
-http://bgtv.xyz/play/play-557.php?tlat=43&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=43&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Cinecanal
-http://bgtv.xyz/play/play-557.php?tlat=44&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=44&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Telefe
-http://bgtv.xyz/play/play-557.php?tlat=45&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=45&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",El Trece
-http://bgtv.xyz/play/play-557.php?tlat=46&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=46&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Distrito Comedia
-http://bgtv.xyz/play/play-557.php?tlat=47&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=47&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="USA",Telemundo Miami
-http://bgtv.xyz/play/play-557.php?tlat=48&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=48&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",History
-http://bgtv.xyz/play/play-557.php?tlat=49&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=49&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",History 2
-http://bgtv.xyz/play/play-557.php?tlat=50&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=50&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Pasiones
-http://bgtv.xyz/play/play-557.php?tlat=51&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=51&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",Azteca Uno (-1)
-http://bgtv.xyz/play/play-557.php?tlat=52&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=52&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Azteca Internacional
-http://bgtv.xyz/play/play-557.php?tlat=53&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=53&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Cinema
-http://bgtv.xyz/play/play-557.php?tlat=54&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=54&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Galavision
-http://bgtv.xyz/play/play-557.php?tlat=55&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=55&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Tlnovelas
-http://bgtv.xyz/play/play-557.php?tlat=56&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=56&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",Las Estrellas (no peliculas)
-http://bgtv.xyz/play/play-557.php?tlat=57&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=57&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",USA
-http://bgtv.xyz/play/play-557.php?tlat=58&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=58&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Caracol
-http://bgtv.xyz/play/play-557.php?tlat=59&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=59&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",ATV
-http://bgtv.xyz/play/play-557.php?tlat=61&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=61&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="USA",Univision Miami
-http://bgtv.xyz/play/play-557.php?tlat=62&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=62&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Unicable
-http://bgtv.xyz/play/play-557.php?tlat=63&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=63&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Unimas
-http://bgtv.xyz/play/play-557.php?tlat=64&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=64&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",Imagen TV
-http://bgtv.xyz/play/play-557.php?tlat=65&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=65&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INFORMACIÓN",CNN ESPAÑOL
-http://bgtv.xyz/play/play-557.php?tlat=66&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=66&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INFORMACIÓN",RT
-http://bgtv.xyz/play/play-557.php?tlat=67&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=67&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Canal Sony FHD
-http://bgtv.xyz/play/play-557.php?tlat=68&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=68&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",FX
-http://bgtv.xyz/play/play-557.php?tlat=70&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=70&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Don Gato y su pandilla 24/7
-http://bgtv.xyz/play/play-557.php?tlat=71&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=71&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Deportes
-http://bgtv.xyz/play/play-557.php?tlat=72&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=72&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Golden Plus
-http://bgtv.xyz/play/play-557.php?tlat=73&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=73&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Golden Edge
-http://bgtv.xyz/play/play-557.php?tlat=74&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=74&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="PREMIUM",Golden Premier
-http://bgtv.xyz/play/play-557.php?tlat=75&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=75&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TNT SERIES
-http://bgtv.xyz/play/play-557.php?tlat=76&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=76&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Canal Sony
-http://bgtv.xyz/play/play-557.php?tlat=77&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=77&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
-http://bgtv.xyz/play/play-557.php?tlat=78&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=78&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Universal Channel
-http://bgtv.xyz/play/play-557.php?tlat=79&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=79&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Studio Universal
-http://bgtv.xyz/play/play-557.php?tlat=80&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=80&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Multipremier
-http://bgtv.xyz/play/play-557.php?tlat=81&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=81&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",AMC
-http://bgtv.xyz/play/play-557.php?tlat=82&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=82&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Paramount Channel
-http://bgtv.xyz/play/play-557.php?tlat=83&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=83&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Cine Latino
-http://bgtv.xyz/play/play-557.php?tlat=84&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=84&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Dpelicula Plus
-http://bgtv.xyz/play/play-557.php?tlat=85&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=85&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",MTV
-http://bgtv.xyz/play/play-557.php?tlat=87&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=87&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",MTV Hits
-http://bgtv.xyz/play/play-557.php?tlat=88&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=88&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",HTV
-http://bgtv.xyz/play/play-557.php?tlat=89&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=89&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",Bandamax
-http://bgtv.xyz/play/play-557.php?tlat=90&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=90&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Comedy Central
-http://bgtv.xyz/play/play-557.php?tlat=91&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=91&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",Nat Geo
-http://bgtv.xyz/play/play-557.php?tlat=92&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=92&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Mi bella Genio 24/7
-http://bgtv.xyz/play/play-557.php?tlat=93&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=93&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",Animal Planet
-http://bgtv.xyz/play/play-557.php?tlat=94&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=94&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",Discovery Channel
-http://bgtv.xyz/play/play-557.php?tlat=95&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=95&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",Discovery Turbo
-http://bgtv.xyz/play/play-557.php?tlat=96&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=96&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Discovery HYH
-http://bgtv.xyz/play/play-557.php?tlat=97&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=97&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",ID Investigation
-http://bgtv.xyz/play/play-557.php?tlat=98&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=98&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
-http://bgtv.xyz/play/play-557.php?tlat=99&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=99&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Discovery TLC
-http://bgtv.xyz/play/play-557.php?tlat=100&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=100&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",Discovery Theater
-http://bgtv.xyz/play/play-557.php?tlat=101&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=101&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",Discovery World
-http://bgtv.xyz/play/play-557.php?tlat=102&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=102&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",E!
-http://bgtv.xyz/play/play-557.php?tlat=103&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=103&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Lifetime
-http://bgtv.xyz/play/play-557.php?tlat=104&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=104&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",El Gourmet
-http://bgtv.xyz/play/play-557.php?tlat=106&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=106&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",DHE
-http://bgtv.xyz/play/play-557.php?tlat=107&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=107&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",La Familia Peluche 24/7
-http://bgtv.xyz/play/play-557.php?tlat=108&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=108&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Disney Junior
-http://bgtv.xyz/play/play-557.php?tlat=109&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=109&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Nick
-http://bgtv.xyz/play/play-557.php?tlat=110&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=110&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",Azteca Uno (-1)
-http://bgtv.xyz/play/play-557.php?tlat=111&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=111&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Nick Jr
-http://bgtv.xyz/play/play-557.php?tlat=112&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=112&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",El Chapulin Colorado 24/7
-http://bgtv.xyz/play/play-557.php?tlat=113&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=113&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Cartoon Network
-http://bgtv.xyz/play/play-557.php?tlat=114&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=114&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Cartoonito
-http://bgtv.xyz/play/play-557.php?tlat=115&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=115&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Tooncast
-http://bgtv.xyz/play/play-557.php?tlat=116&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=116&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Discovery Kids
-http://bgtv.xyz/play/play-557.php?tlat=117&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=117&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Telemundo Puerto Rico
-http://bgtv.xyz/play/play-557.php?tlat=118&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=118&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CASTELLANO",Boing
-http://bgtv.xyz/play/play-557.php?tlat=119&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=119&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",NU9VE
-http://bgtv.xyz/play/play-557.php?tlat=120&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=120&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",MTV 00s
-http://bgtv.xyz/play/play-557.php?tlat=121&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=121&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Corazon
-http://bgtv.xyz/play/play-557.php?tlat=122&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=122&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",Top Latino
-http://bgtv.xyz/play/play-557.php?tlat=123&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=123&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Usa: NBA
-http://bgtv.xyz/play/play-557.php?tlat=125&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=125&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Clic
-http://bgtv.xyz/play/play-557.php?tlat=127&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=127&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Alf 24/7
-http://bgtv.xyz/play/play-557.php?tlat=128&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=128&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Digimon 24/7
-http://bgtv.xyz/play/play-557.php?tlat=129&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=129&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",A3Series
-http://bgtv.xyz/play/play-557.php?tlat=130&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=130&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Bit Me
-http://bgtv.xyz/play/play-557.php?tlat=131&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=131&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",Once TV
-http://bgtv.xyz/play/play-557.php?tlat=132&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=132&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Usa: MLB
-http://bgtv.xyz/play/play-557.php?tlat=134&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=134&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Universo
-http://bgtv.xyz/play/play-557.php?tlat=136&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=136&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 5 CL FHD
-http://bgtv.xyz/play/play-557.php?tlat=137&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=137&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",Discovery Science
-http://bgtv.xyz/play/play-557.php?tlat=139&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=139&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Gol TV FHD
-http://bgtv.xyz/play/play-557.php?tlat=142&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=142&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INFORMACIÓN",CNN ESPAÑOL FHD
-http://bgtv.xyz/play/play-557.php?tlat=143&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=143&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",South Park 24/7
-http://bgtv.xyz/play/play-557.php?tlat=146&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=146&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 2 CL FHD
-http://bgtv.xyz/play/play-557.php?tlat=148&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=148&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",NICK FHD
-http://bgtv.xyz/play/play-557.php?tlat=149&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=149&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Chavo 24/7
-http://bgtv.xyz/play/play-557.php?tlat=150&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=150&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",NFL Network
-http://bgtv.xyz/play/play-557.php?tlat=151&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=151&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",TCM
-http://bgtv.xyz/play/play-557.php?tlat=152&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=152&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Willax TV
-http://bgtv.xyz/play/play-557.php?tlat=153&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=153&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",REVOLT MUSIC
-http://bgtv.xyz/play/play-557.php?tlat=154&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=154&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",AMC FHD
-http://bgtv.xyz/play/play-557.php?tlat=155&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=155&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",TNT SPORTS FHD
-http://bgtv.xyz/play/play-557.php?tlat=156&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=156&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports Premium FHD
-http://bgtv.xyz/play/play-557.php?tlat=157&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=157&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn Sur FHD
-http://bgtv.xyz/play/play-557.php?tlat=158&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=158&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 4 CL FHD
-http://bgtv.xyz/play/play-557.php?tlat=159&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=159&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES FHD
-http://bgtv.xyz/play/play-557.php?tlat=161&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=161&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Golden FHD
-http://bgtv.xyz/play/play-557.php?tlat=162&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=162&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Cinecanal FHD
-http://bgtv.xyz/play/play-557.php?tlat=163&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=163&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Fox News
-http://bgtv.xyz/play/play-557.php?tlat=164&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=164&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",ESPN Premium FHD
-http://bgtv.xyz/play/play-557.php?tlat=165&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=165&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Futurama 24/7
-http://bgtv.xyz/play/play-557.php?tlat=166&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=166&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 5
-http://bgtv.xyz/play/play-557.php?tlat=167&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=167&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",NFL FHD
-http://bgtv.xyz/play/play-557.php?tlat=171&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=171&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",TNT FHD
-http://bgtv.xyz/play/play-557.php?tlat=172&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=172&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 3 FHD
-http://bgtv.xyz/play/play-557.php?tlat=174&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=174&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",USA FHD
-http://bgtv.xyz/play/play-557.php?tlat=176&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=176&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports AR FHD
-http://bgtv.xyz/play/play-557.php?tlat=177&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=177&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Tigo Sports Bolivia
-http://bgtv.xyz/play/play-557.php?tlat=178&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=178&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="USA",Unimas Miami
-http://bgtv.xyz/play/play-557.php?tlat=179&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=179&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="USA",Usa: Fox San Francisco
-http://bgtv.xyz/play/play-557.php?tlat=180&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=180&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Next TV Paraguay
-http://bgtv.xyz/play/play-557.php?tlat=181&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=181&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 3 Mexico FHD
-http://bgtv.xyz/play/play-557.php?tlat=182&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=182&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CASTELLANO",BOING FHD
-http://bgtv.xyz/play/play-557.php?tlat=183&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=183&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Canal 26
-http://bgtv.xyz/play/play-557.php?tlat=184&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=184&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Canal 26 FHD
-http://bgtv.xyz/play/play-557.php?tlat=186&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=186&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",RCN Novelas
-http://bgtv.xyz/play/play-557.php?tlat=190&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=190&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Dragon Ball Super 24/7
-http://bgtv.xyz/play/play-557.php?tlat=191&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=191&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 2 AR FHD
-http://bgtv.xyz/play/play-557.php?tlat=192&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=192&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",RCN
-http://bgtv.xyz/play/play-557.php?tlat=193&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=193&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Movistar Deportes
-http://bgtv.xyz/play/play-557.php?tlat=194&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=194&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Universal TV FHD
-http://bgtv.xyz/play/play-557.php?tlat=195&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=195&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Terror 24/7
-http://bgtv.xyz/play/play-557.php?tlat=196&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=196&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Canal N
-http://bgtv.xyz/play/play-557.php?tlat=197&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=197&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Corazon
-http://bgtv.xyz/play/play-557.php?tlat=198&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=198&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",DAZN F1
-http://bgtv.xyz/play/play-557.php?tlat=199&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=199&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Golden
-http://bgtv.xyz/play/play-557.php?tlat=202&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=202&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Arg: America TV
-http://bgtv.xyz/play/play-557.php?tlat=274&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=274&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",EC: RTS
-http://bgtv.xyz/play/play-557.php?tlat=313&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=313&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",EC: Tele Amazonas
-http://bgtv.xyz/play/play-557.php?tlat=314&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=314&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",WWE Network
-http://bgtv.xyz/play/play-557.php?tlat=315&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=315&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",EC: TC
-http://bgtv.xyz/play/play-557.php?tlat=316&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=316&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",EC: RTU
-http://bgtv.xyz/play/play-557.php?tlat=318&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=318&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Extrema TV
-http://bgtv.xyz/play/play-557.php?tlat=319&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=319&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Los Simpson 24/7
-http://bgtv.xyz/play/play-557.php?tlat=329&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=329&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",Nick Music
-http://bgtv.xyz/play/play-557.php?tlat=331&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=331&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Warner
-http://bgtv.xyz/play/play-557.php?tlat=341&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=341&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",RCN MAS
-http://bgtv.xyz/play/play-557.php?tlat=351&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=351&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",BEIN SPORTS EXTRA FHD
-http://bgtv.xyz/play/play-557.php?tlat=352&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=352&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Disney Channel
-http://bgtv.xyz/play/play-557.php?tlat=353&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=353&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Ben 10 24/7
-http://bgtv.xyz/play/play-557.php?tlat=354&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=354&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Chespirito 24/7
-http://bgtv.xyz/play/play-557.php?tlat=355&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=355&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Dinosaurios 24/7
-http://bgtv.xyz/play/play-557.php?tlat=356&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=356&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Coyote Y Corre Caminos 24/7
-http://bgtv.xyz/play/play-557.php?tlat=357&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=357&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",El Principe del rap 24/7
-http://bgtv.xyz/play/play-557.php?tlat=358&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=358&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CASTELLANO",ES: Barca TV
-http://bgtv.xyz/play/play-557.php?tlat=360&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=360&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="PREMIUM",Universal Reality FHD
-http://bgtv.xyz/play/play-557.php?tlat=363&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=363&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports Premium
-http://bgtv.xyz/play/play-557.php?tlat=364&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=364&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Liga 1 Max
-http://bgtv.xyz/play/play-557.php?tlat=367&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=367&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Dpelicula
-http://bgtv.xyz/play/play-557.php?tlat=370&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=370&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="PREMIUM",Universal Premier
-http://bgtv.xyz/play/play-557.php?tlat=371&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=371&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="PREMIUM",Universal Cinema
-http://bgtv.xyz/play/play-557.php?tlat=372&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=372&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS FHD
-http://bgtv.xyz/play/play-557.php?tlat=256&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=256&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY FAMILIA
-http://bgtv.xyz/play/play-557.php?tlat=262&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=262&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",TNT SPORTS
-http://bgtv.xyz/play/play-557.php?tlat=35&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=35&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Pe: Exitosa FHD
-http://bgtv.xyz/play/play-557.php?tlat=147&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=147&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",DAZN LA LIGA
-http://bgtv.xyz/play/play-557.php?tlat=361&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=361&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Canal 9
-http://bgtv.xyz/play/play-557.php?tlat=276&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=276&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Todo Noticias
-http://bgtv.xyz/play/play-557.php?tlat=278&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=278&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Television publica
-http://bgtv.xyz/play/play-557.php?tlat=320&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=320&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Telemax
-http://bgtv.xyz/play/play-557.php?tlat=160&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=160&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="USA",NBC News
-http://bgtv.xyz/play/play-557.php?tlat=288&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=288&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Mas Chic
-http://bgtv.xyz/play/play-557.php?tlat=374&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=374&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CASTELLANO",DMAX
-http://bgtv.xyz/play/play-557.php?tlat=303&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=303&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INFORMACIÓN",RT Español
-http://bgtv.xyz/play/play-557.php?tlat=302&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=302&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",DW Español
-http://bgtv.xyz/play/play-557.php?tlat=170&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=170&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",ESPN 5
-http://bgtv.xyz/play/play-557.php?tlat=377&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=377&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Ecuavisa
-http://bgtv.xyz/play/play-557.php?tlat=378&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=378&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",ATV MAS
-http://bgtv.xyz/play/play-557.php?tlat=380&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=380&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",TV PERU
-http://bgtv.xyz/play/play-557.php?tlat=381&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=381&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",ADN 40
-http://bgtv.xyz/play/play-557.php?tlat=382&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=382&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Baby TV
-http://bgtv.xyz/play/play-557.php?tlat=386&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=386&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",Music Top
-http://bgtv.xyz/play/play-557.php?tlat=387&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=387&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",Retro Music TV
-http://bgtv.xyz/play/play-557.php?tlat=388&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=388&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",HGTV
-http://bgtv.xyz/play/play-557.php?tlat=390&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=390&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Film & Arts
-http://bgtv.xyz/play/play-557.php?tlat=219&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=219&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Food Network
-http://bgtv.xyz/play/play-557.php?tlat=187&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=187&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="USA",Miami TV
-http://bgtv.xyz/play/play-557.php?tlat=391&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=391&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Alerta Aeropuerto 24/7
-http://bgtv.xyz/play/play-557.php?tlat=347&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=347&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Claro Sports FHD
-http://bgtv.xyz/play/play-557.php?tlat=294&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=294&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",DAZN 1
-http://bgtv.xyz/play/play-557.php?tlat=275&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=275&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Win sports Plus
-http://bgtv.xyz/play/play-557.php?tlat=344&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=344&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Telemundo Puerto Rico FHD
-http://bgtv.xyz/play/play-557.php?tlat=188&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=188&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Telemundo Internacional
-http://bgtv.xyz/play/play-557.php?tlat=345&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=345&token=hjgsdjhgd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Tigo sports
-http://bgtv.xyz/play/play-557.php?tlat=346&token=safasdgs
+http://bgtv.xyz/play/play-531.php?tlat=346&token=hjgsdjhgd
 
 
 #EXTINF:-1 group-title="24/7", 24/7 Accion 2022 (e)(1080)
