@@ -11,6 +11,10 @@ Agregación de servicio.
 7 Mayo 2024<br>
 Eliminación de Mi (Transco) y Lam (servicio obsoleto).<br>
 Recuperación de señales musicales.
+<br><br>
+1 Junio 2024<br>
+Eliminación de VPremium.<br>
+Reincorporaci&oacute;n de iGO en algunas señales (s&oacute;lo Android con OTT).
 </ul>
 </body>
 </html>
