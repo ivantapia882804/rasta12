@@ -14,7 +14,7 @@ http://181.78.105.146:2000/play/a00h/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  group-title="RECOMENDADOS", Canal 5
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd?ck=eyI1NzhmNzdjMmUwZmI3YjMxYjE2NzZiNzViNTdmZTkyMiI6IjZlNWVlMjY2YjExMmU1OGEwZTI3ZTQzODRiMDNlZDc2In0%3D
+http://181.78.105.146:2000/play/a038/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="RECOMENDADOS", Azteca 7
@@ -30,19 +30,19 @@ http://181.78.105.146:2000/play/a03n/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX Sports (Cono Norte México)" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="RECOMENDADOS",FOX SPORTS HD
-http://bgtv.xyz/play/play-566.php?tlat=24&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=24
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsport2.png" group-title="RECOMENDADOS",FOX SPORTS 2 HD
-http://bgtv.xyz/play/play-566.php?tlat=25&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=25
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="RECOMENDADOS",FOX SPORTS 3 HD
-http://bgtv.xyz/play/play-566.php?tlat=26&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=26
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="RECOMENDADOS", Fox Sports Premium MX op1
-http://bgtv.xyz/play/play-566.php?tlat=157&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=157
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"  group-title="RECOMENDADOS", TNT HD
@@ -73,10 +73,6 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="RECOMENDADOS", Telemundo Miami
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159383
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="Universo(Spanish).us" tvg-name="" group-title="RECOMENDADOS", Universo
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png"  group-title="RECOMENDADOS", ESPN Deportes
@@ -459,384 +455,8 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
 #EXTINF:-1 group-title="LOCALES",Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN",N+ Media
-https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN",N+ Noticieros
-https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN",The Weather Channel en Español
-https://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN",The Weather Channel en Español
-https://linear-453.frequency.stream/dist/vix/453/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN",CNN Replay
-https://linear-242.frequency.stream/dist/vix/242/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN",Noticias Univisión 24/7
-https://linear-254.frequency.stream/dist/vix/254/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN",Euronews Español
-https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN",CNN Resumen
-https://linear-358.frequency.stream/dist/vix/358/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN",ATV+
-https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN",TN23
-https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="LOCALES",Canal 5
-https://linear-351.frequency.stream/dist/vix/351/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="LOCALES",El Nu9ve
-https://linear-352.frequency.stream/dist/vix/352/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="LOCALES REGIONALES",Canal 4 Guadalajara
-https://linear-402.frequency.stream/dist/vix/402/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="LOCALES REGIONALES",Canal 4 Monterrey
-https://linear-403.frequency.stream/dist/vix/403/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LOCALES",Las Estrellas (SIN CORTES)
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 group-title="LOCALES",Las Estrellas
-https://linear-413.frequency.stream/dist/vix/413/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="LOCALES",Las Estrellas -1 Hora
-https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="LOCALES",Las Estrellas -2 Horas
-https://linear-415.frequency.stream/dist/vix/415/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL",VIVOplay
-https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL",Nuestra Visión
-https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",Distrito Comedia
-https://linear-405.frequency.stream/dist/vix/405/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",TLNovelas
-https://linear-421.frequency.stream/dist/vix/421/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",Unicable
-https://linear-423.frequency.stream/dist/vix/423/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",BitMe
-https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="CINE",De Pelicula
-https://linear-354.frequency.stream/dist/vix/354/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="CINE",De Pelicula Plus
-https://linear-404.frequency.stream/dist/vix/404/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="CINE",Golden
-https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="CINE",Golden Edge
-https://linear-407.frequency.stream/dist/vix/407/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="CINE",Golden Multiplex
-https://linear-409.frequency.stream/dist/vix/409/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="CINE",Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",TUDN
-https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Zona TUDN (México)
-https://linear-356.frequency.stream/dist/vix/356/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Zona TUDN (Estados Unidos)
-https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Adrenalina Sports Network
-https://linear-393.frequency.stream/dist/vix/393/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Tigo Sports Latino
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Bandamax
-https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Telehit
-https://linear-417.frequency.stream/dist/vix/417/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Telehit Música
-https://linear-418.frequency.stream/dist/vix/418/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Telehit Música Plus
-https://linear-419.frequency.stream/dist/vix/419/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",RCN+
-https://linear-287.frequency.stream/dist/vix/287/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Baby Shark TV
-https://linear-355.frequency.stream/dist/vix/355/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",MyTime Movie Network (México)
-https://linear-261.frequency.stream/dist/vix/261/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 1
-https://linear-360.frequency.stream/dist/vix/360/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 2
-https://linear-361.frequency.stream/dist/vix/361/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 3
-https://linear-362.frequency.stream/dist/vix/362/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 4
-https://linear-363.frequency.stream/dist/vix/363/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 5
-https://linear-364.frequency.stream/dist/vix/364/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 6
-https://linear-365.frequency.stream/dist/vix/365/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 7
-https://linear-366.frequency.stream/dist/vix/366/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 8
-https://linear-367.frequency.stream/dist/vix/367/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 9
-https://linear-368.frequency.stream/dist/vix/368/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 10
-https://linear-369.frequency.stream/dist/vix/369/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 11
-https://linear-370.frequency.stream/dist/vix/370/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 12
-https://linear-371.frequency.stream/dist/vix/371/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 13
-https://linear-372.frequency.stream/dist/vix/372/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 14
-https://linear-373.frequency.stream/dist/vix/373/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 15
-https://linear-374.frequency.stream/dist/vix/374/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 16
-https://linear-375.frequency.stream/dist/vix/375/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 17
-https://linear-376.frequency.stream/dist/vix/376/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 18
-https://linear-377.frequency.stream/dist/vix/377/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 19
-https://linear-378.frequency.stream/dist/vix/378/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 20
-https://linear-379.frequency.stream/dist/vix/379/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 21
-https://linear-438.frequency.stream/dist/vix/438/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 22
-https://linear-441.frequency.stream/dist/vix/441/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 23
-https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 31
-https://linear-380.frequency.stream/dist/vix/380/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 32
-https://linear-381.frequency.stream/dist/vix/381/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 33
-https://linear-383.frequency.stream/dist/vix/383/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 34
-https://linear-384.frequency.stream/dist/vix/384/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 35
-https://linear-385.frequency.stream/dist/vix/385/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 36
-https://linear-386.frequency.stream/dist/vix/386/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 37
-https://linear-440.frequency.stream/dist/vix/440/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX Deportes 38
-https://linear-442.frequency.stream/dist/vix/442/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX La Liga Contigo 1
-https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX La Liga Contigo 2
-https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX La Liga Contigo 3
-https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ViX La Liga Contigo 4
-https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Real Madrid TV
-https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",BeIN Sports Xtra Español
-https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",El Reino Infantil
-https://linear-524.frequency.stream/dist/vix/524/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Lo Mejor de Liga MX (México / Estados Unidos)
-https://linear-452.frequency.stream/dist/vix/452/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Lo Mejor de Liga MX
-https://linear-193.frequency.stream/dist/vix/193/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Lo Mejor de Liga MX (US)
-https://linear-569.frequency.stream/dist/vix/569/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Lo Mejor de Liga MX (MX)
-https://linear-570.frequency.stream/dist/vix/570/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Lo Mejor de Liga MX (MX)
-https://linear-581.frequency.stream/dist/vix/581/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",MLB
-https://linear-508.frequency.stream/dist/vix/508/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Red Bull TV (English; CC)
-https://linear-641.frequency.stream/dist/vix/641/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Red Bull TV (Español)
-https://linear-535.frequency.stream/dist/vix/535/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Cine Club
-https://linear-192.frequency.stream/dist/vix/192/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Cine Retro (US)
-https://linear-307.frequency.stream/dist/vix/307/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Cine de Oro (US)
-https://linear-308.frequency.stream/dist/vix/308/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Moovimex
-https://linear-309.frequency.stream/dist/vix/309/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Cine Club (US)
-https://linear-559.frequency.stream/dist/vix/559/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Cine Retro (MX)
-https://linear-562.frequency.stream/dist/vix/562/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Moovimex (Estados Unidos)
-https://linear-563.frequency.stream/dist/vix/563/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Moovimex (México)
-https://linear-564.frequency.stream/dist/vix/564/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Cine Club (MX)
-https://linear-567.frequency.stream/dist/vix/567/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",AFV Family
-https://linear-12.frequency.stream/dist/vix/12/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",AFV Español
-https://linear-46.frequency.stream/dist/vix/46/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",AFV TV
-https://linear-49.frequency.stream/dist/vix/49/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Novelas de Romance
-https://linear-194.frequency.stream/dist/vix/194/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Novelas en Familias
-https://linear-195.frequency.stream/dist/vix/195/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Novelas de Oro
-https://linear-196.frequency.stream/dist/vix/196/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",FailArmy+
-https://linear-295.frequency.stream/dist/vix/295/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Amores Verdaderos
-https://linear-305.frequency.stream/dist/vix/305/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",FailArmy International
-https://linear-198.frequency.stream/dist/vix/198/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Jajaja
-https://linear-310.frequency.stream/dist/vix/310/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",La Familia P. Luche
-https://linear-311.frequency.stream/dist/vix/311/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Risa Picante
-https://linear-312.frequency.stream/dist/vix/312/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Risas de Oro
-https://linear-313.frequency.stream/dist/vix/313/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Vecinos
-https://linear-314.frequency.stream/dist/vix/314/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Cuidado con el Ángel
-https://linear-316.frequency.stream/dist/vix/316/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Grandes Parejas
-https://linear-318.frequency.stream/dist/vix/318/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Angelique
-https://linear-321.frequency.stream/dist/vix/321/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Los Héroes del Norte
-https://linear-323.frequency.stream/dist/vix/323/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Galanes
-https://linear-325.frequency.stream/dist/vix/325/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Juana la Virgen
-https://linear-327.frequency.stream/dist/vix/327/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Las 3 Marías
-https://linear-328.frequency.stream/dist/vix/328/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Mi Gorda Bella
-https://linear-330.frequency.stream/dist/vix/330/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Rebelde
-https://linear-335.frequency.stream/dist/vix/335/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Sortilegio
-https://linear-337.frequency.stream/dist/vix/337/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Triunfo del Amor
-https://linear-338.frequency.stream/dist/vix/338/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Villanos de Novela
-https://linear-339.frequency.stream/dist/vix/339/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",40 y 20
-https://linear-340.frequency.stream/dist/vix/340/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Como Dice el Dicho
-https://linear-341.frequency.stream/dist/vix/341/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Teresa 2010
-https://linear-342.frequency.stream/dist/vix/342/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",La Promesa
-https://linear-343.frequency.stream/dist/vix/343/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",La Rosa de Guadalupe
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Novelas de Oro
-https://linear-429.frequency.stream/dist/vix/429/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Hasta Que el Dinero Nos Separe
-https://linear-447.frequency.stream/dist/vix/447/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",La Usurpadora
-https://linear-448.frequency.stream/dist/vix/448/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Una Familia de Diez
-https://linear-450.frequency.stream/dist/vix/450/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Nosotros los Guapos
-https://linear-451.frequency.stream/dist/vix/451/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",La Parodia
-https://linear-468.frequency.stream/dist/vix/468/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Top Gear
-https://linear-471.frequency.stream/dist/vix/471/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Amor Bravio
-https://linear-478.frequency.stream/dist/vix/478/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Guerra de Chistes
-https://linear-479.frequency.stream/dist/vix/479/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",La Fuerza del Destino
-https://linear-480.frequency.stream/dist/vix/480/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Lazos de Amor
-https://linear-481.frequency.stream/dist/vix/481/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Mi Corazón es Tuyo
-https://linear-482.frequency.stream/dist/vix/482/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Miembros al Aire
-https://linear-483.frequency.stream/dist/vix/483/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Just For Laughs Gags
-https://linear-509.frequency.stream/dist/vix/509/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Baywatch (Guardianes de la Bahía)
-https://linear-521.frequency.stream/dist/vix/521/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",COPS en Español
-https://linear-523.frequency.stream/dist/vix/523/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Novelas de Asia
-https://linear-531.frequency.stream/dist/vix/531/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",El Color de la Pasión
-https://linear-532.frequency.stream/dist/vix/532/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Galanes (MX)
-https://linear-557.frequency.stream/dist/vix/557/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Grandes Parejas
-https://linear-558.frequency.stream/dist/vix/558/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Jajaja
-https://linear-560.frequency.stream/dist/vix/560/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Novelas de Oro
-https://linear-561.frequency.stream/dist/vix/561/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Novelas de Romance
-https://linear-565.frequency.stream/dist/vix/565/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Novelas en Familia
-https://linear-566.frequency.stream/dist/vix/566/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Pongalo NovelaClub
-https://linear-568.frequency.stream/dist/vix/568/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",ViX Villanos de Novela
-https://linear-571.frequency.stream/dist/vix/571/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",100 Mexicanos Dijieron
-https://linear-573.frequency.stream/dist/vix/573/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Amor Real
-https://linear-574.frequency.stream/dist/vix/574/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",La Fea Más Bella
-https://linear-575.frequency.stream/dist/vix/575/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",La Que No Podía Amar
-https://linear-576.frequency.stream/dist/vix/576/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Lo Que la Vida Me Robó
-https://linear-577.frequency.stream/dist/vix/577/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Miamivelas
-https://linear-578.frequency.stream/dist/vix/578/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Una Familia Con Suerte
-https://linear-580.frequency.stream/dist/vix/580/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",MrBeast
-https://linear-647.frequency.stream/dist/vix/647/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Canal ViX (Estados Unidos)
-https://linear-604.frequency.stream/dist/vix/604/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Canal ViX (México)
-https://linear-605.frequency.stream/dist/vix/605/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Revry Latinx
-https://linear-142.frequency.stream/dist/vix/142/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",The Pet Collective
-https://linear-174.frequency.stream/dist/vix/174/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",People Are Awesome
-https://linear-175.frequency.stream/dist/vix/175/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",WeatherSpy
-https://linear-176.frequency.stream/dist/vix/176/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",People Are Awesome International
-https://linear-197.frequency.stream/dist/vix/197/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",WeatherSpy International
-https://linear-199.frequency.stream/dist/vix/199/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Cocina TV
-https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Sala de Emergencias
-https://linear-536.frequency.stream/dist/vix/536/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Tu Clío
-https://linear-659.frequency.stream/dist/vix/659/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Bob Ross Channel en Español
-https://linear-660.frequency.stream/dist/vix/660/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Nature Time
-https://linear-530.frequency.stream/dist/vix/530/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Loupe Art
-https://linear-144.frequency.stream/dist/vix/144/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Aquí y Ahora
-https://linear-306.frequency.stream/dist/vix/306/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Crónicas
-https://linear-315.frequency.stream/dist/vix/315/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",RCTV
-https://linear-334.frequency.stream/dist/vix/334/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Puro Amor
-https://linear-484.frequency.stream/dist/vix/484/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Siempre Teens
-https://linear-487.frequency.stream/dist/vix/487/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Vidas Históricas
-https://linear-526.frequency.stream/dist/vix/526/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Desde Venezuela
-https://linear-527.frequency.stream/dist/vix/527/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Amor y Palomitas
-https://linear-533.frequency.stream/dist/vix/533/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Red Bull Batalla
-https://linear-534.frequency.stream/dist/vix/534/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Talk Show
-https://linear-537.frequency.stream/dist/vix/537/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",¿Qué Pasa, USA?
-https://linear-579.frequency.stream/dist/vix/579/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Red Bull TV (English)
-https://linear-644.frequency.stream/dist/vix/644/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Red Bull TV (German)
-https://linear-582.frequency.stream/dist/vix/582/hls/master/playlist.m3u8
 
 
 ##EXTVLCOPT:network-caching=1000
@@ -7596,923 +7216,923 @@ http://177.53.153.20:8001/play/a0db/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",Azteca 7
-http://bgtv.xyz/play/play-566.php?tlat=1&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=1
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",Canal 5
-http://bgtv.xyz/play/play-566.php?tlat=2&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",TUDN
-http://bgtv.xyz/play/play-566.php?tlat=3&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Latina
-http://bgtv.xyz/play/play-566.php?tlat=4&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=4
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",America TV
-http://bgtv.xyz/play/play-566.php?tlat=5&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=5
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Gol Perú
-http://bgtv.xyz/play/play-566.php?tlat=6&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=6
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Gol TV
-http://bgtv.xyz/play/play-566.php?tlat=7&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=7
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",TNT SPORTS
-http://bgtv.xyz/play/play-566.php?tlat=9&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=9
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn Premium
-http://bgtv.xyz/play/play-566.php?tlat=10&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=10
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",TYC SPORTS
-http://bgtv.xyz/play/play-566.php?tlat=11&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=11
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS ARG
-http://bgtv.xyz/play/play-566.php?tlat=12&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=12
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 2 ARG
-http://bgtv.xyz/play/play-566.php?tlat=13&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=13
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 3 ARG
-http://bgtv.xyz/play/play-566.php?tlat=14&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=14
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn Deportes
-http://bgtv.xyz/play/play-566.php?tlat=15&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=15
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 4
-http://bgtv.xyz/play/play-566.php?tlat=16&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=16
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn Sur
-http://bgtv.xyz/play/play-566.php?tlat=17&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=17
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 2 Sur
-http://bgtv.xyz/play/play-566.php?tlat=18&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=18
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 3 Sur
-http://bgtv.xyz/play/play-566.php?tlat=19&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=19
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Directv Sports
-http://bgtv.xyz/play/play-566.php?tlat=20&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=20
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Directv Sports 2
-http://bgtv.xyz/play/play-566.php?tlat=21&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=21
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Directv Sports Plus
-http://bgtv.xyz/play/play-566.php?tlat=22&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=22
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Bein La Liga
-http://bgtv.xyz/play/play-566.php?tlat=23&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=23
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports Mexico
-http://bgtv.xyz/play/play-566.php?tlat=24&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=24
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 2 Mexico
-http://bgtv.xyz/play/play-566.php?tlat=25&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=25
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 3 Mexico
-http://bgtv.xyz/play/play-566.php?tlat=26&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=26
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn Mexico
-http://bgtv.xyz/play/play-566.php?tlat=27&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=27
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 2 Mexico
-http://bgtv.xyz/play/play-566.php?tlat=28&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=28
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 3 Mexico
-http://bgtv.xyz/play/play-566.php?tlat=29&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=29
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="PREMIUM",HBO
-http://bgtv.xyz/play/play-566.php?tlat=31&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=31
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="PREMIUM",HBO 2
-http://bgtv.xyz/play/play-566.php?tlat=32&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=32
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Liga 1
-http://bgtv.xyz/play/play-566.php?tlat=33&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=33
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Liga 1 FHD
-http://bgtv.xyz/play/play-566.php?tlat=34&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=34
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Directv Sports Fight
-http://bgtv.xyz/play/play-566.php?tlat=36&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=36
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Peliculas de Accion
-http://bgtv.xyz/play/play-566.php?tlat=38&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=38
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",SPACE
-http://bgtv.xyz/play/play-566.php?tlat=39&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=39
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",MX: Warner Bros TV
-http://bgtv.xyz/play/play-566.php?tlat=40&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=40
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",TNT
-http://bgtv.xyz/play/play-566.php?tlat=41&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=41
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Star Channel
-http://bgtv.xyz/play/play-566.php?tlat=42&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=42
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Cinemax
-http://bgtv.xyz/play/play-566.php?tlat=43&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=43
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Cinecanal
-http://bgtv.xyz/play/play-566.php?tlat=44&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=44
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Telefe
-http://bgtv.xyz/play/play-566.php?tlat=45&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=45
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",El Trece
-http://bgtv.xyz/play/play-566.php?tlat=46&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=46
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Distrito Comedia
-http://bgtv.xyz/play/play-566.php?tlat=47&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=47
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="USA",Telemundo Miami
-http://bgtv.xyz/play/play-566.php?tlat=48&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=48
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",History
-http://bgtv.xyz/play/play-566.php?tlat=49&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=49
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",History 2
-http://bgtv.xyz/play/play-566.php?tlat=50&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=50
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Pasiones
-http://bgtv.xyz/play/play-566.php?tlat=51&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=51
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",Azteca Uno (-1)
-http://bgtv.xyz/play/play-566.php?tlat=52&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=52
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Azteca Internacional
-http://bgtv.xyz/play/play-566.php?tlat=53&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=53
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Cinema
-http://bgtv.xyz/play/play-566.php?tlat=54&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=54
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Galavision
-http://bgtv.xyz/play/play-566.php?tlat=55&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=55
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Tlnovelas
-http://bgtv.xyz/play/play-566.php?tlat=56&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=56
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",Las Estrellas (no peliculas)
-http://bgtv.xyz/play/play-566.php?tlat=57&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=57
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",USA
-http://bgtv.xyz/play/play-566.php?tlat=58&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=58
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Caracol
-http://bgtv.xyz/play/play-566.php?tlat=59&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=59
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",ATV
-http://bgtv.xyz/play/play-566.php?tlat=61&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=61
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="USA",Univision Miami
-http://bgtv.xyz/play/play-566.php?tlat=62&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=62
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Unicable
-http://bgtv.xyz/play/play-566.php?tlat=63&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=63
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Unimas
-http://bgtv.xyz/play/play-566.php?tlat=64&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=64
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",Imagen TV
-http://bgtv.xyz/play/play-566.php?tlat=65&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=65
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INFORMACIÓN",CNN ESPAÑOL
-http://bgtv.xyz/play/play-566.php?tlat=66&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=66
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INFORMACIÓN",RT
-http://bgtv.xyz/play/play-566.php?tlat=67&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=67
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Canal Sony FHD
-http://bgtv.xyz/play/play-566.php?tlat=68&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=68
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",FX
-http://bgtv.xyz/play/play-566.php?tlat=70&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=70
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Don Gato y su pandilla 24/7
-http://bgtv.xyz/play/play-566.php?tlat=71&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=71
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Deportes
-http://bgtv.xyz/play/play-566.php?tlat=72&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=72
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Golden Plus
-http://bgtv.xyz/play/play-566.php?tlat=73&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=73
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Golden Edge
-http://bgtv.xyz/play/play-566.php?tlat=74&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=74
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="PREMIUM",Golden Premier
-http://bgtv.xyz/play/play-566.php?tlat=75&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=75
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TNT SERIES
-http://bgtv.xyz/play/play-566.php?tlat=76&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=76
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Canal Sony
-http://bgtv.xyz/play/play-566.php?tlat=77&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=77
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
-http://bgtv.xyz/play/play-566.php?tlat=78&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=78
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Universal Channel
-http://bgtv.xyz/play/play-566.php?tlat=79&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=79
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Studio Universal
-http://bgtv.xyz/play/play-566.php?tlat=80&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=80
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Multipremier
-http://bgtv.xyz/play/play-566.php?tlat=81&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=81
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",AMC
-http://bgtv.xyz/play/play-566.php?tlat=82&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=82
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Paramount Channel
-http://bgtv.xyz/play/play-566.php?tlat=83&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=83
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Cine Latino
-http://bgtv.xyz/play/play-566.php?tlat=84&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=84
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Dpelicula Plus
-http://bgtv.xyz/play/play-566.php?tlat=85&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=85
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",MTV
-http://bgtv.xyz/play/play-566.php?tlat=87&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=87
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",MTV Hits
-http://bgtv.xyz/play/play-566.php?tlat=88&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=88
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",HTV
-http://bgtv.xyz/play/play-566.php?tlat=89&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=89
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",Bandamax
-http://bgtv.xyz/play/play-566.php?tlat=90&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=90
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Comedy Central
-http://bgtv.xyz/play/play-566.php?tlat=91&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=91
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",Nat Geo
-http://bgtv.xyz/play/play-566.php?tlat=92&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=92
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Mi bella Genio 24/7
-http://bgtv.xyz/play/play-566.php?tlat=93&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=93
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",Animal Planet
-http://bgtv.xyz/play/play-566.php?tlat=94&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=94
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",Discovery Channel
-http://bgtv.xyz/play/play-566.php?tlat=95&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=95
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",Discovery Turbo
-http://bgtv.xyz/play/play-566.php?tlat=96&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=96
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Discovery HYH
-http://bgtv.xyz/play/play-566.php?tlat=97&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=97
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",ID Investigation
-http://bgtv.xyz/play/play-566.php?tlat=98&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=98
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
-http://bgtv.xyz/play/play-566.php?tlat=99&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=99
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Discovery TLC
-http://bgtv.xyz/play/play-566.php?tlat=100&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=100
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",Discovery Theater
-http://bgtv.xyz/play/play-566.php?tlat=101&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=101
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",Discovery World
-http://bgtv.xyz/play/play-566.php?tlat=102&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=102
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",E!
-http://bgtv.xyz/play/play-566.php?tlat=103&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=103
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Lifetime
-http://bgtv.xyz/play/play-566.php?tlat=104&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=104
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",El Gourmet
-http://bgtv.xyz/play/play-566.php?tlat=106&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=106
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",DHE
-http://bgtv.xyz/play/play-566.php?tlat=107&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=107
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",La Familia Peluche 24/7
-http://bgtv.xyz/play/play-566.php?tlat=108&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=108
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Disney Junior
-http://bgtv.xyz/play/play-566.php?tlat=109&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=109
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Nick
-http://bgtv.xyz/play/play-566.php?tlat=110&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=110
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",Azteca Uno (-1)
-http://bgtv.xyz/play/play-566.php?tlat=111&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=111
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Nick Jr
-http://bgtv.xyz/play/play-566.php?tlat=112&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=112
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",El Chapulin Colorado 24/7
-http://bgtv.xyz/play/play-566.php?tlat=113&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=113
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Cartoon Network
-http://bgtv.xyz/play/play-566.php?tlat=114&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=114
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Cartoonito
-http://bgtv.xyz/play/play-566.php?tlat=115&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=115
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Tooncast
-http://bgtv.xyz/play/play-566.php?tlat=116&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=116
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Discovery Kids
-http://bgtv.xyz/play/play-566.php?tlat=117&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=117
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Telemundo Puerto Rico
-http://bgtv.xyz/play/play-566.php?tlat=118&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=118
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CASTELLANO",Boing
-http://bgtv.xyz/play/play-566.php?tlat=119&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=119
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",NU9VE
-http://bgtv.xyz/play/play-566.php?tlat=120&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=120
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",MTV 00s
-http://bgtv.xyz/play/play-566.php?tlat=121&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=121
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Corazon
-http://bgtv.xyz/play/play-566.php?tlat=122&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=122
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",Top Latino
-http://bgtv.xyz/play/play-566.php?tlat=123&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=123
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Usa: NBA
-http://bgtv.xyz/play/play-566.php?tlat=125&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=125
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Clic
-http://bgtv.xyz/play/play-566.php?tlat=127&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=127
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Alf 24/7
-http://bgtv.xyz/play/play-566.php?tlat=128&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=128
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Digimon 24/7
-http://bgtv.xyz/play/play-566.php?tlat=129&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=129
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",A3Series
-http://bgtv.xyz/play/play-566.php?tlat=130&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=130
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Bit Me
-http://bgtv.xyz/play/play-566.php?tlat=131&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=131
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",Once TV
-http://bgtv.xyz/play/play-566.php?tlat=132&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=132
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Usa: MLB
-http://bgtv.xyz/play/play-566.php?tlat=134&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=134
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Universo
-http://bgtv.xyz/play/play-566.php?tlat=136&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=136
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 5 CL FHD
-http://bgtv.xyz/play/play-566.php?tlat=137&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=137
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",Discovery Science
-http://bgtv.xyz/play/play-566.php?tlat=139&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=139
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Gol TV FHD
-http://bgtv.xyz/play/play-566.php?tlat=142&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=142
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INFORMACIÓN",CNN ESPAÑOL FHD
-http://bgtv.xyz/play/play-566.php?tlat=143&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=143
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",South Park 24/7
-http://bgtv.xyz/play/play-566.php?tlat=146&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=146
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 2 CL FHD
-http://bgtv.xyz/play/play-566.php?tlat=148&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=148
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",NICK FHD
-http://bgtv.xyz/play/play-566.php?tlat=149&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=149
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Chavo 24/7
-http://bgtv.xyz/play/play-566.php?tlat=150&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=150
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",NFL Network
-http://bgtv.xyz/play/play-566.php?tlat=151&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=151
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",TCM
-http://bgtv.xyz/play/play-566.php?tlat=152&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=152
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Willax TV
-http://bgtv.xyz/play/play-566.php?tlat=153&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=153
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",REVOLT MUSIC
-http://bgtv.xyz/play/play-566.php?tlat=154&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=154
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",AMC FHD
-http://bgtv.xyz/play/play-566.php?tlat=155&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=155
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",TNT SPORTS FHD
-http://bgtv.xyz/play/play-566.php?tlat=156&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=156
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports Premium FHD
-http://bgtv.xyz/play/play-566.php?tlat=157&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=157
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn Sur FHD
-http://bgtv.xyz/play/play-566.php?tlat=158&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=158
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 4 CL FHD
-http://bgtv.xyz/play/play-566.php?tlat=159&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=159
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES FHD
-http://bgtv.xyz/play/play-566.php?tlat=161&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=161
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Golden FHD
-http://bgtv.xyz/play/play-566.php?tlat=162&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=162
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Cinecanal FHD
-http://bgtv.xyz/play/play-566.php?tlat=163&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=163
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Fox News
-http://bgtv.xyz/play/play-566.php?tlat=164&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=164
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",ESPN Premium FHD
-http://bgtv.xyz/play/play-566.php?tlat=165&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=165
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Futurama 24/7
-http://bgtv.xyz/play/play-566.php?tlat=166&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=166
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 5
-http://bgtv.xyz/play/play-566.php?tlat=167&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=167
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",NFL FHD
-http://bgtv.xyz/play/play-566.php?tlat=171&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=171
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",TNT FHD
-http://bgtv.xyz/play/play-566.php?tlat=172&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=172
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Espn 3 FHD
-http://bgtv.xyz/play/play-566.php?tlat=174&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=174
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",USA FHD
-http://bgtv.xyz/play/play-566.php?tlat=176&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=176
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports AR FHD
-http://bgtv.xyz/play/play-566.php?tlat=177&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=177
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Tigo Sports Bolivia
-http://bgtv.xyz/play/play-566.php?tlat=178&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=178
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="USA",Unimas Miami
-http://bgtv.xyz/play/play-566.php?tlat=179&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=179
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="USA",Usa: Fox San Francisco
-http://bgtv.xyz/play/play-566.php?tlat=180&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=180
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Next TV Paraguay
-http://bgtv.xyz/play/play-566.php?tlat=181&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=181
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 3 Mexico FHD
-http://bgtv.xyz/play/play-566.php?tlat=182&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=182
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CASTELLANO",BOING FHD
-http://bgtv.xyz/play/play-566.php?tlat=183&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=183
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Canal 26
-http://bgtv.xyz/play/play-566.php?tlat=184&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=184
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Canal 26 FHD
-http://bgtv.xyz/play/play-566.php?tlat=186&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=186
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",RCN Novelas
-http://bgtv.xyz/play/play-566.php?tlat=190&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=190
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Dragon Ball Super 24/7
-http://bgtv.xyz/play/play-566.php?tlat=191&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=191
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 2 AR FHD
-http://bgtv.xyz/play/play-566.php?tlat=192&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=192
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",RCN
-http://bgtv.xyz/play/play-566.php?tlat=193&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=193
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Movistar Deportes
-http://bgtv.xyz/play/play-566.php?tlat=194&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=194
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Universal TV FHD
-http://bgtv.xyz/play/play-566.php?tlat=195&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=195
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Terror 24/7
-http://bgtv.xyz/play/play-566.php?tlat=196&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=196
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Canal N
-http://bgtv.xyz/play/play-566.php?tlat=197&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=197
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Corazon
-http://bgtv.xyz/play/play-566.php?tlat=198&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=198
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",DAZN F1
-http://bgtv.xyz/play/play-566.php?tlat=199&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=199
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Golden
-http://bgtv.xyz/play/play-566.php?tlat=202&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=202
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Arg: America TV
-http://bgtv.xyz/play/play-566.php?tlat=274&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=274
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",EC: RTS
-http://bgtv.xyz/play/play-566.php?tlat=313&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=313
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",EC: Tele Amazonas
-http://bgtv.xyz/play/play-566.php?tlat=314&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=314
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",WWE Network
-http://bgtv.xyz/play/play-566.php?tlat=315&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=315
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",EC: TC
-http://bgtv.xyz/play/play-566.php?tlat=316&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=316
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",EC: RTU
-http://bgtv.xyz/play/play-566.php?tlat=318&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=318
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Extrema TV
-http://bgtv.xyz/play/play-566.php?tlat=319&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=319
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Los Simpson 24/7
-http://bgtv.xyz/play/play-566.php?tlat=329&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=329
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",Nick Music
-http://bgtv.xyz/play/play-566.php?tlat=331&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=331
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Warner
-http://bgtv.xyz/play/play-566.php?tlat=341&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=341
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",RCN MAS
-http://bgtv.xyz/play/play-566.php?tlat=351&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=351
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",BEIN SPORTS EXTRA FHD
-http://bgtv.xyz/play/play-566.php?tlat=352&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=352
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Disney Channel
-http://bgtv.xyz/play/play-566.php?tlat=353&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=353
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Ben 10 24/7
-http://bgtv.xyz/play/play-566.php?tlat=354&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=354
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Chespirito 24/7
-http://bgtv.xyz/play/play-566.php?tlat=355&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=355
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Dinosaurios 24/7
-http://bgtv.xyz/play/play-566.php?tlat=356&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=356
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Coyote Y Corre Caminos 24/7
-http://bgtv.xyz/play/play-566.php?tlat=357&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=357
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",El Principe del rap 24/7
-http://bgtv.xyz/play/play-566.php?tlat=358&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=358
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CASTELLANO",ES: Barca TV
-http://bgtv.xyz/play/play-566.php?tlat=360&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=360
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="PREMIUM",Universal Reality FHD
-http://bgtv.xyz/play/play-566.php?tlat=363&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=363
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Fox Sports Premium
-http://bgtv.xyz/play/play-566.php?tlat=364&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=364
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Liga 1 Max
-http://bgtv.xyz/play/play-566.php?tlat=367&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=367
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Dpelicula
-http://bgtv.xyz/play/play-566.php?tlat=370&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=370
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="PREMIUM",Universal Premier
-http://bgtv.xyz/play/play-566.php?tlat=371&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=371
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="PREMIUM",Universal Cinema
-http://bgtv.xyz/play/play-566.php?tlat=372&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=372
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS FHD
-http://bgtv.xyz/play/play-566.php?tlat=256&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=256
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY FAMILIA
-http://bgtv.xyz/play/play-566.php?tlat=262&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=262
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",TNT SPORTS
-http://bgtv.xyz/play/play-566.php?tlat=35&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=35
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Pe: Exitosa FHD
-http://bgtv.xyz/play/play-566.php?tlat=147&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=147
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",DAZN LA LIGA
-http://bgtv.xyz/play/play-566.php?tlat=361&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=361
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Canal 9
-http://bgtv.xyz/play/play-566.php?tlat=276&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=276
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Todo Noticias
-http://bgtv.xyz/play/play-566.php?tlat=278&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=278
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Television publica
-http://bgtv.xyz/play/play-566.php?tlat=320&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=320
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Telemax
-http://bgtv.xyz/play/play-566.php?tlat=160&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=160
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="USA",NBC News
-http://bgtv.xyz/play/play-566.php?tlat=288&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=288
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Mas Chic
-http://bgtv.xyz/play/play-566.php?tlat=374&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=374
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CASTELLANO",DMAX
-http://bgtv.xyz/play/play-566.php?tlat=303&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=303
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INFORMACIÓN",RT Español
-http://bgtv.xyz/play/play-566.php?tlat=302&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=302
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",DW Español
-http://bgtv.xyz/play/play-566.php?tlat=170&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=170
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",ESPN 5
-http://bgtv.xyz/play/play-566.php?tlat=377&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=377
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",Ecuavisa
-http://bgtv.xyz/play/play-566.php?tlat=378&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=378
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",ATV MAS
-http://bgtv.xyz/play/play-566.php?tlat=380&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=380
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="INTERNACIONAL",TV PERU
-http://bgtv.xyz/play/play-566.php?tlat=381&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=381
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES",ADN 40
-http://bgtv.xyz/play/play-566.php?tlat=382&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=382
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="KIDS",Baby TV
-http://bgtv.xyz/play/play-566.php?tlat=386&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=386
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",Music Top
-http://bgtv.xyz/play/play-566.php?tlat=387&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=387
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="MUSICA",Retro Music TV
-http://bgtv.xyz/play/play-566.php?tlat=388&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=388
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",HGTV
-http://bgtv.xyz/play/play-566.php?tlat=390&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=390
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="CINE",Film & Arts
-http://bgtv.xyz/play/play-566.php?tlat=219&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=219
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Food Network
-http://bgtv.xyz/play/play-566.php?tlat=187&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=187
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="USA",Miami TV
-http://bgtv.xyz/play/play-566.php?tlat=391&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=391
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Alerta Aeropuerto 24/7
-http://bgtv.xyz/play/play-566.php?tlat=347&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=347
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Claro Sports FHD
-http://bgtv.xyz/play/play-566.php?tlat=294&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=294
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",DAZN 1
-http://bgtv.xyz/play/play-566.php?tlat=275&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=275
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Win sports Plus
-http://bgtv.xyz/play/play-566.php?tlat=344&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=344
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Telemundo Puerto Rico FHD
-http://bgtv.xyz/play/play-566.php?tlat=188&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=188
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Telemundo Internacional
-http://bgtv.xyz/play/play-566.php?tlat=345&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=345
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Tigo sports
-http://bgtv.xyz/play/play-566.php?tlat=346&token=sdfasdfgasdfasdfasdf
+http://pe.shortgod.com/temporal/play.php?id=346
 
 
 #EXTINF:-1 group-title="24/7", 24/7 Accion 2022 (e)(1080)
