@@ -15,6 +15,9 @@ Recuperación de señales musicales.
 1 Junio 2024<br>
 Eliminación de VPremium.<br>
 Reincorporaci&oacute;n de iGO en algunas señales (s&oacute;lo Android con OTT).
+<br><br>
+19 Junio 2024<br>
+Reinserci&oacute;n y eliminaci&oacute;n de canales.
 </ul>
 </body>
 </html>
