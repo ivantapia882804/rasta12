@@ -79,8 +79,8 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159383
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="RECOMENDADOS",Espn Sur
-http://pe.shortgod.com/temporal/play.php?id=17
+#EXTINF:-1 group-title="RECOMENDADOS",Espn CENTROA
+http://45.228.234.167:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="RECOMENDADOS", Canal 4 - ESA
 http://45.228.234.167:8000/play/a081/index.m3u8
 #EXTINF:-1 group-title="RECOMENDADOS", Azteca Guate - GUA
@@ -3448,15 +3448,15 @@ http://45.228.234.167:8000/play/a02t/index.m3u8
 http://45.228.234.167:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL", ELIM TV - ESA
 http://45.228.234.167:8000/play/a07x/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN MX
+#EXTINF:-1 group-title="DEPORTES", ESPN CENTROA
 http://45.228.234.167:8000/play/a030/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 4 MX HD
+#EXTINF:-1 group-title="DEPORTES", ESPN 4 CENTROA HD
 http://45.228.234.167:8000/play/a086/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 2 MX
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 CENTROA
 http://45.228.234.167:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 3 MX
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 CENTROA
 http://45.228.234.167:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 3 MX HD
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 CENTROA HD
 http://45.228.234.167:8000/play/a07v/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 4 CENTROA
 http://45.228.234.167:8000/play/a07q/index.m3u8
@@ -3470,7 +3470,7 @@ http://45.228.234.167:8000/play/a07p/index.m3u8
 http://45.228.234.167:8000/play/a07w/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN CENTROA HD
 http://45.228.234.167:8000/play/a07t/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 3 MX HD
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 CENTROA HD
 http://45.228.234.167:8000/play/a05h/index.m3u8
 #EXTINF:-1 group-title="LOCALES", ESTRELLAS HD DISH
 http://45.228.234.167:8000/play/a0le/index.m3u8
