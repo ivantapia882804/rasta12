@@ -482,7 +482,7 @@ https://ythls-v3.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=578f77c2e0fb7b31b1676b75b57fe922:6e5ee266b112e58a0e27e4384b03ed76
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
-#EXTINF:-1 tvg-id="Azteca7.mx "group-title="LOCALES" , AZTECA 7
+#EXTINF:-1 tvg-id="Azteca7.mx" group-title="LOCALES" , AZTECA 7
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
