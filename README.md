@@ -20,7 +20,7 @@ Reincorporaci&oacute;n de iGO en algunas señales (s&oacute;lo Android con OTT).
 Reinserci&oacute;n y eliminaci&oacute;n de canales.
 <br><br>
 12 Julio 2024<br>
-Eliminación de Bud (usuario fuera de l&iacute;nea).<br>
+Eliminación de Bud (usuario fuera de l&iacute;nea) y TVall (servidor no responde).<br>
 Adici&oacute;n de servicio sdmx.
 </ul>
 </body>
