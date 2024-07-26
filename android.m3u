@@ -79,10 +79,24 @@ https://dai.google.com/linear/hls/event/erhZGvvqQdmR8xTfFO3MZw/master.m3u8
 https://dai.google.com/linear/hls/event/6DSQ8CGURXew6V-oYhN27Q/master.m3u8
 #EXTINF:-1 tvg-name="Claro Sports 4 MX" tvg-logo="https://cdn.clarosports.com/clarosports/2024/07/cs04-mex-135012-768x432.png"  group-title="PARIS 2024", Claro Sports 4 MX
 https://dai.google.com/linear/hls/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  group-title="PARIS 2024", Canal 5
-http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="PARIS 2024",Canal 5
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=578f77c2e0fb7b31b1676b75b57fe922:6e5ee266b112e58a0e27e4384b03ed76
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="PARIS 2024", TUDN MX
-http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="PARIS 2024", Telemundo Miami
@@ -91,6 +105,12 @@ http://bgtv.xyz/play/play-777.php?tlat=48&token=asdfasdf
 https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10435
 #EXTINF:-1 group-title="PARIS 2024",TVMAX PA
 https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155916
+#EXTINF:-1 group-title="PARIS 2024",Caracol Televisión CO
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/176570
+#EXTINF:-1 group-title="PARIS 2024",Caracol Televisión HD2 CO
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/202067
+#EXTINF:-1 group-title="PARIS 2024",RCN Televisión CO
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155680
 #EXTINF:-1 group-title="PARIS 2024",Venevisión
 https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2106073
 #EXTINF:-1 group-title="PARIS 2024",ATV PE
