@@ -101,6 +101,8 @@ https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="PARIS 2024", Telemundo Miami
 http://bgtv.xyz/play/play-777.php?tlat=48&token=asdfasdf
+#EXTINF:-1  group-title="PARIS 2024", Universo |US|
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/850.m3u8
 #EXTINF:-1 group-title="PARIS 2024",Canal 12 SV
 https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10435
 #EXTINF:-1 group-title="PARIS 2024",TVMAX PA
@@ -116,7 +118,7 @@ https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2106073
 #EXTINF:-1 group-title="PARIS 2024",ATV PE
 https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10639
 #EXTINF:-1 group-title="PARIS 2024",CHV CL
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/25376
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/25375
 #EXTINF:-1 group-title="PARIS 2024",TVP AR
 https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/210865
 #EXTINF:-1 group-title="PARIS 2024" , NBC US
