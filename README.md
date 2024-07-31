@@ -22,6 +22,9 @@ Reinserci&oacute;n y eliminaci&oacute;n de canales.
 12 Julio 2024<br>
 Eliminación de Bud (usuario fuera de l&iacute;nea) y TVall (servidor no responde).<br>
 Adici&oacute;n de servicio sdmx.
+<br><br>
+31 Julio 2024<br>
+Adici&oacute;n de servicios Bud y pn-tv
 </ul>
 </body>
 </html>
