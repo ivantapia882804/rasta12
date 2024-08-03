@@ -25,6 +25,9 @@ Adici&oacute;n de servicio sdmx.
 <br><br>
 31 Julio 2024<br>
 Adici&oacute;n de servicios Bud y pn-tv
+<br><br>
+03 Agosto 2024 <br>
+Retiro temporal del dominio pn-tv en todos los canales (usuario fuera de l&iacute;nea)
 </ul>
 </body>
 </html>
