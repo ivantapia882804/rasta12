@@ -93,7 +93,7 @@ http://181.78.105.146:2000/play/a045/index.m3u8
 http://181.78.105.146:2000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="Mexico",Congreso
 http://181.78.105.146:2000/play/a046/index.m3u8
-#EXTINF:-1 tvg-shift="0"  group-title="Mexico",MVSTV
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",MVSTV
 http://181.78.105.146:2000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",Universal
 http://181.78.105.146:2000/play/a03d/index.m3u8
@@ -311,7 +311,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="Mexico",Canal 6 CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="Mexico",MVSTV
+#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="Entretenimiento",MVSTV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+ CDMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="Mexico",A+ CDMX
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -547,11 +547,11 @@ http://bgtv.xyz/play/play-810.php?tlat=22&token=asfasdf
 http://bgtv.xyz/play/play-810.php?tlat=23&token=asfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="Deportes",Fox Sports Mexico
+#EXTINF:-1 group-title="Deportes", ESPN 2 Mexico
 http://bgtv.xyz/play/play-810.php?tlat=24&token=asfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="Deportes",Fox Sports 2 Mexico
+#EXTINF:-1 group-title="Deportes",ESPN 3 Mexico
 http://bgtv.xyz/play/play-810.php?tlat=25&token=asfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -563,7 +563,7 @@ http://bgtv.xyz/play/play-810.php?tlat=26&token=asfasdf
 http://bgtv.xyz/play/play-810.php?tlat=27&token=asfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="Deportes",Espn 2 Mexico
+#EXTINF:-1 group-title="Deportes",TUDN USA
 http://bgtv.xyz/play/play-810.php?tlat=28&token=asfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
