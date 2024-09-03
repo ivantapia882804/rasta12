@@ -1702,8 +1702,7 @@ http://bgtv.xyz/play/play-800.php?tlat=256&token=asdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Cultura",DISCOVERY FAMILIA
-http://bgtv.xyz/play/play-800.php?tlat=262&token=asdfasdf
-##EXTVLCOPT:network-caching=1000
+https://live.sdfgnksbounce.com:8080/MTg5LjIwMi44Ni4xNzM=/262_.m3u8?token=B5wqzAamxO9vzipZtYeMwA&expires=1725341710
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",TNT SPORTS
 http://bgtv.xyz/play/play-800.php?tlat=35&token=asdfasdf
