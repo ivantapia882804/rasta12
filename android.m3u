@@ -1650,7 +1650,7 @@ http://bgtv.xyz/play/play-800.php?tlat=352&token=asdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Infantil",Disney Channel
-https://edge-mix01-ird.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd
+http://138.197.141.134/loadbalance/disneychannel/chunks.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Ben 10 24/7
