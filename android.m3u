@@ -1062,7 +1062,7 @@ http://bgtv.xyz/play/play-800.php?tlat=41&token=asdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Star Channel
-http://bgtv.xyz/play/play-800.php?tlat=42&token=asdfasdf
+http://191.52.214.5:8000/play/a02k/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Cinemax
