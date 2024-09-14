@@ -30,19 +30,19 @@ http://181.78.105.146:2000/play/a03n/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX Sports (Cono Norte México)" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="RECOMENDADOS",FOX SPORTS HD
-http://bgtv.xyz/play/play-911.php?tlat=24&token=asdasfasdda
+http://bgtv.xyz/play/play-911.php?ul=527&token=asdasfasdda
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsport2.png" group-title="RECOMENDADOS",FOX SPORTS 2 HD
-http://bgtv.xyz/play/play-911.php?tlat=25&token=asdasfasdda
+http://bgtv.xyz/play/play-911.php?ul=528&token=asdasfasdda
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="RECOMENDADOS",FOX SPORTS 3 HD
-http://bgtv.xyz/play/play-911.php?tlat=26&token=asdasfasdda
+http://bgtv.xyz/play/play-911.php?ul=54&token=asdasfasdda
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="RECOMENDADOS", Fox Sports Premium MX op1
-http://bgtv.xyz/play/play-911.php?tlat=157&token=asdasfasdda
+http://bgtv.xyz/play/play-911.php?ul=512&token=asdasfasdda
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://olimpicos.clarosports.com/assets/themes/olimpicos/images/olimpicos-logo.png"  group-title="RECOMENDADOS", Claro Sports
 https://dai.google.com/linear/hls/event/r5w9dL8MT8ygfiegKRCUtw/master.m3u8
 ##EXTVLCOPT:network-caching=2000
@@ -60,7 +60,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="RECOMENDADOS", TUDN USA
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/194924
+http://bgtv.xyz/play/play-911.php?ul=698&token=asdasfasdda
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  tvg-id="FoxDeportes(Spanish).us" tvg-name="FOX DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="RECOMENDADOS", FOX DEPORTES
@@ -68,7 +68,7 @@ https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/200284
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png"  group-title="RECOMENDADOS", ESPN Deportes
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/202473
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/6446
 
 
 #EXTINF:-1 tvg-shift="0"  group-title="Mexico",Uno
@@ -318,9 +318,9 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Once.3" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png" group-title="Mexico",Once.3
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
 #EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="Mexico",Canal Catorce
-https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="https://mxplus.tv/images/roku/tv-migrante.jpg" group-title="Mexico",TV Migrante
-https://cdn.mycloudstream.io/hls/live/broadcast/jgstrcbg/index.m3u8
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1795049700.m3u8
 #EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://unamenlinea.unam.mx/recursos/img/84753/tv-unam--bajo-demanda2.png" group-title="Mexico",TV UNAM
 https://cdn.mycloudstream.io/hls/live/broadcast/f8zowjae/index.m3u8
 #EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22" tvg-logo="https://manualdeimagen.canal22.org.mx/img/bn.png" group-title="Mexico",Canal 22
@@ -354,7 +354,7 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_603-400x360.png"  group-title="Noticias", Milenio Televisión
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 CDMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/506425-8c.png" group-title="Mexico",Capital 21
-https://cdn.mycloudstream.io/hls/live/broadcast/tkyvj1qv/index.m3u8
+https://s5.mexside.net:1936/respaldo/respaldo/chunklist_w390601932.m3u8
 #EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2024/02/29174858/logoheader-e1709250778948.png" group-title="Mexico",Mexiquense Televisión
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://yt3.googleusercontent.com/gJzhEWQduAebS-WcB-5vE4ZpUWdTK2JIA_zJsigI5EQZMXQcbrVesBk5LrfLb4deU7u7knsxeQ=s900-c-k-c0x00ffffff-no-rj" group-title="Mexico",AMX Noticias
