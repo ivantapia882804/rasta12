@@ -139,8 +139,9 @@ http://181.78.105.146:2000/play/a03j/index.m3u8
 #EXTINF:0,Disney HD
 http://190.90.154.73:8080/play/a01u/index.m3u8
 
+
 #EXTINF:-1, XD
-content://ru.zdevs.zarchiver.external/storage/emulated/0/snaptube/download/SnapTube%20Video/_Sabat%C3%B3n%20de%20una%20hora_%20Disney%20XD%20(Especial%2002-10-2021)(360P).mp4
+https://ia800407.us.archive.org/2/items/sabaton-de-una-hora-disney-xd-especial-02-10-2021-360-p/_Sabat%C3%B3n%20de%20una%20hora_%20Disney%20XD%20%28Especial%2002-10-2021%29%28360P%29.mp4
 #EXTINF:-1 tvg-shift="0"  group-title="Infantil",NICKELODEON
 http://bgtv.xyz/play/play-900.php?tlat=90&token=asdasfasdda
 #EXTINF:-1 tvg-shift="0"  group-title="Infantil",CartoonNetwork
