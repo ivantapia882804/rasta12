@@ -30,19 +30,19 @@ http://181.78.105.146:2000/play/a03n/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX Sports (Cono Norte México)" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="RECOMENDADOS",FOX SPORTS HD
-http://bgtv.xyz/play/play-128.php?ul=527&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=527&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsport2.png" group-title="RECOMENDADOS",FOX SPORTS 2 HD
-http://bgtv.xyz/play/play-128.php?ul=528&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=528&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="RECOMENDADOS",FOX SPORTS 3 HD
-http://bgtv.xyz/play/play-128.php?ul=54&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=54&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="RECOMENDADOS", Fox Sports Premium MX op1
-http://bgtv.xyz/play/play-128.php?ul=512&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=512&token=asdasdfasdf
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://olimpicos.clarosports.com/assets/themes/olimpicos/images/olimpicos-logo.png"  group-title="RECOMENDADOS", Claro Sports
 https://dai.google.com/linear/hls/event/r5w9dL8MT8ygfiegKRCUtw/master.m3u8
 ##EXTVLCOPT:network-caching=2000
@@ -60,7 +60,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="RECOMENDADOS", TUDN USA
-http://bgtv.xyz/play/play-128.php?ul=698&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=698&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  tvg-id="FoxDeportes(Spanish).us" tvg-name="FOX DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="RECOMENDADOS", FOX DEPORTES
@@ -908,2053 +908,2053 @@ https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Mexico",Azteca 7
-http://bgtv.xyz/play/play-128.php?tlat=1&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=1&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Mexico",Canal 5
-http://bgtv.xyz/play/play-128.php?tlat=2&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=2&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",TUDN
-http://bgtv.xyz/play/play-128.php?tlat=3&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=3&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Latina
-http://bgtv.xyz/play/play-128.php?tlat=4&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=4&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",America TV
-http://bgtv.xyz/play/play-128.php?tlat=5&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=5&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Gol Perú
-http://bgtv.xyz/play/play-128.php?tlat=6&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=6&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Gol TV
-http://bgtv.xyz/play/play-128.php?tlat=7&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=7&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",TNT SPORTS
-http://bgtv.xyz/play/play-128.php?tlat=9&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=9&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Espn Premium
-http://bgtv.xyz/play/play-128.php?tlat=10&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=10&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",TYC SPORTS
-http://bgtv.xyz/play/play-128.php?tlat=11&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=11&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",FOX SPORTS ARG
-http://bgtv.xyz/play/play-128.php?tlat=12&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=12&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Fox Sports 2 ARG
-http://bgtv.xyz/play/play-128.php?tlat=13&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=13&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Fox Sports 3 ARG
-http://bgtv.xyz/play/play-128.php?tlat=14&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=14&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Espn Deportes
-http://bgtv.xyz/play/play-128.php?tlat=15&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=15&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Espn 4
-http://bgtv.xyz/play/play-128.php?tlat=16&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=16&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Espn Sur
-http://bgtv.xyz/play/play-128.php?tlat=17&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=17&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Espn 2 Sur
-http://bgtv.xyz/play/play-128.php?tlat=18&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=18&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Espn 3 Sur
-http://bgtv.xyz/play/play-128.php?tlat=19&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=19&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Directv Sports
-http://bgtv.xyz/play/play-128.php?tlat=20&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=20&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Directv Sports 2
-http://bgtv.xyz/play/play-128.php?tlat=21&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=21&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Directv Sports Plus
-http://bgtv.xyz/play/play-128.php?tlat=22&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=22&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Bein La Liga
-http://bgtv.xyz/play/play-128.php?tlat=23&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=23&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes", ESPN 2 Mexico
-http://bgtv.xyz/play/play-128.php?tlat=24&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=24&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes", ESPN 3 Mexico
-http://bgtv.xyz/play/play-128.php?tlat=25&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=25&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Fox Sports 3 Mexico
-http://bgtv.xyz/play/play-128.php?tlat=26&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=26&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Espn Mexico
-http://bgtv.xyz/play/play-128.php?tlat=27&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=27&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes", TUDN USA
-http://bgtv.xyz/play/play-128.php?tlat=28&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=28&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Espn 3 Mexico
-http://bgtv.xyz/play/play-128.php?tlat=29&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=29&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",HBO
-http://bgtv.xyz/play/play-128.php?tlat=31&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=31&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",HBO 2
-http://bgtv.xyz/play/play-128.php?tlat=32&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=32&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Liga 1
-http://bgtv.xyz/play/play-128.php?tlat=33&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=33&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Liga 1 FHD
-http://bgtv.xyz/play/play-128.php?tlat=34&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=34&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Directv Sports Fight
-http://bgtv.xyz/play/play-128.php?tlat=36&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=36&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Peliculas de Accion
-http://bgtv.xyz/play/play-128.php?tlat=38&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=38&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",SPACE
-http://bgtv.xyz/play/play-128.php?tlat=39&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=39&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",MX: Warner Bros TV
-http://bgtv.xyz/play/play-128.php?tlat=40&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=40&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",TNT
-http://bgtv.xyz/play/play-128.php?tlat=41&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=41&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Star Channel
-http://bgtv.xyz/play/play-128.php?tlat=42&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=42&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Cinemax
-http://bgtv.xyz/play/play-128.php?tlat=43&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=43&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Cinecanal
-http://bgtv.xyz/play/play-128.php?tlat=44&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=44&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Telefe
-http://bgtv.xyz/play/play-128.php?tlat=45&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=45&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",El Trece
-http://bgtv.xyz/play/play-128.php?tlat=46&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=46&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Distrito Comedia
-http://bgtv.xyz/play/play-128.php?tlat=47&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=47&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="US",Telemundo Miami
-http://bgtv.xyz/play/play-128.php?tlat=48&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=48&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Cultura",History
-http://bgtv.xyz/play/play-128.php?tlat=49&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=49&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Cultura",History 2
-http://bgtv.xyz/play/play-128.php?tlat=50&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=50&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Pasiones
-http://bgtv.xyz/play/play-128.php?tlat=51&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=51&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Mexico",Azteca Uno (-1)
-http://bgtv.xyz/play/play-128.php?tlat=52&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=52&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Azteca Internacional
-http://bgtv.xyz/play/play-128.php?tlat=53&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=53&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Cinema
-http://bgtv.xyz/play/play-128.php?tlat=54&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=54&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Galavision
-http://bgtv.xyz/play/play-128.php?tlat=55&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=55&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Tlnovelas
-http://bgtv.xyz/play/play-128.php?tlat=56&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=56&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Mexico",Las Estrellas (no peliculas)
-http://bgtv.xyz/play/play-128.php?tlat=57&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=57&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",USA
-http://bgtv.xyz/play/play-128.php?tlat=58&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=58&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Caracol
-http://bgtv.xyz/play/play-128.php?tlat=59&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=59&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",ATV
-http://bgtv.xyz/play/play-128.php?tlat=61&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=61&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="US",Univision Miami
-http://bgtv.xyz/play/play-128.php?tlat=62&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=62&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Unicable
-http://bgtv.xyz/play/play-128.php?tlat=63&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=63&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Unimas
-http://bgtv.xyz/play/play-128.php?tlat=64&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=64&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Mexico",Imagen TV
-http://bgtv.xyz/play/play-128.php?tlat=65&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=65&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Noticias",CNN ESPAÑOL
-http://bgtv.xyz/play/play-128.php?tlat=66&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=66&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Noticias",RT
-http://bgtv.xyz/play/play-128.php?tlat=67&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=67&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Canal Sony FHD
-http://bgtv.xyz/play/play-128.php?tlat=68&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=68&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",FX
-http://bgtv.xyz/play/play-128.php?tlat=70&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=70&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Don Gato y su pandilla 24/7
-http://bgtv.xyz/play/play-128.php?tlat=71&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=71&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Fox Deportes
-http://bgtv.xyz/play/play-128.php?tlat=72&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=72&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Golden Plus
-http://bgtv.xyz/play/play-128.php?tlat=73&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=73&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Golden Edge
-http://bgtv.xyz/play/play-128.php?tlat=74&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=74&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Golden Premier
-http://bgtv.xyz/play/play-128.php?tlat=75&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=75&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",TNT SERIES
-http://bgtv.xyz/play/play-128.php?tlat=76&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=76&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Canal Sony
-http://bgtv.xyz/play/play-128.php?tlat=77&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=77&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",AXN
-http://bgtv.xyz/play/play-128.php?tlat=78&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=78&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Universal Channel
-http://bgtv.xyz/play/play-128.php?tlat=79&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=79&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Studio Universal
-http://bgtv.xyz/play/play-128.php?tlat=80&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=80&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Multipremier
-http://bgtv.xyz/play/play-128.php?tlat=81&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=81&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",AMC
-http://bgtv.xyz/play/play-128.php?tlat=82&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=82&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Paramount Channel
-http://bgtv.xyz/play/play-128.php?tlat=83&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=83&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Cine Latino
-http://bgtv.xyz/play/play-128.php?tlat=84&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=84&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Dpelicula Plus
-http://bgtv.xyz/play/play-128.php?tlat=85&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=85&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",MTV
-http://bgtv.xyz/play/play-128.php?tlat=87&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=87&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Musica",MTV Hits
-http://bgtv.xyz/play/play-128.php?tlat=88&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=88&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Musica",HTV
-http://bgtv.xyz/play/play-128.php?tlat=89&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=89&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Musica",Bandamax
-http://bgtv.xyz/play/play-128.php?tlat=90&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=90&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Comedy Central
-http://bgtv.xyz/play/play-128.php?tlat=91&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=91&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Cultura",Nat Geo
-http://bgtv.xyz/play/play-128.php?tlat=92&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=92&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Mi bella Genio 24/7
-http://bgtv.xyz/play/play-128.php?tlat=93&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=93&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Cultura",Animal Planet
-http://bgtv.xyz/play/play-128.php?tlat=94&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=94&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Cultura",Discovery Channel
-http://bgtv.xyz/play/play-128.php?tlat=95&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=95&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Cultura",Discovery Turbo
-http://bgtv.xyz/play/play-128.php?tlat=96&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=96&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Discovery HYH
-http://bgtv.xyz/play/play-128.php?tlat=97&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=97&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",ID Investigation
-http://bgtv.xyz/play/play-128.php?tlat=98&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=98&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",A&E
-http://bgtv.xyz/play/play-128.php?tlat=99&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=99&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Discovery TLC
-http://bgtv.xyz/play/play-128.php?tlat=100&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=100&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Cultura",Discovery Theater
-http://bgtv.xyz/play/play-128.php?tlat=101&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=101&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Cultura",Discovery World
-http://bgtv.xyz/play/play-128.php?tlat=102&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=102&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",E!
-http://bgtv.xyz/play/play-128.php?tlat=103&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=103&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Lifetime
-http://bgtv.xyz/play/play-128.php?tlat=104&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=104&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",El Gourmet
-http://bgtv.xyz/play/play-128.php?tlat=106&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=106&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",DHE
-http://bgtv.xyz/play/play-128.php?tlat=107&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=107&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",La Familia Peluche 24/7
-http://bgtv.xyz/play/play-128.php?tlat=108&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=108&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Infantil",Disney Junior
-http://bgtv.xyz/play/play-128.php?tlat=109&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=109&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Infantil",Nick
-http://bgtv.xyz/play/play-128.php?tlat=110&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=110&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Mexico",Azteca Uno (-1)
-http://bgtv.xyz/play/play-128.php?tlat=111&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=111&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Infantil",Nick Jr
-http://bgtv.xyz/play/play-128.php?tlat=112&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=112&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",El Chapulin Colorado 24/7
-http://bgtv.xyz/play/play-128.php?tlat=113&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=113&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Infantil",Cartoon Network
-http://bgtv.xyz/play/play-128.php?tlat=114&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=114&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Infantil",Cartoonito
-http://bgtv.xyz/play/play-128.php?tlat=115&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=115&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Infantil",Tooncast
-http://bgtv.xyz/play/play-128.php?tlat=116&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=116&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Infantil",Discovery Kids
-http://bgtv.xyz/play/play-128.php?tlat=117&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=117&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Telemundo Puerto Rico
-http://bgtv.xyz/play/play-128.php?tlat=118&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=118&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Boing
-http://bgtv.xyz/play/play-128.php?tlat=119&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=119&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",TV AZTECA GUATE
-http://bgtv.xyz/play/play-128.php?tlat=120&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=120&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Musica",MTV 00s
-http://bgtv.xyz/play/play-128.php?tlat=121&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=121&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Corazon
-http://bgtv.xyz/play/play-128.php?tlat=122&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=122&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Musica",Top Latino
-http://bgtv.xyz/play/play-128.php?tlat=123&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=123&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Usa: NBA
-http://bgtv.xyz/play/play-128.php?tlat=125&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=125&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Clic
-http://bgtv.xyz/play/play-128.php?tlat=127&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=127&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Alf 24/7
-http://bgtv.xyz/play/play-128.php?tlat=128&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=128&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Digimon 24/7
-http://bgtv.xyz/play/play-128.php?tlat=129&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=129&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",A3Series
-http://bgtv.xyz/play/play-128.php?tlat=130&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=130&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Infantil",Bit Me
-http://bgtv.xyz/play/play-128.php?tlat=131&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=131&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Mexico",Once TV
-http://bgtv.xyz/play/play-128.php?tlat=132&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=132&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Usa: MLB
-http://bgtv.xyz/play/play-128.php?tlat=134&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=134&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Universo
-http://bgtv.xyz/play/play-128.php?tlat=136&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=136&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Espn 5 CL FHD
-http://bgtv.xyz/play/play-128.php?tlat=137&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=137&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Cultura",Discovery Science
-http://bgtv.xyz/play/play-128.php?tlat=139&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=139&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Gol TV FHD
-http://bgtv.xyz/play/play-128.php?tlat=142&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=142&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Noticias",CNN ESPAÑOL FHD
-http://bgtv.xyz/play/play-128.php?tlat=143&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=143&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",South Park 24/7
-http://bgtv.xyz/play/play-128.php?tlat=146&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=146&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Espn 2 CL FHD
-http://bgtv.xyz/play/play-128.php?tlat=148&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=148&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Infantil",NICK FHD
-http://bgtv.xyz/play/play-128.php?tlat=149&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=149&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Chavo 24/7
-http://bgtv.xyz/play/play-128.php?tlat=150&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=150&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",NFL Network
-http://bgtv.xyz/play/play-128.php?tlat=151&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=151&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",TCM
-http://bgtv.xyz/play/play-128.php?tlat=152&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=152&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Willax TV
-http://bgtv.xyz/play/play-128.php?tlat=153&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=153&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Musica",REVOLT MUSIC
-http://bgtv.xyz/play/play-128.php?tlat=154&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=154&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",AMC FHD
-http://bgtv.xyz/play/play-128.php?tlat=155&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=155&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",TNT SPORTS FHD
-http://bgtv.xyz/play/play-128.php?tlat=156&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=156&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Fox Sports Premium FHD
-http://bgtv.xyz/play/play-128.php?tlat=157&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=157&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Espn Sur FHD
-http://bgtv.xyz/play/play-128.php?tlat=158&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=158&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Espn 4 CL FHD
-http://bgtv.xyz/play/play-128.php?tlat=159&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=159&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",ESPN DEPORTES FHD
-http://bgtv.xyz/play/play-128.php?tlat=161&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=161&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Golden FHD
-http://bgtv.xyz/play/play-128.php?tlat=162&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=162&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Cinecanal FHD
-http://bgtv.xyz/play/play-128.php?tlat=163&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=163&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Fox News
-http://bgtv.xyz/play/play-128.php?tlat=164&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=164&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",ESPN Premium FHD
-http://bgtv.xyz/play/play-128.php?tlat=165&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=165&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Futurama 24/7
-http://bgtv.xyz/play/play-128.php?tlat=166&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=166&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Espn 5
-http://bgtv.xyz/play/play-128.php?tlat=167&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=167&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",NFL FHD
-http://bgtv.xyz/play/play-128.php?tlat=171&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=171&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",TNT FHD
-http://bgtv.xyz/play/play-128.php?tlat=172&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=172&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Espn 3 FHD
-http://bgtv.xyz/play/play-128.php?tlat=174&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=174&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",USA FHD
-http://bgtv.xyz/play/play-128.php?tlat=176&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=176&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Fox Sports AR FHD
-http://bgtv.xyz/play/play-128.php?tlat=177&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=177&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Tigo Sports Bolivia
-http://bgtv.xyz/play/play-128.php?tlat=178&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=178&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="US",Unimas Miami
-http://bgtv.xyz/play/play-128.php?tlat=179&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=179&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="US",Usa: Fox San Francisco
-http://bgtv.xyz/play/play-128.php?tlat=180&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=180&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Next TV Paraguay
-http://bgtv.xyz/play/play-128.php?tlat=181&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=181&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Fox Sports 3 Mexico FHD
-http://bgtv.xyz/play/play-128.php?tlat=182&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=182&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",BOING FHD
-http://bgtv.xyz/play/play-128.php?tlat=183&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=183&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Canal 26
-http://bgtv.xyz/play/play-128.php?tlat=184&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=184&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Canal 26 FHD
-http://bgtv.xyz/play/play-128.php?tlat=186&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=186&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",RCN Novelas
-http://bgtv.xyz/play/play-128.php?tlat=190&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=190&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Dragon Ball Super 24/7
-http://bgtv.xyz/play/play-128.php?tlat=191&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=191&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Fox Sports 2 AR FHD
-http://bgtv.xyz/play/play-128.php?tlat=192&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=192&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",RCN
-http://bgtv.xyz/play/play-128.php?tlat=193&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=193&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Movistar Deportes
-http://bgtv.xyz/play/play-128.php?tlat=194&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=194&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Universal TV FHD
-http://bgtv.xyz/play/play-128.php?tlat=195&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=195&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Terror 24/7
-http://bgtv.xyz/play/play-128.php?tlat=196&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=196&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Canal N
-http://bgtv.xyz/play/play-128.php?tlat=197&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=197&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Corazon
-http://bgtv.xyz/play/play-128.php?tlat=198&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=198&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",DAZN F1
-http://bgtv.xyz/play/play-128.php?tlat=199&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=199&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Golden
-http://bgtv.xyz/play/play-128.php?tlat=202&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=202&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Arg: America TV
-http://bgtv.xyz/play/play-128.php?tlat=274&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=274&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",EC: RTS
-http://bgtv.xyz/play/play-128.php?tlat=313&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=313&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",EC: Tele Amazonas
-http://bgtv.xyz/play/play-128.php?tlat=314&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=314&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",WWE Network
-http://bgtv.xyz/play/play-128.php?tlat=315&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=315&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",EC: TC
-http://bgtv.xyz/play/play-128.php?tlat=316&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=316&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",EC: RTU
-http://bgtv.xyz/play/play-128.php?tlat=318&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=318&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Extrema TV
-http://bgtv.xyz/play/play-128.php?tlat=319&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=319&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Los Simpson 24/7
-http://bgtv.xyz/play/play-128.php?tlat=329&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=329&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Musica",Nick Music
-http://bgtv.xyz/play/play-128.php?tlat=331&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=331&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Warner
-http://bgtv.xyz/play/play-128.php?tlat=341&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=341&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",RCN MAS
-http://bgtv.xyz/play/play-128.php?tlat=351&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=351&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",BEIN SPORTS EXTRA FHD
-http://bgtv.xyz/play/play-128.php?tlat=352&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=352&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Infantil",Disney Channel
-http://bgtv.xyz/play/play-128.php?tlat=353&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=353&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Ben 10 24/7
-http://bgtv.xyz/play/play-128.php?tlat=354&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=354&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Chespirito 24/7
-http://bgtv.xyz/play/play-128.php?tlat=355&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=355&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Dinosaurios 24/7
-http://bgtv.xyz/play/play-128.php?tlat=356&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=356&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Coyote Y Corre Caminos 24/7
-http://bgtv.xyz/play/play-128.php?tlat=357&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=357&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",El Principe del rap 24/7
-http://bgtv.xyz/play/play-128.php?tlat=358&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=358&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",ES: Barca TV
-http://bgtv.xyz/play/play-128.php?tlat=360&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=360&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Universal Reality FHD
-http://bgtv.xyz/play/play-128.php?tlat=363&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=363&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Fox Sports Premium
-http://bgtv.xyz/play/play-128.php?tlat=364&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=364&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Liga 1 Max
-http://bgtv.xyz/play/play-128.php?tlat=367&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=367&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Dpelicula
-http://bgtv.xyz/play/play-128.php?tlat=370&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=370&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Universal Premier
-http://bgtv.xyz/play/play-128.php?tlat=371&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=371&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Universal Cinema
-http://bgtv.xyz/play/play-128.php?tlat=372&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=372&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",DIRECTV SPORTS FHD
-http://bgtv.xyz/play/play-128.php?tlat=256&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=256&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Cultura",DISCOVERY FAMILIA
-http://bgtv.xyz/play/play-128.php?tlat=262&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=262&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",TNT SPORTS
-http://bgtv.xyz/play/play-128.php?tlat=35&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=35&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Pe: Exitosa FHD
-http://bgtv.xyz/play/play-128.php?tlat=147&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=147&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",DAZN LA LIGA
-http://bgtv.xyz/play/play-128.php?tlat=361&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=361&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Canal 9
-http://bgtv.xyz/play/play-128.php?tlat=276&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=276&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Todo Noticias
-http://bgtv.xyz/play/play-128.php?tlat=278&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=278&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Television publica
-http://bgtv.xyz/play/play-128.php?tlat=320&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=320&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Telemax
-http://bgtv.xyz/play/play-128.php?tlat=160&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=160&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="US",NBC News
-http://bgtv.xyz/play/play-128.php?tlat=288&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=288&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Mas Chic
-http://bgtv.xyz/play/play-128.php?tlat=374&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=374&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",DMAX
-http://bgtv.xyz/play/play-128.php?tlat=303&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=303&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Noticias",RT Español
-http://bgtv.xyz/play/play-128.php?tlat=302&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=302&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",DW Español
-http://bgtv.xyz/play/play-128.php?tlat=170&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=170&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",ESPN 5
-http://bgtv.xyz/play/play-128.php?tlat=377&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=377&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",Ecuavisa
-http://bgtv.xyz/play/play-128.php?tlat=378&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=378&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",ATV MAS
-http://bgtv.xyz/play/play-128.php?tlat=380&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=380&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Extranjera",TV PERU
-http://bgtv.xyz/play/play-128.php?tlat=381&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=381&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Mexico",ADN 40
-http://bgtv.xyz/play/play-128.php?tlat=382&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=382&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Infantil",Baby TV
-http://bgtv.xyz/play/play-128.php?tlat=386&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=386&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Musica",Music Top
-http://bgtv.xyz/play/play-128.php?tlat=387&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=387&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Musica",Retro Music TV
-http://bgtv.xyz/play/play-128.php?tlat=388&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=388&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",HGTV
-http://bgtv.xyz/play/play-128.php?tlat=390&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=390&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Peliculas",Film & Arts
-http://bgtv.xyz/play/play-128.php?tlat=219&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=219&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Food Network
-http://bgtv.xyz/play/play-128.php?tlat=187&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=187&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="US",Miami TV
-http://bgtv.xyz/play/play-128.php?tlat=391&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=391&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="24/7",Alerta Aeropuerto 24/7
-http://bgtv.xyz/play/play-128.php?tlat=347&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=347&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Claro Sports FHD
-http://bgtv.xyz/play/play-128.php?tlat=294&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=294&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",DAZN 1
-http://bgtv.xyz/play/play-128.php?tlat=275&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=275&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Win sports Plus
-http://bgtv.xyz/play/play-128.php?tlat=344&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=344&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Telemundo Puerto Rico FHD
-http://bgtv.xyz/play/play-128.php?tlat=188&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=188&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Entretenimiento",Telemundo Internacional
-http://bgtv.xyz/play/play-128.php?tlat=345&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=345&token=asdasdfasdf
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Tigo sports
-http://bgtv.xyz/play/play-128.php?tlat=346&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?tlat=346&token=asdasdfasdf
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png"  group-title="CANALES VARIADOS", A&E
-http://bgtv.xyz/play/play-128.php?ul=474&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=474&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png"  group-title="CANALES VARIADOS", A+
-http://bgtv.xyz/play/play-128.php?ul=406&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=406&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJCYkf9V/aplus.png"  group-title="CANALES VARIADOS", A+
-http://bgtv.xyz/play/play-128.php?ul=1541&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1541&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3cine.png"  group-title="CANALES VARIADOS", A3Cine
-http://bgtv.xyz/play/play-128.php?ul=945&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=945&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3cine.png"  group-title="CANALES VARIADOS", A3Cine
-http://bgtv.xyz/play/play-128.php?ul=444&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=444&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png"  group-title="CANALES VARIADOS", A3Series
-http://bgtv.xyz/play/play-128.php?ul=447&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=447&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx1H064S/adn40.png"  group-title="CANALES VARIADOS", ADN 40
-http://bgtv.xyz/play/play-128.php?ul=1542&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1542&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png"  group-title="CANALES VARIADOS", Afizzionados
-http://bgtv.xyz/play/play-128.php?ul=939&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=939&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png"  group-title="CANALES VARIADOS", Afizzionados ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=878&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=878&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aljazeera.png"  group-title="CANALES VARIADOS", Al Jazeera
-http://bgtv.xyz/play/play-128.php?ul=668&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=668&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aljazeera.png"  group-title="CANALES VARIADOS", Al Jazeera
-http://bgtv.xyz/play/play-128.php?ul=426&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=426&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png"  group-title="CANALES VARIADOS", AMC
-http://bgtv.xyz/play/play-128.php?ul=183&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=183&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png"  group-title="CANALES VARIADOS", AMC (ES)
-http://bgtv.xyz/play/play-128.php?ul=981&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=981&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png"  group-title="CANALES VARIADOS", AMC ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=475&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=475&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png"  group-title="CANALES VARIADOS", America TV
-http://bgtv.xyz/play/play-128.php?ul=780&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=780&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png"  group-title="CANALES VARIADOS", America TV
-http://bgtv.xyz/play/play-128.php?ul=3&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=3&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png"  group-title="CANALES VARIADOS", Animal Planet ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=633&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=633&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png"  group-title="CANALES VARIADOS", Animaniacs ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=677&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=677&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png"  group-title="CANALES VARIADOS", Antena 3
-http://bgtv.xyz/play/play-128.php?ul=298&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=298&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png"  group-title="CANALES VARIADOS", Antena 3
-http://bgtv.xyz/play/play-128.php?ul=146&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=146&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"  group-title="CANALES VARIADOS", AXN
-http://bgtv.xyz/play/play-128.php?ul=804&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=804&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"  group-title="CANALES VARIADOS", AXN ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=476&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=476&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"  group-title="CANALES VARIADOS", AXN ᵸᴰ (ES)
-http://bgtv.xyz/play/play-128.php?ul=713&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=713&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"  group-title="CANALES VARIADOS", AXN Mx
-http://bgtv.xyz/play/play-128.php?ul=714&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=714&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png"  group-title="CANALES VARIADOS", AyM Sports
-http://bgtv.xyz/play/play-128.php?ul=148&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=148&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png"  group-title="CANALES VARIADOS", Az Cinema
-http://bgtv.xyz/play/play-128.php?ul=186&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=186&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png"  group-title="CANALES VARIADOS", Az Clic
-http://bgtv.xyz/play/play-128.php?ul=165&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=165&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png"  group-title="CANALES VARIADOS", AZ Corazon
-http://bgtv.xyz/play/play-128.php?ul=166&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=166&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png"  group-title="CANALES VARIADOS", Az Corazon
-http://bgtv.xyz/play/play-128.php?ul=834&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=834&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azmundo.png"  group-title="CANALES VARIADOS", Az Mundo
-http://bgtv.xyz/play/play-128.php?ul=5&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=5&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wz32th7j/azteca7.png"  group-title="CANALES VARIADOS", Azteca 7
-http://bgtv.xyz/play/play-128.php?ul=529&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=529&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png"  group-title="CANALES VARIADOS", Azteca 7 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=635&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=635&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png"  group-title="CANALES VARIADOS", Azteca Uno
-http://bgtv.xyz/play/play-128.php?ul=4&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=4&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9M1mWGZJ/azteca1.png"  group-title="CANALES VARIADOS", Azteca Uno
-http://bgtv.xyz/play/play-128.php?ul=414&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=414&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png"  group-title="CANALES VARIADOS", Azteca Uno ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=634&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=634&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png"  group-title="CANALES VARIADOS", Baby TV
-http://bgtv.xyz/play/play-128.php?ul=7&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=7&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png"  group-title="CANALES VARIADOS", Baby Tv
-http://bgtv.xyz/play/play-128.php?ul=8&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=8&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png"  group-title="CANALES VARIADOS", Bandamax ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=833&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=833&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png"  group-title="CANALES VARIADOS", Bayblade ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1584&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1584&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bbc.png"  group-title="CANALES VARIADOS", BBC ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=931&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=931&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png"  group-title="CANALES VARIADOS", BeinSports
-http://bgtv.xyz/play/play-128.php?ul=753&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=753&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png"  group-title="CANALES VARIADOS", BeinSports ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=9&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=9&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png"  group-title="CANALES VARIADOS", BeinSports \u00D1
-http://bgtv.xyz/play/play-128.php?ul=761&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=761&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png"  group-title="CANALES VARIADOS", BeinSports \u00D1 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=376&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=376&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bitme.png"  group-title="CANALES VARIADOS", BitMe
-http://bgtv.xyz/play/play-128.php?ul=946&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=946&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Bloomberg
-http://bgtv.xyz/play/play-128.php?ul=518&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=518&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png"  group-title="CANALES VARIADOS", Bolivision
-http://bgtv.xyz/play/play-128.php?ul=783&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=783&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png"  group-title="CANALES VARIADOS", Breaking Bad ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=846&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=846&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", C5N
-http://bgtv.xyz/play/play-128.php?ul=427&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=427&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png"  group-title="CANALES VARIADOS", Caballeros del Zodiaco ²⁴⁺⁷ Op. 2
-http://bgtv.xyz/play/play-128.php?ul=1565&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1565&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Cable Noticias
-http://bgtv.xyz/play/play-128.php?ul=1566&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1566&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png"  group-title="CANALES VARIADOS", Canal 5
-http://bgtv.xyz/play/play-128.php?ul=14&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=14&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png"  group-title="CANALES VARIADOS", Canal 5 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=941&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=941&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="https://puu.sh/q8r7W/5c19627d41.png"  group-title="CANALES VARIADOS", Canal 5 Honduras
-http://bgtv.xyz/play/play-128.php?ul=773&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=773&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png"  group-title="CANALES VARIADOS", Canal a
-http://bgtv.xyz/play/play-128.php?ul=962&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=962&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png"  group-title="CANALES VARIADOS", Canal de las Estrellas
-http://bgtv.xyz/play/play-128.php?ul=411&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=411&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png"  group-title="CANALES VARIADOS", Canal de las Estrellas
-http://bgtv.xyz/play/play-128.php?ul=736&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=736&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png"  group-title="CANALES VARIADOS", Canal de las Estrellas ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=636&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=636&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/canalonce.png"  group-title="CANALES VARIADOS", Canal Once
-http://bgtv.xyz/play/play-128.php?ul=15&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=15&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Canal Uno (Colombia)
-http://bgtv.xyz/play/play-128.php?ul=369&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=369&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Candy Candy ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=808&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=808&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png"  group-title="CANALES VARIADOS", Cantinflas ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=428&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=428&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png"  group-title="CANALES VARIADOS", Caracol
-http://bgtv.xyz/play/play-128.php?ul=391&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=391&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png"  group-title="CANALES VARIADOS", Caracol
-http://bgtv.xyz/play/play-128.php?ul=290&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=290&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png"  group-title="CANALES VARIADOS", Cartoon Network
-http://bgtv.xyz/play/play-128.php?ul=17&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=17&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png"  group-title="CANALES VARIADOS", Cartoon Network
-http://bgtv.xyz/play/play-128.php?ul=737&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=737&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png"  group-title="CANALES VARIADOS", Cartoon Network ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=637&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=637&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png"  group-title="CANALES VARIADOS", Cartoonito
-http://bgtv.xyz/play/play-128.php?ul=11&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=11&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png"  group-title="CANALES VARIADOS", Cartoonito
-http://bgtv.xyz/play/play-128.php?ul=824&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=824&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/casocerrado.png"  group-title="CANALES VARIADOS", Caso Cerrado ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=907&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=907&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cbeebies.png"  group-title="CANALES VARIADOS", CBeebies
-http://bgtv.xyz/play/play-128.php?ul=13&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=13&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cbs.png"  group-title="CANALES VARIADOS", CBS ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=932&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=932&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", CCTV-4
-http://bgtv.xyz/play/play-128.php?ul=318&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=318&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdfpremium.png"  group-title="CANALES VARIADOS", CDF Premium ᵸᴰ (TNT Sports Chile)
-http://bgtv.xyz/play/play-128.php?ul=725&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=725&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Cdn (Republica Dominicana)
-http://bgtv.xyz/play/play-128.php?ul=206&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=206&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdo.png"  group-title="CANALES VARIADOS", CDO
-http://bgtv.xyz/play/play-128.php?ul=513&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=513&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdo.png"  group-title="CANALES VARIADOS", CDO
-http://bgtv.xyz/play/play-128.php?ul=401&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=401&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/celebritydeathmatch.png"  group-title="CANALES VARIADOS", Celebrity Deathmatch (EN) ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=985&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=985&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Certv-Canal 4 (Republica Dominicana)
-http://bgtv.xyz/play/play-128.php?ul=418&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=418&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg"  group-title="CANALES VARIADOS", Chespirito ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=417&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=417&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png"  group-title="CANALES VARIADOS", CHV Chilevision
-http://bgtv.xyz/play/play-128.php?ul=198&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=198&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png"  group-title="CANALES VARIADOS", CHV Chilevision
-http://bgtv.xyz/play/play-128.php?ul=990&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=990&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Accion ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=1022&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1022&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Accion Sagas
-http://bgtv.xyz/play/play-128.php?ul=700&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=700&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Accion Sagas ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=707&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=707&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Comedia
-http://bgtv.xyz/play/play-128.php?ul=695&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=695&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Comedia 2
-http://bgtv.xyz/play/play-128.php?ul=696&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=696&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Comedia 2 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=915&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=915&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Ficcion/Fantasia
-http://bgtv.xyz/play/play-128.php?ul=709&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=709&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Ficcion/Fantasia 2
-http://bgtv.xyz/play/play-128.php?ul=710&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=710&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Ficcion/Fantasia ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=712&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=712&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Infantil ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=702&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=702&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Infantil Sagas
-http://bgtv.xyz/play/play-128.php?ul=694&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=694&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Infantil Sagas ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=703&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=703&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png"  group-title="CANALES VARIADOS", Cine Latino
-http://bgtv.xyz/play/play-128.php?ul=295&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=295&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png"  group-title="CANALES VARIADOS", Cine Latino
-http://bgtv.xyz/play/play-128.php?ul=697&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=697&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Marvel ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=701&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=701&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Romance
-http://bgtv.xyz/play/play-128.php?ul=689&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=689&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Romance 2 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=1023&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1023&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Romance ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=705&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=705&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Terror
-http://bgtv.xyz/play/play-128.php?ul=693&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=693&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Terror 2 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=913&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=913&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Terror ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=704&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=704&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Terror Sagas ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=1550&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1550&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Zombis
-http://bgtv.xyz/play/play-128.php?ul=688&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=688&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png"  group-title="CANALES VARIADOS", Cine Zombis ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=917&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=917&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png"  group-title="CANALES VARIADOS", Cinecanal
-http://bgtv.xyz/play/play-128.php?ul=18&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=18&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png"  group-title="CANALES VARIADOS", Cinecanal Sur
-http://bgtv.xyz/play/play-128.php?ul=738&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=738&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png"  group-title="CANALES VARIADOS", Cinecanal ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=479&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=479&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", CinemaPlus
-http://bgtv.xyz/play/play-128.php?ul=20&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=20&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png"  group-title="CANALES VARIADOS", Cinemax
-http://bgtv.xyz/play/play-128.php?ul=739&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=739&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png"  group-title="CANALES VARIADOS", Cinemax ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=638&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=638&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png"  group-title="CANALES VARIADOS", Cinemax ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=328&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=328&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png"  group-title="CANALES VARIADOS", Claro Sports Colombia
-http://bgtv.xyz/play/play-128.php?ul=135&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=135&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png"  group-title="CANALES VARIADOS", Comedy Central
-http://bgtv.xyz/play/play-128.php?ul=740&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=740&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png"  group-title="CANALES VARIADOS", Comedy Central (ES)
-http://bgtv.xyz/play/play-128.php?ul=719&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=719&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png"  group-title="CANALES VARIADOS", Comedy Central ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=480&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=480&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Concert Channel
-http://bgtv.xyz/play/play-128.php?ul=519&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=519&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Cosmovision (Colombia)
-http://bgtv.xyz/play/play-128.php?ul=720&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=720&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Cristovision
-http://bgtv.xyz/play/play-128.php?ul=908&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=908&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/daria.png"  group-title="CANALES VARIADOS", Daria ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=983&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=983&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", DataFx (Colombia)
-http://bgtv.xyz/play/play-128.php?ul=21&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=21&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png"  group-title="CANALES VARIADOS", De Pelicula
-http://bgtv.xyz/play/play-128.php?ul=1545&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1545&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png"  group-title="CANALES VARIADOS", De Pelicula ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=481&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=481&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dpeliculaplus.png"  group-title="CANALES VARIADOS", De Pelicula Plus ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=1544&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1544&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/deportv.png"  group-title="CANALES VARIADOS", DeporTV
-http://bgtv.xyz/play/play-128.php?ul=844&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=844&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png"  group-title="CANALES VARIADOS", DHE
-http://bgtv.xyz/play/play-128.php?ul=670&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=670&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png"  group-title="CANALES VARIADOS", Discovery Channel
-http://bgtv.xyz/play/play-128.php?ul=22&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=22&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png"  group-title="CANALES VARIADOS", Discovery Channel Sur
-http://bgtv.xyz/play/play-128.php?ul=741&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=741&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png"  group-title="CANALES VARIADOS", Discovery Channel ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=639&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=639&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png"  group-title="CANALES VARIADOS", Discovery Civilization
-http://bgtv.xyz/play/play-128.php?ul=23&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=23&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png"  group-title="CANALES VARIADOS", Discovery H&H
-http://bgtv.xyz/play/play-128.php?ul=24&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=24&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png"  group-title="CANALES VARIADOS", Discovery H&H
-http://bgtv.xyz/play/play-128.php?ul=742&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=742&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png"  group-title="CANALES VARIADOS", Discovery H&H ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=640&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=640&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png"  group-title="CANALES VARIADOS", Discovery Kids
-http://bgtv.xyz/play/play-128.php?ul=25&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=25&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png"  group-title="CANALES VARIADOS", Discovery Kids
-http://bgtv.xyz/play/play-128.php?ul=641&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=641&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png"  group-title="CANALES VARIADOS", Discovery SCI
-http://bgtv.xyz/play/play-128.php?ul=26&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=26&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png"  group-title="CANALES VARIADOS", Discovery SCI
-http://bgtv.xyz/play/play-128.php?ul=27&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=27&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png"  group-title="CANALES VARIADOS", Discovery Turbo
-http://bgtv.xyz/play/play-128.php?ul=28&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=28&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png"  group-title="CANALES VARIADOS", Discovery Turbo
-http://bgtv.xyz/play/play-128.php?ul=727&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=727&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png"  group-title="CANALES VARIADOS", Discovery World
-http://bgtv.xyz/play/play-128.php?ul=187&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=187&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png"  group-title="CANALES VARIADOS", Discovery World
-http://bgtv.xyz/play/play-128.php?ul=29&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=29&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png"  group-title="CANALES VARIADOS", Disney Channel
-http://bgtv.xyz/play/play-128.php?ul=30&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=30&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png"  group-title="CANALES VARIADOS", Disney Junior
-http://bgtv.xyz/play/play-128.php?ul=743&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=743&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png"  group-title="CANALES VARIADOS", Disney Junior ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=826&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=826&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png"  group-title="CANALES VARIADOS", Disney XD
-http://bgtv.xyz/play/play-128.php?ul=31&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=31&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png"  group-title="CANALES VARIADOS", Disney XD Sur
-http://bgtv.xyz/play/play-128.php?ul=744&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=744&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png"  group-title="CANALES VARIADOS", Disney XD ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=827&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=827&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png"  group-title="CANALES VARIADOS", Distrito Comedia
-http://bgtv.xyz/play/play-128.php?ul=32&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=32&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/djing.png"  group-title="CANALES VARIADOS", Djing Ibiza
-http://bgtv.xyz/play/play-128.php?ul=277&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=277&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dmax.png"  group-title="CANALES VARIADOS", DMax ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=923&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=923&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png"  group-title="CANALES VARIADOS", Doraemon ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=521&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=521&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png"  group-title="CANALES VARIADOS", Doug ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1583&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1583&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/drhouse.png"  group-title="CANALES VARIADOS", Dr. House ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1548&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1548&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png"  group-title="CANALES VARIADOS", Dragon Ball (ES) ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=984&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=984&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png"  group-title="CANALES VARIADOS", Dragon Ball ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=425&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=425&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png"  group-title="CANALES VARIADOS", Dragon Ball ²⁴⁺⁷ Op. 2
-http://bgtv.xyz/play/play-128.php?ul=1546&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1546&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png"  group-title="CANALES VARIADOS", Dragon Ball GT ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=520&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=520&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png"  group-title="CANALES VARIADOS", Dragon Ball GT ²⁴⁺⁷ Op. 2
-http://bgtv.xyz/play/play-128.php?ul=1547&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1547&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png"  group-title="CANALES VARIADOS", Dragon Ball Super ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=424&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=424&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png"  group-title="CANALES VARIADOS", Dragon Ball Super ²⁴⁺⁷ Op. 2
-http://bgtv.xyz/play/play-128.php?ul=1551&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1551&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png"  group-title="CANALES VARIADOS", Dragon Ball Z ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=329&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=329&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="https://puu.sh/xdUYa/051eb44501.png"  group-title="CANALES VARIADOS", Dragon Ball Z ²⁴⁺⁷ Op.2 
-http://bgtv.xyz/play/play-128.php?ul=415&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=415&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballzkai.png"  group-title="CANALES VARIADOS", Dragon Ball Z Kai ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=993&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=993&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballzkai.png"  group-title="CANALES VARIADOS", Dragon Ball Z Kai ²⁴⁺⁷ Op. 2
-http://bgtv.xyz/play/play-128.php?ul=1552&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1552&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png"  group-title="CANALES VARIADOS", DSports
-http://bgtv.xyz/play/play-128.php?ul=259&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=259&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvplus.png"  group-title="CANALES VARIADOS", DSports +
-http://bgtv.xyz/play/play-128.php?ul=935&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=935&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png"  group-title="CANALES VARIADOS", DSports 2
-http://bgtv.xyz/play/play-128.php?ul=667&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=667&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png"  group-title="CANALES VARIADOS", DSports 2 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=975&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=975&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png"  group-title="CANALES VARIADOS", DSports 2 Sur ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=978&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=978&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png"  group-title="CANALES VARIADOS", DSports Colombia
-http://bgtv.xyz/play/play-128.php?ul=974&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=974&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", DTVNEWS
-http://bgtv.xyz/play/play-128.php?ul=1582&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1582&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Dw
-http://bgtv.xyz/play/play-128.php?ul=33&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=33&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png"  group-title="CANALES VARIADOS", E!
-http://bgtv.xyz/play/play-128.php?ul=483&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=483&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png"  group-title="CANALES VARIADOS", Ecuavisa
-http://bgtv.xyz/play/play-128.php?ul=319&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=319&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png"  group-title="CANALES VARIADOS", Ed group-title="CANALES VARIADOS",  Edd y Eddy ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1581&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1581&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png"  group-title="CANALES VARIADOS", El 13 Argentina
-http://bgtv.xyz/play/play-128.php?ul=239&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=239&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png"  group-title="CANALES VARIADOS", El Canal Del Futbol
-http://bgtv.xyz/play/play-128.php?ul=892&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=892&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png"  group-title="CANALES VARIADOS", El Chavo Animado ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=790&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=790&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png"  group-title="CANALES VARIADOS", El Chavo del 8 ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=400&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=400&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcondepatula.png"  group-title="CANALES VARIADOS", El Conde Patula ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=949&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=949&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png"  group-title="CANALES VARIADOS", El Coyote y el Correcaminos ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=429&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=429&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png"  group-title="CANALES VARIADOS", El Gallo Claudio ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=845&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=845&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png"  group-title="CANALES VARIADOS", El Gourmet
-http://bgtv.xyz/play/play-128.php?ul=157&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=157&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png"  group-title="CANALES VARIADOS", El Gourmet
-http://bgtv.xyz/play/play-128.php?ul=791&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=791&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png"  group-title="CANALES VARIADOS", El Nueve
-http://bgtv.xyz/play/play-128.php?ul=772&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=772&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png"  group-title="CANALES VARIADOS", El Nueve Argentina
-http://bgtv.xyz/play/play-128.php?ul=525&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=525&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png"  group-title="CANALES VARIADOS", El Pato Darkwing ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1579&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1579&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png"  group-title="CANALES VARIADOS", El Principe del Rap ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=430&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=430&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png"  group-title="CANALES VARIADOS", El Principe del Rap ²⁴⁺⁷ Op. 2
-http://bgtv.xyz/play/play-128.php?ul=1553&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1553&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png"  group-title="CANALES VARIADOS", El Se\u00F1or de los Cielos ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=820&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=820&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png"  group-title="CANALES VARIADOS", El Trece
-http://bgtv.xyz/play/play-128.php?ul=765&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=765&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"  group-title="CANALES VARIADOS", El Trece
-http://bgtv.xyz/play/play-128.php?ul=767&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=767&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png"  group-title="CANALES VARIADOS", El Trece
-http://bgtv.xyz/play/play-128.php?ul=1578&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1578&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png"  group-title="CANALES VARIADOS", Elfen Lied ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1588&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1588&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Encuentro
-http://bgtv.xyz/play/play-128.php?ul=34&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=34&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png"  group-title="CANALES VARIADOS", ESPN 2
-http://bgtv.xyz/play/play-128.php?ul=35&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=35&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png"  group-title="CANALES VARIADOS", ESPN 2 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=484&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=484&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png"  group-title="CANALES VARIADOS", ESPN 2 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=531&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=531&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png"  group-title="CANALES VARIADOS", ESPN 2 Mx ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=485&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=485&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png"  group-title="CANALES VARIADOS", ESPN 3 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=486&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=486&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png"  group-title="CANALES VARIADOS", ESPN ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=530&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=530&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png"  group-title="CANALES VARIADOS", ESPN MX ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=37&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=37&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png"  group-title="CANALES VARIADOS", ESPN Plus ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=487&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=487&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png"  group-title="CANALES VARIADOS", ESPN Premium ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=952&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=952&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png"  group-title="CANALES VARIADOS", Estrella TV
-http://bgtv.xyz/play/play-128.php?ul=177&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=177&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/europa.png"  group-title="CANALES VARIADOS", Europa Europa
-http://bgtv.xyz/play/play-128.php?ul=957&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=957&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fearthewalkingdead.png"  group-title="CANALES VARIADOS", Fear The Walking Dead ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1558&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1558&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Fetv (Panama)
-http://bgtv.xyz/play/play-128.php?ul=149&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=149&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png"  group-title="CANALES VARIADOS", Film & Arts ᵸᴰ (EN)
-http://bgtv.xyz/play/play-128.php?ul=729&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=729&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foodnetwork.png"  group-title="CANALES VARIADOS", FM Hot TV
-http://bgtv.xyz/play/play-128.php?ul=961&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=961&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foodnetwork.png"  group-title="CANALES VARIADOS", Food Network
-http://bgtv.xyz/play/play-128.php?ul=192&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=192&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/forotv.png"  group-title="CANALES VARIADOS", Foro TV
-http://bgtv.xyz/play/play-128.php?ul=1543&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1543&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png"  group-title="CANALES VARIADOS", Fox (ES) ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=926&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=926&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png"  group-title="CANALES VARIADOS", Fox Life Sur
-http://bgtv.xyz/play/play-128.php?ul=746&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=746&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxnews.png"  group-title="CANALES VARIADOS", Fox News
-http://bgtv.xyz/play/play-128.php?ul=960&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=960&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxnews.png"  group-title="CANALES VARIADOS", Fox News
-http://bgtv.xyz/play/play-128.php?ul=52&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=52&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"  group-title="CANALES VARIADOS", Fox Sports 2
-http://bgtv.xyz/play/play-128.php?ul=53&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=53&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"  group-title="CANALES VARIADOS", Fox Sports 2 Argentina ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=770&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=770&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"  group-title="CANALES VARIADOS", Fox Sports 2 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=494&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=494&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"  group-title="CANALES VARIADOS", Fox Sports 2 MX
-http://bgtv.xyz/play/play-128.php?ul=528&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=528&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"  group-title="CANALES VARIADOS", Fox Sports 2 MX
-http://bgtv.xyz/play/play-128.php?ul=839&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=839&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png"  group-title="CANALES VARIADOS", Fox Sports 3 MX
-http://bgtv.xyz/play/play-128.php?ul=54&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=54&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png"  group-title="CANALES VARIADOS", Fox Sports 3 Mx
-http://bgtv.xyz/play/play-128.php?ul=769&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=769&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"  group-title="CANALES VARIADOS", Fox Sports ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=493&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=493&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"  group-title="CANALES VARIADOS", Fox Sports MX
-http://bgtv.xyz/play/play-128.php?ul=527&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=527&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"  group-title="CANALES VARIADOS", Fox Sports MX
-http://bgtv.xyz/play/play-128.php?ul=748&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=748&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png"  group-title="CANALES VARIADOS", Fox Sports Premium
-http://bgtv.xyz/play/play-128.php?ul=512&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=512&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png"  group-title="CANALES VARIADOS", Fox Sports Premium ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=658&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=658&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"  group-title="CANALES VARIADOS", Fox Sports Sur
-http://bgtv.xyz/play/play-128.php?ul=402&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=402&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"  group-title="CANALES VARIADOS", Fox Sports Sur 2
-http://bgtv.xyz/play/play-128.php?ul=410&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=410&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png"  group-title="CANALES VARIADOS", Fox Sports Sur 3
-http://bgtv.xyz/play/play-128.php?ul=511&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=511&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", France24
-http://bgtv.xyz/play/play-128.php?ul=1577&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1577&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fs1.png"  group-title="CANALES VARIADOS", FS1 USA ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=936&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=936&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fs2.png"  group-title="CANALES VARIADOS", FS2 USA ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=937&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=937&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Futurama ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=793&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=793&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png"  group-title="CANALES VARIADOS", FX
-http://bgtv.xyz/play/play-128.php?ul=42&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=42&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png"  group-title="CANALES VARIADOS", FX Sur
-http://bgtv.xyz/play/play-128.php?ul=749&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=749&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png"  group-title="CANALES VARIADOS", FX ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=495&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=495&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png"  group-title="CANALES VARIADOS", FXM
-http://bgtv.xyz/play/play-128.php?ul=43&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=43&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png"  group-title="CANALES VARIADOS", FXM ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=488&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=488&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png"  group-title="CANALES VARIADOS", Gala TV
-http://bgtv.xyz/play/play-128.php?ul=56&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=56&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png"  group-title="CANALES VARIADOS", Gala TV ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=651&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=651&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png"  group-title="CANALES VARIADOS", Gamavision
-http://bgtv.xyz/play/play-128.php?ul=891&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=891&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png"  group-title="CANALES VARIADOS", Game of Thrones ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=515&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=515&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/garagetv.png"  group-title="CANALES VARIADOS", Garage TV ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=156&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=156&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Garfield ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=812&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=812&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png"  group-title="CANALES VARIADOS", Glitz
-http://bgtv.xyz/play/play-128.php?ul=158&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=158&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png"  group-title="CANALES VARIADOS", Glitz
-http://bgtv.xyz/play/play-128.php?ul=686&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=686&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png"  group-title="CANALES VARIADOS", Gol TV
-http://bgtv.xyz/play/play-128.php?ul=287&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=287&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png"  group-title="CANALES VARIADOS", Gol TV ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=514&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=514&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png"  group-title="CANALES VARIADOS", Golden
-http://bgtv.xyz/play/play-128.php?ul=57&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=57&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png"  group-title="CANALES VARIADOS", Golden
-http://bgtv.xyz/play/play-128.php?ul=58&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=58&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png"  group-title="CANALES VARIADOS", Golden ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=496&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=496&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png"  group-title="CANALES VARIADOS", Golden Premier 2
-http://bgtv.xyz/play/play-128.php?ul=964&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=964&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/greysanatomy.png"  group-title="CANALES VARIADOS", Greys Anatomy ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1549&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1549&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png"  group-title="CANALES VARIADOS", H2
-http://bgtv.xyz/play/play-128.php?ul=61&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=61&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png"  group-title="CANALES VARIADOS", H2
-http://bgtv.xyz/play/play-128.php?ul=760&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=760&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/happytreefriends.png"  group-title="CANALES VARIADOS", Happy Tree Friends ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=992&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=992&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png"  group-title="CANALES VARIADOS", HBO
-http://bgtv.xyz/play/play-128.php?ul=62&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=62&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png"  group-title="CANALES VARIADOS", HBO 2
-http://bgtv.xyz/play/play-128.php?ul=300&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=300&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png"  group-title="CANALES VARIADOS", HBO 2 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=732&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=732&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png"  group-title="CANALES VARIADOS", HBO 2 ᵸᴰ (EN)
-http://bgtv.xyz/play/play-128.php?ul=733&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=733&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png"  group-title="CANALES VARIADOS", HBO 2 MX
-http://bgtv.xyz/play/play-128.php?ul=63&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=63&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png"  group-title="CANALES VARIADOS", HBO Family
-http://bgtv.xyz/play/play-128.php?ul=968&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=968&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png"  group-title="CANALES VARIADOS", HBO ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=654&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=654&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbomundi.png"  group-title="CANALES VARIADOS", HBO Mundi
-http://bgtv.xyz/play/play-128.php?ul=64&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=64&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png"  group-title="CANALES VARIADOS", HBO Plus
-http://bgtv.xyz/play/play-128.php?ul=655&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=655&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png"  group-title="CANALES VARIADOS", HBO Plus MX
-http://bgtv.xyz/play/play-128.php?ul=728&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=728&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png"  group-title="CANALES VARIADOS", HBO Pop
-http://bgtv.xyz/play/play-128.php?ul=977&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=977&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png"  group-title="CANALES VARIADOS", HBO Pop
-http://bgtv.xyz/play/play-128.php?ul=814&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=814&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png"  group-title="CANALES VARIADOS", HBO Xtreme
-http://bgtv.xyz/play/play-128.php?ul=971&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=971&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png"  group-title="CANALES VARIADOS", HBO Xtreme MX
-http://bgtv.xyz/play/play-128.php?ul=779&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=779&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/heman.png"  group-title="CANALES VARIADOS", He-Man ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=996&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=996&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Headlinews
-http://bgtv.xyz/play/play-128.php?ul=1576&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1576&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png"  group-title="CANALES VARIADOS", Hey Arnold ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=522&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=522&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png"  group-title="CANALES VARIADOS", Historia (ES)
-http://bgtv.xyz/play/play-128.php?ul=718&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=718&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png"  group-title="CANALES VARIADOS", History Channel
-http://bgtv.xyz/play/play-128.php?ul=67&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=67&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png"  group-title="CANALES VARIADOS", History Channel
-http://bgtv.xyz/play/play-128.php?ul=642&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=642&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png"  group-title="CANALES VARIADOS", Hit TV
-http://bgtv.xyz/play/play-128.php?ul=201&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=201&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png"  group-title="CANALES VARIADOS", Hola TV
-http://bgtv.xyz/play/play-128.php?ul=189&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=189&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png"  group-title="CANALES VARIADOS", Hola TV
-http://bgtv.xyz/play/play-128.php?ul=66&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=66&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png"  group-title="CANALES VARIADOS", HTV
-http://bgtv.xyz/play/play-128.php?ul=153&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=153&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png"  group-title="CANALES VARIADOS", I.Sat
-http://bgtv.xyz/play/play-128.php?ul=341&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=341&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png"  group-title="CANALES VARIADOS", Imagen Televisi\u00F3n ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=643&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=643&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png"  group-title="CANALES VARIADOS", Investigation Discovery
-http://bgtv.xyz/play/play-128.php?ul=68&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=68&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png"  group-title="CANALES VARIADOS", Investigation Discovery ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=825&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=825&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ironman.png"  group-title="CANALES VARIADOS", Ironman ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=948&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=948&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Ivc
-http://bgtv.xyz/play/play-128.php?ul=786&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=786&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/jorgeelcurioso.png"  group-title="CANALES VARIADOS", Jorge el Curioso ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=909&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=909&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/la1.png"  group-title="CANALES VARIADOS", La 1 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=927&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=927&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/la2ᵸᴰ.png"  group-title="CANALES VARIADOS", La 2 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=967&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=967&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png"  group-title="CANALES VARIADOS", La Casa de los Dibujos ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1575&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1575&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lafamiliamonster.png"  group-title="CANALES VARIADOS", La Familia Monster ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=910&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=910&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", La Familia PeLuche ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=811&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=811&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png"  group-title="CANALES VARIADOS", La Hora Pico ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=887&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=887&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png"  group-title="CANALES VARIADOS", La Hormiga Atomica ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1574&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1574&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png"  group-title="CANALES VARIADOS", La Mascara ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1573&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1573&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", La Nacion +
-http://bgtv.xyz/play/play-128.php?ul=671&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=671&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png"  group-title="CANALES VARIADOS", La Peque\u00F1a Lulu ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=792&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=792&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", La red
-http://bgtv.xyz/play/play-128.php?ul=1559&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1559&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png"  group-title="CANALES VARIADOS", La Rosa de Guadalupe ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=886&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=886&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasexta.png"  group-title="CANALES VARIADOS", La Sexta ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=928&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=928&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", La Tele
-http://bgtv.xyz/play/play-128.php?ul=809&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=809&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png"  group-title="CANALES VARIADOS", Las Aventuras de Tom Sawyer ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1585&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1585&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png"  group-title="CANALES VARIADOS", Las Chicas Super Poderosas ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1572&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1572&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png"  group-title="CANALES VARIADOS", Latina
-http://bgtv.xyz/play/play-128.php?ul=782&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=782&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png"  group-title="CANALES VARIADOS", Latina
-http://bgtv.xyz/play/play-128.php?ul=888&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=888&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png"  group-title="CANALES VARIADOS", Lifetime
-http://bgtv.xyz/play/play-128.php?ul=152&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=152&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png"  group-title="CANALES VARIADOS", Lifetime
-http://bgtv.xyz/play/play-128.php?ul=890&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=890&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png"  group-title="CANALES VARIADOS", Liga de Campeones 2
-http://bgtv.xyz/play/play-128.php?ul=893&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=893&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png"  group-title="CANALES VARIADOS", Looney Tunes ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=524&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=524&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png"  group-title="CANALES VARIADOS", Los 3 Chiflados ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=423&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=423&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png"  group-title="CANALES VARIADOS", Los Amigos de la Justicia ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1580&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1580&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png"  group-title="CANALES VARIADOS", Los A\u00F1os Maravillosos ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=810&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=810&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png"  group-title="CANALES VARIADOS", Los Chicos del Barrio ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1571&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1571&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png"  group-title="CANALES VARIADOS", Los Expedientes Secretos X ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1570&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1570&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png"  group-title="CANALES VARIADOS", Los Padrinos Magicos ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=813&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=813&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png"  group-title="CANALES VARIADOS", Los Picapiedra ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=669&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=669&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png"  group-title="CANALES VARIADOS", Los Pinguinos de Madagascar ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=794&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=794&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png"  group-title="CANALES VARIADOS", Los Pitufos ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=795&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=795&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png"  group-title="CANALES VARIADOS", Los Reyes de la Colina ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=796&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=796&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"  group-title="CANALES VARIADOS", Los Simpson (Temporadas 1-5) ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-128.php?ul=894&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=894&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"  group-title="CANALES VARIADOS", Los Simpson (Temporadas 12-17) ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-128.php?ul=896&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=896&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"  group-title="CANALES VARIADOS", Los Simpson (Temporadas 18-21) ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-128.php?ul=897&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=897&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"  group-title="CANALES VARIADOS", Los Simpson (Temporadas 22-26) ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-128.php?ul=898&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=898&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"  group-title="CANALES VARIADOS", Los Simpson (Temporadas 27-30) ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-128.php?ul=899&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=899&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"  group-title="CANALES VARIADOS", Los Simpson (Temporadas 6-11) ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-128.php?ul=895&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=895&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"  group-title="CANALES VARIADOS", Los Simpson ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=357&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=357&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png"  group-title="CANALES VARIADOS", Los Supersonicos ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=797&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=797&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png"  group-title="CANALES VARIADOS", Los Vengadores Unidos ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=818&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=818&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png"  group-title="CANALES VARIADOS", Malcolm ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=911&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=911&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png"  group-title="CANALES VARIADOS", Malcolm ᵸᴰ ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=798&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=798&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png"  group-title="CANALES VARIADOS", M\u00E1s chic
-http://bgtv.xyz/play/play-128.php?ul=180&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=180&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png"  group-title="CANALES VARIADOS", M\u00E1s chic
-http://bgtv.xyz/play/play-128.php?ul=730&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=730&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png"  group-title="CANALES VARIADOS", Max Steel ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=880&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=880&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"  group-title="CANALES VARIADOS", Max Up ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=659&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=659&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mazingerz.png"  group-title="CANALES VARIADOS", Mazinger Z ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1560&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1560&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png"  group-title="CANALES VARIADOS", Mega
-http://bgtv.xyz/play/play-128.php?ul=766&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=766&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png"  group-title="CANALES VARIADOS", Mega
-http://bgtv.xyz/play/play-128.php?ul=784&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=784&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png"  group-title="CANALES VARIADOS", Mega
-http://bgtv.xyz/play/play-128.php?ul=929&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=929&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"  group-title="CANALES VARIADOS", Miami TV
-http://bgtv.xyz/play/play-128.php?ul=251&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=251&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/milenio.png"  group-title="CANALES VARIADOS", Milenio ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=140&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=140&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/milenio.png"  group-title="CANALES VARIADOS", Milenio ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=293&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=293&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/morbidotv.png"  group-title="CANALES VARIADOS", Morbido TV
-http://bgtv.xyz/play/play-128.php?ul=966&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=966&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png"  group-title="CANALES VARIADOS", Movie Max
-http://bgtv.xyz/play/play-128.php?ul=678&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=678&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png"  group-title="CANALES VARIADOS", Movistar Accion ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=364&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=364&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png"  group-title="CANALES VARIADOS", Movistar Cine \u00D1
-http://bgtv.xyz/play/play-128.php?ul=371&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=371&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png"  group-title="CANALES VARIADOS", Movistar Comedia
-http://bgtv.xyz/play/play-128.php?ul=370&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=370&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes2.png"  group-title="CANALES VARIADOS", Movistar Deportes 2 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=367&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=367&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png"  group-title="CANALES VARIADOS", Movistar Deportes ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=925&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=925&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png"  group-title="CANALES VARIADOS", Movistar Deportes Sur
-http://bgtv.xyz/play/play-128.php?ul=366&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=366&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_estrenos.png"  group-title="CANALES VARIADOS", Movistar Estrenos ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=976&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=976&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_laliga.png"  group-title="CANALES VARIADOS", Movistar LaLiga ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=916&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=916&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_series.png"  group-title="CANALES VARIADOS", Movistar Series ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=924&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=924&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png"  group-title="CANALES VARIADOS", Mr. Bean ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=431&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=431&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"  group-title="CANALES VARIADOS", MTV
-http://bgtv.xyz/play/play-128.php?ul=69&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=69&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"  group-title="CANALES VARIADOS", MTV
-http://bgtv.xyz/play/play-128.php?ul=803&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=803&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"  group-title="CANALES VARIADOS", MTV 00s
-http://bgtv.xyz/play/play-128.php?ul=953&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=953&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"  group-title="CANALES VARIADOS", MTV 00s
-http://bgtv.xyz/play/play-128.php?ul=955&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=955&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"  group-title="CANALES VARIADOS", MTV ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=828&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=828&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"  group-title="CANALES VARIADOS", MTV Hits
-http://bgtv.xyz/play/play-128.php?ul=70&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=70&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png"  group-title="CANALES VARIADOS", MTV Live
-http://bgtv.xyz/play/play-128.php?ul=823&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=823&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png"  group-title="CANALES VARIADOS", MTV WW
-http://bgtv.xyz/play/play-128.php?ul=954&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=954&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/muchmusic.png"  group-title="CANALES VARIADOS", Much Music
-http://bgtv.xyz/play/play-128.php?ul=950&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=950&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/muchalucha.png"  group-title="CANALES VARIADOS", Mucha Lucha ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=994&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=994&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/muchalucha.png"  group-title="CANALES VARIADOS", Mucha Lucha ᵸᴰ ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=995&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=995&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png"  group-title="CANALES VARIADOS", Multimedios
-http://bgtv.xyz/play/play-128.php?ul=155&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=155&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png"  group-title="CANALES VARIADOS", Multimedios (Monterrey)
-http://bgtv.xyz/play/play-128.php?ul=979&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=979&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png"  group-title="CANALES VARIADOS", Multimedios (Monterrey) ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=980&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=980&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png"  group-title="CANALES VARIADOS", Multimedios ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=943&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=943&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png"  group-title="CANALES VARIADOS", Multimedios Plus
-http://bgtv.xyz/play/play-128.php?ul=325&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=325&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png"  group-title="CANALES VARIADOS", MultiPremier
-http://bgtv.xyz/play/play-128.php?ul=294&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=294&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png"  group-title="CANALES VARIADOS", MultiPremier
-http://bgtv.xyz/play/play-128.php?ul=690&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=690&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png"  group-title="CANALES VARIADOS", Music Top
-http://bgtv.xyz/play/play-128.php?ul=691&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=691&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mvs.png"  group-title="CANALES VARIADOS", MVS Noticias
-http://bgtv.xyz/play/play-128.php?ul=448&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=448&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png"  group-title="CANALES VARIADOS", Naruto ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=523&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=523&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png"  group-title="CANALES VARIADOS", Nat Geo
-http://bgtv.xyz/play/play-128.php?ul=76&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=76&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png"  group-title="CANALES VARIADOS", Nat Geo
-http://bgtv.xyz/play/play-128.php?ul=644&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=644&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeokids.png"  group-title="CANALES VARIADOS", Nat Geo Kids
-http://bgtv.xyz/play/play-128.php?ul=412&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=412&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png"  group-title="CANALES VARIADOS", Nat Geo Wild
-http://bgtv.xyz/play/play-128.php?ul=77&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=77&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png"  group-title="CANALES VARIADOS", Nat Geo Wild ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=497&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=497&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png"  group-title="CANALES VARIADOS", NBA
-http://bgtv.xyz/play/play-128.php?ul=838&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=838&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nbcgolf.png"  group-title="CANALES VARIADOS", NBC Golf
-http://bgtv.xyz/play/play-128.php?ul=947&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=947&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nbc.png"  group-title="CANALES VARIADOS", NBC ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=933&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=933&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nbcuniverso.png"  group-title="CANALES VARIADOS", NBC Universo
-http://bgtv.xyz/play/play-128.php?ul=1537&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1537&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", NCN
-http://bgtv.xyz/play/play-128.php?ul=1561&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1561&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/neox.png"  group-title="CANALES VARIADOS", Neox (ES)
-http://bgtv.xyz/play/play-128.php?ul=353&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=353&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", NextTV (Panama)
-http://bgtv.xyz/play/play-128.php?ul=204&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=204&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", NHK World News
-http://bgtv.xyz/play/play-128.php?ul=1535&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1535&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png"  group-title="CANALES VARIADOS", Nick
-http://bgtv.xyz/play/play-128.php?ul=78&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=78&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick2.png"  group-title="CANALES VARIADOS", Nick 2
-http://bgtv.xyz/play/play-128.php?ul=646&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=646&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png"  group-title="CANALES VARIADOS", Nick ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=645&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=645&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png"  group-title="CANALES VARIADOS", Nick ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=79&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=79&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png"  group-title="CANALES VARIADOS", Nick JR
-http://bgtv.xyz/play/play-128.php?ul=829&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=829&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png"  group-title="CANALES VARIADOS", Nick Toons
-http://bgtv.xyz/play/play-128.php?ul=80&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=80&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png"  group-title="CANALES VARIADOS", Nick Toons
-http://bgtv.xyz/play/play-128.php?ul=184&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=184&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png"  group-title="CANALES VARIADOS", Nickelodeon
-http://bgtv.xyz/play/play-128.php?ul=1586&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1586&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nova.png"  group-title="CANALES VARIADOS", Nova (ES)
-http://bgtv.xyz/play/play-128.php?ul=717&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=717&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png"  group-title="CANALES VARIADOS", One Punch Man ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=661&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=661&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pac12.png"  group-title="CANALES VARIADOS", PAC12 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=934&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=934&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png"  group-title="CANALES VARIADOS", Padre de Familia ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=416&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=416&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pakapaka.png"  group-title="CANALES VARIADOS", PakaPaka
-http://bgtv.xyz/play/play-128.php?ul=959&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=959&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png"  group-title="CANALES VARIADOS", Paramount
-http://bgtv.xyz/play/play-128.php?ul=200&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=200&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png"  group-title="CANALES VARIADOS", Paramount
-http://bgtv.xyz/play/play-128.php?ul=647&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=647&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png"  group-title="CANALES VARIADOS", Paramount ᵸᴰ (ES)
-http://bgtv.xyz/play/play-128.php?ul=970&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=970&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png"  group-title="CANALES VARIADOS", Pasiones
-http://bgtv.xyz/play/play-128.php?ul=755&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=755&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png"  group-title="CANALES VARIADOS", Patoaventuras ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=819&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=819&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png"  group-title="CANALES VARIADOS", Patrulla Canina ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=807&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=807&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png"  group-title="CANALES VARIADOS", Peppa Pig ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=787&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=787&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/america_peru.png"  group-title="CANALES VARIADOS", PERU: Am\u00E9rica TV
-http://bgtv.xyz/play/play-128.php?ul=304&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=304&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"  group-title="CANALES VARIADOS", PERU: Antares TV
-http://bgtv.xyz/play/play-128.php?ul=451&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=451&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"  group-title="CANALES VARIADOS", PERU: BHTV
-http://bgtv.xyz/play/play-128.php?ul=399&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=399&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png"  group-title="CANALES VARIADOS", PERU: Latina
-http://bgtv.xyz/play/play-128.php?ul=317&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=317&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"  group-title="CANALES VARIADOS", PERU: RBC
-http://bgtv.xyz/play/play-128.php?ul=220&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=220&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/rpp_peru.png"  group-title="CANALES VARIADOS", PERU: RPP
-http://bgtv.xyz/play/play-128.php?ul=336&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=336&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"  group-title="CANALES VARIADOS", PERU: TV Peru
-http://bgtv.xyz/play/play-128.php?ul=306&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=306&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png"  group-title="CANALES VARIADOS", Pinky y Cerebro ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=721&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=721&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png"  group-title="CANALES VARIADOS", Pocoyo ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=799&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=799&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png"  group-title="CANALES VARIADOS", Pokemon ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=420&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=420&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png"  group-title="CANALES VARIADOS", Pokemon ²⁴⁺⁷ Op. 2
-http://bgtv.xyz/play/play-128.php?ul=1564&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1564&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/popcornflix.png"  group-title="CANALES VARIADOS", PopCornFlix ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=1536&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1536&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png"  group-title="CANALES VARIADOS", Prison Break ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=884&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=884&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pxtv.png"  group-title="CANALES VARIADOS", PX TV
-http://bgtv.xyz/play/play-128.php?ul=193&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=193&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/quieromusica.png"  group-title="CANALES VARIADOS", Quiero Musica
-http://bgtv.xyz/play/play-128.php?ul=958&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=958&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Rai
-http://bgtv.xyz/play/play-128.php?ul=419&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=419&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png"  group-title="CANALES VARIADOS", RCN
-http://bgtv.xyz/play/play-128.php?ul=390&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=390&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png"  group-title="CANALES VARIADOS", RCN
-http://bgtv.xyz/play/play-128.php?ul=279&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=279&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcnnovelas.png"  group-title="CANALES VARIADOS", Rcn Novelas
-http://bgtv.xyz/play/play-128.php?ul=692&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=692&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ritmoson.png"  group-title="CANALES VARIADOS", Ritmoson Latino
-http://bgtv.xyz/play/play-128.php?ul=154&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=154&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Rpc (Panama)
-http://bgtv.xyz/play/play-128.php?ul=781&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=781&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png"  group-title="CANALES VARIADOS", Rugrats ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1569&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1569&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png"  group-title="CANALES VARIADOS", Rugrats Crecidos ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1568&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1568&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/sailormoon.png"  group-title="CANALES VARIADOS", Sailor Moon ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1562&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1562&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png"  group-title="CANALES VARIADOS", Sakura Card Captor ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=672&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=672&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png"  group-title="CANALES VARIADOS", Sakura Card Captor ²⁴⁺⁷ Op. 2
-http://bgtv.xyz/play/play-128.php?ul=1554&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1554&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/samuraix.png"  group-title="CANALES VARIADOS", Samurai X ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=663&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=663&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/samuraix.png"  group-title="CANALES VARIADOS", Samurai X ²⁴⁺⁷ Op. 2
-http://bgtv.xyz/play/play-128.php?ul=1555&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1555&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/scoobydoo.png"  group-title="CANALES VARIADOS", Scooby Doo ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=422&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=422&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Senal Colombia
-http://bgtv.xyz/play/play-128.php?ul=918&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=918&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", SerTv (Panama)
-http://bgtv.xyz/play/play-128.php?ul=989&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=989&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/skysports.png"  group-title="CANALES VARIADOS", SKY Sports Premier ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=900&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=900&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png"  group-title="CANALES VARIADOS", Smallville ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=673&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=673&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png"  group-title="CANALES VARIADOS", Sony
-http://bgtv.xyz/play/play-128.php?ul=145&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=145&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png"  group-title="CANALES VARIADOS", Sony
-http://bgtv.xyz/play/play-128.php?ul=498&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=498&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png"  group-title="CANALES VARIADOS", South Park ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=674&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=674&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png"  group-title="CANALES VARIADOS", Space
-http://bgtv.xyz/play/play-128.php?ul=83&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=83&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png"  group-title="CANALES VARIADOS", Space Sur
-http://bgtv.xyz/play/play-128.php?ul=751&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=751&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png"  group-title="CANALES VARIADOS", Space ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=499&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=499&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png"  group-title="CANALES VARIADOS", Spiderman ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=889&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=889&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png"  group-title="CANALES VARIADOS", Star Channel
-http://bgtv.xyz/play/play-128.php?ul=45&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=45&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png"  group-title="CANALES VARIADOS", Star Channel
-http://bgtv.xyz/play/play-128.php?ul=489&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=489&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png"  group-title="CANALES VARIADOS", Star Fun
-http://bgtv.xyz/play/play-128.php?ul=49&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=49&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png"  group-title="CANALES VARIADOS", Star Hits ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=491&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=491&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png"  group-title="CANALES VARIADOS", Star Life
-http://bgtv.xyz/play/play-128.php?ul=50&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=50&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png"  group-title="CANALES VARIADOS", Star Life ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=652&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=652&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/startve.png"  group-title="CANALES VARIADOS", StarTVE
-http://bgtv.xyz/play/play-128.php?ul=944&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=944&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_cinema.png"  group-title="CANALES VARIADOS", Starz Cinema
-http://bgtv.xyz/play/play-128.php?ul=680&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=680&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_comedy.png"  group-title="CANALES VARIADOS", Starz Comedy
-http://bgtv.xyz/play/play-128.php?ul=681&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=681&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreaction.png"  group-title="CANALES VARIADOS", Starz Encore Action
-http://bgtv.xyz/play/play-128.php?ul=682&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=682&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreblack.png"  group-title="CANALES VARIADOS", Starz Encore Black
-http://bgtv.xyz/play/play-128.php?ul=683&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=683&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png"  group-title="CANALES VARIADOS", Starz Encore Family
-http://bgtv.xyz/play/play-128.php?ul=684&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=684&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_ᵸᴰ.png"  group-title="CANALES VARIADOS", Starz ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=685&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=685&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png"  group-title="CANALES VARIADOS", Studio Universal
-http://bgtv.xyz/play/play-128.php?ul=84&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=84&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png"  group-title="CANALES VARIADOS", Studio Universal
-http://bgtv.xyz/play/play-128.php?ul=830&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=830&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png"  group-title="CANALES VARIADOS", Super Campeones ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=432&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=432&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/supernatural.png"  group-title="CANALES VARIADOS", Supernatural ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1563&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1563&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png"  group-title="CANALES VARIADOS", SyFy
-http://bgtv.xyz/play/play-128.php?ul=151&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=151&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png"  group-title="CANALES VARIADOS", Syfy
-http://bgtv.xyz/play/play-128.php?ul=758&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=758&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png"  group-title="CANALES VARIADOS", SyFy (ES) ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=969&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=969&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png"  group-title="CANALES VARIADOS", SyFy ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=648&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=648&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png"  group-title="CANALES VARIADOS", TBS Very Funny
-http://bgtv.xyz/play/play-128.php?ul=171&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=171&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png"  group-title="CANALES VARIADOS", TBS Very Funny ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=831&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=831&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png"  group-title="CANALES VARIADOS", TC Ecuador
-http://bgtv.xyz/play/play-128.php?ul=885&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=885&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png"  group-title="CANALES VARIADOS", TCM
-http://bgtv.xyz/play/play-128.php?ul=85&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=85&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png"  group-title="CANALES VARIADOS", TCM
-http://bgtv.xyz/play/play-128.php?ul=882&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=882&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"  group-title="CANALES VARIADOS", Tele
-http://bgtv.xyz/play/play-128.php?ul=778&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=778&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png"  group-title="CANALES VARIADOS", TeleAmazonas
-http://bgtv.xyz/play/play-128.php?ul=320&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=320&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Teleantioquia (Colombia)
-http://bgtv.xyz/play/play-128.php?ul=922&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=922&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teledeporte.png"  group-title="CANALES VARIADOS", Teledeporte ᵸᴰ (ES)
-http://bgtv.xyz/play/play-128.php?ul=330&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=330&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png"  group-title="CANALES VARIADOS", Telefe
-http://bgtv.xyz/play/play-128.php?ul=771&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=771&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png"  group-title="CANALES VARIADOS", Telefe
-http://bgtv.xyz/play/play-128.php?ul=182&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=182&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png"  group-title="CANALES VARIADOS", Telehit
-http://bgtv.xyz/play/play-128.php?ul=91&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=91&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png"  group-title="CANALES VARIADOS", Telehit ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=649&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=649&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Teleislas (Colombia)
-http://bgtv.xyz/play/play-128.php?ul=963&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=963&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Telemedios (Republica Dominicana)
-http://bgtv.xyz/play/play-128.php?ul=92&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=92&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png"  group-title="CANALES VARIADOS", Telemundo ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=660&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=660&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png"  group-title="CANALES VARIADOS", Telemundo Internacional
-http://bgtv.xyz/play/play-128.php?ul=676&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=676&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png"  group-title="CANALES VARIADOS", The Big Bang Theory ²⁴⁺⁷ Op. 2
-http://bgtv.xyz/play/play-128.php?ul=1556&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1556&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/thewalkingdead.png"  group-title="CANALES VARIADOS", The Walking Dead ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=800&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=800&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/thewalkingdead.png"  group-title="CANALES VARIADOS", The Walking Dead ²⁴⁺⁷ Op. 2
-http://bgtv.xyz/play/play-128.php?ul=1557&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1557&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Tiempo tv
-http://bgtv.xyz/play/play-128.php?ul=1587&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1587&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png"  group-title="CANALES VARIADOS", TigoSports Bolivia
-http://bgtv.xyz/play/play-128.php?ul=764&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=764&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png"  group-title="CANALES VARIADOS", TigoSports Paraguay
-http://bgtv.xyz/play/play-128.php?ul=843&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=843&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tiin.png"  group-title="CANALES VARIADOS", Tiin
-http://bgtv.xyz/play/play-128.php?ul=93&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=93&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png"  group-title="CANALES VARIADOS", TLC
-http://bgtv.xyz/play/play-128.php?ul=87&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=87&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png"  group-title="CANALES VARIADOS", Tlnovelas
-http://bgtv.xyz/play/play-128.php?ul=94&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=94&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png"  group-title="CANALES VARIADOS", Tlnovelas
-http://bgtv.xyz/play/play-128.php?ul=832&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=832&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleritmo.png"  group-title="CANALES VARIADOS", TLR (Teleritmo)
-http://bgtv.xyz/play/play-128.php?ul=299&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=299&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleritmo.png"  group-title="CANALES VARIADOS", TLR ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=942&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=942&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", TN
-http://bgtv.xyz/play/play-128.php?ul=179&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=179&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png"  group-title="CANALES VARIADOS", TNT Sur
-http://bgtv.xyz/play/play-128.php?ul=752&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=752&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png"  group-title="CANALES VARIADOS", TNT ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=500&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=500&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png"  group-title="CANALES VARIADOS", TNT ᵸᴰ (ES)
-http://bgtv.xyz/play/play-128.php?ul=982&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=982&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png"  group-title="CANALES VARIADOS", TNT Series
-http://bgtv.xyz/play/play-128.php?ul=90&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=90&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png"  group-title="CANALES VARIADOS", TNT Series
-http://bgtv.xyz/play/play-128.php?ul=757&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=757&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png"  group-title="CANALES VARIADOS", TNT Series ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=650&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=650&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png"  group-title="CANALES VARIADOS", TNT Sports
-http://bgtv.xyz/play/play-128.php?ul=509&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=509&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png"  group-title="CANALES VARIADOS", TNT Sports Chile
-http://bgtv.xyz/play/play-128.php?ul=906&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=906&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png"  group-title="CANALES VARIADOS", Tom y Jerry ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=421&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=421&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png"  group-title="CANALES VARIADOS", Tooncast
-http://bgtv.xyz/play/play-128.php?ul=95&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=95&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png"  group-title="CANALES VARIADOS", Tooncast
-http://bgtv.xyz/play/play-128.php?ul=774&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=774&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Tro (Colombia)
-http://bgtv.xyz/play/play-128.php?ul=662&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=662&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png"  group-title="CANALES VARIADOS", TruTV
-http://bgtv.xyz/play/play-128.php?ul=96&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=96&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png"  group-title="CANALES VARIADOS", TruTV
-http://bgtv.xyz/play/play-128.php?ul=501&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=501&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tumusicaᵸᴰ.png"  group-title="CANALES VARIADOS", Tu Musica ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=516&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=516&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"  group-title="CANALES VARIADOS", TUDN 
-http://bgtv.xyz/play/play-128.php?ul=698&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=698&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"  group-title="CANALES VARIADOS", TUDN (Pocos Datos)
-http://bgtv.xyz/play/play-128.php?ul=822&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=822&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"  group-title="CANALES VARIADOS", TUDN ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=801&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=801&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"  group-title="CANALES VARIADOS", TUDN Op. 2
-http://bgtv.xyz/play/play-128.php?ul=997&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=997&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"  group-title="CANALES VARIADOS", TUDN USA ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=86&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=86&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tvchile.png"  group-title="CANALES VARIADOS", TV Chile
-http://bgtv.xyz/play/play-128.php?ul=1534&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1534&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Tv Galicia
-http://bgtv.xyz/play/play-128.php?ul=837&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=837&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png"  group-title="CANALES VARIADOS", TVC Ecuador
-http://bgtv.xyz/play/play-128.php?ul=776&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=776&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tve.png"  group-title="CANALES VARIADOS", TVE
-http://bgtv.xyz/play/play-128.php?ul=195&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=195&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tve.png"  group-title="CANALES VARIADOS", TVE
-http://bgtv.xyz/play/play-128.php?ul=930&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=930&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", TVMAS (Panama)
-http://bgtv.xyz/play/play-128.php?ul=675&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=675&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png"  group-title="CANALES VARIADOS", Tyc Sports
-http://bgtv.xyz/play/play-128.php?ul=274&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=274&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png"  group-title="CANALES VARIADOS", Tyc Sports Op. 2
-http://bgtv.xyz/play/play-128.php?ul=1538&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1538&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png"  group-title="CANALES VARIADOS", UFC Network
-http://bgtv.xyz/play/play-128.php?ul=97&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=97&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png"  group-title="CANALES VARIADOS", Unicable
-http://bgtv.xyz/play/play-128.php?ul=98&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=98&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png"  group-title="CANALES VARIADOS", Unicable ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=653&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=653&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/unimas.png"  group-title="CANALES VARIADOS", UniMas
-http://bgtv.xyz/play/play-128.php?ul=144&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=144&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png"  group-title="CANALES VARIADOS", Universal Channel
-http://bgtv.xyz/play/play-128.php?ul=137&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=137&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png"  group-title="CANALES VARIADOS", Universal Channel
-http://bgtv.xyz/play/play-128.php?ul=902&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=902&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_comedy.png"  group-title="CANALES VARIADOS", Universal Comedy
-http://bgtv.xyz/play/play-128.php?ul=903&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=903&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_crime.png"  group-title="CANALES VARIADOS", Universal Crime Este
-http://bgtv.xyz/play/play-128.php?ul=904&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=904&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_crime.png"  group-title="CANALES VARIADOS", Universal Crime Oeste
-http://bgtv.xyz/play/play-128.php?ul=502&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=502&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png"  group-title="CANALES VARIADOS", Universal Premier Este
-http://bgtv.xyz/play/play-128.php?ul=901&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=901&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png"  group-title="CANALES VARIADOS", Universal Reality
-http://bgtv.xyz/play/play-128.php?ul=905&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=905&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png"  group-title="CANALES VARIADOS", Universal Reallity
-http://bgtv.xyz/play/play-128.php?ul=99&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=99&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/univisiondeportes.png"  group-title="CANALES VARIADOS", Univisi\u00F3n Deportes
-http://bgtv.xyz/play/play-128.php?ul=373&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=373&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Univision In
-http://bgtv.xyz/play/play-128.php?ul=100&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=100&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"  group-title="CANALES VARIADOS", Univision Tlnovelas
-http://bgtv.xyz/play/play-128.php?ul=413&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=413&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"  group-title="CANALES VARIADOS", Uno
-http://bgtv.xyz/play/play-128.php?ul=775&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=775&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/vamos.png"  group-title="CANALES VARIADOS", Vamos ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=940&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=940&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png"  group-title="CANALES VARIADOS", VH1
-http://bgtv.xyz/play/play-128.php?ul=101&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=101&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png"  group-title="CANALES VARIADOS", VH1 ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=632&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=632&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/videorola.png"  group-title="CANALES VARIADOS", Video Rola
-http://bgtv.xyz/play/play-128.php?ul=359&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=359&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"  group-title="CANALES VARIADOS", Videos: 1Music
-http://bgtv.xyz/play/play-128.php?ul=433&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=433&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"  group-title="CANALES VARIADOS", Videos: Company Radio TV
-http://bgtv.xyz/play/play-128.php?ul=435&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=435&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"  group-title="CANALES VARIADOS", Videos: Dream TV
-http://bgtv.xyz/play/play-128.php?ul=439&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=439&token=asdasdfasdf
 #EXTINF:-1 tvg-logo=""  group-title="CANALES VARIADOS", Vivatv (Panama)
-http://bgtv.xyz/play/play-128.php?ul=708&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=708&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png"  group-title="CANALES VARIADOS", Wapa PR
-http://bgtv.xyz/play/play-128.php?ul=327&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=327&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png"  group-title="CANALES VARIADOS", Warner Channel
-http://bgtv.xyz/play/play-128.php?ul=102&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=102&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png"  group-title="CANALES VARIADOS", Warner Channel
-http://bgtv.xyz/play/play-128.php?ul=759&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=759&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png"  group-title="CANALES VARIADOS", Warner Channel ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=503&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=503&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png"  group-title="CANALES VARIADOS", Win Sports
-http://bgtv.xyz/play/play-128.php?ul=292&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=292&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png"  group-title="CANALES VARIADOS", Win Sports +
-http://bgtv.xyz/play/play-128.php?ul=881&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=881&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png"  group-title="CANALES VARIADOS", Win Sports + ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=802&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=802&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png"  group-title="CANALES VARIADOS", Win Sports ᵸᴰ
-http://bgtv.xyz/play/play-128.php?ul=754&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=754&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png"  group-title="CANALES VARIADOS", WWE Network
-http://bgtv.xyz/play/play-128.php?ul=276&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=276&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png"  group-title="CANALES VARIADOS", Yogui ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=1567&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=1567&token=asdasdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png"  group-title="CANALES VARIADOS", Yu-Gi-Oh! ²⁴⁺⁷
-http://bgtv.xyz/play/play-128.php?ul=664&token=asdasdfasdf
+http://bgtv.xyz/play/play-101.php?ul=664&token=asdasdfasdf
 
 
 ##EXTVLCOPT:network-caching=1000
