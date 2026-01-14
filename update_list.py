@@ -1,49 +1,48 @@
 import requests
-import sys
 
 # Configuración
 LOCAL_FILE = 'prr.txt'
 REMOTE_URL = 'http://tv.zeuspro.xyz:2052/get.php?username=arturo903&password=11HD4MrrPG&type=m3u_plus'
+# Aquí puedes poner varias URLs de EPG separadas por comas
+EPG_URL = 'https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml' 
 OUTPUT_FILE = 'android.m3u'
 HEADERS = {'User-Agent': 'VLC/3.0.12 LibVLC/3.0.12'}
 
+def procesar_lista(texto_m3u):
+    lineas = texto_m3u.splitlines()
+    resultado = []
+    for i in range(len(lineas)):
+        linea = lineas[i].strip()
+        if linea.startswith("#EXTINF"):
+            if i + 1 < len(lineas):
+                url_siguiente = lineas[i+1].strip().lower()
+                # Mantenemos el filtro de películas .mkv
+                if ".mkv" in url_siguiente:
+                    resultado.append(linea)
+                    resultado.append(lineas[i+1])
+    return resultado
+
 def main():
-    final_lines = ["#EXTM3U\n"]
+    # Insertamos la fuente EPG en la cabecera
+    final_lines = [f'#EXTM3U x-tvg-url="{EPG_URL}"\n']
     
-    # --- PARTE 1: LEER LOCAL ---
+    # --- PROCESAR LOCAL ---
     try:
         with open(LOCAL_FILE, 'r', encoding='utf-8') as f:
-            for line in f:
-                if "#EXTM3U" not in line and line.strip():
-                    final_lines.append(line.strip() + "\n")
-        print("✅ Local prr.txt leído.")
-    except Exception as e:
-        print(f"⚠️ No se pudo leer local: {e}")
+            final_lines.extend(procesar_lista(f.read()))
+    except: pass
 
-    # --- PARTE 2: LEER REMOTO ---
-    print("Intentando conectar a ZeusPro...")
+    # --- PROCESAR REMOTO ---
     try:
-        # Timeout corto para que GitHub no se quede esperando infinitamente
-        r = requests.get(REMOTE_URL, headers=HEADERS, timeout=15)
-        if r.status_code == 200 and "#EXTINF" in r.text:
-            lines = r.text.splitlines()
-            for line in lines:
-                if "#EXTM3U" not in line and line.strip():
-                    final_lines.append(line.strip() + "\n")
-            print(f"✅ ZeusPro integrado correctamente.")
-        else:
-            print(f"❌ ZeusPro respondió error {r.status_code} o lista vacía.")
-    except Exception as e:
-        print(f"❌ Fallo crítico al conectar a ZeusPro: {e}")
+        r = requests.get(REMOTE_URL, headers=HEADERS, timeout=20)
+        if r.status_code == 200:
+            final_lines.extend(procesar_lista(r.text))
+    except: pass
 
-    # --- PARTE 3: ESCRITURA FINAL ---
-    try:
-        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            f.writelines(final_lines)
-        print(f"🚀 Archivo {OUTPUT_FILE} guardado.")
-    except Exception as e:
-        print(f"🔥 Error al escribir archivo: {e}")
-        sys.exit(1) # Solo aquí damos error real si no puede ni escribir
+    # --- GUARDAR ---
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        f.write("\n".join(final_lines))
+    print("🚀 Lista con EPG generada.")
 
 if __name__ == "__main__":
     main()
