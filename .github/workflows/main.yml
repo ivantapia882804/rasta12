@@ -1,0 +1,35 @@
+name: Actualizar Lista M3U
+
+on:
+  push:
+    paths:
+      - 'prr.txt' # Se activa cuando editas tu TXT
+  schedule:
+    - cron: '0 */6 * * *' # Se activa cada 6 horas por si la lista remota cambia
+  workflow_dispatch: # Permite ejecutarlo manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Ejecutar script de unión
+        run: python update_list.py
+
+      - name: Guardar cambios
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add android.m3u
+          git commit -m "Actualización automática de android.m3u" || exit 0
+          git push
