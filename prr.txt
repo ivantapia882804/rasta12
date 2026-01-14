@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
-
+#EXTM3U
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="Mexico", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -243,5 +242,6 @@ https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdn
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416623-8c.png" group-title="Religion",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
 
 
