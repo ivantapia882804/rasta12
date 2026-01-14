@@ -3,7 +3,7 @@ import re
 
 # Fuentes
 local_file = 'prr.txt'
-remote_url = 'http://tv.zeuspro.xyz:2052/get.php?username=arturo903&password=11HD4MrrPG&type=mp3_plus'
+remote_url = 'http://tv.zeuspro.xyz:2052/get.php?username=arturo903&password=11HD4MrrPG&type=m3u_plus'
 output_file = 'android.m3u'
 
 def organizar_canal(linea_info):
