@@ -1,64 +1,48 @@
 import requests
-import re
 
-# Fuentes
+# Fuentes corregidas
 local_file = 'prr.txt'
 remote_url = 'http://tv.zeuspro.xyz:2052/get.php?username=arturo903&password=11HD4MrrPG&type=m3u_plus'
 output_file = 'android.m3u'
 
-def organizar_canal(linea_info):
-    """
-    Mejora la línea #EXTINF asignando grupos basados en palabras clave.
-    """
-    # Ejemplo de personalización por palabras clave
-    if "HBO" in linea_info.upper() or "CINEMAX" in linea_info.upper():
-        linea_info = linea_info.replace('group-title=""', 'group-title="CINE PREMIUM"')
-    elif "FOX" in linea_info.upper() or "STAR" in linea_info.upper():
-        linea_info = linea_info.replace('group-title=""', 'group-title="SERIES"')
-    elif "DEPORTES" in linea_info.upper() or "ESPN" in linea_info.upper():
-        linea_info = linea_info.replace('group-title=""', 'group-title="DEPORTES"')
-    
-    # Si la línea no tiene grupo, asignamos uno general
-    if 'group-title=""' in linea_info or 'group-title' not in linea_info:
-        linea_info = linea_info.replace('group-title="', 'group-title="VARIEDADOS') # Opcional
-        
-    return linea_info
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+}
 
 def main():
     final_content = "#EXTM3U\n"
     
-    # --- PROCESAR LISTA LOCAL (prr.txt) ---
+    # 1. Cargar lo que tienes en prr.txt
     try:
         with open(local_file, 'r', encoding='utf-8') as f:
-            lines = f.readlines()
-            for line in lines:
-                if line.startswith("#EXTINF"):
-                    final_content += organizar_canal(line.strip()) + "\n"
-                elif not line.startswith("#EXTM3U") and line.strip():
+            for line in f:
+                if not line.startswith("#EXTM3U") and line.strip():
                     final_content += line.strip() + "\n"
-    except FileNotFoundError:
-        print("Archivo local no encontrado.")
-
-    # --- PROCESAR LISTA REMOTA (ZeusPro) ---
-    try:
-        r = requests.get(remote_url, timeout=10)
-        if r.status_code == 200:
-            lines = r.text.splitlines()
-            for i in range(len(lines)):
-                line = lines[i].strip()
-                if line.startswith("#EXTINF"):
-                    # Añadimos la info del canal procesada
-                    final_content += organizar_canal(line) + "\n"
-                elif line.startswith("http"):
-                    # Añadimos la URL del streaming
-                    final_content += line + "\n"
+        print("✅ prr.txt añadido.")
     except Exception as e:
-        print(f"Error con ZeusPro: {e}")
+        print(f"⚠️ Nota: No se pudo leer prr.txt ({e})")
 
-    # --- GUARDAR RESULTADO ---
+    # 2. Cargar lo de ZeusPro con el type correcto
+    print("Conectando con ZeusPro...")
+    try:
+        response = requests.get(remote_url, headers=headers, timeout=20)
+        if response.status_code == 200:
+            lines = response.text.splitlines()
+            count = 0
+            for line in lines:
+                if not line.startswith("#EXTM3U") and line.strip():
+                    final_content += line + "\n"
+                    if line.startswith("#EXTINF"): count += 1
+            print(f"✅ ZeusPro añadido: {count} canales encontrados.")
+        else:
+            print(f"❌ Error ZeusPro: Código {response.status_code}")
+    except Exception as e:
+        print(f"❌ Fallo de conexión: {e}")
+
+    # 3. Guardar el archivo final
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(final_content)
-    print("¡Lista android.m3u actualizada con éxito!")
+    print(f"✨ ¡Lista {output_file} creada exitosamente!")
 
 if __name__ == "__main__":
     main()
