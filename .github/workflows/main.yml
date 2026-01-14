@@ -3,14 +3,17 @@ name: Actualizar Lista M3U
 on:
   push:
     paths:
-      - 'prr.txt' # Se activa cuando editas tu TXT
+      - 'prr.txt'
+      - 'update_list.py'
   schedule:
-    - cron: '0 */6 * * *' # Se activa cada 6 horas por si la lista remota cambia
-  workflow_dispatch: # Permite ejecutarlo manualmente
+    - cron: '0 */6 * * *' # Se ejecuta cada 6 horas automáticamente
+  workflow_dispatch: # Permite darle a "Play" manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -23,7 +26,7 @@ jobs:
       - name: Instalar dependencias
         run: pip install requests
 
-      - name: Ejecutar script de unión
+      - name: Ejecutar script
         run: python update_list.py
 
       - name: Guardar cambios
@@ -31,5 +34,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add android.m3u
-          git commit -m "Actualización automática de android.m3u" || exit 0
+          git commit -m "Lista actualizada sin VOD" || exit 0
           git push
