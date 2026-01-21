@@ -6,7 +6,7 @@ on:
       - 'prr.txt'
       - 'update_list.py'
   schedule:
-    - cron: '0 */6 * * *' # Se ejecuta cada 6 horas automáticamente
+    - cron: '0 */3 * * *' # Se ejecuta cada 6 horas automáticamente
   workflow_dispatch: # Permite darle a "Play" manualmente
 
 jobs:
