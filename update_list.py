@@ -2,7 +2,7 @@ import requests
 
 # Configuración
 LOCAL_FILE = 'prr.txt'
-REMOTE_URL = 'http://tv.zeuspro.xyz:8080/get.php?username=mauricio6915&password=7f638d67eb53&type=m3u_plus,http://tv.zeuspro.xyz:2052/get.php?username=arturo903&password=11HD4MrrPG&type=m3u_plus'
+REMOTE_URL = ['http://tv.zeuspro.xyz:8080/get.php?username=mauricio6915&password=7f638d67eb53&type=m3u_plus','http://tv.zeuspro.xyz:2052/get.php?username=arturo903&password=11HD4MrrPG&type=m3u_plus']
 EPG_URL = 'https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml' 
 OUTPUT_FILE = 'android.m3u'
 HEADERS = {'User-Agent': 'VLC/3.0.12 LibVLC/3.0.12'}
