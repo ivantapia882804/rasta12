@@ -819,7 +819,7 @@ http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/9809?output=ts
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/9810?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="DOC-TRU TV (L)(1080)" tvg-logo="https://logos.xbots.com.mx/79.png" group-title="CANALES-DOCUMENTALES",DOC-TRU TV (L)(1080)
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/9852?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="PPV 1 Ecuador - Noche Amarilla (e)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJXYIj5AkJby0rCZPhEnsvDHS7WlQbJIMYQ&s" group-title="ECUADOR",PPV 1 Ecuador - Noche Amarilla (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 Ecuador - Noche Amarilla (e)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJXYIj5AkJby0rCZPhEnsvDHS7WlQbJIMYQ&s" group-title="ECUADOR",PPV 1 Ecuador - Noche Amarilla (e)(1080)
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174447?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="PPV 2 Ecuador - Noche Amarilla (e)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJXYIj5AkJby0rCZPhEnsvDHS7WlQbJIMYQ&s" group-title="ECUADOR",PPV 2 Ecuador - Noche Amarilla (e)(720)
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174448?output=ts
@@ -2499,92 +2499,6 @@ http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174384?output=ts
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174385?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV FHD" tvg-logo="http://127.0.0.1/" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA TV FHD
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174386?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: ABC (GAMES ONLY) (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-8xGwyL78JZTdDjzI_nXtBjVyNeX_Ff3eq9Q087hkh8.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: ABC (GAMES ONLY) (Z)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174387?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: ATLANTA HAWKS (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE16h32TI0VOQ8YDjZugSSXIdToNFQdXAoqYurEGmtdcVG.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: ATLANTA HAWKS (Z)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174388?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: BOSTON CELTICS (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE19ipBcWLWs4534defqqgdYXebggPLeJCq417FoPmxHC2.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: BOSTON CELTICS (Z)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174389?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: BROOKLYN NETS (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE19lT9J9uU5e5YCJIFmKf4q0bE_MUWZzwDZuy3UqrI9eZ.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: BROOKLYN NETS (Z)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174390?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: CHARLOTTE HORNETS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE174vNAaf-ilHmGYxvsEkb0_kXq_uVfOPWTMdeYlw8NVH.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: CHARLOTTE HORNETS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174391?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: CHICAGO BULLS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1x4qNIOCnb-h-8lC9HV6CbNto3NNk73VKZ1jgQ3d76bj.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: CHICAGO BULLS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174392?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: CLEVELAND CAVALIERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE18JPuHRU1fViZGN4Kac5N9DIBTZvEhvuSe_1H-dETSEh.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: CLEVELAND CAVALIERS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174393?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: DALLAS MAVERICKS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1_TQO5XOHJSSfIzRo-7K0qQ19T9uf6RIggCf6R97glv0.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: DALLAS MAVERICKS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174394?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: DETROIT PISTONS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-A6H_bgJfW_W79AIqeQTxvRSf_BeiC6fxFQ9j-hq3Op.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: DETROIT PISTONS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174395?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: GOLDEN STATE WARRIORS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE17xGme9MlXtcPTH_lWCFgEtk3tMC7fXM3cdTr8Lx8GQm.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: GOLDEN STATE WARRIORS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174396?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: HOUSTON ROCKETS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE175K0XPW0R2OFCWgYdKN862JLHEHEvpU8bUmMxvAhLqI.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: HOUSTON ROCKETS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174397?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: INDIANA PACERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE13pP-cxnrpD9SxBrwBq_9w4jIuzJe2hVJXYfgDjfqa0f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: INDIANA PACERS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174398?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: LOS ANGELES CLIPPERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1_LvtqACH7TvRKyCkOTKTwjReXIisLYZSSfbHzR7DJNM.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: LOS ANGELES CLIPPERS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174399?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: LOS ANGELES LAKERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE11umvhfigmAuhpWjhcHTKIy4b6OpCfB6Pd9i6ZFnYhMbHtYmgTiMbobZWTLElZu60A.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: LOS ANGELES LAKERS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174400?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: MEMPHIS GRIZZLIES" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE14fOv2w2XnccP8HQRYnvSB723KBmt9I8_o7GmRk0PDPJ.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: MEMPHIS GRIZZLIES
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174401?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: MIAMI HEAT" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1_-snNj-P5ngrUZZgLpTYaBulXX0q3QqGJ_iryT28bZy.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: MIAMI HEAT
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174402?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: MINNESOTA TIMBERWOLVES" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE14tYw93S-3lnVZHaY8ZDxpvBFReRyu9pbpAvMBnJ6FO5.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: MINNESOTA TIMBERWOLVES
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174403?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: NBATV (GAMES ONLY)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE18qDnuWP5DEZm1a3x_tlPTtsj4wsao0whdrFQ4I9Tfyo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: NBATV (GAMES ONLY)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174404?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: NEW ORLEANS PELICANS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE10H9uEv64JHgVA_cbmiW-n819wm5f8udWYw6VptwdXR7.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: NEW ORLEANS PELICANS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174405?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: NEW YORK KNICKS (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-OwwcgM6Sk9iBjXq-5TfQ23dmy1tx2-TkywJ0rM7YVW.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: NEW YORK KNICKS (Z)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174406?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: OKLAHOMA CITY THUNDER" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE10fpHXJbfD3OJTeuDEZxkdQlUpq4NQ1ChYGuaqOUdIEN.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: OKLAHOMA CITY THUNDER
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174407?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: ORLANDO MAGIC" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE18P2LpmBJeuAHjrGXTnRJJ9z54gLiHGu69fNin33s77o.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: ORLANDO MAGIC
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174408?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: PHILADELPHIA 76ERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1wCPyHSUcmyA5HjSLlHLsyN06dfh9jzitGJwLmSea2PA.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: PHILADELPHIA 76ERS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174409?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: PHOENIX SUNS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-kqfCNxrFoOxOrauB1vi1hIIme89QAX0rMFCwY91DNl.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: PHOENIX SUNS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174410?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: PORTLAND TRAIL BLAZERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1wY_Rp2-Hv-49xNXbLiq3O6l1YA-XuNwuauUp2GXMRpa.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: PORTLAND TRAIL BLAZERS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174411?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: SACRAMENTO KINGS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE13PY8Q23N1XJz-3zi8xozBCCsj1jM-97-YrEdDkMpp61.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: SACRAMENTO KINGS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174412?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: SAN ANTONIO SPURS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE12OLmEv0TAVzI4IZfCp2PZ-oV0HwqEN6Z6hBBM7kSqgT.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: SAN ANTONIO SPURS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174413?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: TNT (GAMES ONLY)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE10OVrJ_HGgU8i4iIo6IcZyL5KkoKrxVNiRV2dZVsdqQP.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: TNT (GAMES ONLY)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174414?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: TORONTO RAPTORS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE19PuH0sxDrsOOBMSzEyq4FIGQx3zF1abg6da_shEbxzW.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: TORONTO RAPTORS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174415?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: UTAH JAZZ" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE15frrL9HAiG2mKK7LwVUToTcwoe-LN4xIFshHQBU4gKg.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: UTAH JAZZ
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174416?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: WASHINGTON WIZARDS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1xuPdT83BGTEybdtGtYPWjjZwgfjA6QRfPtXtc2v9096.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: WASHINGTON WIZARDS
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174417?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) Nba Tv HD" tvg-logo="https://yt3.ggpht.com/lwNmuM6cV_kH2dT408Q5HBdKCf7gKM2A7yh_cclROgG5urRy9qvfoSsUhkUZX94xH6rg9m4bAw=ns-nd" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",(OFFLINE) Nba Tv HD
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174418?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="Canada: NBA TV Canada" tvg-logo="http://onerestream.us:80/images/d7YmuT5Nt_KFqS79HmJuFvDrnmHdlf6MgfEA99rjt65uSEgfLM4Wr54Fow4pwNeofaJobj7T1FT2Efw_F7XINeEgHPcPdTCxb-eQXkVl8T4Knz9eub8W4cnSs5iaOvXH.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",Canada: NBA TV Canada
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174419?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 1 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 1 (Z)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174420?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 10 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 10 (Z)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174421?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 2 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 2 (Z)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174422?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 3 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 3 (Z)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174423?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 4 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 4 (Z)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174424?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 5 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 5 (Z)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174425?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 6 (Z) (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 6 (Z) (Z)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174426?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 7 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 7 (Z)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174427?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 8 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 8 (Z)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174428?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 9 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 9 (Z)
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174429?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="01/31 NBA 03:00pm Charlotte Hornets vs San Antonio Spurs" tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tms_FUHX6K0DyTAXP6tOlS1wu6EwCpuoTfKAmF8Z0LGzth5jpqNsosclDRdgkEO0a5kB65RNFVKscJ8bDoF1LO6A.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",01/31 NBA 03:00pm Charlotte Hornets vs San Antonio Spurs
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174430?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="01/31 NBA 07:00pm Indiana Pacers vs Atlanta Hawks" tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmlhPu-fEDcAKilBmdWuJgfWJN6HkZSiuKOQH_uoIzcUt_Kq5U7_hraEGqLypEDV6Km5kcyypyDJTBv5Yr4_051E.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",01/31 NBA 07:00pm Indiana Pacers vs Atlanta Hawks
@@ -2619,6 +2533,22 @@ http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174444?output=ts
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174445?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="PPV 2 Colombia - Atletico Nacional Vs inter Miami" tvg-logo="https://cdn.getcrowder.com/images/199d8d63-4b1c-413e-b717-24353f465766-boletadigital.jpg" group-title="COLOMBIA",PPV 2 Colombia - Atletico Nacional Vs inter Miami
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174446?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="AEW Collision (2026-01-31 19:00:00)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGp9gKF6AzehkJMjcpvxjAEQTiURYw6bdn2Q&s" group-title="EVENTOS PPV",AEW Collision (2026-01-31 19:00:00)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174450?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN KO | 18:30 Hrs | Xander Zayas vs. Abass Baraou" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fboxing.png" group-title="EVENTOS PPV",ESPN KO | 18:30 Hrs | Xander Zayas vs. Abass Baraou
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174451?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Sat 31 11:00 Hrs | WWE Royal Rumble 2026" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fwwe.png" group-title="EVENTOS PPV",Sat 31 11:00 Hrs | WWE Royal Rumble 2026
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174452?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Sat 31 11:00 Hrs | WWE Countdown to Royal Rumble 2026" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fwwe.png" group-title="EVENTOS PPV",Sat 31 11:00 Hrs | WWE Countdown to Royal Rumble 2026
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174453?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Sat 31 13:00 Hrs | WWE En Espanol - Royal Rumble 2026" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fwwe.png" group-title="EVENTOS PPV",Sat 31 13:00 Hrs | WWE En Espanol - Royal Rumble 2026
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174454?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Sat 31 17:00 Hrs | WWE Royal Rumble 2026 Post Show" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fwwe.png" group-title="EVENTOS PPV",Sat 31 17:00 Hrs | WWE Royal Rumble 2026 Post Show
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174455?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="CMLL" tvg-logo="" group-title="EVENTOS PPV",CMLL
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174456?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Amistoso | 16:00 Atl Nacional vs Inter Miami" tvg-logo="https://unanimodeportes.s3.amazonaws.com/wp-content/uploads/2026/01/ATLETICO-NACIONAL-INTER-MIAMI.png" group-title="EVENTOS PPV",Amistoso | 16:00 Atl Nacional vs Inter Miami
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174457?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="América Estéreo Guayaquil (SD)(W)" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="ECUADOR-LOCAL",América Estéreo Guayaquil (SD)(W)
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/135812?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="América Estéreo Tulcán (720)(W)" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="ECUADOR-LOCAL",América Estéreo Tulcán (720)(W)
@@ -5875,7 +5805,7 @@ http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9809?output=ts
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9810?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="DOC-TRU TV (L)(1080)" tvg-logo="https://logos.xbots.com.mx/79.png" group-title="CANALES-DOCUMENTALES",DOC-TRU TV (L)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9852?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="PPV 1 Ecuador - Noche Amarilla (e)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJXYIj5AkJby0rCZPhEnsvDHS7WlQbJIMYQ&s" group-title="ECUADOR",PPV 1 Ecuador - Noche Amarilla (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 Ecuador - Noche Amarilla (e)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJXYIj5AkJby0rCZPhEnsvDHS7WlQbJIMYQ&s" group-title="ECUADOR",PPV 1 Ecuador - Noche Amarilla (e)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174447?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="PPV 2 Ecuador - Noche Amarilla (e)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJXYIj5AkJby0rCZPhEnsvDHS7WlQbJIMYQ&s" group-title="ECUADOR",PPV 2 Ecuador - Noche Amarilla (e)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174448?output=ts
@@ -7555,92 +7485,6 @@ http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174384?output=ts
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174385?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV FHD" tvg-logo="http://127.0.0.1/" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA TV FHD
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174386?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: ABC (GAMES ONLY) (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-8xGwyL78JZTdDjzI_nXtBjVyNeX_Ff3eq9Q087hkh8.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: ABC (GAMES ONLY) (Z)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174387?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: ATLANTA HAWKS (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE16h32TI0VOQ8YDjZugSSXIdToNFQdXAoqYurEGmtdcVG.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: ATLANTA HAWKS (Z)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174388?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: BOSTON CELTICS (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE19ipBcWLWs4534defqqgdYXebggPLeJCq417FoPmxHC2.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: BOSTON CELTICS (Z)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174389?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: BROOKLYN NETS (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE19lT9J9uU5e5YCJIFmKf4q0bE_MUWZzwDZuy3UqrI9eZ.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: BROOKLYN NETS (Z)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174390?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: CHARLOTTE HORNETS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE174vNAaf-ilHmGYxvsEkb0_kXq_uVfOPWTMdeYlw8NVH.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: CHARLOTTE HORNETS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174391?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: CHICAGO BULLS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1x4qNIOCnb-h-8lC9HV6CbNto3NNk73VKZ1jgQ3d76bj.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: CHICAGO BULLS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174392?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: CLEVELAND CAVALIERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE18JPuHRU1fViZGN4Kac5N9DIBTZvEhvuSe_1H-dETSEh.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: CLEVELAND CAVALIERS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174393?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: DALLAS MAVERICKS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1_TQO5XOHJSSfIzRo-7K0qQ19T9uf6RIggCf6R97glv0.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: DALLAS MAVERICKS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174394?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: DETROIT PISTONS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-A6H_bgJfW_W79AIqeQTxvRSf_BeiC6fxFQ9j-hq3Op.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: DETROIT PISTONS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174395?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: GOLDEN STATE WARRIORS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE17xGme9MlXtcPTH_lWCFgEtk3tMC7fXM3cdTr8Lx8GQm.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: GOLDEN STATE WARRIORS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174396?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: HOUSTON ROCKETS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE175K0XPW0R2OFCWgYdKN862JLHEHEvpU8bUmMxvAhLqI.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: HOUSTON ROCKETS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174397?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: INDIANA PACERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE13pP-cxnrpD9SxBrwBq_9w4jIuzJe2hVJXYfgDjfqa0f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: INDIANA PACERS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174398?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: LOS ANGELES CLIPPERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1_LvtqACH7TvRKyCkOTKTwjReXIisLYZSSfbHzR7DJNM.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: LOS ANGELES CLIPPERS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174399?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: LOS ANGELES LAKERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE11umvhfigmAuhpWjhcHTKIy4b6OpCfB6Pd9i6ZFnYhMbHtYmgTiMbobZWTLElZu60A.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: LOS ANGELES LAKERS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174400?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: MEMPHIS GRIZZLIES" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE14fOv2w2XnccP8HQRYnvSB723KBmt9I8_o7GmRk0PDPJ.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: MEMPHIS GRIZZLIES
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174401?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: MIAMI HEAT" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1_-snNj-P5ngrUZZgLpTYaBulXX0q3QqGJ_iryT28bZy.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: MIAMI HEAT
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174402?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: MINNESOTA TIMBERWOLVES" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE14tYw93S-3lnVZHaY8ZDxpvBFReRyu9pbpAvMBnJ6FO5.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: MINNESOTA TIMBERWOLVES
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174403?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: NBATV (GAMES ONLY)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE18qDnuWP5DEZm1a3x_tlPTtsj4wsao0whdrFQ4I9Tfyo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: NBATV (GAMES ONLY)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174404?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: NEW ORLEANS PELICANS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE10H9uEv64JHgVA_cbmiW-n819wm5f8udWYw6VptwdXR7.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: NEW ORLEANS PELICANS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174405?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: NEW YORK KNICKS (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-OwwcgM6Sk9iBjXq-5TfQ23dmy1tx2-TkywJ0rM7YVW.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: NEW YORK KNICKS (Z)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174406?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: OKLAHOMA CITY THUNDER" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE10fpHXJbfD3OJTeuDEZxkdQlUpq4NQ1ChYGuaqOUdIEN.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: OKLAHOMA CITY THUNDER
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174407?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: ORLANDO MAGIC" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE18P2LpmBJeuAHjrGXTnRJJ9z54gLiHGu69fNin33s77o.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: ORLANDO MAGIC
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174408?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: PHILADELPHIA 76ERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1wCPyHSUcmyA5HjSLlHLsyN06dfh9jzitGJwLmSea2PA.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: PHILADELPHIA 76ERS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174409?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: PHOENIX SUNS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-kqfCNxrFoOxOrauB1vi1hIIme89QAX0rMFCwY91DNl.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: PHOENIX SUNS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174410?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: PORTLAND TRAIL BLAZERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1wY_Rp2-Hv-49xNXbLiq3O6l1YA-XuNwuauUp2GXMRpa.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: PORTLAND TRAIL BLAZERS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174411?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: SACRAMENTO KINGS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE13PY8Q23N1XJz-3zi8xozBCCsj1jM-97-YrEdDkMpp61.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: SACRAMENTO KINGS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174412?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: SAN ANTONIO SPURS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE12OLmEv0TAVzI4IZfCp2PZ-oV0HwqEN6Z6hBBM7kSqgT.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: SAN ANTONIO SPURS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174413?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: TNT (GAMES ONLY)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE10OVrJ_HGgU8i4iIo6IcZyL5KkoKrxVNiRV2dZVsdqQP.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: TNT (GAMES ONLY)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174414?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: TORONTO RAPTORS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE19PuH0sxDrsOOBMSzEyq4FIGQx3zF1abg6da_shEbxzW.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: TORONTO RAPTORS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174415?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: UTAH JAZZ" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE15frrL9HAiG2mKK7LwVUToTcwoe-LN4xIFshHQBU4gKg.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: UTAH JAZZ
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174416?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA: WASHINGTON WIZARDS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1xuPdT83BGTEybdtGtYPWjjZwgfjA6QRfPtXtc2v9096.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: WASHINGTON WIZARDS
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174417?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) Nba Tv HD" tvg-logo="https://yt3.ggpht.com/lwNmuM6cV_kH2dT408Q5HBdKCf7gKM2A7yh_cclROgG5urRy9qvfoSsUhkUZX94xH6rg9m4bAw=ns-nd" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",(OFFLINE) Nba Tv HD
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174418?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="Canada: NBA TV Canada" tvg-logo="http://onerestream.us:80/images/d7YmuT5Nt_KFqS79HmJuFvDrnmHdlf6MgfEA99rjt65uSEgfLM4Wr54Fow4pwNeofaJobj7T1FT2Efw_F7XINeEgHPcPdTCxb-eQXkVl8T4Knz9eub8W4cnSs5iaOvXH.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",Canada: NBA TV Canada
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174419?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 1 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 1 (Z)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174420?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 10 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 10 (Z)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174421?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 2 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 2 (Z)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174422?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 3 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 3 (Z)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174423?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 4 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 4 (Z)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174424?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 5 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 5 (Z)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174425?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 6 (Z) (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 6 (Z) (Z)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174426?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 7 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 7 (Z)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174427?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 8 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 8 (Z)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174428?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 9 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 9 (Z)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174429?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="01/31 NBA 03:00pm Charlotte Hornets vs San Antonio Spurs" tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tms_FUHX6K0DyTAXP6tOlS1wu6EwCpuoTfKAmF8Z0LGzth5jpqNsosclDRdgkEO0a5kB65RNFVKscJ8bDoF1LO6A.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",01/31 NBA 03:00pm Charlotte Hornets vs San Antonio Spurs
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174430?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="01/31 NBA 07:00pm Indiana Pacers vs Atlanta Hawks" tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmlhPu-fEDcAKilBmdWuJgfWJN6HkZSiuKOQH_uoIzcUt_Kq5U7_hraEGqLypEDV6Km5kcyypyDJTBv5Yr4_051E.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",01/31 NBA 07:00pm Indiana Pacers vs Atlanta Hawks
@@ -7675,6 +7519,22 @@ http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174444?output=ts
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174445?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="PPV 2 Colombia - Atletico Nacional Vs inter Miami" tvg-logo="https://cdn.getcrowder.com/images/199d8d63-4b1c-413e-b717-24353f465766-boletadigital.jpg" group-title="COLOMBIA",PPV 2 Colombia - Atletico Nacional Vs inter Miami
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174446?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="AEW Collision (2026-01-31 19:00:00)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGp9gKF6AzehkJMjcpvxjAEQTiURYw6bdn2Q&s" group-title="EVENTOS PPV",AEW Collision (2026-01-31 19:00:00)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174450?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN KO | 18:30 Hrs | Xander Zayas vs. Abass Baraou" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fboxing.png" group-title="EVENTOS PPV",ESPN KO | 18:30 Hrs | Xander Zayas vs. Abass Baraou
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174451?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Sat 31 11:00 Hrs | WWE Royal Rumble 2026" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fwwe.png" group-title="EVENTOS PPV",Sat 31 11:00 Hrs | WWE Royal Rumble 2026
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174452?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Sat 31 11:00 Hrs | WWE Countdown to Royal Rumble 2026" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fwwe.png" group-title="EVENTOS PPV",Sat 31 11:00 Hrs | WWE Countdown to Royal Rumble 2026
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174453?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Sat 31 13:00 Hrs | WWE En Espanol - Royal Rumble 2026" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fwwe.png" group-title="EVENTOS PPV",Sat 31 13:00 Hrs | WWE En Espanol - Royal Rumble 2026
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174454?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Sat 31 17:00 Hrs | WWE Royal Rumble 2026 Post Show" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fwwe.png" group-title="EVENTOS PPV",Sat 31 17:00 Hrs | WWE Royal Rumble 2026 Post Show
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174455?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="CMLL" tvg-logo="" group-title="EVENTOS PPV",CMLL
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174456?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Amistoso | 16:00 Atl Nacional vs Inter Miami" tvg-logo="https://unanimodeportes.s3.amazonaws.com/wp-content/uploads/2026/01/ATLETICO-NACIONAL-INTER-MIAMI.png" group-title="EVENTOS PPV",Amistoso | 16:00 Atl Nacional vs Inter Miami
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174457?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="América Estéreo Guayaquil (SD)(W)" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="ECUADOR-LOCAL",América Estéreo Guayaquil (SD)(W)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/135812?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="América Estéreo Tulcán (720)(W)" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="ECUADOR-LOCAL",América Estéreo Tulcán (720)(W)
