@@ -819,6 +819,12 @@ http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/9809?output=ts
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/9810?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="DOC-TRU TV (L)(1080)" tvg-logo="https://logos.xbots.com.mx/79.png" group-title="CANALES-DOCUMENTALES",DOC-TRU TV (L)(1080)
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/9852?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 Ecuador - Noche Amarilla (e)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJXYIj5AkJby0rCZPhEnsvDHS7WlQbJIMYQ&s" group-title="ECUADOR",PPV 1 Ecuador - Noche Amarilla (e)(720)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174447?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2 Ecuador - Noche Amarilla (e)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJXYIj5AkJby0rCZPhEnsvDHS7WlQbJIMYQ&s" group-title="ECUADOR",PPV 2 Ecuador - Noche Amarilla (e)(720)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174448?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV 3 Ecuador - Noche Amarilla (e)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJXYIj5AkJby0rCZPhEnsvDHS7WlQbJIMYQ&s" group-title="ECUADOR",PPV 3 Ecuador - Noche Amarilla (e)(720)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174449?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="ECU PPV 1 - Liga Pro 1 (e)(1080)" tvg-logo="https://i.postimg.cc/gjpky4hf/Liga-Pro-Ecuador-Proyecto-Xlogo.png" group-title="ECUADOR",ECU PPV 1 - Liga Pro 1 (e)(1080)
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/143255?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="ECU- Canal del Futbol (e)(1080)" tvg-logo="https://i.postimg.cc/MHgykJxQ/Proyectox-24-7-series-Retro1-23.png" group-title="ECUADOR",ECU- Canal del Futbol (e)(1080)
@@ -1901,13 +1907,13 @@ http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/169575?output=ts
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/169576?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Show de los Looney Tunes (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/kt5Pxl9kwZHWjp2poRZ40PGAruZ.jpg" group-title="24/7 INFANTIL",24/7 Infantil - El Show de los Looney Tunes (e)(720)
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/169577?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - (e)(1080)" tvg-logo="https://i.postimg.cc/4drvhpPF/logo-PPV.png" group-title="EVENTOS PPV",PPV 1 - (e)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - Ecuador - Noche Amarilla (e)(1080)" tvg-logo="https://i.postimg.cc/4drvhpPF/logo-PPV.png" group-title="EVENTOS PPV",PPV 1 - Ecuador - Noche Amarilla (e)(1080)
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/170132?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="PPV 2 - Encoder (e)(720)" tvg-logo="https://i.postimg.cc/4drvhpPF/logo-PPV.png" group-title="EVENTOS PPV",PPV 2 - Encoder (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2 - Ecuador - Noche Amarilla" tvg-logo="https://i.postimg.cc/4drvhpPF/logo-PPV.png" group-title="EVENTOS PPV",PPV 2 - Ecuador - Noche Amarilla
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/170133?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="PPV 3 -" tvg-logo="https://i.postimg.cc/4drvhpPF/logo-PPV.png" group-title="EVENTOS PPV",PPV 3 -
+#EXTINF:-1 tvg-id="" tvg-name="PPV 3 - Colombia - Atletico Nacional Vs inter Miami" tvg-logo="https://i.postimg.cc/4drvhpPF/logo-PPV.png" group-title="EVENTOS PPV",PPV 3 - Colombia - Atletico Nacional Vs inter Miami
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/170134?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="PPV 4 -" tvg-logo="https://i.postimg.cc/4drvhpPF/logo-PPV.png" group-title="EVENTOS PPV",PPV 4 -
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4 - Colombia - Atletico Nacional Vs inter Miami" tvg-logo="https://i.postimg.cc/4drvhpPF/logo-PPV.png" group-title="EVENTOS PPV",PPV 4 - Colombia - Atletico Nacional Vs inter Miami
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/170135?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Juveniles - Big Time Rush (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/uEmEqAE3yazeibhQyJoBVk6zK6c.jpg" group-title="24/7 SERIES JUVENILES",24/7 Juveniles - Big Time Rush (e)(720)
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/173426?output=ts
@@ -1941,10 +1947,6 @@ http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/173680?output=ts
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/173681?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="LIGA PERU (Z)" tvg-logo="http://lotv.plus:80/images/tpseC9Z5eJ5j0h1S7bqys_QHnCGcFgcxlZhZ8OudoQvKDje-OWzGwlKK0nMLm7mBSaGBbn9HKyOcbCpqE3-isiXUM_LD8J3bv24GtCmZ4tQXyOX580slpmw1-Xw2CtIlY45V0qMuY-5csOk_pPjPH4LXUXexEtb07UsxkKcREWM.png" group-title="PERU",LIGA PERU (Z)
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/173682?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="Promocion del 30 de Enero al 15 de Febrero" tvg-logo="" group-title="PROMOS ACTIVAS",Promocion del 30 de Enero al 15 de Febrero
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174097?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="Promo 1" tvg-logo="" group-title="PROMOS ACTIVAS",Promo 1
-http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174098?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="7:00pm Ye Live in Mexico City" tvg-logo="https://images.vix.com/prd/league/card/697a3893a56491ff42c93464/864497e99a841bc55f753ae6dbc156fa?tr=w-1800,h-1020:l-image,i-/prd/team/default-logo/663e678c4f65444d866bfe08/39861acccba4243b9487575c9d837ecc,lx-243,c-at_max,t-false,cm-pad_resize,h-684,w-588,ly-168,l-end:l-image,i-/prd/team/default-logo/663e678c4f65444d866bfe08/39861acccba4243b9487575c9d837ecc,lx-N243,c-at_max,t-false,cm-pad_resize,h-684,w-588,ly-168,l-end:w-350,ar-16-9,q-80" group-title="EVENTOS PPV",7:00pm Ye Live in Mexico City
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174106?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="Liga MX | 16:00 América vs. Necaxa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="EVENTOS PPV",Liga MX | 16:00 América vs. Necaxa
@@ -2337,6 +2339,286 @@ http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174301?output=ts
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174302?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="Concierto | 20:00 Ye Live in Mexico City" tvg-logo="https://images.vix.com/prd/league/card/697a3893a56491ff42c93464/864497e99a841bc55f753ae6dbc156fa?tr=w-1800,h-1020:l-image,i-/prd/team/default-logo/663e678c4f65444d866bfe08/39861acccba4243b9487575c9d837ecc,lx-243,c-at_max,t-false,cm-pad_resize,h-684,w-588,ly-168,l-end:l-image,i-/prd/team/default-logo/663e678c4f65444d866bfe08/39861acccba4243b9487575c9d837ecc,lx-N243,c-at_max,t-false,cm-pad_resize,h-684,w-588,ly-168,l-end:w-350,ar-16-9,q-80" group-title="EVENTOS PPV",Concierto | 20:00 Ye Live in Mexico City
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174303?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 Australian Open Juniors Championships (Z)" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/australian-open-1-logo.png" group-title="EVENTOS PPV",19:00 Australian Open Juniors Championships (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174307?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="04:30 Australian Open Legends Championship (Z)" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/australian-open-1-logo.png" group-title="EVENTOS PPV",04:30 Australian Open Legends Championship (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174308?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="02:30 Australian Open AO Animated Womens Championship" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/australian-open-1-logo.png" group-title="EVENTOS PPV",02:30 Australian Open AO Animated Womens Championship
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174309?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="ATP | 09:30 Open Occitanie (Primera Ronda)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",ATP | 09:30 Open Occitanie (Primera Ronda)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174310?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 13 | 21:00  Minnesota Wild vs.Edmonton Oilers" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 13 | 21:00  Minnesota Wild vs.Edmonton Oilers
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174311?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 12 | 21:00  Seattle Kraken vs.Vegas Golden Knights" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 12 | 21:00  Seattle Kraken vs.Vegas Golden Knights
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174312?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 11 | 20:00 Dallas Stars vs.Utah Mammoth" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 11 | 20:00 Dallas Stars vs.Utah Mammoth
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174313?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 10 | 18:00  New Jersey Devils vs.Ottawa Senators" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 10 | 18:00  New Jersey Devils vs.Ottawa Senators
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174314?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 09 | 18:00  Toronto Maple Leafs vs.Vancouver Canucks" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 09 | 18:00  Toronto Maple Leafs vs.Vancouver Canucks
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174315?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 08 | 18:00  Nashville Predators vs.New York Islanders" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 08 | 18:00  Nashville Predators vs.New York Islanders
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174316?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 07 | 18:00  Columbus Blue Jackets vs.St.Louis Blues" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 07 | 18:00  Columbus Blue Jackets vs.St.Louis Blues
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174317?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 06 | 16:00  Carolina Hurricanes vs.Washington Capitals" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 06 | 16:00  Carolina Hurricanes vs.Washington Capitals
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174318?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 05 | 15:00  Winnipeg Jets vs.Florida Panthers" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 05 | 15:00  Winnipeg Jets vs.Florida Panthers
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174319?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 04 | 15:00 San Jose Sharks vs.Calgary Flames" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 04 | 15:00 San Jose Sharks vs.Calgary Flames
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174320?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 03 | 14:30 Pittsburgh Penguins vs New York Rangers" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 03 | 14:30 Pittsburgh Penguins vs New York Rangers
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174321?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 02 | 12:00 Detroit Red Wings vs Colorado Avalanche (Z)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 02 | 12:00 Detroit Red Wings vs Colorado Avalanche (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174322?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 01 | 11:30  Los Angeles Kings vs.Philadelphia Flyers (Z)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 01 | 11:30  Los Angeles Kings vs.Philadelphia Flyers (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174323?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga ESV opcion1 (Z)" tvg-logo="http://lotv.plus:80/images/YIMTqQtx1Wtw1XF8chsQyPQN-NhxPw1YyGN3G70WdHfAOVTN3bP1tKoVdf79460L.jpg" group-title="EVENTOS PPV",Liga ESV opcion1 (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174324?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga ESV opcion2 (Z)" tvg-logo="http://lotv.plus:80/images/YIMTqQtx1Wtw1XF8chsQyPQN-NhxPw1YyGN3G70WdHfAOVTN3bP1tKoVdf79460L.jpg" group-title="EVENTOS PPV",Liga ESV opcion2 (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174325?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga HN" tvg-logo="https://i.postimg.cc/9MMxkc5g/HON.jpg" group-title="EVENTOS PPV",Liga HN
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174326?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga GT (Z)" tvg-logo="http://lotv.plus:80/images/YIMTqQtx1Wtw1XF8chsQyLEuS6eluFE19A45wIuaK3ejf1vsgNONjZT3pqyPuOlK.jpg" group-title="EVENTOS PPV",Liga GT (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174327?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga GT OP2" tvg-logo="https://i.postimg.cc/YqmPk24J/GUA.jpg" group-title="EVENTOS PPV",Liga GT OP2
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174328?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PERU" tvg-logo="http://lotv.plus:80/images/tpseC9Z5eJ5j0h1S7bqys_QHnCGcFgcxlZhZ8OudoQvKDje-OWzGwlKK0nMLm7mBSaGBbn9HKyOcbCpqE3-isiXUM_LD8J3bv24GtCmZ4tQXyOX580slpmw1-Xw2CtIlY45V0qMuY-5csOk_pPjPH4LXUXexEtb07UsxkKcREWM.png" group-title="EVENTOS PPV",LIGA PERU
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174329?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Copa América Futsal | 16:15 Brasil vs. Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Copa-America-Futsal.png" group-title="EVENTOS PPV",Copa América Futsal | 16:15 Brasil vs. Perú
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174330?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Copa América Futsal | 08:30 Ecuador vs. Bolivia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Copa-America-Futsal.png" group-title="EVENTOS PPV",Copa América Futsal | 08:30 Ecuador vs. Bolivia
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174331?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="UEFA Futsal | 12:00 Armenia vs. Croacia (Cuartos de Final)" tvg-logo="https://images.seeklogo.com/logo-png/34/1/uefa-futsal-euro-logo-png_seeklogo-346825.png" group-title="EVENTOS PPV",UEFA Futsal | 12:00 Armenia vs. Croacia (Cuartos de Final)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174332?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="UEFA Futsal | 09:00 Francia vs. Ucrania (Cuartos de Final)" tvg-logo="https://images.seeklogo.com/logo-png/34/1/uefa-futsal-euro-logo-png_seeklogo-346825.png" group-title="EVENTOS PPV",UEFA Futsal | 09:00 Francia vs. Ucrania (Cuartos de Final)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174333?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish League | 14:00 Dundee United vs. Heart of Midlothian" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/45.png" group-title="EVENTOS PPV",Scottish League | 14:00 Dundee United vs. Heart of Midlothian
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174334?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga Profesional de la OFC | 23:30 South Island United vs South Melbourne FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/OFC_Pro_League.png" group-title="EVENTOS PPV",Liga Profesional de la OFC | 23:30 South Island United vs South Melbourne FC
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174335?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga Profesional de la OFC | 23:30 Bula FC vs Solomon Kings FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/OFC_Pro_League.png" group-title="EVENTOS PPV",Liga Profesional de la OFC | 23:30 Bula FC vs Solomon Kings FC
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174336?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Honduras | 19:30 Olimpia vs Juticalpa" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/94pogz1646830106.png" group-title="EVENTOS PPV",Honduras | 19:30 Olimpia vs Juticalpa
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174337?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Honduras | 17:15 Victoria vs Marathón" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/94pogz1646830106.png" group-title="EVENTOS PPV",Honduras | 17:15 Victoria vs Marathón
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174338?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="German 2.Bundesliga | 13:30  1.FC Kaiserslautern vs.SV Elversberg" tvg-logo="" group-title="EVENTOS PPV",German 2.Bundesliga | 13:30  1.FC Kaiserslautern vs.SV Elversberg
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174339?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="El Salvador | 19:00 FAS vs Águila" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logo-Primera-Division-de-El_Salvador.png" group-title="EVENTOS PPV",El Salvador | 19:00 FAS vs Águila
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174340?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Chile | 15:00 Cobresal vs Huachipato" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/86.png" group-title="EVENTOS PPV",Chile | 15:00 Cobresal vs Huachipato
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174341?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Chile | 9:00 Deportes Limache vs Colo-Colo" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/86.png" group-title="EVENTOS PPV",Chile | 9:00 Deportes Limache vs Colo-Colo
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174342?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Albania | 12:00 Dinamo Tirana vs Bylis Ballsh" tvg-logo="https://futboljobs.com/wp-content/uploads/emblems/04744932f3b2270a72f45774eae1f99a.png" group-title="EVENTOS PPV",Albania | 12:00 Dinamo Tirana vs Bylis Ballsh
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174343?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Albania | 09:30 Partizán Tirana vs AF Elbasani" tvg-logo="https://futboljobs.com/wp-content/uploads/emblems/04744932f3b2270a72f45774eae1f99a.png" group-title="EVENTOS PPV",Albania | 09:30 Partizán Tirana vs AF Elbasani
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174344?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Turquía | 11:00 Besiktas vs. Konyaspor" tvg-logo="" group-title="EVENTOS PPV",Turquía | 11:00 Besiktas vs. Konyaspor
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174345?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Perú 17:30 Melgar vs Cienciano" tvg-logo="https://i.pinimg.com/222x/47/45/76/4745769af544f2771531c6751a48eb98.jpg" group-title="EVENTOS PPV",Perú 17:30 Melgar vs Cienciano
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174346?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Perú 14:15 Juan Pablo II College vs FC Cajamarca" tvg-logo="https://i.pinimg.com/222x/47/45/76/4745769af544f2771531c6751a48eb98.jpg" group-title="EVENTOS PPV",Perú 14:15 Juan Pablo II College vs FC Cajamarca
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174347?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Perú 12:00 Sport Boys vs Los Chankas" tvg-logo="https://i.pinimg.com/222x/47/45/76/4745769af544f2771531c6751a48eb98.jpg" group-title="EVENTOS PPV",Perú 12:00 Sport Boys vs Los Chankas
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174348?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Eredivisie | 14:00 Sparta Rotterdam vs. FC Groningen" tvg-logo="https://a3.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="EVENTOS PPV",Eredivisie | 14:00 Sparta Rotterdam vs. FC Groningen
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174349?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Eredivisie | 09:30 AZ vs. NEC Nijmegen" tvg-logo="https://a3.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="EVENTOS PPV",Eredivisie | 09:30 AZ vs. NEC Nijmegen
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174350?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf Women's Under-17 | 19:00 Granada vs. Costa Rica" tvg-logo="" group-title="EVENTOS PPV",Concacaf Women's Under-17 | 19:00 Granada vs. Costa Rica
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174351?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf Women's Under-17 | 18:00 St. Vincent & The Grenadines vs. Aruba" tvg-logo="https://www.concacaf.com/media/0fxjyoyi/cover2.png" group-title="EVENTOS PPV",Concacaf Women's Under-17 | 18:00 St. Vincent & The Grenadines vs. Aruba
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174352?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf Women's Under-17 | 17:00 Cayman Islands vs. Haiti" tvg-logo="https://www.concacaf.com/media/0fxjyoyi/cover2.png" group-title="EVENTOS PPV",Concacaf Women's Under-17 | 17:00 Cayman Islands vs. Haiti
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174353?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf Women's Under-17 | 16:00 Anguilla vs. British Virgin Islands" tvg-logo="https://www.concacaf.com/media/0fxjyoyi/cover2.png" group-title="EVENTOS PPV",Concacaf Women's Under-17 | 16:00 Anguilla vs. British Virgin Islands
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174354?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf Women's Under-17 | 13:00 Guyana Sub-17 vs Honduras Sub-17" tvg-logo="https://www.concacaf.com/media/0fxjyoyi/cover2.png" group-title="EVENTOS PPV",Concacaf Women's Under-17 | 13:00 Guyana Sub-17 vs Honduras Sub-17
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174355?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Guatemala | 21:00 Marquense vs Antigua GFC" tvg-logo="http://lotv.plus:80/images/YIMTqQtx1Wtw1XF8chsQyLEuS6eluFE19A45wIuaK3ejf1vsgNONjZT3pqyPuOlK.jpg" group-title="EVENTOS PPV",Guatemala | 21:00 Marquense vs Antigua GFC
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174356?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Guatemala | 15:00 Mixco vs Cobán Imperial" tvg-logo="http://lotv.plus:80/images/YIMTqQtx1Wtw1XF8chsQyLEuS6eluFE19A45wIuaK3ejf1vsgNONjZT3pqyPuOlK.jpg" group-title="EVENTOS PPV",Guatemala | 15:00 Mixco vs Cobán Imperial
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174357?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Championship | 09:00 Queens Park Rangers vs. Coventry City" tvg-logo="https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png" group-title="EVENTOS PPV",Championship | 09:00 Queens Park Rangers vs. Coventry City
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174358?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Championship | 09:00 Portsmouth vs. West Bromwich Albion" tvg-logo="https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png" group-title="EVENTOS PPV",Championship | 09:00 Portsmouth vs. West Bromwich Albion
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174359?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Championship | 09:00 Ipswich Town vs. Preston North End" tvg-logo="https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png" group-title="EVENTOS PPV",Championship | 09:00 Ipswich Town vs. Preston North End
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174360?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Championship | 06:30 Leicester City vs. Charlton Athletic" tvg-logo="https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png" group-title="EVENTOS PPV",Championship | 06:30 Leicester City vs. Charlton Athletic
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174361?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Championship | 06:30 Stoke City vs. Southampton" tvg-logo="https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png" group-title="EVENTOS PPV",Championship | 06:30 Stoke City vs. Southampton
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174362?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Championship | 06:30 Sheffield Wednesday vs. Wrexham" tvg-logo="https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png" group-title="EVENTOS PPV",Championship | 06:30 Sheffield Wednesday vs. Wrexham
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174363?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Colombia | 17:10 Boyacá Chicó vs Santa Fe" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="EVENTOS PPV",Colombia | 17:10 Boyacá Chicó vs Santa Fe
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174364?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Colombia | 15:00 Cúcuta Deportivo vs Fortaleza CEIF" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="EVENTOS PPV",Colombia | 15:00 Cúcuta Deportivo vs Fortaleza CEIF
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174365?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Arg | 19:00 Talleres de Córdoba vs Platense" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS PPV",Arg | 19:00 Talleres de Córdoba vs Platense
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174366?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Arg | 19:00 Atlético Tucumán vs. Huracán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS PPV",Arg | 19:00 Atlético Tucumán vs. Huracán
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174367?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Arg | 16:45 Independiente vs. Vélez Sarsfield" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS PPV",Arg | 16:45 Independiente vs. Vélez Sarsfield
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174368?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Arg | 14:30 San Lorenzo vs Central Córdoba SdE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS PPV",Arg | 14:30 San Lorenzo vs Central Córdoba SdE
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174369?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Portugal | 14:30 Alverca vs Estrela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/S%C3%ADmbolo_da_Liga_Portuguesa_de_Futebol_Profissional.png" group-title="EVENTOS PPV",Portugal | 14:30 Alverca vs Estrela
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174370?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Portugal | 12:00 Rio Ave vs Arouca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/S%C3%ADmbolo_da_Liga_Portuguesa_de_Futebol_Profissional.png" group-title="EVENTOS PPV",Portugal | 12:00 Rio Ave vs Arouca
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174371?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Portugal | 9:30 Santa Clara vs Estoril" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/S%C3%ADmbolo_da_Liga_Portuguesa_de_Futebol_Profissional.png" group-title="EVENTOS PPV",Portugal | 9:30 Santa Clara vs Estoril
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174372?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | 14:05 Monaco vs. Rennes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/409px-Ligue1_Uber_Eats_logo.png" group-title="EVENTOS PPV",Ligue 1 | 14:05 Monaco vs. Rennes
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174373?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | 12:00 Lorient vs Nantes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/409px-Ligue1_Uber_Eats_logo.png" group-title="EVENTOS PPV",Ligue 1 | 12:00 Lorient vs Nantes
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174374?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | 10:00 Paris FC vs. Olympique Marseille" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/409px-Ligue1_Uber_Eats_logo.png" group-title="EVENTOS PPV",Ligue 1 | 10:00 Paris FC vs. Olympique Marseille
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174375?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga | 11.30 Hamburger SV vs. Bayern Munich" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS PPV",Bundesliga | 11.30 Hamburger SV vs. Bayern Munich
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174376?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga | 08:30 Eintracht Frankfurt vs. Bayer Leverkusen" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS PPV",Bundesliga | 08:30 Eintracht Frankfurt vs. Bayer Leverkusen
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174377?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga | 08:30 RB Leipzig vs. Mainz 05" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS PPV",Bundesliga | 08:30 RB Leipzig vs. Mainz 05
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174378?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga | 08:30 Augsburg vs. St. Pauli" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS PPV",Bundesliga | 08:30 Augsburg vs. St. Pauli
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174379?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga | 08:30 Hoffenheim vs. Union Berlin" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS PPV",Bundesliga | 08:30 Hoffenheim vs. Union Berlin
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174380?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga | 08:30 Werder Bremen vs. Borussia Monchengladbach" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS PPV",Bundesliga | 08:30 Werder Bremen vs. Borussia Monchengladbach
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174381?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie A | 13:45 Cagliari vs. Hellas Verona" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS PPV",Serie A | 13:45 Cagliari vs. Hellas Verona
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174382?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Seri3 A | 11:00 Napoli vs. Fiorentina" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS PPV",Seri3 A | 11:00 Napoli vs. Fiorentina
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174383?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie A | 08:00 Pisa vs. Sassuolo" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS PPV",Serie A | 08:00 Pisa vs. Sassuolo
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174384?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Thrownback - Jamz Music Videos" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/47bbfe87-6dc9-4038-8998-eb0e2a0f888e.jpg" group-title="EVENTOS PPV",Thrownback - Jamz Music Videos
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174385?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV FHD" tvg-logo="http://127.0.0.1/" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA TV FHD
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174386?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: ABC (GAMES ONLY) (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-8xGwyL78JZTdDjzI_nXtBjVyNeX_Ff3eq9Q087hkh8.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: ABC (GAMES ONLY) (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174387?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: ATLANTA HAWKS (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE16h32TI0VOQ8YDjZugSSXIdToNFQdXAoqYurEGmtdcVG.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: ATLANTA HAWKS (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174388?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: BOSTON CELTICS (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE19ipBcWLWs4534defqqgdYXebggPLeJCq417FoPmxHC2.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: BOSTON CELTICS (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174389?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: BROOKLYN NETS (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE19lT9J9uU5e5YCJIFmKf4q0bE_MUWZzwDZuy3UqrI9eZ.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: BROOKLYN NETS (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174390?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: CHARLOTTE HORNETS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE174vNAaf-ilHmGYxvsEkb0_kXq_uVfOPWTMdeYlw8NVH.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: CHARLOTTE HORNETS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174391?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: CHICAGO BULLS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1x4qNIOCnb-h-8lC9HV6CbNto3NNk73VKZ1jgQ3d76bj.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: CHICAGO BULLS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174392?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: CLEVELAND CAVALIERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE18JPuHRU1fViZGN4Kac5N9DIBTZvEhvuSe_1H-dETSEh.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: CLEVELAND CAVALIERS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174393?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: DALLAS MAVERICKS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1_TQO5XOHJSSfIzRo-7K0qQ19T9uf6RIggCf6R97glv0.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: DALLAS MAVERICKS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174394?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: DETROIT PISTONS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-A6H_bgJfW_W79AIqeQTxvRSf_BeiC6fxFQ9j-hq3Op.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: DETROIT PISTONS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174395?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: GOLDEN STATE WARRIORS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE17xGme9MlXtcPTH_lWCFgEtk3tMC7fXM3cdTr8Lx8GQm.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: GOLDEN STATE WARRIORS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174396?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: HOUSTON ROCKETS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE175K0XPW0R2OFCWgYdKN862JLHEHEvpU8bUmMxvAhLqI.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: HOUSTON ROCKETS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174397?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: INDIANA PACERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE13pP-cxnrpD9SxBrwBq_9w4jIuzJe2hVJXYfgDjfqa0f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: INDIANA PACERS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174398?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LOS ANGELES CLIPPERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1_LvtqACH7TvRKyCkOTKTwjReXIisLYZSSfbHzR7DJNM.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: LOS ANGELES CLIPPERS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174399?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LOS ANGELES LAKERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE11umvhfigmAuhpWjhcHTKIy4b6OpCfB6Pd9i6ZFnYhMbHtYmgTiMbobZWTLElZu60A.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: LOS ANGELES LAKERS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174400?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: MEMPHIS GRIZZLIES" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE14fOv2w2XnccP8HQRYnvSB723KBmt9I8_o7GmRk0PDPJ.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: MEMPHIS GRIZZLIES
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174401?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: MIAMI HEAT" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1_-snNj-P5ngrUZZgLpTYaBulXX0q3QqGJ_iryT28bZy.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: MIAMI HEAT
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174402?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: MINNESOTA TIMBERWOLVES" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE14tYw93S-3lnVZHaY8ZDxpvBFReRyu9pbpAvMBnJ6FO5.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: MINNESOTA TIMBERWOLVES
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174403?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: NBATV (GAMES ONLY)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE18qDnuWP5DEZm1a3x_tlPTtsj4wsao0whdrFQ4I9Tfyo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: NBATV (GAMES ONLY)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174404?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: NEW ORLEANS PELICANS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE10H9uEv64JHgVA_cbmiW-n819wm5f8udWYw6VptwdXR7.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: NEW ORLEANS PELICANS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174405?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: NEW YORK KNICKS (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-OwwcgM6Sk9iBjXq-5TfQ23dmy1tx2-TkywJ0rM7YVW.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: NEW YORK KNICKS (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174406?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: OKLAHOMA CITY THUNDER" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE10fpHXJbfD3OJTeuDEZxkdQlUpq4NQ1ChYGuaqOUdIEN.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: OKLAHOMA CITY THUNDER
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174407?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: ORLANDO MAGIC" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE18P2LpmBJeuAHjrGXTnRJJ9z54gLiHGu69fNin33s77o.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: ORLANDO MAGIC
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174408?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: PHILADELPHIA 76ERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1wCPyHSUcmyA5HjSLlHLsyN06dfh9jzitGJwLmSea2PA.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: PHILADELPHIA 76ERS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174409?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: PHOENIX SUNS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-kqfCNxrFoOxOrauB1vi1hIIme89QAX0rMFCwY91DNl.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: PHOENIX SUNS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174410?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: PORTLAND TRAIL BLAZERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1wY_Rp2-Hv-49xNXbLiq3O6l1YA-XuNwuauUp2GXMRpa.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: PORTLAND TRAIL BLAZERS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174411?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: SACRAMENTO KINGS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE13PY8Q23N1XJz-3zi8xozBCCsj1jM-97-YrEdDkMpp61.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: SACRAMENTO KINGS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174412?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: SAN ANTONIO SPURS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE12OLmEv0TAVzI4IZfCp2PZ-oV0HwqEN6Z6hBBM7kSqgT.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: SAN ANTONIO SPURS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174413?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: TNT (GAMES ONLY)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE10OVrJ_HGgU8i4iIo6IcZyL5KkoKrxVNiRV2dZVsdqQP.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: TNT (GAMES ONLY)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174414?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: TORONTO RAPTORS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE19PuH0sxDrsOOBMSzEyq4FIGQx3zF1abg6da_shEbxzW.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: TORONTO RAPTORS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174415?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: UTAH JAZZ" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE15frrL9HAiG2mKK7LwVUToTcwoe-LN4xIFshHQBU4gKg.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: UTAH JAZZ
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174416?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: WASHINGTON WIZARDS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1xuPdT83BGTEybdtGtYPWjjZwgfjA6QRfPtXtc2v9096.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: WASHINGTON WIZARDS
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174417?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) Nba Tv HD" tvg-logo="https://yt3.ggpht.com/lwNmuM6cV_kH2dT408Q5HBdKCf7gKM2A7yh_cclROgG5urRy9qvfoSsUhkUZX94xH6rg9m4bAw=ns-nd" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",(OFFLINE) Nba Tv HD
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174418?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Canada: NBA TV Canada" tvg-logo="http://onerestream.us:80/images/d7YmuT5Nt_KFqS79HmJuFvDrnmHdlf6MgfEA99rjt65uSEgfLM4Wr54Fow4pwNeofaJobj7T1FT2Efw_F7XINeEgHPcPdTCxb-eQXkVl8T4Knz9eub8W4cnSs5iaOvXH.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",Canada: NBA TV Canada
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174419?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 1 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 1 (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174420?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 10 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 10 (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174421?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 2 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 2 (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174422?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 3 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 3 (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174423?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 4 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 4 (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174424?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 5 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 5 (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174425?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 6 (Z) (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 6 (Z) (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174426?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 7 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 7 (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174427?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 8 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 8 (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174428?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 9 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 9 (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174429?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="01/31 NBA 03:00pm Charlotte Hornets vs San Antonio Spurs" tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tms_FUHX6K0DyTAXP6tOlS1wu6EwCpuoTfKAmF8Z0LGzth5jpqNsosclDRdgkEO0a5kB65RNFVKscJ8bDoF1LO6A.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",01/31 NBA 03:00pm Charlotte Hornets vs San Antonio Spurs
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174430?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="01/31 NBA 07:00pm Indiana Pacers vs Atlanta Hawks" tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmlhPu-fEDcAKilBmdWuJgfWJN6HkZSiuKOQH_uoIzcUt_Kq5U7_hraEGqLypEDV6Km5kcyypyDJTBv5Yr4_051E.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",01/31 NBA 07:00pm Indiana Pacers vs Atlanta Hawks
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174431?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="01/31 NBA 07:30pm Philadelphia 76ers vs New Orleans Pelicans" tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmtgDqlHXAKSOpsXtNqlXgFPQZmHJh3QOmT9u2CjylbB61cwBxdE0gDtHj_bEHzkrqmqcA0iN14CEMfTb70PXkk4.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",01/31 NBA 07:30pm Philadelphia 76ers vs New Orleans Pelicans
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174432?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="01/31 NBA 08:00pm Memphis Grizzlies vs Minnesota Timberwolves" tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmvXIzg_XsmgzCd3eOnmdjzUWxCvI2VnB2pk0y4TpOUq9eL0PIUYfegbek-83DwhQoclRml9401lmOSYqLp7B49Y.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",01/31 NBA 08:00pm Memphis Grizzlies vs Minnesota Timberwolves
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174433?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="01/31 NBA 08:00pm Miami Heat vs Chicago Bulls" tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmhA8TuZE73xhLKZhPT5hKN6N6HTjE1WmtcCuLge5J5vgM0JYusR5F9R9pek9UdmAY10s0tN3Y1NVJ72NVlvj_rs.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",01/31 NBA 08:00pm Miami Heat vs Chicago Bulls
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174434?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="01/31 NBA 08:30pm Houston Rockets vs Dallas Mavericks" tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmoEeE7d9aeXZ8QBhvGFYYOnX9lQ67l05Wj_RSy-U6x1xxNIO9XQo72PdnAvZjLIjBKENTIxYZWdDSsHNv7POzN8.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",01/31 NBA 08:30pm Houston Rockets vs Dallas Mavericks
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174435?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX Fem | 21:06 Tijuana vs Puebla" tvg-logo="https://images.seeklogo.com/logo-png/31/2/ligamx-femenil-logo-png_seeklogo-313609.png" group-title="EVENTOS PPV",Liga MX Fem | 21:06 Tijuana vs Puebla
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174436?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX Fem | 19:00 Mazatlán vs Necaxa" tvg-logo="https://images.seeklogo.com/logo-png/31/2/ligamx-femenil-logo-png_seeklogo-313609.png" group-title="EVENTOS PPV",Liga MX Fem | 19:00 Mazatlán vs Necaxa
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174437?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX Fem | 15:45 Cruz Azul vs. Querétaro" tvg-logo="https://images.seeklogo.com/logo-png/31/2/ligamx-femenil-logo-png_seeklogo-313609.png" group-title="EVENTOS PPV",Liga MX Fem | 15:45 Cruz Azul vs. Querétaro
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174438?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Expansión MX 19:00 Atlético Morelia vs Cancún" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png" group-title="EVENTOS PPV",Expansión MX 19:00 Atlético Morelia vs Cancún
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174439?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX | 19.10 León vs Tigres" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="EVENTOS PPV",Liga MX | 19.10 León vs Tigres
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174440?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX | 19:00 Monterrey vs. Club Tijuana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="EVENTOS PPV",Liga MX | 19:00 Monterrey vs. Club Tijuana
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174441?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX | 17:00 Atlético de San Luis vs. Chivas de Guadalajara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="EVENTOS PPV",Liga MX | 17:00 Atlético de San Luis vs. Chivas de Guadalajara
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174442?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX | 17:00 Atlas vs. Mazatlán FC (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="EVENTOS PPV",Liga MX | 17:00 Atlas vs. Mazatlán FC (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174443?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX | 16:00 América vs. Necaxa (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="EVENTOS PPV",Liga MX | 16:00 América vs. Necaxa (Z)
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174444?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 Colombia - Atletico Nacional Vs inter Miami" tvg-logo="https://cdn.getcrowder.com/images/199d8d63-4b1c-413e-b717-24353f465766-boletadigital.jpg" group-title="COLOMBIA",PPV 1 Colombia - Atletico Nacional Vs inter Miami
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174445?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2 Colombia - Atletico Nacional Vs inter Miami" tvg-logo="https://cdn.getcrowder.com/images/199d8d63-4b1c-413e-b717-24353f465766-boletadigital.jpg" group-title="COLOMBIA",PPV 2 Colombia - Atletico Nacional Vs inter Miami
+http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/174446?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="América Estéreo Guayaquil (SD)(W)" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="ECUADOR-LOCAL",América Estéreo Guayaquil (SD)(W)
 http://tv.zeuspro.xyz:8080/mauricio6915/7f638d67eb53/135812?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="América Estéreo Tulcán (720)(W)" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="ECUADOR-LOCAL",América Estéreo Tulcán (720)(W)
@@ -5593,6 +5875,12 @@ http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9809?output=ts
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9810?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="DOC-TRU TV (L)(1080)" tvg-logo="https://logos.xbots.com.mx/79.png" group-title="CANALES-DOCUMENTALES",DOC-TRU TV (L)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9852?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 Ecuador - Noche Amarilla (e)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJXYIj5AkJby0rCZPhEnsvDHS7WlQbJIMYQ&s" group-title="ECUADOR",PPV 1 Ecuador - Noche Amarilla (e)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174447?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2 Ecuador - Noche Amarilla (e)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJXYIj5AkJby0rCZPhEnsvDHS7WlQbJIMYQ&s" group-title="ECUADOR",PPV 2 Ecuador - Noche Amarilla (e)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174448?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV 3 Ecuador - Noche Amarilla (e)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJXYIj5AkJby0rCZPhEnsvDHS7WlQbJIMYQ&s" group-title="ECUADOR",PPV 3 Ecuador - Noche Amarilla (e)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174449?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="ECU PPV 1 - Liga Pro 1 (e)(1080)" tvg-logo="https://i.postimg.cc/gjpky4hf/Liga-Pro-Ecuador-Proyecto-Xlogo.png" group-title="ECUADOR",ECU PPV 1 - Liga Pro 1 (e)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/143255?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="ECU- Canal del Futbol (e)(1080)" tvg-logo="https://i.postimg.cc/MHgykJxQ/Proyectox-24-7-series-Retro1-23.png" group-title="ECUADOR",ECU- Canal del Futbol (e)(1080)
@@ -6675,13 +6963,13 @@ http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/169575?output=ts
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/169576?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Show de los Looney Tunes (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/kt5Pxl9kwZHWjp2poRZ40PGAruZ.jpg" group-title="24/7 INFANTIL",24/7 Infantil - El Show de los Looney Tunes (e)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/169577?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - (e)(1080)" tvg-logo="https://i.postimg.cc/4drvhpPF/logo-PPV.png" group-title="EVENTOS PPV",PPV 1 - (e)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - Ecuador - Noche Amarilla (e)(1080)" tvg-logo="https://i.postimg.cc/4drvhpPF/logo-PPV.png" group-title="EVENTOS PPV",PPV 1 - Ecuador - Noche Amarilla (e)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/170132?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="PPV 2 - Encoder (e)(720)" tvg-logo="https://i.postimg.cc/4drvhpPF/logo-PPV.png" group-title="EVENTOS PPV",PPV 2 - Encoder (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2 - Ecuador - Noche Amarilla" tvg-logo="https://i.postimg.cc/4drvhpPF/logo-PPV.png" group-title="EVENTOS PPV",PPV 2 - Ecuador - Noche Amarilla
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/170133?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="PPV 3 -" tvg-logo="https://i.postimg.cc/4drvhpPF/logo-PPV.png" group-title="EVENTOS PPV",PPV 3 -
+#EXTINF:-1 tvg-id="" tvg-name="PPV 3 - Colombia - Atletico Nacional Vs inter Miami" tvg-logo="https://i.postimg.cc/4drvhpPF/logo-PPV.png" group-title="EVENTOS PPV",PPV 3 - Colombia - Atletico Nacional Vs inter Miami
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/170134?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="PPV 4 -" tvg-logo="https://i.postimg.cc/4drvhpPF/logo-PPV.png" group-title="EVENTOS PPV",PPV 4 -
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4 - Colombia - Atletico Nacional Vs inter Miami" tvg-logo="https://i.postimg.cc/4drvhpPF/logo-PPV.png" group-title="EVENTOS PPV",PPV 4 - Colombia - Atletico Nacional Vs inter Miami
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/170135?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Juveniles - Big Time Rush (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/uEmEqAE3yazeibhQyJoBVk6zK6c.jpg" group-title="24/7 SERIES JUVENILES",24/7 Juveniles - Big Time Rush (e)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/173426?output=ts
@@ -6715,10 +7003,6 @@ http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/173680?output=ts
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/173681?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="LIGA PERU (Z)" tvg-logo="http://lotv.plus:80/images/tpseC9Z5eJ5j0h1S7bqys_QHnCGcFgcxlZhZ8OudoQvKDje-OWzGwlKK0nMLm7mBSaGBbn9HKyOcbCpqE3-isiXUM_LD8J3bv24GtCmZ4tQXyOX580slpmw1-Xw2CtIlY45V0qMuY-5csOk_pPjPH4LXUXexEtb07UsxkKcREWM.png" group-title="PERU",LIGA PERU (Z)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/173682?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="Promocion del 30 de Enero al 15 de Febrero" tvg-logo="" group-title="PROMOS ACTIVAS",Promocion del 30 de Enero al 15 de Febrero
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174097?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="Promo 1" tvg-logo="" group-title="PROMOS ACTIVAS",Promo 1
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174098?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="7:00pm Ye Live in Mexico City" tvg-logo="https://images.vix.com/prd/league/card/697a3893a56491ff42c93464/864497e99a841bc55f753ae6dbc156fa?tr=w-1800,h-1020:l-image,i-/prd/team/default-logo/663e678c4f65444d866bfe08/39861acccba4243b9487575c9d837ecc,lx-243,c-at_max,t-false,cm-pad_resize,h-684,w-588,ly-168,l-end:l-image,i-/prd/team/default-logo/663e678c4f65444d866bfe08/39861acccba4243b9487575c9d837ecc,lx-N243,c-at_max,t-false,cm-pad_resize,h-684,w-588,ly-168,l-end:w-350,ar-16-9,q-80" group-title="EVENTOS PPV",7:00pm Ye Live in Mexico City
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174106?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="Liga MX | 16:00 América vs. Necaxa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="EVENTOS PPV",Liga MX | 16:00 América vs. Necaxa
@@ -7111,6 +7395,286 @@ http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174301?output=ts
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174302?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="Concierto | 20:00 Ye Live in Mexico City" tvg-logo="https://images.vix.com/prd/league/card/697a3893a56491ff42c93464/864497e99a841bc55f753ae6dbc156fa?tr=w-1800,h-1020:l-image,i-/prd/team/default-logo/663e678c4f65444d866bfe08/39861acccba4243b9487575c9d837ecc,lx-243,c-at_max,t-false,cm-pad_resize,h-684,w-588,ly-168,l-end:l-image,i-/prd/team/default-logo/663e678c4f65444d866bfe08/39861acccba4243b9487575c9d837ecc,lx-N243,c-at_max,t-false,cm-pad_resize,h-684,w-588,ly-168,l-end:w-350,ar-16-9,q-80" group-title="EVENTOS PPV",Concierto | 20:00 Ye Live in Mexico City
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174303?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 Australian Open Juniors Championships (Z)" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/australian-open-1-logo.png" group-title="EVENTOS PPV",19:00 Australian Open Juniors Championships (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174307?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="04:30 Australian Open Legends Championship (Z)" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/australian-open-1-logo.png" group-title="EVENTOS PPV",04:30 Australian Open Legends Championship (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174308?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="02:30 Australian Open AO Animated Womens Championship" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/australian-open-1-logo.png" group-title="EVENTOS PPV",02:30 Australian Open AO Animated Womens Championship
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174309?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="ATP | 09:30 Open Occitanie (Primera Ronda)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",ATP | 09:30 Open Occitanie (Primera Ronda)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174310?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 13 | 21:00  Minnesota Wild vs.Edmonton Oilers" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 13 | 21:00  Minnesota Wild vs.Edmonton Oilers
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174311?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 12 | 21:00  Seattle Kraken vs.Vegas Golden Knights" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 12 | 21:00  Seattle Kraken vs.Vegas Golden Knights
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174312?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 11 | 20:00 Dallas Stars vs.Utah Mammoth" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 11 | 20:00 Dallas Stars vs.Utah Mammoth
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174313?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 10 | 18:00  New Jersey Devils vs.Ottawa Senators" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 10 | 18:00  New Jersey Devils vs.Ottawa Senators
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174314?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 09 | 18:00  Toronto Maple Leafs vs.Vancouver Canucks" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 09 | 18:00  Toronto Maple Leafs vs.Vancouver Canucks
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174315?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 08 | 18:00  Nashville Predators vs.New York Islanders" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 08 | 18:00  Nashville Predators vs.New York Islanders
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174316?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 07 | 18:00  Columbus Blue Jackets vs.St.Louis Blues" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 07 | 18:00  Columbus Blue Jackets vs.St.Louis Blues
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174317?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 06 | 16:00  Carolina Hurricanes vs.Washington Capitals" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 06 | 16:00  Carolina Hurricanes vs.Washington Capitals
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174318?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 05 | 15:00  Winnipeg Jets vs.Florida Panthers" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 05 | 15:00  Winnipeg Jets vs.Florida Panthers
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174319?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 04 | 15:00 San Jose Sharks vs.Calgary Flames" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 04 | 15:00 San Jose Sharks vs.Calgary Flames
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174320?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 03 | 14:30 Pittsburgh Penguins vs New York Rangers" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 03 | 14:30 Pittsburgh Penguins vs New York Rangers
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174321?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 02 | 12:00 Detroit Red Wings vs Colorado Avalanche (Z)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 02 | 12:00 Detroit Red Wings vs Colorado Avalanche (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174322?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL 01 | 11:30  Los Angeles Kings vs.Philadelphia Flyers (Z)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 01 | 11:30  Los Angeles Kings vs.Philadelphia Flyers (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174323?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga ESV opcion1 (Z)" tvg-logo="http://lotv.plus:80/images/YIMTqQtx1Wtw1XF8chsQyPQN-NhxPw1YyGN3G70WdHfAOVTN3bP1tKoVdf79460L.jpg" group-title="EVENTOS PPV",Liga ESV opcion1 (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174324?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga ESV opcion2 (Z)" tvg-logo="http://lotv.plus:80/images/YIMTqQtx1Wtw1XF8chsQyPQN-NhxPw1YyGN3G70WdHfAOVTN3bP1tKoVdf79460L.jpg" group-title="EVENTOS PPV",Liga ESV opcion2 (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174325?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga HN" tvg-logo="https://i.postimg.cc/9MMxkc5g/HON.jpg" group-title="EVENTOS PPV",Liga HN
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174326?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga GT (Z)" tvg-logo="http://lotv.plus:80/images/YIMTqQtx1Wtw1XF8chsQyLEuS6eluFE19A45wIuaK3ejf1vsgNONjZT3pqyPuOlK.jpg" group-title="EVENTOS PPV",Liga GT (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174327?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga GT OP2" tvg-logo="https://i.postimg.cc/YqmPk24J/GUA.jpg" group-title="EVENTOS PPV",Liga GT OP2
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174328?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PERU" tvg-logo="http://lotv.plus:80/images/tpseC9Z5eJ5j0h1S7bqys_QHnCGcFgcxlZhZ8OudoQvKDje-OWzGwlKK0nMLm7mBSaGBbn9HKyOcbCpqE3-isiXUM_LD8J3bv24GtCmZ4tQXyOX580slpmw1-Xw2CtIlY45V0qMuY-5csOk_pPjPH4LXUXexEtb07UsxkKcREWM.png" group-title="EVENTOS PPV",LIGA PERU
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174329?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Copa América Futsal | 16:15 Brasil vs. Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Copa-America-Futsal.png" group-title="EVENTOS PPV",Copa América Futsal | 16:15 Brasil vs. Perú
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174330?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Copa América Futsal | 08:30 Ecuador vs. Bolivia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Copa-America-Futsal.png" group-title="EVENTOS PPV",Copa América Futsal | 08:30 Ecuador vs. Bolivia
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174331?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="UEFA Futsal | 12:00 Armenia vs. Croacia (Cuartos de Final)" tvg-logo="https://images.seeklogo.com/logo-png/34/1/uefa-futsal-euro-logo-png_seeklogo-346825.png" group-title="EVENTOS PPV",UEFA Futsal | 12:00 Armenia vs. Croacia (Cuartos de Final)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174332?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="UEFA Futsal | 09:00 Francia vs. Ucrania (Cuartos de Final)" tvg-logo="https://images.seeklogo.com/logo-png/34/1/uefa-futsal-euro-logo-png_seeklogo-346825.png" group-title="EVENTOS PPV",UEFA Futsal | 09:00 Francia vs. Ucrania (Cuartos de Final)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174333?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish League | 14:00 Dundee United vs. Heart of Midlothian" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/45.png" group-title="EVENTOS PPV",Scottish League | 14:00 Dundee United vs. Heart of Midlothian
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174334?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga Profesional de la OFC | 23:30 South Island United vs South Melbourne FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/OFC_Pro_League.png" group-title="EVENTOS PPV",Liga Profesional de la OFC | 23:30 South Island United vs South Melbourne FC
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174335?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga Profesional de la OFC | 23:30 Bula FC vs Solomon Kings FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/OFC_Pro_League.png" group-title="EVENTOS PPV",Liga Profesional de la OFC | 23:30 Bula FC vs Solomon Kings FC
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174336?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Honduras | 19:30 Olimpia vs Juticalpa" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/94pogz1646830106.png" group-title="EVENTOS PPV",Honduras | 19:30 Olimpia vs Juticalpa
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174337?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Honduras | 17:15 Victoria vs Marathón" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/94pogz1646830106.png" group-title="EVENTOS PPV",Honduras | 17:15 Victoria vs Marathón
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174338?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="German 2.Bundesliga | 13:30  1.FC Kaiserslautern vs.SV Elversberg" tvg-logo="" group-title="EVENTOS PPV",German 2.Bundesliga | 13:30  1.FC Kaiserslautern vs.SV Elversberg
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174339?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="El Salvador | 19:00 FAS vs Águila" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logo-Primera-Division-de-El_Salvador.png" group-title="EVENTOS PPV",El Salvador | 19:00 FAS vs Águila
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174340?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Chile | 15:00 Cobresal vs Huachipato" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/86.png" group-title="EVENTOS PPV",Chile | 15:00 Cobresal vs Huachipato
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174341?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Chile | 9:00 Deportes Limache vs Colo-Colo" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/86.png" group-title="EVENTOS PPV",Chile | 9:00 Deportes Limache vs Colo-Colo
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174342?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Albania | 12:00 Dinamo Tirana vs Bylis Ballsh" tvg-logo="https://futboljobs.com/wp-content/uploads/emblems/04744932f3b2270a72f45774eae1f99a.png" group-title="EVENTOS PPV",Albania | 12:00 Dinamo Tirana vs Bylis Ballsh
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174343?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Albania | 09:30 Partizán Tirana vs AF Elbasani" tvg-logo="https://futboljobs.com/wp-content/uploads/emblems/04744932f3b2270a72f45774eae1f99a.png" group-title="EVENTOS PPV",Albania | 09:30 Partizán Tirana vs AF Elbasani
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174344?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Turquía | 11:00 Besiktas vs. Konyaspor" tvg-logo="" group-title="EVENTOS PPV",Turquía | 11:00 Besiktas vs. Konyaspor
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174345?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Perú 17:30 Melgar vs Cienciano" tvg-logo="https://i.pinimg.com/222x/47/45/76/4745769af544f2771531c6751a48eb98.jpg" group-title="EVENTOS PPV",Perú 17:30 Melgar vs Cienciano
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174346?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Perú 14:15 Juan Pablo II College vs FC Cajamarca" tvg-logo="https://i.pinimg.com/222x/47/45/76/4745769af544f2771531c6751a48eb98.jpg" group-title="EVENTOS PPV",Perú 14:15 Juan Pablo II College vs FC Cajamarca
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174347?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Perú 12:00 Sport Boys vs Los Chankas" tvg-logo="https://i.pinimg.com/222x/47/45/76/4745769af544f2771531c6751a48eb98.jpg" group-title="EVENTOS PPV",Perú 12:00 Sport Boys vs Los Chankas
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174348?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Eredivisie | 14:00 Sparta Rotterdam vs. FC Groningen" tvg-logo="https://a3.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="EVENTOS PPV",Eredivisie | 14:00 Sparta Rotterdam vs. FC Groningen
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174349?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Eredivisie | 09:30 AZ vs. NEC Nijmegen" tvg-logo="https://a3.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="EVENTOS PPV",Eredivisie | 09:30 AZ vs. NEC Nijmegen
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174350?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf Women's Under-17 | 19:00 Granada vs. Costa Rica" tvg-logo="" group-title="EVENTOS PPV",Concacaf Women's Under-17 | 19:00 Granada vs. Costa Rica
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174351?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf Women's Under-17 | 18:00 St. Vincent & The Grenadines vs. Aruba" tvg-logo="https://www.concacaf.com/media/0fxjyoyi/cover2.png" group-title="EVENTOS PPV",Concacaf Women's Under-17 | 18:00 St. Vincent & The Grenadines vs. Aruba
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174352?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf Women's Under-17 | 17:00 Cayman Islands vs. Haiti" tvg-logo="https://www.concacaf.com/media/0fxjyoyi/cover2.png" group-title="EVENTOS PPV",Concacaf Women's Under-17 | 17:00 Cayman Islands vs. Haiti
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174353?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf Women's Under-17 | 16:00 Anguilla vs. British Virgin Islands" tvg-logo="https://www.concacaf.com/media/0fxjyoyi/cover2.png" group-title="EVENTOS PPV",Concacaf Women's Under-17 | 16:00 Anguilla vs. British Virgin Islands
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174354?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf Women's Under-17 | 13:00 Guyana Sub-17 vs Honduras Sub-17" tvg-logo="https://www.concacaf.com/media/0fxjyoyi/cover2.png" group-title="EVENTOS PPV",Concacaf Women's Under-17 | 13:00 Guyana Sub-17 vs Honduras Sub-17
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174355?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Guatemala | 21:00 Marquense vs Antigua GFC" tvg-logo="http://lotv.plus:80/images/YIMTqQtx1Wtw1XF8chsQyLEuS6eluFE19A45wIuaK3ejf1vsgNONjZT3pqyPuOlK.jpg" group-title="EVENTOS PPV",Guatemala | 21:00 Marquense vs Antigua GFC
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174356?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Guatemala | 15:00 Mixco vs Cobán Imperial" tvg-logo="http://lotv.plus:80/images/YIMTqQtx1Wtw1XF8chsQyLEuS6eluFE19A45wIuaK3ejf1vsgNONjZT3pqyPuOlK.jpg" group-title="EVENTOS PPV",Guatemala | 15:00 Mixco vs Cobán Imperial
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174357?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Championship | 09:00 Queens Park Rangers vs. Coventry City" tvg-logo="https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png" group-title="EVENTOS PPV",Championship | 09:00 Queens Park Rangers vs. Coventry City
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174358?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Championship | 09:00 Portsmouth vs. West Bromwich Albion" tvg-logo="https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png" group-title="EVENTOS PPV",Championship | 09:00 Portsmouth vs. West Bromwich Albion
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174359?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Championship | 09:00 Ipswich Town vs. Preston North End" tvg-logo="https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png" group-title="EVENTOS PPV",Championship | 09:00 Ipswich Town vs. Preston North End
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174360?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Championship | 06:30 Leicester City vs. Charlton Athletic" tvg-logo="https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png" group-title="EVENTOS PPV",Championship | 06:30 Leicester City vs. Charlton Athletic
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174361?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Championship | 06:30 Stoke City vs. Southampton" tvg-logo="https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png" group-title="EVENTOS PPV",Championship | 06:30 Stoke City vs. Southampton
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174362?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Championship | 06:30 Sheffield Wednesday vs. Wrexham" tvg-logo="https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png" group-title="EVENTOS PPV",Championship | 06:30 Sheffield Wednesday vs. Wrexham
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174363?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Colombia | 17:10 Boyacá Chicó vs Santa Fe" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="EVENTOS PPV",Colombia | 17:10 Boyacá Chicó vs Santa Fe
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174364?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Colombia | 15:00 Cúcuta Deportivo vs Fortaleza CEIF" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="EVENTOS PPV",Colombia | 15:00 Cúcuta Deportivo vs Fortaleza CEIF
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174365?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Arg | 19:00 Talleres de Córdoba vs Platense" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS PPV",Arg | 19:00 Talleres de Córdoba vs Platense
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174366?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Arg | 19:00 Atlético Tucumán vs. Huracán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS PPV",Arg | 19:00 Atlético Tucumán vs. Huracán
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174367?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Arg | 16:45 Independiente vs. Vélez Sarsfield" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS PPV",Arg | 16:45 Independiente vs. Vélez Sarsfield
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174368?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Arg | 14:30 San Lorenzo vs Central Córdoba SdE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS PPV",Arg | 14:30 San Lorenzo vs Central Córdoba SdE
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174369?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Portugal | 14:30 Alverca vs Estrela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/S%C3%ADmbolo_da_Liga_Portuguesa_de_Futebol_Profissional.png" group-title="EVENTOS PPV",Portugal | 14:30 Alverca vs Estrela
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174370?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Portugal | 12:00 Rio Ave vs Arouca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/S%C3%ADmbolo_da_Liga_Portuguesa_de_Futebol_Profissional.png" group-title="EVENTOS PPV",Portugal | 12:00 Rio Ave vs Arouca
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174371?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Portugal | 9:30 Santa Clara vs Estoril" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/S%C3%ADmbolo_da_Liga_Portuguesa_de_Futebol_Profissional.png" group-title="EVENTOS PPV",Portugal | 9:30 Santa Clara vs Estoril
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174372?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | 14:05 Monaco vs. Rennes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/409px-Ligue1_Uber_Eats_logo.png" group-title="EVENTOS PPV",Ligue 1 | 14:05 Monaco vs. Rennes
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174373?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | 12:00 Lorient vs Nantes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/409px-Ligue1_Uber_Eats_logo.png" group-title="EVENTOS PPV",Ligue 1 | 12:00 Lorient vs Nantes
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174374?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | 10:00 Paris FC vs. Olympique Marseille" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/409px-Ligue1_Uber_Eats_logo.png" group-title="EVENTOS PPV",Ligue 1 | 10:00 Paris FC vs. Olympique Marseille
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174375?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga | 11.30 Hamburger SV vs. Bayern Munich" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS PPV",Bundesliga | 11.30 Hamburger SV vs. Bayern Munich
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174376?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga | 08:30 Eintracht Frankfurt vs. Bayer Leverkusen" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS PPV",Bundesliga | 08:30 Eintracht Frankfurt vs. Bayer Leverkusen
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174377?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga | 08:30 RB Leipzig vs. Mainz 05" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS PPV",Bundesliga | 08:30 RB Leipzig vs. Mainz 05
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174378?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga | 08:30 Augsburg vs. St. Pauli" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS PPV",Bundesliga | 08:30 Augsburg vs. St. Pauli
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174379?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga | 08:30 Hoffenheim vs. Union Berlin" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS PPV",Bundesliga | 08:30 Hoffenheim vs. Union Berlin
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174380?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga | 08:30 Werder Bremen vs. Borussia Monchengladbach" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS PPV",Bundesliga | 08:30 Werder Bremen vs. Borussia Monchengladbach
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174381?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie A | 13:45 Cagliari vs. Hellas Verona" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS PPV",Serie A | 13:45 Cagliari vs. Hellas Verona
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174382?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Seri3 A | 11:00 Napoli vs. Fiorentina" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS PPV",Seri3 A | 11:00 Napoli vs. Fiorentina
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174383?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie A | 08:00 Pisa vs. Sassuolo" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS PPV",Serie A | 08:00 Pisa vs. Sassuolo
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174384?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Thrownback - Jamz Music Videos" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/47bbfe87-6dc9-4038-8998-eb0e2a0f888e.jpg" group-title="EVENTOS PPV",Thrownback - Jamz Music Videos
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174385?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV FHD" tvg-logo="http://127.0.0.1/" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA TV FHD
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174386?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: ABC (GAMES ONLY) (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-8xGwyL78JZTdDjzI_nXtBjVyNeX_Ff3eq9Q087hkh8.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: ABC (GAMES ONLY) (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174387?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: ATLANTA HAWKS (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE16h32TI0VOQ8YDjZugSSXIdToNFQdXAoqYurEGmtdcVG.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: ATLANTA HAWKS (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174388?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: BOSTON CELTICS (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE19ipBcWLWs4534defqqgdYXebggPLeJCq417FoPmxHC2.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: BOSTON CELTICS (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174389?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: BROOKLYN NETS (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE19lT9J9uU5e5YCJIFmKf4q0bE_MUWZzwDZuy3UqrI9eZ.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: BROOKLYN NETS (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174390?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: CHARLOTTE HORNETS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE174vNAaf-ilHmGYxvsEkb0_kXq_uVfOPWTMdeYlw8NVH.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: CHARLOTTE HORNETS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174391?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: CHICAGO BULLS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1x4qNIOCnb-h-8lC9HV6CbNto3NNk73VKZ1jgQ3d76bj.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: CHICAGO BULLS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174392?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: CLEVELAND CAVALIERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE18JPuHRU1fViZGN4Kac5N9DIBTZvEhvuSe_1H-dETSEh.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: CLEVELAND CAVALIERS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174393?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: DALLAS MAVERICKS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1_TQO5XOHJSSfIzRo-7K0qQ19T9uf6RIggCf6R97glv0.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: DALLAS MAVERICKS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174394?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: DETROIT PISTONS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-A6H_bgJfW_W79AIqeQTxvRSf_BeiC6fxFQ9j-hq3Op.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: DETROIT PISTONS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174395?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: GOLDEN STATE WARRIORS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE17xGme9MlXtcPTH_lWCFgEtk3tMC7fXM3cdTr8Lx8GQm.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: GOLDEN STATE WARRIORS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174396?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: HOUSTON ROCKETS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE175K0XPW0R2OFCWgYdKN862JLHEHEvpU8bUmMxvAhLqI.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: HOUSTON ROCKETS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174397?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: INDIANA PACERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE13pP-cxnrpD9SxBrwBq_9w4jIuzJe2hVJXYfgDjfqa0f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: INDIANA PACERS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174398?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LOS ANGELES CLIPPERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1_LvtqACH7TvRKyCkOTKTwjReXIisLYZSSfbHzR7DJNM.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: LOS ANGELES CLIPPERS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174399?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LOS ANGELES LAKERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE11umvhfigmAuhpWjhcHTKIy4b6OpCfB6Pd9i6ZFnYhMbHtYmgTiMbobZWTLElZu60A.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: LOS ANGELES LAKERS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174400?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: MEMPHIS GRIZZLIES" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE14fOv2w2XnccP8HQRYnvSB723KBmt9I8_o7GmRk0PDPJ.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: MEMPHIS GRIZZLIES
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174401?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: MIAMI HEAT" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1_-snNj-P5ngrUZZgLpTYaBulXX0q3QqGJ_iryT28bZy.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: MIAMI HEAT
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174402?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: MINNESOTA TIMBERWOLVES" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE14tYw93S-3lnVZHaY8ZDxpvBFReRyu9pbpAvMBnJ6FO5.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: MINNESOTA TIMBERWOLVES
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174403?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: NBATV (GAMES ONLY)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE18qDnuWP5DEZm1a3x_tlPTtsj4wsao0whdrFQ4I9Tfyo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: NBATV (GAMES ONLY)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174404?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: NEW ORLEANS PELICANS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE10H9uEv64JHgVA_cbmiW-n819wm5f8udWYw6VptwdXR7.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: NEW ORLEANS PELICANS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174405?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: NEW YORK KNICKS (Z)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-OwwcgM6Sk9iBjXq-5TfQ23dmy1tx2-TkywJ0rM7YVW.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: NEW YORK KNICKS (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174406?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: OKLAHOMA CITY THUNDER" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE10fpHXJbfD3OJTeuDEZxkdQlUpq4NQ1ChYGuaqOUdIEN.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: OKLAHOMA CITY THUNDER
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174407?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: ORLANDO MAGIC" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE18P2LpmBJeuAHjrGXTnRJJ9z54gLiHGu69fNin33s77o.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: ORLANDO MAGIC
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174408?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: PHILADELPHIA 76ERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1wCPyHSUcmyA5HjSLlHLsyN06dfh9jzitGJwLmSea2PA.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: PHILADELPHIA 76ERS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174409?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: PHOENIX SUNS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-kqfCNxrFoOxOrauB1vi1hIIme89QAX0rMFCwY91DNl.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: PHOENIX SUNS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174410?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: PORTLAND TRAIL BLAZERS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1wY_Rp2-Hv-49xNXbLiq3O6l1YA-XuNwuauUp2GXMRpa.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: PORTLAND TRAIL BLAZERS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174411?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: SACRAMENTO KINGS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE13PY8Q23N1XJz-3zi8xozBCCsj1jM-97-YrEdDkMpp61.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: SACRAMENTO KINGS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174412?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: SAN ANTONIO SPURS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE12OLmEv0TAVzI4IZfCp2PZ-oV0HwqEN6Z6hBBM7kSqgT.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: SAN ANTONIO SPURS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174413?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: TNT (GAMES ONLY)" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE10OVrJ_HGgU8i4iIo6IcZyL5KkoKrxVNiRV2dZVsdqQP.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: TNT (GAMES ONLY)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174414?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: TORONTO RAPTORS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE19PuH0sxDrsOOBMSzEyq4FIGQx3zF1abg6da_shEbxzW.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: TORONTO RAPTORS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174415?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: UTAH JAZZ" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE15frrL9HAiG2mKK7LwVUToTcwoe-LN4xIFshHQBU4gKg.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: UTAH JAZZ
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174416?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA: WASHINGTON WIZARDS" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1xuPdT83BGTEybdtGtYPWjjZwgfjA6QRfPtXtc2v9096.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA: WASHINGTON WIZARDS
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174417?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) Nba Tv HD" tvg-logo="https://yt3.ggpht.com/lwNmuM6cV_kH2dT408Q5HBdKCf7gKM2A7yh_cclROgG5urRy9qvfoSsUhkUZX94xH6rg9m4bAw=ns-nd" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",(OFFLINE) Nba Tv HD
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174418?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Canada: NBA TV Canada" tvg-logo="http://onerestream.us:80/images/d7YmuT5Nt_KFqS79HmJuFvDrnmHdlf6MgfEA99rjt65uSEgfLM4Wr54Fow4pwNeofaJobj7T1FT2Efw_F7XINeEgHPcPdTCxb-eQXkVl8T4Knz9eub8W4cnSs5iaOvXH.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",Canada: NBA TV Canada
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174419?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 1 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 1 (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174420?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 10 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 10 (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174421?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 2 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 2 (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174422?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 3 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 3 (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174423?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 4 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 4 (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174424?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 5 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 5 (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174425?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 6 (Z) (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 6 (Z) (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174426?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 7 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 7 (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174427?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 8 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 8 (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174428?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 9 (Z)" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA PASS 9 (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174429?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="01/31 NBA 03:00pm Charlotte Hornets vs San Antonio Spurs" tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tms_FUHX6K0DyTAXP6tOlS1wu6EwCpuoTfKAmF8Z0LGzth5jpqNsosclDRdgkEO0a5kB65RNFVKscJ8bDoF1LO6A.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",01/31 NBA 03:00pm Charlotte Hornets vs San Antonio Spurs
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174430?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="01/31 NBA 07:00pm Indiana Pacers vs Atlanta Hawks" tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmlhPu-fEDcAKilBmdWuJgfWJN6HkZSiuKOQH_uoIzcUt_Kq5U7_hraEGqLypEDV6Km5kcyypyDJTBv5Yr4_051E.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",01/31 NBA 07:00pm Indiana Pacers vs Atlanta Hawks
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174431?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="01/31 NBA 07:30pm Philadelphia 76ers vs New Orleans Pelicans" tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmtgDqlHXAKSOpsXtNqlXgFPQZmHJh3QOmT9u2CjylbB61cwBxdE0gDtHj_bEHzkrqmqcA0iN14CEMfTb70PXkk4.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",01/31 NBA 07:30pm Philadelphia 76ers vs New Orleans Pelicans
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174432?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="01/31 NBA 08:00pm Memphis Grizzlies vs Minnesota Timberwolves" tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmvXIzg_XsmgzCd3eOnmdjzUWxCvI2VnB2pk0y4TpOUq9eL0PIUYfegbek-83DwhQoclRml9401lmOSYqLp7B49Y.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",01/31 NBA 08:00pm Memphis Grizzlies vs Minnesota Timberwolves
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174433?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="01/31 NBA 08:00pm Miami Heat vs Chicago Bulls" tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmhA8TuZE73xhLKZhPT5hKN6N6HTjE1WmtcCuLge5J5vgM0JYusR5F9R9pek9UdmAY10s0tN3Y1NVJ72NVlvj_rs.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",01/31 NBA 08:00pm Miami Heat vs Chicago Bulls
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174434?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="01/31 NBA 08:30pm Houston Rockets vs Dallas Mavericks" tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmoEeE7d9aeXZ8QBhvGFYYOnX9lQ67l05Wj_RSy-U6x1xxNIO9XQo72PdnAvZjLIjBKENTIxYZWdDSsHNv7POzN8.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",01/31 NBA 08:30pm Houston Rockets vs Dallas Mavericks
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174435?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX Fem | 21:06 Tijuana vs Puebla" tvg-logo="https://images.seeklogo.com/logo-png/31/2/ligamx-femenil-logo-png_seeklogo-313609.png" group-title="EVENTOS PPV",Liga MX Fem | 21:06 Tijuana vs Puebla
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174436?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX Fem | 19:00 Mazatlán vs Necaxa" tvg-logo="https://images.seeklogo.com/logo-png/31/2/ligamx-femenil-logo-png_seeklogo-313609.png" group-title="EVENTOS PPV",Liga MX Fem | 19:00 Mazatlán vs Necaxa
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174437?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX Fem | 15:45 Cruz Azul vs. Querétaro" tvg-logo="https://images.seeklogo.com/logo-png/31/2/ligamx-femenil-logo-png_seeklogo-313609.png" group-title="EVENTOS PPV",Liga MX Fem | 15:45 Cruz Azul vs. Querétaro
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174438?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Expansión MX 19:00 Atlético Morelia vs Cancún" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png" group-title="EVENTOS PPV",Expansión MX 19:00 Atlético Morelia vs Cancún
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174439?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX | 19.10 León vs Tigres" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="EVENTOS PPV",Liga MX | 19.10 León vs Tigres
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174440?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX | 19:00 Monterrey vs. Club Tijuana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="EVENTOS PPV",Liga MX | 19:00 Monterrey vs. Club Tijuana
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174441?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX | 17:00 Atlético de San Luis vs. Chivas de Guadalajara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="EVENTOS PPV",Liga MX | 17:00 Atlético de San Luis vs. Chivas de Guadalajara
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174442?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX | 17:00 Atlas vs. Mazatlán FC (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="EVENTOS PPV",Liga MX | 17:00 Atlas vs. Mazatlán FC (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174443?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX | 16:00 América vs. Necaxa (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="EVENTOS PPV",Liga MX | 16:00 América vs. Necaxa (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174444?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 Colombia - Atletico Nacional Vs inter Miami" tvg-logo="https://cdn.getcrowder.com/images/199d8d63-4b1c-413e-b717-24353f465766-boletadigital.jpg" group-title="COLOMBIA",PPV 1 Colombia - Atletico Nacional Vs inter Miami
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174445?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2 Colombia - Atletico Nacional Vs inter Miami" tvg-logo="https://cdn.getcrowder.com/images/199d8d63-4b1c-413e-b717-24353f465766-boletadigital.jpg" group-title="COLOMBIA",PPV 2 Colombia - Atletico Nacional Vs inter Miami
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/174446?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="América Estéreo Guayaquil (SD)(W)" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="ECUADOR-LOCAL",América Estéreo Guayaquil (SD)(W)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/135812?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="América Estéreo Tulcán (720)(W)" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="ECUADOR-LOCAL",América Estéreo Tulcán (720)(W)
