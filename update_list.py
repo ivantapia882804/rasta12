@@ -5,7 +5,7 @@ LOCAL_FILE = 'prr.txt'
 
 # Aquí puedes añadir todas las listas que quieras entre corchetes, separadas por comas
 URLS_REMOTAS = [
-    'http://tv.zeuspro.xyz:8080/get.php?username=mauricio6915&password=7f638d67eb53&type=m3u_plus','http://tv.zeuspro.xyz:2052/get.php?username=arturo903&password=11HD4MrrPG&type=m3u_plus' 
+    'http://tecnotv.club/ma1003/lista.m3u','http://tecnotv.club/ma1003/lista1.m3u','http://tecnotv.club/ma1003/geomex.m3u','http://tecnotv.club/ma1003/android.m3u' 
 ]
 
 EPG_URL = 'https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml' 
