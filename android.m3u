@@ -1945,6 +1945,8 @@ https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8
 http://tecnotv.club/ma1003/phpcode/lista1.php?c=a047&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
 http://tecnotv.club/ma1003/phpcode/lista1.php?c=a047&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/m9ieeUa.png" group-title="INFO",Redes Sociales
+http://clubtv.link/redes.mp4?output=ts
 #EXTINF:-1 tvg-logo="https://imgur.com/oyRIk5f.png" group-title="Radio", TecnoRadio
 https://stream.zeno.fm/qvq7sm8mymzuv.m3u?output=ts
 #EXTINF:-1 group-title="TV PREMIUM", A&E HD
@@ -2175,6 +2177,8 @@ http://tecnotv.club/ma1003/phpcode/lista1.php?c=a01s&token=tecnotokenplustv23051
 https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/417.m3u8|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
 #EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
 http://tecnotv.club/ma1003/phpcode/0smartv.php?c=712&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/m9ieeUa.png" group-title="INFO",Redes Sociales
+http://clubtv.link/redes.mp4?output=ts
 #EXTINF:-1 tvg-logo="https://imgur.com/oyRIk5f.png" group-title="Radio", TecnoRadio
 https://stream.zeno.fm/qvq7sm8mymzuv.m3u?output=ts
 #EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp
@@ -4579,6 +4583,12 @@ https://vcp3.myplaytv.com/bta/bta/playlist.m3u8?TecnoPlaylist
 https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8?TecnoPlaylist
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="1227" tvg-name="TV FANB" tvg-logo="https://i2.paste.pics/a8b5e009d5d735ea3c62feb24231cc0f.png", TV FANB
 https://vcp2.myplaytv.com/tvfanb/tvfenab/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",TECNOTV 3
+http://clubtv.link/redes.mp4?output=ts
+#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
+http://clubtv.link/redes.mp4?output=ts
+#EXTINF:-1 tvg-logo="https://imgur.com/m9ieeUa.png" group-title="INFO",Redes Sociales
+http://clubtv.link/redes.mp4?output=ts
 #EXTINF:-1 tvg-logo="https://imgur.com/oyRIk5f.png" group-title="Radio", TecnoRadio
 https://stream.zeno.fm/qvq7sm8mymzuv.m3u?output=ts
 #EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp
@@ -5007,6 +5017,8 @@ http://tecnotv.club/ma1003/phpcode/24.php?c=vozdelcielotv&output=ts
 http://tecnotv.club/ma1003/phpcode/lista4.php?c=a0bv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
 http://tecnotv.club/ma1003/phpcode/lista4.php?c=a0bv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/m9ieeUa.png" group-title="INFO",Redes Sociales
+http://clubtv.link/redes.mp4?output=ts
 #EXTINF:-1 tvg-logo="https://imgur.com/oyRIk5f.png" group-title="Radio", TecnoRadio
 https://stream.zeno.fm/qvq7sm8mymzuv.m3u?output=ts
 #EXTINF:-1   group-title="TV PREMIUM",  A&E
@@ -5537,6 +5549,8 @@ http://tecnotv.club/ma1003/phpcode/lista5.php?c=a01s&token=tecnotokenplustv23051
 http://tecnotv.club/ma1003/phpcode/geomexsport.php?c=108&output=ts
 #EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @tecnotvChat
 http://stream.zeno.fm/qvq7sm8mymzuv?output=ts
+#EXTINF:-1 tvg-logo="https://imgur.com/m9ieeUa.png" group-title="INFO",Redes Sociales
+http://clubtv.link/redes.mp4?output=ts
 #EXTINF:-1 tvg-logo="https://imgur.com/oyRIk5f.png" group-title="Radio", TecnoRadio
 https://stream.zeno.fm/qvq7sm8mymzuv.m3u?output=ts
 #EXTINF:-1 tvg-logo="https://imgur.com/76pIwxw.png" group-title="MÉXICO" , Las Estrellas
