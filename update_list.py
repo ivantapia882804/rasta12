@@ -1,6 +1,7 @@
 import requests
 import time
 from datetime import datetime
+import sys
 
 # --- CONFIGURACIÓN ---
 LOCAL_FILE = 'prr.txt'
@@ -21,100 +22,83 @@ HEADERS = {'User-Agent': 'VLC/3.0.20 LibVLC/3.0.20'}
 INTERVALO_HORAS = 6
 
 def procesar_canales(texto_m3u, es_remoto=False):
+    if not texto_m3u or not isinstance(texto_m3u, str):
+        return []
+        
     lineas = texto_m3u.splitlines()
     resultado = []
     
     for i in range(len(lineas)):
-        linea = lineas[i].strip()
-        if linea.startswith("#EXTINF"):
-            if i + 1 < len(lineas):
-                url = lineas[i+1].strip()
-                if url:
-                    # Forzado de formato .ts para estabilidad en remotas
-                    if es_remoto and not any(ext in url.lower() for ext in ['.ts', '.m3u8']):
-                        separator = '&' if '?' in url else '?'
-                        url = f"{url}{separator}output=ts"
-                    
-                    resultado.append(linea)
-                    resultado.append(url)
+        try:
+            linea = lineas[i].strip()
+            if linea.startswith("#EXTINF"):
+                if i + 1 < len(lineas):
+                    url = lineas[i+1].strip()
+                    if url and url.startswith("http"):
+                        # Forzado de .ts para estabilidad en TecnoTV
+                        if es_remoto and not any(ext in url.lower() for ext in ['.ts', '.m3u8']):
+                            separator = '&' if '?' in url else '?'
+                            url = f"{url}{separator}output=ts"
+                        
+                        resultado.append(linea)
+                        resultado.append(url)
+        except Exception:
+            continue # Si una línea está rota, salta a la siguiente
     return resultado
 
 def ejecutar_actualizacion():
-    ahora = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-    print(f"\n[{ahora}] 🔄 Iniciando actualización de listas...")
+    ahora = datetime.now().strftime('%H:%M:%S')
+    print(f"[{ahora}] 🔄 Iniciando ciclo de limpieza...")
     
-    # Cabecera con EPG
     final_lines = [f'#EXTM3U x-tvg-url="{EPG_URL}"']
     
-    # 1. Procesar Local (Siempre prioritario)
+    # 1. Intentar cargar Local
     try:
         with open(LOCAL_FILE, 'r', encoding='utf-8') as f:
-            final_lines.extend(procesar_canales(f.read(), es_remoto=False))
-            print(f"✅ Archivo local '{LOCAL_FILE}' cargado.")
+            canales_locales = procesar_canales(f.read(), es_remoto=False)
+            final_lines.extend(canales_locales)
+            print(f"✅ Local OK: {len(canales_locales)//2} canales.")
     except Exception as e:
-        print(f"⚠️ No se pudo cargar el archivo local: {e}")
+        print(f"⚠️ Aviso: Saltando local ({e})")
 
-    # 2. Procesar Remotas (Sin limitaciones)
-    canales_totales = 0
+    # 2. Procesar Remotas
     for url_fuente in URLS_REMOTAS:
         try:
-            # Timeout largo para evitar cortes por saturación del servidor
-            r = requests.get(url_fuente, headers=HEADERS, timeout=45)
+            r = requests.get(url_fuente, headers=HEADERS, timeout=30)
             if r.status_code == 200:
-                canales_nuevos = procesar_canales(r.text, es_remoto=True)
-                final_lines.extend(canales_nuevos)
-                conteo = len(canales_nuevos) // 2
-                canales_totales += conteo
-                print(f"✅ {url_fuente} -> {conteo} canales.")
+                # Validamos que sea una lista M3U real antes de procesar
+                if "#EXT" in r.text:
+                    nuevos = procesar_canales(r.text, es_remoto=True)
+                    final_lines.extend(nuevos)
+                    print(f"✅ Cargada: {url_fuente[-12:]} | +{len(nuevos)//2}")
             else:
-                print(f"❌ Error {r.status_code} en: {url_fuente}")
+                print(f"❌ Error {r.status_code}: {url_fuente[-12:]}")
         except Exception as e:
-            print(f"⚠️ Error de conexión en {url_fuente}: {e}")
+            print(f"🚫 Error de red en {url_fuente[-12:]}: {e}")
 
-    # Guardar resultado
+    # 3. Guardado Seguro
     try:
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             f.write("\n".join(final_lines))
-        print(f"🚀 Lista unificada guardada en '{OUTPUT_FILE}'. Total: {canales_totales} canales remotos.")
+        print(f"🚀 Archivo '{OUTPUT_FILE}' actualizado con éxito.")
     except Exception as e:
-        print(f"🚨 Error crítico al escribir el archivo: {e}")
+        print(f"🚨 Error al guardar archivo: {e}")
 
 def main():
-    print(f"--- SCRIPT DE AUTO-ACTUALIZACIÓN IPTV (Cada {INTERVALO_HORAS}h) ---")
     while True:
-        ejecutar_actualizacion()
-        
-        proxima_hora = INTERVALO_HORAS * 3600
-        print(f"⏳ Esperando {INTERVALO_HORAS} horas para la siguiente actualización...")
-        time.sleep(proxima_hora)
-
-if __name__ == "__main__":
-    main()
-                    
-                    resultado.append(linea)
-                    resultado.append(url)
-    return resultado
-
-def main():
-    final_lines = [f'#EXTM3U x-tvg-url="{EPG_URL}"']
-    
-    # 1. Local (prr.txt) - No tocamos nada porque ya usas .m3u8 oficiales
-    try:
-        with open(LOCAL_FILE, 'r', encoding='utf-8') as f:
-            final_lines.extend(procesar_canales(f.read(), es_remoto=False))
-    except: pass
-
-    # 2. Remoto (ZeusPro) - Forzamos compatibilidad
-    for url in URLS_REMOTAS:
         try:
-            r = requests.get(url, headers=HEADERS, timeout=25)
-            if r.status_code == 200:
-                final_lines.extend(procesar_canales(r.text, es_remoto=True))
-        except: pass
-
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        f.write("\n".join(final_lines))
-    print("🚀 Lista unificada y optimizada para Roku/Smart TV.")
+            ejecutar_actualizacion()
+        except Exception as e:
+            print(f"🔥 Error inesperado en el bucle: {e}")
+        
+        print(f"⏳ Esperando {INTERVALO_HORAS} horas...")
+        time.sleep(INTERVALO_HORAS * 3600)
 
 if __name__ == "__main__":
-    main()
+    # Si lo corres en un entorno que no permite bucles infinitos (como GitHub Actions gratis),
+    # quita el 'while True' y deja solo ejecutar_actualizacion()
+    try:
+        ejecutar_actualizacion()
+    except:
+        sys.exit(1) # Solo sale con error si falla TODO el proceso
+        
