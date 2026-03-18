@@ -302,7 +302,7 @@ https://cdn.energeek.cl/hls/pridetvlatam.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IHVHNE4.png" group-title="ENTRETENIMIENTO",DreikoTV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IHVHNE4.png" group-title="ENTRETENIMIENTO",Adult Swim
-http://181.78.208.25:8000/play/a02m/index.m3u8
+http://181.78.208.25:8000/play/a02m&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="ENTRETENIMIENTO",Wapp
 http://tecnotv.club/ma1003/phpcode/distro.php?c=wapptv&output=ts
 #EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="ENTRETENIMIENTO",El Conflicto TV
@@ -363,62 +363,270 @@ http://tecnotv.club/ma1003/phpcode/runtime.php?c=5106&output=ts
 http://tecnotv.club/ma1003/phpcode/runtime.php?c=6149&output=ts
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/6vMJBXl.png" group-title="ENTRETENIMIENTO",Sangre Fría
 http://tecnotv.club/ma1003/phpcode/runtime.php?c=6130&output=ts
-#EXTINF:-1 tvg-logo="https://imgur.com/Rs7QrjW.png" group-title="DEPORTES",TNT SPORT
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch26&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/woLFqJv.png" group-title="DEPORTES",TYC SPORT
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch32&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/C1pUFpG.png" group-title="DEPORTES",FOX SPORT
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch16&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/C1pUFpG.png" group-title="DEPORTES",FOX SPORT 2
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch30&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/C1pUFpG.png" group-title="DEPORTES",FOX SPORT 3
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch31&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NquS0Tq.png" group-title="DEPORTES",ESPN PREMIUM
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch42&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Vc0crjp.png" group-title="DEPORTES",ESPN
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch9&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/woLFqJv.png" group-title="DEPORTES",TYC SPORT
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch9&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Vc0crjp.png" group-title="DEPORTES",ESPN
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch29&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/f3rgiYK.png" group-title="24/7",LOS SIMPSON 24/7
-http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/online-24-7&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/76FZZIF.png" group-title="CINE Y SERIES",AXN
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch4&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/WLf6FMA.png" group-title="CINE Y SERIES",UNIVERSAL
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch10&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Wihy0Js.png" group-title="CINE Y SERIES",SONY
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch6&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/8eaNXsD.png" group-title="CINE Y SERIES",SPACE
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch1&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/z895u04.png" group-title="CINE Y SERIES",A&E
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch3&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Gyvr277.png" group-title="CINE Y SERIES",HBO FAMILY
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch22&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/JEIiU1Z.png" group-title="CINE Y SERIES",HBO 2
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch20&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ZBhSpry.png" group-title="CINE Y SERIES",PARAMOUNT
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch19&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/yk4CGuv.png" group-title="CINE Y SERIES",STAR CHANNEL
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch21&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/6WiM1el.png" group-title="ENTRETENIMIENTO",H&H
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch23&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wSBVHOB.png" group-title="CULTURAL",NATGEO
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch5&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YmIY1SF.png" group-title="DEPORTES",FOX SPORT 3
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch2&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/shx9p2d.png" group-title="CULTURAL",DISCOVERY CHANNEL
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch15&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3i4z4kK.png" group-title="CULTURAL",HISTORY CHANNEL
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch7&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/WUO8lA7.png" group-title="INFANTIL",CARTOON NETWORK
-http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch12&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/VMc27E7.png" group-title="ENTRETENIMIENTO",REDBULL
-http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/RedBull&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/XETbCHS.png" group-title="MUSICA",MUSIC TOP
-http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/musictop&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9ktBUrY.png" group-title="MUSICA",RETRO TV
-http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/retro&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", A&E
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0bv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", A3 SERIES
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0b0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ARTS
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0bc&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", AXN
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a08w&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", BABY TV
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0b9&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", BOOMERAN
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0c1&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", C
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0cq&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DICOVERY CHANNEL
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ep&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DISCOVERY TURBO
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0c4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DISNEY JR
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0bz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ESPN
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a091&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 3
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0c3&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", E¡
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0by&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FORMULA NOTICIAS
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0be&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FX
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a08x&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", H&H
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0bw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0c5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO +
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0cv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", IMAGEN
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0d5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ISAT
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0b2&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", MC
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0co&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", MTV HITS
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0b4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", NATGEO LA
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0cl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", SEX XTREME
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a09c&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", STUDIO UNIVERSAL
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0bh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TLR
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0em&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TNT SERIES
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0da&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", VENUS
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a09b&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", VH1
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0b6&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", VIDEO ROLA
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0b5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", history 2
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0dj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", hola tv
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0db&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", milenio
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0dm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", once
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0bq&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 CANAL 14
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ax&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 CNN
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0bd&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 JUSTICIA TV
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0bg&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 NOTICIAS DEL CONGRESO
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0az&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 TV UNAM
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ay&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 TVC
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0bf&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",13 realities
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0nj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",13 teleseries
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ni&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ADN 40 HD
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ne&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AMC
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0k8&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ATLAS
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0os&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AYM
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0km&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AYM SPORT HD
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0mk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AZTECA 7
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0fm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AZTECA 7 HD
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0la&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AZTECA INTER HD
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0n7&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AZTECA UNO
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0cc&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",BABY FIRST
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0kb&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",BITME
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0np&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CANAL 22
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0d7&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CANAL 5
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0fl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CANAL 5 HD
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0n6&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CANAL INFANTIL SD
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ot&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CARTOON NETWORK
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0c0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CINE LATINO
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0lq&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CINEMAX
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a093&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CLARO SPORT
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0cm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CLICK HD
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0mh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CNN
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0dl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",COMEDY CENTRAL
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0b3&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Canal del Congreso 45.1
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0nt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Caracola TV
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0nd&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Cartonito
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0kc&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",D pelicula
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0nn&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DISCOVERY ID
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ch&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DISTRITO COMEDIA
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ou&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DreamWorks TV Latin America
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0no&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",EDGE
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0nh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",EL 6
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0bp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 2
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a092&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ESTRELLAS
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0d4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ESTRELLAS HD
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0le&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",EXA TV
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0lr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FAST AND FUN BOX
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ks&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FAST FUN HD
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0mi&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FIGTH BOX
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0kr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FILM  &  ARTS
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0k9&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORTS 2
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0oz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX sport 3
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ox&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",GAME TOON
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0kv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",GINX
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0kx&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",GOLF CHANNEL
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0kz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO 2
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ct&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO FAMILY
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0cu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO MUNDI
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0jj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO SIGNATURE
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ji&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO XTREME
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a096&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HTV
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0b7&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Justicia TV (Mexico)
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ns&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",LAMEJOR TV
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ls&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",LIFE TIME
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ci&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MASCHIC
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ka&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MTV 00
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0kh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MULTI PREMIER
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0cp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MULTICANAL
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0lo&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MULTIPREMIER
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0lp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",NBA
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0kj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",NFL
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0kk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",NICK JR
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ck&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",NICKMUSIC
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0lt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",OUTDOOR
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0kt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Once niñas y niños
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0nr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",PARAMOUNT
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0cs&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",PLAY BOY
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a09a&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",PX SPORTS
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ku&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",RT
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0nk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",SPACE
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0cg&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",SYFY
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0b1&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TELEMUNDO INTER HD
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0mg&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TLC
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0bx&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TLN Telenovelas. SD
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0oy&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TRACE
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ky&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TVC DEPORTES
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0mj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TVCD
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0kl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TeleYucatan
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0na&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TyC SPORTS
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0kw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",UNICABLE
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ov&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",UNIVERSAL
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0bt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",WARNER
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0cf&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",canal 22.2
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0nu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",dw espa
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0nl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",el9nueve SD
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ow&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",espn extra
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0kf&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",fox channel
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a08v&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",france 24
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0nm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",letra a
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0bu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",teleplay
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0ng&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",tnt novelas
+http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=a0m2&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="981PearlFM.sx" tvg-logo="https://i.imgur.com/GY750xh.jpg" group-title="MUSICA",98.1 Pearl FM (720p)
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 #EXTINF:-1 tvg-id="7080TV.it" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="MUSICA",70-80 TV (1080P)
@@ -494,7 +702,7 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://cdn.m3u.cl/logo/17_The_Retro_Channel.png", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="546" tvg-name="Top TV" tvg-logo="https://cdn.m3u.cl/logo/546_Top_TV.png", Top TV
-https://isaocorp.cloudecast.com/toptv/index.m3u8
+https://isaocorp.cloudecast.com/toptv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="1234" tvg-name="Urbano TV" tvg-logo="https://cdn.m3u.cl/logo/1234_Urbano_TV.png", Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://cdn.m3u.cl/logo/22_Video_Tour_Channel.png", Video Tour Channel
@@ -508,7 +716,7 @@ https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="114" tvg-name="Canal 12 Valledupar" tvg-logo="https://cdn.m3u.cl/logo/114_Canal_12_Valledupar.png", Canal 12 Valledupar
 https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmaBpKu1K3lYAAAA/playlist.m3u8
 #EXTINF:-1 tvg-id="116" tvg-name="Canal CNC Medellin" tvg-logo="https://cdn.m3u.cl/logo/116_Canal_CNC_Medellin.png", Canal CNC Medellin
-https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.m3u8
+https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="120" tvg-name="Canal Institucional" tvg-logo="https://cdn.m3u.cl/logo/120_Canal_Institucional.png", Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="122" tvg-name="Canal Visión Dorada" tvg-logo="https://cdn.m3u.cl/logo/122_Canal_Vision_Dorada.png", Canal Visión Dorada
@@ -544,15 +752,15 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1 tvg-id="1605" tvg-name="Radio Fin Del Mundo TV" tvg-logo="https://cdn.m3u.cl/logo/1605_Radio_Fin_Del_Mundo_TV.png", Radio Fin Del Mundo
 https://live20.bozztv.com/akamaissh101/ssh101/rfdmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="1692" tvg-name="PRIDEtv Latam" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png", PRIDEtv Latam
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb
+https://backend.energeek.cl/webtv/pridetvweb&token=tecnotokenplustv230516F&f=.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-id="1466" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png", Kanade
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb
+https://backend.energeek.cl/webtv/kanadeweb&token=tecnotokenplustv230516F&f=.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png", EnerGeek FAN
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
+https://backend.energeek.cl/webtv/egfanweb&token=tecnotokenplustv230516F&f=.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png", EnerGeek Retro
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
+https://backend.energeek.cl/webtv/egretroweb&token=tecnotokenplustv230516F&f=.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png", EnerGeek Radio
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb
+https://backend.energeek.cl/webtv/egradioweb&token=tecnotokenplustv230516F&f=.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://cdn.m3u.cl/logo/13_Ruidos_TV.png", Ruidos
 https://tv1.ruidosfm.cl/ruidostv/stream.m3u8
 #EXTINF:-1 tvg-id="1716" tvg-name="Ruidos FM" tvg-logo="https://cdn.m3u.cl/logo/1716_Ruidos_FM.png", Ruidos FM
@@ -560,11 +768,11 @@ https://tv1.ruidosfm.cl/ruidosfm/stream.m3u8
 #EXTINF:-1 tvg-id="1312" tvg-name="Eternal Metal" tvg-logo="https://cdn.m3u.cl/logo/1312_Eternal_Metal.png", Eternal Metal
 https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="996" tvg-name="Latinos TV" tvg-logo="https://cdn.m3u.cl/logo/996_Latinos_TV.png", Latinos
-https://v4.tustreaming.cl/latinostv/index.m3u8
+https://v4.tustreaming.cl/latinostv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1014" tvg-name="PlanetaTV" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png", PlanetaTV
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="1424" tvg-name="Parentesis TV" tvg-logo="https://cdn.m3u.cl/logo/1424_Parentesis_TV.png", Parentesis
-https://freya.mivideo.pro/parentesistv/index.m3u8
+https://freya.mivideo.pro/parentesistv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1288" tvg-name="Suyai TV" tvg-logo="https://cdn.m3u.cl/logo/1288_Suyai_TV.png", Suyai
 https://signal.suyaitv.cl/live/36/playlist.m3u8?username=ZZWebSuyaiTV&password=SoloParaSitioWEBSuyaiTV
 #EXTINF:-1 tvg-id="1611" tvg-name="Suyai Radio" tvg-logo="https://cdn.m3u.cl/logo/1611_Suyai_Radio.png", Suyai Radio
@@ -580,29 +788,29 @@ https://5ff3d9babae13.streamlock.net:443/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
 #EXTINF:-1 tvg-id="1706" tvg-name="Central TV" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png", Central
 https://freya.mivideo.pro/centraltv/video.m3u8
 #EXTINF:-1 tvg-id="1700" tvg-name="San Nicolas TV" tvg-logo="https://cdn.m3u.cl/logo/1700_San_Nicolas_TV.png", San Nicolas
-https://v4.tustreaming.cl/sannicolastv/index.m3u8
+https://v4.tustreaming.cl/sannicolastv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1698" tvg-name="La Comarca TV" tvg-logo="https://cdn.m3u.cl/logo/1698_La_Comarca_TV.png", La Comarca
-https://v2.tustreaming.cl/lcomarcatv/index.m3u8
+https://v2.tustreaming.cl/lcomarcatv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1690" tvg-name="Abajo e la linea TV" tvg-logo="https://cdn.m3u.cl/logo/1690_Abajo_e_la_linea_TV.png", Abajo e la linea
 https://5ff3d9babae13.streamlock.net/ynfpncxxjg/ynfpncxxjg/playlist.m3u8
 #EXTINF:-1 tvg-id="1682" tvg-name="Frecuencia Cultural" tvg-logo="https://cdn.m3u.cl/logo/1682_Frecuencia_Cultural.png", Frecuencia Cultural
-https://v2.tustreaming.cl/frecuenciacultural/index.m3u8
+https://v2.tustreaming.cl/frecuenciacultural&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1678" tvg-name="RitoqueFM TV" tvg-logo="https://cdn.m3u.cl/logo/1678_RitoqueFM_TV.png", RitoqueFM
-https://v2.tustreaming.cl/unetev/index.m3u8
+https://v2.tustreaming.cl/unetev&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1671" tvg-name="Omega Radio" tvg-logo="https://cdn.m3u.cl/logo/1671_Omega_Radio.png", Omega Radio
-https://v2.tustreaming.cl:443/broadcastingtx/index.m3u8
+https://v2.tustreaming.cl:443/broadcastingtx&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1670" tvg-name="Radio Contacto 90.7 FM" tvg-logo="https://cdn.m3u.cl/logo/1670_Radio_Contacto_90_7_FM.png", Radio Contacto 90.7 FM
 https://unlimited1-cl-isp.dps.live/interactivatv/interactivatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="388" tvg-name="Interactiva FM" tvg-logo="https://cdn.m3u.cl/logo/388_Interactiva_FM.png", Interactiva FM
 https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1668" tvg-name="Verso TV" tvg-logo="https://cdn.m3u.cl/logo/1668_Verso_TV.png", Verso
-https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
+https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1664" tvg-name="Zona Sur TV" tvg-logo="https://cdn.m3u.cl/logo/1664_Zona_Sur_TV.png", Zona Sur
 https://5ff3d9babae13.streamlock.net:443/tvtumqsfdn/tvtumqsfdn/playlist.m3u8
 #EXTINF:-1 tvg-id="1660" tvg-name="Tropical Ranchero" tvg-logo="https://cdn.m3u.cl/logo/1660_Tropical_Ranchero.png", Tropical Ranchero
 https://radioxxx.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="1649" tvg-name="EPA! TV" tvg-logo="https://cdn.m3u.cl/logo/1649_EPA__TV.png", EPA!
-https://v4.tustreaming.cl/edusauriotv/index.m3u8
+https://v4.tustreaming.cl/edusauriotv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://cdn.m3u.cl/logo/432_HiperTV.png", HiperTV
 https://service.cdn-stream.com/chf-cdn/hiper_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="1617" tvg-name="Zoom Tecnologico Plus" tvg-logo="https://cdn.m3u.cl/logo/1617_Zoom_Tecnologico_Plus.png", Zoom Tecnologico Plus
@@ -612,7 +820,7 @@ https://oracle.streaminghd.cl/galactika-1/galactika-1/playlist.m3u8
 #EXTINF:-1 tvg-id="421" tvg-name="Bio Bio TV" tvg-logo="https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png", Bio Bio
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png", La Red
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+https://alba-cl-lared-lared.stream.mediatiquestream.com&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png", TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1437" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png", TVN3
@@ -628,7 +836,7 @@ https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1530" tvg-name="Juegos Panamericanos Junior Asunción 2025 - Seleccion" tvg-logo="https://cdn.m3u.cl/logo/1530_Juegos_Panamericanos_Junior_Asuncion_2025___Seleccion.png", Juegos Panamericanos Junior Asunción 2025 - Seleccion
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 tvg-id="897" tvg-name="Oli TV" tvg-logo="https://cdn.m3u.cl/logo/897_Oli_TV.png", Oli
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
+https://v4.tustreaming.cl/retroplaytv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="66" tvg-name="Pichilemu TV" tvg-logo="https://cdn.m3u.cl/logo/66_Pichilemu_TV.png", Pichilemu TV
 https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="El 3 de Conce" tvg-logo="https://cdn.m3u.cl/logo/65_El_3_de_Conce.png", El 3 de Conce
@@ -686,13 +894,13 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-id="895" tvg-name="Radio Lado Oscuro TV" tvg-logo="https://cdn.m3u.cl/logo/895_Radio_Lado_Oscuro_TV.png", Radio Lado Oscuro TV
 https://stmv7.voxtvhd.com.br/catto5860/catto5860/playlist.m3u8
 #EXTINF:-1 tvg-id="438" tvg-name="Tevex" tvg-logo="https://cdn.m3u.cl/logo/438_Tevex.png", Tevex
-https://v2.tustreaming.cl/tevex/index.m3u8
+https://v2.tustreaming.cl/tevex&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="436" tvg-name="TV Salud" tvg-logo="https://cdn.m3u.cl/logo/436_TV_Salud.png", TV Salud
 https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
 #EXTINF:-1 tvg-id="435" tvg-name="Chile Channel" tvg-logo="https://cdn.m3u.cl/logo/435_Chile_Channel.png", Chile Channel
-https://v2.tustreaming.cl/chilechannel/index.m3u8
+https://v2.tustreaming.cl/chilechannel&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="437" tvg-name="Campo Abierto TV" tvg-logo="https://cdn.m3u.cl/logo/437_Campo_Abierto_TV.png", Campo Abierto TV
-https://v2.tustreaming.cl:443/catvlive/index.m3u8
+https://v2.tustreaming.cl:443/catvlive&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1666" tvg-name="TurnoEnVivo" tvg-logo="https://cdn.m3u.cl/logo/1666_TurnoEnVivo.png", TurnoEnVivo
 https://redirector.dps.live/hls/turno/playlist.m3u8
 #EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png", FutGO
@@ -706,37 +914,37 @@ https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="Antofagasta TV" tvg-logo="https://cdn.m3u.cl/logo/71_Antofagasta_TV.png", Antofagasta TV
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="316" tvg-name="LRP Television" tvg-logo="https://cdn.m3u.cl/logo/316_LRP_Television.png", LRP Television
-https://v2.tustreaming.cl/lrp/index.m3u8
+https://v2.tustreaming.cl/lrp&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="Holvoet TV" tvg-logo="https://cdn.m3u.cl/logo/72_Holvoet_TV.png", Holvoet TV
 https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="319" tvg-name="Atacama Noticias TV" tvg-logo="https://cdn.m3u.cl/logo/319_Atacama_Noticias_TV.png", Atacama Noticias TV
-https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+https://v2.tustreaming.cl/atacamanoticias&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="320" tvg-name="Atacama TV" tvg-logo="https://cdn.m3u.cl/logo/320_Atacama_TV.png", Atacama TV
-https://v2.tustreaming.cl/atacamatv/index.m3u8
+https://v2.tustreaming.cl/atacamatv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="784" tvg-name="Madero TV" tvg-logo="https://cdn.m3u.cl/logo/784_Madero_TV.png", Madero TV
-https://v1.tustreaming.cl/maderoantofagasta/index.m3u8
+https://v1.tustreaming.cl/maderoantofagasta&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1591" tvg-name="DCH" tvg-logo="https://cdn.m3u.cl/logo/1591_DCH.png", DCH
-https://v4.tustreaming.cl/dchtv/index.m3u8
+https://v4.tustreaming.cl/dchtv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="462" tvg-name="Alternativa TV" tvg-logo="https://cdn.m3u.cl/logo/462_Alternativa_TV.png", Alternativa TV
 https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
 #EXTINF:-1 tvg-id="326" tvg-name="ThemaTV" tvg-logo="https://cdn.m3u.cl/logo/326_ThemaTV.png", ThemaTV
 https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="327" tvg-name="América TV Chile" tvg-logo="https://cdn.m3u.cl/logo/327_America_TV_Chile.png", América TV Chile
-https://v2.tustreaming.cl:/radioamericatv/index.m3u8
+https://v2.tustreaming.cl:/radioamericatv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="335" tvg-name="VTV" tvg-logo="https://cdn.m3u.cl/logo/335_VTV.png", VTV
 https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1434" tvg-name="Marga Marga TV" tvg-logo="https://cdn.m3u.cl/logo/1434_Marga_Marga_TV.png", Marga Marga TV
-https://v1.tustreaming.cl/margamargatv/index.m3u8
+https://v1.tustreaming.cl/margamargatv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1427" tvg-name="Estacion Limache TV" tvg-logo="https://cdn.m3u.cl/logo/1427_Estacion_Limache_TV.png", Estacion Limache TV
-https://v4.tustreaming.cl/limachemovil/index.m3u8
+https://v4.tustreaming.cl/limachemovil&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="332" tvg-name="TV Costa" tvg-logo="https://cdn.m3u.cl/logo/332_TV_Costa.png", TV Costa
 https://tvcosta.gleeze.com/memfs/39cef946-1aac-4418-8df8-6d8ff6d0a680.m3u8
 #EXTINF:-1 tvg-id="1231" tvg-name="Canal Local" tvg-logo="https://cdn.m3u.cl/logo/1231_Canal_Local.png", Canal Local
-https://v2.tustreaming.cl/canallocalcl/index.m3u8
+https://v2.tustreaming.cl/canallocalcl&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="Girovisual TV" tvg-logo="https://cdn.m3u.cl/logo/74_Girovisual_TV.png", Girovisual TV
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="464" tvg-name="Frecuencia 7 Aconcagua" tvg-logo="https://cdn.m3u.cl/logo/464_Frecuencia_7_Aconcagua.png", Frecuencia 7 Aconcagua
-https://v2.tustreaming.cl/frecuencia7/index.m3u8
+https://v2.tustreaming.cl/frecuencia7&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="Canal 2 de San Antonio" tvg-logo="https://cdn.m3u.cl/logo/76_Canal_2_de_San_Antonio.png", Canal 2 de San Antonio
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="333" tvg-name="Plaza TV" tvg-logo="https://cdn.m3u.cl/logo/333_Plaza_TV.png", Plaza TV
@@ -744,11 +952,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/plazatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="TVR" tvg-logo="https://cdn.m3u.cl/logo/77_TVR.png", TVR
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="336" tvg-name="Tendencias Prime" tvg-logo="https://cdn.m3u.cl/logo/336_Tendencias_Prime.png", Tendencias Prime
-https://v4.tustreaming.cl/tendenciastv/index.m3u8
+https://v4.tustreaming.cl/tendenciastv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1024" tvg-name="Vision Plus TV" tvg-logo="https://cdn.m3u.cl/logo/1024_Vision_Plus_TV.png", Vision Plus TV
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 #EXTINF:-1 tvg-id="1553" tvg-name="Providencia Television" tvg-logo="https://cdn.m3u.cl/logo/1553_Providencia_Television.png", Providencia Television
-https://v2.tustreaming.cl/providenciatv/index.m3u8
+https://v2.tustreaming.cl/providenciatv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1025" tvg-name="Telecanal Santa Cruz" tvg-logo="https://cdn.m3u.cl/logo/1025_Telecanal_Santa_Cruz.png", Telecanal Santa Cruz
 https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
 #EXTINF:-1 tvg-id="340" tvg-name="TVO San Vicente" tvg-logo="https://cdn.m3u.cl/logo/340_TVO_San_Vicente.png", TVO San Vicente
@@ -760,19 +968,19 @@ https://origin-us.streaminghd.cl/santacruz/santacruz/playlist.m3u8
 #EXTINF:-1 tvg-id="1602" tvg-name="RTV" tvg-logo="https://cdn.m3u.cl/logo/1602_RTV.png", RTV
 https://origin-us.streaminghd.cl/rtv/rtv/playlist.m3u8
 #EXTINF:-1 tvg-id="79" tvg-name="En Linea Maule" tvg-logo="https://cdn.m3u.cl/logo/79_En_Linea_Maule.png", En Linea Maule
-https://v1.tustreaming.cl/enlineamauletv/index.m3u8
+https://v1.tustreaming.cl/enlineamauletv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1432" tvg-name="El Centro TV" tvg-logo="https://cdn.m3u.cl/logo/1432_El_Centro_TV.png", El Centro TV
-https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8
+https://v1.tustreaming.cl:443/diarioelcentrotv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="TV 5 Linares" tvg-logo="https://cdn.m3u.cl/logo/80_TV_5_Linares.png", TV 5 Linares
-https://v1.tustreaming.cl/tv5linares/index.m3u8
+https://v1.tustreaming.cl/tv5linares&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="Contivision" tvg-logo="https://cdn.m3u.cl/logo/81_Contivision.png", Contivision
 https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="345" tvg-name="UTV San Clemente" tvg-logo="https://cdn.m3u.cl/logo/345_UTV_San_Clemente.png", UTV San Clemente
-https://v2.tustreaming.cl/utv/index.m3u8
+https://v2.tustreaming.cl/utv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="346" tvg-name="Nativa TV" tvg-logo="https://cdn.m3u.cl/logo/346_Nativa_TV.png", Nativa TV
 https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8
 #EXTINF:-1 tvg-id="1164" tvg-name="Maule Vision" tvg-logo="https://cdn.m3u.cl/logo/1164_Maule_Vision.png", Maule Vision
-https://v2.tustreaming.cl/maulevisiontv/index.m3u8
+https://v2.tustreaming.cl/maulevisiontv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1302" tvg-name="Telecauquenes" tvg-logo="https://cdn.m3u.cl/logo/1302_Telecauquenes.png", Telecauquenes
 https://live20.bozztv.com/akamaissh101/ssh101/telecauquenestv/playlist.m3u8
 #EXTINF:-1 tvg-id="1497" tvg-name="Nova TV Canal 7" tvg-logo="https://cdn.m3u.cl/logo/1497_Nova_TV_Canal_7.png", Nova TV Canal 7
@@ -782,7 +990,7 @@ https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="349" tvg-name="Supersonika TV" tvg-logo="https://cdn.m3u.cl/logo/349_Supersonika_TV.png", Supersonika TV
 https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="350" tvg-name="ClickTv" tvg-logo="https://cdn.m3u.cl/logo/350_ClickTv.png", ClickTv
-https://v2.tustreaming.cl/clicktv/index.m3u8
+https://v2.tustreaming.cl/clicktv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="353" tvg-name="Canal 9 Bío Bí­o TV" tvg-logo="https://cdn.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png", Canal 9 Bío Bí­o TV
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="957" tvg-name="Pacifico Television" tvg-logo="https://cdn.m3u.cl/logo/957_Pacifico_Television.png", Pacifico Television
@@ -806,15 +1014,15 @@ https://5ff3d9babae13.streamlock.net:443/aufymdjpjf/aufymdjpjf/playlist.m3u8
 #EXTINF:-1 tvg-id="856" tvg-name="Hito Cero TV" tvg-logo="https://cdn.m3u.cl/logo/856_Hito_Cero_TV.png", Hito Cero TV
 https://5e3483cba9114.streamlock.net:443/kbwqdhjxtz/kbwqdhjxtz/playlist.m3u8
 #EXTINF:-1 tvg-id="366" tvg-name="Chiloe Red 25" tvg-logo="https://cdn.m3u.cl/logo/366_Chiloe_Red_25.png", Chiloe Red 25
-https://v2.tustreaming.cl/chiloered/index.m3u8
+https://v2.tustreaming.cl/chiloered&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="368" tvg-name="Santa Maria TV" tvg-logo="https://cdn.m3u.cl/logo/368_Santa_Maria_TV.png", Santa Maria TV
 https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="369" tvg-name="Canal 11 TV Aysen" tvg-logo="https://cdn.m3u.cl/logo/369_Canal_11_TV_Aysen.png", Canal 11 TV Aysen
-https://v2.tustreaming.cl/canal11aysen/index.m3u8
+https://v2.tustreaming.cl/canal11aysen&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1012" tvg-name="Aysen TV" tvg-logo="https://cdn.m3u.cl/logo/1012_Aysen_TV.png", Aysen TV
-https://v1.tustreaming.cl/aysentv/index.m3u8
+https://v1.tustreaming.cl/aysentv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1393" tvg-name="La Melinkana TV" tvg-logo="https://cdn.m3u.cl/logo/1393_La_Melinkana_TV.png", La Melinkana TV
-https://v1.tustreaming.cl/melinkana/index.m3u8
+https://v1.tustreaming.cl/melinkana&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="370" tvg-name="Soberania Radio" tvg-logo="https://cdn.m3u.cl/logo/370_Soberania_Radio.png", Soberania Radio
 https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8
 #EXTINF:-1 tvg-id="1116" tvg-name="SurTV" tvg-logo="https://cdn.m3u.cl/logo/1116_SurTV.png", SurTV
@@ -848,7 +1056,7 @@ https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8
 #EXTINF:-1 tvg-id="1564" tvg-name="Ritmo Top Latino" tvg-logo="https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png", Ritmo Top Latino
 https://5ff3d9babae13.streamlock.net/vzzfdajnnf/vzzfdajnnf/playlist.m3u8
 #EXTINF:-1 tvg-id="1647" tvg-name="El Conquistador La Serena" tvg-logo="https://cdn.m3u.cl/logo/1647_El_Conquistador_La_Serena.png", El Conquistador La Serena
-https://v4.tustreaming.cl:443/elcqlaserena/index.m3u8
+https://v4.tustreaming.cl:443/elcqlaserena&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1623" tvg-name="Radio Video Mix" tvg-logo="https://cdn.m3u.cl/logo/1623_Radio_Video_Mix.png", Radio Video Mix
 https://radioxxx.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="1309" tvg-name="Santa Cruz FM" tvg-logo="https://cdn.m3u.cl/logo/1309_Santa_Cruz_FM.png", Santa Cruz FM
@@ -860,25 +1068,25 @@ https://live20.bozztv.com/akamaissh101/ssh101/radiomagallanes/playlist.m3u8
 #EXTINF:-1 tvg-id="1134" tvg-name="Radio Maqui" tvg-logo="https://cdn.m3u.cl/logo/1134_Radio_Maqui.png", Radio Maqui
 https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="987" tvg-name="Emocion TV" tvg-logo="https://cdn.m3u.cl/logo/987_Emocion_TV.png", Emocion TV
-https://v1.tustreaming.cl/emociontv/index.m3u8
+https://v1.tustreaming.cl/emociontv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="974" tvg-name="Patagonia Radio TV" tvg-logo="https://cdn.m3u.cl/logo/974_Patagonia_Radio_TV.png", Patagonia Radio TV
 https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="Sabor TV" tvg-logo="https://cdn.m3u.cl/logo/416_Sabor_TV.png", Sabor TV
-https://v1.tustreaming.cl/sabortv/index.m3u8
+https://v1.tustreaming.cl/sabortv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="787" tvg-name="Radio Riquelme TV" tvg-logo="https://cdn.m3u.cl/logo/787_Radio_Riquelme_TV.png", Radio Riquelme TV
 https://live20.bozztv.com/giatv/giatv-riquelme1350am/riquelme1350am/playlist.m3u8
 #EXTINF:-1 tvg-id="413" tvg-name="Radio Presidente Ibañez" tvg-logo="https://cdn.m3u.cl/logo/413_Radio_Presidente_Ibanez.png", Radio Presidente Ibañez
 https://ibanez.servercl.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="Radio Las Nieves" tvg-logo="https://cdn.m3u.cl/logo/408_Radio_Las_Nieves.png", Radio Las Nieves
-https://v2.tustreaming.cl/rln/index.m3u8
+https://v2.tustreaming.cl/rln&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="Radio Genial TV" tvg-logo="https://cdn.m3u.cl/logo/412_Radio_Genial_TV.png", Radio Genial TV
-https://v1.tustreaming.cl:443/genialtv/index.m3u8
+https://v1.tustreaming.cl:443/genialtv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1502" tvg-name="Radio Panoramica" tvg-logo="https://cdn.m3u.cl/logo/1502_Radio_Panoramica.png", Radio Panoramica
-https://v2.tustreaming.cl:/alingeproducciones/index.m3u8
+https://v2.tustreaming.cl:/alingeproducciones&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="417" tvg-name="Radio Favorita" tvg-logo="https://cdn.m3u.cl/logo/417_Radio_Favorita.png", Radio Favorita
 https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="389" tvg-name="Radio Fantasia TV" tvg-logo="https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png", Radio Fantasia TV
-https://v2.tustreaming.cl/fantasiatv/index.m3u8
+https://v2.tustreaming.cl/fantasiatv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1639" tvg-name="Revolviendola Radio" tvg-logo="https://cdn.m3u.cl/logo/1639_Revolviendola_Radio.png", Revolviendola Radio
 https://giatv.bozztv.com/giatv/giatv-revolviendolaradio/revolviendolaradio/playlist.m3u8
 #EXTINF:-1 tvg-id="395" tvg-name="Mi Radio TV" tvg-logo="https://cdn.m3u.cl/logo/395_Mi_Radio_TV.png", Mi Radio TV
@@ -886,11 +1094,11 @@ https://tls-cl.cdnz.cl/miradio2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="1478" tvg-name="El Conquistador Santiago" tvg-logo="https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png", El Conquistador Santiago
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="419" tvg-name="El Conquistador Concepcion" tvg-logo="https://cdn.m3u.cl/logo/419_El_Conquistador_Concepcion.png", El Conquistador Concepcion
-https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8
+https://v1.tustreaming.cl/conquistadorconcepcion&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1571" tvg-name="Radio La Señal" tvg-logo="https://cdn.m3u.cl/logo/1571_Radio_La_Senal.png", Radio La Señal
 https://5ff3d9babae13.streamlock.net:443/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
 #EXTINF:-1 tvg-id="406" tvg-name="Radio Ancoa TV" tvg-logo="https://cdn.m3u.cl/logo/406_Radio_Ancoa_TV.png", Radio Ancoa TV
-https://v2.tustreaming.cl/radioancoatv/index.m3u8
+https://v2.tustreaming.cl/radioancoatv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1552" tvg-name="Nina TV" tvg-logo="https://cdn.m3u.cl/logo/1552_Nina_TV.png", Nina TV
 https://tv1.ninatv.cl/hls/stream.m3u8
 #EXTINF:-1 tvg-id="414" tvg-name="AE Radio" tvg-logo="https://cdn.m3u.cl/logo/414_AE_Radio.png", AE Radio
@@ -918,15 +1126,15 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 #EXTINF:-1 tvg-id="1472" tvg-name="La Nuestra" tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png", La Nuestra
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="168" tvg-name="TNE" tvg-logo="https://cdn.m3u.cl/logo/168_TNE.png", TNE
-https://v2.tustreaming.cl/tnetv/index.m3u8
+https://v2.tustreaming.cl/tnetv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="351" tvg-name="Restaurando Vidas TV" tvg-logo="https://cdn.m3u.cl/logo/351_Restaurando_Vidas_TV.png", Restaurando Vidas TV
-https://v4.tustreaming.cl/restaurandovida/index.m3u8
+https://v4.tustreaming.cl/restaurandovida&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="167" tvg-name="Radio Vida Curico" tvg-logo="https://cdn.m3u.cl/logo/167_Radio_Vida_Curico.png", Radio Vida Curico
 https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8
 #EXTINF:-1 tvg-id="164" tvg-name="NCTV" tvg-logo="https://cdn.m3u.cl/logo/164_NCTV.png", NCTV
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="163" tvg-name="Gracia TV" tvg-logo="https://cdn.m3u.cl/logo/163_Gracia_TV.png", Gracia TV
-https://v4.tustreaming.cl/graciatv/index.m3u8
+https://v4.tustreaming.cl/graciatv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="159" tvg-name="Canal ISB" tvg-logo="https://cdn.m3u.cl/logo/159_Canal_ISB.png", Canal ISB
 https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1384" tvg-name="Metanoia TV" tvg-logo="https://cdn.m3u.cl/logo/1384_Metanoia_TV.png", Metanoia TV
@@ -936,7 +1144,7 @@ https://Stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 #EXTINF:-1 tvg-id="1479" tvg-name="Fortaleza TV" tvg-logo="https://cdn.m3u.cl/logo/1479_Fortaleza_TV.png", Fortaleza TV
 https://multimedia.fortalezatv.cl/video/video.m3u8
 #EXTINF:-1 tvg-id="1638" tvg-name="ADA TV" tvg-logo="https://cdn.m3u.cl/logo/1638_ADA_TV.png", ADA TV
-https://v4.tustreaming.cl/adatvchile/index.m3u8
+https://v4.tustreaming.cl/adatvchile&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2
@@ -954,17 +1162,17 @@ https://live20.bozztv.com/akamaissh101/ssh101/rfdmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="1654" tvg-name="Radio Puangue Curacavi" tvg-logo="https://cdn.m3u.cl/logo/1654_Radio_Puangue_Curacavi.png", Radio Puangue Curacavi
 https://tv.arkeo.cl:1936/puanguetv/puanguetv/playlist.m3u8
 #EXTINF:-1 tvg-id="1692" tvg-name="PRIDEtv Latam" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png", PRIDEtv Latam
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb
+https://backend.energeek.cl/webtv/pridetvweb&token=tecnotokenplustv230516F&f=.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-id="1466" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png", Kanade
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb
+https://backend.energeek.cl/webtv/kanadeweb&token=tecnotokenplustv230516F&f=.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png", EnerGeek FAN
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
+https://backend.energeek.cl/webtv/egfanweb&token=tecnotokenplustv230516F&f=.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png", EnerGeek Retro
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
+https://backend.energeek.cl/webtv/egretroweb&token=tecnotokenplustv230516F&f=.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png", EnerGeek Radio
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb
+https://backend.energeek.cl/webtv/egradioweb&token=tecnotokenplustv230516F&f=.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV Anime
-https://mitv.zplay.cl/Ztv/index.m3u8
+https://mitv.zplay.cl/Ztv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://cdn.m3u.cl/logo/31_Portal_FoxMix.png", Portal FoxMix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://cdn.m3u.cl/logo/13_Ruidos_TV.png", Ruidos
@@ -974,11 +1182,11 @@ https://tv1.ruidosfm.cl/ruidosfm/stream.m3u8
 #EXTINF:-1 tvg-id="1312" tvg-name="Eternal Metal" tvg-logo="https://cdn.m3u.cl/logo/1312_Eternal_Metal.png", Eternal Metal
 https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="996" tvg-name="Latinos TV" tvg-logo="https://cdn.m3u.cl/logo/996_Latinos_TV.png", Latinos
-https://v4.tustreaming.cl/latinostv/index.m3u8
+https://v4.tustreaming.cl/latinostv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1014" tvg-name="PlanetaTV" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png", PlanetaTV
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="1424" tvg-name="Parentesis TV" tvg-logo="https://cdn.m3u.cl/logo/1424_Parentesis_TV.png", Parentesis
-https://freya.mivideo.pro/parentesistv/index.m3u8
+https://freya.mivideo.pro/parentesistv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
 #EXTINF:-1 tvg-id="1288" tvg-name="Suyai TV" tvg-logo="https://cdn.m3u.cl/logo/1288_Suyai_TV.png", Suyai
@@ -1004,17 +1212,17 @@ https://vdochile.com:3775/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="1703" tvg-name="Tazmania Hit" tvg-logo="https://cdn.m3u.cl/logo/1703_Tazmania_Hit.png", Tazmania Hit
 https://panel.tvstream.cl:1936/ckazprkkur/ckazprkkur/playlist.m3u8
 #EXTINF:-1 tvg-id="1700" tvg-name="San Nicolas TV" tvg-logo="https://cdn.m3u.cl/logo/1700_San_Nicolas_TV.png", San Nicolas
-https://v4.tustreaming.cl/sannicolastv/index.m3u8
+https://v4.tustreaming.cl/sannicolastv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1698" tvg-name="La Comarca TV" tvg-logo="https://cdn.m3u.cl/logo/1698_La_Comarca_TV.png", La Comarca
-https://v2.tustreaming.cl/lcomarcatv/index.m3u8
+https://v2.tustreaming.cl/lcomarcatv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1690" tvg-name="Abajo e la linea TV" tvg-logo="https://cdn.m3u.cl/logo/1690_Abajo_e_la_linea_TV.png", Abajo e la linea
 https://5ff3d9babae13.streamlock.net/ynfpncxxjg/ynfpncxxjg/playlist.m3u8
 #EXTINF:-1 tvg-id="1687" tvg-name="El Canal Feliz" tvg-logo="https://cdn.m3u.cl/logo/1687_El_Canal_Feliz.png", El Canal Feliz
 http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8
 #EXTINF:-1 tvg-id="1682" tvg-name="Frecuencia Cultural" tvg-logo="https://cdn.m3u.cl/logo/1682_Frecuencia_Cultural.png", Frecuencia Cultural
-https://v2.tustreaming.cl/frecuenciacultural/index.m3u8
+https://v2.tustreaming.cl/frecuenciacultural&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1678" tvg-name="RitoqueFM TV" tvg-logo="https://cdn.m3u.cl/logo/1678_RitoqueFM_TV.png", RitoqueFM
-https://v2.tustreaming.cl/unetev/index.m3u8
+https://v2.tustreaming.cl/unetev&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1677" tvg-name="HD Radio" tvg-logo="https://cdn.m3u.cl/logo/1677_HD_Radio.png", HD Radio
 https://vdo.bitsur.cl:3029/live/hdradiolive.m3u8
 #EXTINF:-1 tvg-id="1676" tvg-name="TV Bajo Cero" tvg-logo="https://cdn.m3u.cl/logo/1676_TV_Bajo_Cero.png", TV Bajo Cero
@@ -1026,7 +1234,7 @@ http://45.225.95.154:8081/mcg/chileinforma/playlist.m3u8
 #EXTINF:-1 tvg-id="1672" tvg-name="Preludio TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/1672_Preludio_TV_Senal_2.png", Preludio TV Señal 2
 https://tv.arkeo.cl:1936/preludio2/preludio2/playlist.m3u8
 #EXTINF:-1 tvg-id="1671" tvg-name="Omega Radio" tvg-logo="https://cdn.m3u.cl/logo/1671_Omega_Radio.png", Omega Radio
-https://v2.tustreaming.cl:443/broadcastingtx/index.m3u8
+https://v2.tustreaming.cl:443/broadcastingtx&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1670" tvg-name="Radio Contacto 90.7 FM" tvg-logo="https://cdn.m3u.cl/logo/1670_Radio_Contacto_90_7_FM.png", Radio Contacto 90.7 FM
 https://unlimited1-cl-isp.dps.live/interactivatv/interactivatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="388" tvg-name="Interactiva FM" tvg-logo="https://cdn.m3u.cl/logo/388_Interactiva_FM.png", Interactiva FM
@@ -1034,7 +1242,7 @@ https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playli
 #EXTINF:-1 tvg-id="1669" tvg-name="Radio Zona" tvg-logo="https://cdn.m3u.cl/logo/1669_Radio_Zona.png", Radio Zona
 https://tv.telselec.cl:3780/live/jesuslive.m3u8
 #EXTINF:-1 tvg-id="1668" tvg-name="Verso TV" tvg-logo="https://cdn.m3u.cl/logo/1668_Verso_TV.png", Verso
-https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
+https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png", La Chilena
 https://vdochile.com:3134/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="1664" tvg-name="Zona Sur TV" tvg-logo="https://cdn.m3u.cl/logo/1664_Zona_Sur_TV.png", Zona Sur
@@ -1042,9 +1250,9 @@ https://5ff3d9babae13.streamlock.net:443/tvtumqsfdn/tvtumqsfdn/playlist.m3u8
 #EXTINF:-1 tvg-id="1660" tvg-name="Tropical Ranchero" tvg-logo="https://cdn.m3u.cl/logo/1660_Tropical_Ranchero.png", Tropical Ranchero
 https://radioxxx.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="1651" tvg-name="TeleZeta Tropical" tvg-logo="https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png", TeleZeta Tropical
-https://stream.telezeta.cl/live/index.m3u8
+https://stream.telezeta.cl/live&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1649" tvg-name="EPA! TV" tvg-logo="https://cdn.m3u.cl/logo/1649_EPA__TV.png", EPA!
-https://v4.tustreaming.cl/edusauriotv/index.m3u8
+https://v4.tustreaming.cl/edusauriotv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1630" tvg-name="Poesia TV" tvg-logo="https://cdn.m3u.cl/logo/1630_Poesia_TV.png", Poesia
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8
 #EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://cdn.m3u.cl/logo/432_HiperTV.png", HiperTV
@@ -1066,7 +1274,7 @@ https://andromeda2.trapemn.tv:1936/regionales/energia-fm/playlist.m3u8
 #EXTINF:-1 tvg-id="421" tvg-name="Bio Bio TV" tvg-logo="https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png", Bio Bio
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png", La Red
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+https://alba-cl-lared-lared.stream.mediatiquestream.com&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png", TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="454" tvg-name="TVN - Reuters" tvg-logo="https://cdn.m3u.cl/logo/454_TVN___Reuters.png", TVN - Reuters
@@ -1096,9 +1304,9 @@ https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1530" tvg-name="Juegos Panamericanos Junior Asunción 2025 - Seleccion" tvg-logo="https://cdn.m3u.cl/logo/1530_Juegos_Panamericanos_Junior_Asuncion_2025___Seleccion.png", Juegos Panamericanos Junior Asunción 2025 - Seleccion
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 tvg-id="1645" tvg-name="CalbucoNet" tvg-logo="https://cdn.m3u.cl/logo/1645_CalbucoNet.png", CalbucoNet
-https://videostream.chileservidores.com:8081/chiloe5/index.m3u8
+https://videostream.chileservidores.com:8081/chiloe5&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="897" tvg-name="Oli TV" tvg-logo="https://cdn.m3u.cl/logo/897_Oli_TV.png", Oli
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
+https://v4.tustreaming.cl/retroplaytv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="66" tvg-name="Pichilemu TV" tvg-logo="https://cdn.m3u.cl/logo/66_Pichilemu_TV.png", Pichilemu TV
 https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="El 3 de Conce" tvg-logo="https://cdn.m3u.cl/logo/65_El_3_de_Conce.png", El 3 de Conce
@@ -1176,13 +1384,13 @@ https://stmv7.voxtvhd.com.br/catto5860/catto5860/playlist.m3u8
 #EXTINF:-1 tvg-id="910" tvg-name="Raices Arabes TV" tvg-logo="https://cdn.m3u.cl/logo/910_Raices_Arabes_TV.png", Raices Arabes TV
 https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/playlist.m3u8
 #EXTINF:-1 tvg-id="438" tvg-name="Tevex" tvg-logo="https://cdn.m3u.cl/logo/438_Tevex.png", Tevex
-https://v2.tustreaming.cl/tevex/index.m3u8
+https://v2.tustreaming.cl/tevex&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="436" tvg-name="TV Salud" tvg-logo="https://cdn.m3u.cl/logo/436_TV_Salud.png", TV Salud
 https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
 #EXTINF:-1 tvg-id="435" tvg-name="Chile Channel" tvg-logo="https://cdn.m3u.cl/logo/435_Chile_Channel.png", Chile Channel
-https://v2.tustreaming.cl/chilechannel/index.m3u8
+https://v2.tustreaming.cl/chilechannel&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="437" tvg-name="Campo Abierto TV" tvg-logo="https://cdn.m3u.cl/logo/437_Campo_Abierto_TV.png", Campo Abierto TV
-https://v2.tustreaming.cl:443/catvlive/index.m3u8
+https://v2.tustreaming.cl:443/catvlive&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1666" tvg-name="TurnoEnVivo" tvg-logo="https://cdn.m3u.cl/logo/1666_TurnoEnVivo.png", TurnoEnVivo
 https://redirector.dps.live/hls/turno/playlist.m3u8
 #EXTINF:-1 tvg-id="1626" tvg-name="C y G TV" tvg-logo="https://cdn.m3u.cl/logo/1626_C_y_G_TV.png", C y G TV
@@ -1206,17 +1414,17 @@ https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1499" tvg-name="Longino TV" tvg-logo="https://cdn.m3u.cl/logo/1499_Longino_TV.png", Longino TV
 https://cloud2.streaminglivehd.com:1936/longinotv-1/longinotv-1/playlist.m3u8
 #EXTINF:-1 tvg-id="316" tvg-name="LRP Television" tvg-logo="https://cdn.m3u.cl/logo/316_LRP_Television.png", LRP Television
-https://v2.tustreaming.cl/lrp/index.m3u8
+https://v2.tustreaming.cl/lrp&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="Holvoet TV" tvg-logo="https://cdn.m3u.cl/logo/72_Holvoet_TV.png", Holvoet TV
 https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="319" tvg-name="Atacama Noticias TV" tvg-logo="https://cdn.m3u.cl/logo/319_Atacama_Noticias_TV.png", Atacama Noticias TV
-https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+https://v2.tustreaming.cl/atacamanoticias&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="320" tvg-name="Atacama TV" tvg-logo="https://cdn.m3u.cl/logo/320_Atacama_TV.png", Atacama TV
-https://v2.tustreaming.cl/atacamatv/index.m3u8
+https://v2.tustreaming.cl/atacamatv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="784" tvg-name="Madero TV" tvg-logo="https://cdn.m3u.cl/logo/784_Madero_TV.png", Madero TV
-https://v1.tustreaming.cl/maderoantofagasta/index.m3u8
+https://v1.tustreaming.cl/maderoantofagasta&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1591" tvg-name="DCH" tvg-logo="https://cdn.m3u.cl/logo/1591_DCH.png", DCH
-https://v4.tustreaming.cl/dchtv/index.m3u8
+https://v4.tustreaming.cl/dchtv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="462" tvg-name="Alternativa TV" tvg-logo="https://cdn.m3u.cl/logo/462_Alternativa_TV.png", Alternativa TV
 https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
 #EXTINF:-1 tvg-id="322" tvg-name="Enfoque Digital TV" tvg-logo="https://cdn.m3u.cl/logo/322_Enfoque_Digital_TV.png", Enfoque Digital TV
@@ -1230,21 +1438,21 @@ https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="326" tvg-name="ThemaTV" tvg-logo="https://cdn.m3u.cl/logo/326_ThemaTV.png", ThemaTV
 https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="327" tvg-name="América TV Chile" tvg-logo="https://cdn.m3u.cl/logo/327_America_TV_Chile.png", América TV Chile
-https://v2.tustreaming.cl:/radioamericatv/index.m3u8
+https://v2.tustreaming.cl:/radioamericatv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="329" tvg-name="TV Elqui" tvg-logo="https://cdn.m3u.cl/logo/329_TV_Elqui.png", TV Elqui
 https://panel.tvstream.cl:1936/campu/campu/playlist.m3u8
 #EXTINF:-1 tvg-id="335" tvg-name="VTV" tvg-logo="https://cdn.m3u.cl/logo/335_VTV.png", VTV
 https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1434" tvg-name="Marga Marga TV" tvg-logo="https://cdn.m3u.cl/logo/1434_Marga_Marga_TV.png", Marga Marga TV
-https://v1.tustreaming.cl/margamargatv/index.m3u8
+https://v1.tustreaming.cl/margamargatv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1427" tvg-name="Estacion Limache TV" tvg-logo="https://cdn.m3u.cl/logo/1427_Estacion_Limache_TV.png", Estacion Limache TV
-https://v4.tustreaming.cl/limachemovil/index.m3u8
+https://v4.tustreaming.cl/limachemovil&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="334" tvg-name="Canal 74 TeVe" tvg-logo="https://cdn.m3u.cl/logo/334_Canal_74_TeVe.png", Canal 74 TeVe
-https://eu1.servers10.com:8081/8050/index.m3u8
+https://eu1.servers10.com:8081/8050&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="332" tvg-name="TV Costa" tvg-logo="https://cdn.m3u.cl/logo/332_TV_Costa.png", TV Costa
 https://tvcosta.gleeze.com/memfs/39cef946-1aac-4418-8df8-6d8ff6d0a680.m3u8
 #EXTINF:-1 tvg-id="1231" tvg-name="Canal Local" tvg-logo="https://cdn.m3u.cl/logo/1231_Canal_Local.png", Canal Local
-https://v2.tustreaming.cl/canallocalcl/index.m3u8
+https://v2.tustreaming.cl/canallocalcl&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="854" tvg-name="TV Quinta Region" tvg-logo="https://cdn.m3u.cl/logo/854_TV_Quinta_Region.png", TV Quinta Region
 https://mc.servidor.stream:19360/8250/8250.m3u8
 #EXTINF:-1 tvg-id="995" tvg-name="Vida Nueva TV" tvg-logo="https://cdn.m3u.cl/logo/995_Vida_Nueva_TV.png", Vida Nueva TV
@@ -1252,7 +1460,7 @@ https://mc.servidor.stream:19360/8240/8240.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="Girovisual TV" tvg-logo="https://cdn.m3u.cl/logo/74_Girovisual_TV.png", Girovisual TV
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="464" tvg-name="Frecuencia 7 Aconcagua" tvg-logo="https://cdn.m3u.cl/logo/464_Frecuencia_7_Aconcagua.png", Frecuencia 7 Aconcagua
-https://v2.tustreaming.cl/frecuencia7/index.m3u8
+https://v2.tustreaming.cl/frecuencia7&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="Canal 2 de San Antonio" tvg-logo="https://cdn.m3u.cl/logo/76_Canal_2_de_San_Antonio.png", Canal 2 de San Antonio
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="333" tvg-name="Plaza TV" tvg-logo="https://cdn.m3u.cl/logo/333_Plaza_TV.png", Plaza TV
@@ -1262,7 +1470,7 @@ https://mc.servidor.stream:19360/8248/8248.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="TVR" tvg-logo="https://cdn.m3u.cl/logo/77_TVR.png", TVR
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="336" tvg-name="Tendencias Prime" tvg-logo="https://cdn.m3u.cl/logo/336_Tendencias_Prime.png", Tendencias Prime
-https://v4.tustreaming.cl/tendenciastv/index.m3u8
+https://v4.tustreaming.cl/tendenciastv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1024" tvg-name="Vision Plus TV" tvg-logo="https://cdn.m3u.cl/logo/1024_Vision_Plus_TV.png", Vision Plus TV
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 #EXTINF:-1 tvg-id="1120" tvg-name="Autonoma TV" tvg-logo="https://cdn.m3u.cl/logo/1120_Autonoma_TV.png", Autonoma TV
@@ -1272,7 +1480,7 @@ https://bst.buin.cl/0.m3u8
 #EXTINF:-1 tvg-id="1599" tvg-name="RialTv" tvg-logo="https://cdn.m3u.cl/logo/1599_RialTv.png", RialTv
 https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8
 #EXTINF:-1 tvg-id="1553" tvg-name="Providencia Television" tvg-logo="https://cdn.m3u.cl/logo/1553_Providencia_Television.png", Providencia Television
-https://v2.tustreaming.cl/providenciatv/index.m3u8
+https://v2.tustreaming.cl/providenciatv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1025" tvg-name="Telecanal Santa Cruz" tvg-logo="https://cdn.m3u.cl/logo/1025_Telecanal_Santa_Cruz.png", Telecanal Santa Cruz
 https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
 #EXTINF:-1 tvg-id="340" tvg-name="TVO San Vicente" tvg-logo="https://cdn.m3u.cl/logo/340_TVO_San_Vicente.png", TVO San Vicente
@@ -1286,25 +1494,25 @@ https://origin-us.streaminghd.cl/rtv/rtv/playlist.m3u8
 #EXTINF:-1 tvg-id="1572" tvg-name="TV Lascabras.net" tvg-logo="https://cdn.m3u.cl/logo/1572_TV_Lascabras_net.png", TV Lascabras.net
 https://vivo.solumedia.com:19360/lascabrastv/lascabrastv.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="TVR Canal 11" tvg-logo="https://cdn.m3u.cl/logo/78_TVR_Canal_11.png", TVR Canal 11
-https://cloudpro.servidoresdestream.com:8081/8006/index.m3u8
+https://cloudpro.servidoresdestream.com:8081/8006&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="79" tvg-name="En Linea Maule" tvg-logo="https://cdn.m3u.cl/logo/79_En_Linea_Maule.png", En Linea Maule
-https://v1.tustreaming.cl/enlineamauletv/index.m3u8
+https://v1.tustreaming.cl/enlineamauletv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="343" tvg-name="VLTV" tvg-logo="https://cdn.m3u.cl/logo/343_VLTV.png", VLTV
 https://andromeda3.trapemn.tv:1936/regionales/vltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="1432" tvg-name="El Centro TV" tvg-logo="https://cdn.m3u.cl/logo/1432_El_Centro_TV.png", El Centro TV
-https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8
+https://v1.tustreaming.cl:443/diarioelcentrotv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="TV 5 Linares" tvg-logo="https://cdn.m3u.cl/logo/80_TV_5_Linares.png", TV 5 Linares
-https://v1.tustreaming.cl/tv5linares/index.m3u8
+https://v1.tustreaming.cl/tv5linares&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="Contivision" tvg-logo="https://cdn.m3u.cl/logo/81_Contivision.png", Contivision
 https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1249" tvg-name="Molina TV" tvg-logo="https://cdn.m3u.cl/logo/1249_Molina_TV.png", Molina TV
 https://marine2.miplay.cl/molinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="345" tvg-name="UTV San Clemente" tvg-logo="https://cdn.m3u.cl/logo/345_UTV_San_Clemente.png", UTV San Clemente
-https://v2.tustreaming.cl/utv/index.m3u8
+https://v2.tustreaming.cl/utv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="346" tvg-name="Nativa TV" tvg-logo="https://cdn.m3u.cl/logo/346_Nativa_TV.png", Nativa TV
 https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8
 #EXTINF:-1 tvg-id="1164" tvg-name="Maule Vision" tvg-logo="https://cdn.m3u.cl/logo/1164_Maule_Vision.png", Maule Vision
-https://v2.tustreaming.cl/maulevisiontv/index.m3u8
+https://v2.tustreaming.cl/maulevisiontv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1302" tvg-name="Telecauquenes" tvg-logo="https://cdn.m3u.cl/logo/1302_Telecauquenes.png", Telecauquenes
 https://live20.bozztv.com/akamaissh101/ssh101/telecauquenestv/playlist.m3u8
 #EXTINF:-1 tvg-id="1497" tvg-name="Nova TV Canal 7" tvg-logo="https://cdn.m3u.cl/logo/1497_Nova_TV_Canal_7.png", Nova TV Canal 7
@@ -1320,7 +1528,7 @@ https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u
 #EXTINF:-1 tvg-id="1726" tvg-name="EstaciónTV" tvg-logo="https://cdn.m3u.cl/logo/1726_EstacionTV.png", EstaciónTV
 https://tv.arkeo.cl:1936/shqzratbfz/shqzratbfz/playlist.m3u8
 #EXTINF:-1 tvg-id="350" tvg-name="ClickTv" tvg-logo="https://cdn.m3u.cl/logo/350_ClickTv.png", ClickTv
-https://v2.tustreaming.cl/clicktv/index.m3u8
+https://v2.tustreaming.cl/clicktv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1609" tvg-name="Red Vision Television" tvg-logo="https://cdn.m3u.cl/logo/1609_Red_Vision_Television.png", Red Vision Television
 https://tls-cl.cdnz.cl/livertv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="353" tvg-name="Canal 9 Bío Bí­o TV" tvg-logo="https://cdn.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png", Canal 9 Bío Bí­o TV
@@ -1330,7 +1538,7 @@ https://us.streaminghd.cl/pacificotelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="948" tvg-name="San Pedro Conecta" tvg-logo="https://cdn.m3u.cl/logo/948_San_Pedro_Conecta.png", San Pedro Conecta
 https://video.ipstream.cl:3710/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="810" tvg-name="Club TV" tvg-logo="https://cdn.m3u.cl/logo/810_Club_TV.png", Club TV
-https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+https://cloudpro.servidoresdestream.com:8081/8010&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Teleangol Radio" tvg-logo="https://cdn.m3u.cl/logo/82_Teleangol_Radio.png", Teleangol Radio
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="Pucon TV" tvg-logo="https://cdn.m3u.cl/logo/83_Pucon_TV.png", Pucon TV
@@ -1338,9 +1546,9 @@ https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="357" tvg-name="Temuco TV" tvg-logo="https://cdn.m3u.cl/logo/357_Temuco_TV.png", Temuco TV
 https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8
 #EXTINF:-1 tvg-id="359" tvg-name="Canal Latino 54" tvg-logo="https://cdn.m3u.cl/logo/359_Canal_Latino_54.png", Canal Latino 54
-https://videostream.chileservidores.com:8081/latina/index.m3u8
+https://videostream.chileservidores.com:8081/latina&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1318" tvg-name="Los Sauces TV" tvg-logo="https://cdn.m3u.cl/logo/1318_Los_Sauces_TV.png", Los Sauces TV
-http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8
+http://live.mundogo.cl/mundo/LossaucesTV&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1299" tvg-name="Lanco TV" tvg-logo="https://cdn.m3u.cl/logo/1299_Lanco_TV.png", Lanco TV
 https://5e3483cba9114.streamlock.net:443/hfvhxfwxjm/hfvhxfwxjm/playlist.m3u8
 #EXTINF:-1 tvg-id="1610" tvg-name="Apocalipsis TV" tvg-logo="https://cdn.m3u.cl/logo/1610_Apocalipsis_TV.png", Apocalipsis TV
@@ -1348,7 +1556,7 @@ https://us.streaminghd.cl/apocalipsistvd/video.m3u8
 #EXTINF:-1 tvg-id="1383" tvg-name="ATV Valdivia" tvg-logo="https://cdn.m3u.cl/logo/1383_ATV_Valdivia.png", ATV Valdivia
 https://videolatam.com:3871/live/atvvaldivialive.m3u8
 #EXTINF:-1 tvg-id="360" tvg-name="Osorno TV+" tvg-logo="https://cdn.m3u.cl/logo/360_Osorno_TV_.png", Osorno TV+
-https://videostream.chileservidores.com:8081/osornotv/index.m3u8
+https://videostream.chileservidores.com:8081/osornotv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="Decima TV" tvg-logo="https://cdn.m3u.cl/logo/85_Decima_TV.png", Decima TV
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1293" tvg-name="TVM" tvg-logo="https://cdn.m3u.cl/logo/1293_TVM.png", TVM
@@ -1366,19 +1574,19 @@ https://vdochile.com:3957/live/canalchilive.m3u8
 #EXTINF:-1 tvg-id="856" tvg-name="Hito Cero TV" tvg-logo="https://cdn.m3u.cl/logo/856_Hito_Cero_TV.png", Hito Cero TV
 https://5e3483cba9114.streamlock.net:443/kbwqdhjxtz/kbwqdhjxtz/playlist.m3u8
 #EXTINF:-1 tvg-id="366" tvg-name="Chiloe Red 25" tvg-logo="https://cdn.m3u.cl/logo/366_Chiloe_Red_25.png", Chiloe Red 25
-https://v2.tustreaming.cl/chiloered/index.m3u8
+https://v2.tustreaming.cl/chiloered&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1396" tvg-name="Alerce TV" tvg-logo="https://cdn.m3u.cl/logo/1396_Alerce_TV.png", Alerce TV
 https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
 #EXTINF:-1 tvg-id="368" tvg-name="Santa Maria TV" tvg-logo="https://cdn.m3u.cl/logo/368_Santa_Maria_TV.png", Santa Maria TV
 https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="367" tvg-name="Rocco TV 4" tvg-logo="https://cdn.m3u.cl/logo/367_Rocco_TV_4.png", Rocco TV 4
-https://v2.tustreaming.cl/roccotv/index.m3u8
+https://v2.tustreaming.cl/roccotv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="369" tvg-name="Canal 11 TV Aysen" tvg-logo="https://cdn.m3u.cl/logo/369_Canal_11_TV_Aysen.png", Canal 11 TV Aysen
-https://v2.tustreaming.cl/canal11aysen/index.m3u8
+https://v2.tustreaming.cl/canal11aysen&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1012" tvg-name="Aysen TV" tvg-logo="https://cdn.m3u.cl/logo/1012_Aysen_TV.png", Aysen TV
-https://v1.tustreaming.cl/aysentv/index.m3u8
+https://v1.tustreaming.cl/aysentv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1393" tvg-name="La Melinkana TV" tvg-logo="https://cdn.m3u.cl/logo/1393_La_Melinkana_TV.png", La Melinkana TV
-https://v1.tustreaming.cl/melinkana/index.m3u8
+https://v1.tustreaming.cl/melinkana&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="370" tvg-name="Soberania Radio" tvg-logo="https://cdn.m3u.cl/logo/370_Soberania_Radio.png", Soberania Radio
 https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8
 #EXTINF:-1 tvg-id="1116" tvg-name="SurTV" tvg-logo="https://cdn.m3u.cl/logo/1116_SurTV.png", SurTV
@@ -1426,9 +1634,9 @@ https://vmix.dyndns.biz/Edelweiss/smil:Edelweiss.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1468" tvg-name="Radio Araucania Laja" tvg-logo="https://cdn.m3u.cl/logo/1468_Radio_Araucania_Laja.png", Radio Araucania Laja
 https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8
 #EXTINF:-1 tvg-id="1550" tvg-name="M Music TV" tvg-logo="https://cdn.m3u.cl/logo/1550_M_Music_TV.png", M Music TV
-https://cloudpro.servidoresdestream.com:8081/8036/index.m3u8
+https://cloudpro.servidoresdestream.com:8081/8036&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1389" tvg-name="Radio Acogida" tvg-logo="https://cdn.m3u.cl/logo/1389_Radio_Acogida.png", Radio Acogida
-https://videostream.chileservidores.com:8081/chiloe3/index.m3u8
+https://videostream.chileservidores.com:8081/chiloe3&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1476" tvg-name="Urban Pro DJ" tvg-logo="https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png", Urban Pro DJ
 https://vdochile.com:3115/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="1391" tvg-name="En la Noticia" tvg-logo="https://cdn.m3u.cl/logo/1391_En_la_Noticia.png", En la Noticia
@@ -1440,7 +1648,7 @@ https://video8.servidordevideo.net:3161/live/ynhpdikjlive.m3u8
 #EXTINF:-1 tvg-id="1564" tvg-name="Ritmo Top Latino" tvg-logo="https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png", Ritmo Top Latino
 https://5ff3d9babae13.streamlock.net/vzzfdajnnf/vzzfdajnnf/playlist.m3u8
 #EXTINF:-1 tvg-id="1647" tvg-name="El Conquistador La Serena" tvg-logo="https://cdn.m3u.cl/logo/1647_El_Conquistador_La_Serena.png", El Conquistador La Serena
-https://v4.tustreaming.cl:443/elcqlaserena/index.m3u8
+https://v4.tustreaming.cl:443/elcqlaserena&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1403" tvg-name="Red Circle" tvg-logo="https://cdn.m3u.cl/logo/1403_Red_Circle.png", Red Circle
 https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="1422" tvg-name="Radio Rosa FM" tvg-logo="https://cdn.m3u.cl/logo/1422_Radio_Rosa_FM.png", Radio Rosa FM
@@ -1472,7 +1680,7 @@ https://tv.arkeo.cl:19360/8052/8052.m3u8
 #EXTINF:-1 tvg-id="1004" tvg-name="Ritmo TV" tvg-logo="https://cdn.m3u.cl/logo/1004_Ritmo_TV.png", Ritmo TV
 https://tv.arkeo.cl:1936/ritmofm/ritmofm/playlist.m3u8
 #EXTINF:-1 tvg-id="987" tvg-name="Emocion TV" tvg-logo="https://cdn.m3u.cl/logo/987_Emocion_TV.png", Emocion TV
-https://v1.tustreaming.cl/emociontv/index.m3u8
+https://v1.tustreaming.cl/emociontv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="387" tvg-name="Zona Play Radio" tvg-logo="https://cdn.m3u.cl/logo/387_Zona_Play_Radio.png", Zona Play Radio
 https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
 #EXTINF:-1 tvg-id="786" tvg-name="Tributo Valentina" tvg-logo="https://cdn.m3u.cl/logo/786_Tributo_Valentina.png", Tributo Valentina
@@ -1486,15 +1694,15 @@ https://stmv5.voxtvhd.com.br/redfueguina/redfueguina/playlist.m3u8
 #EXTINF:-1 tvg-id="396" tvg-name="Radio Via Libre" tvg-logo="https://cdn.m3u.cl/logo/396_Radio_Via_Libre.png", Radio Via Libre
 https://stmv5.voxtvhd.com.br/vialibre/vialibre/playlist.m3u8
 #EXTINF:-1 tvg-id="390" tvg-name="Radio Universal" tvg-logo="https://cdn.m3u.cl/logo/390_Radio_Universal.png", Radio Universal
-https://videostream.chileservidores.com:8081/universal/index.m3u8
+https://videostream.chileservidores.com:8081/universal&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="394" tvg-name="Radio Touch" tvg-logo="https://cdn.m3u.cl/logo/394_Radio_Touch.png", Radio Touch
 https://tv.arkeo.cl:1936/radiotouch/radiotouch/playlist.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="Sabor TV" tvg-logo="https://cdn.m3u.cl/logo/416_Sabor_TV.png", Sabor TV
-https://v1.tustreaming.cl/sabortv/index.m3u8
+https://v1.tustreaming.cl/sabortv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="787" tvg-name="Radio Riquelme TV" tvg-logo="https://cdn.m3u.cl/logo/787_Radio_Riquelme_TV.png", Radio Riquelme TV
 https://live20.bozztv.com/giatv/giatv-riquelme1350am/riquelme1350am/playlist.m3u8
 #EXTINF:-1 tvg-id="1646" tvg-name="Radio Frecuencia Uno" tvg-logo="https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png", Radio Frecuencia Uno
-https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
+https://v1.tustreaming.cl/frecuencia1tv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="418" tvg-name="Radio Rancagua" tvg-logo="https://cdn.m3u.cl/logo/418_Radio_Rancagua.png", Radio Rancagua
 https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
 #EXTINF:-1 tvg-id="413" tvg-name="Radio Presidente Ibañez" tvg-logo="https://cdn.m3u.cl/logo/413_Radio_Presidente_Ibanez.png", Radio Presidente Ibañez
@@ -1506,27 +1714,27 @@ https://stmv5.voxtvhd.com.br/radiopolar/radiopolar/playlist.m3u8
 #EXTINF:-1 tvg-id="1538" tvg-name="Radio Navarino" tvg-logo="https://cdn.m3u.cl/logo/1538_Radio_Navarino.png", Radio Navarino
 https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="Radio Las Nieves" tvg-logo="https://cdn.m3u.cl/logo/408_Radio_Las_Nieves.png", Radio Las Nieves
-https://v2.tustreaming.cl/rln/index.m3u8
+https://v2.tustreaming.cl/rln&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1629" tvg-name="Radio Zona 90.3" tvg-logo="https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png", Radio Zona 90.3
-https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
+https://live.tvcontrolcp.com:8081/radiozona&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1655" tvg-name="Ciudadano Radio" tvg-logo="https://cdn.m3u.cl/logo/1655_Ciudadano_Radio.png", Ciudadano Radio
 https://oracle.streaminghd.cl:443/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="380" tvg-name="Radio Hoy" tvg-logo="https://cdn.m3u.cl/logo/380_Radio_Hoy.png", Radio Hoy
 https://panel.host-live.com:19360/8146/8146.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="Radio Genial TV" tvg-logo="https://cdn.m3u.cl/logo/412_Radio_Genial_TV.png", Radio Genial TV
-https://v1.tustreaming.cl:443/genialtv/index.m3u8
+https://v1.tustreaming.cl:443/genialtv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="401" tvg-name="Radio Fiessta" tvg-logo="https://cdn.m3u.cl/logo/401_Radio_Fiessta.png", Radio Fiessta
 https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8
 #EXTINF:-1 tvg-id="1502" tvg-name="Radio Panoramica" tvg-logo="https://cdn.m3u.cl/logo/1502_Radio_Panoramica.png", Radio Panoramica
-https://v2.tustreaming.cl:/alingeproducciones/index.m3u8
+https://v2.tustreaming.cl:/alingeproducciones&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="417" tvg-name="Radio Favorita" tvg-logo="https://cdn.m3u.cl/logo/417_Radio_Favorita.png", Radio Favorita
 https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="870" tvg-name="Radio Ñuble" tvg-logo="https://cdn.m3u.cl/logo/870_Radio_Nuble.png", Radio Ñuble
 https://tv.telselec.cl:3376/live/nublefmlive.m3u8
 #EXTINF:-1 tvg-id="389" tvg-name="Radio Fantasia TV" tvg-logo="https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png", Radio Fantasia TV
-https://v2.tustreaming.cl/fantasiatv/index.m3u8
+https://v2.tustreaming.cl/fantasiatv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="409" tvg-name="Radio Chiloe" tvg-logo="https://cdn.m3u.cl/logo/409_Radio_Chiloe.png", Radio Chiloe
-https://videostream.chileservidores.com:8081/chiloe1/index.m3u8
+https://videostream.chileservidores.com:8081/chiloe1&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="410" tvg-name="Radio Camila TV" tvg-logo="https://cdn.m3u.cl/logo/410_Radio_Camila_TV.png", Radio Camila TV
 https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-id="407" tvg-name="Preludio TV" tvg-logo="https://cdn.m3u.cl/logo/407_Preludio_TV.png", Preludio TV
@@ -1546,13 +1754,13 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 #EXTINF:-1 tvg-id="398" tvg-name="El Sembrador" tvg-logo="https://cdn.m3u.cl/logo/398_El_Sembrador.png", El Sembrador
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 #EXTINF:-1 tvg-id="419" tvg-name="El Conquistador Concepcion" tvg-logo="https://cdn.m3u.cl/logo/419_El_Conquistador_Concepcion.png", El Conquistador Concepcion
-https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8
+https://v1.tustreaming.cl/conquistadorconcepcion&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="382" tvg-name="ChocolateFM" tvg-logo="https://cdn.m3u.cl/logo/382_ChocolateFM.png", ChocolateFM
 https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
 #EXTINF:-1 tvg-id="1571" tvg-name="Radio La Señal" tvg-logo="https://cdn.m3u.cl/logo/1571_Radio_La_Senal.png", Radio La Señal
 https://5ff3d9babae13.streamlock.net:443/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
 #EXTINF:-1 tvg-id="406" tvg-name="Radio Ancoa TV" tvg-logo="https://cdn.m3u.cl/logo/406_Radio_Ancoa_TV.png", Radio Ancoa TV
-https://v2.tustreaming.cl/radioancoatv/index.m3u8
+https://v2.tustreaming.cl/radioancoatv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1552" tvg-name="Nina TV" tvg-logo="https://cdn.m3u.cl/logo/1552_Nina_TV.png", Nina TV
 https://tv1.ninatv.cl/hls/stream.m3u8
 #EXTINF:-1 tvg-id="414" tvg-name="AE Radio" tvg-logo="https://cdn.m3u.cl/logo/414_AE_Radio.png", AE Radio
@@ -1564,7 +1772,7 @@ https://panel.tvstream.cl:1936/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="1301" tvg-name="Radioactiva TV" tvg-logo="https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png", Radioactiva TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1541" tvg-name="Sabrosona TV" tvg-logo="https://cdn.m3u.cl/logo/1541_Sabrosona_TV.png", Sabrosona TV
-https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8
+https://samson.streamerr.co:8081/sabrosonavideo&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1270" tvg-name="La Clave" tvg-logo="https://cdn.m3u.cl/logo/1270_La_Clave.png", La Clave
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1166" tvg-name="Dance FM" tvg-logo="https://cdn.m3u.cl/logo/1166_Dance_FM.png", Dance FM
@@ -1588,17 +1796,17 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 #EXTINF:-1 tvg-id="1472" tvg-name="La Nuestra" tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png", La Nuestra
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="168" tvg-name="TNE" tvg-logo="https://cdn.m3u.cl/logo/168_TNE.png", TNE
-https://v2.tustreaming.cl/tnetv/index.m3u8
+https://v2.tustreaming.cl/tnetv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="169" tvg-name="Televida HD" tvg-logo="https://cdn.m3u.cl/logo/169_Televida_HD.png", Televida HD
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 #EXTINF:-1 tvg-id="351" tvg-name="Restaurando Vidas TV" tvg-logo="https://cdn.m3u.cl/logo/351_Restaurando_Vidas_TV.png", Restaurando Vidas TV
-https://v4.tustreaming.cl/restaurandovida/index.m3u8
+https://v4.tustreaming.cl/restaurandovida&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="167" tvg-name="Radio Vida Curico" tvg-logo="https://cdn.m3u.cl/logo/167_Radio_Vida_Curico.png", Radio Vida Curico
 https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8
 #EXTINF:-1 tvg-id="164" tvg-name="NCTV" tvg-logo="https://cdn.m3u.cl/logo/164_NCTV.png", NCTV
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="163" tvg-name="Gracia TV" tvg-logo="https://cdn.m3u.cl/logo/163_Gracia_TV.png", Gracia TV
-https://v4.tustreaming.cl/graciatv/index.m3u8
+https://v4.tustreaming.cl/graciatv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="159" tvg-name="Canal ISB" tvg-logo="https://cdn.m3u.cl/logo/159_Canal_ISB.png", Canal ISB
 https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1384" tvg-name="Metanoia TV" tvg-logo="https://cdn.m3u.cl/logo/1384_Metanoia_TV.png", Metanoia TV
@@ -1606,7 +1814,7 @@ https://live.mtna.tv/hls/mtna/mtna.m3u8
 #EXTINF:-1 tvg-id="1399" tvg-name="IPNA Medio" tvg-logo="https://cdn.m3u.cl/logo/1399_IPNA_Medio.png", IPNA Medio
 https://paneltv.stream:19360/ipnamedios/ipnamedios.m3u8
 #EXTINF:-1 tvg-id="1412" tvg-name="Enlace BPB" tvg-logo="https://cdn.m3u.cl/logo/1412_Enlace_BPB.png", Enlace BPB
-https://v1.tustreaming.cl/enlacebpbtv/index.m3u8
+https://v1.tustreaming.cl/enlacebpbtv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="173" tvg-name="Escuchame Radio" tvg-logo="https://cdn.m3u.cl/logo/173_Escuchame_Radio.png", Escuchame Radio
 https://Stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 #EXTINF:-1 tvg-id="1480" tvg-name="Fortaleza Radio" tvg-logo="https://cdn.m3u.cl/logo/1480_Fortaleza_Radio.png", Fortaleza Radio
@@ -1614,7 +1822,7 @@ https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8
 #EXTINF:-1 tvg-id="1479" tvg-name="Fortaleza TV" tvg-logo="https://cdn.m3u.cl/logo/1479_Fortaleza_TV.png", Fortaleza TV
 https://multimedia.fortalezatv.cl/video/video.m3u8
 #EXTINF:-1 tvg-id="1638" tvg-name="ADA TV" tvg-logo="https://cdn.m3u.cl/logo/1638_ADA_TV.png", ADA TV
-https://v4.tustreaming.cl/adatvchile/index.m3u8
+https://v4.tustreaming.cl/adatvchile&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1711" tvg-name="Alegria Cristiana" tvg-logo="https://cdn.m3u.cl/logo/1711_Alegria_Cristiana.png", Alegria Cristiana
 https://vdochile.com:3182/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="1714" tvg-name="Tv Catedral de la Florida" tvg-logo="https://cdn.m3u.cl/logo/1714_Tv_Catedral_de_la_Florida.png", Tv Catedral de la Florida
@@ -1650,7 +1858,7 @@ https://videostream.shockmedia.com.ar:19360/sextv/sextv.m3u8
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://cdn.m3u.cl/logo/488_Anime_Zone_TV.png", Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion.png", Locomotion
-http://85.239.54.197:81/live/loco_hi/index.m3u8
+http://85.239.54.197:81/live/loco_hi&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png", VariedTV
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 #EXTINF:-1 tvg-id="1691" tvg-name="ZyoonTV" tvg-logo="https://cdn.m3u.cl/logo/1691_ZyoonTV.png", ZyoonTV | UY
@@ -1682,7 +1890,7 @@ https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8
 #EXTINF:-1 tvg-id="227" tvg-name="Canal 13 La Rioja" tvg-logo="https://cdn.m3u.cl/logo/227_Canal_13_La_Rioja.png", Canal 13 La Rioja
 https://stream.arcast.net:4443/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-id="1182" tvg-name="Canal 2 Misiones" tvg-logo="https://cdn.m3u.cl/logo/1182_Canal_2_Misiones.png", Canal 2 Misiones
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+https://nd106.republicaservers.com:4433/hls/canal2misioness&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1057" tvg-name="Canal 21 Misiones" tvg-logo="https://cdn.m3u.cl/logo/1057_Canal_21_Misiones.png", Canal 21 Misiones
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 tvg-id="230" tvg-name="Canal 22 Buenos Aires" tvg-logo="https://cdn.m3u.cl/logo/230_Canal_22_Buenos_Aires.png", Canal 22 Buenos Aires
@@ -1694,7 +1902,7 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 tvg-id="231" tvg-name="Canal 3 Las Heras" tvg-logo="https://cdn.m3u.cl/logo/231_Canal_3_Las_Heras.png", Canal 3 Las Heras
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-id="255" tvg-name="Canal 3 Pinamar" tvg-logo="https://cdn.m3u.cl/logo/255_Canal_3_Pinamar.png", Canal 3 Pinamar
-https://intelincloud01.com.ar/hls/cn3/index.m3u8
+https://intelincloud01.com.ar/hls/cn3&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1346" tvg-name="Canal 34 San Juan" tvg-logo="https://cdn.m3u.cl/logo/1346_Canal_34_San_Juan.png", Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 tvg-id="257" tvg-name="Canal 4 Bahia Blanca" tvg-logo="https://cdn.m3u.cl/logo/257_Canal_4_Bahia_Blanca.png", Canal 4 Bahia Blanca
@@ -1710,7 +1918,7 @@ https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8
 #EXTINF:-1 tvg-id="260" tvg-name="Canal 4 San Juan" tvg-logo="https://cdn.m3u.cl/logo/260_Canal_4_San_Juan.png", Canal 4 San Juan
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="1348" tvg-name="Canal 40 Caucete" tvg-logo="https://cdn.m3u.cl/logo/1348_Canal_40_Caucete.png", Canal 40 Caucete
-https://canalsj.kozow.com/canal40/index.m3u8
+https://canalsj.kozow.com/canal40&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="778" tvg-name="Canal 5 Pico Truncado" tvg-logo="https://cdn.m3u.cl/logo/778_Canal_5_Pico_Truncado.png", Canal 5 Pico Truncado
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1 tvg-id="773" tvg-name="Canal 5 Santa Fe" tvg-logo="https://cdn.m3u.cl/logo/773_Canal_5_Santa_Fe.png", Canal 5 Santa Fe
@@ -1782,7 +1990,7 @@ https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6_output_0.m
 #EXTINF:-1 tvg-id="820" tvg-name="El Palomar TV Tucuman" tvg-logo="https://cdn.m3u.cl/logo/820_El_Palomar_TV_Tucuman.png", El Palomar TV Tucuman
 https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8
 #EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png", El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+https://live-01-02-eltrece.vodgc.net/eltrecetv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="239" tvg-name="Fenix" tvg-logo="https://cdn.m3u.cl/logo/239_Fenix.png", Fenix
 https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8
 #EXTINF:-1 tvg-id="803" tvg-name="FM Metropolitana 100.5 MHZ" tvg-logo="https://cdn.m3u.cl/logo/803_FM_Metropolitana_100_5_MHZ.png", FM Metropolitana 100.5 MHZ
@@ -1794,7 +2002,7 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-id="1360" tvg-name="Ingenio FM" tvg-logo="https://cdn.m3u.cl/logo/1360_Ingenio_FM.png", Ingenio FM
 https://videostream.shockmedia.com.ar:19360/ingeniofm/ingeniofm.m3u8
 #EXTINF:-1 tvg-id="1470" tvg-name="La 100" tvg-logo="https://cdn.m3u.cl/logo/1470_La_100.png", La 100
-https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8
+https://live-05-13-la100.vodgc.net/live-05-13-la100&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1295" tvg-name="Lapacho TV Canal 11" tvg-logo="https://cdn.m3u.cl/logo/1295_Lapacho_TV_Canal_11.png", Lapacho TV Canal 11
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 #EXTINF:-1 tvg-id="1621" tvg-name="Latina TV Mendoza" tvg-logo="https://cdn.m3u.cl/logo/1621_Latina_TV_Mendoza.png", Latina TV Mendoza
@@ -5620,7 +5828,7 @@ https://cdn.energeek.cl/hls/pridetvlatam.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IHVHNE4.png" group-title="ENTRETENIMIENTO",DreikoTV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IHVHNE4.png" group-title="ENTRETENIMIENTO",Adult Swim
-http://181.78.208.25:8000/play/a02m/index.m3u8
+http://181.78.208.25:8000/play/a02m&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="ENTRETENIMIENTO",Wapp
 http://tecnotv.club/ma1003/phpcode/distro.php?c=wapptv&output=ts
 #EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="ENTRETENIMIENTO",El Conflicto TV
@@ -5681,252 +5889,270 @@ http://tecnotv.club/ma1003/phpcode/runtime.php?c=5106&output=ts
 http://tecnotv.club/ma1003/phpcode/runtime.php?c=6149&output=ts
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/6vMJBXl.png" group-title="ENTRETENIMIENTO",Sangre Fría
 http://tecnotv.club/ma1003/phpcode/runtime.php?c=6130&output=ts
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", AZTECA 7
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a026&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", BEIN SPORTS Ñ
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a05s&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", CANAL 27
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a05p&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", CANAL 5
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a05o&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Cartoon Network
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a029&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Claro Sports 3 HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a024&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", DE PELICULA
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a05n&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", DISTRITO COMEDIA
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a05l&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", ESPN  4 HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a028&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", LAS ESTRELLAS
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a05j&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", LAS ESTRELLAS LEGAL
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a02c&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", PENIEL FAMILIAR HUEHUE
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a021&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", SKY SPORTS
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a05r&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", TELEMUNDO MIAMI
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a05m&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", TIGO GT
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a05t&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", TL NOVELAS
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a05k&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", TN 23
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a025&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", TUDN
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a05q&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", TeleMicro - RD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a027&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", VEA CANAL
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a05i&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Baby First
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a03i&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Boomerang
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0g0&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", CARTOON NT HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0l0&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", CARTOON NT HD (clone)
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a02j&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Discovery Kids
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a03l&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Disney JR
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0g1&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Disney channel
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0i8&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Nick 2 HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a03f&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Nick Jr
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0fz&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Nickelodeon HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0hs&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", SEMILLITAS
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0g3&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Tooncast
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a03k&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Adult Swim
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a051&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Canal 11 - GUA
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0jk&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Canal 13-GUA
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0jj&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Canal 3 - GUA
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0h5&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Canal 7 - GUA
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0h4&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Canal Antigua - GUA
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0h2&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Canal Azteca - GUA
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0h3&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Canal Guatevision - GUA
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0fw&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Concert Channel
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a02r&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Exa TV
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0hk&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", MTV
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0if&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", MTV 00s HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0i0&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", MTV 80s
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ge&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", MTV HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0gm&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", MTV Hits
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0gd&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", MTV SIM HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0hz&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", EWTN
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a04x&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", La voz de Maria
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0id&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", RHEMA TV
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0iw&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Sembrador
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0k0&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", TBN Enlace
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0gj&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Claro Sports  HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kz&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", ESPN 2 HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a053&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", ESPN 3 HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a054&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", ESPN 5 HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ix&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", ESPN 6 HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kj&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", ESPN HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a052&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Golf Channel HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0h1&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Tigo Sports HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a02v&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Pasiones HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kq&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", RCN Novelas
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0jn&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Telemundo HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0gv&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Univision HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kr&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", AZ click HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0gz&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Azcorazon
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0g6&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Azmundo
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0h8&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", DISCOVERY THEATHER HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0hv&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Discovery Channel HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kn&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Discovery ID HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ks&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Discovery Turbo
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ia&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Discovery World HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kp&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", El Gourmet
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a04v&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", FX HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0gw&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", HBO Family HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0l5&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", HBO HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0l2&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", HBO Plus HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0l4&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", HBO XTREME HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0l6&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", HBO2 HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a00c&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", History 2
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0jp&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", History Channel HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0gk&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", SONY HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0hp&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", SONY MOVIES HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a03s&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", STAR CHANNEL HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0hn&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", STAR LIFE
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0g4&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Sun Channel
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a050&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", TNT HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0hu&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", TNT Novelas
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0g9&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", TNT Series HD
+#EXTINF:-1 group-title="TV PREMIUM", A&E
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0bv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", A3 SERIES
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0b0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ARTS
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0bc&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", AXN
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a08w&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", BABY TV
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0b9&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", BOOMERAN
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0c1&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", C
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0cq&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DICOVERY CHANNEL
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ep&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DISCOVERY TURBO
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0c4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DISNEY JR
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0bz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ESPN
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a091&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 3
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0c3&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", E¡
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0by&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FORMULA NOTICIAS
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0be&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", FX
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a08x&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", H&H
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0bw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0c5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO +
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0cv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", IMAGEN
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0d5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ISAT
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0b2&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", MC
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0co&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", MTV HITS
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0b4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", NATGEO LA
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0cl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", SEX XTREME
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a09c&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", STUDIO UNIVERSAL
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0bh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TLR
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0em&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TNT SERIES
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0da&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", VENUS
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a09b&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", VH1
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0b6&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", VIDEO ROLA
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0b5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", history 2
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0dj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", hola tv
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0db&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", milenio
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0dm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", once
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0bq&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 CANAL 14
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ax&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 CNN
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0bd&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 JUSTICIA TV
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0bg&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 NOTICIAS DEL CONGRESO
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0az&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 TV UNAM
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ay&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 TVC
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0bf&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",13 realities
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0nj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",13 teleseries
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ni&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ADN 40 HD
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ne&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AMC
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0k8&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ATLAS
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0os&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AYM
 http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0km&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", UNIVERSAL CINEMA HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kt&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", UNIVERSAL COMEDY HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0i5&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", UNIVERSAL CRIME HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0i4&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", UNIVERSAL PREMIERE HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0i1&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", UNIVERSAL PREMIERE O HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0i2&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", UNIVERSAL REALITY HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0i3&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", A&E HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0gt&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", AMC HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0gu&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", AXN HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0iy&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Animal Planet HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0gq&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", CINECANAL HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0hq&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", CNN Español
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0gi&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Canal Claro
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0fv&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Cine Latino
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ik&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", CineMax
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0il&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Comedy Central HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0hy&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", DHE HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0gy&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", E! Entertairment HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0gr&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Film & arts HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0gs&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Golden
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0jv&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", HOLA! TV HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0hx&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Home & Health HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0hw&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", LIFE TIME
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0gb&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Multipremier
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ij&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Nat Geo HD
+#EXTINF:-1 group-title="TV PREMIUM",AYM SPORT HD
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0mk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AZTECA 7
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0fm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AZTECA 7 HD
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0la&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AZTECA INTER HD
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0n7&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AZTECA UNO
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0cc&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",BABY FIRST
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kb&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",BITME
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0np&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CANAL 22
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0d7&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CANAL 5
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0fl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CANAL 5 HD
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0n6&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CANAL INFANTIL SD
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ot&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CARTOON NETWORK
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0c0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CINE LATINO
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0lq&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CINEMAX
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a093&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CLARO SPORT
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0cm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CLICK HD
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0mh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CNN
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0dl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",COMEDY CENTRAL
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0b3&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Canal del Congreso 45.1
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0nt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Caracola TV
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0nd&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Cartonito
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kc&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",D pelicula
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0nn&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DISCOVERY ID
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ch&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DISTRITO COMEDIA
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ou&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DreamWorks TV Latin America
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0no&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",EDGE
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0nh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",EL 6
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0bp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 2
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a092&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ESTRELLAS
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0d4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ESTRELLAS HD
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0le&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",EXA TV
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0lr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FAST AND FUN BOX
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ks&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FAST FUN HD
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0mi&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FIGTH BOX
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FILM  &  ARTS
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0k9&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORTS 2
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0oz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX sport 3
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ox&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",GAME TOON
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",GINX
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kx&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",GOLF CHANNEL
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO 2
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ct&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO FAMILY
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0cu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO MUNDI
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0jj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO SIGNATURE
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ji&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO XTREME
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a096&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HTV
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0b7&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Justicia TV (Mexico)
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ns&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",LAMEJOR TV
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ls&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",LIFE TIME
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ci&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MASCHIC
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ka&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MTV 00
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MULTI PREMIER
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0cp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MULTICANAL
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0lo&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MULTIPREMIER
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0lp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",NBA
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",NFL
 http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kk&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Paramount HD
+#EXTINF:-1 group-title="TV PREMIUM",NICK JR
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ck&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",NICKMUSIC
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0lt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",OUTDOOR
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Once niñas y niños
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0nr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",PARAMOUNT
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0cs&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",PLAY BOY
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a09a&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",PX SPORTS
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ku&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",RT
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0nk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",SPACE
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0cg&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",SYFY
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0b1&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TELEMUNDO INTER HD
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0mg&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TLC
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0bx&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TLN Telenovelas. SD
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0oy&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TRACE
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ky&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TVC DEPORTES
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0mj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TVCD
 http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kl&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", SPACE HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0iz&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Star TVE HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0h0&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", TCM
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0jw&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", TLC
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0hh&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", TVE
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a04y&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", Universal
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ih&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV PREMIUM", WARNER HD
-http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ho&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TeleYucatan
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0na&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TyC SPORTS
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",UNICABLE
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ov&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",UNIVERSAL
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0bt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",WARNER
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0cf&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",canal 22.2
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0nu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",dw espa
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0nl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",el9nueve SD
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ow&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",espn extra
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0kf&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",fox channel
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a08v&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",france 24
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0nm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",letra a
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0bu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",teleplay
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0ng&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",tnt novelas
+http://tecnotv.club/ma1003/phpcode/geomex.php?c=a0m2&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-name="Descubriendo Pluto TV" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" group-title="Pluto TV" tvg-chno="1", Descubriendo Pluto TV
 http://tecnotv.club/ma1003/phpcode/plutotv.php?c=5e793a7cfbdf780007f7eb75&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="Películas" tvg-chno="18", Pluto TV Cine Estelar
@@ -6352,7 +6578,7 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://cdn.m3u.cl/logo/17_The_Retro_Channel.png", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="546" tvg-name="Top TV" tvg-logo="https://cdn.m3u.cl/logo/546_Top_TV.png", Top TV
-https://isaocorp.cloudecast.com/toptv/index.m3u8
+https://isaocorp.cloudecast.com/toptv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="1234" tvg-name="Urbano TV" tvg-logo="https://cdn.m3u.cl/logo/1234_Urbano_TV.png", Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://cdn.m3u.cl/logo/22_Video_Tour_Channel.png", Video Tour Channel
