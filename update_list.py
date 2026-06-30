@@ -6,13 +6,13 @@ import sys
 # --- CONFIGURACIÓN ---
 LOCAL_FILE = 'prr.txt'
 URLS_REMOTAS = [
-    'https://tecnotv.club/j3vr/lista.m3u',
-    'https://tecnotv.club/j3vr/lista1.m3u',
-    'https://tecnotv.club/j3vr/lista2.m3u',
-    'https://tecnotv.club/j3vr/lista3.m3u',
-    'https://tecnotv.club/j3vr/lista4.m3u',
-    'https://tecnotv.club/j3vr/deportes.m3u',
-    'https://tecnotv.club/j3vr/android.m3u' 
+    'https://tecnotv.club/b6jq/lista.m3u',
+    'https://tecnotv.club/b6jq/lista1.m3u',
+    'https://tecnotv.club/b6jq/lista2.m3u',
+    'https://tecnotv.club/b6jq/lista3.m3u',
+    'https://tecnotv.club/b6jq/lista4.m3u',
+    'https://tecnotv.club/b6jq/deportes.m3u',
+    'https://tecnotv.club/b6jq/android.m3u' 
 ]
 
 EPG_URL = 'https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml' 
