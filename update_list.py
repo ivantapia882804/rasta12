@@ -6,13 +6,13 @@ import sys
 # --- CONFIGURACIÓN ---
 LOCAL_FILE = 'prr.txt'
 URLS_REMOTAS = [
-    'https://tecnotv.club/mu54/lista.m3u',
-    'https://tecnotv.club/mu54/lista1.m3u',
-    'https://tecnotv.club/mu54/lista2.m3u',
-    'https://tecnotv.club/mu54/lista3.m3u',
-    'https://tecnotv.club/mu54/lista4.m3u',
-    'https://tecnotv.club/mu54/deportes.m3u',
-    'https://tecnotv.club/mu54/android.m3u',
+    'https://tecnotv.club/ka6r/lista.m3u',
+    'https://tecnotv.club/ka6r/lista1.m3u',
+    'https://tecnotv.club/ka6r/lista2.m3u',
+    'https://tecnotv.club/ka6r/lista3.m3u',
+    'https://tecnotv.club/ka6r/lista4.m3u',
+    'https://tecnotv.club/ka6r/deportes.m3u',
+    'https://tecnotv.club/ka6r/android.m3u',
     'https://iptv-org.github.io/iptv/languages/spa.m3u'
 ]
 
