@@ -6627,8 +6627,12 @@ http://38.65.175.25:8000/play/a0cc/index.m3u8
 http://38.65.175.25:8000/play/a0nz/index.m3u8
 #EXTINF:-1,BABY FIRST
 http://38.65.175.25:8000/play/a0kb/index.m3u8
+#EXTINF:-1,BABY TV
+http://38.65.175.25:8000/play/a0s8/index.m3u8
 #EXTINF:-1,BANDAMAX T
 http://38.65.175.25:8000/play/a0qv/index.m3u8
+#EXTINF:-1,BEAT BOX
+http://38.65.175.25:8000/play/a0s5/index.m3u8
 #EXTINF:-1,BIT ME T
 http://38.65.175.25:8000/play/a0qo/index.m3u8
 #EXTINF:-1,CANAL 22
@@ -6645,6 +6649,8 @@ http://38.65.175.25:8000/play/a0c0/index.m3u8
 http://38.65.175.25:8000/play/a0qi/index.m3u8
 #EXTINF:-1,CINE LATINO
 http://38.65.175.25:8000/play/a0lq/index.m3u8
+#EXTINF:-1,CINE MEXICANO
+http://38.65.175.25:8000/play/a0s1/index.m3u8
 #EXTINF:-1,CINELATINO 2
 http://38.65.175.25:8000/play/a0or/index.m3u8
 #EXTINF:-1,CINEMA PLATINO X
@@ -6671,6 +6677,10 @@ http://38.65.175.25:8000/play/a0qs/index.m3u8
 http://38.65.175.25:8000/play/a0p7/index.m3u8
 #EXTINF:-1,DISCOVERY ID
 http://38.65.175.25:8000/play/a0ch/index.m3u8
+#EXTINF:-1,DISCOVERY ID ENC
+http://38.65.175.25:8000/play/a0s4/index.m3u8
+#EXTINF:-1,DISNEY JR
+http://38.65.175.25:8000/play/a0s3/index.m3u8
 #EXTINF:-1,DISTRITO COMEDIA T
 http://38.65.175.25:8000/play/a0qr/index.m3u8
 #EXTINF:-1,DREAMWORKS TV
@@ -6757,6 +6767,8 @@ http://38.65.175.25:8000/play/a0p9/index.m3u8
 http://38.65.175.25:8000/play/a0kj/index.m3u8
 #EXTINF:-1,NFL
 http://38.65.175.25:8000/play/a0kk/index.m3u8
+#EXTINF:-1,NICKELODEON ENC
+http://38.65.175.25:8000/play/a0s6/index.m3u8
 #EXTINF:-1,OUTDOOR
 http://38.65.175.25:8000/play/a0kt/index.m3u8
 #EXTINF:-1,PLAY BOY
@@ -6793,6 +6805,8 @@ http://38.65.175.25:8000/play/a0oz/index.m3u8
 http://38.65.175.25:8000/play/a0ku/index.m3u8
 #EXTINF:-1,SPACE
 http://38.65.175.25:8000/play/a0cg/index.m3u8
+#EXTINF:-1,SPACE ENC
+http://38.65.175.25:8000/play/a0s2/index.m3u8
 #EXTINF:-1,STAR CHANNEL X
 http://38.65.175.25:8000/play/a0qh/index.m3u8
 #EXTINF:-1,SYFY
@@ -6809,6 +6823,8 @@ http://38.65.175.25:8000/play/a0pa/index.m3u8
 http://38.65.175.25:8000/play/a0qp/index.m3u8
 #EXTINF:-1,TLC
 http://38.65.175.25:8000/play/a0bx/index.m3u8
+#EXTINF:-1,TLC ENC
+http://38.65.175.25:8000/play/a0s7/index.m3u8
 #EXTINF:-1,TNT
 http://38.65.175.25:8000/play/a0aq/index.m3u8
 #EXTINF:-1,TRACE
