@@ -345,7 +345,7 @@ https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AgapeTV.sv@SD" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religious",Agape TV (720p)
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AGRFMTV.py@SD" tvg-logo="https://i.imgur.com/tg6EjTU.png" group-title="General",AGR FM TV
+#EXTINF:-1 tvg-id="AGRFMTV.py@SD" tvg-logo="https://i.imgur.com/tg6EjTU.png" group-title="General",AGR FM TV (720p)
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AgriculturaTV.cl@SD" tvg-logo="https://i.imgur.com/sxrYc3Q.png" group-title="Outdoor",Agricultura TV (1080p)
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
@@ -723,7 +723,7 @@ http://190.181.61.93:8000/play/a00k/index.m3u8
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="CadenaTV.pe@HD" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Undefined",Cadena TV (720p) [Not 24/7]
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
-#EXTINF:-1 tvg-id="CadenaTV.pe@SD" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Undefined",Cadena TV SD
+#EXTINF:-1 tvg-id="CadenaTV.pe@SD" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Undefined",Cadena TV SD (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CajamarcaTV.pe@SD" tvg-logo="https://i.imgur.com/pC57NYv.png" group-title="General",Cajamarca TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8
@@ -789,7 +789,7 @@ http://45.186.106.207:8000/play/a09t/index.m3u8
 http://168.228.44.241:9999/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="Canal4Esquel.ar@SD" tvg-logo="https://i.imgur.com/6kbOr16.png" group-title="Undefined",Canal 4 Esquel (720p)
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4Jujuy.ar@SD" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Undefined",Canal 4 Jujuy
+#EXTINF:-1 tvg-id="Canal4Jujuy.ar@SD" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Undefined",Canal 4 Jujuy (1080p)
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4ManchaCentro.es@SD" tvg-logo="https://i.imgur.com/t3O3O9M.png" group-title="Undefined",Canal 4 Mancha Centro (720p) [Not 24/7]
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
@@ -1236,7 +1236,7 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
 #EXTINF:-1 tvg-id="CetelmonTV.es@SD" tvg-logo="https://i.imgur.com/GGn7itj.png" group-title="Religious",Cetelmon TV (404p)
 http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN Spanish (1080p)
-https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
+https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="ChacraTV.ar@SD" tvg-logo="https://i.imgur.com/gy7AEfO.png" group-title="Outdoor",Chacra TV
 https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChamameTV.ar@SD" tvg-logo="https://i.imgur.com/JigzJck.png" group-title="Music",Chamame TV
@@ -1607,8 +1607,6 @@ http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 #EXTINF:-1 tvg-id="DmodaChannel.bo@SD" tvg-logo="https://dmoda.com.bo/wp-content/uploads/2025/07/09-LOGO-EN-BLANCO-LIGHT-380-X-180-pixeles.png" group-title="General",Dmoda Channel (1080p)
 https://master.tucableip.com/dmoda/index.m3u8
-#EXTINF:-1 tvg-id="DNJTV.pr@SD" tvg-logo="https://i.imgur.com/YqTcGJZ.png" group-title="Religious",DNJ TV (720p)
-https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8
 #EXTINF:-1 tvg-id="DobleCTelevision.pe@SD" tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="General",Doble C Television (720p)
 https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
 #EXTINF:-1 tvg-id="Docevision.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1759_Docevision.png" group-title="General",Docevision (720p)
@@ -1776,7 +1774,7 @@ https://inliveserver.com:1936/8392/8392/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Sports",ESPN 2 Latin America (1080p)
 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
 #EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Sports",ESPN 2 Latin America Colombia (1080p)
-http://190.61.47.54:8000/play/a005/index.m3u8
+http://38.211.118.56:50002/play/a0fa/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Sports",ESPN 3 Latin America (1080p)
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
 #EXTINF:-1 tvg-id="ESPN4LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Sports",ESPN 4 Latin America (1080p)
@@ -1799,7 +1797,7 @@ http://168.228.44.241:9997/play/a06p/index.m3u8
 http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Sports",ESPN Premium HD (1080p)
 http://158.172.155.130:8000/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-id="eSportsMaxTV.ve@SD" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",eSports Max TV
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve@SD" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",eSports Max TV (1080p)
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="EstacionLimacheTV.cl@SD" tvg-logo="https://i.imgur.com/YAADx7P.png" group-title="Entertainment",Estacion Limache TV (720p)
 https://v4.tustreaming.cl/limachemovil/index.m3u8
@@ -1857,8 +1855,6 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 http://15.204.246.24:8080/F10HD/index.m3u8
 #EXTINF:-1 tvg-id="FabulosaEstereo1005FM.pa@SD" tvg-logo="https://i.imgur.com/YFmzkOp.png" group-title="Music",Fabulosa Estereo 100.5 FM (720p)
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
-#EXTINF:-1 tvg-id="FamiliaVisionHD.pr@SD" tvg-logo="https://i.imgur.com/uqTH7m5.jpg" group-title="Religious",Familia Vision HD (1080p) [Not 24/7]
-https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FAPTV.bo@SD" tvg-logo="https://i.imgur.com/jZ7g58e.png" group-title="General",FAP TV (720p)
 https://edge.enhdtv.com/faptv/index.m3u8
 #EXTINF:-1 tvg-id="FarodeSantidadTV.pr@SD" tvg-logo="https://i.imgur.com/GoNBFzI.png" group-title="Religious",Faro de Santidad TV (720p)
@@ -1893,6 +1889,8 @@ https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 https://v2.tustreaming.cl/fmplus/index.m3u8
 #EXTINF:-1 tvg-id="FMHKids.us@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png" group-title="Kids",FMH Kids (720p)
 http://38.87.224.19:2220/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="FMHMovies.us@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png" group-title="Movies",FMH Movies (1080p)
+http://45.186.254.75:8000/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="FMTV.uk@SD" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="Music",FMTV [Not 24/7]
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="FolcloreandoTV.ar@SD" tvg-logo="https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo-qvcz16ulfxe7qqvftihvlcoku8l2hux59qcndiy3qo.png" group-title="General",Folcloreando TV
@@ -2033,6 +2031,8 @@ https://videostream.chileservidores.com:8081/tome/index.m3u8
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es@SD" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="Culture",Hamaika Telebista (1080p)
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HatoDelYaqueTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4075-294x165-FFFFFF.jpg" group-title="General",Hato Del Yaque TV (720p) [Not 24/7]
+https://streamunoapp.com:3739/live/hatodelyaquetvlive.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Movies;Series",HBO 2 Latin America HD (1080p)
 http://45.171.64.30:6060/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="HBO.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Movies;Series",HBO (United States) (720p)
@@ -2099,6 +2099,8 @@ http://45.171.64.30:6060/play/a012/index.m3u8
 https://stream1.28tv.online/HTVLiveCanal52/index.m3u8
 #EXTINF:-1 tvg-id="HuachoPeruTV.pe@SD" tvg-logo="https://i.imgur.com/PevmfqK.png" group-title="General",Huacho Peru TV
 https://tv.huachotv.com/stream.m3u8
+#EXTINF:-1 tvg-id="HuilaTV.co@SD" tvg-logo="https://i.imgur.com/hFlGHNZ.png" group-title="General",Huila TV (1080p)
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 #EXTINF:-1 tvg-id="iCarly.us@LatAm" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="Series",iCarly LatAm
 https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
 #EXTINF:-1 tvg-id="ICNDigital.hn@SD" tvg-logo="https://i.imgur.com/UCZVQgj.png" group-title="News",ICN Digital
@@ -2289,6 +2291,8 @@ https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
 https://ares.disfrutaenlared.com:1936/exitosa/exitosa/playlist.m3u8
 #EXTINF:-1 tvg-id="LaFabulosaTV.pe@SD" tvg-logo="https://i.imgur.com/GjME5H0.png" group-title="Music",La Fabulosa TV (720p)
 https://eu1.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-id="LaGranjaTV.cl@SD" tvg-logo="https://i.imgur.com/90luGab.png" group-title="Music",La Granja TV (1080p)
+https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
 #EXTINF:-1 tvg-id="LaHermandadSalsera.co@SD" tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="Music",La Hermandad Salsera (1080p) [Not 24/7]
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LaHoraTV.do@HD" tvg-logo="https://lahoratv.org/imagen/lahora.jpeg" group-title="General",La Hora TV (720p) [Not 24/7]
@@ -2493,6 +2497,8 @@ https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 https://live.arnoproducciones.com/hls/norte.m3u8
 #EXTINF:-1 tvg-id="MasNoticiasTelevision.hn@SD" tvg-logo="https://i.imgur.com/FG4nfRX.jpg" group-title="News",Mas Noticias Television (720p)
 https://www.amixtv.com:8081/mntvh/index.m3u8
+#EXTINF:-1 tvg-id="MasRadioTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1495_Mas_Radio_TV.png" group-title="General",Mas Radio TV (1080p)
+https://iptv.intersurtv.cl/intersur_mauletv/index.m3u8
 #EXTINF:-1 tvg-id="MasTalk.ve@SD" tvg-logo="https://i.imgur.com/unE2LGz.jpg" group-title="Entertainment",Mas Talk (1080p)
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 #EXTINF:-1 tvg-id="MASTV.gt@SD" tvg-logo="https://i.imgur.com/3XuwlkQ.jpg" group-title="General",MAS TV
@@ -2501,6 +2507,8 @@ https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8
 https://movil.ejeserver.com/live/masmusica.m3u8
 #EXTINF:-1 tvg-id="MasterTV.pe@SD" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="General",Master TV (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="MasterVideo.pr@SD" tvg-logo="https://i.imgur.com/0jj9Vx0.png" group-title="Religious",Master Video (1080p)
+https://eco.streams.ovh:8081/mastervideotv/index.m3u8
 #EXTINF:-1 tvg-id="MAXAnime.ve@SD" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Animation",MAX Anime (1080p)
 https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Maxcine2.us@HD" tvg-logo="https://gia.tv/streams/pptv/209163.png" group-title="Movies",Maxcine 2 (720p)
@@ -2799,8 +2807,6 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8
 #EXTINF:-1 tvg-id="NGFederal.ar@SD" tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="General",NG Federal (720p)
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NGRadioTV.pr@SD" tvg-logo="https://i.imgur.com/KsNI3vQ.jpg" group-title="Religious",NG Radio TV (360p)
-https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Entertainment",NHK World Premium (720p)
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png" group-title="Kids",Nick Jr. Club (United States) LatAm (720p)
@@ -2859,8 +2865,6 @@ https://stream1.bitred.cl/ntn24/index.m3u8
 https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-logo="https://i.imgur.com/JoGQqmP.png" group-title="General",Nuestra Tele Internacional (1080p)
 http://45.173.231.22:8000/play/a0cr/index.m3u8
-#EXTINF:-1 tvg-id="NuevaVidaFM.pr@SD" tvg-logo="https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png" group-title="Music;Religious",Nueva Vida FM (720p)
-https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="NuevaVision14.do@HD" tvg-logo="https://imgur.com/0fWQS53.png" group-title="General",Nueva Vision 14 (1080p) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
 #EXTINF:-1 tvg-id="NueveTV.mx@SD" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="General",Nueve TV (720p)
@@ -2927,6 +2931,8 @@ https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/022/playlist.m3
 http://45.224.97.181:9999/Oromar/index.m3u8
 #EXTINF:-1 tvg-id="OromarTVPlus.ec@SD" tvg-logo="https://oromartv.com/images/OTV400.png" group-title="General",Oromar TV+ (720p)
 https://stream.oromar.tv/hls/camriva/index.m3u8
+#EXTINF:-1 tvg-id="OsornoTV.cl@SD" tvg-logo="https://i.imgur.com/0ELjva6.png" group-title="General",Osorno TV (1080p)
+https://envivo.osornotv.cl/memfs/cb5800be-330b-40c9-8519-af788c7e29eb.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe@SD" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OviedoTV.py@SD" tvg-logo="https://i.imgur.com/6OlfgSQ.png" group-title="General",Oviedo TV
@@ -2943,6 +2949,8 @@ http://138.59.227.20:8000/play/a05t/index.m3u8
 http://15.204.246.24:8080/PalenqueTVSD/index.m3u8
 #EXTINF:-1 tvg-id="PalmarTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg" group-title="General",Palmar TV [Not 24/7]
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
+#EXTINF:-1 tvg-id="PalMundoFM.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1803_PalMundo_FM.png" group-title="Music",PalMundo FM (1080p)
+https://streampanelcp.palmundofm.cl/hls/palmundofm/visual/hd.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Panamericana_2020.png/1280px-Logo_Panamericana_2020.png" group-title="General",Panamericana TV (1080p)
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-id="PancTV.ar@SD" tvg-logo="https://i.imgur.com/u1dnEVv.png" group-title="General",Panc TV (720p) [Not 24/7]
@@ -3281,6 +3289,8 @@ https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 https://v2.tustreaming.cl/armoniamovil/index.m3u8
 #EXTINF:-1 tvg-id="RadioBocairentTV.es@SD" tvg-logo="https://i.imgur.com/MzUQtrl.png" group-title="General",Radio Bocairent TV (1080p) [Not 24/7]
 http://185.81.77.4/BocairentTV/index.m3u8
+#EXTINF:-1 tvg-id="RadioBohemiaTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1776_Radio_Bohemia_TV.png" group-title="General",Radio Bohemia TV (1080p)
+https://portalstream.cl:8080/bohemia1.m3u8
 #EXTINF:-1 tvg-id="RadioBonita1067.ec@SD" tvg-logo="https://i.imgur.com/IvZtqyz.png" group-title="Music",Radio Bonita 106.7 (720p)
 https://cloudvideo.servers10.com:8081/8154/index.m3u8
 #EXTINF:-1 tvg-id="RadioCarnavalTV.es@SD" tvg-logo="https://i.imgur.com/cdpbkSo.png" group-title="Entertainment;Music",Radio Carnaval TV (720p) [Not 24/7]
@@ -3325,8 +3335,8 @@ https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
 https://www.idealfm104-7.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="RadioImpacto2.ec@SD" tvg-logo="https://i.imgur.com/YvK1hm7.png" group-title="Undefined",Radio Impacto 2 (288p) [Not 24/7]
 https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioIslaTV.pr@SD" tvg-logo="https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png" group-title="News",Radio Isla TV (720p)
-https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioIslaTV.pr@SD" tvg-logo="https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png" group-title="News",Radio Isla TV (1080p)
+https://panel2.videocontentstreaming.com/live/4fd37e086394ac7e11a87acbc55e8f91.m3u8
 #EXTINF:-1 tvg-id="RadioKollasuyo.bo@SD" tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2022/08/01/rk-white-500.png" group-title="General",Radio Kollasuyo (720p)
 https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
 #EXTINF:-1 tvg-id="RadioLaSerenaTV.cl@SD" tvg-logo="https://i.imgur.com/65ftM3v.png" group-title="Music",Radio La Serena TV (720p)
@@ -3489,6 +3499,8 @@ http://190.128.214.97:64333/play/a05o/index.m3u8
 https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8
 #EXTINF:-1 tvg-id="RepublicaTV.py@SD" tvg-logo="https://i.ibb.co/qYRw4JP/Captura.png" group-title="General",Republica TV (720p)
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RetrovisionTV.do@HD" tvg-logo="https://retrovisionmia.com/assets/retrovision-logo-BHToA3lv.png" group-title="General",Retro vision TV (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/retrovision/retrovision/playlist.m3u8
 #EXTINF:-1 tvg-id="RetromusicaTelevision.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1765_Retromusica_Television.png" group-title="Music",Retromusica Television (720p)
 https://vdochile.com:3864/stream/play.m3u8
 #EXTINF:-1 tvg-id="RetroxTV.cr@SD" tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Classic",Retrox TV (720p) [Not 24/7]
@@ -3680,7 +3692,7 @@ http://200.115.120.1:8000/play/ca82266/index.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Documentary",Smithsonian Channel Pluto TV LatAm
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 #EXTINF:-1 tvg-id="SNT.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="General",SNT (720p)
-https://tv.mitvparaguay.com/hls?id=snt&device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525&output=ts
+https://tv.mitvparaguay.com/hls?device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525&id=snt&output=ts
 #EXTINF:-1 tvg-id="SolMusica.es@SD" tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Music",Sol Musica (720p)
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-id="SolTV.bo@SD" tvg-logo="https://i.imgur.com/2m8PVpA.png" group-title="General",Sol TV (Bolivia) (720p)
@@ -3837,6 +3849,8 @@ https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 https://redirector.dps.live/hls/t13/playlist.m3u8
 #EXTINF:-1 tvg-id="TVinet.cl@SD" tvg-logo="https://i.imgur.com/KisHIpA.png" group-title="Undefined",T-Vinet (480p)
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TainoLiveTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4090-294x165-FFFFFF.jpg" group-title="General",Taino Live TV (1080p) [Not 24/7]
+https://tainolivetv.com/hls/taino2026.m3u8
 #EXTINF:-1 tvg-id="TalangaTVCanal39.hn@SD" tvg-logo="https://i.imgur.com/5GiUzHC.jpg" group-title="Family",Talanga TV Canal 39 (480p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8
 #EXTINF:-1 tvg-id="TAMTV.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png" group-title="General",TAM TV
@@ -3881,6 +3895,8 @@ https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8
 http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8
 #EXTINF:-1 tvg-id="TeleAntillas.do@SD" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="General",Tele Antillas (480p)
 https://hls.tvabierta.net/hls/010.m3u8
+#EXTINF:-1 tvg-id="TeleAzul.do@HD" tvg-logo="https://imgur.com/a/cU7MHiu.jpg" group-title="General",Tele Azul (720p) [Not 24/7]
+https://cdn.streamingcpanel.com:3327/live/teleazullive.m3u8
 #EXTINF:-1 tvg-id="TeleDajabonTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3822-294x165-FFFFFF.jpg" group-title="General",Tele Dajabon TV (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleDominicanaTV.do@SD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/teledominicana.png" group-title="Music",Tele Dominicana TV (720p) [Not 24/7]
@@ -3970,7 +3986,7 @@ http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1 tvg-id="TelefeRosario.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/960px-Telefe_Rosario_%282018%29.png" group-title="Undefined",Telefe Rosario (720p) [Geo-blocked]
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 #EXTINF:-1 tvg-id="TelefeSalta.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png" group-title="Undefined",Telefe Salta (720p)
-https://canal11saltatv.unpocodeawita.workers.dev/?output=ts
+https://canal11saltatv.unpocodeawita.workers.dev?output=ts
 #EXTINF:-1 tvg-id="TelefeTucuman.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/960px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="Undefined",Telefe Tucuman (1080p)
 https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Undefined",TeleFormula (720p)
@@ -4823,10 +4839,12 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
 https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8
 #EXTINF:-1 tvg-id="WayraTV.pe@SD" tvg-logo="https://i.imgur.com/eQLRVFp.png" group-title="General",Wayra TV (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
+#EXTINF:-1 tvg-id="WCLO501.pr@SD" tvg-logo="https://publicfiles.fcc.gov/api/manager/download/entity/logo/3255/tv" group-title="Religious",WCLO 50.1 (720p)
+https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.mx@SD" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",WeatherSpy (Mexico) (720p)
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WECN.pr@SD" tvg-logo="https://i.imgur.com/NYBZBY0.png" group-title="Religious",WECN (720p)
-https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
+#EXTINF:-1 tvg-id="WECN.pr@SD" tvg-logo="https://i.imgur.com/NYBZBY0.png" group-title="Religious",WECN (1080p)
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/master.m3u8
 #EXTINF:-1 tvg-id="WELU81.pr@HD" tvg-logo="https://i.imgur.com/42UdwD0.png" group-title="Religious",WELU 8.1 (480p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 tvg-id="WEST.pe@SD" tvg-logo="https://aptcperu.org/wp-content/uploads/2026/04/logoMesa-de-trabajo-1-copia-5.png" group-title="Entertainment",WEST (1080p)
@@ -5531,52 +5549,34 @@ http://138.59.177.78:9999/play/a0o4/index.m3u8
 http://138.59.177.78:9999/play/a0o7/index.m3u8
 #EXTINF:-1,A&E
 http://138.59.177.78:9999/play/a0e2/index.m3u8
-#EXTINF:-1,A&E HD EZ-TRA
-http://138.59.177.78:9999/play/a0k4/index.m3u8
 #EXTINF:-1,A&E-IXP
 http://138.59.177.78:9999/play/a08h/index.m3u8
 #EXTINF:-1,ABC
 http://138.59.177.78:9999/play/a0gj/index.m3u8
-#EXTINF:-1,ABC EZ-TRA
-http://138.59.177.78:9999/play/a0ka/index.m3u8
 #EXTINF:-1,ADULT SWIN-IXP
 http://138.59.177.78:9999/play/a08n/index.m3u8
 #EXTINF:-1,AGROTENDENCIAS
 http://138.59.177.78:9999/play/a0gb/index.m3u8
-#EXTINF:-1,AMC EZ-TRA
-http://138.59.177.78:9999/play/a0k0/index.m3u8
 #EXTINF:-1,AMC-IXP
 http://138.59.177.78:9999/play/a08o/index.m3u8
 #EXTINF:-1,ANIMAL PLANET-IXP
 http://138.59.177.78:9999/play/a09c/index.m3u8
 #EXTINF:-1,ANTENA 3
 http://138.59.177.78:9999/play/a08q/index.m3u8
-#EXTINF:-1,ASNET EZ-TRA
-http://138.59.177.78:9999/play/a0jz/index.m3u8
 #EXTINF:-1,ASNET-IXP
 http://138.59.177.78:9999/play/a0a4/index.m3u8
-#EXTINF:-1,AXN EZ-TRA
-http://138.59.177.78:9999/play/a0i3/index.m3u8
 #EXTINF:-1,AXN-IXP
 http://138.59.177.78:9999/play/a085/index.m3u8
-#EXTINF:-1,AZ CLIC EZ-TRA
-http://138.59.177.78:9999/play/a0jy/index.m3u8
 #EXTINF:-1,AZ CLIC-IXP
 http://138.59.177.78:9999/play/a09d/index.m3u8
 #EXTINF:-1,AZ MUNDO-IXP
 http://138.59.177.78:9999/play/a09h/index.m3u8
-#EXTINF:-1,AZTECA 7 EZ-TRA
-http://138.59.177.78:9999/play/a0jx/index.m3u8
 #EXTINF:-1,AZTECA 7-IXP
 http://138.59.177.78:9999/play/a09s/index.m3u8
 #EXTINF:-1,AZTECA GUATEMALA-IXP
 http://138.59.177.78:9999/play/a0a7/index.m3u8
-#EXTINF:-1,AZTECA HONDURAS EZ-TRA
-http://138.59.177.78:9999/play/a0hv/index.m3u8
 #EXTINF:-1,AZTECA HONDURAS-IXP
 http://138.59.177.78:9999/play/a04i/index.m3u8
-#EXTINF:-1,AZTECA UNO EZ-TRA
-http://138.59.177.78:9999/play/a0hw/index.m3u8
 #EXTINF:-1,AZTECA UNO-IXP
 http://138.59.177.78:9999/play/a04q/index.m3u8
 #EXTINF:-1,Animal Planet
@@ -5585,62 +5585,38 @@ http://138.59.177.78:9999/play/a0e4/index.m3u8
 http://138.59.177.78:9999/play/a0b0/index.m3u8
 #EXTINF:-1,BABY TV-IXP
 http://138.59.177.78:9999/play/a00k/index.m3u8
-#EXTINF:-1,BANDA MAX EZ-TRA
-http://138.59.177.78:9999/play/a0hd/index.m3u8
 #EXTINF:-1,BANDA MAX-IXP
 http://138.59.177.78:9999/play/a090/index.m3u8
-#EXTINF:-1,BITME EZ-TRA
-http://138.59.177.78:9999/play/a0jv/index.m3u8
 #EXTINF:-1,BITME-IXP
 http://138.59.177.78:9999/play/a00l/index.m3u8
 #EXTINF:-1,BLOONBERG
 http://138.59.177.78:9999/play/a0fw/index.m3u8
-#EXTINF:-1,BLOONBERG EZ-TRA
-http://138.59.177.78:9999/play/a0jw/index.m3u8
-#EXTINF:-1,BUNDESLIGA EZ-TRA
-http://138.59.177.78:9999/play/a0hc/index.m3u8
 #EXTINF:-1,BUNDESLIGA-IXP
 http://138.59.177.78:9999/play/a08i/index.m3u8
 #EXTINF:-1,Baby First
 http://138.59.177.78:9999/play/a0d9/index.m3u8
 #EXTINF:-1,CANAL 10 HD
 http://138.59.177.78:9999/play/a022/index.m3u8
-#EXTINF:-1,CANAL 10 HD EZ-TRA
-http://138.59.177.78:9999/play/a0i0/index.m3u8
 #EXTINF:-1,CANAL 5 MX
 http://138.59.177.78:9999/play/a006/index.m3u8
-#EXTINF:-1,CANAL 5 MX EZ-TRA
-http://138.59.177.78:9999/play/a0ju/index.m3u8
 #EXTINF:-1,CANAL 5-IXP
 http://138.59.177.78:9999/play/a00d/index.m3u8
-#EXTINF:-1,CANAL 6 EZ-TRA
-http://138.59.177.78:9999/play/a0jt/index.m3u8
 #EXTINF:-1,CANAL 6-IXP
 http://138.59.177.78:9999/play/a00f/index.m3u8
 #EXTINF:-1,CANAL 7 CR-IXP
 http://138.59.177.78:9999/play/a09e/index.m3u8
 #EXTINF:-1,CANAL 7 GUA
 http://138.59.177.78:9999/play/a0gs/index.m3u8
-#EXTINF:-1,CANAL 7 GUA EZ-TRA
-http://138.59.177.78:9999/play/a0js/index.m3u8
 #EXTINF:-1,CANAL 8-IXP
 http://138.59.177.78:9999/play/a00g/index.m3u8
 #EXTINF:-1,CANAL ANTIGUA
 http://138.59.177.78:9999/play/a0gu/index.m3u8
-#EXTINF:-1,CANAL DE LAS ESTRELLAS EZ-TRA
-http://138.59.177.78:9999/play/a0ht/index.m3u8
 #EXTINF:-1,CANAL DE LAS ESTRELLAS-IXP
 http://138.59.177.78:9999/play/a03r/index.m3u8
-#EXTINF:-1,CANAL TEN EZ-TRA
-http://138.59.177.78:9999/play/a0jq/index.m3u8
 #EXTINF:-1,CANAL TEN-IXP
 http://138.59.177.78:9999/play/a00h/index.m3u8
-#EXTINF:-1,CANAL VTV EZ-TRA
-http://138.59.177.78:9999/play/a0jp/index.m3u8
 #EXTINF:-1,CANAL VTV-IXP
 http://138.59.177.78:9999/play/a00b/index.m3u8
-#EXTINF:-1,CARACOL EZ-TRA
-http://138.59.177.78:9999/play/a0i1/index.m3u8
 #EXTINF:-1,CARACOL-IXP
 http://138.59.177.78:9999/play/a0a8/index.m3u8
 #EXTINF:-1,CARTOON NETWORK-IXP
@@ -5649,36 +5625,22 @@ http://138.59.177.78:9999/play/a00i/index.m3u8
 http://138.59.177.78:9999/play/a00j/index.m3u8
 #EXTINF:-1,CCITV
 http://138.59.177.78:9999/play/a0g7/index.m3u8
-#EXTINF:-1,CCITV EZ-TRA
-http://138.59.177.78:9999/play/a0jm/index.m3u8
 #EXTINF:-1,CHOLUSAT SUR
 http://138.59.177.78:9999/play/a0gc/index.m3u8
-#EXTINF:-1,CHOLUSAT SUR EZ-TRA
-http://138.59.177.78:9999/play/a0jn/index.m3u8
 #EXTINF:-1,CHTV
 http://138.59.177.78:9999/play/a0go/index.m3u8
-#EXTINF:-1,CHTV EZ-TRA
-http://138.59.177.78:9999/play/a0jo/index.m3u8
 #EXTINF:-1,CINE LATINO-IXP
 http://138.59.177.78:9999/play/a07m/index.m3u8
-#EXTINF:-1,CINE MEXICANO EZ-TRA
-http://138.59.177.78:9999/play/a0hh/index.m3u8
 #EXTINF:-1,CINE MEXICANO-IXP
 http://138.59.177.78:9999/play/a07j/index.m3u8
-#EXTINF:-1,CINE PLATINO EZ-TRA
-http://138.59.177.78:9999/play/a0hz/index.m3u8
 #EXTINF:-1,CINE PLATINO-IXP
 http://138.59.177.78:9999/play/a07l/index.m3u8
 #EXTINF:-1,CINECANAL-IXP
 http://138.59.177.78:9999/play/a06y/index.m3u8
-#EXTINF:-1,CINEMAX EZ-TRA
-http://138.59.177.78:9999/play/a0jl/index.m3u8
 #EXTINF:-1,CINEMAX-IXP
 http://138.59.177.78:9999/play/a08p/index.m3u8
 #EXTINF:-1,CITY TV
 http://138.59.177.78:9999/play/a0gi/index.m3u8
-#EXTINF:-1,CITY TV EZ-TRA
-http://138.59.177.78:9999/play/a0jk/index.m3u8
 #EXTINF:-1,CLAN
 http://138.59.177.78:9999/play/a0gq/index.m3u8
 #EXTINF:-1,CLARO SPORT2-IXP
@@ -5689,8 +5651,6 @@ http://138.59.177.78:9999/play/a0f4/index.m3u8
 http://138.59.177.78:9999/play/a0a6/index.m3u8
 #EXTINF:-1,COMEDY CENTRAL-IXP
 http://138.59.177.78:9999/play/a08x/index.m3u8
-#EXTINF:-1,CONCERT CHANNEL EZ-TRA
-http://138.59.177.78:9999/play/a0jj/index.m3u8
 #EXTINF:-1,CONCERT CHANNEL-IXP
 http://138.59.177.78:9999/play/a0a2/index.m3u8
 #EXTINF:-1,CONGRESO HN-IXP
@@ -5723,8 +5683,6 @@ http://138.59.177.78:9999/play/a0b4/index.m3u8
 http://138.59.177.78:9999/play/a0b7/index.m3u8
 #EXTINF:-1,Canal 7 - GUA
 http://138.59.177.78:9999/play/a0do/index.m3u8
-#EXTINF:-1,Canal 7 HD CR EZ-TRA
-http://138.59.177.78:9999/play/a0jr/index.m3u8
 #EXTINF:-1,Canal 7 HD CR_a152
 http://138.59.177.78:9999/play/a0o8/index.m3u8
 #EXTINF:-1,Canal Antigua - GUA
@@ -5747,40 +5705,26 @@ http://138.59.177.78:9999/play/a0bk/index.m3u8
 http://138.59.177.78:9999/play/a0ey/index.m3u8
 #EXTINF:-1,Color Vision 9 - RD
 http://138.59.177.78:9999/play/a0dv/index.m3u8
-#EXTINF:-1,D PELICULAS EZ-TRA
-http://138.59.177.78:9999/play/a0ji/index.m3u8
 #EXTINF:-1,D PELICULAS-IXP
 http://138.59.177.78:9999/play/a072/index.m3u8
-#EXTINF:-1,DEPORTES TVC EZ-TRA
-http://138.59.177.78:9999/play/a0he/index.m3u8
 #EXTINF:-1,DEPORTES TVC IX
 http://138.59.177.78:9999/play/a002/index.m3u8
-#EXTINF:-1,DHE EZ-TRA
-http://138.59.177.78:9999/play/a0kb/index.m3u8
 #EXTINF:-1,DHE-IXP
 http://138.59.177.78:9999/play/a08j/index.m3u8
 #EXTINF:-1,DISCOVERY  SCIENCE
 http://138.59.177.78:9999/play/a0gt/index.m3u8
-#EXTINF:-1,DISCOVERY  SCIENCE  EZ-TRA
-http://138.59.177.78:9999/play/a0jh/index.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL-IXP
 http://138.59.177.78:9999/play/a09p/index.m3u8
 #EXTINF:-1,DISCOVERY KIDS-IXP
 http://138.59.177.78:9999/play/a093/index.m3u8
 #EXTINF:-1,DISCOVERY WORLD-IXP
 http://138.59.177.78:9999/play/a09q/index.m3u8
-#EXTINF:-1,DISNEY JR EZ-TRA
-http://138.59.177.78:9999/play/a0jg/index.m3u8
 #EXTINF:-1,DISNEY JR-IXP
 http://138.59.177.78:9999/play/a00o/index.m3u8
 #EXTINF:-1,DISNEY-IXP
 http://138.59.177.78:9999/play/a00n/index.m3u8
 #EXTINF:-1,DISTRITO COMEDIA
 http://138.59.177.78:9999/play/a005/index.m3u8
-#EXTINF:-1,DISTRITO COMEDIA EZ-TRA
-http://138.59.177.78:9999/play/a0hu/index.m3u8
-#EXTINF:-1,DREAMS WORKS EZ-TRA
-http://138.59.177.78:9999/play/a0jf/index.m3u8
 #EXTINF:-1,DREAMS WORKS-IXP
 http://138.59.177.78:9999/play/a00m/index.m3u8
 #EXTINF:-1,Discovery Channel
@@ -5791,98 +5735,60 @@ http://138.59.177.78:9999/play/a0et/index.m3u8
 http://138.59.177.78:9999/play/a0ax/index.m3u8
 #EXTINF:-1,Disney Jr
 http://138.59.177.78:9999/play/a026/index.m3u8
-#EXTINF:-1,E! EZ-TRA
-http://138.59.177.78:9999/play/a0je/index.m3u8
 #EXTINF:-1,E!-IXP
 http://138.59.177.78:9999/play/a088/index.m3u8
 #EXTINF:-1,EJTV
 http://138.59.177.78:9999/play/a0gp/index.m3u8
-#EXTINF:-1,EJTV EZ-TRA
-http://138.59.177.78:9999/play/a0jd/index.m3u8
-#EXTINF:-1,ENLACE EZ-TRA
-http://138.59.177.78:9999/play/a0jc/index.m3u8
 #EXTINF:-1,ENLACE-IXP
 http://138.59.177.78:9999/play/a0aa/index.m3u8
 #EXTINF:-1,ESPN  4 HD
 http://138.59.177.78:9999/play/a0cv/index.m3u8
-#EXTINF:-1,ESPN 1 EZ-TRA
-http://138.59.177.78:9999/play/a0m1/index.m3u8
 #EXTINF:-1,ESPN 1 IXP
 http://138.59.177.78:9999/play/a003/index.m3u8
-#EXTINF:-1,ESPN 2 EZ-TRA
-http://138.59.177.78:9999/play/a0kt/index.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://138.59.177.78:9999/play/a0fa/index.m3u8
 #EXTINF:-1,ESPN 2 IXP
 http://138.59.177.78:9999/play/a004/index.m3u8
 #EXTINF:-1,ESPN 3
 http://138.59.177.78:9999/play/a0dd/index.m3u8
-#EXTINF:-1,ESPN 3 EZ-TRA
-http://138.59.177.78:9999/play/a0kr/index.m3u8
 #EXTINF:-1,ESPN 3-IXP
 http://138.59.177.78:9999/play/a07v/index.m3u8
-#EXTINF:-1,ESPN 4 EZ-TRA
-http://138.59.177.78:9999/play/a0kd/index.m3u8
 #EXTINF:-1,ESPN 4-IXP
 http://138.59.177.78:9999/play/a07w/index.m3u8
 #EXTINF:-1,ESPN 5
 http://138.59.177.78:9999/play/a0ez/index.m3u8
-#EXTINF:-1,ESPN 5 EZ-TRA
-http://138.59.177.78:9999/play/a0ke/index.m3u8
 #EXTINF:-1,ESPN 5-IXP
 http://138.59.177.78:9999/play/a07x/index.m3u8
 #EXTINF:-1,ESPN 6
 http://138.59.177.78:9999/play/a0cs/index.m3u8
-#EXTINF:-1,ESPN 6 EZ-TRA
-http://138.59.177.78:9999/play/a0kc/index.m3u8
 #EXTINF:-1,ESPN 6-IXP
 http://138.59.177.78:9999/play/a07y/index.m3u8
 #EXTINF:-1,ESPN HD
 http://138.59.177.78:9999/play/a0f9/index.m3u8
 #EXTINF:-1,EUROPA
 http://138.59.177.78:9999/play/a08t/index.m3u8
-#EXTINF:-1,Europa HD EZ-TRA
-http://138.59.177.78:9999/play/a0k1/index.m3u8
 #EXTINF:-1,FILM & ART-IXP
 http://138.59.177.78:9999/play/a08y/index.m3u8
 #EXTINF:-1,FOOD NETWORK
 http://138.59.177.78:9999/play/a091/index.m3u8
-#EXTINF:-1,FOOD NETWORK EZ-TRA
-http://138.59.177.78:9999/play/a0jb/index.m3u8
 #EXTINF:-1,FOX NEWS
 http://138.59.177.78:9999/play/a0fx/index.m3u8
-#EXTINF:-1,FOX NEWS EZ-TRA
-http://138.59.177.78:9999/play/a0ja/index.m3u8
 #EXTINF:-1,FOX SPORT
 http://138.59.177.78:9999/play/a080/index.m3u8
-#EXTINF:-1,FOX SPORT 2 EZ-TRA
-http://138.59.177.78:9999/play/a0i4/index.m3u8
 #EXTINF:-1,FOX SPORT 2-IXP
 http://138.59.177.78:9999/play/a081/index.m3u8
 #EXTINF:-1,FOX SPORT 3-IXP
 http://138.59.177.78:9999/play/a082/index.m3u8
-#EXTINF:-1,FRANCE 24 EZ-TRA
-http://138.59.177.78:9999/play/a0j8/index.m3u8
 #EXTINF:-1,FRANCE 24-IXP
 http://138.59.177.78:9999/play/a0a9/index.m3u8
-#EXTINF:-1,FUTV CR EZ-TRA
-http://138.59.177.78:9999/play/a0j7/index.m3u8
 #EXTINF:-1,FUTV CR-IXP
 http://138.59.177.78:9999/play/a09r/index.m3u8
 #EXTINF:-1,FX
 http://138.59.177.78:9999/play/a0da/index.m3u8
-#EXTINF:-1,FX HD EZ-TRA
-http://138.59.177.78:9999/play/a0k6/index.m3u8
 #EXTINF:-1,FX-IXP
 http://138.59.177.78:9999/play/a08k/index.m3u8
-#EXTINF:-1,Film & arts HD  EZ-TRA
-http://138.59.177.78:9999/play/a0k5/index.m3u8
 #EXTINF:-1,GO TV
 http://138.59.177.78:9999/play/a0g3/index.m3u8
-#EXTINF:-1,GO TV EZ-TRA
-http://138.59.177.78:9999/play/a0j6/index.m3u8
-#EXTINF:-1,GOLDEN EDGE EZ-TRA
-http://138.59.177.78:9999/play/a0j9/index.m3u8
 #EXTINF:-1,GOLDEN EDGE-IXP
 http://138.59.177.78:9999/play/a07p/index.m3u8
 #EXTINF:-1,GOLDEN PREMIER 2-IXP
@@ -5891,22 +5797,14 @@ http://138.59.177.78:9999/play/a094/index.m3u8
 http://138.59.177.78:9999/play/a095/index.m3u8
 #EXTINF:-1,GOLDEN-IXP
 http://138.59.177.78:9999/play/a07u/index.m3u8
-#EXTINF:-1,GOURMET EZ-TRA
-http://138.59.177.78:9999/play/a0j5/index.m3u8
 #EXTINF:-1,GOURMET-IXP
 http://138.59.177.78:9999/play/a08u/index.m3u8
-#EXTINF:-1,GUATEVISION EZ-TRA
-http://138.59.177.78:9999/play/a0hm/index.m3u8
 #EXTINF:-1,GUATEVISION-IXP
 http://138.59.177.78:9999/play/a08w/index.m3u8
 #EXTINF:-1,Golf Channel
 http://138.59.177.78:9999/play/a0b1/index.m3u8
-#EXTINF:-1,Golf Channel HD EZ-TRA
-http://138.59.177.78:9999/play/a0k7/index.m3u8
 #EXTINF:-1,H&H-IXP
 http://138.59.177.78:9999/play/a09j/index.m3u8
-#EXTINF:-1,HBO EXTREME EZ-TRA
-http://138.59.177.78:9999/play/a0j4/index.m3u8
 #EXTINF:-1,HBO EXTREME-IXP
 http://138.59.177.78:9999/play/a09a/index.m3u8
 #EXTINF:-1,HBO FAMILY-IXP
@@ -5919,16 +5817,10 @@ http://138.59.177.78:9999/play/a0bs/index.m3u8
 http://138.59.177.78:9999/play/a098/index.m3u8
 #EXTINF:-1,HBO2-IXP
 http://138.59.177.78:9999/play/a096/index.m3u8
-#EXTINF:-1,HCH EZ-TRA
-http://138.59.177.78:9999/play/a0hf/index.m3u8
 #EXTINF:-1,HCH IXP
 http://138.59.177.78:9999/play/a001/index.m3u8
 #EXTINF:-1,HGTV
 http://138.59.177.78:9999/play/a0fy/index.m3u8
-#EXTINF:-1,HGTV EZ-TRA
-http://138.59.177.78:9999/play/a0i2/index.m3u8
-#EXTINF:-1,HISTORY 2 EZ-TRA
-http://138.59.177.78:9999/play/a0j3/index.m3u8
 #EXTINF:-1,HISTORY 2-IXP
 http://138.59.177.78:9999/play/a084/index.m3u8
 #EXTINF:-1,HISTORY-IXP
@@ -5937,54 +5829,32 @@ http://138.59.177.78:9999/play/a083/index.m3u8
 http://138.59.177.78:9999/play/a09u/index.m3u8
 #EXTINF:-1,HONDURED
 http://138.59.177.78:9999/play/a0g9/index.m3u8
-#EXTINF:-1,HONDURED EZ-TRA
-http://138.59.177.78:9999/play/a0j2/index.m3u8
-#EXTINF:-1,HTV EZ-TRA
-http://138.59.177.78:9999/play/a0hy/index.m3u8
 #EXTINF:-1,HTV-IXP
 http://138.59.177.78:9999/play/a0ac/index.m3u8
 #EXTINF:-1,History Channel
 http://138.59.177.78:9999/play/a0e5/index.m3u8
 #EXTINF:-1,Home Garden Latino
 http://138.59.177.78:9999/play/a0aw/index.m3u8
-#EXTINF:-1,ID CHANNEL EZ-TRA
-http://138.59.177.78:9999/play/a0j1/index.m3u8
 #EXTINF:-1,ID CHANNEL-IXP
 http://138.59.177.78:9999/play/a089/index.m3u8
 #EXTINF:-1,INTI
 http://138.59.177.78:9999/play/a0fu/index.m3u8
-#EXTINF:-1,INTI EZ-TRA
-http://138.59.177.78:9999/play/a0j0/index.m3u8
 #EXTINF:-1,KBS
 http://138.59.177.78:9999/play/a0ge/index.m3u8
-#EXTINF:-1,KBS EZ-TRA
-http://138.59.177.78:9999/play/a0iz/index.m3u8
 #EXTINF:-1,LA LIGA
 http://138.59.177.78:9999/play/a08c/index.m3u8
-#EXTINF:-1,LA LIGA EZ-TRA
-http://138.59.177.78:9999/play/a0hs/index.m3u8
-#EXTINF:-1,LIFE TIME EZ-TRA
-http://138.59.177.78:9999/play/a0iy/index.m3u8
 #EXTINF:-1,LIFE TIME-IXP
 http://138.59.177.78:9999/play/a09b/index.m3u8
-#EXTINF:-1,MARIA VISION EZ-TRA
-http://138.59.177.78:9999/play/a0ho/index.m3u8
 #EXTINF:-1,MARIA VISION-IXP
 http://138.59.177.78:9999/play/a0ab/index.m3u8
 #EXTINF:-1,MAS CHIC-IXP
 http://138.59.177.78:9999/play/a08z/index.m3u8
 #EXTINF:-1,MI MUSICA ROMANTICA
 http://138.59.177.78:9999/play/a0fs/index.m3u8
-#EXTINF:-1,MI MUSICA ROMANTICA EZ-TRA
-http://138.59.177.78:9999/play/a0ix/index.m3u8
 #EXTINF:-1,MILENIO HD
 http://138.59.177.78:9999/play/a0fz/index.m3u8
-#EXTINF:-1,MILENIO HD EZ-TRA
-http://138.59.177.78:9999/play/a0iw/index.m3u8
 #EXTINF:-1,MP
 http://138.59.177.78:9999/play/a0g2/index.m3u8
-#EXTINF:-1,MP EZ-TRA
-http://138.59.177.78:9999/play/a0iv/index.m3u8
 #EXTINF:-1,Multicinema
 http://138.59.177.78:9999/play/a0dh/index.m3u8
 #EXTINF:-1,Multimedios
@@ -5993,32 +5863,24 @@ http://138.59.177.78:9999/play/a0be/index.m3u8
 http://138.59.177.78:9999/play/a086/index.m3u8
 #EXTINF:-1,NBC
 http://138.59.177.78:9999/play/a0gk/index.m3u8
-#EXTINF:-1,NBC EZ-TRA
-http://138.59.177.78:9999/play/a0iu/index.m3u8
 #EXTINF:-1,NICK JR-IXP
 http://138.59.177.78:9999/play/a01a/index.m3u8
 #EXTINF:-1,NICKELODEON-IXP
 http://138.59.177.78:9999/play/a01s/index.m3u8
 #EXTINF:-1,NOVELISMA
 http://138.59.177.78:9999/play/a0gg/index.m3u8
-#EXTINF:-1,NOVELISMA EZ-TRA
-http://138.59.177.78:9999/play/a0it/index.m3u8
 #EXTINF:-1,NUESTRA TELE NCN
 http://138.59.177.78:9999/play/a0gn/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://138.59.177.78:9999/play/a0fd/index.m3u8
 #EXTINF:-1,Nick SIM HD
 http://138.59.177.78:9999/play/a0ef/index.m3u8
-#EXTINF:-1,PANICO EZ-TRA
-http://138.59.177.78:9999/play/a0is/index.m3u8
 #EXTINF:-1,PANICO-IXP
 http://138.59.177.78:9999/play/a07i/index.m3u8
 #EXTINF:-1,PARAMOUNT-IXP
 http://138.59.177.78:9999/play/a07h/index.m3u8
 #EXTINF:-1,PASIONES-IXP
 http://138.59.177.78:9999/play/a08d/index.m3u8
-#EXTINF:-1,PICOSA EZ-TRA
-http://138.59.177.78:9999/play/a0ir/index.m3u8
 #EXTINF:-1,PICOSA-IXP
 http://138.59.177.78:9999/play/a09z/index.m3u8
 #EXTINF:-1,PRUEBA 1
@@ -6039,18 +5901,12 @@ http://138.59.177.78:9999/play/a0bj/index.m3u8
 http://138.59.177.78:9999/play/a0ak/index.m3u8
 #EXTINF:-1,Playboy
 http://138.59.177.78:9999/play/a0bu/index.m3u8
-#EXTINF:-1,Q HUBO TV EZ-TRA
-http://138.59.177.78:9999/play/a0iq/index.m3u8
 #EXTINF:-1,Q HUBO TV-IXP
 http://138.59.177.78:9999/play/a05k/index.m3u8
 #EXTINF:-1,RAI ITALIA
 http://138.59.177.78:9999/play/a0gf/index.m3u8
-#EXTINF:-1,RAI ITALIA EZ-TRA
-http://138.59.177.78:9999/play/a0ip/index.m3u8
 #EXTINF:-1,RCN - GUA
 http://138.59.177.78:9999/play/a0en/index.m3u8
-#EXTINF:-1,RCN NOVELAS EZ-TRA
-http://138.59.177.78:9999/play/a0io/index.m3u8
 #EXTINF:-1,RCN NOVELAS-IXP
 http://138.59.177.78:9999/play/a09g/index.m3u8
 #EXTINF:-1,RNN - RD
@@ -6059,10 +5915,6 @@ http://138.59.177.78:9999/play/a0bd/index.m3u8
 http://138.59.177.78:9999/play/a0gh/index.m3u8
 #EXTINF:-1,RT NOTICIAS
 http://138.59.177.78:9999/play/a0g0/index.m3u8
-#EXTINF:-1,RT NOTICIAS EZ-TRA
-http://138.59.177.78:9999/play/a0in/index.m3u8
-#EXTINF:-1,RURAL EZ-TRA
-http://138.59.177.78:9999/play/a0im/index.m3u8
 #EXTINF:-1,RURAL-IXP
 http://138.59.177.78:9999/play/a08m/index.m3u8
 #EXTINF:-1,SEMILLITAS-IXP
@@ -6093,64 +5945,40 @@ http://138.59.177.78:9999/play/a09f/index.m3u8
 http://138.59.177.78:9999/play/a07f/index.m3u8
 #EXTINF:-1,SUN
 http://138.59.177.78:9999/play/a0gm/index.m3u8
-#EXTINF:-1,SUN EZ-TRA
-http://138.59.177.78:9999/play/a0ik/index.m3u8
 #EXTINF:-1,SUYAPA TV-IXP
 http://138.59.177.78:9999/play/a0ae/index.m3u8
 #EXTINF:-1,Sembrador
 http://138.59.177.78:9999/play/a0di/index.m3u8
-#EXTINF:-1,Sony Movies HD EZ-TRA
-http://138.59.177.78:9999/play/a0k8/index.m3u8
-#EXTINF:-1,Star TVE HD EZ-TRA
-http://138.59.177.78:9999/play/a0k9/index.m3u8
+#EXTINF:-1,SexTream
+http://138.59.177.78:9999/play/a0aj/index.m3u8
 #EXTINF:-1,TBN Enlace
 http://138.59.177.78:9999/play/a02q/index.m3u8
-#EXTINF:-1,TBN Enlace EZ-TRA
-http://138.59.177.78:9999/play/a0il/index.m3u8
 #EXTINF:-1,TCM-IXP
 http://138.59.177.78:9999/play/a07n/index.m3u8
 #EXTINF:-1,TD+2 HD CR
 http://138.59.177.78:9999/play/a0b6/index.m3u8
 #EXTINF:-1,TD+HD CR
 http://138.59.177.78:9999/play/a0b5/index.m3u8
-#EXTINF:-1,TELECADENA EZ-TRA
-http://138.59.177.78:9999/play/a0hl/index.m3u8
 #EXTINF:-1,TELECADENA-IXP
 http://138.59.177.78:9999/play/a00e/index.m3u8
-#EXTINF:-1,TELECEIBA EZ-TRA
-http://138.59.177.78:9999/play/a0hr/index.m3u8
 #EXTINF:-1,TELECEIBA-IXP
 http://138.59.177.78:9999/play/a09y/index.m3u8
 #EXTINF:-1,TELEHIT
 http://138.59.177.78:9999/play/a009/index.m3u8
 #EXTINF:-1,TELEHIT MUSICA
 http://138.59.177.78:9999/play/a00a/index.m3u8
-#EXTINF:-1,TELEHIT MUSICA EZ-TRA
-http://138.59.177.78:9999/play/a0hx/index.m3u8
-#EXTINF:-1,TELEMUNDO EZ-TRA
-http://138.59.177.78:9999/play/a0hb/index.m3u8
-#EXTINF:-1,TELEMUNDO MIAMI EZ-TRA
-http://138.59.177.78:9999/play/a0hn/index.m3u8
 #EXTINF:-1,TELEMUNDO MIAMI-IXP
 http://138.59.177.78:9999/play/a05g/index.m3u8
 #EXTINF:-1,TELEMUNDO-IXP
 http://138.59.177.78:9999/play/a03i/index.m3u8
-#EXTINF:-1,TELESUR EZ-TRA
-http://138.59.177.78:9999/play/a0ii/index.m3u8
 #EXTINF:-1,TELESUR-IXP
 http://138.59.177.78:9999/play/a08f/index.m3u8
 #EXTINF:-1,TELETICA
 http://138.59.177.78:9999/play/a0gd/index.m3u8
-#EXTINF:-1,TELETICA EZ-TRA
-http://138.59.177.78:9999/play/a0ih/index.m3u8
 #EXTINF:-1,TENNIS TV
 http://138.59.177.78:9999/play/a0gl/index.m3u8
-#EXTINF:-1,TENNIS TV EZ-TRA
-http://138.59.177.78:9999/play/a0ig/index.m3u8
 #EXTINF:-1,TLC-IXP
 http://138.59.177.78:9999/play/a0a1/index.m3u8
-#EXTINF:-1,TLNOVELAS EZ-TRA
-http://138.59.177.78:9999/play/a0id/index.m3u8
 #EXTINF:-1,TLNOVELAS-IXP
 http://138.59.177.78:9999/play/a09x/index.m3u8
 #EXTINF:-1,TNT HD
@@ -6165,22 +5993,14 @@ http://138.59.177.78:9999/play/a0ff/index.m3u8
 http://138.59.177.78:9999/play/a061/index.m3u8
 #EXTINF:-1,TOONCAST-IXP
 http://138.59.177.78:9999/play/a02t/index.m3u8
-#EXTINF:-1,TSI EZ-TRA
-http://138.59.177.78:9999/play/a0hj/index.m3u8
 #EXTINF:-1,TSI-IXP
 http://138.59.177.78:9999/play/a00c/index.m3u8
-#EXTINF:-1,TUDN EZ-TRA
-http://138.59.177.78:9999/play/a0hi/index.m3u8
 #EXTINF:-1,TUDN-IXP
 http://138.59.177.78:9999/play/a07z/index.m3u8
-#EXTINF:-1,TURBO EZ-TRA
-http://138.59.177.78:9999/play/a0ie/index.m3u8
 #EXTINF:-1,TURBO-IXP
 http://138.59.177.78:9999/play/a08s/index.m3u8
 #EXTINF:-1,TV AGRO
 http://138.59.177.78:9999/play/a0ga/index.m3u8
-#EXTINF:-1,TV AGRO EZ-TRA
-http://138.59.177.78:9999/play/a0if/index.m3u8
 #EXTINF:-1,TVChile
 http://138.59.177.78:9999/play/a0av/index.m3u8
 #EXTINF:-1,TVE
@@ -6189,62 +6009,38 @@ http://138.59.177.78:9999/play/a0f5/index.m3u8
 http://138.59.177.78:9999/play/a0eq/index.m3u8
 #EXTINF:-1,TYC DEPORTES
 http://138.59.177.78:9999/play/a0g1/index.m3u8
-#EXTINF:-1,TYC DEPORTES EZ-TRA
-http://138.59.177.78:9999/play/a0hk/index.m3u8
 #EXTINF:-1,TeleMicro - RD
 http://138.59.177.78:9999/play/a0du/index.m3u8
 #EXTINF:-1,Telemundo HD
 http://138.59.177.78:9999/play/a0d3/index.m3u8
 #EXTINF:-1,Telemundo-Mundial
 http://138.59.177.78:9999/play/a0ha/index.m3u8
-#EXTINF:-1,Telemundo-Mundial EZ-TRA
-http://138.59.177.78:9999/play/a0ij/index.m3u8
 #EXTINF:-1,Televida RD
 http://138.59.177.78:9999/play/a0bc/index.m3u8
 #EXTINF:-1,Tigo Sports HD
 http://138.59.177.78:9999/play/a0ee/index.m3u8
 #EXTINF:-1,UNE TV-IXP
 http://138.59.177.78:9999/play/a05h/index.m3u8
-#EXTINF:-1,UNICABLE EZ-TRA
-http://138.59.177.78:9999/play/a0hp/index.m3u8
 #EXTINF:-1,UNICABLE-IXP
 http://138.59.177.78:9999/play/a08a/index.m3u8
 #EXTINF:-1,UNIVERSAL
 http://138.59.177.78:9999/play/a08g/index.m3u8
 #EXTINF:-1,UNIVERSAL CINEMA ESTE HD
 http://138.59.177.78:9999/play/a0fj/index.m3u8
-#EXTINF:-1,UNIVERSAL COMEDY EZ-TRA
-http://138.59.177.78:9999/play/a0i9/index.m3u8
 #EXTINF:-1,UNIVERSAL COMEDY-IXP
 http://138.59.177.78:9999/play/a09k/index.m3u8
-#EXTINF:-1,UNIVERSAL CRIME  EZ-TRA
-http://138.59.177.78:9999/play/a0i7/index.m3u8
 #EXTINF:-1,UNIVERSAL CRIME-IXP
 http://138.59.177.78:9999/play/a09l/index.m3u8
 #EXTINF:-1,UNIVERSAL EZ-NET
 http://138.59.177.78:9999/play/a0i5/index.m3u8
-#EXTINF:-1,UNIVERSAL PREMIER 2 EZ-TRA
-http://138.59.177.78:9999/play/a0i8/index.m3u8
 #EXTINF:-1,UNIVERSAL PREMIER 2-IXP
 http://138.59.177.78:9999/play/a09n/index.m3u8
-#EXTINF:-1,UNIVERSAL PREMIER EZ-TRA
-http://138.59.177.78:9999/play/a0i6/index.m3u8
 #EXTINF:-1,UNIVERSAL PREMIER-IXP
 http://138.59.177.78:9999/play/a09m/index.m3u8
-#EXTINF:-1,UNIVERSAL PREMIERE HD EZ-TRA
-http://138.59.177.78:9999/play/a0k2/index.m3u8
-#EXTINF:-1,UNIVERSAL REALITY EZ-TRA
-http://138.59.177.78:9999/play/a0ia/index.m3u8
-#EXTINF:-1,UNIVERSAL REALITY HD EZ-TRA
-http://138.59.177.78:9999/play/a0k3/index.m3u8
 #EXTINF:-1,UNIVERSAL REALITY-IXP
 http://138.59.177.78:9999/play/a09o/index.m3u8
-#EXTINF:-1,UNIVISION EZ-TRA
-http://138.59.177.78:9999/play/a0hg/index.m3u8
 #EXTINF:-1,UNIVISION-IXP
 http://138.59.177.78:9999/play/a03c/index.m3u8
-#EXTINF:-1,USA CHANNEL EZ-TRA
-http://138.59.177.78:9999/play/a0ic/index.m3u8
 #EXTINF:-1,USA CHANNEL-IXP
 http://138.59.177.78:9999/play/a087/index.m3u8
 #EXTINF:-1,USA CHANNEL-IXP (clone)
@@ -6253,8 +6049,6 @@ http://138.59.177.78:9999/play/a0ib/index.m3u8
 http://138.59.177.78:9999/play/a0dj/index.m3u8
 #EXTINF:-1,VIDEO ROLA
 http://138.59.177.78:9999/play/a008/index.m3u8
-#EXTINF:-1,VIDEO ROLA EZ-TRA
-http://138.59.177.78:9999/play/a0hq/index.m3u8
 #EXTINF:-1,VIDEO ROLA-IXP
 http://138.59.177.78:9999/play/a08r/index.m3u8
 #EXTINF:-1,WARNER-IXP
